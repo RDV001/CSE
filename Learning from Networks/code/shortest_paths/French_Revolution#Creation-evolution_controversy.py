@@ -1,0 +1,1 @@
+[["French_Revolution", "Age_of_Enlightenment", "Biology", "Creation-evolution_controversy"], ["French_Revolution", "Age_of_Enlightenment", "Evolution", "Creation-evolution_controversy"]]

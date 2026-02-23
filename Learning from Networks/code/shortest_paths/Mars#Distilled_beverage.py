@@ -1,0 +1,1 @@
+[["Mars", "Carbon_dioxide", "Yeast", "Distilled_beverage"], ["Mars", "Japan", "League_of_Nations", "Distilled_beverage"], ["Mars", "Vietnam", "League_of_Nations", "Distilled_beverage"], ["Mars", "Water", "Ethanol", "Distilled_beverage"]]

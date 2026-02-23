@@ -1,0 +1,1 @@
+[["Pumpkin", "Austria", "Ancient_Rome", "House"], ["Pumpkin", "Beet", "Ancient_Rome", "House"], ["Pumpkin", "Potassium", "Ancient_Rome", "House"], ["Pumpkin", "Latin_America", "Civilization", "House"]]

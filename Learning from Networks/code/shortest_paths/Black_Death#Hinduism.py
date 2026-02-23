@@ -1,0 +1,1 @@
+[["Black_Death", "Asia", "Hinduism"], ["Black_Death", "Culture", "Hinduism"], ["Black_Death", "England", "Hinduism"], ["Black_Death", "Europe", "Hinduism"], ["Black_Death", "India", "Hinduism"], ["Black_Death", "Italy", "Hinduism"], ["Black_Death", "New_Zealand", "Hinduism"], ["Black_Death", "Smallpox", "Hinduism"]]

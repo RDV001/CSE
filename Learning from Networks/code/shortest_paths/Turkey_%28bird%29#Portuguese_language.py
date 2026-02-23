@@ -1,0 +1,1 @@
+[["Turkey_%28bird%29", "Africa", "Portuguese_language"], ["Turkey_%28bird%29", "North_America", "Portuguese_language"]]

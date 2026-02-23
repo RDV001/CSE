@@ -1,0 +1,1 @@
+[["Microsoft_Windows", "Windows_XP", "Asia", "Armenia", "Behistun_Inscription"]]

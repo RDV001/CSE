@@ -1,0 +1,1 @@
+[["Isaac_Newton", "Aristotle", "Bertrand_Russell"], ["Isaac_Newton", "Atheism", "Bertrand_Russell"], ["Isaac_Newton", "Gottfried_Leibniz", "Bertrand_Russell"], ["Isaac_Newton", "John_Maynard_Keynes", "Bertrand_Russell"], ["Isaac_Newton", "Trinity_College%2C_Cambridge", "Bertrand_Russell"], ["Isaac_Newton", "University_of_Cambridge", "Bertrand_Russell"]]

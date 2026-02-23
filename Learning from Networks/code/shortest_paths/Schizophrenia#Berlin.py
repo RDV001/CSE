@@ -1,0 +1,1 @@
+[["Schizophrenia", "Europe", "Berlin"], ["Schizophrenia", "Nazi_Germany", "Berlin"], ["Schizophrenia", "Soviet_Union", "Berlin"]]

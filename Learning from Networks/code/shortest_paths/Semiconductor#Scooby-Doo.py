@@ -1,0 +1,1 @@
+[["Semiconductor", "Electron", "Niels_Bohr", "The_Simpsons", "Scooby-Doo"], ["Semiconductor", "Quantum_mechanics", "Niels_Bohr", "The_Simpsons", "Scooby-Doo"], ["Semiconductor", "Phosphorus", "20th_century", "Tobacco_smoking", "Scooby-Doo"], ["Semiconductor", "Phosphorus", "Fire", "Tobacco_smoking", "Scooby-Doo"]]

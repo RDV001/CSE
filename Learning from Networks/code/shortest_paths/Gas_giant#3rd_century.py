@@ -1,0 +1,1 @@
+[["Gas_giant", "Planet", "20th_century", "3rd_century"], ["Gas_giant", "Planet", "2nd_century", "3rd_century"], ["Gas_giant", "Sun", "Ancient_Greece", "3rd_century"], ["Gas_giant", "Water", "Ancient_Greece", "3rd_century"]]

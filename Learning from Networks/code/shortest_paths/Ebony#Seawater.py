@@ -1,0 +1,1 @@
+[["Ebony", "Ancient_Egypt", "Property", "Seawater"], ["Ebony", "Paris", "Cholera", "Seawater"], ["Ebony", "Sri_Lanka", "2004_Indian_Ocean_earthquake", "Seawater"], ["Ebony", "Tree", "Water", "Seawater"], ["Ebony", "Wood", "Water", "Seawater"]]

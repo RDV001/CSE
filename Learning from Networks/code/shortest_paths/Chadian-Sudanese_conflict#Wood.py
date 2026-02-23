@@ -1,0 +1,1 @@
+[["Chadian-Sudanese_conflict", "Burkina_Faso", "Rice", "Wood"], ["Chadian-Sudanese_conflict", "Capital", "Bolivia", "Wood"], ["Chadian-Sudanese_conflict", "Tripoli", "Clothing", "Wood"]]

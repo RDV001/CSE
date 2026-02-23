@@ -1,0 +1,1 @@
+[["Giganotosaurus", "Animal", "Water", "Arab_League"], ["Giganotosaurus", "Argentina", "Lebanon", "Arab_League"], ["Giganotosaurus", "Sydney", "Lebanon", "Arab_League"], ["Giganotosaurus", "Argentina", "Syria", "Arab_League"], ["Giganotosaurus", "Argentina", "Western_Sahara", "Arab_League"], ["Giganotosaurus", "Sydney", "Arabic_language", "Arab_League"]]

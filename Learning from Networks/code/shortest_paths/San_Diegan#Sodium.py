@@ -1,0 +1,1 @@
+[["San_Diegan", "Earthquake", "Magma", "Sodium"], ["San_Diegan", "Pacific_Ocean", "Igneous_rock", "Sodium"], ["San_Diegan", "Train", "Mineral", "Sodium"], ["San_Diegan", "United_States", "Moon", "Sodium"], ["San_Diegan", "United_States", "Nuclear_power", "Sodium"]]

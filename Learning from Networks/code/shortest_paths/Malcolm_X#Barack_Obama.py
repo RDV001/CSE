@@ -1,0 +1,1 @@
+[["Malcolm_X", "Chicago", "University_of_Chicago", "Barack_Obama"]]

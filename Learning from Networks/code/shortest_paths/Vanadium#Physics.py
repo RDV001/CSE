@@ -1,0 +1,1 @@
+[["Vanadium", "Color", "Physics"], ["Vanadium", "Human", "Physics"], ["Vanadium", "Magnetism", "Physics"], ["Vanadium", "Neutron", "Physics"], ["Vanadium", "Periodic_table", "Physics"]]

@@ -1,0 +1,1 @@
+[["Recycling", "Steel", "18th_century", "William_Hogarth"], ["Recycling", "Steel", "England", "William_Hogarth"], ["Recycling", "Waste_management", "Aesthetics", "William_Hogarth"]]

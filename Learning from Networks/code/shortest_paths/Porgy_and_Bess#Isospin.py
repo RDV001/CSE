@@ -1,0 +1,1 @@
+[["Porgy_and_Bess", "Folk_music", "Radio", "Electric_charge", "Isospin"], ["Porgy_and_Bess", "Jazz", "Radio", "Electric_charge", "Isospin"], ["Porgy_and_Bess", "Louis_Armstrong", "Radio", "Electric_charge", "Isospin"], ["Porgy_and_Bess", "The_Beatles", "Radio", "Electric_charge", "Isospin"], ["Porgy_and_Bess", "Moscow", "Photography", "Electric_charge", "Isospin"]]

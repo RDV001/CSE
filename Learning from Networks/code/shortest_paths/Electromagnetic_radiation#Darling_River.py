@@ -1,0 +1,1 @@
+[["Electromagnetic_radiation", "Albert_Einstein", "United_States", "List_of_rivers_by_length", "Darling_River"], ["Electromagnetic_radiation", "Speed_of_light", "United_States", "List_of_rivers_by_length", "Darling_River"], ["Electromagnetic_radiation", "Speed_of_light", "Australia", "Kangaroo", "Darling_River"]]

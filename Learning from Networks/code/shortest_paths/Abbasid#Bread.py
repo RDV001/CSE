@@ -1,0 +1,1 @@
+[["Abbasid", "Aristotle", "Ancient_Greece", "Bread"], ["Abbasid", "Byzantine_Empire", "Ancient_Greece", "Bread"], ["Abbasid", "Euclid", "Ancient_Greece", "Bread"], ["Abbasid", "Egypt", "Cereal", "Bread"], ["Abbasid", "Syria", "Cereal", "Bread"]]

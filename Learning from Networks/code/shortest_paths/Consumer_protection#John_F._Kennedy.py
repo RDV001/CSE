@@ -1,0 +1,1 @@
+[["Consumer_protection", "United_States", "John_F._Kennedy"]]

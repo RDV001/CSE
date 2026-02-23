@@ -1,0 +1,1 @@
+[["Columba", "Roman_Catholic_Church", "Condoleezza_Rice", "Actor"], ["Columba", "Roman_Catholic_Church", "William_Shakespeare", "Actor"]]

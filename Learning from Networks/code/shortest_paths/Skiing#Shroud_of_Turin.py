@@ -1,0 +1,1 @@
+[["Skiing", "19th_century", "Jesus", "Shroud_of_Turin"], ["Skiing", "Finland", "Roman_Catholic_Church", "Shroud_of_Turin"], ["Skiing", "France", "Roman_Catholic_Church", "Shroud_of_Turin"]]

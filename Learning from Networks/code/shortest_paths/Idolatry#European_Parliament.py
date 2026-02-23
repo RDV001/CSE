@@ -1,0 +1,1 @@
+[["Idolatry", "Nationalism", "European_Union", "European_Parliament"]]

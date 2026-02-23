@@ -1,0 +1,1 @@
+[["Stonehenge", "Madagascar", "Qatar", "Al_Jazeera"], ["Stonehenge", "United_States", "Qatar", "Al_Jazeera"], ["Stonehenge", "United_States", "September_11%2C_2001_attacks", "Al_Jazeera"], ["Stonehenge", "Wales", "Formula_One", "Al_Jazeera"], ["Stonehenge", "Wales", "Tony_Blair", "Al_Jazeera"]]

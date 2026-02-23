@@ -1,0 +1,1 @@
+[["Marie_Curie", "Linus_Pauling", "Biology", "Genetic_code"], ["Marie_Curie", "Physics", "Biology", "Genetic_code"], ["Marie_Curie", "Linus_Pauling", "Francis_Crick", "Genetic_code"], ["Marie_Curie", "Linus_Pauling", "Protein", "Genetic_code"]]

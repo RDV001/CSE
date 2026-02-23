@@ -1,0 +1,1 @@
+[["Turmeric", "Binomial_nomenclature", "Sweden", "1973_oil_crisis"], ["Turmeric", "Carolus_Linnaeus", "Sweden", "1973_oil_crisis"]]

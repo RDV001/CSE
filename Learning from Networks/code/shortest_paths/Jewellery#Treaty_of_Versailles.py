@@ -1,0 +1,1 @@
+[["Jewellery", "War", "Treaty_of_Versailles"]]

@@ -1,0 +1,1 @@
+[["Sputnik_1", "New_York_City", "Cairo", "Actor"], ["Sputnik_1", "United_Nations", "Cairo", "Actor"], ["Sputnik_1", "New_York_City", "William_Shakespeare", "Actor"], ["Sputnik_1", "United_States", "Elvis_Presley", "Actor"], ["Sputnik_1", "United_States", "Film", "Actor"]]

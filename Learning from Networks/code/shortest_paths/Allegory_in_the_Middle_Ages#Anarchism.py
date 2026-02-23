@@ -1,0 +1,1 @@
+[["Allegory_in_the_Middle_Ages", "God", "Marxism", "Anarchism"], ["Allegory_in_the_Middle_Ages", "God", "Taoism", "Anarchism"], ["Allegory_in_the_Middle_Ages", "Middle_Ages", "Capitalism", "Anarchism"]]

@@ -1,0 +1,1 @@
+[["Mount_Pinatubo", "Agriculture", "Soil"], ["Mount_Pinatubo", "Antarctica", "Soil"], ["Mount_Pinatubo", "Dam", "Soil"], ["Mount_Pinatubo", "Forest", "Soil"], ["Mount_Pinatubo", "Rice", "Soil"]]

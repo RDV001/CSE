@@ -1,0 +1,1 @@
+[["George_VI_of_the_United_Kingdom", "World_War_II", "Election"]]

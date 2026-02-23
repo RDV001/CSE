@@ -1,0 +1,1 @@
+[["Himno_Nacional_Mexicano", "Cuba", "Karl_Marx", "Das_Kapital"], ["Himno_Nacional_Mexicano", "Germany", "Karl_Marx", "Das_Kapital"], ["Himno_Nacional_Mexicano", "Germany", "Capitalism", "Das_Kapital"], ["Himno_Nacional_Mexicano", "United_States", "Capitalism", "Das_Kapital"]]

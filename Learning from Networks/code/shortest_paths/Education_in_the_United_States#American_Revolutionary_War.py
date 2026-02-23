@@ -1,0 +1,1 @@
+[["Education_in_the_United_States", "United_States", "American_Revolutionary_War"], ["Education_in_the_United_States", "United_States_Declaration_of_Independence", "American_Revolutionary_War"], ["Education_in_the_United_States", "United_States_dollar", "American_Revolutionary_War"]]

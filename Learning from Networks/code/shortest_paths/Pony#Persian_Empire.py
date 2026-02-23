@@ -1,0 +1,1 @@
+[["Pony", "Horse", "Asia", "Persian_Empire"], ["Pony", "Horse", "Romania", "Persian_Empire"], ["Pony", "Ireland", "Romania", "Persian_Empire"], ["Pony", "Ireland", "19th_century", "Persian_Empire"], ["Pony", "Ireland", "Africa", "Persian_Empire"], ["Pony", "Ireland", "Judaism", "Persian_Empire"], ["Pony", "Ireland", "Ptolemy", "Persian_Empire"]]

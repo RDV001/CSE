@@ -1,0 +1,1 @@
+[["New_England_Patriots", "Elvis_Presley", "Adolf_Hitler", "Swastika", "Giant_Panda"]]

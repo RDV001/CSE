@@ -1,0 +1,1 @@
+[["Pakistan", "Football", "North_America"], ["Pakistan", "France", "North_America"], ["Pakistan", "Iran", "North_America"], ["Pakistan", "Manufacturing", "North_America"], ["Pakistan", "Russia", "North_America"], ["Pakistan", "Saudi_Arabia", "North_America"], ["Pakistan", "Steel", "North_America"]]

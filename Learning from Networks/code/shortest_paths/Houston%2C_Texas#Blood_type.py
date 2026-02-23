@@ -1,0 +1,1 @@
+[["Houston%2C_Texas", "Slavery", "Cholera", "Blood_type"], ["Houston%2C_Texas", "United_States", "Iceland", "Blood_type"], ["Houston%2C_Texas", "Woodrow_Wilson", "Stroke", "Blood_type"]]

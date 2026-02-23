@@ -1,0 +1,1 @@
+[["Numismatics", "France", "Antarctica", "Antarctic_krill"], ["Numismatics", "United_States", "Antarctica", "Antarctic_krill"]]

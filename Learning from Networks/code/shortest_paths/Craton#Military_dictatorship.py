@@ -1,0 +1,1 @@
+[["Craton", "Continent", "Africa", "Military_dictatorship"]]

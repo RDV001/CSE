@@ -1,0 +1,1 @@
+[["Laozi", "Plato", "Oligarchy"]]

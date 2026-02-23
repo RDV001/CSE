@@ -1,0 +1,1 @@
+[["Crime", "Culture", "Israel", "Dead_Sea"], ["Crime", "Law", "Israel", "Dead_Sea"], ["Crime", "Terrorism", "Jerusalem", "Dead_Sea"]]

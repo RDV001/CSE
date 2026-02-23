@@ -1,0 +1,1 @@
+[["Isan", "Architecture", "Sculpture", "Stained_glass"], ["Isan", "Art", "Sculpture", "Stained_glass"], ["Isan", "English_language", "Liverpool", "Stained_glass"], ["Isan", "Mesopotamia", "Glass", "Stained_glass"], ["Isan", "Sand", "Glass", "Stained_glass"]]

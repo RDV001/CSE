@@ -1,0 +1,1 @@
+[["Bob_Dylan", "Chicago", "Bulgaria"], ["Bob_Dylan", "Europe", "Bulgaria"], ["Bob_Dylan", "Russia", "Bulgaria"], ["Bob_Dylan", "Ukraine", "Bulgaria"]]

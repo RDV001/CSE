@@ -1,0 +1,1 @@
+[["Yagan", "Archaeology", "New_York_City", "U.S._Open_%28tennis%29"], ["Yagan", "London", "New_York_City", "U.S._Open_%28tennis%29"], ["Yagan", "Australia", "Australian_Open", "U.S._Open_%28tennis%29"], ["Yagan", "Australia", "Grand_Slam_%28tennis%29", "U.S._Open_%28tennis%29"], ["Yagan", "London", "The_Championships%2C_Wimbledon", "U.S._Open_%28tennis%29"]]

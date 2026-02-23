@@ -1,0 +1,1 @@
+[["Holmium", "Dysprosium", "Paris", "Tour_de_France"], ["Holmium", "Neutron", "Paris", "Tour_de_France"], ["Holmium", "Nuclear_fission", "Paris", "Tour_de_France"], ["Holmium", "Human", "Madrid", "Tour_de_France"]]

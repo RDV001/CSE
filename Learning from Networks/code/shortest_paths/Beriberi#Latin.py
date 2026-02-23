@@ -1,0 +1,1 @@
+[["Beriberi", "Asia", "Latin"], ["Beriberi", "Emotion", "Latin"], ["Beriberi", "Germany", "Latin"], ["Beriberi", "Medicine", "Latin"], ["Beriberi", "Rice", "Latin"], ["Beriberi", "Science", "Latin"]]

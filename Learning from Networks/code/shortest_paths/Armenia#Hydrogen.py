@@ -1,0 +1,1 @@
+[["Armenia", "Gold", "Hydrogen"], ["Armenia", "Petroleum", "Hydrogen"], ["Armenia", "United_Kingdom", "Hydrogen"]]

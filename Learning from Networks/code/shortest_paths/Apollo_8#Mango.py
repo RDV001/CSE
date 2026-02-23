@@ -1,0 +1,1 @@
+[["Apollo_8", "Atheism", "India", "Mango"], ["Apollo_8", "Helium", "India", "Mango"], ["Apollo_8", "Florida", "Fruit", "Mango"], ["Apollo_8", "Paris", "Yemen", "Mango"]]

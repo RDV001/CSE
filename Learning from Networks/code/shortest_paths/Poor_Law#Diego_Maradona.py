@@ -1,0 +1,1 @@
+[["Poor_Law", "England", "FIFA_World_Cup", "Diego_Maradona"], ["Poor_Law", "Ireland", "FIFA_World_Cup", "Diego_Maradona"], ["Poor_Law", "United_Kingdom", "Argentina", "Diego_Maradona"]]

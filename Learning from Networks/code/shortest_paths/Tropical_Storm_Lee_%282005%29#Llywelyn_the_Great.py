@@ -1,0 +1,1 @@
+[["Tropical_Storm_Lee_%282005%29", "Bermuda", "British_monarchy", "John_of_England", "Llywelyn_the_Great"]]

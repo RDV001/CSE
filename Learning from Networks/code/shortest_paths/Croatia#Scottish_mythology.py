@@ -1,0 +1,1 @@
+[["Croatia", "Andorra", "Folklore", "Scottish_mythology"], ["Croatia", "Finland", "Folklore", "Scottish_mythology"], ["Croatia", "Poland", "Folklore", "Scottish_mythology"]]

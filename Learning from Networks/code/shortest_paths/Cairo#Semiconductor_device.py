@@ -1,0 +1,1 @@
+[["Cairo", "Israel", "Electronics", "Semiconductor_device"], ["Cairo", "Paris", "Electronics", "Semiconductor_device"], ["Cairo", "United_States", "Electronics", "Semiconductor_device"], ["Cairo", "Israel", "Semiconductor", "Semiconductor_device"]]

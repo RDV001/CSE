@@ -1,0 +1,1 @@
+[["Sakurajima", "Earthquake", "United_Kingdom", "The_Beatles"], ["Sakurajima", "Japan", "United_Kingdom", "The_Beatles"], ["Sakurajima", "United_Nations", "United_Kingdom", "The_Beatles"]]

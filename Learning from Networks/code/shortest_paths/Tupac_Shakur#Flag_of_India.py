@@ -1,0 +1,1 @@
+[["Tupac_Shakur", "Los_Angeles%2C_California", "India", "Flag_of_India"], ["Tupac_Shakur", "Poverty", "India", "Flag_of_India"], ["Tupac_Shakur", "South_Africa", "India", "Flag_of_India"], ["Tupac_Shakur", "United_States", "India", "Flag_of_India"], ["Tupac_Shakur", "United_States", "List_of_sovereign_states", "Flag_of_India"]]

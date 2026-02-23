@@ -1,0 +1,1 @@
+[["Real_tennis", "16th_century", "Opera", "The_Rite_of_Spring"], ["Real_tennis", "Australia", "Opera", "The_Rite_of_Spring"], ["Real_tennis", "Paris", "Opera", "The_Rite_of_Spring"], ["Real_tennis", "United_Kingdom", "Opera", "The_Rite_of_Spring"], ["Real_tennis", "Paris", "Igor_Stravinsky", "The_Rite_of_Spring"]]

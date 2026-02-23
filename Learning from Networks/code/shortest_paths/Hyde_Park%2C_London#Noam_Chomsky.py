@@ -1,0 +1,1 @@
+[["Hyde_Park%2C_London", "London", "Mass_media", "Noam_Chomsky"], ["Hyde_Park%2C_London", "Samuel_Taylor_Coleridge", "Philosophy", "Noam_Chomsky"], ["Hyde_Park%2C_London", "The_Rolling_Stones", "Nicaragua", "Noam_Chomsky"], ["Hyde_Park%2C_London", "United_Kingdom", "Capitalism", "Noam_Chomsky"]]

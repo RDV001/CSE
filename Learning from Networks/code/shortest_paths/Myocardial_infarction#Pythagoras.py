@@ -1,0 +1,1 @@
+[["Myocardial_infarction", "Education", "Geography", "Pythagoras"], ["Myocardial_infarction", "Oxygen", "Alchemy", "Pythagoras"], ["Myocardial_infarction", "United_States", "Greece", "Pythagoras"]]

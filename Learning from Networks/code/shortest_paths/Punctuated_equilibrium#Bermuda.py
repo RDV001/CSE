@@ -1,0 +1,1 @@
+[["Punctuated_equilibrium", "Stephen_Jay_Gould", "Bermuda"]]

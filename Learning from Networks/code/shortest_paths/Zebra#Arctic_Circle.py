@@ -1,0 +1,1 @@
+[["Zebra", "Africa", "Earth", "Arctic_Circle"], ["Zebra", "Africa", "Temperate", "Arctic_Circle"], ["Zebra", "Horse", "Clothing", "Arctic_Circle"]]

@@ -1,0 +1,1 @@
+[["Bald_Eagle", "Bible", "Christianity", "Sermon_on_the_Mount"], ["Bald_Eagle", "Canada", "Christianity", "Sermon_on_the_Mount"], ["Bald_Eagle", "Bible", "Jesus", "Sermon_on_the_Mount"], ["Bald_Eagle", "United_States", "Religious_Society_of_Friends", "Sermon_on_the_Mount"]]

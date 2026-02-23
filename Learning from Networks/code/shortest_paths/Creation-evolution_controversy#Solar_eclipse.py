@@ -1,0 +1,1 @@
+[["Creation-evolution_controversy", "Albert_Einstein", "Solar_eclipse"], ["Creation-evolution_controversy", "Moon", "Solar_eclipse"], ["Creation-evolution_controversy", "Norse_mythology", "Solar_eclipse"]]

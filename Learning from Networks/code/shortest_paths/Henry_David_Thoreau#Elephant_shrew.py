@@ -1,0 +1,1 @@
+[["Henry_David_Thoreau", "Ecology", "Mammal", "Elephant_shrew"], ["Henry_David_Thoreau", "Tuberculosis", "Mammal", "Elephant_shrew"]]

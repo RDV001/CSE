@@ -1,0 +1,1 @@
+[["Soil_science", "Chemistry", "Oxygen"], ["Soil_science", "Earth", "Oxygen"], ["Soil_science", "Waste_management", "Oxygen"]]

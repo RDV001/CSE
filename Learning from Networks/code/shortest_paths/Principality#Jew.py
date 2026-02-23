@@ -1,0 +1,1 @@
+[["Principality", "20th_century", "Jew"], ["Principality", "Germany", "Jew"], ["Principality", "Spain", "Jew"], ["Principality", "World_War_II", "Jew"]]

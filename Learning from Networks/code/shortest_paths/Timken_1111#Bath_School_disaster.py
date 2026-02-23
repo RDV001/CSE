@@ -1,0 +1,1 @@
+[["Timken_1111", "Seattle%2C_Washington", "Ice_hockey", "The_Simpsons", "Doom", "Columbine_High_School_massacre", "Bath_School_disaster"], ["Timken_1111", "Seattle%2C_Washington", "Nintendo", "Computer_and_video_games", "Doom", "Columbine_High_School_massacre", "Bath_School_disaster"]]

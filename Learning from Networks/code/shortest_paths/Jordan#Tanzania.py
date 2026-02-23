@@ -1,0 +1,1 @@
+[["Jordan", "Arab_League", "Tanzania"], ["Jordan", "Egypt", "Tanzania"], ["Jordan", "English_language", "Tanzania"], ["Jordan", "Great_Rift_Valley", "Tanzania"], ["Jordan", "Israel", "Tanzania"], ["Jordan", "List_of_countries_by_system_of_government", "Tanzania"], ["Jordan", "Saudi_Arabia", "Tanzania"], ["Jordan", "United_States", "Tanzania"]]

@@ -1,0 +1,1 @@
+[["Acts_of_Union_1707", "England", "Middle_East", "Gaza_Strip"], ["Acts_of_Union_1707", "Pound_sterling", "Egypt", "Gaza_Strip"], ["Acts_of_Union_1707", "Pound_sterling", "Israel", "Gaza_Strip"]]

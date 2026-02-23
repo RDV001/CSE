@@ -1,0 +1,1 @@
+[["Conakry", "Atlantic_Ocean", "Argentina", "Wood"], ["Conakry", "Banana", "Clothing", "Wood"], ["Conakry", "Banana", "Plant", "Wood"], ["Conakry", "Banana", "Rice", "Wood"], ["Conakry", "Banana", "Tree", "Wood"], ["Conakry", "Capital", "Bolivia", "Wood"]]

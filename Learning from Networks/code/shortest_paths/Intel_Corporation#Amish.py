@@ -1,0 +1,1 @@
+[["Intel_Corporation", "Argentina", "German_language", "Amish"], ["Intel_Corporation", "Israel", "German_language", "Amish"], ["Intel_Corporation", "United_States", "German_language", "Amish"], ["Intel_Corporation", "United_States", "Peace", "Amish"]]

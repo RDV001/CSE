@@ -1,0 +1,1 @@
+[["Pitcairn_Islands", "Banana", "Tropics", "Mount_Kilimanjaro"], ["Pitcairn_Islands", "English_language", "Tanzania", "Mount_Kilimanjaro"], ["Pitcairn_Islands", "List_of_countries_by_system_of_government", "Tanzania", "Mount_Kilimanjaro"], ["Pitcairn_Islands", "United_States", "Tanzania", "Mount_Kilimanjaro"]]

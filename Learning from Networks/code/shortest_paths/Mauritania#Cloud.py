@@ -1,0 +1,1 @@
+[["Mauritania", "Atlantic_Ocean", "Falkland_Islands", "Cloud"], ["Mauritania", "Atlantic_Ocean", "Tropical_cyclone", "Cloud"], ["Mauritania", "Bolivia", "Silver", "Cloud"], ["Mauritania", "France", "Internet", "Cloud"], ["Mauritania", "Petroleum", "Climate_change", "Cloud"], ["Mauritania", "Sahara", "Rain", "Cloud"]]

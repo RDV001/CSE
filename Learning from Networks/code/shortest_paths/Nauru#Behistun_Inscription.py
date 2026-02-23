@@ -1,0 +1,1 @@
+[["Nauru", "Afghanistan", "Armenia", "Behistun_Inscription"], ["Nauru", "List_of_countries_by_system_of_government", "Armenia", "Behistun_Inscription"], ["Nauru", "Roman_Catholic_Church", "Propaganda", "Behistun_Inscription"]]

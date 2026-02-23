@@ -1,0 +1,1 @@
+[["British_Indian_Ocean_Territory", "19th_century", "21st_century", "Hurricane_Charley"], ["British_Indian_Ocean_Territory", "Bermuda", "Florida", "Hurricane_Charley"], ["British_Indian_Ocean_Territory", "United_States", "Florida", "Hurricane_Charley"], ["British_Indian_Ocean_Territory", "Cayman_Islands", "Hurricane_Ivan", "Hurricane_Charley"]]

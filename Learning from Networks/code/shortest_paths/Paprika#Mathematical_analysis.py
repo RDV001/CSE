@@ -1,0 +1,1 @@
+[["Paprika", "Germany", "Carl_Friedrich_Gauss", "Mathematical_analysis"], ["Paprika", "Germany", "Georg_Cantor", "Mathematical_analysis"], ["Paprika", "Vitamin_C", "History_of_science", "Mathematical_analysis"]]

@@ -1,0 +1,1 @@
+[["Iridium", "Cretaceous", "Insect"], ["Iridium", "Cretaceous-Tertiary_extinction_event", "Insect"]]

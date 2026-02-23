@@ -1,0 +1,1 @@
+[["Elephant_shrew", "Africa", "Atlantic_Ocean", "Amazon_River"], ["Elephant_shrew", "Africa", "Civilization", "Amazon_River"], ["Elephant_shrew", "Africa", "Cocoa", "Amazon_River"], ["Elephant_shrew", "Africa", "Congo_River", "Amazon_River"], ["Elephant_shrew", "Africa", "Nile", "Amazon_River"], ["Elephant_shrew", "Mammal", "South_America", "Amazon_River"]]

@@ -1,0 +1,1 @@
+[["Ramesses_II", "Ancient_Egypt", "Electricity", "William_Thomson%2C_1st_Baron_Kelvin"], ["Ramesses_II", "Slavery", "Irish_people", "William_Thomson%2C_1st_Baron_Kelvin"]]

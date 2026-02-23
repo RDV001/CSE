@@ -1,0 +1,1 @@
+[["Odysseus", "Apollo", "Medicine", "Health"], ["Odysseus", "Virgil", "Medicine", "Health"], ["Odysseus", "Egypt", "Cereal", "Health"], ["Odysseus", "Greece", "Tourism", "Health"], ["Odysseus", "Portugal", "Tourism", "Health"]]

@@ -1,0 +1,1 @@
+[["Saturn_V", "John_F._Kennedy", "Poverty", "Oppression"], ["Saturn_V", "Space_Race", "Poverty", "Oppression"]]

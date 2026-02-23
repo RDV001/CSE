@@ -1,0 +1,1 @@
+[["Glacier", "19th_century", "Literature", "E._E._Cummings", "Krazy_Kat"], ["Glacier", "Water", "Literature", "E._E._Cummings", "Krazy_Kat"], ["Glacier", "Plate_tectonics", "Benjamin_Franklin", "Walt_Disney", "Krazy_Kat"]]

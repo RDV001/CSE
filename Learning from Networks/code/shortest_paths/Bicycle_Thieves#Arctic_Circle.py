@@ -1,0 +1,1 @@
+[["Bicycle_Thieves", "Bicycle", "Sweden", "Arctic_Circle"], ["Bicycle_Thieves", "United_States", "Sweden", "Arctic_Circle"], ["Bicycle_Thieves", "Rome", "Temperate", "Arctic_Circle"], ["Bicycle_Thieves", "United_States", "Iceland", "Arctic_Circle"], ["Bicycle_Thieves", "World_War_II", "Finland", "Arctic_Circle"]]

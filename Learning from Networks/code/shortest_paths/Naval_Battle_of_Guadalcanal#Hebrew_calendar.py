@@ -1,0 +1,1 @@
+[["Naval_Battle_of_Guadalcanal", "New_Zealand", "Judaism", "Hebrew_calendar"], ["Naval_Battle_of_Guadalcanal", "United_States", "Judaism", "Hebrew_calendar"]]

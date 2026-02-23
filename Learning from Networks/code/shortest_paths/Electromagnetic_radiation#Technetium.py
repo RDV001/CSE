@@ -1,0 +1,1 @@
+[["Electromagnetic_radiation", "Atom", "Technetium"]]

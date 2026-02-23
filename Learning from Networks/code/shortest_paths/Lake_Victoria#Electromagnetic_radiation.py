@@ -1,0 +1,1 @@
+[["Lake_Victoria", "Gold", "Color", "Electromagnetic_radiation"], ["Lake_Victoria", "Gold", "Electricity", "Electromagnetic_radiation"], ["Lake_Victoria", "Gold", "Heat", "Electromagnetic_radiation"], ["Lake_Victoria", "Gold", "Magnetism", "Electromagnetic_radiation"], ["Lake_Victoria", "United_Kingdom", "James_Clerk_Maxwell", "Electromagnetic_radiation"]]

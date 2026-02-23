@@ -1,0 +1,1 @@
+[["Cattle", "Canada", "NATO"], ["Cattle", "Europe", "NATO"], ["Cattle", "Poland", "NATO"], ["Cattle", "Portugal", "NATO"], ["Cattle", "Spain", "NATO"], ["Cattle", "Sweden", "NATO"]]

@@ -1,0 +1,1 @@
+[["Deity", "Japan", "Nintendo"]]

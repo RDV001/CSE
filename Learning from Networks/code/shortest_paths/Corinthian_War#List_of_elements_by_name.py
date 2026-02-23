@@ -1,0 +1,1 @@
+[["Corinthian_War", "Ancient_Egypt", "Carbon", "List_of_elements_by_name"], ["Corinthian_War", "Ancient_Egypt", "Copper", "List_of_elements_by_name"], ["Corinthian_War", "Cyprus", "Copper", "List_of_elements_by_name"], ["Corinthian_War", "Ancient_Egypt", "Iron", "List_of_elements_by_name"]]

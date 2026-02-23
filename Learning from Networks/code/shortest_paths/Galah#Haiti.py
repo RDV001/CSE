@@ -1,0 +1,1 @@
+[["Galah", "Australia", "List_of_countries_by_system_of_government", "Haiti"], ["Galah", "Australia", "United_Nations", "Haiti"], ["Galah", "Australia", "United_States", "Haiti"], ["Galah", "Melbourne", "United_States", "Haiti"], ["Galah", "DNA", "Anthropology", "Haiti"], ["Galah", "DNA", "Sugar", "Haiti"], ["Galah", "Melbourne", "Boston%2C_Massachusetts", "Haiti"]]

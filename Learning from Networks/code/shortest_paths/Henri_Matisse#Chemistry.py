@@ -1,0 +1,1 @@
+[["Henri_Matisse", "Cancer", "Alcohol", "Chemistry"], ["Henri_Matisse", "Cancer", "Ultraviolet", "Chemistry"], ["Henri_Matisse", "Color", "Physics", "Chemistry"], ["Henri_Matisse", "Paris", "Education", "Chemistry"]]

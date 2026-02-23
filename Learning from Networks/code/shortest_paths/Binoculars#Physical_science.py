@@ -1,0 +1,1 @@
+[["Binoculars", "Comet", "Phase_%28matter%29", "Physical_science"], ["Binoculars", "Symmetry", "Science", "Physical_science"]]

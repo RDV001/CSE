@@ -1,0 +1,1 @@
+[["Pound_sterling", "United_Kingdom", "Plymouth"]]

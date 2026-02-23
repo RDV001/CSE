@@ -1,0 +1,1 @@
+[["Ukraine", "Industry", "Computer", "BASIC"]]

@@ -1,0 +1,1 @@
+[["Sleep", "Mammal", "Cretaceous-Tertiary_extinction_event", "Plutonium"], ["Sleep", "United_States", "Nuclear_power", "Plutonium"], ["Sleep", "United_States", "Nuclear_weapon", "Plutonium"]]

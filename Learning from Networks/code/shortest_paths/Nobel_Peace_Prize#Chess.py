@@ -1,0 +1,1 @@
+[["Nobel_Peace_Prize", "Bangladesh", "Chess"], ["Nobel_Peace_Prize", "Israel", "Chess"], ["Nobel_Peace_Prize", "Pope_John_Paul_II", "Chess"]]

@@ -1,0 +1,1 @@
+[["Gold_standard", "Asia", "Republic_of_China"], ["Gold_standard", "Franklin_D._Roosevelt", "Republic_of_China"], ["Gold_standard", "United_States", "Republic_of_China"]]

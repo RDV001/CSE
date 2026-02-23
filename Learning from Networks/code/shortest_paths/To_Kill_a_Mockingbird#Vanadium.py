@@ -1,0 +1,1 @@
+[["To_Kill_a_Mockingbird", "United_States", "Coal", "Vanadium"], ["To_Kill_a_Mockingbird", "United_States", "Steel", "Vanadium"]]

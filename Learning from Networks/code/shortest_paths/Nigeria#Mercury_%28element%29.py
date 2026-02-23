@@ -1,0 +1,1 @@
+[["Nigeria", "Coal", "Mercury_%28element%29"]]

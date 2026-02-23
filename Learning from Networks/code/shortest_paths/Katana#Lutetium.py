@@ -1,0 +1,1 @@
+[["Katana", "Japan", "Iron", "Chemical_element", "Lutetium"], ["Katana", "Japan", "Metal", "Chemical_element", "Lutetium"], ["Katana", "Japan", "Iron", "List_of_elements_by_name", "Lutetium"], ["Katana", "Japan", "Metal", "Periodic_table", "Lutetium"]]

@@ -1,0 +1,1 @@
+[["Einsteinium", "Cold_War", "Mikhail_Gorbachev"]]

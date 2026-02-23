@@ -1,0 +1,1 @@
+[["Punctuated_equilibrium", "Earth", "Aluminium", "Tantalum"], ["Punctuated_equilibrium", "History_of_science", "Periodic_table", "Tantalum"]]

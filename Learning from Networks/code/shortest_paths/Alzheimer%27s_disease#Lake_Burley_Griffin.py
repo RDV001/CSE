@@ -1,0 +1,1 @@
+[["Alzheimer%27s_disease", "Aluminium", "Australia", "Canberra", "Lake_Burley_Griffin"], ["Alzheimer%27s_disease", "Copper", "Australia", "Canberra", "Lake_Burley_Griffin"], ["Alzheimer%27s_disease", "Tobacco_smoking", "Australia", "Canberra", "Lake_Burley_Griffin"], ["Alzheimer%27s_disease", "Chess", "Art", "Canberra", "Lake_Burley_Griffin"]]

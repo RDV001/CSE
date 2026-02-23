@@ -1,0 +1,1 @@
+[["Idolatry", "Bible", "Latin", "Split_infinitive"], ["Idolatry", "God", "Latin", "Split_infinitive"], ["Idolatry", "Islam", "Latin", "Split_infinitive"], ["Idolatry", "Josephus", "Latin", "Split_infinitive"]]

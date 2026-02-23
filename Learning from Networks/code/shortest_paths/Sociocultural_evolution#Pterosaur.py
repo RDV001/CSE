@@ -1,0 +1,1 @@
+[["Sociocultural_evolution", "Earth", "Dinosaur", "Pterosaur"], ["Sociocultural_evolution", "Evolution", "Dinosaur", "Pterosaur"], ["Sociocultural_evolution", "Evolution", "Archaeopteryx", "Pterosaur"], ["Sociocultural_evolution", "Evolution", "History_of_Earth", "Pterosaur"]]

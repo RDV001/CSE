@@ -1,0 +1,1 @@
+[["Halloween", "Australia", "World_War_I"], ["Halloween", "France", "World_War_I"], ["Halloween", "New_Zealand", "World_War_I"], ["Halloween", "Republic_of_Ireland", "World_War_I"], ["Halloween", "United_Kingdom", "World_War_I"], ["Halloween", "United_States", "World_War_I"]]

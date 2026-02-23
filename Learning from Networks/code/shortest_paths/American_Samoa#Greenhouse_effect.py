@@ -1,0 +1,1 @@
+[["American_Samoa", "Germany", "Greenhouse_effect"]]

@@ -1,0 +1,1 @@
+[["Frank_Lloyd_Wright", "United_States", "Currency"]]

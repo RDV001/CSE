@@ -1,0 +1,1 @@
+[["Gravitation", "Albert_Einstein", "Human_rights", "Women%27s_rights"], ["Gravitation", "Anno_Domini", "Fascism", "Women%27s_rights"]]

@@ -1,0 +1,1 @@
+[["Giant_Eland", "Central_African_Republic", "Europe", "Oslo"], ["Giant_Eland", "Senegal", "Europe", "Oslo"], ["Giant_Eland", "Senegal", "Atlantic_Ocean", "Oslo"]]

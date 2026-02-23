@@ -1,0 +1,1 @@
+[["Guatemala", "Anno_Domini", "Byzantine_Empire", "Romulus_Augustus"], ["Guatemala", "Lebanon", "Byzantine_Empire", "Romulus_Augustus"], ["Guatemala", "Anno_Domini", "Roman_Empire", "Romulus_Augustus"], ["Guatemala", "Lebanon", "Roman_Empire", "Romulus_Augustus"], ["Guatemala", "Spain", "Ancient_Rome", "Romulus_Augustus"]]

@@ -1,0 +1,1 @@
+[["Tofu", "Almond", "Fatty_acid", "Coconut_oil"], ["Tofu", "Butter", "Fatty_acid", "Coconut_oil"], ["Tofu", "Cheese", "Fatty_acid", "Coconut_oil"], ["Tofu", "Milk", "Fatty_acid", "Coconut_oil"], ["Tofu", "Peanut", "Fatty_acid", "Coconut_oil"], ["Tofu", "Soup", "Coconut", "Coconut_oil"], ["Tofu", "United_States", "Dominica", "Coconut_oil"]]

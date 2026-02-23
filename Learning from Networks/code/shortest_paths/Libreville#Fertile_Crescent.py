@@ -1,0 +1,1 @@
+[["Libreville", "France", "Currency", "Fertile_Crescent"], ["Libreville", "Gabon", "Currency", "Fertile_Crescent"], ["Libreville", "Market", "Currency", "Fertile_Crescent"], ["Libreville", "Industry", "Agriculture", "Fertile_Crescent"]]

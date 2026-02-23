@@ -1,0 +1,1 @@
+[["George_H._W._Bush", "Theodore_Roosevelt", "Elephant", "Hannibal_Barca"]]

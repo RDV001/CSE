@@ -1,0 +1,1 @@
+[["Eldfell", "Carbon_dioxide", "Greenhouse_effect"]]

@@ -1,0 +1,1 @@
+[["New_York_City", "Football_%28soccer%29", "University_of_Cambridge"], ["New_York_City", "Ice_hockey", "University_of_Cambridge"], ["New_York_City", "London", "University_of_Cambridge"], ["New_York_City", "United_Kingdom", "University_of_Cambridge"]]

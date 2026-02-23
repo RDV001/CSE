@@ -1,0 +1,1 @@
+[["Mauthausen-Gusen_concentration_camp", "Austria", "Russia"], ["Mauthausen-Gusen_concentration_camp", "German_language", "Russia"], ["Mauthausen-Gusen_concentration_camp", "Germany", "Russia"], ["Mauthausen-Gusen_concentration_camp", "Yugoslavia", "Russia"]]

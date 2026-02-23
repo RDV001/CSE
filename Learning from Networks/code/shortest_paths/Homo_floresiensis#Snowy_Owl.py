@@ -1,0 +1,1 @@
+[["Homo_floresiensis", "Animal", "Bird", "Snowy_Owl"], ["Homo_floresiensis", "Chordate", "Bird", "Snowy_Owl"], ["Homo_floresiensis", "Extinction", "Bird", "Snowy_Owl"], ["Homo_floresiensis", "Mammal", "Bird", "Snowy_Owl"]]

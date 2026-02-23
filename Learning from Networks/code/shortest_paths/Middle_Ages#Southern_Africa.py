@@ -1,0 +1,1 @@
+[["Middle_Ages", "Africa", "Southern_Africa"], ["Middle_Ages", "Christianity", "Southern_Africa"], ["Middle_Ages", "Sub-Saharan_Africa", "Southern_Africa"]]

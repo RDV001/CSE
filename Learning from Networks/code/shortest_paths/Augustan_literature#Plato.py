@@ -1,0 +1,1 @@
+[["Augustan_literature", "Empiricism", "Plato"], ["Augustan_literature", "John_Locke", "Plato"], ["Augustan_literature", "Philosophy", "Plato"], ["Augustan_literature", "Ren%C3%A9_Descartes", "Plato"]]

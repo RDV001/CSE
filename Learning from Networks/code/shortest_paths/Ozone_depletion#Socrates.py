@@ -1,0 +1,1 @@
+[["Ozone_depletion", "Australia", "Atheism", "Socrates"], ["Ozone_depletion", "Oxygen", "Philosophy", "Socrates"]]

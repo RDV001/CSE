@@ -1,0 +1,1 @@
+[["Pony", "Horse", "Dinosaur", "Mammoth", "Eskimo"], ["Pony", "Ireland", "Stone_Age", "Mammoth", "Eskimo"], ["Pony", "Horse", "Food", "Vitamin_C", "Eskimo"], ["Pony", "Horse", "United_States", "Martin_Luther_King%2C_Jr.", "Eskimo"], ["Pony", "Ireland", "Civil_rights", "Martin_Luther_King%2C_Jr.", "Eskimo"], ["Pony", "Ireland", "U2", "Martin_Luther_King%2C_Jr.", "Eskimo"]]

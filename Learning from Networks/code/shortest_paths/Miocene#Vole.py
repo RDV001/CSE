@@ -1,0 +1,1 @@
+[["Miocene", "California", "Winter", "Vole"], ["Miocene", "Crow", "Rook_%28bird%29", "Vole"], ["Miocene", "Otter", "Badger", "Vole"], ["Miocene", "Owl", "Barn_Owl", "Vole"]]

@@ -1,0 +1,1 @@
+[["Tyrannosaurus", "Calvin_and_Hobbes", "Santa_Claus"]]

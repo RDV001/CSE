@@ -1,0 +1,1 @@
+[["Mongolia", "China", "Africa", "Timbuktu"], ["Mongolia", "Communism", "Africa", "Timbuktu"], ["Mongolia", "World_Heritage_Site", "Africa", "Timbuktu"], ["Mongolia", "List_of_countries_by_system_of_government", "Mali", "Timbuktu"]]

@@ -1,0 +1,1 @@
+[["Cold_War", "Poland", "Euro"], ["Cold_War", "United_Kingdom", "Euro"]]

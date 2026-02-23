@@ -1,0 +1,1 @@
+[["South_Georgia_and_the_South_Sandwich_Islands", "Atlantic_Ocean", "Indian_Ocean", "Kochi_%28India%29"], ["South_Georgia_and_the_South_Sandwich_Islands", "Falkland_Islands", "Fishing", "Kochi_%28India%29"], ["South_Georgia_and_the_South_Sandwich_Islands", "Krill", "Fishing", "Kochi_%28India%29"]]

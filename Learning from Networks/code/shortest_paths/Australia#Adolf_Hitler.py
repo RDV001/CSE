@@ -1,0 +1,1 @@
+[["Australia", "Germany", "Adolf_Hitler"], ["Australia", "Italy", "Adolf_Hitler"], ["Australia", "Liberal_democracy", "Adolf_Hitler"], ["Australia", "World_War_II", "Adolf_Hitler"]]

@@ -1,0 +1,1 @@
+[["Last_Supper", "Archaeology", "Civilization", "Money"], ["Last_Supper", "Christianity", "Socialism", "Money"], ["Last_Supper", "Sermon_on_the_Mount", "The_Brothers_Karamazov", "Money"], ["Last_Supper", "War", "Famine", "Money"], ["Last_Supper", "War", "Market", "Money"], ["Last_Supper", "Wine", "Mesopotamia", "Money"], ["Last_Supper", "Wine", "Salt", "Money"]]

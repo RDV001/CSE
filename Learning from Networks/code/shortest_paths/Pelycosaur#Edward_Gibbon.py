@@ -1,0 +1,1 @@
+[["Pelycosaur", "Europe", "Byzantine_Empire", "Edward_Gibbon"], ["Pelycosaur", "Russia", "Byzantine_Empire", "Edward_Gibbon"], ["Pelycosaur", "Europe", "Dark_Ages", "Edward_Gibbon"], ["Pelycosaur", "Russia", "Liberalism", "Edward_Gibbon"]]

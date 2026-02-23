@@ -1,0 +1,1 @@
+[["England", "Bristol", "Newspaper"], ["England", "Industrial_Revolution", "Newspaper"], ["England", "London", "Newspaper"], ["England", "Rudyard_Kipling", "Newspaper"]]

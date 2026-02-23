@@ -1,0 +1,1 @@
+[["Jerusalem", "Byzantine_Empire", "Kiev"], ["Jerusalem", "Crusades", "Kiev"], ["Jerusalem", "Europe", "Kiev"], ["Jerusalem", "Eurovision_Song_Contest", "Kiev"], ["Jerusalem", "The_Holocaust", "Kiev"]]

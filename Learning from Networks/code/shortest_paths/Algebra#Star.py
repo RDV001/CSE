@@ -1,0 +1,1 @@
+[["Algebra", "Babylonia", "Star"], ["Algebra", "Gottfried_Leibniz", "Star"]]

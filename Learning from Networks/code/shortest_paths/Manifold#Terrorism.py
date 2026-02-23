@@ -1,0 +1,1 @@
+[["Manifold", "Carl_Friedrich_Gauss", "United_States", "Terrorism"], ["Manifold", "German_language", "United_States", "Terrorism"], ["Manifold", "Linear_algebra", "United_States", "Terrorism"]]

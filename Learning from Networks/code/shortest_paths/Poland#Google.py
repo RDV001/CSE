@@ -1,0 +1,1 @@
+[["Poland", "Art", "21st_century", "Google"], ["Poland", "Black_Death", "Hamburg", "Google"], ["Poland", "European_Union", "Hamburg", "Google"], ["Poland", "Germany", "Hamburg", "Google"], ["Poland", "Republic_of_Ireland", "Dublin", "Google"], ["Poland", "United_States", "Advertising", "Google"]]

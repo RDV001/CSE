@@ -1,0 +1,1 @@
+[["Vitamin", "20th_century", "Jew"], ["Vitamin", "Russia", "Jew"]]

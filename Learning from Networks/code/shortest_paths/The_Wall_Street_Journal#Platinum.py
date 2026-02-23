@@ -1,0 +1,1 @@
+[["The_Wall_Street_Journal", "London", "United_States_dollar", "Platinum"], ["The_Wall_Street_Journal", "United_States", "United_States_dollar", "Platinum"]]

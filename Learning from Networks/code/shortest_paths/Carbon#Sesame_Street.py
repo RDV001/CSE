@@ -1,0 +1,1 @@
+[["Carbon", "Africa", "Carnivore", "Frog", "Sesame_Street"], ["Carbon", "Earth", "Dinosaur", "Frog", "Sesame_Street"], ["Carbon", "Greenland", "Fishing", "Frog", "Sesame_Street"], ["Carbon", "Australia", "Opera", "Porgy_and_Bess", "Sesame_Street"], ["Carbon", "United_States", "American_popular_music", "Porgy_and_Bess", "Sesame_Street"]]

@@ -1,0 +1,1 @@
+[["Church_of_Ireland", "Africa", "Ancient_Rome", "House"], ["Church_of_Ireland", "Africa", "Civilization", "House"], ["Church_of_Ireland", "English_Reformation", "Stained_glass", "House"]]

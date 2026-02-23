@@ -1,0 +1,1 @@
+[["Earth%27s_atmosphere", "United_States", "Saint_Kitts_and_Nevis", "Hurricane_Georges"], ["Earth%27s_atmosphere", "United_States", "United_States_Virgin_Islands", "Hurricane_Georges"]]

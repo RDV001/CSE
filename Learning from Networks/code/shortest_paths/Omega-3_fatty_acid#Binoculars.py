@@ -1,0 +1,1 @@
+[["Omega-3_fatty_acid", "Cancer", "Sun", "Binoculars"], ["Omega-3_fatty_acid", "Lithium", "Telescope", "Binoculars"]]

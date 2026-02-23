@@ -1,0 +1,1 @@
+[["Tawny_Owl", "Europe", "Earth"], ["Tawny_Owl", "Russia", "Earth"]]

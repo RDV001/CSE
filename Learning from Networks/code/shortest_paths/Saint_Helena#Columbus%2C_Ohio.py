@@ -1,0 +1,1 @@
+[["Saint_Helena", "South_Africa", "Fire", "Columbus%2C_Ohio"], ["Saint_Helena", "Volcano", "Fire", "Columbus%2C_Ohio"], ["Saint_Helena", "United_States", "Amtrak", "Columbus%2C_Ohio"], ["Saint_Helena", "United_States", "Christopher_Columbus", "Columbus%2C_Ohio"], ["Saint_Helena", "United_States", "U.S._state", "Columbus%2C_Ohio"]]

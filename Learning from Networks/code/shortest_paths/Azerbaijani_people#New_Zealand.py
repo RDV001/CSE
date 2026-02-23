@@ -1,0 +1,1 @@
+[["Azerbaijani_people", "Atheism", "New_Zealand"]]

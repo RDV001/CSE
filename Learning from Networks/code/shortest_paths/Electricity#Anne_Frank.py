@@ -1,0 +1,1 @@
+[["Electricity", "Alexander_Graham_Bell", "Nazi_Germany", "Anne_Frank"], ["Electricity", "Amber", "Netherlands", "Anne_Frank"], ["Electricity", "Thomas_Edison", "Netherlands", "Anne_Frank"], ["Electricity", "William_Thomson%2C_1st_Baron_Kelvin", "Netherlands", "Anne_Frank"]]

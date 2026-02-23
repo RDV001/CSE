@@ -1,0 +1,1 @@
+[["Nile", "Democratic_Republic_of_the_Congo", "Uranium", "Beryllium"], ["Nile", "Sun", "Uranium", "Beryllium"], ["Nile", "Lake_Victoria", "Climate_change", "Beryllium"], ["Nile", "Sun", "Magnesium", "Beryllium"], ["Nile", "Sun", "Milky_Way", "Beryllium"], ["Nile", "Sun", "Neutron", "Beryllium"], ["Nile", "Sun", "Star", "Beryllium"]]

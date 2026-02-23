@@ -1,0 +1,1 @@
+[["T._S._Eliot", "United_States", "Guadeloupe"]]

@@ -1,0 +1,1 @@
+[["Christian_monasticism", "Athens", "People%27s_Republic_of_China", "Maglev_train"], ["Christian_monasticism", "Christianity", "People%27s_Republic_of_China", "Maglev_train"], ["Christian_monasticism", "Israel", "People%27s_Republic_of_China", "Maglev_train"], ["Christian_monasticism", "Marseille", "TGV", "Maglev_train"]]

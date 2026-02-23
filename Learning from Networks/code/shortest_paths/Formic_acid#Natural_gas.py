@@ -1,0 +1,1 @@
+[["Formic_acid", "Ammonia", "Natural_gas"], ["Formic_acid", "Carbon", "Natural_gas"], ["Formic_acid", "Hydrogen", "Natural_gas"]]

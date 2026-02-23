@@ -1,0 +1,1 @@
+[["Elizabeth_I_of_England", "Islam", "Sumatra"]]

@@ -1,0 +1,1 @@
+[["Star_Trek__The_Original_Series", "United_States", "Antarctica", "Ice_sheet"], ["Star_Trek__The_Original_Series", "United_States", "Desert", "Ice_sheet"], ["Star_Trek__The_Original_Series", "United_States", "Time_zone", "Ice_sheet"], ["Star_Trek__The_Original_Series", "World_War_II", "English_Channel", "Ice_sheet"]]

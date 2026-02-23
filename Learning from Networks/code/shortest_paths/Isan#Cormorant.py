@@ -1,0 +1,1 @@
+[["Isan", "Chicken", "Bird", "Cormorant"], ["Isan", "Frog", "Bird", "Cormorant"], ["Isan", "Insect", "Bird", "Cormorant"], ["Isan", "Rice", "Bird", "Cormorant"], ["Isan", "Cricket", "Argentina", "Cormorant"], ["Isan", "Tennis", "Argentina", "Cormorant"], ["Isan", "Tobacco", "Argentina", "Cormorant"], ["Isan", "United_States", "Argentina", "Cormorant"]]

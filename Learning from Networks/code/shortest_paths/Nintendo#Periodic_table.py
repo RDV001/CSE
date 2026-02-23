@@ -1,0 +1,1 @@
+[["Nintendo", "Internet", "Copper", "Periodic_table"], ["Nintendo", "Japan", "Metal", "Periodic_table"], ["Nintendo", "Melbourne", "Gold", "Periodic_table"], ["Nintendo", "United_States_dollar", "Gold", "Periodic_table"], ["Nintendo", "United_States_dollar", "Platinum", "Periodic_table"]]

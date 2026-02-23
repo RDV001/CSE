@@ -1,0 +1,1 @@
+[["The_Brothers_Karamazov", "Money", "Coal", "Radium"], ["The_Brothers_Karamazov", "Poland", "Coal", "Radium"], ["The_Brothers_Karamazov", "Rail_transport", "Coal", "Radium"], ["The_Brothers_Karamazov", "Poland", "Marie_Curie", "Radium"]]

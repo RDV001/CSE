@@ -1,0 +1,1 @@
+[["Muscat%2C_Oman", "Egypt", "Literature", "E._E._Cummings", "Krazy_Kat"], ["Muscat%2C_Oman", "Renaissance", "Literature", "E._E._Cummings", "Krazy_Kat"], ["Muscat%2C_Oman", "Renaissance", "John_Calvin", "Calvin_and_Hobbes", "Krazy_Kat"]]

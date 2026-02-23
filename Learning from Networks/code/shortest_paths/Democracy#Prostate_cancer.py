@@ -1,0 +1,1 @@
+[["Democracy", "Citizenship", "Nelson_Mandela", "Prostate_cancer"], ["Democracy", "South_Africa", "Nelson_Mandela", "Prostate_cancer"], ["Democracy", "Philosophy", "Ludwig_Wittgenstein", "Prostate_cancer"], ["Democracy", "South_Africa", "Desmond_Tutu", "Prostate_cancer"]]

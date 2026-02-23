@@ -1,0 +1,1 @@
+[["Carbon_dioxide", "Coal", "Roman_Britain", "Canterbury"], ["Carbon_dioxide", "Helium", "Ernest_Rutherford", "Canterbury"], ["Carbon_dioxide", "Photon", "Ernest_Rutherford", "Canterbury"], ["Carbon_dioxide", "Oxygen", "Alchemy", "Canterbury"], ["Carbon_dioxide", "Scotland", "Church_of_England", "Canterbury"]]

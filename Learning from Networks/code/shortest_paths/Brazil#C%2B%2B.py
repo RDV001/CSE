@@ -1,0 +1,1 @@
+[["Brazil", "Asia", "Computer", "C%2B%2B"], ["Brazil", "Bolivia", "Computer", "C%2B%2B"], ["Brazil", "Lebanon", "Computer", "C%2B%2B"], ["Brazil", "Syria", "Computer", "C%2B%2B"], ["Brazil", "United_Kingdom", "Computer", "C%2B%2B"], ["Brazil", "Language", "Programming_language", "C%2B%2B"]]

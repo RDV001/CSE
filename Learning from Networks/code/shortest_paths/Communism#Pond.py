@@ -1,0 +1,1 @@
+[["Communism", "Human", "Organism", "Pond"], ["Communism", "Marxism", "Ecology", "Pond"], ["Communism", "Socialism", "Ecology", "Pond"], ["Communism", "Plato", "Nature", "Pond"]]

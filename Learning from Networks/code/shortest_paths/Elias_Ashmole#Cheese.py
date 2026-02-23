@@ -1,0 +1,1 @@
+[["Elias_Ashmole", "Alchemy", "Ancient_Greece", "Cheese"], ["Elias_Ashmole", "Physics", "Ancient_Greece", "Cheese"], ["Elias_Ashmole", "Charles_II_of_England", "Netherlands", "Cheese"], ["Elias_Ashmole", "Oxford", "Netherlands", "Cheese"], ["Elias_Ashmole", "Gold", "Argentina", "Cheese"]]

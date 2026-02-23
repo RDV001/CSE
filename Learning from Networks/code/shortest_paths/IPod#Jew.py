@@ -1,0 +1,1 @@
+[["IPod", "Bob_Dylan", "Jew"], ["IPod", "Hong_Kong", "Jew"], ["IPod", "Minneapolis%2C_Minnesota", "Jew"]]

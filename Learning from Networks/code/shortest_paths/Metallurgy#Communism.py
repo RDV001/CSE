@@ -1,0 +1,1 @@
+[["Metallurgy", "Gold", "Communism"]]

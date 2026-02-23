@@ -1,0 +1,1 @@
+[["Doom", "United_States", "Judaism"]]

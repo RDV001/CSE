@@ -1,0 +1,1 @@
+[["Quartz", "Cleveland%2C_Ohio", "Poverty", "Malaria"], ["Quartz", "Earth", "Evolution", "Malaria"], ["Quartz", "Earth", "Extinction", "Malaria"], ["Quartz", "Earth", "Global_warming", "Malaria"], ["Quartz", "Gold", "Cancer", "Malaria"]]

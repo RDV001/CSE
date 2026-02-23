@@ -1,0 +1,1 @@
+[["Property", "Capitalism", "Democracy"], ["Property", "David_Hume", "Democracy"], ["Property", "Europe", "Democracy"], ["Property", "Government", "Democracy"], ["Property", "Law", "Democracy"], ["Property", "Monarchy", "Democracy"], ["Property", "Renaissance", "Democracy"], ["Property", "Socialism", "Democracy"]]

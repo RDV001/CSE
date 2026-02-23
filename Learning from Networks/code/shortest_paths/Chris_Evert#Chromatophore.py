@@ -1,0 +1,1 @@
+[["Chris_Evert", "Olympic_Games", "Dove", "Crow", "Albinism", "Chromatophore"], ["Chris_Evert", "United_States", "Rocky_Mountains", "Crow", "Albinism", "Chromatophore"], ["Chris_Evert", "United_States", "Mining", "Pigment", "Albinism", "Chromatophore"]]

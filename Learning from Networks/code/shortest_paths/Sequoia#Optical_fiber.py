@@ -1,0 +1,1 @@
+[["Sequoia", "Insect", "Ultraviolet", "Optical_fiber"]]

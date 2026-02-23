@@ -1,0 +1,1 @@
+[["Acceleration", "Albert_Einstein", "Germany", "Dresden"], ["Acceleration", "Albert_Einstein", "Prague", "Dresden"], ["Acceleration", "Physics", "Blaise_Pascal", "Dresden"]]

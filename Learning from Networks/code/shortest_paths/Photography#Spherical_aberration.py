@@ -1,0 +1,1 @@
+[["Photography", "James_Clerk_Maxwell", "Telescope", "Spherical_aberration"], ["Photography", "Light", "Telescope", "Spherical_aberration"]]

@@ -1,0 +1,1 @@
+[["Glasses", "Eye", "Bird", "Poultry"], ["Glasses", "Japan", "Meat", "Poultry"], ["Glasses", "United_Kingdom", "Isle_of_Man", "Poultry"], ["Glasses", "United_States", "Isle_of_Man", "Poultry"]]

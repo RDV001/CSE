@@ -1,0 +1,1 @@
+[["Monopoly_%28game%29", "United_States", "Education_in_the_United_States", "Separation_of_powers_under_the_United_States_Constitution"]]

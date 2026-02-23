@@ -1,0 +1,1 @@
+[["Fresh_water", "Earth", "United_States", "Elvis_Presley"], ["Fresh_water", "Earth%27s_atmosphere", "United_States", "Elvis_Presley"], ["Fresh_water", "Rain", "United_States", "Elvis_Presley"], ["Fresh_water", "River", "United_States", "Elvis_Presley"], ["Fresh_water", "Water", "United_States", "Elvis_Presley"]]

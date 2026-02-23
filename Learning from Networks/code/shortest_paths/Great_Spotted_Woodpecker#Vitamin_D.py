@@ -1,0 +1,1 @@
+[["Great_Spotted_Woodpecker", "Animal", "Sunlight", "Vitamin_D"], ["Great_Spotted_Woodpecker", "Asia", "Sun", "Vitamin_D"], ["Great_Spotted_Woodpecker", "Insect", "Nutrition", "Vitamin_D"]]

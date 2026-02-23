@@ -1,0 +1,1 @@
+[["Liquid_crystal", "Carbon", "Canada", "Irish_people"], ["Liquid_crystal", "Carbon", "Mexico", "Irish_people"], ["Liquid_crystal", "Carbon", "United_States", "Irish_people"], ["Liquid_crystal", "Phase_%28matter%29", "Physical_science", "Irish_people"]]

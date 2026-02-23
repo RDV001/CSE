@@ -1,0 +1,1 @@
+[["Richard_Nixon", "Communism", "Argentina", "Right_whale"], ["Richard_Nixon", "Israel", "Argentina", "Right_whale"]]

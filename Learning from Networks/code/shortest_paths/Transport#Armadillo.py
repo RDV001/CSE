@@ -1,0 +1,1 @@
+[["Transport", "Australia", "Rainforest", "Armadillo"], ["Transport", "Tree", "Rainforest", "Armadillo"], ["Transport", "Nuclear_power", "Argentina", "Armadillo"], ["Transport", "Petroleum", "Peru", "Armadillo"]]

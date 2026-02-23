@@ -1,0 +1,1 @@
+[["The_Beatles", "Argentina", "Tungsten", "Hafnium"], ["The_Beatles", "Denmark", "Copenhagen", "Hafnium"], ["The_Beatles", "Europe", "Copenhagen", "Hafnium"], ["The_Beatles", "Manchester", "Copenhagen", "Hafnium"], ["The_Beatles", "New_Zealand", "Copenhagen", "Hafnium"], ["The_Beatles", "Norway", "Copenhagen", "Hafnium"]]

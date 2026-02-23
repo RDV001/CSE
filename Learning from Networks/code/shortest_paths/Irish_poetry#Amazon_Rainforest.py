@@ -1,0 +1,1 @@
+[["Irish_poetry", "Religion", "Peru", "Amazon_Rainforest"], ["Irish_poetry", "Walter_Raleigh", "South_America", "Amazon_Rainforest"]]

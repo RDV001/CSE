@@ -1,0 +1,1 @@
+[["Battle_of_Amiens", "United_Kingdom", "Computer", "Microsoft_Windows"], ["Battle_of_Amiens", "United_States", "Computer", "Microsoft_Windows"]]

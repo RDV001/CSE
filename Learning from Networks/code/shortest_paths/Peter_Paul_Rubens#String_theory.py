@@ -1,0 +1,1 @@
+[["Peter_Paul_Rubens", "Italy", "Argentina", "String_theory"], ["Peter_Paul_Rubens", "Madrid", "Argentina", "String_theory"], ["Peter_Paul_Rubens", "United_States_dollar", "Argentina", "String_theory"], ["Peter_Paul_Rubens", "Roman_Catholic_Church", "Big_Bang", "String_theory"]]

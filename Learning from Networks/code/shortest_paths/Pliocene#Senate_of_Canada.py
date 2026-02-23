@@ -1,0 +1,1 @@
+[["Pliocene", "Australia", "Parliamentary_system", "Senate_of_Canada"], ["Pliocene", "Japan", "Parliamentary_system", "Senate_of_Canada"]]

@@ -1,0 +1,1 @@
+[["Akira_Kurosawa", "Japan", "Metal", "Heat"], ["Akira_Kurosawa", "Japan", "Technology", "Heat"], ["Akira_Kurosawa", "United_States", "Nuclear_power", "Heat"], ["Akira_Kurosawa", "United_States", "Petroleum", "Heat"]]

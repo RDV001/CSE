@@ -1,0 +1,1 @@
+[["John_Maynard_Keynes", "Gold", "List_of_elements_by_name", "Lanthanum"], ["John_Maynard_Keynes", "Gold", "Periodic_table", "Lanthanum"]]

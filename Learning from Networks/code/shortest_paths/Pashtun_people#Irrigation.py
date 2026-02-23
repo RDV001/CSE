@@ -1,0 +1,1 @@
+[["Pashtun_people", "Iran", "Irrigation"], ["Pashtun_people", "Islam", "Irrigation"], ["Pashtun_people", "Middle_East", "Irrigation"]]

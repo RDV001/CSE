@@ -1,0 +1,1 @@
+[["The_Smiths", "England", "Stephen_Hawking", "Black_hole"], ["The_Smiths", "United_Kingdom", "Gravitation", "Black_hole"]]

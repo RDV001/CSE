@@ -1,0 +1,1 @@
+[["Abuja", "Brazil", "Argentina", "Bill_Clinton"], ["Abuja", "Brazil", "Parliamentary_system", "Bill_Clinton"], ["Abuja", "Brazil", "Syria", "Bill_Clinton"], ["Abuja", "Time_zone", "Detroit%2C_Michigan", "Bill_Clinton"]]

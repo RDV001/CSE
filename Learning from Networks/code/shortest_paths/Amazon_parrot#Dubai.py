@@ -1,0 +1,1 @@
+[["Amazon_parrot", "Mexico", "Petroleum", "Dubai"], ["Amazon_parrot", "South_America", "Petroleum", "Dubai"]]

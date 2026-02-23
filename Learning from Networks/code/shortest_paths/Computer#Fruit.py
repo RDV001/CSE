@@ -1,0 +1,1 @@
+[["Computer", "Computer_and_video_games", "Pac-Man", "Fruit"], ["Computer", "Electronics", "Color", "Fruit"], ["Computer", "Television", "Color", "Fruit"], ["Computer", "Toy", "Apple", "Fruit"], ["Computer", "Toy", "Monkey", "Fruit"]]

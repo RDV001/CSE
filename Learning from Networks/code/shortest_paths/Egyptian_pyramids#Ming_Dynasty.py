@@ -1,0 +1,1 @@
+[["Egyptian_pyramids", "Archaeology", "China", "Ming_Dynasty"]]

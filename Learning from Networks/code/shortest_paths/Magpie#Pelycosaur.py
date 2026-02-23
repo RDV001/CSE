@@ -1,0 +1,1 @@
+[["Magpie", "Animal", "Mammal", "Pelycosaur"], ["Magpie", "Bird", "Mammal", "Pelycosaur"], ["Magpie", "Chordate", "Mammal", "Pelycosaur"], ["Magpie", "Scientific_classification", "Mammal", "Pelycosaur"], ["Magpie", "Evolution", "Dinosaur", "Pelycosaur"]]

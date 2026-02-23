@@ -1,0 +1,1 @@
+[["Doctor_Who", "Hong_Kong", "Socialism"], ["Doctor_Who", "Nazism", "Socialism"], ["Doctor_Who", "Sweden", "Socialism"]]

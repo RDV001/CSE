@@ -1,0 +1,1 @@
+[["Hurricane_Floyd", "Tropical_cyclone", "Energy", "Motion_%28physics%29"], ["Hurricane_Floyd", "Tropical_cyclone", "Gravitation", "Motion_%28physics%29"]]

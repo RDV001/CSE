@@ -1,0 +1,1 @@
+[["Tobacco_smoking", "Cancer", "Sun"], ["Tobacco_smoking", "Maya_civilization", "Sun"]]

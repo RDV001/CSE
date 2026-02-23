@@ -1,0 +1,1 @@
+[["Atlantic_slave_trade", "Germany", "Belarus", "Flag_of_Belarus"], ["Atlantic_slave_trade", "Netherlands", "Belarus", "Flag_of_Belarus"], ["Atlantic_slave_trade", "Russia", "Belarus", "Flag_of_Belarus"], ["Atlantic_slave_trade", "Mozambique", "List_of_sovereign_states", "Flag_of_Belarus"], ["Atlantic_slave_trade", "United_States", "List_of_sovereign_states", "Flag_of_Belarus"]]

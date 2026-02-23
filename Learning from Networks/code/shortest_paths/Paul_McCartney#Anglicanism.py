@@ -1,0 +1,1 @@
+[["Paul_McCartney", "England", "Anglicanism"], ["Paul_McCartney", "London", "Anglicanism"], ["Paul_McCartney", "Northern_Ireland", "Anglicanism"], ["Paul_McCartney", "Republic_of_Ireland", "Anglicanism"]]

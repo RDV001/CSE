@@ -1,0 +1,1 @@
+[["Yeast", "Republic_of_Ireland", "James_Joyce", "Ezra_Pound"], ["Yeast", "Republic_of_Ireland", "Samuel_Beckett", "Ezra_Pound"], ["Yeast", "United_Kingdom", "John_Milton", "Ezra_Pound"], ["Yeast", "United_Kingdom", "T._S._Eliot", "Ezra_Pound"]]

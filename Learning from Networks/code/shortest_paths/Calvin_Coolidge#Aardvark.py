@@ -1,0 +1,1 @@
+[["Calvin_Coolidge", "Italy", "Argentina", "Anteater", "Aardvark"], ["Calvin_Coolidge", "United_Kingdom", "Argentina", "Anteater", "Aardvark"]]

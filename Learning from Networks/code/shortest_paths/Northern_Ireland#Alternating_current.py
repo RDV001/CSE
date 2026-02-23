@@ -1,0 +1,1 @@
+[["Northern_Ireland", "British_House_of_Commons", "Radio", "Alternating_current"], ["Northern_Ireland", "Ice_age", "Niagara_Falls", "Alternating_current"]]

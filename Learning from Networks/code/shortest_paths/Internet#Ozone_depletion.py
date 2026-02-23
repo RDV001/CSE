@@ -1,0 +1,1 @@
+[["Internet", "Cloud", "Ammonia", "Ozone_depletion"], ["Internet", "Copper", "Ammonia", "Ozone_depletion"], ["Internet", "People%27s_Republic_of_China", "Global_warming", "Ozone_depletion"]]

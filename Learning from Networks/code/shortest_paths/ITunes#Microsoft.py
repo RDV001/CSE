@@ -1,0 +1,1 @@
+[["ITunes", "IPod", "Microsoft"], ["ITunes", "Macintosh", "Microsoft"], ["ITunes", "Microsoft_Windows", "Microsoft"], ["ITunes", "RSS_%28file_format%29", "Microsoft"], ["ITunes", "Spyware", "Microsoft"], ["ITunes", "Unix", "Microsoft"], ["ITunes", "Windows_2000", "Microsoft"], ["ITunes", "Windows_XP", "Microsoft"]]

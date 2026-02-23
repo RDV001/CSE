@@ -1,0 +1,1 @@
+[["WTA_Tour_Championships", "Florida", "Gulf_of_Mexico", "Dinosaur", "Ceratopsidae"], ["WTA_Tour_Championships", "United_States", "Gulf_of_Mexico", "Dinosaur", "Ceratopsidae"]]

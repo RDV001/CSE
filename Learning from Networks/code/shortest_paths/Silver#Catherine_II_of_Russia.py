@@ -1,0 +1,1 @@
+[["Silver", "Peru", "18th_century", "Catherine_II_of_Russia"], ["Silver", "Spain", "18th_century", "Catherine_II_of_Russia"], ["Silver", "Spanish_language", "18th_century", "Catherine_II_of_Russia"], ["Silver", "Vampire", "Voltaire", "Catherine_II_of_Russia"]]

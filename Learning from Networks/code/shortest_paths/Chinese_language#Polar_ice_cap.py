@@ -1,0 +1,1 @@
+[["Chinese_language", "Africa", "Glacier", "Polar_ice_cap"], ["Chinese_language", "Singapore", "Fresh_water", "Polar_ice_cap"]]

@@ -1,0 +1,1 @@
+[["Child", "Education", "Afghanistan", "Afghan_Hound"]]

@@ -1,0 +1,1 @@
+[["Nelson_Mandela", "Netherlands", "Literature", "E._E._Cummings", "Krazy_Kat"], ["Nelson_Mandela", "Pope_John_Paul_II", "John_Calvin", "Calvin_and_Hobbes", "Krazy_Kat"]]

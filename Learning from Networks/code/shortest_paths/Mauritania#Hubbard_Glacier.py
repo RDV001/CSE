@@ -1,0 +1,1 @@
+[["Mauritania", "Africa", "Glacier", "Hubbard_Glacier"]]

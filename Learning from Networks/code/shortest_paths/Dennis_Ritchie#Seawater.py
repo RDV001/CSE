@@ -1,0 +1,1 @@
+[["Dennis_Ritchie", "Bill_Clinton", "2004_Indian_Ocean_earthquake", "Seawater"], ["Dennis_Ritchie", "Physics", "Water", "Seawater"]]

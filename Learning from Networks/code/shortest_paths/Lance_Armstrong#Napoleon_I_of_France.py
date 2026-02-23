@@ -1,0 +1,1 @@
+[["Lance_Armstrong", "France", "Napoleon_I_of_France"]]

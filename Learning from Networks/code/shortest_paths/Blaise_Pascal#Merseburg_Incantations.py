@@ -1,0 +1,1 @@
+[["Blaise_Pascal", "France", "German_language", "Merseburg_Incantations"], ["Blaise_Pascal", "Germany", "German_language", "Merseburg_Incantations"]]

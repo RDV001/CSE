@@ -1,0 +1,1 @@
+[["Macintosh", "Bill_Gates", "University_of_Cambridge", "Ludwig_Wittgenstein"], ["Macintosh", "George_W._Bush", "Philosophy", "Ludwig_Wittgenstein"], ["Macintosh", "ITunes", "Austria", "Ludwig_Wittgenstein"]]

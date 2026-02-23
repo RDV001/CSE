@@ -1,0 +1,1 @@
+[["Cretaceous", "Bird", "Turkey_%28bird%29", "Domesticated_turkey"]]

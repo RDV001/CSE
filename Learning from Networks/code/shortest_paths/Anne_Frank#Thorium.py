@@ -1,0 +1,1 @@
+[["Anne_Frank", "Germany", "Coal", "Thorium"], ["Anne_Frank", "Israel", "Coal", "Thorium"], ["Anne_Frank", "United_States", "Coal", "Thorium"], ["Anne_Frank", "Roman_Catholic_Church", "Astronomy", "Thorium"], ["Anne_Frank", "Switzerland", "Energy", "Thorium"], ["Anne_Frank", "United_States", "Moon", "Thorium"]]

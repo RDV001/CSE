@@ -1,0 +1,1 @@
+[["Pachycephalosaurus", "Cretaceous", "Triceratops", "Bison"], ["Pachycephalosaurus", "Dinosaur", "Triceratops", "Bison"], ["Pachycephalosaurus", "Dinosaur", "Carnivore", "Bison"], ["Pachycephalosaurus", "Herbivore", "Carnivore", "Bison"]]

@@ -1,0 +1,1 @@
+[["Communication", "Esperanto", "France", "Airbus_A380"], ["Communication", "Internet", "France", "Airbus_A380"], ["Communication", "Television", "France", "Airbus_A380"], ["Communication", "Ludwig_Wittgenstein", "Cambridge", "Airbus_A380"], ["Communication", "Radio", "Aircraft", "Airbus_A380"]]

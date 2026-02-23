@@ -1,0 +1,1 @@
+[["Multiculturalism", "19th_century", "Evolution", "Entropy"], ["Multiculturalism", "Culture", "Evolution", "Entropy"], ["Multiculturalism", "Dutch_language", "Evolution", "Entropy"], ["Multiculturalism", "20th_century", "Physics", "Entropy"], ["Multiculturalism", "Germany", "Max_Planck", "Entropy"]]

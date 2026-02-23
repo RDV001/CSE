@@ -1,0 +1,1 @@
+[["African_Grey_Parrot", "Carolus_Linnaeus", "Paris", "Global_city"], ["African_Grey_Parrot", "Cooperative", "European_Union", "Global_city"], ["African_Grey_Parrot", "Cooperative", "New_York_City", "Global_city"], ["African_Grey_Parrot", "Henry_VIII_of_England", "Milan", "Global_city"]]

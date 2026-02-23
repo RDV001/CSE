@@ -1,0 +1,1 @@
+[["Agriculture", "Africa", "Famine"], ["Agriculture", "Food", "Famine"], ["Agriculture", "History_of_the_world", "Famine"], ["Agriculture", "Maize", "Famine"], ["Agriculture", "Nutrition", "Famine"]]

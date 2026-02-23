@@ -1,0 +1,1 @@
+[["African_dwarf_frog", "Africa", "Diamond", "Silicon"], ["African_dwarf_frog", "Africa", "Earth", "Silicon"], ["African_dwarf_frog", "Animal", "Carbon_dioxide", "Silicon"]]

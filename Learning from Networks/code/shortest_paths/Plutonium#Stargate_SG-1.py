@@ -1,0 +1,1 @@
+[["Plutonium", "United_States", "Ice_hockey", "Stargate_SG-1"]]

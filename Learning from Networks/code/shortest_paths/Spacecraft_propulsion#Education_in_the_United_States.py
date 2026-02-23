@@ -1,0 +1,1 @@
+[["Spacecraft_propulsion", "Earth", "United_States", "Education_in_the_United_States"], ["Spacecraft_propulsion", "Earth%27s_atmosphere", "United_States", "Education_in_the_United_States"], ["Spacecraft_propulsion", "Sun", "United_States", "Education_in_the_United_States"]]

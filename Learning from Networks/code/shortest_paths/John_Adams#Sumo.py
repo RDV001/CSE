@@ -1,0 +1,1 @@
+[["John_Adams", "France", "Japan", "Sumo"], ["John_Adams", "Netherlands", "Japan", "Sumo"], ["John_Adams", "Postage_stamp", "Japan", "Sumo"], ["John_Adams", "Ronald_Reagan", "Japan", "Sumo"], ["John_Adams", "United_States", "Japan", "Sumo"]]

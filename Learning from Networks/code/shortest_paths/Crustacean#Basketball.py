@@ -1,0 +1,1 @@
+[["Crustacean", "Archaeopteryx", "Berlin", "Basketball"], ["Crustacean", "Cretaceous", "China", "Basketball"], ["Crustacean", "Fossil_record", "China", "Basketball"], ["Crustacean", "Eocene", "United_States", "Basketball"], ["Crustacean", "Krill", "South_Korea", "Basketball"]]

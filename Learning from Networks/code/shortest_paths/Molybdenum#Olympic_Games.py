@@ -1,0 +1,1 @@
+[["Molybdenum", "United_States", "Olympic_Games"]]

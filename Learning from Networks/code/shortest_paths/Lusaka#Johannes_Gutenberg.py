@@ -1,0 +1,1 @@
+[["Lusaka", "Europe", "Germany", "Johannes_Gutenberg"], ["Lusaka", "Europe", "Ottoman_Empire", "Johannes_Gutenberg"]]

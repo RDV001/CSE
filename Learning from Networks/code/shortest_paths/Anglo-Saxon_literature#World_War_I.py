@@ -1,0 +1,1 @@
+[["Anglo-Saxon_literature", "Denmark", "World_War_I"], ["Anglo-Saxon_literature", "Ezra_Pound", "World_War_I"], ["Anglo-Saxon_literature", "Jorge_Luis_Borges", "World_War_I"], ["Anglo-Saxon_literature", "Sweden", "World_War_I"], ["Anglo-Saxon_literature", "The_Lord_of_the_Rings", "World_War_I"]]

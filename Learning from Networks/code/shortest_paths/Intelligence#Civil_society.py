@@ -1,0 +1,1 @@
+[["Intelligence", "Psychology", "Education", "Civil_society"], ["Intelligence", "Psychology", "Russia", "Civil_society"]]

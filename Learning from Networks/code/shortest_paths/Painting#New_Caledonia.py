@@ -1,0 +1,1 @@
+[["Painting", "Australia", "New_Caledonia"], ["Painting", "France", "New_Caledonia"]]

@@ -1,0 +1,1 @@
+[["Consumer_protection", "European_Union", "Water", "Polar_ice_cap"]]

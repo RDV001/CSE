@@ -1,0 +1,1 @@
+[["B_vitamins", "Beriberi", "Russia", "Leon_Trotsky"], ["B_vitamins", "Vitamin", "Russia", "Leon_Trotsky"], ["B_vitamins", "Folic_acid", "Soviet_Union", "Leon_Trotsky"]]

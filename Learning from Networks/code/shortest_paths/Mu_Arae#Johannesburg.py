@@ -1,0 +1,1 @@
+[["Mu_Arae", "Iron", "Gold", "Johannesburg"], ["Mu_Arae", "Sun", "Gold", "Johannesburg"], ["Mu_Arae", "Planetary_habitability", "Proxima_Centauri", "Johannesburg"], ["Mu_Arae", "Star", "Proxima_Centauri", "Johannesburg"]]

@@ -1,0 +1,1 @@
+[["Franklin_D._Roosevelt", "Soviet_Union", "Mikhail_Gorbachev"]]

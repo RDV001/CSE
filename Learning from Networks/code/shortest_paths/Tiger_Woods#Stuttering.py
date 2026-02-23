@@ -1,0 +1,1 @@
+[["Tiger_Woods", "Bill_Clinton", "Zachary_Taylor", "Stuttering"], ["Tiger_Woods", "Louisville%2C_Kentucky", "Zachary_Taylor", "Stuttering"], ["Tiger_Woods", "Sweden", "Emanuel_Swedenborg", "Stuttering"]]

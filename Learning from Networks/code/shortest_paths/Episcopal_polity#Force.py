@@ -1,0 +1,1 @@
+[["Episcopal_polity", "Roman_Catholic_Church", "Galileo_Galilei", "Force"]]

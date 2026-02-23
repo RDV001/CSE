@@ -1,0 +1,1 @@
+[["Photosynthetic_reaction_centre", "Electron", "Niels_Bohr", "The_Simpsons"], ["Photosynthetic_reaction_centre", "Photon", "Niels_Bohr", "The_Simpsons"], ["Photosynthetic_reaction_centre", "Water", "Ice_hockey", "The_Simpsons"]]

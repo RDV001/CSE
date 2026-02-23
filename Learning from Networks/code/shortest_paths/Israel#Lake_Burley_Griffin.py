@@ -1,0 +1,1 @@
+[["Israel", "Australia", "Canberra", "Lake_Burley_Griffin"], ["Israel", "Capital", "Canberra", "Lake_Burley_Griffin"], ["Israel", "Cocos_%28Keeling%29_Islands", "Canberra", "Lake_Burley_Griffin"], ["Israel", "Oceania", "Canberra", "Lake_Burley_Griffin"]]

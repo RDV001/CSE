@@ -1,0 +1,1 @@
+[["Fatty_acid", "Acetic_acid", "Germany", "Stuttgart"], ["Fatty_acid", "Butter", "Germany", "Stuttgart"], ["Fatty_acid", "Sodium_hydroxide", "Germany", "Stuttgart"]]

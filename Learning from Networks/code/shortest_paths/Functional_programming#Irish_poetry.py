@@ -1,0 +1,1 @@
+[["Functional_programming", "Calculus", "Europe", "Ireland", "Irish_poetry"]]

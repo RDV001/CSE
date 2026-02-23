@@ -1,0 +1,1 @@
+[["Battle_of_Tours", "18th_century", "Antonio_Vivaldi", "Asthma"], ["Battle_of_Tours", "20th_century", "Tobacco_smoking", "Asthma"], ["Battle_of_Tours", "Baghdad", "Tehran", "Asthma"], ["Battle_of_Tours", "Edward_Gibbon", "John_Locke", "Asthma"]]

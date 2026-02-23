@@ -1,0 +1,1 @@
+[["Love", "Bertrand_Russell", "War"]]

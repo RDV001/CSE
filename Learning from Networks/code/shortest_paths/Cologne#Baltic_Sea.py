@@ -1,0 +1,1 @@
+[["Cologne", "Europe", "Baltic_Sea"], ["Cologne", "Finland", "Baltic_Sea"], ["Cologne", "Germany", "Baltic_Sea"], ["Cologne", "Hamburg", "Baltic_Sea"], ["Cologne", "Poland", "Baltic_Sea"], ["Cologne", "Rhine", "Baltic_Sea"], ["Cologne", "Russia", "Baltic_Sea"], ["Cologne", "World_War_II", "Baltic_Sea"]]

@@ -1,0 +1,1 @@
+[["Crusades", "Austria", "Franks"], ["Crusades", "Byzantine_Empire", "Franks"], ["Crusades", "Charlemagne", "Franks"], ["Crusades", "France", "Franks"], ["Crusades", "Hungary", "Franks"], ["Crusades", "Middle_Ages", "Franks"], ["Crusades", "Roman_Empire", "Franks"], ["Crusades", "Spain", "Franks"], ["Crusades", "Viking", "Franks"]]

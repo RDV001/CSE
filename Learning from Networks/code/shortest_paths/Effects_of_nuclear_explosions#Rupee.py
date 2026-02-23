@@ -1,0 +1,1 @@
+[["Effects_of_nuclear_explosions", "Tropical_cyclone", "Sri_Lanka", "Rupee"]]

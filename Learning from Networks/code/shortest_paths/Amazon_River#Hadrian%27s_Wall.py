@@ -1,0 +1,1 @@
+[["Amazon_River", "Andes", "Roman_Empire", "Hadrian%27s_Wall"], ["Amazon_River", "Portugal", "Roman_Empire", "Hadrian%27s_Wall"], ["Amazon_River", "River", "Roman_Empire", "Hadrian%27s_Wall"], ["Amazon_River", "Atlantic_Ocean", "Newcastle_upon_Tyne", "Hadrian%27s_Wall"], ["Amazon_River", "Bolivia", "Archaeology", "Hadrian%27s_Wall"]]

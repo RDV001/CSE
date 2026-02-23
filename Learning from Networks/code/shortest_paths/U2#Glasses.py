@@ -1,0 +1,1 @@
+[["U2", "Dublin", "Middle_Ages", "Glasses"], ["U2", "France", "Middle_Ages", "Glasses"], ["U2", "Human_rights", "Middle_Ages", "Glasses"], ["U2", "London", "Middle_Ages", "Glasses"]]

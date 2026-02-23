@@ -1,0 +1,1 @@
+[["Hurricane_Andrew", "Africa", "Palm_oil"]]

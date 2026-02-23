@@ -1,0 +1,1 @@
+[["47_Ursae_Majoris", "Water", "River", "Oxbow_lake"]]

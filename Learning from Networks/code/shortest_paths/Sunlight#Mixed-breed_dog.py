@@ -1,0 +1,1 @@
+[["Sunlight", "Aesthetics", "Zeus", "Dog", "Mixed-breed_dog"], ["Sunlight", "Ultraviolet", "Retina", "Dog", "Mixed-breed_dog"], ["Sunlight", "Petroleum", "Soviet_Union", "Laika", "Mixed-breed_dog"]]

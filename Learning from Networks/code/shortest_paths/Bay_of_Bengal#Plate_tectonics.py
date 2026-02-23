@@ -1,0 +1,1 @@
+[["Bay_of_Bengal", "India", "Plate_tectonics"]]

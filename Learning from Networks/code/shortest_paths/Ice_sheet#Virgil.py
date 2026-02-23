@@ -1,0 +1,1 @@
+[["Ice_sheet", "Canada", "Latin", "Virgil"], ["Ice_sheet", "Europe", "Latin", "Virgil"], ["Ice_sheet", "Glacier", "Latin", "Virgil"], ["Ice_sheet", "South_America", "Latin", "Virgil"], ["Ice_sheet", "Europe", "Greek_mythology", "Virgil"], ["Ice_sheet", "Europe", "Homer", "Virgil"], ["Ice_sheet", "Plant", "Agriculture", "Virgil"]]

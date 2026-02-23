@@ -1,0 +1,1 @@
+[["Ghana", "Africa", "Elephant", "Ganesha"], ["Ghana", "England", "Hinduism", "Ganesha"], ["Ghana", "United_Kingdom", "Hinduism", "Ganesha"], ["Ghana", "United_States", "Hinduism", "Ganesha"], ["Ghana", "England", "Rudyard_Kipling", "Ganesha"]]

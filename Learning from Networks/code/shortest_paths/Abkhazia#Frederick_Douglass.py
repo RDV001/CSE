@@ -1,0 +1,1 @@
+[["Abkhazia", "Capital", "American_Civil_War", "Frederick_Douglass"], ["Abkhazia", "Tobacco", "American_Civil_War", "Frederick_Douglass"], ["Abkhazia", "Islam", "Slavery", "Frederick_Douglass"], ["Abkhazia", "Ottoman_Empire", "Slavery", "Frederick_Douglass"]]

@@ -1,0 +1,1 @@
+[["Goose", "Animal", "Human", "Humanism"], ["Goose", "Bird", "Human", "Humanism"], ["Goose", "Scientific_classification", "Human", "Humanism"], ["Goose", "Asia", "Rabindranath_Tagore", "Humanism"], ["Goose", "Europe", "Italy", "Humanism"], ["Goose", "Europe", "Renaissance", "Humanism"]]

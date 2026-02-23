@@ -1,0 +1,1 @@
+[["Spain", "Asia", "Toy", "Rubik%27s_Cube"], ["Spain", "Europe", "Budapest", "Rubik%27s_Cube"], ["Spain", "European_Union", "Budapest", "Rubik%27s_Cube"], ["Spain", "Hungary", "Budapest", "Rubik%27s_Cube"], ["Spain", "Istanbul", "Budapest", "Rubik%27s_Cube"]]

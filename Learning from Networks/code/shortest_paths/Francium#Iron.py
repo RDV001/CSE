@@ -1,0 +1,1 @@
+[["Francium", "Chemical_element", "Iron"], ["Francium", "List_of_elements_by_name", "Iron"], ["Francium", "Magnetism", "Iron"], ["Francium", "Mineral", "Iron"], ["Francium", "Periodic_table", "Iron"], ["Francium", "Phase_%28matter%29", "Iron"], ["Francium", "Salt", "Iron"]]

@@ -1,0 +1,1 @@
+[["Upsilon_Andromedae_d", "Ammonia", "United_States", "Bald_Eagle"], ["Upsilon_Andromedae_d", "Day", "United_States", "Bald_Eagle"], ["Upsilon_Andromedae_d", "Sun", "United_States", "Bald_Eagle"], ["Upsilon_Andromedae_d", "Water", "United_States", "Bald_Eagle"]]

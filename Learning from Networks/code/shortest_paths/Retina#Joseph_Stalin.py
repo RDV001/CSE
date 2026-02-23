@@ -1,0 +1,1 @@
+[["Retina", "Cancer", "World_War_II", "Joseph_Stalin"], ["Retina", "Dog", "Russia", "Joseph_Stalin"]]

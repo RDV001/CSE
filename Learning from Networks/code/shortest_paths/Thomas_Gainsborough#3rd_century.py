@@ -1,0 +1,1 @@
+[["Thomas_Gainsborough", "18th_century", "3rd_century"]]

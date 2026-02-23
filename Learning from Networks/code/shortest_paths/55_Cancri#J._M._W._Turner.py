@@ -1,0 +1,1 @@
+[["55_Cancri", "Binoculars", "United_Kingdom", "J._M._W._Turner"], ["55_Cancri", "Hubble_Space_Telescope", "United_Kingdom", "J._M._W._Turner"], ["55_Cancri", "Day", "19th_century", "J._M._W._Turner"]]

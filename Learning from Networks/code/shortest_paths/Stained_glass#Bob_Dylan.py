@@ -1,0 +1,1 @@
+[["Stained_glass", "Art", "Andy_Warhol", "Bob_Dylan"], ["Stained_glass", "Art", "Mona_Lisa", "Bob_Dylan"], ["Stained_glass", "Paris", "Mona_Lisa", "Bob_Dylan"]]

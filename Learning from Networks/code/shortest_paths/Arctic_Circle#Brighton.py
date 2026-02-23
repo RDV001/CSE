@@ -1,0 +1,1 @@
+[["Arctic_Circle", "Denmark", "England", "Brighton"], ["Arctic_Circle", "Norway", "England", "Brighton"], ["Arctic_Circle", "Sun", "England", "Brighton"], ["Arctic_Circle", "Greenland", "Tourism", "Brighton"], ["Arctic_Circle", "Iceland", "Tourism", "Brighton"], ["Arctic_Circle", "United_States", "Tourism", "Brighton"]]

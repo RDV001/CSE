@@ -1,0 +1,1 @@
+[["Ecology", "Carbon_dioxide", "Beer", "Playing_card"], ["Ecology", "Honey", "Beer", "Playing_card"], ["Ecology", "Nitrogen", "Beer", "Playing_card"]]

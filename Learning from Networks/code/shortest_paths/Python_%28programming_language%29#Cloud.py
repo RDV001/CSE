@@ -1,0 +1,1 @@
+[["Python_%28programming_language%29", "Google", "Internet", "Cloud"], ["Python_%28programming_language%29", "Macintosh", "Internet", "Cloud"], ["Python_%28programming_language%29", "Unix", "Internet", "Cloud"], ["Python_%28programming_language%29", "Netherlands", "Climate_change", "Cloud"]]

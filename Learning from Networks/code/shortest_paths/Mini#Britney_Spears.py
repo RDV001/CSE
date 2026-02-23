@@ -1,0 +1,1 @@
+[["Mini", "Automobile", "Paris", "Mona_Lisa", "Britney_Spears"], ["Mini", "London", "Paris", "Mona_Lisa", "Britney_Spears"], ["Mini", "Brighton", "Birmingham", "Duran_Duran", "Britney_Spears"], ["Mini", "The_Beatles", "James_Bond", "Duran_Duran", "Britney_Spears"], ["Mini", "United_Kingdom", "Arctic_Monkeys", "Duran_Duran", "Britney_Spears"]]

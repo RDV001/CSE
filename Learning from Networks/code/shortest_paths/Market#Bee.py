@@ -1,0 +1,1 @@
+[["Market", "Socialism", "Ecology", "Bee"]]

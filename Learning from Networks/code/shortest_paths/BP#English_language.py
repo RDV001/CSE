@@ -1,0 +1,1 @@
+[["BP", "Australia", "English_language"], ["BP", "California", "English_language"], ["BP", "Colombia", "English_language"], ["BP", "India", "English_language"], ["BP", "International_Court_of_Justice", "English_language"], ["BP", "Middle_East", "English_language"], ["BP", "North_Sea", "English_language"], ["BP", "United_Kingdom", "English_language"]]

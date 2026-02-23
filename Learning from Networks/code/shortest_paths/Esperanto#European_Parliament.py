@@ -1,0 +1,1 @@
+[["Esperanto", "Pope_John_Paul_II", "European_Parliament"]]

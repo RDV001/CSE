@@ -1,0 +1,1 @@
+[["Transport", "Acid_rain", "Volcano", "Mount_Unzen"], ["Transport", "Carbon", "Volcano", "Mount_Unzen"], ["Transport", "Carbon_dioxide", "Volcano", "Mount_Unzen"], ["Transport", "Energy", "Volcano", "Mount_Unzen"], ["Transport", "Japan", "Volcano", "Mount_Unzen"], ["Transport", "Sulfur", "Volcano", "Mount_Unzen"]]

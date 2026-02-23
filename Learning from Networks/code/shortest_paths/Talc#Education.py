@@ -1,0 +1,1 @@
+[["Talc", "United_States", "Education"]]

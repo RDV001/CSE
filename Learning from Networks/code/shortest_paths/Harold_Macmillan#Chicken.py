@@ -1,0 +1,1 @@
+[["Harold_Macmillan", "Iraq", "Saudi_Arabia", "Chicken"], ["Harold_Macmillan", "Kenya", "Saudi_Arabia", "Chicken"], ["Harold_Macmillan", "Oman", "Saudi_Arabia", "Chicken"], ["Harold_Macmillan", "United_Nations", "Saudi_Arabia", "Chicken"], ["Harold_Macmillan", "Kenya", "Dinosaur", "Chicken"], ["Harold_Macmillan", "Kenya", "Zimbabwe", "Chicken"]]

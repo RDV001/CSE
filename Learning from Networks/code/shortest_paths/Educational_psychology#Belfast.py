@@ -1,0 +1,1 @@
+[["Educational_psychology", "Anthropology", "Frederick_Douglass", "Belfast"], ["Educational_psychology", "Anthropology", "United_Kingdom", "Belfast"], ["Educational_psychology", "Medicine", "United_Kingdom", "Belfast"], ["Educational_psychology", "North_America", "United_Kingdom", "Belfast"], ["Educational_psychology", "North_America", "Atlantic_Ocean", "Belfast"]]

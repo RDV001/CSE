@@ -1,0 +1,1 @@
+[["List_of_Asian_countries", "Armenia", "Food", "Hippocrates"], ["List_of_Asian_countries", "Hong_Kong", "Food", "Hippocrates"], ["List_of_Asian_countries", "Iran", "Medicine", "Hippocrates"], ["List_of_Asian_countries", "Japan", "Medicine", "Hippocrates"], ["List_of_Asian_countries", "Malaysia", "Medicine", "Hippocrates"]]

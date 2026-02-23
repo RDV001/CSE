@@ -1,0 +1,1 @@
+[["Star_Trek__Deep_Space_Nine", "United_States", "Potato", "Fatty_acid"], ["Star_Trek__Deep_Space_Nine", "United_States", "Rice", "Fatty_acid"]]

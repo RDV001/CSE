@@ -1,0 +1,1 @@
+[["Aristarchus_%28crater%29", "Italy", "Agriculture", "Horse", "Pony"], ["Aristarchus_%28crater%29", "Italy", "Ancient_Rome", "Horse", "Pony"], ["Aristarchus_%28crater%29", "Mineral", "Great_Salt_Lake", "Horse", "Pony"], ["Aristarchus_%28crater%29", "Italy", "United_Kingdom", "Ben_Nevis", "Pony"], ["Aristarchus_%28crater%29", "Sulfur", "United_Kingdom", "Ben_Nevis", "Pony"]]

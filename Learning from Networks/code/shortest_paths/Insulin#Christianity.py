@@ -1,0 +1,1 @@
+[["Insulin", "Human", "Christianity"], ["Insulin", "Romania", "Christianity"], ["Insulin", "Symmetry", "Christianity"]]

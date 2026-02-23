@@ -1,0 +1,1 @@
+[["Emotion", "Charles_Darwin", "Ecology", "Bear", "Giant_Panda"], ["Emotion", "Organism", "Ecology", "Bear", "Giant_Panda"], ["Emotion", "Human", "Carnivore", "Bear", "Giant_Panda"], ["Emotion", "Mammal", "Oligocene", "Bear", "Giant_Panda"], ["Emotion", "Charles_Darwin", "Nazi_Germany", "Swastika", "Giant_Panda"], ["Emotion", "Human", "Hinduism", "Swastika", "Giant_Panda"]]

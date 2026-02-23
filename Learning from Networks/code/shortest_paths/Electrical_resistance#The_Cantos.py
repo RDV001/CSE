@@ -1,0 +1,1 @@
+[["Electrical_resistance", "Atom", "Quark", "James_Joyce", "Ezra_Pound", "The_Cantos"], ["Electrical_resistance", "Metal", "Painting", "Rabindranath_Tagore", "Ezra_Pound", "The_Cantos"]]

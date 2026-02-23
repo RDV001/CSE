@@ -1,0 +1,1 @@
+[["Great_white_shark", "Australia", "Australian_English", "Microsoft"], ["Great_white_shark", "BBC", "Internet", "Microsoft"], ["Great_white_shark", "Cuba", "Miami%2C_Florida", "Microsoft"], ["Great_white_shark", "Mauritius", "Dubai", "Microsoft"], ["Great_white_shark", "South_Africa", "Lesotho", "Microsoft"]]

@@ -1,0 +1,1 @@
+[["Barbados", "Anglican_Communion", "Apostolic_Succession"], ["Barbados", "Roman_Catholic_Church", "Apostolic_Succession"]]

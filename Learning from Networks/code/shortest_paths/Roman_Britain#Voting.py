@@ -1,0 +1,1 @@
+[["Roman_Britain", "Architecture", "Politics", "Voting"], ["Roman_Britain", "London", "Politics", "Voting"], ["Roman_Britain", "Christianity", "First_Council_of_Nicaea", "Voting"], ["Roman_Britain", "Constantine_I", "First_Council_of_Nicaea", "Voting"]]

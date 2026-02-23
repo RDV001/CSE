@@ -1,0 +1,1 @@
+[["Politics_of_the_United_Kingdom", "Edinburgh", "Geology", "Glaciology"], ["Politics_of_the_United_Kingdom", "Europe", "Geology", "Glaciology"], ["Politics_of_the_United_Kingdom", "Europe", "Ice_age", "Glaciology"], ["Politics_of_the_United_Kingdom", "Northern_Ireland", "Ice_age", "Glaciology"], ["Politics_of_the_United_Kingdom", "Wales", "Ice_age", "Glaciology"]]

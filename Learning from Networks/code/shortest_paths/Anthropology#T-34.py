@@ -1,0 +1,1 @@
+[["Anthropology", "World_War_I", "Tank", "T-34"], ["Anthropology", "World_War_II", "Tank", "T-34"], ["Anthropology", "World_War_II", "Battle_of_Moscow", "T-34"]]

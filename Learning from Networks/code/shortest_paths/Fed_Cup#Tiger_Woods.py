@@ -1,0 +1,1 @@
+[["Fed_Cup", "Australia", "Grand_Slam_%28tennis%29", "Tiger_Woods"], ["Fed_Cup", "Melbourne", "Grand_Slam_%28tennis%29", "Tiger_Woods"], ["Fed_Cup", "Tennis", "Grand_Slam_%28tennis%29", "Tiger_Woods"]]

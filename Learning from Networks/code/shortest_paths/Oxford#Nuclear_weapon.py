@@ -1,0 +1,1 @@
+[["Oxford", "20th_century", "Nuclear_weapon"], ["Oxford", "Russia", "Nuclear_weapon"]]

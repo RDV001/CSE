@@ -1,0 +1,1 @@
+[["Max_Planck", "20th_century", "Asia", "Bangkok"], ["Max_Planck", "Germany", "Asia", "Bangkok"], ["Max_Planck", "Berlin", "Beijing", "Bangkok"], ["Max_Planck", "New_York_City", "Beijing", "Bangkok"], ["Max_Planck", "Germany", "Finland", "Bangkok"], ["Max_Planck", "New_York_City", "Global_city", "Bangkok"]]

@@ -1,0 +1,1 @@
+[["Nobel_Peace_Prize", "Mother_Teresa", "Pneumonia", "Ascariasis"], ["Nobel_Peace_Prize", "World_War_I", "Pneumonia", "Ascariasis"]]

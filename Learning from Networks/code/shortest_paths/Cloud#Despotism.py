@@ -1,0 +1,1 @@
+[["Cloud", "Earth", "Africa", "Despotism"], ["Cloud", "Indian_Ocean", "Africa", "Despotism"], ["Cloud", "Rain", "Africa", "Despotism"], ["Cloud", "Earth", "Government", "Despotism"]]

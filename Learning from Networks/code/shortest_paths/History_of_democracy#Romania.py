@@ -1,0 +1,1 @@
+[["History_of_democracy", "19th_century", "Romania"], ["History_of_democracy", "Italy", "Romania"], ["History_of_democracy", "Monarchy", "Romania"], ["History_of_democracy", "Polish-Lithuanian_Commonwealth", "Romania"], ["History_of_democracy", "Portugal", "Romania"], ["History_of_democracy", "Rome", "Romania"]]

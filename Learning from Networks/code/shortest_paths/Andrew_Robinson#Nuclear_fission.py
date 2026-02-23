@@ -1,0 +1,1 @@
+[["Andrew_Robinson", "Television", "Sweden", "Nuclear_fission"], ["Andrew_Robinson", "United_States", "Sweden", "Nuclear_fission"], ["Andrew_Robinson", "United_States", "Nuclear_power", "Nuclear_fission"], ["Andrew_Robinson", "United_States", "Nuclear_weapon", "Nuclear_fission"], ["Andrew_Robinson", "World_War_II", "Nuclear_weapon", "Nuclear_fission"]]

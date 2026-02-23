@@ -1,0 +1,1 @@
+[["Asperger_syndrome", "Geography", "16th_century", "Mary_I_of_Scotland"], ["Asperger_syndrome", "History", "16th_century", "Mary_I_of_Scotland"], ["Asperger_syndrome", "Mathematics", "16th_century", "Mary_I_of_Scotland"], ["Asperger_syndrome", "Isaac_Newton", "Charles_II_of_England", "Mary_I_of_Scotland"]]

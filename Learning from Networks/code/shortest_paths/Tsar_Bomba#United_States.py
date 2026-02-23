@@ -1,0 +1,1 @@
+[["Tsar_Bomba", "Arctic_Circle", "United_States"], ["Tsar_Bomba", "Finland", "United_States"], ["Tsar_Bomba", "Nuclear_fission", "United_States"], ["Tsar_Bomba", "Nuclear_weapon", "United_States"], ["Tsar_Bomba", "Russian_language", "United_States"], ["Tsar_Bomba", "Soviet_Union", "United_States"], ["Tsar_Bomba", "Sun", "United_States"]]

@@ -1,0 +1,1 @@
+[["Earth%27s_atmosphere", "Ammonia", "People%27s_Republic_of_China"], ["Earth%27s_atmosphere", "Mount_Everest", "People%27s_Republic_of_China"], ["Earth%27s_atmosphere", "United_States", "People%27s_Republic_of_China"]]

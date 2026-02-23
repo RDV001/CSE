@@ -1,0 +1,1 @@
+[["Warren_G._Harding", "League_of_Nations", "Geneva"]]

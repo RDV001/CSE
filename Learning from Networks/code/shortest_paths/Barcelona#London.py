@@ -1,0 +1,1 @@
+[["Barcelona", "Antwerp", "London"], ["Barcelona", "Football_%28soccer%29", "London"], ["Barcelona", "Germany", "London"], ["Barcelona", "Istanbul", "London"], ["Barcelona", "Rio_de_Janeiro", "London"], ["Barcelona", "S%C3%A3o_Paulo", "London"], ["Barcelona", "Spanish_language", "London"]]

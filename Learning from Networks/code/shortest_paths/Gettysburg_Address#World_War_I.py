@@ -1,0 +1,1 @@
+[["Gettysburg_Address", "Democracy", "World_War_I"], ["Gettysburg_Address", "United_States", "World_War_I"]]

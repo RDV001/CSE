@@ -1,0 +1,1 @@
+[["Clock", "17th_century", "Japan", "Mario"], ["Clock", "20th_century", "Japan", "Mario"], ["Clock", "London", "Japan", "Mario"]]

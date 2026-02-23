@@ -1,0 +1,1 @@
+[["Bat-eared_Fox", "Insect", "Protein", "Sequence_alignment", "Multiple_sequence_alignment"]]

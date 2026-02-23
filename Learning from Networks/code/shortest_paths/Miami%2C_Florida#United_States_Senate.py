@@ -1,0 +1,1 @@
+[["Miami%2C_Florida", "Amtrak", "United_States_Senate"], ["Miami%2C_Florida", "Cleveland%2C_Ohio", "United_States_Senate"], ["Miami%2C_Florida", "Federal_Bureau_of_Investigation", "United_States_Senate"], ["Miami%2C_Florida", "Florida", "United_States_Senate"], ["Miami%2C_Florida", "United_States", "United_States_Senate"]]

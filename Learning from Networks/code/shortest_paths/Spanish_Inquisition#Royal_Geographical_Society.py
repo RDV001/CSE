@@ -1,0 +1,1 @@
+[["Spanish_Inquisition", "Jew", "Geography", "Royal_Geographical_Society"]]

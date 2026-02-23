@@ -1,0 +1,1 @@
+[["Momentum", "Gottfried_Leibniz", "Egypt"], ["Momentum", "Symmetry", "Egypt"]]

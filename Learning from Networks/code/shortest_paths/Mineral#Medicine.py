@@ -1,0 +1,1 @@
+[["Mineral", "Antimony", "Medicine"], ["Mineral", "Biology", "Medicine"], ["Mineral", "Chlorine", "Medicine"], ["Mineral", "Oxygen", "Medicine"]]

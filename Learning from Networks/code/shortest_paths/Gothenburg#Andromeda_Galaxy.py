@@ -1,0 +1,1 @@
+[["Gothenburg", "Iran", "Astronomy", "Andromeda_Galaxy"]]

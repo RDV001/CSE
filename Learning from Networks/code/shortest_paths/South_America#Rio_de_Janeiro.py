@@ -1,0 +1,1 @@
+[["South_America", "Atlantic_Ocean", "Rio_de_Janeiro"], ["South_America", "Biodiversity", "Rio_de_Janeiro"], ["South_America", "Bras%C3%ADlia", "Rio_de_Janeiro"], ["South_America", "Brazil", "Rio_de_Janeiro"], ["South_America", "Capital", "Rio_de_Janeiro"], ["South_America", "Latin_America", "Rio_de_Janeiro"]]

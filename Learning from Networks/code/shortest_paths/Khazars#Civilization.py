@@ -1,0 +1,1 @@
+[["Khazars", "China", "Civilization"], ["Khazars", "Hungary", "Civilization"]]

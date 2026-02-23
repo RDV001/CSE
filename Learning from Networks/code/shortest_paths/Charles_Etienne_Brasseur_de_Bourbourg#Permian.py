@@ -1,0 +1,1 @@
+[["Charles_Etienne_Brasseur_de_Bourbourg", "Archaeology", "Plant", "Permian"], ["Charles_Etienne_Brasseur_de_Bourbourg", "British_Empire", "British_Isles", "Permian"], ["Charles_Etienne_Brasseur_de_Bourbourg", "Maya_mythology", "Turtle", "Permian"]]

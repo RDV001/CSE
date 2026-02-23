@@ -1,0 +1,1 @@
+[["Herodotus", "Africa", "World_War_II", "Ho_Chi_Minh_City"], ["Herodotus", "Anthropology", "World_War_II", "Ho_Chi_Minh_City"], ["Herodotus", "Athens", "World_War_II", "Ho_Chi_Minh_City"], ["Herodotus", "Ukraine", "World_War_II", "Ho_Chi_Minh_City"], ["Herodotus", "Anthropology", "Vietnam_War", "Ho_Chi_Minh_City"]]

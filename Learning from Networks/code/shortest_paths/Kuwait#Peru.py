@@ -1,0 +1,1 @@
+[["Kuwait", "List_of_countries_by_system_of_government", "Peru"], ["Kuwait", "Petroleum", "Peru"], ["Kuwait", "United_States", "Peru"]]

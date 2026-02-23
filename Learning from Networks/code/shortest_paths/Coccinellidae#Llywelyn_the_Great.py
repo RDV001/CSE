@@ -1,0 +1,1 @@
+[["Coccinellidae", "Europe", "Wales", "Welsh_law", "Llywelyn_the_Great"], ["Coccinellidae", "Norse_mythology", "13th_century", "John_of_England", "Llywelyn_the_Great"]]

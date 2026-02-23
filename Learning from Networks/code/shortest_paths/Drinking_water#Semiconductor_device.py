@@ -1,0 +1,1 @@
+[["Drinking_water", "Earth", "Silicon", "Semiconductor_device"], ["Drinking_water", "Iran", "Electronics", "Semiconductor_device"], ["Drinking_water", "Singapore", "Electronics", "Semiconductor_device"], ["Drinking_water", "United_States", "Electronics", "Semiconductor_device"]]

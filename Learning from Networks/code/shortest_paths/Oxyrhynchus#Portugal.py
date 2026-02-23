@@ -1,0 +1,1 @@
+[["Oxyrhynchus", "Ottoman_Empire", "Portugal"]]

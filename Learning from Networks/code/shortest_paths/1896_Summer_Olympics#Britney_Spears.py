@@ -1,0 +1,1 @@
+[["1896_Summer_Olympics", "Paris", "Mona_Lisa", "Britney_Spears"], ["1896_Summer_Olympics", "Roman_Catholic_Church", "Mona_Lisa", "Britney_Spears"]]

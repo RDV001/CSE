@@ -1,0 +1,1 @@
+[["Western_Sahara", "Atlantic_Ocean", "Sweden"], ["Western_Sahara", "European_Union", "Sweden"], ["Western_Sahara", "Kofi_Annan", "Sweden"], ["Western_Sahara", "List_of_countries_by_system_of_government", "Sweden"], ["Western_Sahara", "Monarchy", "Sweden"], ["Western_Sahara", "Time_zone", "Sweden"], ["Western_Sahara", "United_States", "Sweden"]]

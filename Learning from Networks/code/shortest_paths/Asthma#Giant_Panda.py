@@ -1,0 +1,1 @@
+[["Asthma", "Genetics", "Ecology", "Bear", "Giant_Panda"], ["Asthma", "Hippocrates", "Honey", "Bear", "Giant_Panda"], ["Asthma", "Virus", "Rabies", "Bear", "Giant_Panda"], ["Asthma", "Tobacco_smoking", "Nazism", "Swastika", "Giant_Panda"]]

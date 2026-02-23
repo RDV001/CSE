@@ -1,0 +1,1 @@
+[["Myers-Briggs_Type_Indicator", "Astrology", "Francis_Bacon", "Meat"], ["Myers-Briggs_Type_Indicator", "World_War_II", "Finland", "Meat"], ["Myers-Briggs_Type_Indicator", "World_War_II", "Japan", "Meat"]]

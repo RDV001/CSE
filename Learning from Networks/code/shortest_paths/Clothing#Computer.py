@@ -1,0 +1,1 @@
+[["Clothing", "20th_century", "Computer"], ["Clothing", "Weapon", "Computer"]]

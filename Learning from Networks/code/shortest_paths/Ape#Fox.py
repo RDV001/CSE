@@ -1,0 +1,1 @@
+[["Ape", "Africa", "Europe", "Fox"], ["Ape", "Asia", "Europe", "Fox"], ["Ape", "Christianity", "Europe", "Fox"], ["Ape", "Human", "Europe", "Fox"], ["Ape", "Jew", "Europe", "Fox"], ["Ape", "Fishing", "Frog", "Fox"]]

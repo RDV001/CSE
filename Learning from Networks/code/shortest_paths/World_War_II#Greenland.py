@@ -1,0 +1,1 @@
+[["World_War_II", "Battle_of_Normandy", "Greenland"], ["World_War_II", "Denmark", "Greenland"], ["World_War_II", "Europe", "Greenland"], ["World_War_II", "Norway", "Greenland"], ["World_War_II", "United_States", "Greenland"]]

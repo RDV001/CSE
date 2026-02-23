@@ -1,0 +1,1 @@
+[["Friedrich_Nietzsche", "Paraguay", "Mestizo", "Harry_Potter"], ["Friedrich_Nietzsche", "United_Kingdom", "Edinburgh", "Harry_Potter"], ["Friedrich_Nietzsche", "United_Kingdom", "J._K._Rowling", "Harry_Potter"]]

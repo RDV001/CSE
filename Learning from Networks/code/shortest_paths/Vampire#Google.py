@@ -1,0 +1,1 @@
+[["Vampire", "Birmingham", "Dublin", "Google"], ["Vampire", "Europe", "Dublin", "Google"], ["Vampire", "Fiction", "Advertising", "Google"], ["Vampire", "Film", "21st_century", "Google"], ["Vampire", "South_America", "21st_century", "Google"], ["Vampire", "Voltaire", "Encyclop%C3%A6dia_Britannica", "Google"]]

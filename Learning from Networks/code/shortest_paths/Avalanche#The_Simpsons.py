@@ -1,0 +1,1 @@
+[["Avalanche", "Canada", "Ice_hockey", "The_Simpsons"], ["Avalanche", "United_States", "Ice_hockey", "The_Simpsons"], ["Avalanche", "Tree", "Oregon", "The_Simpsons"], ["Avalanche", "United_States", "Oregon", "The_Simpsons"], ["Avalanche", "United_States", "Cayman_Islands", "The_Simpsons"]]

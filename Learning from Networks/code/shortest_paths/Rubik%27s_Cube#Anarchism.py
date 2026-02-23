@@ -1,0 +1,1 @@
+[["Rubik%27s_Cube", "Capitalism", "Anarchism"]]

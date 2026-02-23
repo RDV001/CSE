@@ -1,0 +1,1 @@
+[["Zinc_chloride", "Chlorine", "List_of_elements_by_name", "Hafnium"], ["Zinc_chloride", "Nitrogen", "List_of_elements_by_name", "Hafnium"], ["Zinc_chloride", "Zinc", "List_of_elements_by_name", "Hafnium"], ["Zinc_chloride", "Chlorine", "Periodic_table", "Hafnium"], ["Zinc_chloride", "Nitrogen", "Periodic_table", "Hafnium"], ["Zinc_chloride", "Zinc", "Periodic_table", "Hafnium"]]

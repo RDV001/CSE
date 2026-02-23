@@ -1,0 +1,1 @@
+[["Lord_Voldemort", "Russian_language", "Aleksandr_Pushkin"]]

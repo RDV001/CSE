@@ -1,0 +1,1 @@
+[["Jacobite_rising", "17th_century", "South_Africa", "Hippopotamus"], ["Jacobite_rising", "Newcastle_upon_Tyne", "South_Africa", "Hippopotamus"], ["Jacobite_rising", "Edinburgh", "Mammal", "Hippopotamus"]]

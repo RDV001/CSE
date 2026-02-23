@@ -1,0 +1,1 @@
+[["Zimbabwe", "Cold_War", "Nuclear_weapon"], ["Zimbabwe", "Democratic_Republic_of_the_Congo", "Nuclear_weapon"], ["Zimbabwe", "Gold", "Nuclear_weapon"], ["Zimbabwe", "North_Korea", "Nuclear_weapon"], ["Zimbabwe", "South_Africa", "Nuclear_weapon"], ["Zimbabwe", "United_Nations", "Nuclear_weapon"]]

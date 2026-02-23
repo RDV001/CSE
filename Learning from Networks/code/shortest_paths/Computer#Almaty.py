@@ -1,0 +1,1 @@
+[["Computer", "Cryptography", "Kazakhstan", "Almaty"], ["Computer", "Toy", "Apple", "Almaty"]]

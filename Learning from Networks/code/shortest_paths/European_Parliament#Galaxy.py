@@ -1,0 +1,1 @@
+[["European_Parliament", "Belgium", "Big_Bang", "Galaxy"], ["European_Parliament", "Germany", "Gottfried_Leibniz", "Galaxy"], ["European_Parliament", "United_Kingdom", "Gravitation", "Galaxy"]]

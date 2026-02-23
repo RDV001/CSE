@@ -1,0 +1,1 @@
+[["Glasgow", "British_Empire", "Akrotiri_and_Dhekelia", "ECHELON"], ["Glasgow", "Germany", "NATO", "ECHELON"], ["Glasgow", "Italy", "NATO", "ECHELON"], ["Glasgow", "Socialism", "NATO", "ECHELON"], ["Glasgow", "United_Kingdom", "NATO", "ECHELON"], ["Glasgow", "United_States", "NATO", "ECHELON"]]

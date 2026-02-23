@@ -1,0 +1,1 @@
+[["Plutonium", "Cold_War", "Adolf_Hitler"]]

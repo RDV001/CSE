@@ -1,0 +1,1 @@
+[["North_America", "Plate_tectonics", "Astronomy", "Globular_cluster"]]

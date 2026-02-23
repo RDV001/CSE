@@ -1,0 +1,1 @@
+[["Beer", "Africa", "Abidjan", "Park"], ["Beer", "Africa", "Antananarivo", "Park"], ["Beer", "Africa", "Tripoli", "Park"], ["Beer", "Andes", "Machu_Picchu", "Park"], ["Beer", "Vienna", "Berlin", "Park"], ["Beer", "Water", "Montreal", "Park"], ["Beer", "Water", "Sunlight", "Park"]]

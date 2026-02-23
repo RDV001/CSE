@@ -1,0 +1,1 @@
+[["Upsilon_Andromedae", "Day", "United_States", "Peace"], ["Upsilon_Andromedae", "Earth", "United_States", "Peace"], ["Upsilon_Andromedae", "Sun", "United_States", "Peace"], ["Upsilon_Andromedae", "Earth", "Carl_Sagan", "Peace"], ["Upsilon_Andromedae", "Jupiter", "Carl_Sagan", "Peace"]]

@@ -1,0 +1,1 @@
+[["Pollution", "United_Kingdom", "Anne_of_Great_Britain", "Jacobite_rising"]]

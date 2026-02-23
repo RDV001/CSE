@@ -1,0 +1,1 @@
+[["Swift", "Bird_migration", "Ireland", "James_Joyce"], ["Swift", "Denmark", "Ireland", "James_Joyce"], ["Swift", "France", "Republic_of_Ireland", "James_Joyce"], ["Swift", "France", "River", "James_Joyce"]]

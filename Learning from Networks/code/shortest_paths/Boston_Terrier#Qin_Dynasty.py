@@ -1,0 +1,1 @@
+[["Boston_Terrier", "United_States", "China", "Qin_Dynasty"], ["Boston_Terrier", "United_States", "People%27s_Republic_of_China", "Qin_Dynasty"]]

@@ -1,0 +1,1 @@
+[["Arctic", "Pollution", "Mexico", "Nahuatl_language"], ["Arctic", "United_States", "Mexico", "Nahuatl_language"], ["Arctic", "United_States", "Nicaragua", "Nahuatl_language"]]

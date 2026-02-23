@@ -1,0 +1,1 @@
+[["Camel", "Africa", "Liberia"], ["Camel", "Egypt", "Liberia"], ["Camel", "Ethiopia", "Liberia"], ["Camel", "Kenya", "Liberia"], ["Camel", "Somalia", "Liberia"], ["Camel", "Sudan", "Liberia"]]

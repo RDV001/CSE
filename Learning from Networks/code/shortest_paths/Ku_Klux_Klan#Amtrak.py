@@ -1,0 +1,1 @@
+[["Ku_Klux_Klan", "Atlanta%2C_Georgia", "Amtrak"], ["Ku_Klux_Klan", "Boston%2C_Massachusetts", "Amtrak"], ["Ku_Klux_Klan", "Los_Angeles%2C_California", "Amtrak"], ["Ku_Klux_Klan", "Nashville%2C_Tennessee", "Amtrak"], ["Ku_Klux_Klan", "United_States", "Amtrak"], ["Ku_Klux_Klan", "West_Virginia", "Amtrak"]]

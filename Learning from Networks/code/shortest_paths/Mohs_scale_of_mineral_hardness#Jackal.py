@@ -1,0 +1,1 @@
+[["Mohs_scale_of_mineral_hardness", "Diamond", "Europe", "Jackal"], ["Mohs_scale_of_mineral_hardness", "Gold", "Argentina", "Jackal"], ["Mohs_scale_of_mineral_hardness", "Silver", "Argentina", "Jackal"], ["Mohs_scale_of_mineral_hardness", "Mineral", "Dead_Sea", "Jackal"]]

@@ -1,0 +1,1 @@
+[["Ku_Klux_Klan", "Nashville%2C_Tennessee", "Parthenon", "Titanium"], ["Ku_Klux_Klan", "United_States", "Moon", "Titanium"], ["Ku_Klux_Klan", "West_Virginia", "Metallurgy", "Titanium"]]

@@ -1,0 +1,1 @@
+[["Australian_Open", "New_Zealand", "Constitutional_monarchy", "John_Locke", "Chew_Magna", "Chew_Valley"], ["Australian_Open", "New_Zealand", "England", "John_Locke", "Chew_Magna", "Chew_Valley"], ["Australian_Open", "Tennis", "England", "John_Locke", "Chew_Magna", "Chew_Valley"], ["Australian_Open", "New_Zealand", "Human_rights", "John_Locke", "Chew_Magna", "Chew_Valley"]]

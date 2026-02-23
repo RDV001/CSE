@@ -1,0 +1,1 @@
+[["Tropical_Storm_Zeta_%282005%29", "Tropical_cyclone", "Earth", "Red_giant"], ["Tropical_Storm_Zeta_%282005%29", "Tropical_cyclone", "Sun", "Red_giant"]]

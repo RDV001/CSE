@@ -1,0 +1,1 @@
+[["Stanley%2C_Falkland_Islands", "Argentina", "Liberalism", "Benjamin_Franklin"], ["Stanley%2C_Falkland_Islands", "Argentina", "United_States_dollar", "Benjamin_Franklin"], ["Stanley%2C_Falkland_Islands", "United_Kingdom", "United_States_dollar", "Benjamin_Franklin"]]

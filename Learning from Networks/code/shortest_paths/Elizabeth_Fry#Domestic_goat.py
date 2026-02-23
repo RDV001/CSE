@@ -1,0 +1,1 @@
+[["Elizabeth_Fry", "Canada", "Afghanistan", "Domestic_goat"], ["Elizabeth_Fry", "Crimean_War", "Afghanistan", "Domestic_goat"], ["Elizabeth_Fry", "England", "King_Arthur", "Domestic_goat"], ["Elizabeth_Fry", "Society", "Civilization", "Domestic_goat"]]

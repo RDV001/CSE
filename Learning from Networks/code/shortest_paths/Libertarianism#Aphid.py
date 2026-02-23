@@ -1,0 +1,1 @@
+[["Libertarianism", "United_States", "Maize", "Aphid"]]

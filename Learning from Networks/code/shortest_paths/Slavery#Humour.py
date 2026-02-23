@@ -1,0 +1,1 @@
+[["Slavery", "English_language", "Cattle", "Humour"], ["Slavery", "London", "Newspaper", "Humour"], ["Slavery", "Plato", "Aesthetics", "Humour"]]

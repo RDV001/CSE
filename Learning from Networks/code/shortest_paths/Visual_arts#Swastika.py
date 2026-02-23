@@ -1,0 +1,1 @@
+[["Visual_arts", "Sculpture", "Hinduism", "Swastika"], ["Visual_arts", "United_Kingdom", "Hinduism", "Swastika"]]

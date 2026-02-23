@@ -1,0 +1,1 @@
+[["Cambrian", "20th_century", "Africa", "Lilongwe"], ["Cambrian", "Carbon", "Africa", "Lilongwe"], ["Cambrian", "Continent", "Africa", "Lilongwe"], ["Cambrian", "Namibia", "Africa", "Lilongwe"], ["Cambrian", "Ocean", "Africa", "Lilongwe"]]

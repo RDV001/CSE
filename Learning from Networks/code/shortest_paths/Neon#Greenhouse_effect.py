@@ -1,0 +1,1 @@
+[["Neon", "Earth", "Greenhouse_effect"], ["Neon", "Earth%27s_atmosphere", "Greenhouse_effect"]]

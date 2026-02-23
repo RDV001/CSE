@@ -1,0 +1,1 @@
+[["Abadan", "Petroleum", "Fertilizer", "Humus"]]

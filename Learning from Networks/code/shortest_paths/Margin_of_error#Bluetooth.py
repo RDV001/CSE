@@ -1,0 +1,1 @@
+[["Margin_of_error", "Mass_media", "IPod", "Bluetooth"], ["Margin_of_error", "Mass_media", "Radio", "Bluetooth"], ["Margin_of_error", "Ralph_Nader", "Chinese_language", "Bluetooth"]]

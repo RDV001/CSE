@@ -1,0 +1,1 @@
+[["Kazakhstan", "Mining", "Pigment", "Albinism", "Chromatophore"]]

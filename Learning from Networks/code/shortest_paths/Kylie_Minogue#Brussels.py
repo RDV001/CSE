@@ -1,0 +1,1 @@
+[["Kylie_Minogue", "Belgium", "Brussels"], ["Kylie_Minogue", "Europe", "Brussels"], ["Kylie_Minogue", "France", "Brussels"]]

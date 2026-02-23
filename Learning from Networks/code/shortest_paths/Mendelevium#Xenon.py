@@ -1,0 +1,1 @@
+[["Mendelevium", "List_of_elements_by_name", "Xenon"], ["Mendelevium", "Periodic_table", "Xenon"], ["Mendelevium", "Radon", "Xenon"], ["Mendelevium", "Thulium", "Xenon"]]

@@ -1,0 +1,1 @@
+[["Sputnik_1", "Earth", "Organism", "Ant"], ["Sputnik_1", "Laika", "Organism", "Ant"], ["Sputnik_1", "Earth", "Plant", "Ant"], ["Sputnik_1", "Sputnik_program", "Plant", "Ant"]]

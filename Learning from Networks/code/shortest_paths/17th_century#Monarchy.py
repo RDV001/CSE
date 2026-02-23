@@ -1,0 +1,1 @@
+[["17th_century", "10th_century", "Monarchy"], ["17th_century", "2nd_century", "Monarchy"], ["17th_century", "Armand_Jean_du_Plessis%2C_Cardinal_Richelieu", "Monarchy"], ["17th_century", "Constitutional_monarchy", "Monarchy"], ["17th_century", "Ottoman_Empire", "Monarchy"], ["17th_century", "Spain", "Monarchy"], ["17th_century", "Sweden", "Monarchy"]]

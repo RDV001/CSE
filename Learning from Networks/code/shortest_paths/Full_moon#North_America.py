@@ -1,0 +1,1 @@
+[["Full_moon", "Earth", "North_America"]]

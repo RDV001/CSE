@@ -1,0 +1,1 @@
+[["Charles_Sumner", "United_States", "United_States_dollar"], ["Charles_Sumner", "United_States_House_of_Representatives", "United_States_dollar"]]

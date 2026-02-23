@@ -1,0 +1,1 @@
+[["Hurricane_Floyd", "2005_Atlantic_hurricane_season", "Cuba"], ["Hurricane_Floyd", "Bill_Clinton", "Cuba"], ["Hurricane_Floyd", "Caribbean_Sea", "Cuba"], ["Hurricane_Floyd", "Florida", "Cuba"], ["Hurricane_Floyd", "The_Bahamas", "Cuba"], ["Hurricane_Floyd", "United_States", "Cuba"]]

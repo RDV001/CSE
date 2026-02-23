@@ -1,0 +1,1 @@
+[["Extinction", "New_Zealand", "Nuclear_weapon"], ["Extinction", "Pollution", "Nuclear_weapon"]]

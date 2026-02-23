@@ -1,0 +1,1 @@
+[["Comet_Hale-Bopp", "Comet", "Aristotle"], ["Comet_Hale-Bopp", "Extraterrestrial_life", "Aristotle"], ["Comet_Hale-Bopp", "Gravitation", "Aristotle"]]

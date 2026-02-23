@@ -1,0 +1,1 @@
+[["History_of_nuclear_weapons", "Adolf_Hitler"]]

@@ -1,0 +1,1 @@
+[["Thorax", "Human", "City", "S%C3%A3o_Paulo"], ["Thorax", "Human", "Mexico_City", "S%C3%A3o_Paulo"], ["Thorax", "Human", "Seoul", "S%C3%A3o_Paulo"], ["Thorax", "Human", "Shanghai", "S%C3%A3o_Paulo"]]

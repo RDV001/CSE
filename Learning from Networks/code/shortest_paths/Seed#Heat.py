@@ -1,0 +1,1 @@
+[["Seed", "Light", "Heat"], ["Seed", "Sun", "Heat"]]

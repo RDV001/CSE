@@ -1,0 +1,1 @@
+[["Force", "Physics", "Nuclear_weapon", "History_of_nuclear_weapons"]]

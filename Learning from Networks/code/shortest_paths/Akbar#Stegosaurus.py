@@ -1,0 +1,1 @@
+[["Akbar", "Christianity", "John_Calvin", "Calvin_and_Hobbes", "Stegosaurus"], ["Akbar", "Philosophy", "Thomas_Hobbes", "Calvin_and_Hobbes", "Stegosaurus"], ["Akbar", "Malwa_%28Madhya_Pradesh%29", "Cretaceous", "Dinosaur", "Stegosaurus"], ["Akbar", "Philosophy", "Nature", "Dinosaur", "Stegosaurus"]]

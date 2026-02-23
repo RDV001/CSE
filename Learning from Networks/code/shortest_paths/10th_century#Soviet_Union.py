@@ -1,0 +1,1 @@
+[["10th_century", "Algeria", "Soviet_Union"], ["10th_century", "Germany", "Soviet_Union"], ["10th_century", "India", "Soviet_Union"], ["10th_century", "Poland", "Soviet_Union"], ["10th_century", "Solar_System", "Soviet_Union"], ["10th_century", "Sweden", "Soviet_Union"]]

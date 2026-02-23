@@ -1,0 +1,1 @@
+[["Aphid", "New_Zealand", "Asia", "Uzbekistan"], ["Aphid", "New_Zealand", "Buddhism", "Uzbekistan"], ["Aphid", "New_Zealand", "List_of_countries_by_system_of_government", "Uzbekistan"], ["Aphid", "New_Zealand", "Somalia", "Uzbekistan"], ["Aphid", "Triassic", "Morocco", "Uzbekistan"]]

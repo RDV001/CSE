@@ -1,0 +1,1 @@
+[["Goose", "Animal", "Insect", "Bee", "Honey_bee"], ["Goose", "Bird", "Insect", "Bee", "Honey_bee"], ["Goose", "Invertebrate", "Insect", "Bee", "Honey_bee"], ["Goose", "Scientific_classification", "Insect", "Bee", "Honey_bee"], ["Goose", "Animal", "Spider", "Bee", "Honey_bee"], ["Goose", "Scientific_classification", "Flower", "Bee", "Honey_bee"]]

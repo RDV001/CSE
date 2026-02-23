@@ -1,0 +1,1 @@
+[["Brazil", "Germany", "Adolf_Hitler"], ["Brazil", "Italy", "Adolf_Hitler"]]

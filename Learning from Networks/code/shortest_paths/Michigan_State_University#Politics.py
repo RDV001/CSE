@@ -1,0 +1,1 @@
+[["Michigan_State_University", "Education", "Politics"], ["Michigan_State_University", "Political_science", "Politics"]]

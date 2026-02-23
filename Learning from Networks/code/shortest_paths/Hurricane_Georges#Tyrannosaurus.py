@@ -1,0 +1,1 @@
+[["Hurricane_Georges", "Africa", "Carnivore", "Tyrannosaurus"], ["Hurricane_Georges", "Gulf_of_Mexico", "Dinosaur", "Tyrannosaurus"], ["Hurricane_Georges", "Puerto_Rico", "Cretaceous", "Tyrannosaurus"]]

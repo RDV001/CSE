@@ -1,0 +1,1 @@
+[["Mineral", "Diamond", "Christianity", "John_Calvin"]]

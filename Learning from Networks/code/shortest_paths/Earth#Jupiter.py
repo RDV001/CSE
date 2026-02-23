@@ -1,0 +1,1 @@
+[["Earth", "Antarctica", "Jupiter"], ["Earth", "Asteroid", "Jupiter"], ["Earth", "Carl_Sagan", "Jupiter"], ["Earth", "Planet", "Jupiter"], ["Earth", "Plasma_%28physics%29", "Jupiter"], ["Earth", "Pluto", "Jupiter"], ["Earth", "Solar_System", "Jupiter"], ["Earth", "Sun", "Jupiter"], ["Earth", "Ultraviolet", "Jupiter"], ["Earth", "Volcano", "Jupiter"]]

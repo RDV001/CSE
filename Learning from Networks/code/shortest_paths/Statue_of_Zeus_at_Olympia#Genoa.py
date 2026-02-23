@@ -1,0 +1,1 @@
+[["Statue_of_Zeus_at_Olympia", "Eagle", "Charlemagne", "Genoa"], ["Statue_of_Zeus_at_Olympia", "Ebony", "Antwerp", "Genoa"], ["Statue_of_Zeus_at_Olympia", "Greece", "Italy", "Genoa"], ["Statue_of_Zeus_at_Olympia", "Greece", "Monaco", "Genoa"]]

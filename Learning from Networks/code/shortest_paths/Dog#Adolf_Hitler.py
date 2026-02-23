@@ -1,0 +1,1 @@
+[["Dog", "Germany", "Adolf_Hitler"]]

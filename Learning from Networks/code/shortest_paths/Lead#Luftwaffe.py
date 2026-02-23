@@ -1,0 +1,1 @@
+[["Lead", "Alchemy", "Canterbury", "Luftwaffe"], ["Lead", "Cider", "Germany", "Luftwaffe"], ["Lead", "Neutron", "Germany", "Luftwaffe"], ["Lead", "Mercury_%28element%29", "Nazi_Germany", "Luftwaffe"], ["Lead", "Schizophrenia", "Nazi_Germany", "Luftwaffe"], ["Lead", "Sulfuric_acid", "London", "Luftwaffe"], ["Lead", "Zinc", "Ireland", "Luftwaffe"]]

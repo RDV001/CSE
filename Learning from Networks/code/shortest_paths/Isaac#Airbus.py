@@ -1,0 +1,1 @@
+[["Isaac", "Egypt", "United_Kingdom", "Airbus"], ["Isaac", "Islam", "United_Kingdom", "Airbus"], ["Isaac", "Jew", "United_Kingdom", "Airbus"], ["Isaac", "Judaism", "United_Kingdom", "Airbus"], ["Isaac", "Hebrew_language", "France", "Airbus"], ["Isaac", "Islam", "France", "Airbus"], ["Isaac", "Jew", "France", "Airbus"]]

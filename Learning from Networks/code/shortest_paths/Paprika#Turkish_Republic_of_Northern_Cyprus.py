@@ -1,0 +1,1 @@
+[["Paprika", "Turkey", "Turkish_Republic_of_Northern_Cyprus"]]

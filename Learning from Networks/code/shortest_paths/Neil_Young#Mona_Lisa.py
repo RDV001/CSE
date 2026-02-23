@@ -1,0 +1,1 @@
+[["Neil_Young", "Aztec", "16th_century", "Mona_Lisa"], ["Neil_Young", "Spain", "16th_century", "Mona_Lisa"], ["Neil_Young", "Film", "Art", "Mona_Lisa"], ["Neil_Young", "Film", "Visual_arts", "Mona_Lisa"], ["Neil_Young", "London", "Paris", "Mona_Lisa"], ["Neil_Young", "Piano", "Paris", "Mona_Lisa"]]

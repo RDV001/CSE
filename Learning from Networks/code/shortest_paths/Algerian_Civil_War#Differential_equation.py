@@ -1,0 +1,1 @@
+[["Algerian_Civil_War", "Islam", "Algebra", "Differential_equation"], ["Algerian_Civil_War", "Islam", "Mathematics", "Differential_equation"]]

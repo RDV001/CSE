@@ -1,0 +1,1 @@
+[["Sparrowhawk", "Bird", "Agriculture", "Cocoa"], ["Sparrowhawk", "Bird_migration", "Africa", "Cocoa"], ["Sparrowhawk", "Falcon", "Africa", "Cocoa"], ["Sparrowhawk", "India", "Africa", "Cocoa"], ["Sparrowhawk", "Eagle", "Ghana", "Cocoa"], ["Sparrowhawk", "Eagle", "Nigeria", "Cocoa"], ["Sparrowhawk", "Scientific_classification", "Tree", "Cocoa"]]

@@ -1,0 +1,1 @@
+[["Maldives", "India", "Indian_independence_movement"], ["Maldives", "Kerala", "Indian_independence_movement"]]

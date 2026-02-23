@@ -1,0 +1,1 @@
+[["Mount_Kilimanjaro", "Magma", "Igneous_rock"]]

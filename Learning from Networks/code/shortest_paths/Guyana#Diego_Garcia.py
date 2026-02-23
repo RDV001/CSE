@@ -1,0 +1,1 @@
+[["Guyana", "Africa", "Indian_Ocean", "Diego_Garcia"], ["Guyana", "Christopher_Columbus", "Indian_Ocean", "Diego_Garcia"], ["Guyana", "India", "Indian_Ocean", "Diego_Garcia"], ["Guyana", "Slavery", "Indian_Ocean", "Diego_Garcia"]]

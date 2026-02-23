@@ -1,0 +1,1 @@
+[["Aluminium_chloride", "Aluminium", "Steel", "Bridge"], ["Aluminium_chloride", "Benzene", "Steel", "Bridge"], ["Aluminium_chloride", "Hydrochloric_acid", "Steel", "Bridge"], ["Aluminium_chloride", "Recycling", "Steel", "Bridge"], ["Aluminium_chloride", "Ytterbium", "Steel", "Bridge"], ["Aluminium_chloride", "Electricity", "Physics", "Bridge"]]

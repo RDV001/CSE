@@ -1,0 +1,1 @@
+[["Gold_standard", "British_Empire", "Great_Britain"], ["Gold_standard", "England", "Great_Britain"], ["Gold_standard", "Germany", "Great_Britain"], ["Gold_standard", "Islam", "Great_Britain"], ["Gold_standard", "Italy", "Great_Britain"], ["Gold_standard", "Netherlands", "Great_Britain"], ["Gold_standard", "United_Kingdom", "Great_Britain"]]

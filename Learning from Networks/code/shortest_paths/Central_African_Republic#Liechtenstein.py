@@ -1,0 +1,1 @@
+[["Central_African_Republic", "Europe", "Liechtenstein"], ["Central_African_Republic", "Germany", "Liechtenstein"], ["Central_African_Republic", "List_of_countries_by_system_of_government", "Liechtenstein"], ["Central_African_Republic", "Maize", "Liechtenstein"]]

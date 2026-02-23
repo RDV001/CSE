@@ -1,0 +1,1 @@
+[["Thallium", "Crystal", "Quartz"], ["Thallium", "Glass", "Quartz"], ["Thallium", "Granite", "Quartz"], ["Thallium", "Mineral", "Quartz"], ["Thallium", "Mohs_scale_of_mineral_hardness", "Quartz"], ["Thallium", "Pyrite", "Quartz"]]

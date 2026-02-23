@@ -1,0 +1,1 @@
+[["Genetics", "DNA", "Linus_Pauling", "Z%C3%BCrich"], ["Genetics", "Francis_Crick", "Linus_Pauling", "Z%C3%BCrich"], ["Genetics", "James_D._Watson", "Linus_Pauling", "Z%C3%BCrich"], ["Genetics", "Protein", "Linus_Pauling", "Z%C3%BCrich"], ["Genetics", "Human", "City", "Z%C3%BCrich"], ["Genetics", "United_Kingdom", "Cardiff", "Z%C3%BCrich"]]

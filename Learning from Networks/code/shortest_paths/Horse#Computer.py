@@ -1,0 +1,1 @@
+[["Horse", "Asia", "Computer"], ["Horse", "Evolution", "Computer"], ["Horse", "Food", "Computer"], ["Horse", "United_Kingdom", "Computer"], ["Horse", "United_States", "Computer"]]

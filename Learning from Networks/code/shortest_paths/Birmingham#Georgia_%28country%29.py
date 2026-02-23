@@ -1,0 +1,1 @@
+[["Birmingham", "England", "Georgia_%28country%29"], ["Birmingham", "Europe", "Georgia_%28country%29"], ["Birmingham", "Germany", "Georgia_%28country%29"], ["Birmingham", "Iron", "Georgia_%28country%29"]]

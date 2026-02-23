@@ -1,0 +1,1 @@
+[["Cape_Horn", "Africa", "South_Africa"], ["Cape_Horn", "Albatross", "South_Africa"], ["Cape_Horn", "Argentina", "South_Africa"], ["Cape_Horn", "Atlantic_Ocean", "South_Africa"], ["Cape_Horn", "Dutch_language", "South_Africa"], ["Cape_Horn", "Mount_Everest", "South_Africa"]]

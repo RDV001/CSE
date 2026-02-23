@@ -1,0 +1,1 @@
+[["Basilica_of_Santa_Maria_degli_Angeli", "Baroque", "18th_century", "President_of_the_United_States"]]

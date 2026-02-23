@@ -1,0 +1,1 @@
+[["Necktie", "20th_century", "Integrated_circuit"]]

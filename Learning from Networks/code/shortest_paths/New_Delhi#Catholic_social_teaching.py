@@ -1,0 +1,1 @@
+[["New_Delhi", "Chicago", "Roman_Catholic_Church", "Catholic_social_teaching"]]

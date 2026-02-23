@@ -1,0 +1,1 @@
+[["Tantalum", "Brazil", "Language", "Programming_language", "Scheme_programming_language"], ["Tantalum", "Color", "Language", "Programming_language", "Scheme_programming_language"], ["Tantalum", "Democratic_Republic_of_the_Congo", "Hungary", "Programming_language", "Scheme_programming_language"]]

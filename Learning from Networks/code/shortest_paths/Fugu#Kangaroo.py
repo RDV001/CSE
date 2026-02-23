@@ -1,0 +1,1 @@
+[["Fugu", "Carolus_Linnaeus", "James_Cook", "Kangaroo"], ["Fugu", "Pacific_Ocean", "James_Cook", "Kangaroo"], ["Fugu", "Japan", "Australia", "Kangaroo"], ["Fugu", "Osaka", "Australia", "Kangaroo"], ["Fugu", "Pacific_Ocean", "Australia", "Kangaroo"], ["Fugu", "The_Simpsons", "Australia", "Kangaroo"], ["Fugu", "Tokyo", "Australia", "Kangaroo"]]

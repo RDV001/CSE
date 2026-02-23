@@ -1,0 +1,1 @@
+[["Post-glacial_rebound", "Canada", "Basketball", "Harlem_Globetrotters"], ["Post-glacial_rebound", "Sweden", "Basketball", "Harlem_Globetrotters"], ["Post-glacial_rebound", "United_States", "Basketball", "Harlem_Globetrotters"]]

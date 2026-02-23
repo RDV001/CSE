@@ -1,0 +1,1 @@
+[["Ireland", "Judaism", "Nazi_Germany"], ["Ireland", "Latvia", "Nazi_Germany"], ["Ireland", "Poland", "Nazi_Germany"], ["Ireland", "Romania", "Nazi_Germany"], ["Ireland", "Samuel_Beckett", "Nazi_Germany"], ["Ireland", "Viking", "Nazi_Germany"], ["Ireland", "World_War_II", "Nazi_Germany"]]

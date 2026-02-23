@@ -1,0 +1,1 @@
+[["Aristotle", "Ancient_Greece", "Arithmetic"], ["Aristotle", "Bertrand_Russell", "Arithmetic"], ["Aristotle", "Education", "Arithmetic"], ["Aristotle", "Logic", "Arithmetic"], ["Aristotle", "Mathematics", "Arithmetic"]]

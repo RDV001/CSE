@@ -1,0 +1,1 @@
+[["Tripoli", "Brazil", "Pacific_Ocean", "Abel_Tasman"], ["Tripoli", "France", "Pacific_Ocean", "Abel_Tasman"], ["Tripoli", "United_States", "Pacific_Ocean", "Abel_Tasman"], ["Tripoli", "City", "New_Zealand", "Abel_Tasman"], ["Tripoli", "Time_zone", "New_Zealand", "Abel_Tasman"]]

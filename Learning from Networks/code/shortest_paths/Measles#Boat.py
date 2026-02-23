@@ -1,0 +1,1 @@
+[["Measles", "Boston%2C_Massachusetts", "Fishing", "Boat"], ["Measles", "World_Health_Organization", "Geneva", "Boat"]]

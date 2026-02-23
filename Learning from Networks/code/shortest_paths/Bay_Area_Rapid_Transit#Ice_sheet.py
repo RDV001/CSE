@@ -1,0 +1,1 @@
+[["Bay_Area_Rapid_Transit", "San_Francisco%2C_California", "Time_zone", "Ice_sheet"], ["Bay_Area_Rapid_Transit", "San_Jose%2C_California", "Time_zone", "Ice_sheet"], ["Bay_Area_Rapid_Transit", "United_States", "Time_zone", "Ice_sheet"], ["Bay_Area_Rapid_Transit", "United_States", "Antarctica", "Ice_sheet"], ["Bay_Area_Rapid_Transit", "United_States", "Desert", "Ice_sheet"]]

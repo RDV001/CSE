@@ -1,0 +1,1 @@
+[["Fruit", "Beet", "AIDS"], ["Fruit", "Human", "AIDS"], ["Fruit", "Morphine", "AIDS"]]

@@ -1,0 +1,1 @@
+[["Kansas_City%2C_Missouri", "Israel", "Olympic_Games", "Jesse_Owens"], ["Kansas_City%2C_Missouri", "Republic_of_China", "Olympic_Games", "Jesse_Owens"], ["Kansas_City%2C_Missouri", "Tennis", "Olympic_Games", "Jesse_Owens"], ["Kansas_City%2C_Missouri", "United_States", "Olympic_Games", "Jesse_Owens"]]

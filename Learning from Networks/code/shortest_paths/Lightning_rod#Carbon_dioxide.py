@@ -1,0 +1,1 @@
+[["Lightning_rod", "Glass", "Carbon_dioxide"], ["Lightning_rod", "Iron", "Carbon_dioxide"]]

@@ -1,0 +1,1 @@
+[["Stegosaurus", "Dinosaur", "Cretaceous"], ["Stegosaurus", "Diplodocus", "Cretaceous"], ["Stegosaurus", "Iguanodon", "Cretaceous"], ["Stegosaurus", "Mammal", "Cretaceous"], ["Stegosaurus", "Ornithischia", "Cretaceous"], ["Stegosaurus", "Spinosaurus", "Cretaceous"], ["Stegosaurus", "Triceratops", "Cretaceous"], ["Stegosaurus", "Tyrannosaurus", "Cretaceous"]]

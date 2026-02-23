@@ -1,0 +1,1 @@
+[["Augustan_literature", "Capitalism", "Margaret_Thatcher", "Acid_rain"], ["Augustan_literature", "House_of_Lords", "Margaret_Thatcher", "Acid_rain"], ["Augustan_literature", "God", "Volcano", "Acid_rain"], ["Augustan_literature", "South_America", "Earth", "Acid_rain"], ["Augustan_literature", "United_Kingdom", "Earth", "Acid_rain"]]

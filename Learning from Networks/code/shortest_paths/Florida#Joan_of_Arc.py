@@ -1,0 +1,1 @@
+[["Florida", "English_language", "15th_century", "Joan_of_Arc"], ["Florida", "Greenland", "15th_century", "Joan_of_Arc"], ["Florida", "Irish_people", "15th_century", "Joan_of_Arc"]]

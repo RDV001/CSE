@@ -1,0 +1,1 @@
+[["Epic_of_Gilgamesh", "Assyria", "Armenia", "Cape_Verde"], ["Epic_of_Gilgamesh", "Mesopotamia", "Armenia", "Cape_Verde"]]

@@ -1,0 +1,1 @@
+[["Russia", "Arctic_Ocean", "Season"], ["Russia", "Earth", "Season"]]

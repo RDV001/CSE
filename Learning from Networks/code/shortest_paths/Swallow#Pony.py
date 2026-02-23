@@ -1,0 +1,1 @@
+[["Swallow", "Animal", "Mammal", "Horse", "Pony"], ["Swallow", "Bird", "Mammal", "Horse", "Pony"], ["Swallow", "Chordate", "Mammal", "Horse", "Pony"], ["Swallow", "Scientific_classification", "Mammal", "Horse", "Pony"], ["Swallow", "Bird", "Agriculture", "Horse", "Pony"], ["Swallow", "Bird", "Extinction", "Horse", "Pony"], ["Swallow", "Swift", "Miocene", "Horse", "Pony"]]

@@ -1,0 +1,1 @@
+[["Tropical_Storm_Ana_%282003%29", "2003_Atlantic_hurricane_season", "2005_Atlantic_hurricane_season", "Tropical_Storm_Lee_%282005%29"], ["Tropical_Storm_Ana_%282003%29", "Tropical_cyclone", "2005_Atlantic_hurricane_season", "Tropical_Storm_Lee_%282005%29"]]

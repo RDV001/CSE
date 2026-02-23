@@ -1,0 +1,1 @@
+[["Kuwait_City", "Arabic_language", "African_Union", "HIV"], ["Kuwait_City", "Capital", "Botswana", "HIV"], ["Kuwait_City", "Capital", "Cape_Town", "HIV"], ["Kuwait_City", "Capital", "South_Africa", "HIV"], ["Kuwait_City", "City", "Africa", "HIV"]]

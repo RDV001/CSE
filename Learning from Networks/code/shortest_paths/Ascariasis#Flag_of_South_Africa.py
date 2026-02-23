@@ -1,0 +1,1 @@
+[["Ascariasis", "Carolus_Linnaeus", "South_Africa", "Flag_of_South_Africa"], ["Ascariasis", "Saudi_Arabia", "South_Africa", "Flag_of_South_Africa"], ["Ascariasis", "Tropics", "South_Africa", "Flag_of_South_Africa"], ["Ascariasis", "United_States", "List_of_sovereign_states", "Flag_of_South_Africa"]]

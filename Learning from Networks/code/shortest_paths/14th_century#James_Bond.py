@@ -1,0 +1,1 @@
+[["14th_century", "Black_Death", "Novel", "James_Bond"], ["14th_century", "England", "The_Beatles", "James_Bond"], ["14th_century", "Europe", "Gibraltar", "James_Bond"], ["14th_century", "Ibn_Battuta", "Gibraltar", "James_Bond"]]

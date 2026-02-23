@@ -1,0 +1,1 @@
+[["Cape_Town", "Glacier", "Water"], ["Cape_Town", "Johannesburg", "Water"], ["Cape_Town", "Season", "Water"], ["Cape_Town", "Winter", "Water"]]

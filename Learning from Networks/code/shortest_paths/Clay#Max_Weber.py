@@ -1,0 +1,1 @@
+[["Clay", "Estonia", "Germany", "Max_Weber"], ["Clay", "Norway", "Germany", "Max_Weber"], ["Clay", "Pottery", "Germany", "Max_Weber"], ["Clay", "Sweden", "Germany", "Max_Weber"], ["Clay", "Sweden", "Capitalism", "Max_Weber"], ["Clay", "Sweden", "Socialism", "Max_Weber"]]

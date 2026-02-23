@@ -1,0 +1,1 @@
+[["Sassanid_Empire", "Aristotle", "Geography"], ["Sassanid_Empire", "China", "Geography"], ["Sassanid_Empire", "Lebanon", "Geography"]]

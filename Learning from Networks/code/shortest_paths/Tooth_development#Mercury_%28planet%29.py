@@ -1,0 +1,1 @@
+[["Tooth_development", "Calcium", "Argon", "Mercury_%28planet%29"], ["Tooth_development", "Force", "Galileo_Galilei", "Mercury_%28planet%29"], ["Tooth_development", "Force", "Gravitation", "Mercury_%28planet%29"]]

@@ -1,0 +1,1 @@
+[["Stephen_Harper", "George_W._Bush", "Egypt", "Sahara"], ["Stephen_Harper", "Ice_hockey", "Egypt", "Sahara"], ["Stephen_Harper", "Israel", "Egypt", "Sahara"], ["Stephen_Harper", "Socialism", "Egypt", "Sahara"], ["Stephen_Harper", "Israel", "Algeria", "Sahara"], ["Stephen_Harper", "Israel", "Mauritania", "Sahara"], ["Stephen_Harper", "Israel", "Morocco", "Sahara"]]

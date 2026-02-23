@@ -1,0 +1,1 @@
+[["Nuclear_weapon", "China", "Africa", "Tutsi"], ["Nuclear_weapon", "India", "Africa", "Tutsi"], ["Nuclear_weapon", "Israel", "Africa", "Tutsi"], ["Nuclear_weapon", "Libya", "Africa", "Tutsi"], ["Nuclear_weapon", "South_Africa", "Africa", "Tutsi"], ["Nuclear_weapon", "South_Africa", "Burundi", "Tutsi"]]

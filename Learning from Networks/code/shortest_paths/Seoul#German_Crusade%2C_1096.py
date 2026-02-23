@@ -1,0 +1,1 @@
+[["Seoul", "Athens", "Crusades", "German_Crusade%2C_1096"], ["Seoul", "Christianity", "Crusades", "German_Crusade%2C_1096"], ["Seoul", "Russia", "Crusades", "German_Crusade%2C_1096"]]

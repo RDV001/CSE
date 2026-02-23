@@ -1,0 +1,1 @@
+[["Jack_Kerouac", "Buddhism", "Greece", "Temple_of_Artemis"], ["Jack_Kerouac", "Florida", "Greece", "Temple_of_Artemis"], ["Jack_Kerouac", "United_States", "Greece", "Temple_of_Artemis"]]

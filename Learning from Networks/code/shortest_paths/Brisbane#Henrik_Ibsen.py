@@ -1,0 +1,1 @@
+[["Brisbane", "Electronics", "19th_century", "Henrik_Ibsen"], ["Brisbane", "Melbourne", "19th_century", "Henrik_Ibsen"], ["Brisbane", "Pacific_Ocean", "19th_century", "Henrik_Ibsen"], ["Brisbane", "Petroleum", "Norway", "Henrik_Ibsen"], ["Brisbane", "World_War_II", "Norway", "Henrik_Ibsen"]]

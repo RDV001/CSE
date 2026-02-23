@@ -1,0 +1,1 @@
+[["Nelson_Mandela", "Elizabeth_II_of_the_United_Kingdom", "House_of_Lords"], ["Nelson_Mandela", "Tony_Blair", "House_of_Lords"], ["Nelson_Mandela", "Winston_Churchill", "House_of_Lords"]]

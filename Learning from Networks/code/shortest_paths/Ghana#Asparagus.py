@@ -1,0 +1,1 @@
+[["Ghana", "Oregon", "Wine", "Asparagus"]]

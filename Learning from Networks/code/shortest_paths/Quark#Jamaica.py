@@ -1,0 +1,1 @@
+[["Quark", "Helium", "United_States", "Jamaica"], ["Quark", "James_Joyce", "United_States", "Jamaica"], ["Quark", "Richard_Feynman", "United_States", "Jamaica"], ["Quark", "James_Joyce", "English_language", "Jamaica"]]

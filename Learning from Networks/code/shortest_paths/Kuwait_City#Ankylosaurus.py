@@ -1,0 +1,1 @@
+[["Kuwait_City", "City", "Atlantic_Ocean", "Turtle", "Ankylosaurus"], ["Kuwait_City", "Iraq", "Writing", "Turtle", "Ankylosaurus"]]

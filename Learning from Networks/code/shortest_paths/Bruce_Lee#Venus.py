@@ -1,0 +1,1 @@
+[["Bruce_Lee", "China", "Maya_civilization", "Venus"], ["Bruce_Lee", "Philosophy", "Astronomy", "Venus"], ["Bruce_Lee", "Philosophy", "Nature", "Venus"], ["Bruce_Lee", "Taoism", "Astrology", "Venus"], ["Bruce_Lee", "United_States", "Moon", "Venus"]]

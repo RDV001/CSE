@@ -1,0 +1,1 @@
+[["Baboon", "Africa", "Arabic_language", "World_Wide_Web", "Mozilla_Firefox"], ["Baboon", "Africa", "English_language", "HTTP_cookie", "Mozilla_Firefox"], ["Baboon", "Carolus_Linnaeus", "DNA", "Cryptography", "Mozilla_Firefox"]]

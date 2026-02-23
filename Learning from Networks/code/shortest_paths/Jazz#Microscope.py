@@ -1,0 +1,1 @@
+[["Jazz", "20th_century", "Birth_control", "Microscope"], ["Jazz", "20th_century", "Cancer", "Microscope"], ["Jazz", "France", "Antarctica", "Microscope"], ["Jazz", "United_States", "Antarctica", "Microscope"], ["Jazz", "Radio", "Atom", "Microscope"], ["Jazz", "Radio", "Light", "Microscope"], ["Jazz", "United_Kingdom", "Christopher_Wren", "Microscope"]]

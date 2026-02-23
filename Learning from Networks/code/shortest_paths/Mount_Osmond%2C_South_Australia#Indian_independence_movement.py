@@ -1,0 +1,1 @@
+[["Mount_Osmond%2C_South_Australia", "Buddhism", "Bhutan", "Indian_independence_movement"], ["Mount_Osmond%2C_South_Australia", "Buddhism", "India", "Indian_independence_movement"], ["Mount_Osmond%2C_South_Australia", "Islam", "India", "Indian_independence_movement"], ["Mount_Osmond%2C_South_Australia", "Religion", "India", "Indian_independence_movement"]]

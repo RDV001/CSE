@@ -1,0 +1,1 @@
+[["Ronald_Reagan", "China", "Hong_Kong", "Flag_of_Hong_Kong"], ["Ronald_Reagan", "Japan", "Hong_Kong", "Flag_of_Hong_Kong"], ["Ronald_Reagan", "Margaret_Thatcher", "Hong_Kong", "Flag_of_Hong_Kong"], ["Ronald_Reagan", "Panama_Canal", "Hong_Kong", "Flag_of_Hong_Kong"], ["Ronald_Reagan", "United_States", "Hong_Kong", "Flag_of_Hong_Kong"]]

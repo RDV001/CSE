@@ -1,0 +1,1 @@
+[["Nathu_La", "Beijing", "Automobile"]]

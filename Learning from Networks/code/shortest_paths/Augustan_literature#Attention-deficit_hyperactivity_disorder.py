@@ -1,0 +1,1 @@
+[["Augustan_literature", "David_Hume", "Albert_Einstein", "Attention-deficit_hyperactivity_disorder"], ["Augustan_literature", "Philosophy", "Albert_Einstein", "Attention-deficit_hyperactivity_disorder"]]

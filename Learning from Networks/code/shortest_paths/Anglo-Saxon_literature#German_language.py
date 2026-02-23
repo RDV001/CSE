@@ -1,0 +1,1 @@
+[["Anglo-Saxon_literature", "Denmark", "German_language"], ["Anglo-Saxon_literature", "Jorge_Luis_Borges", "German_language"], ["Anglo-Saxon_literature", "Middle_Ages", "German_language"], ["Anglo-Saxon_literature", "Poetry", "German_language"], ["Anglo-Saxon_literature", "Sweden", "German_language"], ["Anglo-Saxon_literature", "The_Hobbit", "German_language"]]

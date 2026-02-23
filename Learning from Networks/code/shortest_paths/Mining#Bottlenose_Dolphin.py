@@ -1,0 +1,1 @@
+[["Mining", "Hungary", "Slovenia", "Bottlenose_Dolphin"], ["Mining", "Slovakia", "Slovenia", "Bottlenose_Dolphin"]]

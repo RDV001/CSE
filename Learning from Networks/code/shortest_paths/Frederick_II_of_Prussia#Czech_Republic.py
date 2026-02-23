@@ -1,0 +1,1 @@
+[["Frederick_II_of_Prussia", "Austria", "Czech_Republic"], ["Frederick_II_of_Prussia", "Berlin", "Czech_Republic"], ["Frederick_II_of_Prussia", "German_language", "Czech_Republic"], ["Frederick_II_of_Prussia", "Germany", "Czech_Republic"], ["Frederick_II_of_Prussia", "Holy_Roman_Empire", "Czech_Republic"]]

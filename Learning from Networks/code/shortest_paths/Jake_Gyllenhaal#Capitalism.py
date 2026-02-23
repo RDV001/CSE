@@ -1,0 +1,1 @@
+[["Jake_Gyllenhaal", "Politics", "Capitalism"], ["Jake_Gyllenhaal", "Sweden", "Capitalism"], ["Jake_Gyllenhaal", "United_States", "Capitalism"]]

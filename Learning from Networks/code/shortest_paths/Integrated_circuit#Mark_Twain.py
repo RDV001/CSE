@@ -1,0 +1,1 @@
+[["Integrated_circuit", "Gold", "19th_century", "Mark_Twain"], ["Integrated_circuit", "Periodic_table", "19th_century", "Mark_Twain"], ["Integrated_circuit", "Washington%2C_D.C.", "Southern_United_States", "Mark_Twain"]]

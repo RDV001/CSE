@@ -1,0 +1,1 @@
+[["Pacific_Ocean", "Earth", "Energy"], ["Pacific_Ocean", "Plate_tectonics", "Energy"], ["Pacific_Ocean", "Tropical_cyclone", "Energy"]]

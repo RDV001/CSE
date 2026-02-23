@@ -1,0 +1,1 @@
+[["Jamaica", "London", "Business"], ["Jamaica", "Los_Angeles%2C_California", "Business"], ["Jamaica", "New_York_City", "Business"]]

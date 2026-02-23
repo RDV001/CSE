@@ -1,0 +1,1 @@
+[["Papua_New_Guinea", "Constitutional_monarchy", "Charles_I_of_England"]]

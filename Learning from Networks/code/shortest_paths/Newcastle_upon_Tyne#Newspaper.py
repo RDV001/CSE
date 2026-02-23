@@ -1,0 +1,1 @@
+[["Newcastle_upon_Tyne", "Bristol", "Newspaper"], ["Newcastle_upon_Tyne", "Industrial_Revolution", "Newspaper"], ["Newcastle_upon_Tyne", "London", "Newspaper"]]

@@ -1,0 +1,1 @@
+[["Poultry", "Africa", "Democracy", "Glorious_Revolution"], ["Poultry", "Africa", "Royal_Navy", "Glorious_Revolution"], ["Poultry", "China", "Constitutional_monarchy", "Glorious_Revolution"], ["Poultry", "Mexico", "Liberalism", "Glorious_Revolution"], ["Poultry", "Ostrich", "18th_century", "Glorious_Revolution"]]

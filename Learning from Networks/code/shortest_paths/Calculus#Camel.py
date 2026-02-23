@@ -1,0 +1,1 @@
+[["Calculus", "Albert_Einstein", "Africa", "Camel"], ["Calculus", "Arithmetic", "Africa", "Camel"], ["Calculus", "Biology", "Africa", "Camel"], ["Calculus", "Europe", "Africa", "Camel"], ["Calculus", "Albert_Einstein", "Ammonia", "Camel"]]

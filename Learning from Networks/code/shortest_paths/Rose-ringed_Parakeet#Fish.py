@@ -1,0 +1,1 @@
+[["Rose-ringed_Parakeet", "Animal", "Fish"], ["Rose-ringed_Parakeet", "Bird", "Fish"], ["Rose-ringed_Parakeet", "Europe", "Fish"], ["Rose-ringed_Parakeet", "Myanmar", "Fish"], ["Rose-ringed_Parakeet", "Somalia", "Fish"]]

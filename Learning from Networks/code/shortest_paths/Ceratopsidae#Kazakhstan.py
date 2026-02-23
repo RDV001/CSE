@@ -1,0 +1,1 @@
+[["Ceratopsidae", "Cretaceous", "Europe", "Kazakhstan"], ["Ceratopsidae", "North_America", "Europe", "Kazakhstan"], ["Ceratopsidae", "Monoclonius", "Asia", "Kazakhstan"], ["Ceratopsidae", "North_America", "Asia", "Kazakhstan"], ["Ceratopsidae", "North_America", "Netherlands", "Kazakhstan"], ["Ceratopsidae", "Scientific_classification", "Apple", "Kazakhstan"]]

@@ -1,0 +1,1 @@
+[["Colley_Cibber", "Christianity", "Judaism", "Olive_oil", "Borage"], ["Colley_Cibber", "London", "Ancient_Rome", "Olive_oil", "Borage"], ["Colley_Cibber", "Stage_%28theatre%29", "Ancient_Rome", "Olive_oil", "Borage"], ["Colley_Cibber", "Stage_%28theatre%29", "Ancient_Greece", "Olive_oil", "Borage"]]

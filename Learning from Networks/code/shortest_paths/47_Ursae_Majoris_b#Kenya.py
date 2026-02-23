@@ -1,0 +1,1 @@
+[["47_Ursae_Majoris_b", "Ammonia", "Camel", "Kenya"], ["47_Ursae_Majoris_b", "Cloud", "Indian_Ocean", "Kenya"], ["47_Ursae_Majoris_b", "Day", "English_language", "Kenya"], ["47_Ursae_Majoris_b", "Water", "Arab_League", "Kenya"], ["47_Ursae_Majoris_b", "Water", "France", "Kenya"], ["47_Ursae_Majoris_b", "Water", "Israel", "Kenya"], ["47_Ursae_Majoris_b", "Water", "Nile", "Kenya"]]

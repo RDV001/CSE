@@ -1,0 +1,1 @@
+[["Mount_Baker", "United_States", "Nuclear_weapon", "History_of_nuclear_weapons"]]

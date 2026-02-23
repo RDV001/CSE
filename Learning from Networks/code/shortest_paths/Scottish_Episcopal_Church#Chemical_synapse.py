@@ -1,0 +1,1 @@
+[["Scottish_Episcopal_Church", "17th_century", "Telescope", "Eye", "Chemical_synapse"]]

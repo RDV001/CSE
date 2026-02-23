@@ -1,0 +1,1 @@
+[["Tornado", "India", "Sri_Lanka", "Rupee"], ["Tornado", "Tropical_cyclone", "Sri_Lanka", "Rupee"], ["Tornado", "India", "Taj_Mahal", "Rupee"]]

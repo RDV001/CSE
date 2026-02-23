@@ -1,0 +1,1 @@
+[["Alexander_Hamilton", "France", "Thailand", "Tantalum"], ["Alexander_Hamilton", "Slavery", "Thailand", "Tantalum"], ["Alexander_Hamilton", "Spain", "Thailand", "Tantalum"], ["Alexander_Hamilton", "United_States", "Thailand", "Tantalum"], ["Alexander_Hamilton", "Washington%2C_D.C.", "Thailand", "Tantalum"]]

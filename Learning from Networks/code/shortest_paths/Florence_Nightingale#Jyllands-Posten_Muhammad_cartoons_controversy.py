@@ -1,0 +1,1 @@
+[["Florence_Nightingale", "Istanbul", "Mosque", "Jyllands-Posten_Muhammad_cartoons_controversy"], ["Florence_Nightingale", "Rome", "Mosque", "Jyllands-Posten_Muhammad_cartoons_controversy"], ["Florence_Nightingale", "Turkey", "Mosque", "Jyllands-Posten_Muhammad_cartoons_controversy"]]

@@ -1,0 +1,1 @@
+[["Swan", "Europe", "Paris"], ["Swan", "Greek_mythology", "Paris"], ["Swan", "Russia", "Paris"]]

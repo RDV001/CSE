@@ -1,0 +1,1 @@
+[["Helsinki", "Bangkok", "Buddhism"], ["Helsinki", "Culture", "Buddhism"], ["Helsinki", "Estonia", "Buddhism"], ["Helsinki", "European_Union", "Buddhism"], ["Helsinki", "Hong_Kong", "Buddhism"], ["Helsinki", "Russia", "Buddhism"], ["Helsinki", "Soviet_Union", "Buddhism"]]

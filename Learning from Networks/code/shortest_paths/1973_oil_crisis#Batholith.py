@@ -1,0 +1,1 @@
+[["1973_oil_crisis", "Coal", "Jurassic", "Batholith"], ["1973_oil_crisis", "Gold", "Geology", "Batholith"], ["1973_oil_crisis", "Mineral", "Geology", "Batholith"], ["1973_oil_crisis", "Petroleum", "Geology", "Batholith"], ["1973_oil_crisis", "Gold", "Igneous_rock", "Batholith"], ["1973_oil_crisis", "Libya", "Granite", "Batholith"]]

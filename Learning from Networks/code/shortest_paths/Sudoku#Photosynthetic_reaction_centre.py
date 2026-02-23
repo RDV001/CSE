@@ -1,0 +1,1 @@
+[["Sudoku", "Logic", "18th_century", "Photosynthesis", "Photosynthetic_reaction_centre"]]

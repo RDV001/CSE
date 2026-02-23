@@ -1,0 +1,1 @@
+[["Damascus", "Africa", "Democratic_Republic_of_the_Congo", "Gorilla"], ["Damascus", "Africa", "Human", "Gorilla"], ["Damascus", "Ancient_Rome", "Human", "Gorilla"], ["Damascus", "Africa", "Language", "Gorilla"], ["Damascus", "Ancient_Rome", "Language", "Gorilla"]]

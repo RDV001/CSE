@@ -1,0 +1,1 @@
+[["Heard_Island_and_McDonald_Islands", "Antarctica", "Snow"], ["Heard_Island_and_McDonald_Islands", "Melbourne", "Snow"]]

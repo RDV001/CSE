@@ -1,0 +1,1 @@
+[["Aphid", "Agriculture", "South_America", "Buenos_Aires"], ["Aphid", "Ant", "South_America", "Buenos_Aires"], ["Aphid", "Autumn", "South_America", "Buenos_Aires"], ["Aphid", "Carboniferous", "South_America", "Buenos_Aires"], ["Aphid", "Cretaceous", "South_America", "Buenos_Aires"], ["Aphid", "Animal", "Water", "Buenos_Aires"]]

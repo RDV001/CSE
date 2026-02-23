@@ -1,0 +1,1 @@
+[["DNA_repair", "Stem_cell", "Bill_Clinton", "Condoleezza_Rice"], ["DNA_repair", "Stem_cell", "George_W._Bush", "Condoleezza_Rice"]]

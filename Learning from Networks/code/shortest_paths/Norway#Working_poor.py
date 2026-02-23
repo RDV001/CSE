@@ -1,0 +1,1 @@
+[["Norway", "Islam", "Poverty", "Working_poor"], ["Norway", "United_Nations", "Poverty", "Working_poor"]]

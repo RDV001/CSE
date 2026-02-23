@@ -1,0 +1,1 @@
+[["Temple_of_Artemis", "Heracles", "Japan", "Mario"], ["Temple_of_Artemis", "Moon", "Japan", "Mario"], ["Temple_of_Artemis", "Sculpture", "Japan", "Mario"], ["Temple_of_Artemis", "Turkey", "Japan", "Mario"]]

@@ -1,0 +1,1 @@
+[["New_Caledonia", "List_of_countries_by_system_of_government", "Saudi_Arabia"], ["New_Caledonia", "United_Nations", "Saudi_Arabia"]]

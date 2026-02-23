@@ -1,0 +1,1 @@
+[["Phosphorus_tribromide", "Alcohol", "Salt", "Edible_salt"], ["Phosphorus_tribromide", "Phosphorus", "Salt", "Edible_salt"], ["Phosphorus_tribromide", "Alcohol", "Sodium", "Edible_salt"]]

@@ -1,0 +1,1 @@
+[["The_Bahamas", "Atlantic_Ocean", "Greek_mythology", "Trojan_War"], ["The_Bahamas", "List_of_countries_by_system_of_government", "Cyprus", "Trojan_War"]]

@@ -1,0 +1,1 @@
+[["Transit_of_Venus", "Pythagoras", "Poetry", "Persian_literature"], ["Transit_of_Venus", "Saint_Petersburg", "Timur", "Persian_literature"]]

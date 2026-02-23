@@ -1,0 +1,1 @@
+[["Asparagus", "China", "Judaism"], ["Asparagus", "Europe", "Judaism"], ["Asparagus", "European_Union", "Judaism"], ["Asparagus", "Mexico", "Judaism"], ["Asparagus", "Olive_oil", "Judaism"], ["Asparagus", "United_States", "Judaism"]]

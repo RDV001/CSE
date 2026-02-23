@@ -1,0 +1,1 @@
+[["Tide", "Gravitation", "Physics", "Quantum_computer"], ["Tide", "Isaac_Newton", "Physics", "Quantum_computer"], ["Tide", "Isaac_Newton", "Photon", "Quantum_computer"], ["Tide", "Sun", "Photon", "Quantum_computer"], ["Tide", "Isaac_Newton", "Quantum_mechanics", "Quantum_computer"], ["Tide", "Philosophiae_Naturalis_Principia_Mathematica", "Richard_Feynman", "Quantum_computer"]]

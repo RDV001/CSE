@@ -1,0 +1,1 @@
+[["Saint_Helena", "India", "Taj_Mahal", "Abstract_art"], ["Saint_Helena", "South_Africa", "Nazi_Germany", "Abstract_art"], ["Saint_Helena", "World_War_II", "Nazi_Germany", "Abstract_art"], ["Saint_Helena", "United_Kingdom", "J._M._W._Turner", "Abstract_art"], ["Saint_Helena", "World_War_II", "Joseph_Stalin", "Abstract_art"]]

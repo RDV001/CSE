@@ -1,0 +1,1 @@
+[["Guyana", "Africa", "Red_Sea"], ["Guyana", "Slavery", "Red_Sea"]]

@@ -1,0 +1,1 @@
+[["Boltysh_crater", "Dinosaur", "United_States", "Battle_of_Gettysburg"], ["Boltysh_crater", "Mexico", "United_States", "Battle_of_Gettysburg"], ["Boltysh_crater", "Petroleum", "United_States", "Battle_of_Gettysburg"]]

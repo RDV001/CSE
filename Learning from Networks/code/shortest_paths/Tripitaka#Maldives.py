@@ -1,0 +1,1 @@
+[["Tripitaka", "Buddha", "India", "Maldives"], ["Tripitaka", "Buddhism", "India", "Maldives"], ["Tripitaka", "Gautama_Buddha", "India", "Maldives"], ["Tripitaka", "History_of_Buddhism", "India", "Maldives"], ["Tripitaka", "Sanskrit", "India", "Maldives"], ["Tripitaka", "Chinese_language", "Asia", "Maldives"]]

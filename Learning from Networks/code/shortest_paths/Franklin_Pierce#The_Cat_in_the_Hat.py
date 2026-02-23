@@ -1,0 +1,1 @@
+[["Franklin_Pierce", "Chicago", "Latin", "The_Cat_in_the_Hat"], ["Franklin_Pierce", "Millard_Fillmore", "Latin", "The_Cat_in_the_Hat"], ["Franklin_Pierce", "Spain", "Latin", "The_Cat_in_the_Hat"], ["Franklin_Pierce", "United_Kingdom", "Latin", "The_Cat_in_the_Hat"], ["Franklin_Pierce", "United_States_Senate", "Latin", "The_Cat_in_the_Hat"]]

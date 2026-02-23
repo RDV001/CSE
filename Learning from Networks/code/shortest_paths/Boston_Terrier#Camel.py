@@ -1,0 +1,1 @@
+[["Boston_Terrier", "Dog", "Africa", "Camel"], ["Boston_Terrier", "Dog", "Ammonia", "Camel"], ["Boston_Terrier", "Dog", "Milk", "Camel"], ["Boston_Terrier", "United_States", "Sudan", "Camel"], ["Boston_Terrier", "United_States", "Western_Sahara", "Camel"]]

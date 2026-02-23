@@ -1,0 +1,1 @@
+[["Eye", "Antarctic_krill", "Earth", "Pi"], ["Eye", "Calcite", "Earth", "Pi"], ["Eye", "Human", "Earth", "Pi"], ["Eye", "Color", "Isaac_Newton", "Pi"], ["Eye", "Light", "Isaac_Newton", "Pi"], ["Eye", "Light", "Leonhard_Euler", "Pi"], ["Eye", "Mammal", "China", "Pi"]]

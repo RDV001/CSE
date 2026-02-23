@@ -1,0 +1,1 @@
+[["90377_Sedna", "California", "Spanish_language"], ["90377_Sedna", "Chile", "Spanish_language"], ["90377_Sedna", "Earth", "Spanish_language"], ["90377_Sedna", "Spain", "Spanish_language"], ["90377_Sedna", "United_States", "Spanish_language"]]

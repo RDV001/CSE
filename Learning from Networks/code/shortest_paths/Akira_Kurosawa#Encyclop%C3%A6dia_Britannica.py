@@ -1,0 +1,1 @@
+[["Akira_Kurosawa", "Leo_Tolstoy", "Voltaire", "Encyclop%C3%A6dia_Britannica"], ["Akira_Kurosawa", "Novel", "Voltaire", "Encyclop%C3%A6dia_Britannica"], ["Akira_Kurosawa", "United_States", "Advertising", "Encyclop%C3%A6dia_Britannica"], ["Akira_Kurosawa", "United_States", "C%C3%B4te_d%27Ivoire", "Encyclop%C3%A6dia_Britannica"]]

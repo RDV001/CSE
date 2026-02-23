@@ -1,0 +1,1 @@
+[["Slovenia", "20th_century", "Internet"], ["Slovenia", "Denmark", "Internet"], ["Slovenia", "France", "Internet"], ["Slovenia", "Germany", "Internet"], ["Slovenia", "Iceland", "Internet"], ["Slovenia", "Syria", "Internet"]]

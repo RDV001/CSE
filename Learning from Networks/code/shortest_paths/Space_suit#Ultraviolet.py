@@ -1,0 +1,1 @@
+[["Space_suit", "Earth%27s_atmosphere", "Ultraviolet"], ["Space_suit", "Electromagnetic_radiation", "Ultraviolet"], ["Space_suit", "Mars", "Ultraviolet"]]

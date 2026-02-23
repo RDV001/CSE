@@ -1,0 +1,1 @@
+[["Autumn", "English_language", "HTTP_cookie", "Wikipedia", "Wikimedia_Foundation"], ["Autumn", "United_States", "Publishing", "Wikipedia", "Wikimedia_Foundation"]]

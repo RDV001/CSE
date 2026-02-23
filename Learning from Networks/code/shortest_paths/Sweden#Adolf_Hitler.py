@@ -1,0 +1,1 @@
+[["Sweden", "Cold_War", "Adolf_Hitler"], ["Sweden", "Germany", "Adolf_Hitler"], ["Sweden", "War", "Adolf_Hitler"], ["Sweden", "World_War_II", "Adolf_Hitler"]]

@@ -1,0 +1,1 @@
+[["Mercury_%28planet%29", "Antarctica", "Soil"], ["Mercury_%28planet%29", "Earth", "Soil"], ["Mercury_%28planet%29", "Ice", "Soil"], ["Mercury_%28planet%29", "Mesopotamia", "Soil"], ["Mercury_%28planet%29", "Potassium", "Soil"], ["Mercury_%28planet%29", "Radar", "Soil"]]

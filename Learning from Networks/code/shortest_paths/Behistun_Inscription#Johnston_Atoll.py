@@ -1,0 +1,1 @@
+[["Behistun_Inscription", "Afghanistan", "United_States", "Johnston_Atoll"], ["Behistun_Inscription", "Iran", "United_States", "Johnston_Atoll"], ["Behistun_Inscription", "Paris", "United_States", "Johnston_Atoll"], ["Behistun_Inscription", "World_Heritage_Site", "United_States", "Johnston_Atoll"], ["Behistun_Inscription", "World_War_II", "United_States", "Johnston_Atoll"]]

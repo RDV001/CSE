@@ -1,0 +1,1 @@
+[["Anteater", "Ant", "Evolution", "Gal%C3%A1pagos_Islands"], ["Anteater", "Scientific_classification", "Evolution", "Gal%C3%A1pagos_Islands"], ["Anteater", "Scientific_classification", "Charles_Darwin", "Gal%C3%A1pagos_Islands"], ["Anteater", "South_America", "Ecuador", "Gal%C3%A1pagos_Islands"]]

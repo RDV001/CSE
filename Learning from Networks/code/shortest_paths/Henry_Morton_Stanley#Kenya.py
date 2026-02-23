@@ -1,0 +1,1 @@
+[["Henry_Morton_Stanley", "Africa", "Kenya"], ["Henry_Morton_Stanley", "Democratic_Republic_of_the_Congo", "Kenya"], ["Henry_Morton_Stanley", "Nile", "Kenya"], ["Henry_Morton_Stanley", "Sudan", "Kenya"], ["Henry_Morton_Stanley", "Tanzania", "Kenya"]]

@@ -1,0 +1,1 @@
+[["Thomas_More", "England", "German_language", "Amish"], ["Thomas_More", "Martin_Luther", "German_language", "Amish"], ["Thomas_More", "Pope_John_Paul_II", "German_language", "Amish"]]

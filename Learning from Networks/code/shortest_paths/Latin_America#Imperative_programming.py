@@ -1,0 +1,1 @@
+[["Latin_America", "Islam", "Algorithm", "Imperative_programming"]]

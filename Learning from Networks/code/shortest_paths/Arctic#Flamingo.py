@@ -1,0 +1,1 @@
+[["Arctic", "Cretaceous", "Bird", "Flamingo"], ["Arctic", "Troodon", "Bird", "Flamingo"], ["Arctic", "Cretaceous", "Pterosaur", "Flamingo"], ["Arctic", "Russia", "Volga_River", "Flamingo"]]

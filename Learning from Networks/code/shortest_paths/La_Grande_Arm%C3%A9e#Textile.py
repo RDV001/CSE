@@ -1,0 +1,1 @@
+[["La_Grande_Arm%C3%A9e", "Lille", "Textile"], ["La_Grande_Arm%C3%A9e", "Moscow", "Textile"], ["La_Grande_Arm%C3%A9e", "Portugal", "Textile"]]

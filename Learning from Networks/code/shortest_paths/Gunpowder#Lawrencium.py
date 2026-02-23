@@ -1,0 +1,1 @@
+[["Gunpowder", "Sulfur", "List_of_elements_by_name", "Lawrencium"], ["Gunpowder", "Sulfur", "Periodic_table", "Lawrencium"]]

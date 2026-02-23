@@ -1,0 +1,1 @@
+[["Organism", "Glacier_National_Park_%28US%29", "Rocky_Mountains", "Benjamin_Harrison"], ["Organism", "Glacier_National_Park_%28US%29", "William_Howard_Taft", "Benjamin_Harrison"]]

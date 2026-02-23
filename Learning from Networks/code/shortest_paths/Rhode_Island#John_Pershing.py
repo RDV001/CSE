@@ -1,0 +1,1 @@
+[["Rhode_Island", "World_War_I", "John_Pershing"]]

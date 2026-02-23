@@ -1,0 +1,1 @@
+[["East-West_Schism", "Bulgaria", "Copper", "Neutron"], ["East-West_Schism", "Bulgaria", "Lead", "Neutron"], ["East-West_Schism", "Bulgaria", "Zinc", "Neutron"]]

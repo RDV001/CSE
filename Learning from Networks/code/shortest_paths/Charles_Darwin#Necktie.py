@@ -1,0 +1,1 @@
+[["Charles_Darwin", "Argentina", "Croatia", "Necktie"], ["Charles_Darwin", "Germany", "Croatia", "Necktie"], ["Charles_Darwin", "Mathematics", "American_English", "Necktie"], ["Charles_Darwin", "Medicine", "American_English", "Necktie"]]

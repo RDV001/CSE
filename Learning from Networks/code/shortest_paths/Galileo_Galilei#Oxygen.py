@@ -1,0 +1,1 @@
+[["Galileo_Galilei", "Earth", "Oxygen"], ["Galileo_Galilei", "Mercury_%28planet%29", "Oxygen"], ["Galileo_Galilei", "Moon", "Oxygen"], ["Galileo_Galilei", "Star", "Oxygen"], ["Galileo_Galilei", "Sun", "Oxygen"]]

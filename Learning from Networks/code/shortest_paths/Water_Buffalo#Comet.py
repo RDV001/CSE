@@ -1,0 +1,1 @@
+[["Water_Buffalo", "Asia", "Earth", "Comet"], ["Water_Buffalo", "Europe", "Earth", "Comet"], ["Water_Buffalo", "South_America", "Earth", "Comet"], ["Water_Buffalo", "Asia", "Sun", "Comet"]]

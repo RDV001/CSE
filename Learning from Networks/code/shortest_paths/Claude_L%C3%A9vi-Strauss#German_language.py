@@ -1,0 +1,1 @@
+[["Claude_L%C3%A9vi-Strauss", "Brussels", "German_language"], ["Claude_L%C3%A9vi-Strauss", "South_America", "German_language"]]

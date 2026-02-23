@@ -1,0 +1,1 @@
+[["Encyclop%C3%A6dia_Britannica", "England", "Hinduism", "Varanasi"], ["Encyclop%C3%A6dia_Britannica", "United_Kingdom", "Hinduism", "Varanasi"], ["Encyclop%C3%A6dia_Britannica", "United_States", "Hinduism", "Varanasi"]]

@@ -1,0 +1,1 @@
+[["Cactus", "Israel", "Russian_language"], ["Cactus", "Jew", "Russian_language"], ["Cactus", "Mexico", "Russian_language"]]

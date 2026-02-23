@@ -1,0 +1,1 @@
+[["Tiananmen_Square_protests_of_1989", "United_States", "Bald_Eagle"]]

@@ -1,0 +1,1 @@
+[["Abel_Tasman", "James_Cook", "Astronomy", "Extrasolar_planet", "Upsilon_Andromedae", "Upsilon_Andromedae_d"], ["Abel_Tasman", "James_Cook", "Transit_of_Venus", "Extrasolar_planet", "Upsilon_Andromedae", "Upsilon_Andromedae_d"]]

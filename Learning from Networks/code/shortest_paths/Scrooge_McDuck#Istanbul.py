@@ -1,0 +1,1 @@
+[["Scrooge_McDuck", "Morocco", "Istanbul"]]

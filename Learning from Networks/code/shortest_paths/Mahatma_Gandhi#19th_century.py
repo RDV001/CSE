@@ -1,0 +1,1 @@
+[["Mahatma_Gandhi", "Bible", "19th_century"], ["Mahatma_Gandhi", "Delhi", "19th_century"], ["Mahatma_Gandhi", "Islam", "19th_century"], ["Mahatma_Gandhi", "Zionism", "19th_century"]]

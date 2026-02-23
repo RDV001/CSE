@@ -1,0 +1,1 @@
+[["Great_Wall_of_China", "17th_century", "Time", "Measurement"], ["Great_Wall_of_China", "Binoculars", "Milky_Way", "Measurement"], ["Great_Wall_of_China", "China", "Mathematics", "Measurement"]]

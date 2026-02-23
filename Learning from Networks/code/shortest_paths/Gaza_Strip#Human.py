@@ -1,0 +1,1 @@
+[["Gaza_Strip", "Vegetable", "Human"]]

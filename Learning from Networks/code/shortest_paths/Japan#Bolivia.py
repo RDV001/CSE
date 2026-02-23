@@ -1,0 +1,1 @@
+[["Japan", "Capital", "Bolivia"], ["Japan", "League_of_Nations", "Bolivia"], ["Japan", "List_of_countries_by_system_of_government", "Bolivia"]]

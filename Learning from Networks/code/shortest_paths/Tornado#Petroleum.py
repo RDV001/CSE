@@ -1,0 +1,1 @@
+[["Tornado", "Argentina", "Petroleum"], ["Tornado", "Canada", "Petroleum"], ["Tornado", "Dallas%2C_Texas", "Petroleum"], ["Tornado", "European_Union", "Petroleum"], ["Tornado", "Netherlands", "Petroleum"], ["Tornado", "Russia", "Petroleum"], ["Tornado", "South_America", "Petroleum"], ["Tornado", "United_Kingdom", "Petroleum"], ["Tornado", "United_States", "Petroleum"]]

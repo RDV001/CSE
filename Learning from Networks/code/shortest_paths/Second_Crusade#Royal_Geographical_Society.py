@@ -1,0 +1,1 @@
+[["Second_Crusade", "Jew", "Geography", "Royal_Geographical_Society"]]

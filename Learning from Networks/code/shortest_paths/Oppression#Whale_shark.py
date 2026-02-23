@@ -1,0 +1,1 @@
+[["Oppression", "Psychology", "19th_century", "Honduras", "Whale_shark"], ["Oppression", "Psychology", "United_States", "Honduras", "Whale_shark"], ["Oppression", "Psychology", "Animal", "Fish", "Whale_shark"], ["Oppression", "Psychology", "Brain", "Fish", "Whale_shark"], ["Oppression", "Psychology", "Emotion", "Fish", "Whale_shark"]]

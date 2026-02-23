@@ -1,0 +1,1 @@
+[["Milky_Way", "Earth", "Ecuador"], ["Milky_Way", "Spanish_language", "Ecuador"]]

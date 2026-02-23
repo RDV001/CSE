@@ -1,0 +1,1 @@
+[["Barcelona", "Belgium", "1973_oil_crisis", "Wood_fuel"]]

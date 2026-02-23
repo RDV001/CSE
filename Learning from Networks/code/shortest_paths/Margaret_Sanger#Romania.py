@@ -1,0 +1,1 @@
+[["Margaret_Sanger", "Europe", "Romania"]]

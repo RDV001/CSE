@@ -1,0 +1,1 @@
+[["Population_history_of_American_indigenous_peoples", "Africa", "Egypt", "Giza_pyramid_complex"], ["Population_history_of_American_indigenous_peoples", "Black_Death", "Egypt", "Giza_pyramid_complex"], ["Population_history_of_American_indigenous_peoples", "World_War_II", "Egypt", "Giza_pyramid_complex"]]

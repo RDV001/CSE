@@ -1,0 +1,1 @@
+[["George_Byron%2C_6th_Baron_Byron", "Arcadia_%28play%29", "Physics", "Electric_charge", "Isospin"], ["George_Byron%2C_6th_Baron_Byron", "BBC", "Radio", "Electric_charge", "Isospin"], ["George_Byron%2C_6th_Baron_Byron", "Switzerland", "Energy", "Electric_charge", "Isospin"]]

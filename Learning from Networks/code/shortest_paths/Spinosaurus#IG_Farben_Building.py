@@ -1,0 +1,1 @@
+[["Spinosaurus", "Germany", "Frankfurt", "IG_Farben_Building"], ["Spinosaurus", "Munich", "Frankfurt", "IG_Farben_Building"]]

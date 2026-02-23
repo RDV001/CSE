@@ -1,0 +1,1 @@
+[["New_England_Patriots", "American_Revolutionary_War", "British_House_of_Commons", "Charles_I_of_England"], ["New_England_Patriots", "American_Revolutionary_War", "Parliament_of_the_United_Kingdom", "Charles_I_of_England"], ["New_England_Patriots", "American_Revolutionary_War", "Royal_Navy", "Charles_I_of_England"]]

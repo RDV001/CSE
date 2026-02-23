@@ -1,0 +1,1 @@
+[["Tourism", "Cuba", "Yemen"], ["Tourism", "France", "Yemen"], ["Tourism", "Kenya", "Yemen"], ["Tourism", "Lebanon", "Yemen"], ["Tourism", "Paris", "Yemen"], ["Tourism", "Turkey", "Yemen"]]

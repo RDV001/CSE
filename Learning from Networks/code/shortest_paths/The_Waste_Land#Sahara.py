@@ -1,0 +1,1 @@
+[["The_Waste_Land", "English_language", "Nigeria", "Sahara"], ["The_Waste_Land", "Fishing", "Nile", "Sahara"], ["The_Waste_Land", "Ivory", "Chad", "Sahara"], ["The_Waste_Land", "Walt_Whitman", "Gustav_Holst", "Sahara"]]

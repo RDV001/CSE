@@ -1,0 +1,1 @@
+[["Spinosaurus", "Europe", "Barcelona", "Hannibal_Barca"], ["Spinosaurus", "Europe", "Lisbon", "Hannibal_Barca"], ["Spinosaurus", "Tyrannosaurus", "Elephant", "Hannibal_Barca"]]

@@ -1,0 +1,1 @@
+[["Big_Bang", "Buddhism", "Sanskrit"], ["Big_Bang", "Hinduism", "Sanskrit"], ["Big_Bang", "Science", "Sanskrit"]]

@@ -1,0 +1,1 @@
+[["Allah", "Arabic_language", "Alcohol"], ["Allah", "Islam", "Alcohol"]]

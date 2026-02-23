@@ -1,0 +1,1 @@
+[["Marcus_Allen", "Kansas_City%2C_Missouri", "Poverty", "Globalization"]]

@@ -1,0 +1,1 @@
+[["Bedbug", "Animal", "Energy", "Electric_charge", "Isospin"], ["Bedbug", "Carbon_dioxide", "Photon", "Electric_charge", "Isospin"], ["Bedbug", "Human", "Physics", "Electric_charge", "Isospin"]]

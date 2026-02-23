@@ -1,0 +1,1 @@
+[["Battle_of_Grunwald", "16th_century", "19th_century", "Shaka"], ["Battle_of_Grunwald", "20th_century", "19th_century", "Shaka"], ["Battle_of_Grunwald", "Estonia", "19th_century", "Shaka"], ["Battle_of_Grunwald", "Warsaw", "19th_century", "Shaka"]]

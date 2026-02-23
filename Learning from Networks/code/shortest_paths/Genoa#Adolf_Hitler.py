@@ -1,0 +1,1 @@
+[["Genoa", "Greece", "Adolf_Hitler"], ["Genoa", "Italy", "Adolf_Hitler"], ["Genoa", "Spain", "Adolf_Hitler"], ["Genoa", "World_War_II", "Adolf_Hitler"]]

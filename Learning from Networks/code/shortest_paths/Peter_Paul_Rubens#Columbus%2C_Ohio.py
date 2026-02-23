@@ -1,0 +1,1 @@
+[["Peter_Paul_Rubens", "Anthony_van_Dyck", "Genoa", "Columbus%2C_Ohio"], ["Peter_Paul_Rubens", "Antwerp", "Genoa", "Columbus%2C_Ohio"], ["Peter_Paul_Rubens", "Italy", "Genoa", "Columbus%2C_Ohio"], ["Peter_Paul_Rubens", "Madrid", "Christopher_Columbus", "Columbus%2C_Ohio"], ["Peter_Paul_Rubens", "Spain", "Christopher_Columbus", "Columbus%2C_Ohio"]]

@@ -1,0 +1,1 @@
+[["Giza_pyramid_complex", "World_Heritage_Site", "Hungary", "Paprika"]]

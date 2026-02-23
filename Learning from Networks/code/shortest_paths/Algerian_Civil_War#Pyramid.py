@@ -1,0 +1,1 @@
+[["Algerian_Civil_War", "Algiers", "Cairo", "Pyramid"], ["Algerian_Civil_War", "Islam", "Cairo", "Pyramid"], ["Algerian_Civil_War", "Paris", "Cairo", "Pyramid"], ["Algerian_Civil_War", "Sahara", "Cairo", "Pyramid"], ["Algerian_Civil_War", "Democracy", "Alexander_the_Great", "Pyramid"]]

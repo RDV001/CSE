@@ -1,0 +1,1 @@
+[["Comics", "Newspaper", "Weather", "Weather_forecasting"]]

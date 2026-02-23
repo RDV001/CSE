@@ -1,0 +1,1 @@
+[["Akbar", "Malwa_%28Madhya_Pradesh%29", "Mathematics"], ["Akbar", "Persian_Empire", "Mathematics"], ["Akbar", "Philosophy", "Mathematics"]]

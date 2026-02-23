@@ -1,0 +1,1 @@
+[["Peaceful_coexistence", "Capitalism", "Industrial_Revolution"]]

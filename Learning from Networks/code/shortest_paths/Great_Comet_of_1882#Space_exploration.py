@@ -1,0 +1,1 @@
+[["Great_Comet_of_1882", "Comet", "European_Space_Agency", "Space_exploration"], ["Great_Comet_of_1882", "Sun", "European_Space_Agency", "Space_exploration"], ["Great_Comet_of_1882", "South_Africa", "Human", "Space_exploration"], ["Great_Comet_of_1882", "Sun", "Energy", "Space_exploration"], ["Great_Comet_of_1882", "Sun", "Japan", "Space_exploration"]]

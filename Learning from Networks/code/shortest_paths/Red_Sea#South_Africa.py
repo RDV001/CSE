@@ -1,0 +1,1 @@
+[["Red_Sea", "Africa", "South_Africa"], ["Red_Sea", "Djibouti", "South_Africa"], ["Red_Sea", "Eritrea", "South_Africa"], ["Red_Sea", "Indian_Ocean", "South_Africa"], ["Red_Sea", "Israel", "South_Africa"], ["Red_Sea", "Saudi_Arabia", "South_Africa"], ["Red_Sea", "Somalia", "South_Africa"], ["Red_Sea", "Sudan", "South_Africa"], ["Red_Sea", "Yemen", "South_Africa"]]

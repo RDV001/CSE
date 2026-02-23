@@ -1,0 +1,1 @@
+[["Greenhouse_effect", "Venus", "South_America", "Lake_Titicaca"]]

@@ -1,0 +1,1 @@
+[["Global_city", "Adelaide", "Airbus_A380"], ["Global_city", "Dubai", "Airbus_A380"], ["Global_city", "France", "Airbus_A380"], ["Global_city", "Montreal", "Airbus_A380"], ["Global_city", "Singapore", "Airbus_A380"]]

@@ -1,0 +1,1 @@
+[["Nobel_Peace_Prize", "Poland"]]

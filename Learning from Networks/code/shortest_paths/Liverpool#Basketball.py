@@ -1,0 +1,1 @@
+[["Liverpool", "Birmingham", "Basketball"], ["Liverpool", "Dublin", "Basketball"], ["Liverpool", "People%27s_Republic_of_China", "Basketball"], ["Liverpool", "Sheffield", "Basketball"]]

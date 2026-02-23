@@ -1,0 +1,1 @@
+[["Chromatic_aberration", "Light", "Rainbow", "York", "John_Sentamu"], ["Chromatic_aberration", "Photography", "United_States", "Multiculturalism", "John_Sentamu"]]

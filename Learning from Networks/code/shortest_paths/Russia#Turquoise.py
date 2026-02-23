@@ -1,0 +1,1 @@
+[["Russia", "City", "Civilization", "Turquoise"], ["Russia", "Currency", "Ancient_Egypt", "Turquoise"], ["Russia", "Jew", "Ancient_Egypt", "Turquoise"], ["Russia", "Judaism", "Ancient_Egypt", "Turquoise"], ["Russia", "Mediterranean_Sea", "Ancient_Egypt", "Turquoise"], ["Russia", "Islam", "Taj_Mahal", "Turquoise"], ["Russia", "Natural_gas", "Glass", "Turquoise"]]

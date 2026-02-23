@@ -1,0 +1,1 @@
+[["Lung_cancer", "Europe", "Iran"], ["Lung_cancer", "New_Zealand", "Iran"], ["Lung_cancer", "United_States", "Iran"]]

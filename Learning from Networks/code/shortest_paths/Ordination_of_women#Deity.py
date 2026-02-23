@@ -1,0 +1,1 @@
+[["Ordination_of_women", "Africa", "Deity"]]

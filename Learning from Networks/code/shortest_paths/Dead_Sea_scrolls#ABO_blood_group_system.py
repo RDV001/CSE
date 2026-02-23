@@ -1,0 +1,1 @@
+[["Dead_Sea_scrolls", "9th_century", "Iceland", "Blood_type", "ABO_blood_group_system"], ["Dead_Sea_scrolls", "Jesus", "Shroud_of_Turin", "Blood_type", "ABO_blood_group_system"]]

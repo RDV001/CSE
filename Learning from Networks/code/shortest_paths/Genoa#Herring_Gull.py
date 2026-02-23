@@ -1,0 +1,1 @@
+[["Genoa", "Africa", "Carnivore", "Gull", "Herring_Gull"], ["Genoa", "Ecuador", "Gal%C3%A1pagos_Islands", "Gull", "Herring_Gull"]]

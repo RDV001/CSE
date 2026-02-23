@@ -1,0 +1,1 @@
+[["George_Eliot", "Baruch_Spinoza", "Latin", "Split_infinitive"], ["George_Eliot", "England", "Latin", "Split_infinitive"], ["George_Eliot", "Europe", "Latin", "Split_infinitive"], ["George_Eliot", "Switzerland", "Latin", "Split_infinitive"], ["George_Eliot", "United_States", "Latin", "Split_infinitive"]]

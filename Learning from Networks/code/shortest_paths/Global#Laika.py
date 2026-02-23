@@ -1,0 +1,1 @@
+[["Global", "Antarctica", "Soviet_Union", "Laika"], ["Global", "North_Korea", "Soviet_Union", "Laika"], ["Global", "Human", "Space_exploration", "Laika"]]

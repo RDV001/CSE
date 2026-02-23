@@ -1,0 +1,1 @@
+[["Ancient_history", "Greece", "Adolf_Hitler"], ["Ancient_history", "Italy", "Adolf_Hitler"], ["Ancient_history", "Jew", "Adolf_Hitler"], ["Ancient_history", "War", "Adolf_Hitler"]]

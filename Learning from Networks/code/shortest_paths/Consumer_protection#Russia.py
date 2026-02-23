@@ -1,0 +1,1 @@
+[["Consumer_protection", "Bulgaria", "Russia"], ["Consumer_protection", "European_Union", "Russia"], ["Consumer_protection", "United_States", "Russia"]]

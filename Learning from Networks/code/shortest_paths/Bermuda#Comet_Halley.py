@@ -1,0 +1,1 @@
+[["Bermuda", "20th_century", "21st_century", "Comet_Halley"], ["Bermuda", "Tourism", "21st_century", "Comet_Halley"], ["Bermuda", "England", "Anno_Domini", "Comet_Halley"]]

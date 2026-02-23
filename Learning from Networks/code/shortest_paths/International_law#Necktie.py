@@ -1,0 +1,1 @@
+[["International_law", "European_Union", "Croatia", "Necktie"], ["International_law", "Police", "Croatia", "Necktie"]]

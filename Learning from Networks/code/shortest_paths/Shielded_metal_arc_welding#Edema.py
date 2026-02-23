@@ -1,0 +1,1 @@
+[["Shielded_metal_arc_welding", "Copper", "Brain", "Edema"], ["Shielded_metal_arc_welding", "Retina", "Brain", "Edema"], ["Shielded_metal_arc_welding", "Cornea", "Contact_lens", "Edema"], ["Shielded_metal_arc_welding", "Cornea", "Eye", "Edema"], ["Shielded_metal_arc_welding", "Retina", "Eye", "Edema"]]

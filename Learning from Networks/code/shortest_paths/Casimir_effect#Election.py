@@ -1,0 +1,1 @@
+[["Casimir_effect", "Energy", "Politics", "Election"], ["Casimir_effect", "Netherlands", "Vatican_City", "Election"], ["Casimir_effect", "Netherlands", "World_War_II", "Election"], ["Casimir_effect", "Physics", "World_War_II", "Election"]]

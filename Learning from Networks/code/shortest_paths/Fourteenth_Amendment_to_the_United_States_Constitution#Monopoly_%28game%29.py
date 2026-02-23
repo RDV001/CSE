@@ -1,0 +1,1 @@
+[["Fourteenth_Amendment_to_the_United_States_Constitution", "20th_century", "Trench_warfare", "Monopoly_%28game%29"], ["Fourteenth_Amendment_to_the_United_States_Constitution", "American_Civil_War", "Trench_warfare", "Monopoly_%28game%29"], ["Fourteenth_Amendment_to_the_United_States_Constitution", "England", "Brighton", "Monopoly_%28game%29"]]

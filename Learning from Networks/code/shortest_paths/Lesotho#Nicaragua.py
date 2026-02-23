@@ -1,0 +1,1 @@
+[["Lesotho", "List_of_countries_by_system_of_government", "Nicaragua"], ["Lesotho", "United_Nations", "Nicaragua"], ["Lesotho", "United_States", "Nicaragua"]]

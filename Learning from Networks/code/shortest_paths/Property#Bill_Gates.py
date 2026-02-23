@@ -1,0 +1,1 @@
+[["Property", "Monarchy", "21st_century", "Bill_Gates"], ["Property", "Monarchy", "Lesotho", "Bill_Gates"], ["Property", "Renaissance", "Leonardo_da_Vinci", "Bill_Gates"]]

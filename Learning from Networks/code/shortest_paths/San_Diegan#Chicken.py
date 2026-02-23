@@ -1,0 +1,1 @@
+[["San_Diegan", "Los_Angeles%2C_California", "Flower", "Chicken"], ["San_Diegan", "Pacific_Ocean", "Easter_Island", "Chicken"]]

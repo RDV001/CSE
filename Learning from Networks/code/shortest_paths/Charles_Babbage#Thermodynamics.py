@@ -1,0 +1,1 @@
+[["Charles_Babbage", "Gottfried_Leibniz", "Thermodynamics"]]

@@ -1,0 +1,1 @@
+[["Jewellery", "Byzantine_Empire", "First_Crusade"], ["Jewellery", "War", "First_Crusade"]]

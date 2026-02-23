@@ -1,0 +1,1 @@
+[["Rome", "Italy", "Volcano", "Colima_%28volcano%29"], ["Rome", "Japan", "Volcano", "Colima_%28volcano%29"], ["Rome", "Philippines", "Volcano", "Colima_%28volcano%29"], ["Rome", "South_Korea", "Volcano", "Colima_%28volcano%29"]]

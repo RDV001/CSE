@@ -1,0 +1,1 @@
+[["Nuclear_weapon", "France", "Euro"], ["Nuclear_weapon", "United_Kingdom", "Euro"]]

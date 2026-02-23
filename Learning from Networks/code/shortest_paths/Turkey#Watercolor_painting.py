@@ -1,0 +1,1 @@
+[["Turkey", "Japan", "Felice_Beato", "Watercolor_painting"], ["Turkey", "United_Kingdom", "J._M._W._Turner", "Watercolor_painting"]]

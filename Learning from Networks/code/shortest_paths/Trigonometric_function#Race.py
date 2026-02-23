@@ -1,0 +1,1 @@
+[["Trigonometric_function", "Ptolemy", "Race"]]

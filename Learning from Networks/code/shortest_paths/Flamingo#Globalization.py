@@ -1,0 +1,1 @@
+[["Flamingo", "Bacteria", "Wine", "Globalization"], ["Flamingo", "Cretaceous", "Madagascar", "Globalization"], ["Flamingo", "Kenya", "Madagascar", "Globalization"], ["Flamingo", "Tanzania", "Madagascar", "Globalization"], ["Flamingo", "Kenya", "Pakistan", "Globalization"], ["Flamingo", "Tanzania", "Pakistan", "Globalization"]]

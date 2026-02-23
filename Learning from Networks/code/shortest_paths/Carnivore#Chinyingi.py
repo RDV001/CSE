@@ -1,0 +1,1 @@
+[["Carnivore", "Bear", "River", "Zambezi", "Chinyingi"], ["Carnivore", "Tiger", "River", "Zambezi", "Chinyingi"], ["Carnivore", "Lion", "Zimbabwe", "Zambezi", "Chinyingi"], ["Carnivore", "Mineral", "Dead_Sea", "Zambezi", "Chinyingi"]]

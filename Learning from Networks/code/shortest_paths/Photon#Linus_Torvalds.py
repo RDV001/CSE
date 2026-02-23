@@ -1,0 +1,1 @@
+[["Photon", "Albert_Einstein", "Linus_Pauling", "Linus_Torvalds"], ["Photon", "Physics", "Linus_Pauling", "Linus_Torvalds"], ["Photon", "Quantum_mechanics", "Linus_Pauling", "Linus_Torvalds"]]

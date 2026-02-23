@@ -1,0 +1,1 @@
+[["Last_Supper", "God", "Light", "Heat"], ["Last_Supper", "Jerusalem", "Albert_Einstein", "Heat"], ["Last_Supper", "Leonardo_da_Vinci", "Physics", "Heat"], ["Last_Supper", "War", "Petroleum", "Heat"]]

@@ -1,0 +1,1 @@
+[["La_Paz", "Capital", "Latin", "Split_infinitive"], ["La_Paz", "English_language", "Latin", "Split_infinitive"], ["La_Paz", "Tin", "Latin", "Split_infinitive"]]

@@ -1,0 +1,1 @@
+[["Animal_rights", "Aristotle", "Geology", "Helium", "Amarillo%2C_Texas", "U.S._Route_66", "United_States_Numbered_Highways"], ["Animal_rights", "Dog", "Ammonia", "Helium", "Amarillo%2C_Texas", "U.S._Route_66", "United_States_Numbered_Highways"], ["Animal_rights", "Pythagoras", "Chemistry", "Helium", "Amarillo%2C_Texas", "U.S._Route_66", "United_States_Numbered_Highways"]]

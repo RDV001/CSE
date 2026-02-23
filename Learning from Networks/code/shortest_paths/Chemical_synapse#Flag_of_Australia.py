@@ -1,0 +1,1 @@
+[["Chemical_synapse", "Computer", "Charles_Babbage", "Australia", "Flag_of_Australia"], ["Chemical_synapse", "Computer", "Computer_and_video_games", "Australia", "Flag_of_Australia"], ["Chemical_synapse", "Computer", "Electrical_engineering", "Australia", "Flag_of_Australia"]]

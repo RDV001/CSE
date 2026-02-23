@@ -1,0 +1,1 @@
+[["Alcibiades", "Ancient_history", "Africa", "Lake_Victoria"], ["Alcibiades", "Athena", "Africa", "Lake_Victoria"], ["Alcibiades", "Libya", "Africa", "Lake_Victoria"], ["Alcibiades", "Libya", "Nile", "Lake_Victoria"], ["Alcibiades", "Pericles", "Nile", "Lake_Victoria"]]

@@ -1,0 +1,1 @@
+[["Linus_Torvalds", "Linux", "Windows_XP", "Internet_Explorer"]]

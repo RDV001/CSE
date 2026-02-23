@@ -1,0 +1,1 @@
+[["Bohrium", "List_of_elements_by_name", "Iridium"], ["Bohrium", "Periodic_table", "Iridium"], ["Bohrium", "Rhenium", "Iridium"]]

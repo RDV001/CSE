@@ -1,0 +1,1 @@
+[["Fennel", "Binomial_nomenclature", "Sweden", "Alfred_Nobel"], ["Fennel", "Europe", "Sweden", "Alfred_Nobel"], ["Fennel", "Germany", "Sweden", "Alfred_Nobel"], ["Fennel", "United_States", "Sweden", "Alfred_Nobel"], ["Fennel", "Greek_mythology", "19th_century", "Alfred_Nobel"], ["Fennel", "Italy", "19th_century", "Alfred_Nobel"]]

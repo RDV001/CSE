@@ -1,0 +1,1 @@
+[["Parthenon", "Roman_Empire", "Sculpture", "Angkor_Wat"], ["Parthenon", "Zeus", "Sculpture", "Angkor_Wat"]]

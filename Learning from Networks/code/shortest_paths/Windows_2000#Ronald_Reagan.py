@@ -1,0 +1,1 @@
+[["Windows_2000", "North_America", "California", "Ronald_Reagan"], ["Windows_2000", "North_America", "Nicaragua", "Ronald_Reagan"]]

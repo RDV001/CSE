@@ -1,0 +1,1 @@
+[["River_Thames", "17th_century", "Canada"], ["River_Thames", "19th_century", "Canada"], ["River_Thames", "British_Empire", "Canada"], ["River_Thames", "Flood", "Canada"], ["River_Thames", "River", "Canada"], ["River_Thames", "River_Severn", "Canada"], ["River_Thames", "United_Kingdom", "Canada"]]

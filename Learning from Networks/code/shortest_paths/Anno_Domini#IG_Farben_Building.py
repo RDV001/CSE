@@ -1,0 +1,1 @@
+[["Anno_Domini", "Afghanistan", "Frankfurt", "IG_Farben_Building"], ["Anno_Domini", "Charlemagne", "Frankfurt", "IG_Farben_Building"]]

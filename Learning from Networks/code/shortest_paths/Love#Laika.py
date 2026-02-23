@@ -1,0 +1,1 @@
+[["Love", "Bertrand_Russell", "Soviet_Union", "Laika"], ["Love", "India", "Soviet_Union", "Laika"], ["Love", "Religion", "Soviet_Union", "Laika"], ["Love", "Human", "Space_exploration", "Laika"]]

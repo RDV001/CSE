@@ -1,0 +1,1 @@
+[["Sesame_Street", "Multiculturalism", "Ayaan_Hirsi_Ali", "Jyllands-Posten_Muhammad_cartoons_controversy"], ["Sesame_Street", "Multiculturalism", "Mosque", "Jyllands-Posten_Muhammad_cartoons_controversy"]]

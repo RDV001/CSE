@@ -1,0 +1,1 @@
+[["Homer", "19th_century", "Carl_Friedrich_Gauss", "Mathematical_analysis"], ["Homer", "Religion", "Geometry", "Mathematical_analysis"]]

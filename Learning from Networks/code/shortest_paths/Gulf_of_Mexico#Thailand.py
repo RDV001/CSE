@@ -1,0 +1,1 @@
+[["Gulf_of_Mexico", "France", "Thailand"], ["Gulf_of_Mexico", "Spain", "Thailand"], ["Gulf_of_Mexico", "Tropical_cyclone", "Thailand"], ["Gulf_of_Mexico", "United_States", "Thailand"]]

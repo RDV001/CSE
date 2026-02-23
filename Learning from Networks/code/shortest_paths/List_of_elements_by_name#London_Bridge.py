@@ -1,0 +1,1 @@
+[["List_of_elements_by_name", "Gold", "London", "London_Bridge"], ["List_of_elements_by_name", "Iridium", "London", "London_Bridge"], ["List_of_elements_by_name", "Osmium", "London", "London_Bridge"], ["List_of_elements_by_name", "Gold", "Thomas_More", "London_Bridge"]]

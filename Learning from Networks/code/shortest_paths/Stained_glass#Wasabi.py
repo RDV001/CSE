@@ -1,0 +1,1 @@
+[["Stained_glass", "France", "Japan", "Wasabi"], ["Stained_glass", "Paris", "Japan", "Wasabi"], ["Stained_glass", "Sculpture", "Japan", "Wasabi"], ["Stained_glass", "World_Heritage_Site", "Japan", "Wasabi"], ["Stained_glass", "World_War_II", "Japan", "Wasabi"]]

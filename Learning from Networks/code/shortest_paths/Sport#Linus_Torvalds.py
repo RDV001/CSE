@@ -1,0 +1,1 @@
+[["Sport", "20th_century", "21st_century", "Linus_Torvalds"], ["Sport", "Art", "21st_century", "Linus_Torvalds"], ["Sport", "Olympic_Games", "Finland", "Linus_Torvalds"], ["Sport", "Olympic_Games", "Helsinki", "Linus_Torvalds"]]

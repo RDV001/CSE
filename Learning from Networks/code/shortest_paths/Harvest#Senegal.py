@@ -1,0 +1,1 @@
+[["Harvest", "Agriculture", "Africa", "Senegal"], ["Harvest", "Cereal", "Africa", "Senegal"], ["Harvest", "Agriculture", "Cotton", "Senegal"], ["Harvest", "Agriculture", "Rice", "Senegal"], ["Harvest", "Cereal", "Rice", "Senegal"], ["Harvest", "Cereal", "Ethiopia", "Senegal"], ["Harvest", "Weather", "Ethiopia", "Senegal"], ["Harvest", "Cereal", "United_States", "Senegal"]]

@@ -1,0 +1,1 @@
+[["Linux", "Open_source", "Beer", "Ethanol", "Distilled_beverage"], ["Linux", "Open_source", "Beer", "Sorghum", "Distilled_beverage"], ["Linux", "Open_source", "Beer", "Yeast", "Distilled_beverage"], ["Linux", "Open_source", "Biotechnology", "Yeast", "Distilled_beverage"], ["Linux", "Richard_Stallman", "Franklin_D._Roosevelt", "League_of_Nations", "Distilled_beverage"]]

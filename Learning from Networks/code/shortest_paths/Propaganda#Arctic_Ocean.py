@@ -1,0 +1,1 @@
+[["Propaganda", "United_States", "Arctic_Ocean"]]

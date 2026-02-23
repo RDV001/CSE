@@ -1,0 +1,1 @@
+[["Niger_River", "Africa", "Earth", "Lunar_eclipse"], ["Niger_River", "Atlantic_Ocean", "Earth", "Lunar_eclipse"], ["Niger_River", "Atlantic_Ocean", "Christopher_Columbus", "Lunar_eclipse"], ["Niger_River", "Atlantic_Ocean", "Tide", "Lunar_eclipse"], ["Niger_River", "River", "Tide", "Lunar_eclipse"]]

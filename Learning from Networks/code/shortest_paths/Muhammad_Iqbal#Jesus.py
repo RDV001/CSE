@@ -1,0 +1,1 @@
+[["Muhammad_Iqbal", "Allah", "Jesus"], ["Muhammad_Iqbal", "Christianity", "Jesus"], ["Muhammad_Iqbal", "Hinduism", "Jesus"]]

@@ -1,0 +1,1 @@
+[["Myanmar", "Afghanistan", "September_11%2C_2001_attacks", "Ziad_Jarrah"], ["Myanmar", "BBC", "September_11%2C_2001_attacks", "Ziad_Jarrah"], ["Myanmar", "Singapore", "September_11%2C_2001_attacks", "Ziad_Jarrah"], ["Myanmar", "United_States", "September_11%2C_2001_attacks", "Ziad_Jarrah"]]

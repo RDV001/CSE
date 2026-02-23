@@ -1,0 +1,1 @@
+[["Chernobyl_disaster", "Cattle", "Mumbai", "Economy_of_India"], ["Chernobyl_disaster", "India", "Mumbai", "Economy_of_India"], ["Chernobyl_disaster", "India", "Bangalore", "Economy_of_India"], ["Chernobyl_disaster", "India", "Kargil_War", "Economy_of_India"], ["Chernobyl_disaster", "India", "Kolkata", "Economy_of_India"]]

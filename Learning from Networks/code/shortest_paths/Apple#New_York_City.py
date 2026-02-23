@@ -1,0 +1,1 @@
+[["Apple", "Cornell_University", "New_York_City"], ["Apple", "Halloween", "New_York_City"], ["Apple", "Johnny_Appleseed", "New_York_City"], ["Apple", "Madrid", "New_York_City"], ["Apple", "Minnesota", "New_York_City"], ["Apple", "Paris", "New_York_City"], ["Apple", "U.S._state", "New_York_City"], ["Apple", "United_States", "New_York_City"]]

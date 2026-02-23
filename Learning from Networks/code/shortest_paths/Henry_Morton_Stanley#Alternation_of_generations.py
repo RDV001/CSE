@@ -1,0 +1,1 @@
+[["Henry_Morton_Stanley", "Democratic_Republic_of_the_Congo", "Okapi", "Fern", "Alternation_of_generations"], ["Henry_Morton_Stanley", "Sudan", "Christmas_Island", "Fern", "Alternation_of_generations"], ["Henry_Morton_Stanley", "Tanzania", "Christmas_Island", "Fern", "Alternation_of_generations"]]

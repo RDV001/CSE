@@ -1,0 +1,1 @@
+[["Intel_Corporation", "Argentina", "String_theory"]]

@@ -1,0 +1,1 @@
+[["Glaciology", "Biology", "Carbon", "Boron"], ["Glaciology", "Ecology", "Carbon", "Boron"], ["Glaciology", "Biology", "Carbon_dioxide", "Boron"], ["Glaciology", "Ecology", "Carbon_dioxide", "Boron"], ["Glaciology", "Ice", "Carbon_dioxide", "Boron"], ["Glaciology", "Geology", "Helium", "Boron"]]

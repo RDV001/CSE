@@ -1,0 +1,1 @@
+[["Urial", "Asia", "Rabindranath_Tagore", "Leo_Tolstoy"], ["Urial", "India", "Rabindranath_Tagore", "Leo_Tolstoy"], ["Urial", "Human", "Aesthetics", "Leo_Tolstoy"], ["Urial", "Russia", "Crimean_War", "Leo_Tolstoy"]]

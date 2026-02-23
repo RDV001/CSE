@@ -1,0 +1,1 @@
+[["Gas_giant", "Carbon", "Australia", "Grand_Slam_%28tennis%29", "Tiger_Woods"], ["Gas_giant", "Earth", "Australia", "Grand_Slam_%28tennis%29", "Tiger_Woods"], ["Gas_giant", "Ice", "Australia", "Grand_Slam_%28tennis%29", "Tiger_Woods"], ["Gas_giant", "Water", "United_Kingdom", "Grand_Slam_%28tennis%29", "Tiger_Woods"]]

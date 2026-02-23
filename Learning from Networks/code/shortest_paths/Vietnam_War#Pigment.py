@@ -1,0 +1,1 @@
+[["Vietnam_War", "China", "Human", "Pigment"], ["Vietnam_War", "Communism", "Human", "Pigment"], ["Vietnam_War", "Philippines", "Human", "Pigment"], ["Vietnam_War", "Cuba", "Mining", "Pigment"], ["Vietnam_War", "Laos", "Mining", "Pigment"], ["Vietnam_War", "United_States", "Mining", "Pigment"], ["Vietnam_War", "Japan", "Vegetable", "Pigment"]]

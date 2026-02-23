@@ -1,0 +1,1 @@
+[["Amazon_Rainforest", "Africa", "Civilization"], ["Amazon_Rainforest", "Global_warming", "Civilization"], ["Amazon_Rainforest", "Portugal", "Civilization"], ["Amazon_Rainforest", "River", "Civilization"]]

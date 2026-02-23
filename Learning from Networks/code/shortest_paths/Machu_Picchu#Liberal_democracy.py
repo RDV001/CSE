@@ -1,0 +1,1 @@
+[["Machu_Picchu", "India", "Liberal_democracy"]]

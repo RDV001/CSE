@@ -1,0 +1,1 @@
+[["Leif_Ericson", "Christianity", "Spain"], ["Leif_Ericson", "Europe", "Spain"], ["Leif_Ericson", "Germany", "Spain"], ["Leif_Ericson", "North_America", "Spain"], ["Leif_Ericson", "United_States", "Spain"]]

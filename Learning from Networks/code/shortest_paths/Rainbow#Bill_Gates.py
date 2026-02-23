@@ -1,0 +1,1 @@
+[["Rainbow", "Greek_mythology", "Leonardo_da_Vinci", "Bill_Gates"], ["Rainbow", "Oil_painting", "Leonardo_da_Vinci", "Bill_Gates"], ["Rainbow", "Landscape", "21st_century", "Bill_Gates"]]

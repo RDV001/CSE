@@ -1,0 +1,1 @@
+[["Stuttering", "Aristotle", "Aesthetics", "Dada"], ["Stuttering", "George_VI_of_the_United_Kingdom", "World_War_I", "Dada"], ["Stuttering", "Turkey", "World_War_I", "Dada"], ["Stuttering", "United_Kingdom", "World_War_I", "Dada"], ["Stuttering", "Winston_Churchill", "World_War_I", "Dada"]]

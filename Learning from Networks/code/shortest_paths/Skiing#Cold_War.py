@@ -1,0 +1,1 @@
+[["Skiing", "20th_century", "Cold_War"], ["Skiing", "Europe", "Cold_War"], ["Skiing", "Finland", "Cold_War"], ["Skiing", "Russia", "Cold_War"], ["Skiing", "United_States", "Cold_War"], ["Skiing", "World_War_II", "Cold_War"]]

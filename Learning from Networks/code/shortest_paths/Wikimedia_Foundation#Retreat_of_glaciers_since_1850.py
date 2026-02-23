@@ -1,0 +1,1 @@
+[["Wikimedia_Foundation", "Florida", "Glacier", "Retreat_of_glaciers_since_1850"], ["Wikimedia_Foundation", "Florida", "Global_warming", "Retreat_of_glaciers_since_1850"]]

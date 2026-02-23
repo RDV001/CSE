@@ -1,0 +1,1 @@
+[["Linux", "C%2B%2B", "Nineteen_Eighty-Four", "Adolf_Hitler"], ["Linux", "Richard_Stallman", "Franklin_D._Roosevelt", "Adolf_Hitler"], ["Linux", "Richard_Stallman", "Winston_Churchill", "Adolf_Hitler"]]

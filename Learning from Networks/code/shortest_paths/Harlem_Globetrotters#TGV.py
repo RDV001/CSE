@@ -1,0 +1,1 @@
+[["Harlem_Globetrotters", "Austria", "Portugal", "TGV"], ["Harlem_Globetrotters", "Pope_John_Paul_II", "Portugal", "TGV"], ["Harlem_Globetrotters", "Vienna", "Paris", "TGV"]]

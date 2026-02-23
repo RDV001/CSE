@@ -1,0 +1,1 @@
+[["Berlin", "London", "List_of_sovereign_states"], ["Berlin", "United_States", "List_of_sovereign_states"]]

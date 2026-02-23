@@ -1,0 +1,1 @@
+[["Plains_Zebra", "Ethiopia", "Tony_Blair", "Minimum_wage"]]

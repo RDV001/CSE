@@ -1,0 +1,1 @@
+[["Battle_of_Warsaw_%281920%29", "Mythology", "Greek_mythology", "Swan", "Shelduck"], ["Battle_of_Warsaw_%281920%29", "Mythology", "Trojan_War", "Swan", "Shelduck"]]

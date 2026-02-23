@@ -1,0 +1,1 @@
+[["Britney_Spears", "Florida", "President_of_the_United_States", "Franklin_Pierce"], ["Britney_Spears", "United_States", "President_of_the_United_States", "Franklin_Pierce"], ["Britney_Spears", "Washington%2C_D.C.", "President_of_the_United_States", "Franklin_Pierce"], ["Britney_Spears", "United_States", "Manifest_Destiny", "Franklin_Pierce"]]

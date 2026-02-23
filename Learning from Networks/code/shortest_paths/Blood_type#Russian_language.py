@@ -1,0 +1,1 @@
+[["Blood_type", "ABO_blood_group_system", "Finland", "Russian_language"], ["Blood_type", "ABO_blood_group_system", "Germany", "Russian_language"], ["Blood_type", "ABO_blood_group_system", "Russia", "Russian_language"], ["Blood_type", "ABO_blood_group_system", "Vietnam", "Russian_language"]]

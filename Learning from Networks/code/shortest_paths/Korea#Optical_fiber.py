@@ -1,0 +1,1 @@
+[["Korea", "Japan", "Telecommunication", "Optical_fiber"], ["Korea", "Russia", "Mass_media", "Optical_fiber"], ["Korea", "South_Korea", "Internet", "Optical_fiber"], ["Korea", "United_States", "Internet", "Optical_fiber"]]

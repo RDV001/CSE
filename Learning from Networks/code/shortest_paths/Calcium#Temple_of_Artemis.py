@@ -1,0 +1,1 @@
+[["Calcium", "Almond", "Greece", "Temple_of_Artemis"], ["Calcium", "Copper", "Greece", "Temple_of_Artemis"], ["Calcium", "England", "Greece", "Temple_of_Artemis"], ["Calcium", "Humphry_Davy", "Greece", "Temple_of_Artemis"], ["Calcium", "Sesame", "Greece", "Temple_of_Artemis"], ["Calcium", "United_States", "Greece", "Temple_of_Artemis"]]

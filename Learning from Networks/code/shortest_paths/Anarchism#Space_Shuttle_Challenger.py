@@ -1,0 +1,1 @@
+[["Anarchism", "Technology", "Space_exploration", "Space_Shuttle_Challenger"]]

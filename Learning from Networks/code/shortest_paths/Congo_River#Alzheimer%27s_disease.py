@@ -1,0 +1,1 @@
+[["Congo_River", "Copper", "Aluminium", "Alzheimer%27s_disease"], ["Congo_River", "Copper", "Brain", "Alzheimer%27s_disease"], ["Congo_River", "Copper", "Schizophrenia", "Alzheimer%27s_disease"], ["Congo_River", "Cotton", "20th_century", "Alzheimer%27s_disease"]]

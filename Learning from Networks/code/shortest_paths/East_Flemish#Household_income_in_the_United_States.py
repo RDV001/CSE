@@ -1,0 +1,1 @@
+[["East_Flemish", "Dutch_language", "United_States", "Household_income_in_the_United_States"], ["East_Flemish", "France", "United_States", "Household_income_in_the_United_States"], ["East_Flemish", "Netherlands", "United_States", "Household_income_in_the_United_States"], ["East_Flemish", "Spain", "United_States", "Household_income_in_the_United_States"]]

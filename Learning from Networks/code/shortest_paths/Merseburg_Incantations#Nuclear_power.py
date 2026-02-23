@@ -1,0 +1,1 @@
+[["Merseburg_Incantations", "10th_century", "Germany", "Nuclear_power"], ["Merseburg_Incantations", "Middle_Ages", "Germany", "Nuclear_power"], ["Merseburg_Incantations", "Latin", "United_States", "Nuclear_power"]]

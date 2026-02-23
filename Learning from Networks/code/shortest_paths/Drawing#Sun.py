@@ -1,0 +1,1 @@
+[["Drawing", "Albrecht_D%C3%BCrer", "Aztec", "Sun"], ["Drawing", "Europe", "Asia", "Sun"], ["Drawing", "Europe", "Earth", "Sun"], ["Drawing", "Europe", "Ice_age", "Sun"], ["Drawing", "Leonardo_da_Vinci", "Astronomy", "Sun"], ["Drawing", "Leonardo_da_Vinci", "Physics", "Sun"], ["Drawing", "Leonardo_da_Vinci", "Water", "Sun"], ["Drawing", "Vincent_van_Gogh", "Venus", "Sun"]]

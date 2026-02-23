@@ -1,0 +1,1 @@
+[["Jesus", "Art", "Philosophy"], ["Jesus", "Augustine_of_Hippo", "Philosophy"], ["Jesus", "Diego_Vel%C3%A1zquez", "Philosophy"], ["Jesus", "God", "Philosophy"], ["Jesus", "Hinduism", "Philosophy"], ["Jesus", "Josephus", "Philosophy"], ["Jesus", "Literature", "Philosophy"], ["Jesus", "Roman_Empire", "Philosophy"]]

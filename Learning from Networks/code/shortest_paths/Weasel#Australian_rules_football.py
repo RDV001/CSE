@@ -1,0 +1,1 @@
+[["Weasel", "Europe", "Copenhagen", "Australian_rules_football"], ["Weasel", "Mammal", "Australia", "Australian_rules_football"]]

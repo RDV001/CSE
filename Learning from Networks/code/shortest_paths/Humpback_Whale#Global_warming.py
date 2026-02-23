@@ -1,0 +1,1 @@
+[["Humpback_Whale", "Extinction", "Global_warming"]]

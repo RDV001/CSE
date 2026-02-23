@@ -1,0 +1,1 @@
+[["List_of_French_monarchs", "Louis_XIV_of_France", "Africa", "Khartoum"], ["List_of_French_monarchs", "Middle_Ages", "Africa", "Khartoum"], ["List_of_French_monarchs", "Roman_Empire", "Africa", "Khartoum"], ["List_of_French_monarchs", "Roman_Empire", "Istanbul", "Khartoum"]]

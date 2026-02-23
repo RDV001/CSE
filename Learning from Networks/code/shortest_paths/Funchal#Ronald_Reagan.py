@@ -1,0 +1,1 @@
+[["Funchal", "Portugal", "NATO", "Ronald_Reagan"], ["Funchal", "Sugar", "Soviet_Union", "Ronald_Reagan"]]

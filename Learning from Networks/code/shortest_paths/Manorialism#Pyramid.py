@@ -1,0 +1,1 @@
+[["Manorialism", "Europe", "Suez_Canal", "Pyramid"], ["Manorialism", "Mediterranean_Sea", "Suez_Canal", "Pyramid"], ["Manorialism", "Mediterranean_Sea", "Ancient_Egypt", "Pyramid"], ["Manorialism", "Roman_Empire", "Alexander_the_Great", "Pyramid"]]

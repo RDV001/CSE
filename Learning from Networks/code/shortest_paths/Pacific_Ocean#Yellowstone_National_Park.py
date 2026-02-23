@@ -1,0 +1,1 @@
+[["Pacific_Ocean", "19th_century", "Yellowstone_National_Park"], ["Pacific_Ocean", "United_States", "Yellowstone_National_Park"], ["Pacific_Ocean", "Volcano", "Yellowstone_National_Park"]]

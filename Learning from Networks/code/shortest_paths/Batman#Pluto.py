@@ -1,0 +1,1 @@
+[["Batman", "Earthquake", "Earth", "Pluto"], ["Batman", "Spring_Heeled_Jack", "Earth", "Pluto"], ["Batman", "Superman", "Earth", "Pluto"], ["Batman", "Superman", "Solar_System", "Pluto"], ["Batman", "Superman", "Sun", "Pluto"]]

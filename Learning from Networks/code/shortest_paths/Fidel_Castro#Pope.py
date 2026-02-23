@@ -1,0 +1,1 @@
+[["Fidel_Castro", "Africa", "Pope"], ["Fidel_Castro", "Eastern_Orthodox_Church", "Pope"], ["Fidel_Castro", "Italy", "Pope"], ["Fidel_Castro", "Pope_John_Paul_II", "Pope"], ["Fidel_Castro", "Pope_Pius_XII", "Pope"]]

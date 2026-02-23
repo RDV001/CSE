@@ -1,0 +1,1 @@
+[["European_Union", "Europe", "Fish"], ["European_Union", "Faroe_Islands", "Fish"], ["European_Union", "Finland", "Fish"], ["European_Union", "Greenland", "Fish"], ["European_Union", "Iceland", "Fish"], ["European_Union", "Norway", "Fish"], ["European_Union", "Sweden", "Fish"], ["European_Union", "Water", "Fish"]]

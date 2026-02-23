@@ -1,0 +1,1 @@
+[["Jerry_Fodor", "New_York_City", "North_America", "Craton"], ["Jerry_Fodor", "United_States", "North_America", "Craton"]]

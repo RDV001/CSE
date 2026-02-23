@@ -1,0 +1,1 @@
+[["Telephone", "Japan", "Islam", "Algorithm"], ["Telephone", "United_States", "Islam", "Algorithm"]]

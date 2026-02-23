@@ -1,0 +1,1 @@
+[["Earthquake", "Japan", "Fishing", "Trout"], ["Earthquake", "Natural_gas", "Argentina", "Trout"], ["Earthquake", "United_Kingdom", "Argentina", "Trout"], ["Earthquake", "Netherlands", "Slovenia", "Trout"], ["Earthquake", "United_Kingdom", "Isle_of_Man", "Trout"]]

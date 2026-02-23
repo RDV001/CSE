@@ -1,0 +1,1 @@
+[["Bacteria", "Human", "Weapon", "Firearm"], ["Bacteria", "Sulfur", "Pyrite", "Firearm"]]

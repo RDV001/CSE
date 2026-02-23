@@ -1,0 +1,1 @@
+[["Color", "Isaac_Newton", "Westminster_Abbey", "Richard_II_of_England"]]

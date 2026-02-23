@@ -1,0 +1,1 @@
+[["Tay-Sachs_disease", "Fatty_acid", "Hydrogen", "Gas_giant"], ["Tay-Sachs_disease", "United_Kingdom", "Hydrogen", "Gas_giant"]]

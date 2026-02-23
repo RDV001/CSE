@@ -1,0 +1,1 @@
+[["55_Cancri_c", "Day", "English_language", "HTTP_cookie"]]

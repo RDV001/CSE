@@ -1,0 +1,1 @@
+[["Architecture", "China", "Temperate"], ["Architecture", "Rome", "Temperate"]]

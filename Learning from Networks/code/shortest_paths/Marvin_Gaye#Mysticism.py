@@ -1,0 +1,1 @@
+[["Marvin_Gaye", "United_Kingdom", "Bertrand_Russell", "Mysticism"], ["Marvin_Gaye", "United_States", "Religious_Society_of_Friends", "Mysticism"], ["Marvin_Gaye", "United_States", "Walt_Whitman", "Mysticism"]]

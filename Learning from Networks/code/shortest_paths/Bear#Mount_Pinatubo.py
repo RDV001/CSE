@@ -1,0 +1,1 @@
+[["Bear", "Biology", "Climate_change", "Mount_Pinatubo"], ["Bear", "Fishing", "Philippines", "Mount_Pinatubo"], ["Bear", "United_States", "Philippines", "Mount_Pinatubo"]]

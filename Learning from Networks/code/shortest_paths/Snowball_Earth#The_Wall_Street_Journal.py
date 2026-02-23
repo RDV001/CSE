@@ -1,0 +1,1 @@
+[["Snowball_Earth", "Antarctica", "Chile", "The_Wall_Street_Journal"], ["Snowball_Earth", "Antarctica", "Norway", "The_Wall_Street_Journal"], ["Snowball_Earth", "Continent", "Libya", "The_Wall_Street_Journal"], ["Snowball_Earth", "Earth", "Canada", "The_Wall_Street_Journal"], ["Snowball_Earth", "Ice_age", "Canada", "The_Wall_Street_Journal"]]

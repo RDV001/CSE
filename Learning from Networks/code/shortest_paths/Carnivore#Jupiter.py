@@ -1,0 +1,1 @@
+[["Carnivore", "Dinosaur", "Antarctica", "Jupiter"], ["Carnivore", "Frog", "Antarctica", "Jupiter"], ["Carnivore", "Owl", "Antarctica", "Jupiter"], ["Carnivore", "Penguin", "Antarctica", "Jupiter"], ["Carnivore", "Vulture", "Antarctica", "Jupiter"], ["Carnivore", "Insect", "Ultraviolet", "Jupiter"], ["Carnivore", "Vitamin", "Ultraviolet", "Jupiter"]]

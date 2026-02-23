@@ -1,0 +1,1 @@
+[["Tsunami", "Indonesia", "Indonesian_language"], ["Tsunami", "Krakatoa", "Indonesian_language"]]

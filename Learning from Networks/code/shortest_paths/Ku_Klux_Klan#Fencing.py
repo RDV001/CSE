@@ -1,0 +1,1 @@
+[["Ku_Klux_Klan", "Los_Angeles%2C_California", "Olympic_Games", "Fencing"], ["Ku_Klux_Klan", "Scotland", "Olympic_Games", "Fencing"], ["Ku_Klux_Klan", "United_States", "Olympic_Games", "Fencing"], ["Ku_Klux_Klan", "Scotland", "Commonwealth_Games", "Fencing"], ["Ku_Klux_Klan", "World_War_II", "Winston_Churchill", "Fencing"]]

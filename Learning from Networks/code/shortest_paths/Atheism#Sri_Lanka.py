@@ -1,0 +1,1 @@
+[["Atheism", "Buddhism", "Sri_Lanka"], ["Atheism", "English_language", "Sri_Lanka"], ["Atheism", "India", "Sri_Lanka"]]

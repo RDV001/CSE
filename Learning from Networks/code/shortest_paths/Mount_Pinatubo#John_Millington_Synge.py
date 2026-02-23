@@ -1,0 +1,1 @@
+[["Mount_Pinatubo", "Chile", "Irish_people", "John_Millington_Synge"], ["Mount_Pinatubo", "United_States", "Irish_people", "John_Millington_Synge"], ["Mount_Pinatubo", "United_States", "Republic_of_Ireland", "John_Millington_Synge"]]

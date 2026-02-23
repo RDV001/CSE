@@ -1,0 +1,1 @@
+[["Sodium_sulfate", "17th_century", "Tea", "Butter"], ["Sodium_sulfate", "Ethanol", "Yeast", "Butter"], ["Sodium_sulfate", "Sodium", "Fatty_acid", "Butter"]]

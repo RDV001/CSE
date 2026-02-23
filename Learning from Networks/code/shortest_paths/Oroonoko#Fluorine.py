@@ -1,0 +1,1 @@
+[["Oroonoko", "Africa", "Gold", "Fluorine"], ["Oroonoko", "African_slave_trade", "Gold", "Fluorine"], ["Oroonoko", "British_Empire", "Gold", "Fluorine"], ["Oroonoko", "Charles_II_of_England", "Gold", "Fluorine"], ["Oroonoko", "Ghana", "Gold", "Fluorine"], ["Oroonoko", "Suriname", "Gold", "Fluorine"]]

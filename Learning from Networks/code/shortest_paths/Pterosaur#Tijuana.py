@@ -1,0 +1,1 @@
+[["Pterosaur", "19th_century", "Abraham_Lincoln", "Tijuana"], ["Pterosaur", "19th_century", "Mexico", "Tijuana"], ["Pterosaur", "Brain", "Mexico", "Tijuana"], ["Pterosaur", "South_America", "Mexico", "Tijuana"], ["Pterosaur", "Brazil", "Pacific_Ocean", "Tijuana"], ["Pterosaur", "South_America", "Pacific_Ocean", "Tijuana"]]

@@ -1,0 +1,1 @@
+[["Perfect_number", "Ancient_Greece", "Cheese", "Space_exploration", "Sputnik_2"], ["Perfect_number", "Leonhard_Euler", "Russia", "Sputnik_1", "Sputnik_2"], ["Perfect_number", "Leonhard_Euler", "Soviet_Union", "Sputnik_1", "Sputnik_2"], ["Perfect_number", "Leonhard_Euler", "Soviet_Union", "Laika", "Sputnik_2"]]

@@ -1,0 +1,1 @@
+[["Sudoku", "Japan", "Metal", "Helium"], ["Sudoku", "Japan", "Natural_gas", "Helium"], ["Sudoku", "Leonhard_Euler", "Richard_Feynman", "Helium"]]

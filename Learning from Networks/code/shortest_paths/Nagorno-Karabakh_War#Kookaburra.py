@@ -1,0 +1,1 @@
+[["Nagorno-Karabakh_War", "Dam", "Australia", "Kookaburra"], ["Nagorno-Karabakh_War", "Iran", "Australia", "Kookaburra"], ["Nagorno-Karabakh_War", "Israel", "Australia", "Kookaburra"], ["Nagorno-Karabakh_War", "NATO", "Australia", "Kookaburra"]]

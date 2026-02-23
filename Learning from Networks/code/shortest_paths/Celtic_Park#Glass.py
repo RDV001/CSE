@@ -1,0 +1,1 @@
+[["Celtic_Park", "Cardiff", "Sand", "Glass"], ["Celtic_Park", "Celtic_F.C.", "Republic_of_Ireland", "Glass"], ["Celtic_Park", "Scotland", "Republic_of_Ireland", "Glass"], ["Celtic_Park", "Glasgow", "Marseille", "Glass"], ["Celtic_Park", "London", "Bucharest", "Glass"]]

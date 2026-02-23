@@ -1,0 +1,1 @@
+[["Arthropod", "Barnacle", "Europe", "Napoleon_I_of_France"], ["Arthropod", "Copper", "Chile", "Napoleon_I_of_France"], ["Arthropod", "Spider", "Chile", "Napoleon_I_of_France"], ["Arthropod", "Copper", "Poland", "Napoleon_I_of_France"], ["Arthropod", "Insect", "Yellow_fever", "Napoleon_I_of_France"]]

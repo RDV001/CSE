@@ -1,0 +1,1 @@
+[["Algerian_Civil_War", "Democracy", "Society"], ["Algerian_Civil_War", "Petroleum", "Society"]]

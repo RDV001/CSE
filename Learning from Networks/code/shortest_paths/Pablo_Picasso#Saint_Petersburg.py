@@ -1,0 +1,1 @@
+[["Pablo_Picasso", "Art", "Saint_Petersburg"], ["Pablo_Picasso", "Paris", "Saint_Petersburg"]]

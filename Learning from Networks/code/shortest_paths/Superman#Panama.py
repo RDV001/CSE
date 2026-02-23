@@ -1,0 +1,1 @@
+[["Superman", "Hebrew_language", "Panama"], ["Superman", "United_States", "Panama"]]

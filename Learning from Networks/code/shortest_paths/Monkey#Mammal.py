@@ -1,0 +1,1 @@
+[["Monkey", "Ape", "Mammal"], ["Monkey", "Chimpanzee", "Mammal"], ["Monkey", "Human", "Mammal"], ["Monkey", "Seed", "Mammal"], ["Monkey", "Spider", "Mammal"]]

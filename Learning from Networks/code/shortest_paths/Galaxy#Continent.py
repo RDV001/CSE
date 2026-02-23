@@ -1,0 +1,1 @@
+[["Galaxy", "Biology", "Africa", "Continent"], ["Galaxy", "Biology", "Climate_change", "Continent"], ["Galaxy", "Greek_mythology", "Ancient_Greece", "Continent"], ["Galaxy", "Sun", "Ancient_Greece", "Continent"], ["Galaxy", "Zeus", "Ancient_Greece", "Continent"], ["Galaxy", "Hydrogen", "Boron", "Continent"], ["Galaxy", "Sun", "South_America", "Continent"]]

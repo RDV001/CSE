@@ -1,0 +1,1 @@
+[["Creative_Commons", "Information", "Organism", "Carbon"], ["Creative_Commons", "United_States", "Coal", "Carbon"], ["Creative_Commons", "United_States", "Natural_gas", "Carbon"], ["Creative_Commons", "United_States", "Petroleum", "Carbon"], ["Creative_Commons", "United_States", "Steel", "Carbon"], ["Creative_Commons", "United_States", "Volcano", "Carbon"]]

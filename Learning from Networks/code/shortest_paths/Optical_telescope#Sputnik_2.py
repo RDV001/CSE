@@ -1,0 +1,1 @@
+[["Optical_telescope", "Light", "Energy", "Space_exploration", "Sputnik_2"], ["Optical_telescope", "Photon", "Energy", "Space_exploration", "Sputnik_2"], ["Optical_telescope", "Telescope", "Japan", "Space_exploration", "Sputnik_2"]]

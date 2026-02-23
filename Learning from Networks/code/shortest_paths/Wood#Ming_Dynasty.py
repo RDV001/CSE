@@ -1,0 +1,1 @@
+[["Wood", "Sculpture", "Ming_Dynasty"]]

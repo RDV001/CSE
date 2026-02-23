@@ -1,0 +1,1 @@
+[["Euro", "Austria", "Danube"], ["Euro", "Bulgaria", "Danube"], ["Euro", "Germany", "Danube"], ["Euro", "Hungary", "Danube"], ["Euro", "Romania", "Danube"], ["Euro", "Slovakia", "Danube"]]

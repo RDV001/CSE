@@ -1,0 +1,1 @@
+[["Sandy_Koufax", "Los_Angeles%2C_California", "Pacific_Ocean", "Cape_Horn"], ["Sandy_Koufax", "Puerto_Rico", "Pacific_Ocean", "Cape_Horn"], ["Sandy_Koufax", "United_States", "Pacific_Ocean", "Cape_Horn"], ["Sandy_Koufax", "United_States_dollar", "Panama_Canal", "Cape_Horn"]]

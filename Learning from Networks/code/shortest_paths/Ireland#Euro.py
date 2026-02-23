@@ -1,0 +1,1 @@
+[["Ireland", "20th_century", "Euro"], ["Ireland", "Czech_Republic", "Euro"], ["Ireland", "European_Union", "Euro"], ["Ireland", "Latvia", "Euro"], ["Ireland", "Lithuania", "Euro"], ["Ireland", "Poland", "Euro"], ["Ireland", "Republic_of_Ireland", "Euro"], ["Ireland", "United_Kingdom", "Euro"]]

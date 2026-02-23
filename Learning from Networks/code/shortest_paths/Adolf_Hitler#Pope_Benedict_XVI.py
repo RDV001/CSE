@@ -1,0 +1,1 @@
+[["Adolf_Hitler", "Munich", "Pope_Benedict_XVI"], ["Adolf_Hitler", "Roman_Catholic_Church", "Pope_Benedict_XVI"]]

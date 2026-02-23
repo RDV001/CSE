@@ -1,0 +1,1 @@
+[["Mexico_City", "Olympic_Games", "Poetry", "Allegory_in_the_Middle_Ages"]]

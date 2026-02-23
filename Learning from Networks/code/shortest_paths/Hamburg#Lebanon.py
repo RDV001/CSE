@@ -1,0 +1,1 @@
+[["Hamburg", "Arabic_language", "Lebanon"], ["Hamburg", "Germany", "Lebanon"], ["Hamburg", "List_of_countries", "Lebanon"], ["Hamburg", "Nicaragua", "Lebanon"], ["Hamburg", "South_America", "Lebanon"], ["Hamburg", "World_War_II", "Lebanon"]]

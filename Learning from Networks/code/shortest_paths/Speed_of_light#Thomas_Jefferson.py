@@ -1,0 +1,1 @@
+[["Speed_of_light", "United_States", "Thomas_Jefferson"]]

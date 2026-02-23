@@ -1,0 +1,1 @@
+[["Scattered_disc", "90377_Sedna", "United_States", "Finance"], ["Scattered_disc", "Sun", "United_States", "Finance"], ["Scattered_disc", "Sun", "England", "Finance"]]

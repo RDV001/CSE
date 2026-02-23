@@ -1,0 +1,1 @@
+[["Cambodia", "Paris", "Ernest_Hemingway"]]

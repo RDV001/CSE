@@ -1,0 +1,1 @@
+[["Pikachu", "New_York_City", "Alexander_Hamilton"]]

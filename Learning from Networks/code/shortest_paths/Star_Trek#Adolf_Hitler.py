@@ -1,0 +1,1 @@
+[["Star_Trek", "War", "Adolf_Hitler"]]

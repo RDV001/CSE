@@ -1,0 +1,1 @@
+[["Trigonometric_function", "British_English", "British_Empire", "Akrotiri_and_Dhekelia"], ["Trigonometric_function", "Muhammad_ibn_Musa_al-Khwarizmi", "Mediterranean_Sea", "Akrotiri_and_Dhekelia"]]

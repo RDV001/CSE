@@ -1,0 +1,1 @@
+[["Cloud", "Ammonia", "India", "Kargil_War"], ["Cloud", "Indian_Ocean", "India", "Kargil_War"], ["Cloud", "Rain", "India", "Kargil_War"], ["Cloud", "Tornado", "India", "Kargil_War"], ["Cloud", "Wind", "India", "Kargil_War"], ["Cloud", "Indian_Ocean", "Pakistan", "Kargil_War"]]

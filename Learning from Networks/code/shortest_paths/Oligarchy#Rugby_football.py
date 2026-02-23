@@ -1,0 +1,1 @@
+[["Oligarchy", "England", "Rugby_football"]]

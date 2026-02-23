@@ -1,0 +1,1 @@
+[["Santa_Claus", "Iran", "Astronomy", "Fermi_paradox"]]

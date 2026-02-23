@@ -1,0 +1,1 @@
+[["Gauss%27s_law", "Electric_field", "Photon"], ["Gauss%27s_law", "Electromagnetic_radiation", "Photon"]]

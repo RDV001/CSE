@@ -1,0 +1,1 @@
+[["The_Pilgrim%27s_Progress", "English_language", "HTTP_cookie", "Internet_Explorer", "Phishing"], ["The_Pilgrim%27s_Progress", "English_language", "HTTP_cookie", "Mozilla_Firefox", "Phishing"]]

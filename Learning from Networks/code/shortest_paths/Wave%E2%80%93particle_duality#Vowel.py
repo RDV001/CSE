@@ -1,0 +1,1 @@
+[["Wave%E2%80%93particle_duality", "19th_century", "Korea", "Vowel"], ["Wave%E2%80%93particle_duality", "Isaac_Newton", "Bible", "Vowel"], ["Wave%E2%80%93particle_duality", "James_Clerk_Maxwell", "Bible", "Vowel"], ["Wave%E2%80%93particle_duality", "Property", "Bible", "Vowel"]]

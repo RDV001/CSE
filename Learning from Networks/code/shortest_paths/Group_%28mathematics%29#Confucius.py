@@ -1,0 +1,1 @@
+[["Group_%28mathematics%29", "Quantum_mechanics", "Philosophy", "Confucius"], ["Group_%28mathematics%29", "Symmetry", "Aesthetics", "Confucius"], ["Group_%28mathematics%29", "Symmetry", "Taoism", "Confucius"]]

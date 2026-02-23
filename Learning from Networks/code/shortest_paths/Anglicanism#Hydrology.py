@@ -1,0 +1,1 @@
+[["Anglicanism", "Poverty", "Environmental_science", "Hydrology"], ["Anglicanism", "Poverty", "Geography", "Hydrology"], ["Anglicanism", "Roman_Catholic_Church", "Meteorology", "Hydrology"]]

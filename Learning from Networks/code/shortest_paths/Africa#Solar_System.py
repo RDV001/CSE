@@ -1,0 +1,1 @@
+[["Africa", "Earth", "Solar_System"], ["Africa", "Ptolemy", "Solar_System"]]

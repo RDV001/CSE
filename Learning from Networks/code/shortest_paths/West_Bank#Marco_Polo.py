@@ -1,0 +1,1 @@
+[["West_Bank", "Ottoman_Empire", "Marco_Polo"]]

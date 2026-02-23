@@ -1,0 +1,1 @@
+[["Jakarta", "France", "Antarctica", "Symmetry"], ["Jakarta", "United_States", "Antarctica", "Symmetry"], ["Jakarta", "Religion", "Geometry", "Symmetry"]]

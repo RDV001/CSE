@@ -1,0 +1,1 @@
+[["Lebanon", "Human_rights", "Magna_Carta", "History_of_democracy"], ["Lebanon", "Law", "Magna_Carta", "History_of_democracy"]]

@@ -1,0 +1,1 @@
+[["Spherical_aberration", "Telescope", "France", "Western_Roman_Empire"]]

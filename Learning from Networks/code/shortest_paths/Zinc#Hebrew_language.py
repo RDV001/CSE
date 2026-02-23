@@ -1,0 +1,1 @@
+[["Zinc", "Europe", "Hebrew_language"], ["Zinc", "German_language", "Hebrew_language"]]

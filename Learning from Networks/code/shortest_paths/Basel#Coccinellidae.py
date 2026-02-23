@@ -1,0 +1,1 @@
+[["Basel", "3rd_century", "Maize", "Aphid", "Coccinellidae"], ["Basel", "Austria", "Australia", "Emu", "Coccinellidae"], ["Basel", "English_language", "Australia", "Emu", "Coccinellidae"], ["Basel", "France", "Australia", "Emu", "Coccinellidae"], ["Basel", "German_language", "Australia", "Emu", "Coccinellidae"]]

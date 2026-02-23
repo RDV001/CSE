@@ -1,0 +1,1 @@
+[["Creation-evolution_controversy", "Dinosaur", "Penguin", "Krill"], ["Creation-evolution_controversy", "Paleontology", "Penguin", "Krill"], ["Creation-evolution_controversy", "Japan", "Fishing", "Krill"], ["Creation-evolution_controversy", "Nature", "Fishing", "Krill"], ["Creation-evolution_controversy", "Rio_de_Janeiro", "Fishing", "Krill"]]

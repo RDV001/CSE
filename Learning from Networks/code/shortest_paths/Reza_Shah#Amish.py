@@ -1,0 +1,1 @@
+[["Reza_Shah", "Berlin", "German_language", "Amish"], ["Reza_Shah", "Nazi_Germany", "German_language", "Amish"], ["Reza_Shah", "Petroleum", "German_language", "Amish"], ["Reza_Shah", "South_Africa", "German_language", "Amish"]]

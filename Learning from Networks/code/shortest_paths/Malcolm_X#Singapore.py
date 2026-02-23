@@ -1,0 +1,1 @@
+[["Malcolm_X", "Chicago", "Singapore"], ["Malcolm_X", "Saudi_Arabia", "Singapore"], ["Malcolm_X", "United_States", "Singapore"], ["Malcolm_X", "World_War_II", "Singapore"]]

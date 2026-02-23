@@ -1,0 +1,1 @@
+[["Oxford", "England", "Spanish_language"], ["Oxford", "English_language", "Spanish_language"], ["Oxford", "France", "Spanish_language"], ["Oxford", "German_language", "Spanish_language"], ["Oxford", "Germany", "Spanish_language"], ["Oxford", "Latin", "Spanish_language"], ["Oxford", "Nicaragua", "Spanish_language"]]

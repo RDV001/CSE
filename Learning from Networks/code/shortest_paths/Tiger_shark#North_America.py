@@ -1,0 +1,1 @@
+[["Tiger_shark", "Japan", "North_America"], ["Tiger_shark", "Pacific_Ocean", "North_America"], ["Tiger_shark", "Petroleum", "North_America"], ["Tiger_shark", "Shark", "North_America"], ["Tiger_shark", "Temperate", "North_America"]]

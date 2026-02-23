@@ -1,0 +1,1 @@
+[["Tiananmen_Square_protests_of_1989", "Guangzhou", "New_Zealand"], ["Tiananmen_Square_protests_of_1989", "People%27s_Republic_of_China", "New_Zealand"], ["Tiananmen_Square_protests_of_1989", "Shanghai", "New_Zealand"]]

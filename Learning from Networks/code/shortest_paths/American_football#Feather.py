@@ -1,0 +1,1 @@
+[["American_football", "Australia", "Emu", "Feather"], ["American_football", "Australia", "Papua_New_Guinea", "Feather"], ["American_football", "Korea", "Protein", "Feather"], ["American_football", "New_Zealand", "Kakapo", "Feather"]]

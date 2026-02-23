@@ -1,0 +1,1 @@
+[["Mustard_plant", "Middle_East", "World_War_II", "Supermarine_Spitfire"], ["Mustard_plant", "North_Africa", "World_War_II", "Supermarine_Spitfire"], ["Mustard_plant", "United_Kingdom", "World_War_II", "Supermarine_Spitfire"], ["Mustard_plant", "United_States", "World_War_II", "Supermarine_Spitfire"], ["Mustard_plant", "United_Kingdom", "BAE_Systems", "Supermarine_Spitfire"]]

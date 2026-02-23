@@ -1,0 +1,1 @@
+[["Capacitance", "Electromagnetic_radiation", "Human", "United_States_dollar"], ["Capacitance", "Energy", "Tropical_cyclone", "United_States_dollar"], ["Capacitance", "James_Clerk_Maxwell", "BBC", "United_States_dollar"]]

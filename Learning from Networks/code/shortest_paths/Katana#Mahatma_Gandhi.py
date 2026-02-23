@@ -1,0 +1,1 @@
+[["Katana", "English_language", "British_Empire", "Mahatma_Gandhi"], ["Katana", "World_War_II", "British_Empire", "Mahatma_Gandhi"], ["Katana", "English_language", "India", "Mahatma_Gandhi"], ["Katana", "World_War_II", "India", "Mahatma_Gandhi"], ["Katana", "English_language", "South_Africa", "Mahatma_Gandhi"], ["Katana", "World_War_II", "Winston_Churchill", "Mahatma_Gandhi"]]

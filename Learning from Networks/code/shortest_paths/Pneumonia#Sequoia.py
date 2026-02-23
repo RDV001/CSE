@@ -1,0 +1,1 @@
+[["Pneumonia", "United_States", "Sequoia"]]

@@ -1,0 +1,1 @@
+[["John_Calvin", "Philosophy", "Gottfried_Leibniz", "George_I_of_Great_Britain"]]

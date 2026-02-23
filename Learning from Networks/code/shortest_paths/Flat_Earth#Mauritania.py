@@ -1,0 +1,1 @@
+[["Flat_Earth", "Africa", "Mauritania"], ["Flat_Earth", "Egypt", "Mauritania"]]

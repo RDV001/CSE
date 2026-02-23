@@ -1,0 +1,1 @@
+[["Edgar_Allan_Poe", "England", "Lion", "Zebra"], ["Edgar_Allan_Poe", "Scotland", "Lion", "Zebra"], ["Edgar_Allan_Poe", "Rabies", "Horse", "Zebra"], ["Edgar_Allan_Poe", "Tobacco", "Horse", "Zebra"], ["Edgar_Allan_Poe", "Tuberculosis", "Mammal", "Zebra"]]

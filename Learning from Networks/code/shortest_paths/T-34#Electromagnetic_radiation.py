@@ -1,0 +1,1 @@
+[["T-34", "Radio", "Electromagnetic_radiation"]]

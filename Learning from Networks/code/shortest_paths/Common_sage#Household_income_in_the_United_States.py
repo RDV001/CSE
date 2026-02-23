@@ -1,0 +1,1 @@
+[["Common_sage", "Cheese", "United_States", "Household_income_in_the_United_States"], ["Common_sage", "Middle_East", "United_States", "Household_income_in_the_United_States"], ["Common_sage", "Onion", "United_States", "Household_income_in_the_United_States"], ["Common_sage", "Soup", "United_States", "Household_income_in_the_United_States"]]

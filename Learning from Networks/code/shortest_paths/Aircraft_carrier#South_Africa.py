@@ -1,0 +1,1 @@
+[["Aircraft_carrier", "Nuclear_weapon", "South_Africa"], ["Aircraft_carrier", "World_War_I", "South_Africa"]]

@@ -1,0 +1,1 @@
+[["Pope_Benedict_XVI", "Latin_America", "El_Salvador"], ["Pope_Benedict_XVI", "Pope_John_Paul_II", "El_Salvador"], ["Pope_Benedict_XVI", "Spanish_language", "El_Salvador"]]

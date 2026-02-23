@@ -1,0 +1,1 @@
+[["Economy_of_the_Republic_of_Ireland", "English_language", "Guernsey", "Isaac_Brock"], ["Economy_of_the_Republic_of_Ireland", "Europe", "Guernsey", "Isaac_Brock"], ["Economy_of_the_Republic_of_Ireland", "United_Kingdom", "Guernsey", "Isaac_Brock"], ["Economy_of_the_Republic_of_Ireland", "United_States", "Guernsey", "Isaac_Brock"]]

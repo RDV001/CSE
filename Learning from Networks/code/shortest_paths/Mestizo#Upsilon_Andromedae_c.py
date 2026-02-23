@@ -1,0 +1,1 @@
+[["Mestizo", "16th_century", "Heliocentrism", "Extrasolar_planet", "Upsilon_Andromedae", "Upsilon_Andromedae_c"]]

@@ -1,0 +1,1 @@
+[["Moon_landing", "John_F._Kennedy", "Ireland", "Golden_Eagle"], ["Moon_landing", "Moon", "Ireland", "Golden_Eagle"], ["Moon_landing", "United_States", "Bald_Eagle", "Golden_Eagle"]]

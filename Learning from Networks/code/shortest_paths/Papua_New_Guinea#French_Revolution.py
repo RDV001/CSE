@@ -1,0 +1,1 @@
+[["Papua_New_Guinea", "Constitutional_monarchy", "French_Revolution"], ["Papua_New_Guinea", "Dance", "French_Revolution"], ["Papua_New_Guinea", "Europe", "French_Revolution"]]

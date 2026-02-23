@@ -1,0 +1,1 @@
+[["Constitutional_monarchy", "Australia", "Christmas_Island", "Sonic_the_Hedgehog_%28character%29"], ["Constitutional_monarchy", "Japan", "Mario", "Sonic_the_Hedgehog_%28character%29"]]

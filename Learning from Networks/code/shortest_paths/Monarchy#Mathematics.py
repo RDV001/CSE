@@ -1,0 +1,1 @@
+[["Monarchy", "Belgium", "Mathematics"], ["Monarchy", "Education", "Mathematics"], ["Monarchy", "Malaysia", "Mathematics"], ["Monarchy", "Napoleon_I_of_France", "Mathematics"], ["Monarchy", "Republic_of_China", "Mathematics"], ["Monarchy", "Scotland", "Mathematics"]]

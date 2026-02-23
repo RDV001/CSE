@@ -1,0 +1,1 @@
+[["Pneumonia", "Brain", "Prion", "Cat"], ["Pneumonia", "Virus", "Prion", "Cat"], ["Pneumonia", "Brain", "Sleep", "Cat"], ["Pneumonia", "Tobacco_smoking", "Tom_and_Jerry_%28MGM%29", "Cat"], ["Pneumonia", "United_States", "Baker_Island", "Cat"], ["Pneumonia", "United_States", "Howland_Island", "Cat"], ["Pneumonia", "Virus", "Rabies", "Cat"]]

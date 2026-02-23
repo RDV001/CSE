@@ -1,0 +1,1 @@
+[["Tourette_syndrome", "Psychology", "Noam_Chomsky"]]

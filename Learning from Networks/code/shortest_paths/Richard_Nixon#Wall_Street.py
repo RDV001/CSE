@@ -1,0 +1,1 @@
+[["Richard_Nixon", "Bretton_Woods_system", "Wall_Street"], ["Richard_Nixon", "Franklin_D._Roosevelt", "Wall_Street"], ["Richard_Nixon", "George_W._Bush", "Wall_Street"], ["Richard_Nixon", "New_York_City", "Wall_Street"]]

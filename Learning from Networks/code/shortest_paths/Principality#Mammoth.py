@@ -1,0 +1,1 @@
+[["Principality", "Africa", "Elephant", "Mammoth"], ["Principality", "Africa", "Flute", "Mammoth"], ["Principality", "France", "Rhine", "Mammoth"], ["Principality", "Germany", "Rhine", "Mammoth"], ["Principality", "Liechtenstein", "Rhine", "Mammoth"], ["Principality", "Roman_Empire", "Rhine", "Mammoth"], ["Principality", "World_War_II", "Rhine", "Mammoth"]]

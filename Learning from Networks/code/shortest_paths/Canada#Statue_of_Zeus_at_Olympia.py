@@ -1,0 +1,1 @@
+[["Canada", "Basketball", "Olympic_Games", "Statue_of_Zeus_at_Olympia"], ["Canada", "Ice_hockey", "Olympic_Games", "Statue_of_Zeus_at_Olympia"], ["Canada", "United_Kingdom", "Olympic_Games", "Statue_of_Zeus_at_Olympia"], ["Canada", "United_States", "Olympic_Games", "Statue_of_Zeus_at_Olympia"], ["Canada", "Volleyball", "Olympic_Games", "Statue_of_Zeus_at_Olympia"]]

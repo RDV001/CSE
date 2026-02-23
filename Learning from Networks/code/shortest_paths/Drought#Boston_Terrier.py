@@ -1,0 +1,1 @@
+[["Drought", "Australia", "East_Timor", "Gerald_Ford", "Boston_Terrier"], ["Drought", "Yemen", "East_Timor", "Gerald_Ford", "Boston_Terrier"], ["Drought", "Australia", "Elizabeth_II_of_the_United_Kingdom", "Gerald_Ford", "Boston_Terrier"]]

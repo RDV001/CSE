@@ -1,0 +1,1 @@
+[["Wind", "Antarctica", "United_Kingdom", "Kylie_Minogue"], ["Wind", "Brazil", "United_Kingdom", "Kylie_Minogue"], ["Wind", "Gibraltar", "United_Kingdom", "Kylie_Minogue"], ["Wind", "India", "United_Kingdom", "Kylie_Minogue"], ["Wind", "Tornado", "United_Kingdom", "Kylie_Minogue"]]

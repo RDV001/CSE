@@ -1,0 +1,1 @@
+[["Photography", "Aesthetics", "Guqin", "Ice"], ["Photography", "France", "Antarctica", "Ice"], ["Photography", "United_States", "Antarctica", "Ice"], ["Photography", "Light", "Heat", "Ice"], ["Photography", "United_States", "Greenland", "Ice"], ["Photography", "United_States", "Ice_hockey", "Ice"], ["Photography", "United_States", "Minneapolis%2C_Minnesota", "Ice"]]

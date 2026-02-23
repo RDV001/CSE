@@ -1,0 +1,1 @@
+[["Watchmen", "Antarctica", "Cosmic_microwave_background_radiation", "Redshift"], ["Watchmen", "Deity", "Universe", "Redshift"], ["Watchmen", "Mars", "Telescope", "Redshift"], ["Watchmen", "United_Kingdom", "Hydrogen", "Redshift"]]

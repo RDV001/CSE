@@ -1,0 +1,1 @@
+[["Sun_Tzu", "Joseph_Stalin", "Adolf_Hitler"]]

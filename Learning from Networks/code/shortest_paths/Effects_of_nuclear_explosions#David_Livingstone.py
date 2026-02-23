@@ -1,0 +1,1 @@
+[["Effects_of_nuclear_explosions", "Earthquake", "Africa", "David_Livingstone"], ["Effects_of_nuclear_explosions", "Tropical_cyclone", "Africa", "David_Livingstone"], ["Effects_of_nuclear_explosions", "Earthquake", "Zambia", "David_Livingstone"]]

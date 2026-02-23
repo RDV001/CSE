@@ -1,0 +1,1 @@
+[["Sumatra", "Ibn_Battuta", "Gibraltar", "Monkey"], ["Sumatra", "Indian_Ocean", "Madagascar", "Monkey"], ["Sumatra", "Palm_oil", "Rainforest", "Monkey"]]

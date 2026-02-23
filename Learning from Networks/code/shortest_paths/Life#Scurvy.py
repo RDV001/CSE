@@ -1,0 +1,1 @@
+[["Life", "Bacteria", "Vitamin", "Scurvy"], ["Life", "Earth", "Food", "Scurvy"], ["Life", "Energy", "Food", "Scurvy"], ["Life", "Organism", "Food", "Scurvy"]]

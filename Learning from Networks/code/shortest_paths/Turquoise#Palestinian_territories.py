@@ -1,0 +1,1 @@
+[["Turquoise", "Arabic_language", "Palestinian_territories"], ["Turquoise", "Israel", "Palestinian_territories"]]

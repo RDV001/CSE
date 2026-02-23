@@ -1,0 +1,1 @@
+[["Dune", "California", "Wine", "Fatty_acid", "Corn_oil"], ["Dune", "Desert", "Pea", "Fatty_acid", "Corn_oil"], ["Dune", "Dorset", "Cheese", "Fatty_acid", "Corn_oil"], ["Dune", "Nitrogen", "Bacteria", "Fatty_acid", "Corn_oil"], ["Dune", "Nitrogen", "Carbon", "Fatty_acid", "Corn_oil"], ["Dune", "Sand", "Peanut", "Fatty_acid", "Corn_oil"]]

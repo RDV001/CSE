@@ -1,0 +1,1 @@
+[["Hasekura_Tsunenaga", "Madrid", "New_York_City"], ["Hasekura_Tsunenaga", "Mexico_City", "New_York_City"], ["Hasekura_Tsunenaga", "Rome", "New_York_City"], ["Hasekura_Tsunenaga", "Swastika", "New_York_City"], ["Hasekura_Tsunenaga", "Tokyo", "New_York_City"]]

@@ -1,0 +1,1 @@
+[["Soils_retrogression_and_degradation", "Agriculture", "France", "Airbus"], ["Soils_retrogression_and_degradation", "Water", "France", "Airbus"], ["Soils_retrogression_and_degradation", "Phosphorus", "Hamburg", "Airbus"], ["Soils_retrogression_and_degradation", "Water", "United_Kingdom", "Airbus"]]

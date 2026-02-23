@@ -1,0 +1,1 @@
+[["Andrew_Carnegie", "Monarchy", "Syria"]]

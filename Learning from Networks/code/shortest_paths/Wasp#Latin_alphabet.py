@@ -1,0 +1,1 @@
+[["Wasp", "Animal", "Latin", "Latin_alphabet"], ["Wasp", "Insect", "Latin", "Latin_alphabet"], ["Wasp", "Scientific_classification", "Latin", "Latin_alphabet"]]

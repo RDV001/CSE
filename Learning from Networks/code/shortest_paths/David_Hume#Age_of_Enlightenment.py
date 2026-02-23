@@ -1,0 +1,1 @@
+[["David_Hume", "Atheism", "Age_of_Enlightenment"], ["David_Hume", "Edinburgh", "Age_of_Enlightenment"], ["David_Hume", "Immanuel_Kant", "Age_of_Enlightenment"], ["David_Hume", "Isaac_Newton", "Age_of_Enlightenment"], ["David_Hume", "Political_philosophy", "Age_of_Enlightenment"]]

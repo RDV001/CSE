@@ -1,0 +1,1 @@
+[["Hebrew_language", "Panama", "Hinduism"], ["Hebrew_language", "United_States", "Hinduism"]]

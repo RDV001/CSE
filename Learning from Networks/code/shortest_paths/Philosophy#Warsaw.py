@@ -1,0 +1,1 @@
+[["Philosophy", "World_War_II", "Warsaw"]]

@@ -1,0 +1,1 @@
+[["Banjul", "Mosque", "September_11%2C_2001_attacks", "Ziad_Jarrah"]]

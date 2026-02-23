@@ -1,0 +1,1 @@
+[["Ammolite", "Rocky_Mountains", "Yellowstone_National_Park", "Craters_of_the_Moon_National_Monument_and_Preserve"], ["Ammolite", "United_States", "Yellowstone_National_Park", "Craters_of_the_Moon_National_Monument_and_Preserve"], ["Ammolite", "United_States", "List_of_areas_in_the_National_Park_System_of_the_United_States", "Craters_of_the_Moon_National_Monument_and_Preserve"]]

@@ -1,0 +1,1 @@
+[["Wellington", "Arthur_Wellesley%2C_1st_Duke_of_Wellington", "Trafalgar_Square", "George_IV_of_the_United_Kingdom"], ["Wellington", "Arthur_Wellesley%2C_1st_Duke_of_Wellington", "Victoria_of_the_United_Kingdom", "George_IV_of_the_United_Kingdom"], ["Wellington", "Europe", "Industrial_Revolution", "George_IV_of_the_United_Kingdom"]]

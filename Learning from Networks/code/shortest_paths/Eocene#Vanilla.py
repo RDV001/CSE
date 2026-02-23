@@ -1,0 +1,1 @@
+[["Eocene", "Africa", "Cocoa", "Vanilla"], ["Eocene", "Africa", "Comoros", "Vanilla"], ["Eocene", "Africa", "Madagascar", "Vanilla"], ["Eocene", "Continent", "Madagascar", "Vanilla"], ["Eocene", "Africa", "Victoria%2C_Seychelles", "Vanilla"], ["Eocene", "Bat", "Fruit", "Vanilla"]]

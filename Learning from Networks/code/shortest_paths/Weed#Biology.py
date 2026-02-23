@@ -1,0 +1,1 @@
+[["Weed", "Greenhouse_effect", "Hydrogen", "Biology"], ["Weed", "Greenhouse_effect", "Nitrogen", "Biology"], ["Weed", "Sumac", "Carolus_Linnaeus", "Biology"]]

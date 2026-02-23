@@ -1,0 +1,1 @@
+[["Force", "Bicycle", "India", "Ganges_River"], ["Force", "Gravitation", "India", "Ganges_River"], ["Force", "Physics", "India", "Ganges_River"], ["Force", "Galileo_Galilei", "Milky_Way", "Ganges_River"]]

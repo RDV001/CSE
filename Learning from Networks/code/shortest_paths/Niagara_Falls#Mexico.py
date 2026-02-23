@@ -1,0 +1,1 @@
+[["Niagara_Falls", "American_Civil_War", "Mexico"], ["Niagara_Falls", "Gulf_of_Mexico", "Mexico"], ["Niagara_Falls", "North_America", "Mexico"], ["Niagara_Falls", "United_States", "Mexico"], ["Niagara_Falls", "World_War_I", "Mexico"]]

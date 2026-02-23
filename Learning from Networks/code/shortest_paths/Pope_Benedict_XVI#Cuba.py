@@ -1,0 +1,1 @@
+[["Pope_Benedict_XVI", "Latin_America", "Cuba"], ["Pope_Benedict_XVI", "Marxism", "Cuba"], ["Pope_Benedict_XVI", "Pope_John_Paul_II", "Cuba"], ["Pope_Benedict_XVI", "Spanish_language", "Cuba"]]

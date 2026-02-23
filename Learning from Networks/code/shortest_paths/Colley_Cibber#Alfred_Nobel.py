@@ -1,0 +1,1 @@
+[["Colley_Cibber", "Denmark", "Sweden", "Alfred_Nobel"], ["Colley_Cibber", "England", "19th_century", "Alfred_Nobel"], ["Colley_Cibber", "Opera", "19th_century", "Alfred_Nobel"]]

@@ -1,0 +1,1 @@
+[["Volcanic_pipe", "Australia", "Commonwealth_Games", "Auckland"], ["Volcanic_pipe", "Australia", "Flag_of_Australia", "Auckland"], ["Volcanic_pipe", "Australia", "New_Zealand", "Auckland"], ["Volcanic_pipe", "Volcano", "New_Zealand", "Auckland"], ["Volcanic_pipe", "Australia", "Pacific_Ocean", "Auckland"]]

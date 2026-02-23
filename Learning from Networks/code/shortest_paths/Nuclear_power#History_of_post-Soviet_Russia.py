@@ -1,0 +1,1 @@
+[["Nuclear_power", "Soviet_Union", "Russian_Revolution_of_1917", "History_of_post-Soviet_Russia"], ["Nuclear_power", "Ukraine", "Russian_Revolution_of_1917", "History_of_post-Soviet_Russia"], ["Nuclear_power", "Ukraine", "Khazars", "History_of_post-Soviet_Russia"]]

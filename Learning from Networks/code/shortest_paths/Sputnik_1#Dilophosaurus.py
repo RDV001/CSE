@@ -1,0 +1,1 @@
+[["Sputnik_1", "Earth", "Dinosaur", "Oviraptor", "Dilophosaurus"], ["Sputnik_1", "Earth", "Dinosaur", "Theropoda", "Dilophosaurus"]]

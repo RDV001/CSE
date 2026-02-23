@@ -1,0 +1,1 @@
+[["Windows_XP", "Asia", "Africa", "Yamoussoukro"], ["Windows_XP", "South_America", "Africa", "Yamoussoukro"], ["Windows_XP", "Asia", "Capital", "Yamoussoukro"], ["Windows_XP", "South_America", "Capital", "Yamoussoukro"]]

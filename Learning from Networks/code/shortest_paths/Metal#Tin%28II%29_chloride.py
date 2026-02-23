@@ -1,0 +1,1 @@
+[["Metal", "Copper", "Tin", "Tin%28II%29_chloride"], ["Metal", "Fluorine", "Tin", "Tin%28II%29_chloride"], ["Metal", "Iron", "Tin", "Tin%28II%29_chloride"], ["Metal", "Lead", "Tin", "Tin%28II%29_chloride"], ["Metal", "Periodic_table", "Tin", "Tin%28II%29_chloride"], ["Metal", "Steel", "Tin", "Tin%28II%29_chloride"], ["Metal", "Zinc", "Tin", "Tin%28II%29_chloride"]]

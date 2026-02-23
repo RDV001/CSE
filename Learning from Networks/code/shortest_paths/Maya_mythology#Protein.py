@@ -1,0 +1,1 @@
+[["Maya_mythology", "Maize", "Protein"], ["Maya_mythology", "Turtle", "Protein"]]

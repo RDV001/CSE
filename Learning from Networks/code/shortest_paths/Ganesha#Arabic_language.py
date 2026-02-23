@@ -1,0 +1,1 @@
+[["Ganesha", "France", "Arabic_language"], ["Ganesha", "Sanskrit", "Arabic_language"]]

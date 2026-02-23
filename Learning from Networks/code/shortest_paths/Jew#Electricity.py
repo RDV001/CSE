@@ -1,0 +1,1 @@
+[["Jew", "Ancient_Egypt", "Electricity"], ["Jew", "Berlin", "Electricity"], ["Jew", "Mexico", "Electricity"], ["Jew", "Sweden", "Electricity"]]

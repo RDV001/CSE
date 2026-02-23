@@ -1,0 +1,1 @@
+[["Scramble_for_Africa", "20th_century", "Jazz"], ["Scramble_for_Africa", "Latin_America", "Jazz"], ["Scramble_for_Africa", "Southern_United_States", "Jazz"], ["Scramble_for_Africa", "United_States", "Jazz"]]

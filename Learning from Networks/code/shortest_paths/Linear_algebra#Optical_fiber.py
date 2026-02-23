@@ -1,0 +1,1 @@
+[["Linear_algebra", "1_Ceres", "Ultraviolet", "Optical_fiber"], ["Linear_algebra", "France", "Internet", "Optical_fiber"], ["Linear_algebra", "Germany", "Internet", "Optical_fiber"], ["Linear_algebra", "United_States", "Internet", "Optical_fiber"], ["Linear_algebra", "Japan", "Telecommunication", "Optical_fiber"]]

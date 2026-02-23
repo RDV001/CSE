@@ -1,0 +1,1 @@
+[["Sea_of_Galilee", "Banana", "Nintendo", "Sony"], ["Sea_of_Galilee", "Earthquake", "Japan", "Sony"], ["Sea_of_Galilee", "France", "Japan", "Sony"], ["Sea_of_Galilee", "Israel", "Japan", "Sony"], ["Sea_of_Galilee", "Volcano", "Japan", "Sony"], ["Sea_of_Galilee", "United_Kingdom", "The_Beatles", "Sony"]]

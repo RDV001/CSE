@@ -1,0 +1,1 @@
+[["Irrigation", "20th_century", "Africa", "Maputo"], ["Irrigation", "China", "Africa", "Maputo"], ["Irrigation", "Egypt", "Africa", "Maputo"], ["Irrigation", "India", "Africa", "Maputo"], ["Irrigation", "Nile", "Africa", "Maputo"], ["Irrigation", "Rain", "Africa", "Maputo"], ["Irrigation", "Sahara", "Africa", "Maputo"], ["Irrigation", "Tank", "Winston_Churchill", "Maputo"]]

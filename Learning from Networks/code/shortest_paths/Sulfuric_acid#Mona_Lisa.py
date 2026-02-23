@@ -1,0 +1,1 @@
+[["Sulfuric_acid", "Alchemy", "Art", "Mona_Lisa"], ["Sulfuric_acid", "Carbon", "Art", "Mona_Lisa"], ["Sulfuric_acid", "Automobile", "Paris", "Mona_Lisa"], ["Sulfuric_acid", "London", "Paris", "Mona_Lisa"], ["Sulfuric_acid", "Water", "Paris", "Mona_Lisa"], ["Sulfuric_acid", "Steel", "16th_century", "Mona_Lisa"]]

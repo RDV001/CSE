@@ -1,0 +1,1 @@
+[["Russia", "United_States", "Philadelphia"]]

@@ -1,0 +1,1 @@
+[["Fire", "Energy", "Computer"], ["Fire", "Industry", "Computer"], ["Fire", "United_States", "Computer"], ["Fire", "Weapon", "Computer"]]

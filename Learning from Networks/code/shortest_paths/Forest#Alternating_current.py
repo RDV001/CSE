@@ -1,0 +1,1 @@
+[["Forest", "Acid_rain", "Ozone", "Alternating_current"]]

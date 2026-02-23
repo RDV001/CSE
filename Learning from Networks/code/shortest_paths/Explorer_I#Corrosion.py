@@ -1,0 +1,1 @@
+[["Explorer_I", "Earth", "Aluminium", "Corrosion"], ["Explorer_I", "Project_Vanguard", "Mercury_%28element%29", "Corrosion"], ["Explorer_I", "South_America", "Tin", "Corrosion"], ["Explorer_I", "United_States", "Steel", "Corrosion"]]

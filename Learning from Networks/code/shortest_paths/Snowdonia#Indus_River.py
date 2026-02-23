@@ -1,0 +1,1 @@
+[["Snowdonia", "Agriculture", "History_of_the_world", "Indus_River"], ["Snowdonia", "Agriculture", "River", "Indus_River"], ["Snowdonia", "Biosphere", "River", "Indus_River"], ["Snowdonia", "English_language", "India", "Indus_River"], ["Snowdonia", "English_language", "Pakistan", "Indus_River"]]

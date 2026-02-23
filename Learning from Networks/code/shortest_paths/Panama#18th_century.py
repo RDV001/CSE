@@ -1,0 +1,1 @@
+[["Panama", "Currency", "18th_century"], ["Panama", "Latin", "18th_century"], ["Panama", "Pacific_Ocean", "18th_century"], ["Panama", "Spain", "18th_century"], ["Panama", "Spanish_language", "18th_century"]]

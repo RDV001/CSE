@@ -1,0 +1,1 @@
+[["Wave", "Earthquake", "Netherlands", "Amsterdam"]]

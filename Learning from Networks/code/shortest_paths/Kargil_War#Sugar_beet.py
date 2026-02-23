@@ -1,0 +1,1 @@
+[["Kargil_War", "Bill_Clinton", "Cuba", "Sugar_beet"], ["Kargil_War", "September_11%2C_2001_attacks", "Cuba", "Sugar_beet"], ["Kargil_War", "United_States", "Cuba", "Sugar_beet"], ["Kargil_War", "Economy_of_Pakistan", "Sugarcane", "Sugar_beet"], ["Kargil_War", "Islam", "Sugar", "Sugar_beet"], ["Kargil_War", "United_States", "British_Virgin_Islands", "Sugar_beet"]]

@@ -1,0 +1,1 @@
+[["X_Window_System", "Latin_alphabet", "Turkey", "Olive_oil", "Mentha"]]

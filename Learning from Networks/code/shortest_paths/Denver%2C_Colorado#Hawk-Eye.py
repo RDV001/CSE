@@ -1,0 +1,1 @@
+[["Denver%2C_Colorado", "New_York_City", "U.S._Open_%28tennis%29", "Hawk-Eye"], ["Denver%2C_Colorado", "United_States", "Tennis", "Hawk-Eye"]]

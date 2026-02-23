@@ -1,0 +1,1 @@
+[["Battle_of_Normandy", "Board_game", "Iran", "Reza_Shah"], ["Battle_of_Normandy", "Europe", "Iran", "Reza_Shah"], ["Battle_of_Normandy", "Russia", "Iran", "Reza_Shah"], ["Battle_of_Normandy", "United_States", "Iran", "Reza_Shah"], ["Battle_of_Normandy", "Mediterranean_Sea", "Persian_Empire", "Reza_Shah"]]

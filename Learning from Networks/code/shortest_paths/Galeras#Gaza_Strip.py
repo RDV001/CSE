@@ -1,0 +1,1 @@
+[["Galeras", "United_Nations", "Asia", "Gaza_Strip"], ["Galeras", "United_Nations", "Egypt", "Gaza_Strip"], ["Galeras", "Volcano", "Mediterranean_Sea", "Gaza_Strip"]]

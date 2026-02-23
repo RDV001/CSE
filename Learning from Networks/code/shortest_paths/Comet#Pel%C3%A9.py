@@ -1,0 +1,1 @@
+[["Comet", "England", "FIFA", "Pel%C3%A9"], ["Comet", "England", "FIFA_World_Cup", "Pel%C3%A9"], ["Comet", "France", "Brazil", "Pel%C3%A9"], ["Comet", "Italy", "Brazil", "Pel%C3%A9"], ["Comet", "Water", "Brazil", "Pel%C3%A9"], ["Comet", "Wind", "Brazil", "Pel%C3%A9"]]

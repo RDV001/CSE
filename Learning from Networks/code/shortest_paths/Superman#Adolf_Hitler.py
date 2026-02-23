@@ -1,0 +1,1 @@
+[["Superman", "Germany", "Adolf_Hitler"], ["Superman", "Jew", "Adolf_Hitler"], ["Superman", "Nazism", "Adolf_Hitler"], ["Superman", "World_War_II", "Adolf_Hitler"]]

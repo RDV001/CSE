@@ -1,0 +1,1 @@
+[["Second_Boer_War", "Toronto", "Miami%2C_Florida", "Tropical_Storm_Leslie_%282000%29"], ["Second_Boer_War", "United_States", "Miami%2C_Florida", "Tropical_Storm_Leslie_%282000%29"]]

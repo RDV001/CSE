@@ -1,0 +1,1 @@
+[["Sodium", "English_language", "HTTP_cookie", "Mozilla_Firefox"]]

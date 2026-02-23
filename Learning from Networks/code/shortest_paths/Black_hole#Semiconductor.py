@@ -1,0 +1,1 @@
+[["Black_hole", "Photon", "Semiconductor"], ["Black_hole", "Ultraviolet", "Semiconductor"]]

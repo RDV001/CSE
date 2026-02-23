@@ -1,0 +1,1 @@
+[["Mammoth", "Kenya", "17th_century", "Philosophiae_Naturalis_Principia_Mathematica"], ["Mammoth", "South_Africa", "Religion", "Philosophiae_Naturalis_Principia_Mathematica"]]

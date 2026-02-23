@@ -1,0 +1,1 @@
+[["Marcel_Proust", "Fyodor_Dostoevsky", "Christianity", "Last_Supper"], ["Marcel_Proust", "Jew", "Christianity", "Last_Supper"], ["Marcel_Proust", "Leo_Tolstoy", "Christianity", "Last_Supper"], ["Marcel_Proust", "Plato", "Christianity", "Last_Supper"], ["Marcel_Proust", "Leo_Tolstoy", "Sermon_on_the_Mount", "Last_Supper"]]

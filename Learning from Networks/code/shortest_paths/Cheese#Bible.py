@@ -1,0 +1,1 @@
+[["Cheese", "Cattle", "Bible"], ["Cheese", "Domestic_goat", "Bible"], ["Cheese", "German_language", "Bible"], ["Cheese", "Judaism", "Bible"], ["Cheese", "Latin", "Bible"]]

@@ -1,0 +1,1 @@
+[["Gender", "Christianity", "Roman_Empire", "Elagabalus"], ["Gender", "French_language", "Roman_Empire", "Elagabalus"], ["Gender", "Latin", "Roman_Empire", "Elagabalus"], ["Gender", "Latin", "Ancient_Rome", "Elagabalus"]]

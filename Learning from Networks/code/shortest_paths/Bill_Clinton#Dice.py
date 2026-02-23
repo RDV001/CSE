@@ -1,0 +1,1 @@
+[["Bill_Clinton", "Bosnia_and_Herzegovina", "Byzantine_Empire", "Dice"], ["Bill_Clinton", "Kosovo", "Byzantine_Empire", "Dice"], ["Bill_Clinton", "People%27s_Republic_of_China", "Chess", "Dice"], ["Bill_Clinton", "Ronald_Reagan", "Coin", "Dice"]]

@@ -1,0 +1,1 @@
+[["Great_Red_Spot", "Earth", "Plant", "Flower"]]

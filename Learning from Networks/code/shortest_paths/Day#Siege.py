@@ -1,0 +1,1 @@
+[["Day", "19th_century", "Ottoman_Empire", "Siege"], ["Day", "Europe", "Ottoman_Empire", "Siege"], ["Day", "Middle_Ages", "Ottoman_Empire", "Siege"], ["Day", "Ancient_Egypt", "Alexander_the_Great", "Siege"], ["Day", "Europe", "Moscow", "Siege"], ["Day", "Time", "Sumer", "Siege"], ["Day", "United_States", "War", "Siege"]]

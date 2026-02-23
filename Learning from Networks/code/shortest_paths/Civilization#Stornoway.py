@@ -1,0 +1,1 @@
+[["Civilization", "Minoan_civilization", "Bird", "Gull", "Stornoway"]]

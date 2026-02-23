@@ -1,0 +1,1 @@
+[["Tribe", "Ethnic_group", "Genealogy", "Norse_mythology"], ["Tribe", "Nature", "Earth", "Norse_mythology"]]

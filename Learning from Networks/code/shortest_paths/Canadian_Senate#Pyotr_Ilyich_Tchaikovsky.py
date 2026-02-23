@@ -1,0 +1,1 @@
+[["Canadian_Senate", "French_language", "Mass_media", "Pyotr_Ilyich_Tchaikovsky"], ["Canadian_Senate", "Ottawa", "Cholera", "Pyotr_Ilyich_Tchaikovsky"], ["Canadian_Senate", "Parliament_of_the_United_Kingdom", "19th_century", "Pyotr_Ilyich_Tchaikovsky"], ["Canadian_Senate", "United_Kingdom", "Opera", "Pyotr_Ilyich_Tchaikovsky"]]

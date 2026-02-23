@@ -1,0 +1,1 @@
+[["Solar_eclipse", "Europe", "Judaism", "Josephus"], ["Solar_eclipse", "Spain", "Judaism", "Josephus"], ["Solar_eclipse", "Turkey", "Judaism", "Josephus"]]

@@ -1,0 +1,1 @@
+[["Tamarind", "Latin_America", "Peru", "Ollanta_Humala"], ["Tamarind", "Malaria", "Peru", "Ollanta_Humala"]]

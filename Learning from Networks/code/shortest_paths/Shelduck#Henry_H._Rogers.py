@@ -1,0 +1,1 @@
+[["Shelduck", "Asia", "Hinduism", "Mark_Twain", "Henry_H._Rogers"], ["Shelduck", "Europe", "Hinduism", "Mark_Twain", "Henry_H._Rogers"], ["Shelduck", "Swan", "Hinduism", "Mark_Twain", "Henry_H._Rogers"], ["Shelduck", "Bird", "19th_century", "Mark_Twain", "Henry_H._Rogers"], ["Shelduck", "China", "River", "Mark_Twain", "Henry_H._Rogers"]]

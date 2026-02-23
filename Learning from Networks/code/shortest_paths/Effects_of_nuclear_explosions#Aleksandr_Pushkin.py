@@ -1,0 +1,1 @@
+[["Effects_of_nuclear_explosions", "Tsar_Bomba", "Russian_language", "Aleksandr_Pushkin"]]

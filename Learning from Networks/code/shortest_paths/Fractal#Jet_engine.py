@@ -1,0 +1,1 @@
+[["Fractal", "Georg_Cantor", "United_Kingdom", "Jet_engine"], ["Fractal", "Medicine", "United_Kingdom", "Jet_engine"], ["Fractal", "Gottfried_Leibniz", "Force", "Jet_engine"], ["Fractal", "Gottfried_Leibniz", "Steam_engine", "Jet_engine"], ["Fractal", "Gottfried_Leibniz", "World_War_II", "Jet_engine"], ["Fractal", "Medicine", "England", "Jet_engine"]]

@@ -1,0 +1,1 @@
+[["F-35_Lightning_II", "Denmark", "Internet", "Linux"], ["F-35_Lightning_II", "United_States", "Internet", "Linux"], ["F-35_Lightning_II", "Netherlands", "21st_century", "Linux"], ["F-35_Lightning_II", "United_Kingdom", "Computer", "Linux"], ["F-35_Lightning_II", "United_States", "Computer", "Linux"], ["F-35_Lightning_II", "United_States", "Space_Shuttle_Columbia", "Linux"]]

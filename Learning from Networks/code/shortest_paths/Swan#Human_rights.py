@@ -1,0 +1,1 @@
+[["Swan", "New_Zealand", "Human_rights"], ["Swan", "Russia", "Human_rights"]]

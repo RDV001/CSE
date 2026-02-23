@@ -1,0 +1,1 @@
+[["Electric_charge", "Glass", "Carbon_dioxide"], ["Electric_charge", "Helium", "Carbon_dioxide"]]

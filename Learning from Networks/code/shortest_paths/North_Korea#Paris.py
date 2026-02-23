@@ -1,0 +1,1 @@
+[["North_Korea", "Cambodia", "Paris"], ["North_Korea", "Europe", "Paris"], ["North_Korea", "Pyongyang", "Paris"], ["North_Korea", "Russia", "Paris"], ["North_Korea", "World_War_II", "Paris"]]

@@ -1,0 +1,1 @@
+[["OpenOffice.org", "France", "Myanmar", "Nobel_Peace_Prize"], ["OpenOffice.org", "France", "United_Nations", "Nobel_Peace_Prize"], ["OpenOffice.org", "Richard_Stallman", "Martin_Luther_King%2C_Jr.", "Nobel_Peace_Prize"], ["OpenOffice.org", "Richard_Stallman", "Nelson_Mandela", "Nobel_Peace_Prize"]]

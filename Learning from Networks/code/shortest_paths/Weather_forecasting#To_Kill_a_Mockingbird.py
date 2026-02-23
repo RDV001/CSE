@@ -1,0 +1,1 @@
+[["Weather_forecasting", "Aristotle", "Economics", "University_of_Chicago", "Jake_Gyllenhaal", "To_Kill_a_Mockingbird"], ["Weather_forecasting", "Physics", "Nikola_Tesla", "Christian_Bale", "Jake_Gyllenhaal", "To_Kill_a_Mockingbird"]]

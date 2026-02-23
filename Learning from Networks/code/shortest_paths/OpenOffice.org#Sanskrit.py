@@ -1,0 +1,1 @@
+[["OpenOffice.org", "France", "Buddhism", "Sanskrit"], ["OpenOffice.org", "Richard_Stallman", "Indonesian_language", "Sanskrit"], ["OpenOffice.org", "Space_Invaders", "Extraterrestrial_life", "Sanskrit"]]

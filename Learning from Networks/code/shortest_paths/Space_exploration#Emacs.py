@@ -1,0 +1,1 @@
+[["Space_exploration", "Computer", "GNU", "Emacs"], ["Space_exploration", "Computer", "Linux", "Emacs"], ["Space_exploration", "Space_Shuttle_Columbia", "Linux", "Emacs"]]

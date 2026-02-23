@@ -1,0 +1,1 @@
+[["Anthropology", "Art", "Poetry", "Dr._Seuss"], ["Anthropology", "Human", "Poetry", "Dr._Seuss"], ["Anthropology", "Humanities", "Poetry", "Dr._Seuss"]]

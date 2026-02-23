@@ -1,0 +1,1 @@
+[["Ouagadougou", "15th_century", "18th_century", "Leonhard_Euler"], ["Ouagadougou", "Capital", "Saint_Petersburg", "Leonhard_Euler"]]

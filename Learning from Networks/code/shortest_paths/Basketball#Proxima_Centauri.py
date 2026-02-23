@@ -1,0 +1,1 @@
+[["Basketball", "Argentina", "Iron", "Star", "Proxima_Centauri"], ["Basketball", "Chile", "Iron", "Star", "Proxima_Centauri"], ["Basketball", "Japan", "Iron", "Star", "Proxima_Centauri"], ["Basketball", "Germany", "Gottfried_Leibniz", "Star", "Proxima_Centauri"], ["Basketball", "Switzerland", "Energy", "Star", "Proxima_Centauri"]]

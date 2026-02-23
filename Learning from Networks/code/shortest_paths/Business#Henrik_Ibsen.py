@@ -1,0 +1,1 @@
+[["Business", "England", "19th_century", "Henrik_Ibsen"], ["Business", "England", "Norway", "Henrik_Ibsen"], ["Business", "England", "Oslo", "Henrik_Ibsen"]]

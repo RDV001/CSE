@@ -1,0 +1,1 @@
+[["Advertising", "Asia", "Myanmar", "Parrot", "Amazon_parrot"], ["Advertising", "India", "Myanmar", "Parrot", "Amazon_parrot"], ["Advertising", "India", "Goa", "Parrot", "Amazon_parrot"], ["Advertising", "Television", "New_Zealand", "Parrot", "Amazon_parrot"], ["Advertising", "United_States", "Costa_Rica", "Parrot", "Amazon_parrot"]]

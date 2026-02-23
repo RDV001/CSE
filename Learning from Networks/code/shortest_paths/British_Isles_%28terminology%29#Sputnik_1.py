@@ -1,0 +1,1 @@
+[["British_Isles_%28terminology%29", "Russia", "Sputnik_1"]]

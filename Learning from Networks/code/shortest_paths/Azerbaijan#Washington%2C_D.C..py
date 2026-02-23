@@ -1,0 +1,1 @@
+[["Azerbaijan", "14th_century", "Washington%2C_D.C."], ["Azerbaijan", "George_W._Bush", "Washington%2C_D.C."], ["Azerbaijan", "Nagorno-Karabakh_War", "Washington%2C_D.C."], ["Azerbaijan", "Time_zone", "Washington%2C_D.C."]]

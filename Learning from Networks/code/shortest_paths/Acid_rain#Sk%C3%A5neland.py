@@ -1,0 +1,1 @@
+[["Acid_rain", "England", "Denmark", "Sk%C3%A5neland"], ["Acid_rain", "Manchester", "Denmark", "Sk%C3%A5neland"], ["Acid_rain", "Rain", "Denmark", "Sk%C3%A5neland"], ["Acid_rain", "Russia", "Denmark", "Sk%C3%A5neland"]]

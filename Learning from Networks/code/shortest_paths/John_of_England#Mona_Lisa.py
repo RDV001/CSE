@@ -1,0 +1,1 @@
+[["John_of_England", "Roman_Catholic_Church", "Mona_Lisa"]]

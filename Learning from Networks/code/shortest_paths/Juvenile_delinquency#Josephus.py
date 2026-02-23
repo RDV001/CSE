@@ -1,0 +1,1 @@
+[["Juvenile_delinquency", "Poverty", "Jesus", "Josephus"], ["Juvenile_delinquency", "United_States", "Judaism", "Josephus"]]

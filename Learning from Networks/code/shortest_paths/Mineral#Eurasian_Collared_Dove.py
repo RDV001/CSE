@@ -1,0 +1,1 @@
+[["Mineral", "Biology", "Human", "Dove", "Eurasian_Collared_Dove"], ["Mineral", "Chlorine", "Human", "Dove", "Eurasian_Collared_Dove"], ["Mineral", "Vanadium", "Human", "Dove", "Eurasian_Collared_Dove"], ["Mineral", "Dead_Sea", "Bird", "Dove", "Eurasian_Collared_Dove"], ["Mineral", "Dead_Sea", "Bird", "Pigeon", "Eurasian_Collared_Dove"]]

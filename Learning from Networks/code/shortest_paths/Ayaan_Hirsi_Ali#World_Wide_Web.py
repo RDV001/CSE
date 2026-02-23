@@ -1,0 +1,1 @@
+[["Ayaan_Hirsi_Ali", "Arabic_language", "World_Wide_Web"]]

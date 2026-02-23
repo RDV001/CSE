@@ -1,0 +1,1 @@
+[["Harold_Macmillan", "Greece", "Pythagoras", "Pythagorean_theorem"], ["Harold_Macmillan", "Iraq", "Mathematics", "Pythagorean_theorem"], ["Harold_Macmillan", "Scotland", "Mathematics", "Pythagorean_theorem"], ["Harold_Macmillan", "William_Ewart_Gladstone", "Mathematics", "Pythagorean_theorem"]]

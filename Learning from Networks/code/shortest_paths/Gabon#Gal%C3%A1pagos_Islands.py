@@ -1,0 +1,1 @@
+[["Gabon", "Atlantic_Ocean", "Turtle", "Gal%C3%A1pagos_Islands"], ["Gabon", "Currency", "Ecuador", "Gal%C3%A1pagos_Islands"], ["Gabon", "List_of_countries_by_system_of_government", "Ecuador", "Gal%C3%A1pagos_Islands"]]

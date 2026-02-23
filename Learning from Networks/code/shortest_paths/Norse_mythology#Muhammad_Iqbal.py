@@ -1,0 +1,1 @@
+[["Norse_mythology", "19th_century", "Friedrich_Nietzsche", "Muhammad_Iqbal"], ["Norse_mythology", "Richard_Wagner", "Friedrich_Nietzsche", "Muhammad_Iqbal"]]

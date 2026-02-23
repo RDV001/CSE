@@ -1,0 +1,1 @@
+[["Spyware", "Cornell_University", "Carl_Sagan", "Humanism"], ["Spyware", "Sony", "Italy", "Humanism"]]

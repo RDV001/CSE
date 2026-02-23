@@ -1,0 +1,1 @@
+[["Duran_Duran", "Middle_East", "Doha"]]

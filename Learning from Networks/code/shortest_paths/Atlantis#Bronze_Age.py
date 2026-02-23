@@ -1,0 +1,1 @@
+[["Atlantis", "Cyprus", "Bronze_Age"], ["Atlantis", "Ireland", "Bronze_Age"], ["Atlantis", "Santorini", "Bronze_Age"], ["Atlantis", "Sweden", "Bronze_Age"], ["Atlantis", "Trojan_War", "Bronze_Age"]]

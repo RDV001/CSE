@@ -1,0 +1,1 @@
+[["Emotion", "Logic", "Bertrand_Russell", "T._S._Eliot"]]

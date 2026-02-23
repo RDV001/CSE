@@ -1,0 +1,1 @@
+[["Geology", "Batholith", "Continental_crust"], ["Geology", "Crust_%28geology%29", "Continental_crust"], ["Geology", "Igneous_rock", "Continental_crust"], ["Geology", "Plate_tectonics", "Continental_crust"], ["Geology", "Quartz", "Continental_crust"], ["Geology", "Volcano", "Continental_crust"]]

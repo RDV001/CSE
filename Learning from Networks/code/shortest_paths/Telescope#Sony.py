@@ -1,0 +1,1 @@
+[["Telescope", "Japan", "Sony"], ["Telescope", "Radio", "Sony"]]

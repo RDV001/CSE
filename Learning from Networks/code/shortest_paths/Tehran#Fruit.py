@@ -1,0 +1,1 @@
+[["Tehran", "Cuba", "Fruit"], ["Tehran", "Ozone", "Fruit"]]

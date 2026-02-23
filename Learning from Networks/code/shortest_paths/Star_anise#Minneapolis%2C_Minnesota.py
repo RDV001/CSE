@@ -1,0 +1,1 @@
+[["Star_anise", "China", "United_States", "Minneapolis%2C_Minnesota"], ["Star_anise", "H5N1", "United_States", "Minneapolis%2C_Minnesota"], ["Star_anise", "Indonesia", "United_States", "Minneapolis%2C_Minnesota"], ["Star_anise", "Japan", "United_States", "Minneapolis%2C_Minnesota"]]

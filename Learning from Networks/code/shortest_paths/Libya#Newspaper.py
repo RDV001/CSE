@@ -1,0 +1,1 @@
+[["Libya", "The_Wall_Street_Journal", "Newspaper"]]

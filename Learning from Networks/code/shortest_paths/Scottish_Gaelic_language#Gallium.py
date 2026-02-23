@@ -1,0 +1,1 @@
+[["Scottish_Gaelic_language", "19th_century", "Dmitri_Mendeleev", "Gallium"], ["Scottish_Gaelic_language", "Republic_of_Ireland", "Aluminium", "Gallium"], ["Scottish_Gaelic_language", "Republic_of_Ireland", "Crystal", "Gallium"], ["Scottish_Gaelic_language", "Republic_of_Ireland", "Zinc", "Gallium"]]

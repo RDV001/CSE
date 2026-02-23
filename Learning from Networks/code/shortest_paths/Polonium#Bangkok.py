@@ -1,0 +1,1 @@
+[["Polonium", "Russia", "Anno_Domini", "Bangkok"], ["Polonium", "Russia", "Asia", "Bangkok"], ["Polonium", "Russia", "Finland", "Bangkok"], ["Polonium", "Xenon", "Finland", "Bangkok"], ["Polonium", "Russia", "Pacific_Ocean", "Bangkok"], ["Polonium", "Uranium", "Manchester", "Bangkok"]]

@@ -1,0 +1,1 @@
+[["History_of_computing_hardware", "China", "Confucianism"], ["History_of_computing_hardware", "Gottfried_Leibniz", "Confucianism"]]

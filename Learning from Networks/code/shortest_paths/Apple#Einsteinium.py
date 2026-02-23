@@ -1,0 +1,1 @@
+[["Apple", "Gravitation", "Albert_Einstein", "Einsteinium"]]

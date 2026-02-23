@@ -1,0 +1,1 @@
+[["Capitalism", "Ronald_Reagan", "Jimmy_Carter", "Harley-Davidson"]]

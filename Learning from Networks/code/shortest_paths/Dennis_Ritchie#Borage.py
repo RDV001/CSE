@@ -1,0 +1,1 @@
+[["Dennis_Ritchie", "Physics", "Ancient_Greece", "Olive_oil", "Borage"]]

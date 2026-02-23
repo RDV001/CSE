@@ -1,0 +1,1 @@
+[["Scrooge_McDuck", "English_language", "Guernsey", "Isaac_Brock"], ["Scrooge_McDuck", "United_States", "Guernsey", "Isaac_Brock"]]

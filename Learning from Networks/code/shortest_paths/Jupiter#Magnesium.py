@@ -1,0 +1,1 @@
+[["Jupiter", "Ammonia", "Magnesium"], ["Jupiter", "Carbon", "Magnesium"], ["Jupiter", "Comet_Shoemaker-Levy_9", "Magnesium"], ["Jupiter", "Moon", "Magnesium"], ["Jupiter", "Neon", "Magnesium"], ["Jupiter", "Sun", "Magnesium"]]

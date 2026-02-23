@@ -1,0 +1,1 @@
+[["Krazy_Kat", "Cat", "Horse", "Domestic_goat"], ["Krazy_Kat", "English_language", "Zimbabwe", "Domestic_goat"], ["Krazy_Kat", "Italy", "Civilization", "Domestic_goat"]]

@@ -1,0 +1,1 @@
+[["Chemistry", "Gold", "Propaganda", "Fidel_Castro"], ["Chemistry", "Helium", "Cold_War", "Fidel_Castro"], ["Chemistry", "World_War_II", "Cold_War", "Fidel_Castro"], ["Chemistry", "List_of_elements_by_name", "Thallium", "Fidel_Castro"], ["Chemistry", "Periodic_table", "Thallium", "Fidel_Castro"], ["Chemistry", "Sociology", "Karl_Marx", "Fidel_Castro"]]

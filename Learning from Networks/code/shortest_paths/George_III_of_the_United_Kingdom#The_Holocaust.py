@@ -1,0 +1,1 @@
+[["George_III_of_the_United_Kingdom", "Germany", "The_Holocaust"], ["George_III_of_the_United_Kingdom", "Ottoman_Empire", "The_Holocaust"]]

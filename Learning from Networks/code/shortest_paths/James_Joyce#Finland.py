@@ -1,0 +1,1 @@
+[["James_Joyce", "Cancer", "Finland"], ["James_Joyce", "Croatia", "Finland"], ["James_Joyce", "Norway", "Finland"], ["James_Joyce", "Schizophrenia", "Finland"], ["James_Joyce", "World_War_I", "Finland"]]

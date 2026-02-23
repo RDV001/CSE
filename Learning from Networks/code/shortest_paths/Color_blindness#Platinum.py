@@ -1,0 +1,1 @@
+[["Color_blindness", "Federated_States_of_Micronesia", "United_States_dollar", "Platinum"], ["Color_blindness", "Human", "United_States_dollar", "Platinum"], ["Color_blindness", "Hungary", "Krypton", "Platinum"]]

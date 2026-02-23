@@ -1,0 +1,1 @@
+[["Supreme_Court_of_the_United_States", "Richard_Nixon", "Yom_Kippur_War", "AK-47"]]

@@ -1,0 +1,1 @@
+[["Islamic_republic", "Africa", "Fossil", "Punctuated_equilibrium"]]

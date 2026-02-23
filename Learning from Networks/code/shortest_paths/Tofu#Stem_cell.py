@@ -1,0 +1,1 @@
+[["Tofu", "Japan", "George_W._Bush", "Stem_cell"], ["Tofu", "United_States", "George_W._Bush", "Stem_cell"], ["Tofu", "Protein", "DNA_repair", "Stem_cell"], ["Tofu", "Tamil_language", "Bangalore", "Stem_cell"]]

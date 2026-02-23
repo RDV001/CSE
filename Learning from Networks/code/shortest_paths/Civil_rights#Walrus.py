@@ -1,0 +1,1 @@
+[["Civil_rights", "Europe", "Arctic_Ocean", "Walrus"], ["Civil_rights", "United_States", "Arctic_Ocean", "Walrus"], ["Civil_rights", "Europe", "Carnivore", "Walrus"]]

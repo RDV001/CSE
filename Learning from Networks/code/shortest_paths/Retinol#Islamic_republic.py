@@ -1,0 +1,1 @@
+[["Retinol", "Carrot", "Afghanistan", "Islamic_republic"]]

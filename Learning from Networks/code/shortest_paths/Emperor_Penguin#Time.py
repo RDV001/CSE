@@ -1,0 +1,1 @@
+[["Emperor_Penguin", "Animal", "Energy", "Time"], ["Emperor_Penguin", "Animal", "Human", "Time"], ["Emperor_Penguin", "Orca", "Human", "Time"], ["Emperor_Penguin", "Scientific_classification", "Human", "Time"]]

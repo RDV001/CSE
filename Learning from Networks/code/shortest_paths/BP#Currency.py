@@ -1,0 +1,1 @@
+[["BP", "Australia", "Currency"], ["BP", "Colombia", "Currency"], ["BP", "India", "Currency"], ["BP", "Iran", "Currency"], ["BP", "Middle_East", "Currency"], ["BP", "Spain", "Currency"], ["BP", "United_Kingdom", "Currency"], ["BP", "United_States_dollar", "Currency"]]

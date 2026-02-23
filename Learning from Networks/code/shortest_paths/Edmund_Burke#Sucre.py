@@ -1,0 +1,1 @@
+[["Edmund_Burke", "India", "South_America", "Sucre"], ["Edmund_Burke", "Religious_Society_of_Friends", "Bolivia", "Sucre"]]

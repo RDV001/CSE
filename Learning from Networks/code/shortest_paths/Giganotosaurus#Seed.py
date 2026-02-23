@@ -1,0 +1,1 @@
+[["Giganotosaurus", "Herbivore", "Seed"]]

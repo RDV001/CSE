@@ -1,0 +1,1 @@
+[["Potato", "Europe", "Switzerland", "Z%C3%BCrich"], ["Potato", "German_language", "Switzerland", "Z%C3%BCrich"], ["Potato", "Italy", "Switzerland", "Z%C3%BCrich"], ["Potato", "Vitamin_C", "Linus_Pauling", "Z%C3%BCrich"]]

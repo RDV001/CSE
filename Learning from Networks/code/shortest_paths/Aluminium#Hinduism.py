@@ -1,0 +1,1 @@
+[["Aluminium", "Diamond", "Hinduism"], ["Aluminium", "New_Zealand", "Hinduism"], ["Aluminium", "South_Africa", "Hinduism"], ["Aluminium", "Water", "Hinduism"]]

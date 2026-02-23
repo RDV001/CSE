@@ -1,0 +1,1 @@
+[["Australian_rules_football", "Australia", "Adelaide"], ["Australian_rules_football", "Melbourne", "Adelaide"]]

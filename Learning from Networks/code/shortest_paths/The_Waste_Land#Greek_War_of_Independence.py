@@ -1,0 +1,1 @@
+[["The_Waste_Land", "20th_century", "19th_century", "Greek_War_of_Independence"], ["The_Waste_Land", "Ivory", "Ancient_Greece", "Greek_War_of_Independence"], ["The_Waste_Land", "Latin", "Byzantine_Empire", "Greek_War_of_Independence"], ["The_Waste_Land", "Poetry", "Athens", "Greek_War_of_Independence"]]

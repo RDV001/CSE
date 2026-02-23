@@ -1,0 +1,1 @@
+[["Dance", "18th_century", "Industrial_Revolution", "Sulfuric_acid"], ["Dance", "Civilization", "Industrial_Revolution", "Sulfuric_acid"], ["Dance", "Europe", "Industrial_Revolution", "Sulfuric_acid"], ["Dance", "20th_century", "Scurvy", "Sulfuric_acid"], ["Dance", "Europe", "Black_Sea", "Sulfuric_acid"], ["Dance", "Saint_Petersburg", "Black_Sea", "Sulfuric_acid"]]

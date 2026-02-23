@@ -1,0 +1,1 @@
+[["Mecca", "Arabic_language", "Alchemy", "Mythology"], ["Mecca", "Islam", "Alchemy", "Mythology"], ["Mecca", "Baghdad", "Water", "Mythology"], ["Mecca", "Islam", "Religion", "Mythology"]]

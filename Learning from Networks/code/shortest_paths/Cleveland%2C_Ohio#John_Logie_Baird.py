@@ -1,0 +1,1 @@
+[["Cleveland%2C_Ohio", "Minnesota", "Television", "John_Logie_Baird"], ["Cleveland%2C_Ohio", "Superman", "Television", "John_Logie_Baird"], ["Cleveland%2C_Ohio", "United_States", "Television", "John_Logie_Baird"], ["Cleveland%2C_Ohio", "Time_zone", "Telecommunication", "John_Logie_Baird"]]

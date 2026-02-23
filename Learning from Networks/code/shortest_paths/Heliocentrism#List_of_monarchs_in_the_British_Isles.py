@@ -1,0 +1,1 @@
+[["Heliocentrism", "17th_century", "Armand_Jean_du_Plessis%2C_Cardinal_Richelieu", "List_of_monarchs_in_the_British_Isles"], ["Heliocentrism", "19th_century", "Victoria_of_the_United_Kingdom", "List_of_monarchs_in_the_British_Isles"]]

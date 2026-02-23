@@ -1,0 +1,1 @@
+[["H.D.", "Paris", "Mexico", "Hern%C3%A1n_Cort%C3%A9s"], ["H.D.", "United_States", "Mexico", "Hern%C3%A1n_Cort%C3%A9s"], ["H.D.", "World_War_I", "Mexico", "Hern%C3%A1n_Cort%C3%A9s"], ["H.D.", "Paris", "Mexico_City", "Hern%C3%A1n_Cort%C3%A9s"], ["H.D.", "United_States", "Latin_America", "Hern%C3%A1n_Cort%C3%A9s"], ["H.D.", "War", "Invasion", "Hern%C3%A1n_Cort%C3%A9s"]]

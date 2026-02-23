@@ -1,0 +1,1 @@
+[["Literature", "19th_century", "Costa_Rica", "Parrot", "Rose-ringed_Parakeet"], ["Literature", "China", "Myanmar", "Parrot", "Rose-ringed_Parakeet"], ["Literature", "India", "Myanmar", "Parrot", "Rose-ringed_Parakeet"], ["Literature", "Ramayana", "Myanmar", "Parrot", "Rose-ringed_Parakeet"], ["Literature", "India", "Goa", "Parrot", "Rose-ringed_Parakeet"]]

@@ -1,0 +1,1 @@
+[["NATO", "Austria", "Nazism"], ["NATO", "Bulgaria", "Nazism"], ["NATO", "Georgia_%28country%29", "Nazism"], ["NATO", "Germany", "Nazism"], ["NATO", "Israel", "Nazism"], ["NATO", "Lithuania", "Nazism"], ["NATO", "Poland", "Nazism"], ["NATO", "Prague", "Nazism"], ["NATO", "Romania", "Nazism"], ["NATO", "World_War_II", "Nazism"], ["NATO", "Yugoslavia", "Nazism"]]

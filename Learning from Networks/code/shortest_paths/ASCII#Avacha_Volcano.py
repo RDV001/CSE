@@ -1,0 +1,1 @@
+[["ASCII", "AT%26T", "United_States", "Volcano", "Koryaksky", "Avacha_Volcano"]]

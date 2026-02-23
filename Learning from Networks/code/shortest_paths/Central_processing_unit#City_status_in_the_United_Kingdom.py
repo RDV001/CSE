@@ -1,0 +1,1 @@
+[["Central_processing_unit", "Automobile", "United_Kingdom", "City_status_in_the_United_Kingdom"], ["Central_processing_unit", "Cryptography", "United_Kingdom", "City_status_in_the_United_Kingdom"]]

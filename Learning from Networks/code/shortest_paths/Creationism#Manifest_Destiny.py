@@ -1,0 +1,1 @@
+[["Creationism", "19th_century", "Manifest_Destiny"], ["Creationism", "United_States", "Manifest_Destiny"]]

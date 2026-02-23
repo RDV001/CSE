@@ -1,0 +1,1 @@
+[["Palestinian_territories", "Jerusalem", "Natalie_Portman", "Britney_Spears"]]

@@ -1,0 +1,1 @@
+[["Tourette_syndrome", "Sigmund_Freud", "Alfred_Hitchcock", "Walt_Disney", "Krazy_Kat"], ["Tourette_syndrome", "Sigmund_Freud", "Literature", "E._E._Cummings", "Krazy_Kat"]]

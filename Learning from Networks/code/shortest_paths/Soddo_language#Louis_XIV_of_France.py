@@ -1,0 +1,1 @@
+[["Soddo_language", "Ethiopia", "18th_century", "Louis_XIV_of_France"], ["Soddo_language", "Ethiopia", "France", "Louis_XIV_of_France"]]

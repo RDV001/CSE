@@ -1,0 +1,1 @@
+[["Waste_management", "Glass", "Stained_glass"]]

@@ -1,0 +1,1 @@
+[["Pikachu", "New_York_City", "Fashion", "Game"], ["Pikachu", "Popular_culture", "Fashion", "Game"], ["Pikachu", "Popular_culture", "Folklore", "Game"], ["Pikachu", "The_Simpsons", "Monopoly_%28game%29", "Game"]]

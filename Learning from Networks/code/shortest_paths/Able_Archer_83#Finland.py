@@ -1,0 +1,1 @@
+[["Able_Archer_83", "Greenland", "Finland"], ["Able_Archer_83", "NATO", "Finland"], ["Able_Archer_83", "Soviet_Union", "Finland"]]

@@ -1,0 +1,1 @@
+[["Hurricane_David", "Dominica", "Volcano", "Saturn"], ["Hurricane_David", "United_States", "Volcano", "Saturn"], ["Hurricane_David", "Tropical_cyclone", "Cloud", "Saturn"]]

@@ -1,0 +1,1 @@
+[["Beet", "Ancient_Rome", "Architecture"], ["Beet", "Middle_Ages", "Architecture"]]

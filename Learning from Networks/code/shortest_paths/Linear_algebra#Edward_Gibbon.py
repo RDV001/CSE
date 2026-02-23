@@ -1,0 +1,1 @@
+[["Linear_algebra", "Economics", "Ancient_Rome", "Edward_Gibbon"], ["Linear_algebra", "Spain", "Ancient_Rome", "Edward_Gibbon"], ["Linear_algebra", "France", "Roman_Empire", "Edward_Gibbon"], ["Linear_algebra", "Germany", "Roman_Empire", "Edward_Gibbon"], ["Linear_algebra", "Spain", "Battle_of_Tours", "Edward_Gibbon"], ["Linear_algebra", "Spain", "Dark_Ages", "Edward_Gibbon"]]

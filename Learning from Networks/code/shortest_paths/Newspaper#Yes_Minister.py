@@ -1,0 +1,1 @@
+[["Newspaper", "United_Kingdom", "J._K._Rowling", "Monty_Python", "Yes_Minister"], ["Newspaper", "United_States", "Minneapolis%2C_Minnesota", "Monty_Python", "Yes_Minister"]]

@@ -1,0 +1,1 @@
+[["Food", "Islam", "Astronomy", "Globular_cluster"]]

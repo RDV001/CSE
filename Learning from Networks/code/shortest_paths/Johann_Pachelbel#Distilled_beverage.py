@@ -1,0 +1,1 @@
+[["Johann_Pachelbel", "20th_century", "League_of_Nations", "Distilled_beverage"], ["Johann_Pachelbel", "World_War_II", "League_of_Nations", "Distilled_beverage"]]

@@ -1,0 +1,1 @@
+[["Numismatics", "Germany", "University", "Arithmetic"], ["Numismatics", "Gold", "Astrology", "Arithmetic"], ["Numismatics", "Renaissance", "Ancient_Greece", "Arithmetic"], ["Numismatics", "Renaissance", "Mathematics", "Arithmetic"], ["Numismatics", "United_States", "Education", "Arithmetic"], ["Numismatics", "United_States", "Education_in_the_United_States", "Arithmetic"]]

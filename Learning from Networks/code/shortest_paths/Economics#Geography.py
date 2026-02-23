@@ -1,0 +1,1 @@
+[["Economics", "Aristotle", "Geography"], ["Economics", "Education", "Geography"], ["Economics", "Law", "Geography"]]

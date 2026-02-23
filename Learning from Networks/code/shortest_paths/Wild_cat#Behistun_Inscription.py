@@ -1,0 +1,1 @@
+[["Wild_cat", "Asia", "Armenia", "Behistun_Inscription"], ["Wild_cat", "Europe", "Armenia", "Behistun_Inscription"], ["Wild_cat", "Iran", "Armenia", "Behistun_Inscription"], ["Wild_cat", "Turkey", "Armenia", "Behistun_Inscription"], ["Wild_cat", "Iran", "Cyrus_the_Great", "Behistun_Inscription"], ["Wild_cat", "Iran", "Iranian_peoples", "Behistun_Inscription"]]

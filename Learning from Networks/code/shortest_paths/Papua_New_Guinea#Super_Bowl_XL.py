@@ -1,0 +1,1 @@
+[["Papua_New_Guinea", "Time_zone", "Detroit%2C_Michigan", "Super_Bowl_XL"]]

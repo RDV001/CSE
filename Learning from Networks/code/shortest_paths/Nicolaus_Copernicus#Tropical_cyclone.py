@@ -1,0 +1,1 @@
+[["Nicolaus_Copernicus", "Earth", "Tropical_cyclone"]]

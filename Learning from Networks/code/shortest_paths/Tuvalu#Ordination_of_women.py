@@ -1,0 +1,1 @@
+[["Tuvalu", "Australia", "Anglican_Communion", "Ordination_of_women"], ["Tuvalu", "Christianity", "Anglican_Communion", "Ordination_of_women"], ["Tuvalu", "United_Kingdom", "Anglican_Communion", "Ordination_of_women"], ["Tuvalu", "Christianity", "Anglicanism", "Ordination_of_women"], ["Tuvalu", "Europe", "Anglicanism", "Ordination_of_women"]]

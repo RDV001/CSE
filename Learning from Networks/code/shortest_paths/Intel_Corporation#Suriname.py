@@ -1,0 +1,1 @@
+[["Intel_Corporation", "United_States", "Suriname"]]

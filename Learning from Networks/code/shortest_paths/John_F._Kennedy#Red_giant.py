@@ -1,0 +1,1 @@
+[["John_F._Kennedy", "Moon", "Earth", "Red_giant"], ["John_F._Kennedy", "South_America", "Earth", "Red_giant"], ["John_F._Kennedy", "Space_Race", "Earth", "Red_giant"], ["John_F._Kennedy", "Superman", "Earth", "Red_giant"], ["John_F._Kennedy", "Moon", "Sun", "Red_giant"], ["John_F._Kennedy", "Superman", "Sun", "Red_giant"]]

@@ -1,0 +1,1 @@
+[["Emacs", "Boston%2C_Massachusetts", "United_States", "Wake_Island"], ["Emacs", "English_language", "United_States", "Wake_Island"], ["Emacs", "Internet", "United_States", "Wake_Island"], ["Emacs", "PONG", "United_States", "Wake_Island"], ["Emacs", "English_language", "Marshall_Islands", "Wake_Island"]]

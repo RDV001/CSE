@@ -1,0 +1,1 @@
+[["London_Underground", "Northern_Ireland", "Winston_Churchill", "Calgary"], ["London_Underground", "Tobacco_smoking", "Winston_Churchill", "Calgary"], ["London_Underground", "World_War_II", "Winston_Churchill", "Calgary"], ["London_Underground", "Scotland", "Olympic_Games", "Calgary"]]

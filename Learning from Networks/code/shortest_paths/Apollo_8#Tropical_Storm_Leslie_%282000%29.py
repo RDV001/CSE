@@ -1,0 +1,1 @@
+[["Apollo_8", "Florida", "Miami%2C_Florida", "Tropical_Storm_Leslie_%282000%29"]]

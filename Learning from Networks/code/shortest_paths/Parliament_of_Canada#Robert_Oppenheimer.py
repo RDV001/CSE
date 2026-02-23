@@ -1,0 +1,1 @@
+[["Parliament_of_Canada", "United_States", "Computer", "John_von_Neumann", "Robert_Oppenheimer"], ["Parliament_of_Canada", "United_States", "Nuclear_weapon", "History_of_nuclear_weapons", "Robert_Oppenheimer"]]

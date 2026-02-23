@@ -1,0 +1,1 @@
+[["Munich", "German_language", "Kazakhstan"], ["Munich", "Germany", "Kazakhstan"], ["Munich", "Ice_hockey", "Kazakhstan"], ["Munich", "Israel", "Kazakhstan"], ["Munich", "List_of_countries", "Kazakhstan"], ["Munich", "Ukraine", "Kazakhstan"]]

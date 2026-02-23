@@ -1,0 +1,1 @@
+[["Paul_of_Tarsus", "Augustine_of_Hippo", "Stoicism"]]

@@ -1,0 +1,1 @@
+[["Ice", "Ice_hockey", "Chicago", "Chicago_Bears"]]

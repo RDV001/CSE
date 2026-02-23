@@ -1,0 +1,1 @@
+[["Wolverine", "Europe", "Judaism"], ["Wolverine", "Russia", "Judaism"], ["Wolverine", "United_States", "Judaism"]]

@@ -1,0 +1,1 @@
+[["Windows_XP", "Asia", "Herodotus", "Pericles"], ["Windows_XP", "Asia", "Sun", "Pericles"], ["Windows_XP", "European_Union", "Ancient_Greece", "Pericles"]]

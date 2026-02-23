@@ -1,0 +1,1 @@
+[["Rosetta_Stone", "Cairo", "United_States", "George_Washington"], ["Rosetta_Stone", "Napoleon_I_of_France", "United_States", "George_Washington"], ["Rosetta_Stone", "Macintosh", "United_States_dollar", "George_Washington"], ["Rosetta_Stone", "Napoleon_I_of_France", "Yellow_fever", "George_Washington"]]

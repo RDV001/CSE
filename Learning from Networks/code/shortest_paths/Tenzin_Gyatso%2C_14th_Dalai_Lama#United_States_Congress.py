@@ -1,0 +1,1 @@
+[["Tenzin_Gyatso%2C_14th_Dalai_Lama", "United_States_Congress"]]

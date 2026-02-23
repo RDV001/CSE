@@ -1,0 +1,1 @@
+[["Bread", "Ancient_Greece", "Afghanistan"], ["Bread", "Carrot", "Afghanistan"], ["Bread", "Germany", "Afghanistan"], ["Bread", "Israel", "Afghanistan"], ["Bread", "Pakistan", "Afghanistan"], ["Bread", "Russian_language", "Afghanistan"], ["Bread", "Sumer", "Afghanistan"], ["Bread", "Turkmenistan", "Afghanistan"]]

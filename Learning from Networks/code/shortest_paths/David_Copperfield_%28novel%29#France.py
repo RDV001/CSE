@@ -1,0 +1,1 @@
+[["David_Copperfield_%28novel%29", "Dover", "France"], ["David_Copperfield_%28novel%29", "London", "France"], ["David_Copperfield_%28novel%29", "Novel", "France"], ["David_Copperfield_%28novel%29", "United_Kingdom", "France"]]

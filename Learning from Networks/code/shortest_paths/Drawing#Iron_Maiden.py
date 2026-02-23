@@ -1,0 +1,1 @@
+[["Drawing", "Europe", "England", "Iron_Maiden"], ["Drawing", "Europe", "London", "Iron_Maiden"], ["Drawing", "Leonardo_da_Vinci", "London", "Iron_Maiden"], ["Drawing", "Peter_Paul_Rubens", "London", "Iron_Maiden"], ["Drawing", "Raphael", "London", "Iron_Maiden"], ["Drawing", "Vincent_van_Gogh", "London", "Iron_Maiden"], ["Drawing", "Europe", "United_Kingdom", "Iron_Maiden"]]

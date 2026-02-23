@@ -1,0 +1,1 @@
+[["Elementary_arithmetic", "Algorithm", "Bertrand_Russell", "T._S._Eliot", "Ezra_Pound", "The_Cantos"], ["Elementary_arithmetic", "Mathematics", "Renaissance", "John_Milton", "Ezra_Pound", "The_Cantos"]]

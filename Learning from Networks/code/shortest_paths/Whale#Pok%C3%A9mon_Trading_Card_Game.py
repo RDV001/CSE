@@ -1,0 +1,1 @@
+[["Whale", "Qur%27an", "Damascus", "Card_game", "Pok%C3%A9mon_Trading_Card_Game"]]

@@ -1,0 +1,1 @@
+[["Anguilla", "England", "Stephen_Hawking", "Black_hole"], ["Anguilla", "South_America", "21st_century", "Black_hole"], ["Anguilla", "United_Kingdom", "Gravitation", "Black_hole"]]

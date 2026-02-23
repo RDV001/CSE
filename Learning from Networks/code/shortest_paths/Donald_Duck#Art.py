@@ -1,0 +1,1 @@
+[["Donald_Duck", "Adolf_Hitler", "Art"], ["Donald_Duck", "Film", "Art"], ["Donald_Duck", "Poland", "Art"]]

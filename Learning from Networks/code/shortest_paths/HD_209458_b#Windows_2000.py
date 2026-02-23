@@ -1,0 +1,1 @@
+[["HD_209458_b", "Carbon", "Sierra_Leone", "Automated_teller_machine", "Windows_2000"]]

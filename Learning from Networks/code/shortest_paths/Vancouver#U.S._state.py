@@ -1,0 +1,1 @@
+[["Vancouver", "New_York_City", "U.S._state"], ["Vancouver", "Seattle%2C_Washington", "U.S._state"], ["Vancouver", "United_States", "U.S._state"]]

@@ -1,0 +1,1 @@
+[["Maputo", "Aluminium", "Ancient_Rome", "Alphabet"], ["Maputo", "Portugal", "Ancient_Rome", "Alphabet"], ["Maputo", "India", "Tamil_language", "Alphabet"], ["Maputo", "South_Africa", "Tamil_language", "Alphabet"], ["Maputo", "Winston_Churchill", "Bulgaria", "Alphabet"]]

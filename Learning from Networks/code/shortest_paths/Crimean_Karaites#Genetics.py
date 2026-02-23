@@ -1,0 +1,1 @@
+[["Crimean_Karaites", "Israel", "Genetics"]]

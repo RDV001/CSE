@@ -1,0 +1,1 @@
+[["Multiculturalism", "Denmark", "Faroe_Islands", "Puffin"], ["Multiculturalism", "Europe", "Faroe_Islands", "Puffin"], ["Multiculturalism", "European_Union", "Faroe_Islands", "Puffin"], ["Multiculturalism", "Germany", "Faroe_Islands", "Puffin"], ["Multiculturalism", "Netherlands", "Faroe_Islands", "Puffin"], ["Multiculturalism", "Europe", "Svalbard", "Puffin"]]

@@ -1,0 +1,1 @@
+[["Liberalism", "Australia", "Olympic_Games", "Jesse_Owens"], ["Liberalism", "Ecuador", "Olympic_Games", "Jesse_Owens"], ["Liberalism", "England", "Olympic_Games", "Jesse_Owens"], ["Liberalism", "United_Kingdom", "Olympic_Games", "Jesse_Owens"], ["Liberalism", "United_States", "Olympic_Games", "Jesse_Owens"]]

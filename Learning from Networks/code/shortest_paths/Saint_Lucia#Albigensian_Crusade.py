@@ -1,0 +1,1 @@
+[["Saint_Lucia", "European_Union", "Middle_Ages", "Albigensian_Crusade"], ["Saint_Lucia", "France", "Middle_Ages", "Albigensian_Crusade"]]

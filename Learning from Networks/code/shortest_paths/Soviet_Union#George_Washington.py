@@ -1,0 +1,1 @@
+[["Soviet_Union", "United_States", "George_Washington"]]

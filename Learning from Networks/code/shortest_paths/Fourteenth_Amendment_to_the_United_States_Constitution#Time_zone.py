@@ -1,0 +1,1 @@
+[["Fourteenth_Amendment_to_the_United_States_Constitution", "England", "Time_zone"], ["Fourteenth_Amendment_to_the_United_States_Constitution", "France", "Time_zone"]]

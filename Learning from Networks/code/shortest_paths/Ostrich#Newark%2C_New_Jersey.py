@@ -1,0 +1,1 @@
+[["Ostrich", "20th_century", "New_York_City", "Newark%2C_New_Jersey"], ["Ostrich", "Africa", "Portuguese_language", "Newark%2C_New_Jersey"], ["Ostrich", "South_Africa", "Portuguese_language", "Newark%2C_New_Jersey"], ["Ostrich", "Sweden", "U.S._state", "Newark%2C_New_Jersey"]]

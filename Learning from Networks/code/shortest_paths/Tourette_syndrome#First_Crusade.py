@@ -1,0 +1,1 @@
+[["Tourette_syndrome", "France", "Roman_Catholic_Church", "First_Crusade"], ["Tourette_syndrome", "Sigmund_Freud", "Jew", "First_Crusade"]]

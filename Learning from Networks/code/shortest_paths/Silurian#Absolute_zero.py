@@ -1,0 +1,1 @@
+[["Silurian", "Geology", "Helium", "Absolute_zero"], ["Silurian", "Natural_gas", "Helium", "Absolute_zero"], ["Silurian", "Iron", "Phase_%28matter%29", "Absolute_zero"], ["Silurian", "Natural_gas", "Phase_%28matter%29", "Absolute_zero"]]

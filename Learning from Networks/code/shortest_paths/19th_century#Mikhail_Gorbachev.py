@@ -1,0 +1,1 @@
+[["19th_century", "Russia", "Mikhail_Gorbachev"], ["19th_century", "Socialism", "Mikhail_Gorbachev"]]

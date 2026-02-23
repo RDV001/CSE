@@ -1,0 +1,1 @@
+[["Glacier_National_Park_%28US%29", "United_Nations", "Rome", "Michelangelo", "Sistine_Chapel_ceiling"], ["Glacier_National_Park_%28US%29", "United_Nations", "Vatican_City", "Michelangelo", "Sistine_Chapel_ceiling"]]

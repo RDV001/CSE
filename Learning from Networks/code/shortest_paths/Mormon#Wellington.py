@@ -1,0 +1,1 @@
+[["Mormon", "Christianity", "Oceania", "Wellington"], ["Mormon", "Spanish_language", "Oceania", "Wellington"], ["Mormon", "Mexico", "Time_zone", "Wellington"]]

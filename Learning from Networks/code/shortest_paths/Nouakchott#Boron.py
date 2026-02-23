@@ -1,0 +1,1 @@
+[["Nouakchott", "Africa", "Diamond", "Boron"]]

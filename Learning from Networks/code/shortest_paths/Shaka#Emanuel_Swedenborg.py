@@ -1,0 +1,1 @@
+[["Shaka", "19th_century", "18th_century", "Emanuel_Swedenborg"], ["Shaka", "19th_century", "Sweden", "Emanuel_Swedenborg"], ["Shaka", "Napoleon_I_of_France", "Sweden", "Emanuel_Swedenborg"]]

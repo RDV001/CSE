@@ -1,0 +1,1 @@
+[["Welding", "Earth", "Apollo_8", "Domesticated_turkey"]]

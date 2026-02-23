@@ -1,0 +1,1 @@
+[["Brute_force_attack", "English_language", "Sri_Lanka", "Chola_dynasty"]]

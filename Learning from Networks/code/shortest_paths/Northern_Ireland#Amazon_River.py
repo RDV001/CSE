@@ -1,0 +1,1 @@
+[["Northern_Ireland", "Arable_land", "Amazon_River"]]

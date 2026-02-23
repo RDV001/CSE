@@ -1,0 +1,1 @@
+[["Able_Archer_83", "Elizabeth_II_of_the_United_Kingdom", "New_Zealand", "The_Lord_of_the_Rings_film_trilogy", "Miranda_Otto"], ["Able_Archer_83", "NATO", "New_Zealand", "The_Lord_of_the_Rings_film_trilogy", "Miranda_Otto"], ["Able_Archer_83", "United_Kingdom", "J._R._R._Tolkien", "The_Lord_of_the_Rings_film_trilogy", "Miranda_Otto"]]

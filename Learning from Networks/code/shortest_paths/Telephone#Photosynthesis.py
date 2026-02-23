@@ -1,0 +1,1 @@
+[["Telephone", "Star_Trek", "Earth", "Photosynthesis"], ["Telephone", "Sweden", "Biofuel", "Photosynthesis"], ["Telephone", "Sweden", "Tree", "Photosynthesis"], ["Telephone", "United_States", "Arctic_Ocean", "Photosynthesis"]]

@@ -1,0 +1,1 @@
+[["Uluru", "Australia", "Ireland", "Eurovision_Song_Contest"], ["Uluru", "World_Heritage_Site", "Helsinki", "Eurovision_Song_Contest"]]

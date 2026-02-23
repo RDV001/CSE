@@ -1,0 +1,1 @@
+[["Long_pepper", "Malaysia", "Cambodia", "Angkor"], ["Long_pepper", "Malaysia", "Thailand", "Angkor"], ["Long_pepper", "Sanskrit", "Thailand", "Angkor"]]

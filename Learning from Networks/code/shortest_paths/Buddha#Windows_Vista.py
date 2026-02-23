@@ -1,0 +1,1 @@
+[["Buddha", "China", "Calligraphy", "Windows_Vista"]]

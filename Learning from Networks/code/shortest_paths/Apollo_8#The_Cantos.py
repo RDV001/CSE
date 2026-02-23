@@ -1,0 +1,1 @@
+[["Apollo_8", "Paris", "Ernest_Hemingway", "Ezra_Pound", "The_Cantos"]]

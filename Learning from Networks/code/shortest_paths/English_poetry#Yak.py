@@ -1,0 +1,1 @@
+[["English_poetry", "British_Empire", "Tea", "Yak"], ["English_poetry", "British_Empire", "Tibet", "Yak"], ["English_poetry", "English_language", "Cattle", "Yak"], ["English_poetry", "Scotland", "Cattle", "Yak"], ["English_poetry", "Wales", "Cattle", "Yak"]]

@@ -1,0 +1,1 @@
+[["Communism", "Argentina", "Uruguay"], ["Communism", "Brazil", "Uruguay"], ["Communism", "Bulgaria", "Uruguay"], ["Communism", "Che_Guevara", "Uruguay"], ["Communism", "Latin_America", "Uruguay"], ["Communism", "Leon_Trotsky", "Uruguay"], ["Communism", "Mozambique", "Uruguay"], ["Communism", "South_America", "Uruguay"]]

@@ -1,0 +1,1 @@
+[["Communism", "South_America", "21st_century"]]

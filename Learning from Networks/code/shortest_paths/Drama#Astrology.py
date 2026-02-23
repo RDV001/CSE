@@ -1,0 +1,1 @@
+[["Drama", "19th_century", "Religion", "Astrology"], ["Drama", "China", "Sumer", "Astrology"], ["Drama", "China", "Taoism", "Astrology"]]

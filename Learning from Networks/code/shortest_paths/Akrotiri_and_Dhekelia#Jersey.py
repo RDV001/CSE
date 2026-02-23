@@ -1,0 +1,1 @@
+[["Akrotiri_and_Dhekelia", "English_language", "Jersey"], ["Akrotiri_and_Dhekelia", "United_Kingdom", "Jersey"]]

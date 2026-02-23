@@ -1,0 +1,1 @@
+[["Radio_frequency", "Electromagnetic_radiation", "Ultraviolet", "Insect", "Bedbug"], ["Radio_frequency", "Radio", "Ultraviolet", "Insect", "Bedbug"]]

@@ -1,0 +1,1 @@
+[["Ethiopian_Wolf", "Animal", "Human", "Auguste_Rodin"], ["Ethiopian_Wolf", "Mammal", "Human", "Auguste_Rodin"], ["Ethiopian_Wolf", "Scientific_classification", "Human", "Auguste_Rodin"]]

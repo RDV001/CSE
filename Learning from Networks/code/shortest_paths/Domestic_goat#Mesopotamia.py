@@ -1,0 +1,1 @@
+[["Domestic_goat", "Butter", "Mesopotamia"], ["Domestic_goat", "Iran", "Mesopotamia"], ["Domestic_goat", "Middle_East", "Mesopotamia"], ["Domestic_goat", "Wine", "Mesopotamia"]]

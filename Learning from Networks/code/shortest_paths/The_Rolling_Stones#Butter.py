@@ -1,0 +1,1 @@
+[["The_Rolling_Stones", "Bob_Dylan", "Minnesota", "Butter"], ["The_Rolling_Stones", "United_States", "Minnesota", "Butter"], ["The_Rolling_Stones", "Hong_Kong", "Tea", "Butter"], ["The_Rolling_Stones", "Munich", "Zimbabwe", "Butter"], ["The_Rolling_Stones", "United_States", "Jersey", "Butter"], ["The_Rolling_Stones", "United_States", "Rice", "Butter"]]

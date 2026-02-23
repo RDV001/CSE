@@ -1,0 +1,1 @@
+[["Dead_Sea_scrolls", "Hebrew_language", "Panama", "Theodore_Roosevelt"], ["Dead_Sea_scrolls", "Jesus", "Thomas_Jefferson", "Theodore_Roosevelt"], ["Dead_Sea_scrolls", "University_of_Chicago", "Thomas_Jefferson", "Theodore_Roosevelt"], ["Dead_Sea_scrolls", "Spain", "Cuba", "Theodore_Roosevelt"]]

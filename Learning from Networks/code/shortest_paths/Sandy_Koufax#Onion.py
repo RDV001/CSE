@@ -1,0 +1,1 @@
+[["Sandy_Koufax", "Architecture", "Ancient_Greece", "Onion"], ["Sandy_Koufax", "Baseball", "Cuba", "Onion"], ["Sandy_Koufax", "Puerto_Rico", "Cuba", "Onion"], ["Sandy_Koufax", "United_States", "Cuba", "Onion"], ["Sandy_Koufax", "Beer", "Bread", "Onion"], ["Sandy_Koufax", "Los_Angeles%2C_California", "Hinduism", "Onion"], ["Sandy_Koufax", "United_States", "Hinduism", "Onion"]]

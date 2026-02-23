@@ -1,0 +1,1 @@
+[["Cheers", "Kansas_City%2C_Missouri", "France"], ["Cheers", "Netherlands", "France"], ["Cheers", "Television", "France"], ["Cheers", "The_Simpsons", "France"], ["Cheers", "United_Kingdom", "France"], ["Cheers", "United_States", "France"]]

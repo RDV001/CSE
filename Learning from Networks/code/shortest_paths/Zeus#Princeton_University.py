@@ -1,0 +1,1 @@
+[["Zeus", "Ancient_Greece", "Pericles", "Princeton_University"], ["Zeus", "Herodotus", "Pericles", "Princeton_University"], ["Zeus", "Earth", "Plate_tectonics", "Princeton_University"], ["Zeus", "Plato", "Albert_Einstein", "Princeton_University"], ["Zeus", "Plato", "The_Mismeasure_of_Man", "Princeton_University"]]

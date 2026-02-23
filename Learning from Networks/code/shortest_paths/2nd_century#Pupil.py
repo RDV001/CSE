@@ -1,0 +1,1 @@
+[["2nd_century", "16th_century", "Sun", "Pupil"], ["2nd_century", "Star", "Sun", "Pupil"], ["2nd_century", "Star", "Eye", "Pupil"]]

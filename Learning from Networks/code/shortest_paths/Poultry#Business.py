@@ -1,0 +1,1 @@
+[["Poultry", "Chicken", "Iran", "Business"], ["Poultry", "Dove", "Iran", "Business"], ["Poultry", "Pigeon", "Iran", "Business"], ["Poultry", "China", "Mathematics", "Business"], ["Poultry", "Food", "Law", "Business"], ["Poultry", "Food", "World_Trade_Organization", "Business"], ["Poultry", "Mexico", "Industry", "Business"]]

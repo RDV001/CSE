@@ -1,0 +1,1 @@
+[["Human", "Guatemala", "Fidel_Castro"], ["Human", "Propaganda", "Fidel_Castro"]]

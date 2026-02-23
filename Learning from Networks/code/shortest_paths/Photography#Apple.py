@@ -1,0 +1,1 @@
+[["Photography", "Aesthetics", "Mesopotamia", "Apple"], ["Photography", "Art", "Mesopotamia", "Apple"], ["Photography", "United_States", "Argentina", "Apple"], ["Photography", "United_States", "Jersey", "Apple"]]

@@ -1,0 +1,1 @@
+[["1973_oil_crisis", "Gold", "List_of_elements_by_name", "Berkelium"], ["1973_oil_crisis", "Gold", "Periodic_table", "Berkelium"]]

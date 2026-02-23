@@ -1,0 +1,1 @@
+[["Pliocene", "Bat", "Fruit", "Paprika"], ["Pliocene", "California", "Fruit", "Paprika"], ["Pliocene", "Dog", "Fruit", "Paprika"], ["Pliocene", "Europe", "Hungary", "Paprika"]]

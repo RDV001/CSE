@@ -1,0 +1,1 @@
+[["House", "Earthquake", "Japan", "Katana"], ["House", "Garden", "Japan", "Katana"], ["House", "India", "Japan", "Katana"], ["House", "Natural_disaster", "Japan", "Katana"], ["House", "United_States", "Japan", "Katana"]]

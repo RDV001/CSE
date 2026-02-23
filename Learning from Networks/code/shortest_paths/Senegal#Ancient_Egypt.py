@@ -1,0 +1,1 @@
+[["Senegal", "Currency", "Ancient_Egypt"], ["Senegal", "Judaism", "Ancient_Egypt"]]

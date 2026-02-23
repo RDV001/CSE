@@ -1,0 +1,1 @@
+[["Ku_Klux_Klan", "Nazi_Germany", "Eagle", "Eagle_Scout_%28Boy_Scouts_of_America%29"], ["Ku_Klux_Klan", "Supreme_Court_of_the_United_States", "Gerald_Ford", "Eagle_Scout_%28Boy_Scouts_of_America%29"], ["Ku_Klux_Klan", "United_States", "Neil_Armstrong", "Eagle_Scout_%28Boy_Scouts_of_America%29"]]

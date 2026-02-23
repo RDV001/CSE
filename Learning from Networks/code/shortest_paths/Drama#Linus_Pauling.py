@@ -1,0 +1,1 @@
+[["Drama", "19th_century", "Marie_Curie", "Linus_Pauling"], ["Drama", "20th_century", "Physics", "Linus_Pauling"], ["Drama", "20th_century", "Quantum_mechanics", "Linus_Pauling"]]

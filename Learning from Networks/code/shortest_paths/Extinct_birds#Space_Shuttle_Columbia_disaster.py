@@ -1,0 +1,1 @@
+[["Extinct_birds", "18th_century", "21st_century", "Space_Shuttle_Columbia_disaster"], ["Extinct_birds", "20th_century", "21st_century", "Space_Shuttle_Columbia_disaster"], ["Extinct_birds", "Florida", "Space_Shuttle_Columbia", "Space_Shuttle_Columbia_disaster"]]

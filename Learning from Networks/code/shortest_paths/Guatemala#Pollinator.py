@@ -1,0 +1,1 @@
+[["Guatemala", "Banana", "Flower", "Pollinator"], ["Guatemala", "Banana", "Fruit", "Pollinator"], ["Guatemala", "California", "Fruit", "Pollinator"], ["Guatemala", "Cuba", "Fruit", "Pollinator"], ["Guatemala", "Florida", "Fruit", "Pollinator"], ["Guatemala", "Costa_Rica", "Biodiversity", "Pollinator"], ["Guatemala", "Nicaragua", "Biodiversity", "Pollinator"]]

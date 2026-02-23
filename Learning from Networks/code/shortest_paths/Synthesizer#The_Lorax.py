@@ -1,0 +1,1 @@
+[["Synthesizer", "James_Bond", "Lisbon", "Poetry", "Dr._Seuss", "The_Lorax"], ["Synthesizer", "James_Bond", "Novel", "Poetry", "Dr._Seuss", "The_Lorax"], ["Synthesizer", "New_York_City", "William_Shakespeare", "Poetry", "Dr._Seuss", "The_Lorax"], ["Synthesizer", "Speech_synthesis", "English_language", "Poetry", "Dr._Seuss", "The_Lorax"]]

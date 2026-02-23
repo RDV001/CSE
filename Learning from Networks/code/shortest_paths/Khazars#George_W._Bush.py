@@ -1,0 +1,1 @@
+[["Khazars", "Azerbaijan", "George_W._Bush"], ["Khazars", "Georgia_%28country%29", "George_W._Bush"]]

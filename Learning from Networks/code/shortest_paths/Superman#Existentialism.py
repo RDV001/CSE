@@ -1,0 +1,1 @@
+[["Superman", "Friedrich_Nietzsche", "Existentialism"]]

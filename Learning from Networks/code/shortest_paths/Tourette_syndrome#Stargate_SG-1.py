@@ -1,0 +1,1 @@
+[["Tourette_syndrome", "Psychology", "Carl_Jung", "Stargate_SG-1"], ["Tourette_syndrome", "Sigmund_Freud", "Carl_Jung", "Stargate_SG-1"]]

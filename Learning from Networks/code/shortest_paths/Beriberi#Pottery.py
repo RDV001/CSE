@@ -1,0 +1,1 @@
+[["Beriberi", "Japan", "Pottery"]]

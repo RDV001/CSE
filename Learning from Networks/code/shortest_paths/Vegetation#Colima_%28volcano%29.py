@@ -1,0 +1,1 @@
+[["Vegetation", "Climate_change", "Volcano", "Colima_%28volcano%29"]]

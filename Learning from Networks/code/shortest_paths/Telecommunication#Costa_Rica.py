@@ -1,0 +1,1 @@
+[["Telecommunication", "North_America", "Costa_Rica"]]

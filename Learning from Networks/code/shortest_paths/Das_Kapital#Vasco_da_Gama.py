@@ -1,0 +1,1 @@
+[["Das_Kapital", "Capitalism", "16th_century", "Vasco_da_Gama"], ["Das_Kapital", "German_language", "16th_century", "Vasco_da_Gama"], ["Das_Kapital", "German_language", "Portugal", "Vasco_da_Gama"], ["Das_Kapital", "Slavery", "Portugal", "Vasco_da_Gama"], ["Das_Kapital", "Slavery", "Goa", "Vasco_da_Gama"], ["Das_Kapital", "Slavery", "Indian_Ocean", "Vasco_da_Gama"]]

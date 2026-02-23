@@ -1,0 +1,1 @@
+[["GNOME", "C%2B%2B", "Library", "Paris"], ["GNOME", "ITunes", "Library", "Paris"], ["GNOME", "Compact_Disc", "Germany", "Paris"], ["GNOME", "ITunes", "Germany", "Paris"], ["GNOME", "ITunes", "France", "Paris"], ["GNOME", "ITunes", "Switzerland", "Paris"]]

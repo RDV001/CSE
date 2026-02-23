@@ -1,0 +1,1 @@
+[["Dmitri_Mendeleev", "London", "Jew"], ["Dmitri_Mendeleev", "Russia", "Jew"], ["Dmitri_Mendeleev", "Russian_language", "Jew"], ["Dmitri_Mendeleev", "Saint_Petersburg", "Jew"]]

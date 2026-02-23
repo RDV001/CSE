@@ -1,0 +1,1 @@
+[["Punctuated_equilibrium", "Earth", "Comet", "Comet_Halley"], ["Punctuated_equilibrium", "History_of_science", "Edmond_Halley", "Comet_Halley"]]

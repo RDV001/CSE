@@ -1,0 +1,1 @@
+[["Photon", "Ernest_Rutherford", "Trinity_College%2C_Cambridge", "Edward_II_of_England"], ["Photon", "Isaac_Newton", "Trinity_College%2C_Cambridge", "Edward_II_of_England"], ["Photon", "James_Clerk_Maxwell", "Trinity_College%2C_Cambridge", "Edward_II_of_England"]]

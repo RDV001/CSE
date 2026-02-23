@@ -1,0 +1,1 @@
+[["Lake_Mead", "California", "Sequoia", "Flood"], ["Lake_Mead", "United_States", "Sequoia", "Flood"], ["Lake_Mead", "Hoover_Dam", "Dam", "Flood"], ["Lake_Mead", "Las_Vegas%2C_Nevada", "Louisville%2C_Kentucky", "Flood"], ["Lake_Mead", "United_States", "Belize", "Flood"]]

@@ -1,0 +1,1 @@
+[["Scooby-Doo", "United_States", "Tennis", "Chris_Evert", "Fed_Cup"], ["Scooby-Doo", "United_States", "Tennis", "Davis_Cup", "Fed_Cup"], ["Scooby-Doo", "ZX_Spectrum", "Romania", "Davis_Cup", "Fed_Cup"]]

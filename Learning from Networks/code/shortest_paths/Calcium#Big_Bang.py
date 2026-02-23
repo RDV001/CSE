@@ -1,0 +1,1 @@
+[["Calcium", "Beryllium", "Big_Bang"], ["Calcium", "Phase_%28matter%29", "Big_Bang"]]

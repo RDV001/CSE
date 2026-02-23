@@ -1,0 +1,1 @@
+[["North_America", "Florida", "President_of_the_United_States"], ["North_America", "Panama_Canal", "President_of_the_United_States"], ["North_America", "Puerto_Rico", "President_of_the_United_States"], ["North_America", "United_States", "President_of_the_United_States"], ["North_America", "Washington%2C_D.C.", "President_of_the_United_States"]]

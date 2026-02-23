@@ -1,0 +1,1 @@
+[["Nintendo", "London", "Queen_%28band%29", "Kurt_Cobain"], ["Nintendo", "Mario", "Elvis_Presley", "Kurt_Cobain"], ["Nintendo", "United_States", "Elvis_Presley", "Kurt_Cobain"], ["Nintendo", "Seattle%2C_Washington", "Nirvana_%28band%29", "Kurt_Cobain"]]

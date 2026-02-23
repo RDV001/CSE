@@ -1,0 +1,1 @@
+[["Nelson_Mandela", "Nobel_Peace_Prize", "Alfred_Nobel", "Nobelium"]]

@@ -1,0 +1,1 @@
+[["Hurricane_John_%282006%29", "United_States", "Coal", "Barium"]]

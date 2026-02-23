@@ -1,0 +1,1 @@
+[["Great_Auk", "17th_century", "1st_century", "Mount_Vesuvius"], ["Great_Auk", "19th_century", "1st_century", "Mount_Vesuvius"], ["Great_Auk", "5th_century", "1st_century", "Mount_Vesuvius"], ["Great_Auk", "8th_century", "1st_century", "Mount_Vesuvius"], ["Great_Auk", "Iceland", "Volcano", "Mount_Vesuvius"]]

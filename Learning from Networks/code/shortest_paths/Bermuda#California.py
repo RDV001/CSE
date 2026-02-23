@@ -1,0 +1,1 @@
+[["Bermuda", "Elizabeth_II_of_the_United_Kingdom", "California"], ["Bermuda", "Olympic_Games", "California"], ["Bermuda", "Spain", "California"], ["Bermuda", "Time_zone", "California"], ["Bermuda", "United_States", "California"]]

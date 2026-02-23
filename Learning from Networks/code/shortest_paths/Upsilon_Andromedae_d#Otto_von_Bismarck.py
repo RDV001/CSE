@@ -1,0 +1,1 @@
+[["Upsilon_Andromedae_d", "Ammonia", "Germany", "Otto_von_Bismarck"], ["Upsilon_Andromedae_d", "Water", "Germany", "Otto_von_Bismarck"], ["Upsilon_Andromedae_d", "Day", "19th_century", "Otto_von_Bismarck"]]

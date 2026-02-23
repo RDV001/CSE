@@ -1,0 +1,1 @@
+[["Pythagoras", "Italy", "Latin", "Split_infinitive"], ["Pythagoras", "Jew", "Latin", "Split_infinitive"], ["Pythagoras", "Mathematics", "Latin", "Split_infinitive"], ["Pythagoras", "Plato", "Latin", "Split_infinitive"], ["Pythagoras", "Science", "Latin", "Split_infinitive"]]

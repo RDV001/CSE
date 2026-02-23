@@ -1,0 +1,1 @@
+[["Deity", "Atheism", "Astronomy", "Archaeoastronomy", "Meteor_shower"], ["Deity", "Islam", "Astronomy", "Archaeoastronomy", "Meteor_shower"], ["Deity", "Hinduism", "Mahabharata", "Archaeoastronomy", "Meteor_shower"], ["Deity", "Hinduism", "Ramayana", "Archaeoastronomy", "Meteor_shower"]]

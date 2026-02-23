@@ -1,0 +1,1 @@
+[["Therizinosaurus", "Dinosaur", "Heat", "Hippocrates"], ["Therizinosaurus", "Reptile", "Heat", "Hippocrates"], ["Therizinosaurus", "Reptile", "Food", "Hippocrates"]]

@@ -1,0 +1,1 @@
+[["Wildebeest", "Africa", "Asia", "Confucianism"], ["Wildebeest", "Hyena", "Asia", "Confucianism"], ["Wildebeest", "Africa", "China", "Confucianism"], ["Wildebeest", "Mammal", "China", "Confucianism"], ["Wildebeest", "Africa", "Culture", "Confucianism"], ["Wildebeest", "Dutch_language", "Culture", "Confucianism"], ["Wildebeest", "Dutch_language", "Indonesia", "Confucianism"]]

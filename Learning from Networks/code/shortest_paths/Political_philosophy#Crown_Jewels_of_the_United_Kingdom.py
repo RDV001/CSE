@@ -1,0 +1,1 @@
+[["Political_philosophy", "Law", "John_of_England", "Crown_Jewels_of_the_United_Kingdom"], ["Political_philosophy", "Oligarchy", "John_of_England", "Crown_Jewels_of_the_United_Kingdom"]]

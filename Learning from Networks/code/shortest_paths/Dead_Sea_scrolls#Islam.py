@@ -1,0 +1,1 @@
+[["Dead_Sea_scrolls", "Christianity", "Islam"], ["Dead_Sea_scrolls", "Dead_Sea", "Islam"], ["Dead_Sea_scrolls", "Egypt", "Islam"], ["Dead_Sea_scrolls", "Hebrew_language", "Islam"], ["Dead_Sea_scrolls", "Jesus", "Islam"], ["Dead_Sea_scrolls", "Spain", "Islam"]]

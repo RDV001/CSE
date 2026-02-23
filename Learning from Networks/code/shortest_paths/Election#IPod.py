@@ -1,0 +1,1 @@
+[["Election", "Noam_Chomsky", "Mass_media", "IPod"], ["Election", "President_of_the_United_States", "Mass_media", "IPod"], ["Election", "Russia", "Mass_media", "IPod"], ["Election", "United_States", "Advertising", "IPod"]]

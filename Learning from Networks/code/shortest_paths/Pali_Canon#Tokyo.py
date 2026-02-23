@@ -1,0 +1,1 @@
+[["Pali_Canon", "Sri_Lanka", "2004_Indian_Ocean_earthquake", "Tokyo"], ["Pali_Canon", "Sri_Lanka", "Football_%28soccer%29", "Tokyo"], ["Pali_Canon", "Sri_Lanka", "Japan", "Tokyo"], ["Pali_Canon", "Sri_Lanka", "Sri_Lankan_Civil_War", "Tokyo"], ["Pali_Canon", "Sri_Lanka", "Time_zone", "Tokyo"]]

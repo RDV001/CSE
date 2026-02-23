@@ -1,0 +1,1 @@
+[["Mount_St._Helens", "1980_eruption_of_Mount_St._Helens", "Moon", "Space_station"], ["Mount_St._Helens", "United_States", "Moon", "Space_station"], ["Mount_St._Helens", "Volcano", "Moon", "Space_station"]]

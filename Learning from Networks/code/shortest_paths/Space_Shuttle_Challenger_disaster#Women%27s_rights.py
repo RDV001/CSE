@@ -1,0 +1,1 @@
+[["Space_Shuttle_Challenger_disaster", "President_of_the_United_States", "Human_rights", "Women%27s_rights"], ["Space_Shuttle_Challenger_disaster", "Ronald_Reagan", "Human_rights", "Women%27s_rights"], ["Space_Shuttle_Challenger_disaster", "Ronald_Reagan", "Civil_rights", "Women%27s_rights"]]

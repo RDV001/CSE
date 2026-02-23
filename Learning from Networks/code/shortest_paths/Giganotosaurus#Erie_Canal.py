@@ -1,0 +1,1 @@
+[["Giganotosaurus", "Argentina", "United_States", "Erie_Canal"], ["Giganotosaurus", "Dinosaur", "United_States", "Erie_Canal"], ["Giganotosaurus", "Herbivore", "United_States", "Erie_Canal"], ["Giganotosaurus", "Dinosaur", "New_York_City", "Erie_Canal"], ["Giganotosaurus", "Tyrannosaurus", "New_York_City", "Erie_Canal"]]

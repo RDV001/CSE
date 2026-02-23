@@ -1,0 +1,1 @@
+[["Mysticism", "Existentialism", "The_Brothers_Karamazov", "Police"], ["Mysticism", "Gottfried_Leibniz", "Law", "Police"], ["Mysticism", "Mediterranean_Sea", "Algeria", "Police"], ["Mysticism", "Plato", "Government", "Police"]]

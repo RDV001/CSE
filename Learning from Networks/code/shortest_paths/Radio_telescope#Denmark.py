@@ -1,0 +1,1 @@
+[["Radio_telescope", "Europe", "Denmark"], ["Radio_telescope", "Germany", "Denmark"], ["Radio_telescope", "Russia", "Denmark"], ["Radio_telescope", "World_War_II", "Denmark"]]

@@ -1,0 +1,1 @@
+[["Crystal", "Light", "18th_century", "Emanuel_Swedenborg"]]

@@ -1,0 +1,1 @@
+[["Fine_art", "Aristotle", "Geography", "Vegetation"], ["Fine_art", "Painting", "Geography", "Vegetation"]]

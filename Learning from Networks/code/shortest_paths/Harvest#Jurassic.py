@@ -1,0 +1,1 @@
+[["Harvest", "Agriculture", "Global_warming", "Jurassic"]]

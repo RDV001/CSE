@@ -1,0 +1,1 @@
+[["Football", "Ancient_Greece", "Ancient_Egypt", "Anemia"], ["Football", "China", "Ancient_Egypt", "Anemia"], ["Football", "Asia", "Gaza_Strip", "Anemia"], ["Football", "Theodore_Roosevelt", "Malaria", "Anemia"]]

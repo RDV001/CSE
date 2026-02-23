@@ -1,0 +1,1 @@
+[["Bernard_Hinault", "France", "Australia", "Platypus", "Humour"], ["Bernard_Hinault", "Lance_Armstrong", "Brain", "Cattle", "Humour"]]

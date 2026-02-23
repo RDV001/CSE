@@ -1,0 +1,1 @@
+[["Pollution", "Cold_War", "Berlin_Wall"]]

@@ -1,0 +1,1 @@
+[["ASCII", "Computer", "Trigonometry"]]

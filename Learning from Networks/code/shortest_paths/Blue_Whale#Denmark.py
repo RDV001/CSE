@@ -1,0 +1,1 @@
+[["Blue_Whale", "Faroe_Islands", "Denmark"], ["Blue_Whale", "Greenland", "Denmark"], ["Blue_Whale", "Jan_Mayen", "Denmark"], ["Blue_Whale", "Norway", "Denmark"], ["Blue_Whale", "Scotland", "Denmark"], ["Blue_Whale", "United_States", "Denmark"], ["Blue_Whale", "World_War_II", "Denmark"]]

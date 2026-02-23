@@ -1,0 +1,1 @@
+[["Cosmic_microwave_background_radiation", "Princeton_University", "Grover_Cleveland", "Chester_A._Arthur"]]

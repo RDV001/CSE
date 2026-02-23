@@ -1,0 +1,1 @@
+[["Anglo-Saxon_literature", "Geography", "Christopher_Columbus", "Columbus%2C_Ohio"], ["Anglo-Saxon_literature", "Middle_Ages", "Christopher_Columbus", "Columbus%2C_Ohio"], ["Anglo-Saxon_literature", "Sweden", "U.S._state", "Columbus%2C_Ohio"]]

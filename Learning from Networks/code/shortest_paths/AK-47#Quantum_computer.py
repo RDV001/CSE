@@ -1,0 +1,1 @@
+[["AK-47", "United_Kingdom", "Computer", "Quantum_computer"]]

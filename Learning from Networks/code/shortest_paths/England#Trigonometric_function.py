@@ -1,0 +1,1 @@
+[["England", "Football", "Sphere", "Trigonometric_function"], ["England", "Rain", "Sphere", "Trigonometric_function"], ["England", "Ptolemy", "Map_projection", "Trigonometric_function"]]

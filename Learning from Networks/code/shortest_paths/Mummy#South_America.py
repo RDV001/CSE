@@ -1,0 +1,1 @@
+[["Mummy", "Andes", "South_America"], ["Mummy", "Glacier", "South_America"], ["Mummy", "Peru", "South_America"], ["Mummy", "Sweden", "South_America"]]

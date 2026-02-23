@@ -1,0 +1,1 @@
+[["Aberdeen", "Europe", "Ancient_Greece", "Bread"], ["Aberdeen", "European_Union", "Ancient_Greece", "Bread"], ["Aberdeen", "Great_Britain", "Ancient_Greece", "Bread"], ["Aberdeen", "Netherlands", "Cheese", "Bread"], ["Aberdeen", "Orkney", "Cheese", "Bread"], ["Aberdeen", "Orkney", "Beer", "Bread"], ["Aberdeen", "Zimbabwe", "Butter", "Bread"]]

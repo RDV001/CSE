@@ -1,0 +1,1 @@
+[["Wild_cat", "China", "Sun_Yat-sen", "Alexander_Hamilton"], ["Wild_cat", "England", "John_Locke", "Alexander_Hamilton"], ["Wild_cat", "Europe", "18th_century", "Alexander_Hamilton"], ["Wild_cat", "Spain", "18th_century", "Alexander_Hamilton"], ["Wild_cat", "India", "United_States_dollar", "Alexander_Hamilton"]]

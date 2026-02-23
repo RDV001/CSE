@@ -1,0 +1,1 @@
+[["Magnetism", "Symmetry", "Thomas_Jefferson", "Palladian_architecture", "Holkham_Hall"]]

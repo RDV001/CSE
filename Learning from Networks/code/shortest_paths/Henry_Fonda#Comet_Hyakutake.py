@@ -1,0 +1,1 @@
+[["Henry_Fonda", "Actor", "Charles_II_of_England", "Comet", "Comet_Hyakutake"], ["Henry_Fonda", "Nazism", "Swastika", "Comet", "Comet_Hyakutake"]]

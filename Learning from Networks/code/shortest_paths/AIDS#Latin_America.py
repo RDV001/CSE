@@ -1,0 +1,1 @@
+[["AIDS", "Africa", "Latin_America"], ["AIDS", "Sub-Saharan_Africa", "Latin_America"], ["AIDS", "United_States", "Latin_America"]]

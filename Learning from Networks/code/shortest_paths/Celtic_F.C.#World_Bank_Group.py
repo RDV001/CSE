@@ -1,0 +1,1 @@
+[["Celtic_F.C.", "Edinburgh", "France", "World_Bank_Group"], ["Celtic_F.C.", "Glasgow", "France", "World_Bank_Group"], ["Celtic_F.C.", "Luxembourg", "France", "World_Bank_Group"]]

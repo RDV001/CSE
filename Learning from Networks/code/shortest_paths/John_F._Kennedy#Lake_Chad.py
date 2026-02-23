@@ -1,0 +1,1 @@
+[["John_F._Kennedy", "Turkey", "Cameroon", "Lake_Chad"], ["John_F._Kennedy", "United_States", "Cameroon", "Lake_Chad"], ["John_F._Kennedy", "Turkey", "Central_African_Republic", "Lake_Chad"], ["John_F._Kennedy", "Turkey", "Chad", "Lake_Chad"], ["John_F._Kennedy", "Turkey", "Niger", "Lake_Chad"]]

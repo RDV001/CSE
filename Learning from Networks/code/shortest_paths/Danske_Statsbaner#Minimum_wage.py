@@ -1,0 +1,1 @@
+[["Danske_Statsbaner", "1973_oil_crisis", "Market", "Minimum_wage"], ["Danske_Statsbaner", "Employment", "Law", "Minimum_wage"], ["Danske_Statsbaner", "Scotland", "Tony_Blair", "Minimum_wage"], ["Danske_Statsbaner", "World_War_II", "Franklin_D._Roosevelt", "Minimum_wage"]]

@@ -1,0 +1,1 @@
+[["Arctic_Circle", "Finland", "Roman_Catholic_Church", "Michelangelo"], ["Arctic_Circle", "Iceland", "Roman_Catholic_Church", "Michelangelo"], ["Arctic_Circle", "Norway", "Roman_Catholic_Church", "Michelangelo"]]

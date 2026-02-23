@@ -1,0 +1,1 @@
+[["Last_Supper", "Archaeology", "Geology", "Sulfur"], ["Last_Supper", "Archaeology", "Iron", "Sulfur"], ["Last_Supper", "God", "Volcano", "Sulfur"], ["Last_Supper", "War", "Petroleum", "Sulfur"], ["Last_Supper", "Wine", "Alcohol", "Sulfur"], ["Last_Supper", "Wine", "Argentina", "Sulfur"]]

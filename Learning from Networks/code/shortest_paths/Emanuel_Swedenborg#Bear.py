@@ -1,0 +1,1 @@
+[["Emanuel_Swedenborg", "Carl_Jung", "King_Arthur", "Bear"], ["Emanuel_Swedenborg", "Carolus_Linnaeus", "Ecology", "Bear"]]

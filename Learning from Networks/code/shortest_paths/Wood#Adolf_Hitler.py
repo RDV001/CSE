@@ -1,0 +1,1 @@
+[["Wood", "Cell_%28biology%29", "James_D._Watson", "Adolf_Hitler"], ["Wood", "North_America", "Spain", "Adolf_Hitler"], ["Wood", "Sculpture", "Warsaw", "Adolf_Hitler"], ["Wood", "Water", "Czech_Republic", "Adolf_Hitler"], ["Wood", "Water", "Germany", "Adolf_Hitler"], ["Wood", "Water", "Paris", "Adolf_Hitler"]]

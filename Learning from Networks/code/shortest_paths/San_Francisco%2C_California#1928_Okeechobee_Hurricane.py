@@ -1,0 +1,1 @@
+[["San_Francisco%2C_California", "Amtrak", "Hurricane_Katrina", "1928_Okeechobee_Hurricane"], ["San_Francisco%2C_California", "U.S._state", "Hurricane_Katrina", "1928_Okeechobee_Hurricane"], ["San_Francisco%2C_California", "Amtrak", "Tropical_cyclone", "1928_Okeechobee_Hurricane"], ["San_Francisco%2C_California", "Pacific_Ocean", "Tropical_cyclone", "1928_Okeechobee_Hurricane"]]

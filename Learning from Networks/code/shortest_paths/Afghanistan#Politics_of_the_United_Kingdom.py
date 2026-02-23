@@ -1,0 +1,1 @@
+[["Afghanistan", "India", "Indian_independence_movement", "Politics_of_the_United_Kingdom"], ["Afghanistan", "India", "Westminster_System", "Politics_of_the_United_Kingdom"]]

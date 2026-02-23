@@ -1,0 +1,1 @@
+[["Cairo", "Germany", "Canada"], ["Cairo", "Israel", "Canada"], ["Cairo", "Nobel_Peace_Prize", "Canada"], ["Cairo", "Paris", "Canada"], ["Cairo", "Time_zone", "Canada"], ["Cairo", "United_Nations", "Canada"], ["Cairo", "United_States", "Canada"]]

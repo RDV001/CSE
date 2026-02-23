@@ -1,0 +1,1 @@
+[["Pinworm", "Animal", "Bacteria", "Petroleum"], ["Pinworm", "Scientific_classification", "Bacteria", "Petroleum"], ["Pinworm", "Animal", "Carbon_dioxide", "Petroleum"], ["Pinworm", "Animal", "Energy", "Petroleum"], ["Pinworm", "Animal", "Plant", "Petroleum"], ["Pinworm", "Scientific_classification", "Plant", "Petroleum"], ["Pinworm", "Animal", "Sunlight", "Petroleum"]]

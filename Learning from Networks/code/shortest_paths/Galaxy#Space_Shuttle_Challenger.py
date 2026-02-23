@@ -1,0 +1,1 @@
+[["Galaxy", "Hubble_Space_Telescope", "Space_Shuttle_Challenger_disaster", "Space_Shuttle_Challenger"], ["Galaxy", "Hubble_Space_Telescope", "Space_Shuttle_Columbia", "Space_Shuttle_Challenger"], ["Galaxy", "Hubble_Space_Telescope", "Space_Shuttle_Columbia_disaster", "Space_Shuttle_Challenger"]]

@@ -1,0 +1,1 @@
+[["Belgium", "Petroleum", "Earth"], ["Belgium", "Time_zone", "Earth"], ["Belgium", "United_Kingdom", "Earth"]]

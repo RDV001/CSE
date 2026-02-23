@@ -1,0 +1,1 @@
+[["Trojan_War", "Munich", "Kiev", "Andriyivskyy_Descent"], ["Trojan_War", "Warsaw", "Kiev", "Andriyivskyy_Descent"]]

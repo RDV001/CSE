@@ -1,0 +1,1 @@
+[["Manorialism", "France", "South_America", "Southern_United_States"], ["Manorialism", "France", "United_States", "Southern_United_States"], ["Manorialism", "Roman_Empire", "United_States", "Southern_United_States"]]

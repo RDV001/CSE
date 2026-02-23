@@ -1,0 +1,1 @@
+[["Machu_Picchu", "Nepal", "Germany", "Franz_Kafka", "Social_anxiety"], ["Machu_Picchu", "Park", "Germany", "Franz_Kafka", "Social_anxiety"], ["Machu_Picchu", "South_America", "Germany", "Franz_Kafka", "Social_anxiety"], ["Machu_Picchu", "World_Heritage_Site", "Germany", "Franz_Kafka", "Social_anxiety"]]

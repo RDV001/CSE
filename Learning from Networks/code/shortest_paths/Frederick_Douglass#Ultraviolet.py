@@ -1,0 +1,1 @@
+[["Frederick_Douglass", "British_Isles", "Permian", "Ultraviolet"], ["Frederick_Douglass", "Ireland", "DNA", "Ultraviolet"], ["Frederick_Douglass", "United_States_Constitution", "Radio", "Ultraviolet"]]

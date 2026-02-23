@@ -1,0 +1,1 @@
+[["Dominican_Republic", "English_language", "William_Shakespeare"], ["Dominican_Republic", "New_York_City", "William_Shakespeare"]]

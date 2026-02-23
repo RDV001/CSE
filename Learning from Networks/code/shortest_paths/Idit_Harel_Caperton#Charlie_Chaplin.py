@@ -1,0 +1,1 @@
+[["Idit_Harel_Caperton", "Jew", "Adolf_Hitler", "Charlie_Chaplin"], ["Idit_Harel_Caperton", "The_Holocaust", "Adolf_Hitler", "Charlie_Chaplin"], ["Idit_Harel_Caperton", "United_States", "Film", "Charlie_Chaplin"]]

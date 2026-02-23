@@ -1,0 +1,1 @@
+[["Ammonia", "Germany", "Holy_Roman_Empire"], ["Ammonia", "Middle_Ages", "Holy_Roman_Empire"], ["Ammonia", "United_States", "Holy_Roman_Empire"]]

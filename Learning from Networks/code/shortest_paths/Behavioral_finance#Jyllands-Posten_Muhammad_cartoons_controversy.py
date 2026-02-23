@@ -1,0 +1,1 @@
+[["Behavioral_finance", "Adam_Smith", "Edinburgh", "Mosque", "Jyllands-Posten_Muhammad_cartoons_controversy"], ["Behavioral_finance", "Adam_Smith", "Glasgow", "Mosque", "Jyllands-Posten_Muhammad_cartoons_controversy"], ["Behavioral_finance", "Adam_Smith", "Political_philosophy", "Mosque", "Jyllands-Posten_Muhammad_cartoons_controversy"]]

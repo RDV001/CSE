@@ -1,0 +1,1 @@
+[["Mongol_Empire", "Christopher_Columbus", "Lisbon"], ["Mongol_Empire", "Europe", "Lisbon"]]

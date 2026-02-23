@@ -1,0 +1,1 @@
+[["Western_Sahara", "European_Union", "Condoleezza_Rice"]]

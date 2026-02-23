@@ -1,0 +1,1 @@
+[["Hydrochloric_acid", "Water", "Colorado_River", "Hoover_Dam"], ["Hydrochloric_acid", "Water", "Dam", "Hoover_Dam"], ["Hydrochloric_acid", "Water", "Three_Gorges_Dam", "Hoover_Dam"]]

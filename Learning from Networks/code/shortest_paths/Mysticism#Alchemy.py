@@ -1,0 +1,1 @@
+[["Mysticism", "Astrology", "Alchemy"], ["Mysticism", "Carl_Jung", "Alchemy"], ["Mysticism", "Islam", "Alchemy"], ["Mysticism", "Pythagoras", "Alchemy"], ["Mysticism", "Taoism", "Alchemy"]]

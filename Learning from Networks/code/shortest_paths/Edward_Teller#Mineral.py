@@ -1,0 +1,1 @@
+[["Edward_Teller", "Uranium", "Mineral"]]

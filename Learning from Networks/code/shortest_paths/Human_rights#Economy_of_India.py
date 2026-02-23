@@ -1,0 +1,1 @@
+[["Human_rights", "India", "Bangalore", "Economy_of_India"], ["Human_rights", "India", "Kargil_War", "Economy_of_India"], ["Human_rights", "India", "Kolkata", "Economy_of_India"], ["Human_rights", "India", "Mumbai", "Economy_of_India"], ["Human_rights", "Poverty", "Mumbai", "Economy_of_India"]]

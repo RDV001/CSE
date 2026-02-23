@@ -1,0 +1,1 @@
+[["Poland", "Art", "Mona_Lisa", "Britney_Spears"]]

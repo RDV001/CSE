@@ -1,0 +1,1 @@
+[["Sermon_on_the_Mount", "Augustine_of_Hippo", "John_Calvin", "Calvin_and_Hobbes", "Krazy_Kat"], ["Sermon_on_the_Mount", "Christianity", "John_Calvin", "Calvin_and_Hobbes", "Krazy_Kat"], ["Sermon_on_the_Mount", "Jesus", "Literature", "E._E._Cummings", "Krazy_Kat"]]

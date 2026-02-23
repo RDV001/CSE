@@ -1,0 +1,1 @@
+[["Weapon", "Ancient_Greece", "19th_century", "Dmitri_Mendeleev"], ["Weapon", "Ancient_Rome", "19th_century", "Dmitri_Mendeleev"], ["Weapon", "Psychology", "19th_century", "Dmitri_Mendeleev"], ["Weapon", "Ship", "19th_century", "Dmitri_Mendeleev"]]

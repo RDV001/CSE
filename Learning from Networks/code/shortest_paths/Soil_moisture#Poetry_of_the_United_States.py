@@ -1,0 +1,1 @@
+[["Soil_moisture", "Earth%27s_atmosphere", "United_States", "Poetry_of_the_United_States"], ["Soil_moisture", "Rain", "United_States", "Poetry_of_the_United_States"], ["Soil_moisture", "Water", "United_States", "Poetry_of_the_United_States"]]

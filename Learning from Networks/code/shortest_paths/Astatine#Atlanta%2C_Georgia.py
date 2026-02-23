@@ -1,0 +1,1 @@
+[["Astatine", "Isaac_Asimov", "United_States", "Atlanta%2C_Georgia"], ["Astatine", "Radon", "United_States", "Atlanta%2C_Georgia"], ["Astatine", "Uranium", "Manchester", "Atlanta%2C_Georgia"]]

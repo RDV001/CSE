@@ -1,0 +1,1 @@
+[["Mammoth", "Africa", "Sorghum", "Distilled_beverage"], ["Mammoth", "Switzerland", "League_of_Nations", "Distilled_beverage"], ["Mammoth", "World_War_II", "League_of_Nations", "Distilled_beverage"]]

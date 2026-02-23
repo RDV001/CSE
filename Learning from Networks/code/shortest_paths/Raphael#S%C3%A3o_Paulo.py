@@ -1,0 +1,1 @@
+[["Raphael", "Paris", "S%C3%A3o_Paulo"]]

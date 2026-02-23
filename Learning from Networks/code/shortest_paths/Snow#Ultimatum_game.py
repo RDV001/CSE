@@ -1,0 +1,1 @@
+[["Snow", "Human", "Economics", "Game_theory", "Ultimatum_game"], ["Snow", "Human", "Supply_and_demand", "Game_theory", "Ultimatum_game"], ["Snow", "United_States", "War", "Game_theory", "Ultimatum_game"]]

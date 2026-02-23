@@ -1,0 +1,1 @@
+[["Famine", "Money", "Coal"], ["Famine", "Niger", "Coal"], ["Famine", "United_States", "Coal"], ["Famine", "Volcano", "Coal"]]

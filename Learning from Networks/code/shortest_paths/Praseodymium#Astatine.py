@@ -1,0 +1,1 @@
+[["Praseodymium", "List_of_elements_by_name", "Astatine"], ["Praseodymium", "Periodic_table", "Astatine"]]

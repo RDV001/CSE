@@ -1,0 +1,1 @@
+[["History_of_South_Africa_in_the_apartheid_era", "Ronald_Reagan", "Pneumonia", "Ascariasis"], ["History_of_South_Africa_in_the_apartheid_era", "World_War_I", "Pneumonia", "Ascariasis"]]

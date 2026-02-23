@@ -1,0 +1,1 @@
+[["Pyongyang", "Automobile", "Energy", "Nuclear_fission"], ["Pyongyang", "North_Korea", "Nuclear_weapon", "Nuclear_fission"]]

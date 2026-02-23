@@ -1,0 +1,1 @@
+[["Arnold_Schwarzenegger", "Minnesota", "Buddhism", "Indo-Greek_Kingdom", "Zhang_Qian"], ["Arnold_Schwarzenegger", "United_States", "Buddhism", "Indo-Greek_Kingdom", "Zhang_Qian"], ["Arnold_Schwarzenegger", "United_Kingdom", "Pakistan", "Indo-Greek_Kingdom", "Zhang_Qian"]]

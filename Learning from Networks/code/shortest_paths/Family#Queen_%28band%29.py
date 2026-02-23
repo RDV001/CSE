@@ -1,0 +1,1 @@
+[["Family", "Anthropology", "United_Kingdom", "Queen_%28band%29"], ["Family", "China", "United_Kingdom", "Queen_%28band%29"], ["Family", "Society", "United_Kingdom", "Queen_%28band%29"], ["Family", "United_States", "United_Kingdom", "Queen_%28band%29"], ["Family", "Capitalism", "England", "Queen_%28band%29"], ["Family", "United_States", "Elvis_Presley", "Queen_%28band%29"]]

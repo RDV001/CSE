@@ -1,0 +1,1 @@
+[["Fire", "Energy", "Tropical_cyclone", "2005_Atlantic_hurricane_season", "Tropical_Storm_Harvey_%282005%29"], ["Fire", "Natural_gas", "Tropical_cyclone", "2005_Atlantic_hurricane_season", "Tropical_Storm_Harvey_%282005%29"], ["Fire", "Natural_gas", "Hurricane_Katrina", "2005_Atlantic_hurricane_season", "Tropical_Storm_Harvey_%282005%29"]]

@@ -1,0 +1,1 @@
+[["Drought", "Meteorology", "Benjamin_Franklin", "Walt_Disney", "Krazy_Kat"]]

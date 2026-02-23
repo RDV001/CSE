@@ -1,0 +1,1 @@
+[["Temple_of_Artemis", "Moon", "Earth", "Tornado"], ["Temple_of_Artemis", "Turkey", "Bangladesh", "Tornado"]]

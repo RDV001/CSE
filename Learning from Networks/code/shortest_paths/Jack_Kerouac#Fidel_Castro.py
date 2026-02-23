@@ -1,0 +1,1 @@
+[["Jack_Kerouac", "Cold_War", "Fidel_Castro"]]

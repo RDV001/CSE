@@ -1,0 +1,1 @@
+[["Sri_Lankan_Civil_War", "Canada", "Hurricane_Katrina", "Natural_disaster"], ["Sri_Lankan_Civil_War", "Condoleezza_Rice", "Hurricane_Katrina", "Natural_disaster"], ["Sri_Lankan_Civil_War", "Norway", "Dublin", "Natural_disaster"], ["Sri_Lankan_Civil_War", "Sri_Lanka", "2004_Indian_Ocean_earthquake", "Natural_disaster"]]

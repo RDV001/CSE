@@ -1,0 +1,1 @@
+[["Vanuatu", "Europe", "Carnivore", "Tiger"], ["Vanuatu", "Petroleum", "Marco_Polo", "Tiger"], ["Vanuatu", "Petroleum", "Nazi_Germany", "Tiger"], ["Vanuatu", "World_War_II", "Nazi_Germany", "Tiger"], ["Vanuatu", "United_Kingdom", "Lion", "Tiger"]]

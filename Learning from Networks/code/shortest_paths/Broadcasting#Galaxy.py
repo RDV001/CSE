@@ -1,0 +1,1 @@
+[["Broadcasting", "Compact_Disc", "Big_Bang", "Galaxy"], ["Broadcasting", "Germany", "Gottfried_Leibniz", "Galaxy"]]

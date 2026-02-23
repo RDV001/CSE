@@ -1,0 +1,1 @@
+[["Tiger_Woods", "Nitrogen", "Alchemy", "Mysticism"], ["Tiger_Woods", "Oxygen", "Alchemy", "Mysticism"], ["Tiger_Woods", "Sweden", "Emanuel_Swedenborg", "Mysticism"], ["Tiger_Woods", "United_States", "Religious_Society_of_Friends", "Mysticism"], ["Tiger_Woods", "United_States", "Walt_Whitman", "Mysticism"]]

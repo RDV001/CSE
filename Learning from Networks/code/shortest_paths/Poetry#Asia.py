@@ -1,0 +1,1 @@
+[["Poetry", "20th_century", "Asia"], ["Poetry", "German_language", "Asia"], ["Poetry", "Spanish_language", "Asia"]]

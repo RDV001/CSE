@@ -1,0 +1,1 @@
+[["Sweden", "English_language", "Gibraltar", "Rock_of_Gibraltar"], ["Sweden", "Europe", "Gibraltar", "Rock_of_Gibraltar"], ["Sweden", "Monarchy", "Gibraltar", "Rock_of_Gibraltar"], ["Sweden", "Spanish_language", "Gibraltar", "Rock_of_Gibraltar"], ["Sweden", "United_States", "Gibraltar", "Rock_of_Gibraltar"], ["Sweden", "World_War_II", "Gibraltar", "Rock_of_Gibraltar"]]

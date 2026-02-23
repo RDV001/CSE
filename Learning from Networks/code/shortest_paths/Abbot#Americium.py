@@ -1,0 +1,1 @@
+[["Abbot", "8th_century", "Iron", "List_of_elements_by_name", "Americium"], ["Abbot", "Charlemagne", "Gold", "List_of_elements_by_name", "Americium"], ["Abbot", "Charlemagne", "Silver", "List_of_elements_by_name", "Americium"], ["Abbot", "Charlemagne", "Gold", "Periodic_table", "Americium"], ["Abbot", "Leicester", "Coal", "Beryllium", "Americium"]]

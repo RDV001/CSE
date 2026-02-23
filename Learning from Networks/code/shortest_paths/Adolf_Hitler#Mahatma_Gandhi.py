@@ -1,0 +1,1 @@
+[["Adolf_Hitler", "British_Empire", "Mahatma_Gandhi"], ["Adolf_Hitler", "India", "Mahatma_Gandhi"], ["Adolf_Hitler", "Nationalism", "Mahatma_Gandhi"], ["Adolf_Hitler", "Winston_Churchill", "Mahatma_Gandhi"]]

@@ -1,0 +1,1 @@
+[["Tiger", "Bear", "Berlin"], ["Tiger", "Nazi_Germany", "Berlin"], ["Tiger", "Soviet_Union", "Berlin"]]

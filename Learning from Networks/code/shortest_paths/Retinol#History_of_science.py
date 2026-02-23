@@ -1,0 +1,1 @@
+[["Retinol", "Alcohol", "Alchemy", "History_of_science"], ["Retinol", "Carrot", "Vitamin_C", "History_of_science"], ["Retinol", "Nutrition", "Vitamin_C", "History_of_science"], ["Retinol", "Nutrition", "Science", "History_of_science"]]

@@ -1,0 +1,1 @@
+[["Los_Angeles%2C_California", "Iran", "Poetry", "Dr._Seuss", "The_Lorax"], ["Los_Angeles%2C_California", "Nicaragua", "Poetry", "Dr._Seuss", "The_Lorax"], ["Los_Angeles%2C_California", "Olympic_Games", "Poetry", "Dr._Seuss", "The_Lorax"]]

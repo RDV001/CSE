@@ -1,0 +1,1 @@
+[["Pound_sterling", "Paris", "Mexico", "Flag_of_Mexico"], ["Pound_sterling", "World_War_I", "Mexico", "Flag_of_Mexico"]]

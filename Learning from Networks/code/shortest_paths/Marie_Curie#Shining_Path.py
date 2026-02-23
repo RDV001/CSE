@@ -1,0 +1,1 @@
+[["Marie_Curie", "France", "South_America", "Shining_Path"], ["Marie_Curie", "Mathematics", "Inca_Empire", "Shining_Path"], ["Marie_Curie", "United_States", "Ecuador", "Shining_Path"], ["Marie_Curie", "United_States", "Peru", "Shining_Path"], ["Marie_Curie", "United_States", "Terrorism", "Shining_Path"]]

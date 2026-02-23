@@ -1,0 +1,1 @@
+[["Yamoussoukro", "Pope_John_Paul_II", "Catholic_social_teaching", "Creationism"], ["Yamoussoukro", "Pope_John_Paul_II", "George_W._Bush", "Creationism"]]

@@ -1,0 +1,1 @@
+[["Khan_Wali_Khan", "Bangladesh", "Time_zone", "Wellington"], ["Khan_Wali_Khan", "Pakistan", "Time_zone", "Wellington"], ["Khan_Wali_Khan", "United_States", "Time_zone", "Wellington"], ["Khan_Wali_Khan", "Muhammad_Ali_Jinnah", "New_Zealand", "Wellington"], ["Khan_Wali_Khan", "World_War_I", "New_Zealand", "Wellington"], ["Khan_Wali_Khan", "United_States", "Oceania", "Wellington"]]

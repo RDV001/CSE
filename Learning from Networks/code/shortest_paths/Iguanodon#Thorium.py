@@ -1,0 +1,1 @@
+[["Iguanodon", "Animal", "Energy", "Thorium"], ["Iguanodon", "Cretaceous", "Calcium", "Thorium"], ["Iguanodon", "Reptile", "Calcium", "Thorium"], ["Iguanodon", "Cretaceous", "Coal", "Thorium"], ["Iguanodon", "Germany", "Coal", "Thorium"], ["Iguanodon", "Mongolia", "Coal", "Thorium"]]

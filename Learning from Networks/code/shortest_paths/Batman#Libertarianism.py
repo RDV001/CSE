@@ -1,0 +1,1 @@
+[["Batman", "Crime", "Adam_Smith", "Libertarianism"], ["Batman", "Crime", "Government", "Libertarianism"], ["Batman", "Scotland", "Government", "Libertarianism"], ["Batman", "Crime", "Politics", "Libertarianism"], ["Batman", "Crime", "Utilitarianism", "Libertarianism"]]

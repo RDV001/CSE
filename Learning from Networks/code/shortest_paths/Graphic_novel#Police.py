@@ -1,0 +1,1 @@
+[["Graphic_novel", "Library", "Police"], ["Graphic_novel", "The_Adventures_of_Tintin", "Police"]]

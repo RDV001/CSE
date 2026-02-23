@@ -1,0 +1,1 @@
+[["BAE_Systems", "F-35_Lightning_II", "Afghanistan"], ["BAE_Systems", "Israel", "Afghanistan"], ["BAE_Systems", "Saudi_Arabia", "Afghanistan"]]

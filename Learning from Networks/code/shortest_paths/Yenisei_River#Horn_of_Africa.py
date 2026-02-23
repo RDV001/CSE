@@ -1,0 +1,1 @@
+[["Yenisei_River", "Global_warming", "Drought", "Horn_of_Africa"], ["Yenisei_River", "Lake_Baikal", "East_Africa", "Horn_of_Africa"], ["Yenisei_River", "River", "Africa", "Horn_of_Africa"], ["Yenisei_River", "Russia", "United_Nations", "Horn_of_Africa"]]

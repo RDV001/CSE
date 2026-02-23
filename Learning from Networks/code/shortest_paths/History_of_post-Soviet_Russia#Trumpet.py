@@ -1,0 +1,1 @@
+[["History_of_post-Soviet_Russia", "Argentina", "Jazz", "Trumpet"], ["History_of_post-Soviet_Russia", "Kosovo", "Jazz", "Trumpet"], ["History_of_post-Soviet_Russia", "Brazil", "Africa", "Trumpet"], ["History_of_post-Soviet_Russia", "Telecommunication", "Africa", "Trumpet"], ["History_of_post-Soviet_Russia", "World_War_I", "Africa", "Trumpet"]]

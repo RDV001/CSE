@@ -1,0 +1,1 @@
+[["Full_moon", "Australia", "Germany", "Stuttgart"], ["Full_moon", "England", "Germany", "Stuttgart"], ["Full_moon", "Johannes_Kepler", "Germany", "Stuttgart"], ["Full_moon", "Sun", "Albert_Einstein", "Stuttgart"]]

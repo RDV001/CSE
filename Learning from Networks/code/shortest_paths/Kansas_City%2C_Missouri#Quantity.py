@@ -1,0 +1,1 @@
+[["Kansas_City%2C_Missouri", "Asia", "Mathematics", "Quantity"], ["Kansas_City%2C_Missouri", "Israel", "Mathematics", "Quantity"], ["Kansas_City%2C_Missouri", "Republic_of_China", "Mathematics", "Quantity"], ["Kansas_City%2C_Missouri", "Time_zone", "Time", "Quantity"]]

@@ -1,0 +1,1 @@
+[["Lawrencium", "Boron", "Agriculture", "Virgil"], ["Lawrencium", "Russia", "Agriculture", "Virgil"], ["Lawrencium", "Color", "Latin", "Virgil"], ["Lawrencium", "Geneva", "Latin", "Virgil"], ["Lawrencium", "Lutetium", "Latin", "Virgil"], ["Lawrencium", "Radon", "Latin", "Virgil"], ["Lawrencium", "Copper", "Ancient_Egypt", "Virgil"]]

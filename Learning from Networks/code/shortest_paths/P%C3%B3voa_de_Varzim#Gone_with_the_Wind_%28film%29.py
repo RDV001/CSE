@@ -1,0 +1,1 @@
+[["P%C3%B3voa_de_Varzim", "United_States", "Atlanta%2C_Georgia", "Gone_with_the_Wind_%28film%29"], ["P%C3%B3voa_de_Varzim", "United_States", "Cinema_of_the_United_States", "Gone_with_the_Wind_%28film%29"], ["P%C3%B3voa_de_Varzim", "United_States", "Southern_United_States", "Gone_with_the_Wind_%28film%29"]]

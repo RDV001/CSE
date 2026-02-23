@@ -1,0 +1,1 @@
+[["Cosmic_microwave_background_radiation", "Soviet_Union", "List_of_countries_by_system_of_government", "Papua_New_Guinea"]]

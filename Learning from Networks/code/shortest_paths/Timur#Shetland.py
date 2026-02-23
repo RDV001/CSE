@@ -1,0 +1,1 @@
+[["Timur", "Afghanistan", "Great_Britain", "Shetland"], ["Timur", "Islam", "Great_Britain", "Shetland"], ["Timur", "Kuwait", "Great_Britain", "Shetland"], ["Timur", "Latin", "Great_Britain", "Shetland"], ["Timur", "Edgar_Allan_Poe", "Scotland", "Shetland"], ["Timur", "Mosque", "Scotland", "Shetland"]]

@@ -1,0 +1,1 @@
+[["Athena", "Greek_mythology", "Sigmund_Freud", "Anschluss"], ["Athena", "Plato", "Karl_Popper", "Anschluss"]]

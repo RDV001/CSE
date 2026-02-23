@@ -1,0 +1,1 @@
+[["Supermarine_Spitfire", "Syria", "Computer", "Microsoft_Windows"], ["Supermarine_Spitfire", "United_Kingdom", "Computer", "Microsoft_Windows"], ["Supermarine_Spitfire", "United_States", "Computer", "Microsoft_Windows"]]

@@ -1,0 +1,1 @@
+[["MINI_%28BMW%29", "Europe", "Greek_mythology", "Leonardo_da_Vinci"], ["MINI_%28BMW%29", "Europe", "Liechtenstein", "Leonardo_da_Vinci"], ["MINI_%28BMW%29", "Europe", "Renaissance", "Leonardo_da_Vinci"]]

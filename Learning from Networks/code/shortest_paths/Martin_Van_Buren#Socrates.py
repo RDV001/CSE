@@ -1,0 +1,1 @@
+[["Martin_Van_Buren", "Baltimore%2C_Maryland", "Greece", "Socrates"], ["Martin_Van_Buren", "Netherlands", "Greece", "Socrates"], ["Martin_Van_Buren", "Slavery", "Greece", "Socrates"], ["Martin_Van_Buren", "Washington%2C_D.C.", "Greece", "Socrates"], ["Martin_Van_Buren", "Slavery", "Ancient_Greece", "Socrates"], ["Martin_Van_Buren", "Slavery", "Plato", "Socrates"]]

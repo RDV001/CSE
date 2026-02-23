@@ -1,0 +1,1 @@
+[["Madrid", "Europe", "San_Marino"], ["Madrid", "Germany", "San_Marino"], ["Madrid", "Serbia", "San_Marino"]]

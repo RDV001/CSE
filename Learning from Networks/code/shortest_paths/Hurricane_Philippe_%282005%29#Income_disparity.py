@@ -1,0 +1,1 @@
+[["Hurricane_Philippe_%282005%29", "Africa", "Poverty", "Income_disparity"]]

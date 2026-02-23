@@ -1,0 +1,1 @@
+[["Mining", "United_States", "West_Virginia"]]

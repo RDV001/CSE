@@ -1,0 +1,1 @@
+[["Yugoslavia", "Albania", "Syria"], ["Yugoslavia", "Croatia", "Syria"], ["Yugoslavia", "Europe", "Syria"], ["Yugoslavia", "Greece", "Syria"], ["Yugoslavia", "Jew", "Syria"], ["Yugoslavia", "Monarchy", "Syria"], ["Yugoslavia", "Montenegro", "Syria"], ["Yugoslavia", "Nationalism", "Syria"], ["Yugoslavia", "Slovenia", "Syria"], ["Yugoslavia", "World_War_II", "Syria"]]

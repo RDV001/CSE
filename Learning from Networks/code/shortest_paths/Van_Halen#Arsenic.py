@@ -1,0 +1,1 @@
+[["Van_Halen", "Mexico", "Birth_control", "Arsenic"], ["Van_Halen", "United_States", "Coal", "Arsenic"]]

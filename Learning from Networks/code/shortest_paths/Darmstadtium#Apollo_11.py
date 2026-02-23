@@ -1,0 +1,1 @@
+[["Darmstadtium", "Germany", "United_States", "Apollo_11"], ["Darmstadtium", "Platinum", "United_States", "Apollo_11"], ["Darmstadtium", "Police", "United_States", "Apollo_11"], ["Darmstadtium", "Radon", "United_States", "Apollo_11"], ["Darmstadtium", "Germany", "Wernher_von_Braun", "Apollo_11"]]

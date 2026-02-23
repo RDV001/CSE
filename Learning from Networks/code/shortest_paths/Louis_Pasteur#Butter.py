@@ -1,0 +1,1 @@
+[["Louis_Pasteur", "Bacteria", "Cheese", "Butter"], ["Louis_Pasteur", "Bacteria", "Fatty_acid", "Butter"], ["Louis_Pasteur", "Bacteria", "Yeast", "Butter"], ["Louis_Pasteur", "Cattle", "Milk", "Butter"], ["Louis_Pasteur", "Chicken", "Zimbabwe", "Butter"], ["Louis_Pasteur", "Europe", "Jersey", "Butter"]]

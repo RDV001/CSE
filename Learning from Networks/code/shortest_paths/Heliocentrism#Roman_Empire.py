@@ -1,0 +1,1 @@
+[["Heliocentrism", "1st_century", "Roman_Empire"], ["Heliocentrism", "Crusades", "Roman_Empire"], ["Heliocentrism", "Latin", "Roman_Empire"], ["Heliocentrism", "Middle_Ages", "Roman_Empire"], ["Heliocentrism", "Ptolemy", "Roman_Empire"], ["Heliocentrism", "Roman_Catholic_Church", "Roman_Empire"], ["Heliocentrism", "Rome", "Roman_Empire"]]

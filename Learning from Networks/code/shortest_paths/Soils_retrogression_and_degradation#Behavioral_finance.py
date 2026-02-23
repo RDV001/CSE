@@ -1,0 +1,1 @@
+[["Soils_retrogression_and_degradation", "Phosphorus", "20th_century", "Fashion", "Behavioral_finance"], ["Soils_retrogression_and_degradation", "Soil", "20th_century", "Fashion", "Behavioral_finance"], ["Soils_retrogression_and_degradation", "Water", "London", "Fashion", "Behavioral_finance"]]

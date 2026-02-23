@@ -1,0 +1,1 @@
+[["Laika", "Spain", "Africa", "Praia"], ["Laika", "United_Nations", "Africa", "Praia"], ["Laika", "Spain", "Atlantic_Ocean", "Praia"], ["Laika", "United_Kingdom", "Atlantic_Ocean", "Praia"], ["Laika", "United_States", "Atlantic_Ocean", "Praia"]]

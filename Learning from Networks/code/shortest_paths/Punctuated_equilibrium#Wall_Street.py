@@ -1,0 +1,1 @@
+[["Punctuated_equilibrium", "Creationism", "United_States", "Wall_Street"], ["Punctuated_equilibrium", "Earth", "United_States", "Wall_Street"], ["Punctuated_equilibrium", "Evolution", "United_States", "Wall_Street"], ["Punctuated_equilibrium", "Stephen_Jay_Gould", "United_States", "Wall_Street"], ["Punctuated_equilibrium", "Stephen_Jay_Gould", "New_York_City", "Wall_Street"]]

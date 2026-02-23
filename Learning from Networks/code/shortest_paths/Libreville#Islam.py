@@ -1,0 +1,1 @@
+[["Libreville", "France", "Islam"]]

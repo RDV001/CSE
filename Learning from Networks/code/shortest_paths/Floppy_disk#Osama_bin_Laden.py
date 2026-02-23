@@ -1,0 +1,1 @@
+[["Floppy_disk", "Japan", "George_W._Bush", "Osama_bin_Laden"], ["Floppy_disk", "Macintosh", "George_W._Bush", "Osama_bin_Laden"], ["Floppy_disk", "San_Jose%2C_California", "Mosque", "Osama_bin_Laden"], ["Floppy_disk", "San_Jose%2C_California", "Propaganda", "Osama_bin_Laden"]]

@@ -1,0 +1,1 @@
+[["Microsoft_Windows", "Windows_Vista", "European_Union", "Paris"], ["Microsoft_Windows", "Windows_XP", "European_Union", "Paris"]]

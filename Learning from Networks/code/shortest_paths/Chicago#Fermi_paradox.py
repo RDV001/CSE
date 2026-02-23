@@ -1,0 +1,1 @@
+[["Chicago", "Roman_Catholic_Church", "Astronomy", "Fermi_paradox"], ["Chicago", "University_of_Chicago", "Carl_Sagan", "Fermi_paradox"]]

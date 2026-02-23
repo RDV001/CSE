@@ -1,0 +1,1 @@
+[["Brute_force_attack", "United_States", "Mining", "Quartz"]]

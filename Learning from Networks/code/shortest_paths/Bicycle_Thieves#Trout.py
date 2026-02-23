@@ -1,0 +1,1 @@
+[["Bicycle_Thieves", "Italy", "Argentina", "Trout"], ["Bicycle_Thieves", "United_States", "Argentina", "Trout"], ["Bicycle_Thieves", "Italy", "Slovenia", "Trout"], ["Bicycle_Thieves", "United_States", "Bald_Eagle", "Trout"], ["Bicycle_Thieves", "United_States", "Isle_of_Man", "Trout"], ["Bicycle_Thieves", "United_States", "Rocky_Mountains", "Trout"]]

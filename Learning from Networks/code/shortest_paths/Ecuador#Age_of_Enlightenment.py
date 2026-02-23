@@ -1,0 +1,1 @@
+[["Ecuador", "Government", "Age_of_Enlightenment"], ["Ecuador", "Jew", "Age_of_Enlightenment"], ["Ecuador", "Roman_Catholic_Church", "Age_of_Enlightenment"]]

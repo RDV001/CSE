@@ -1,0 +1,1 @@
+[["Maseru", "Lesotho", "Electricity", "Capacitance"], ["Maseru", "United_Kingdom", "Michael_Faraday", "Capacitance"]]

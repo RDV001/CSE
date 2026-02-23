@@ -1,0 +1,1 @@
+[["Batman", "Crime", "Religion", "Jesus"], ["Batman", "Scotland", "Religion", "Jesus"], ["Batman", "Crime", "Thomas_Aquinas", "Jesus"], ["Batman", "Scotland", "China", "Jesus"], ["Batman", "Scotland", "Elizabeth_II_of_the_United_Kingdom", "Jesus"], ["Batman", "Scotland", "Heraldry", "Jesus"], ["Batman", "Superman", "Judaism", "Jesus"]]

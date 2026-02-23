@@ -1,0 +1,1 @@
+[["Lebanon", "Humanities", "Novel", "Pride_and_Prejudice"], ["Lebanon", "Literature", "Novel", "Pride_and_Prejudice"], ["Lebanon", "United_Kingdom", "Novel", "Pride_and_Prejudice"], ["Lebanon", "United_Kingdom", "Jane_Austen", "Pride_and_Prejudice"], ["Lebanon", "United_Kingdom", "Peak_District", "Pride_and_Prejudice"]]

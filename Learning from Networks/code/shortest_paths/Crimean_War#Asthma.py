@@ -1,0 +1,1 @@
+[["Crimean_War", "Istanbul", "Tobacco", "Asthma"], ["Crimean_War", "Leo_Tolstoy", "Marcel_Proust", "Asthma"], ["Crimean_War", "Vienna", "Wine", "Asthma"]]

@@ -1,0 +1,1 @@
+[["Confucianism", "19th_century", "Manifest_Destiny", "Firearm"], ["Confucianism", "19th_century", "Scramble_for_Africa", "Firearm"], ["Confucianism", "20th_century", "Trench_warfare", "Firearm"], ["Confucianism", "Japan", "Katana", "Firearm"]]

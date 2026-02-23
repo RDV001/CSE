@@ -1,0 +1,1 @@
+[["Jonathan_Wild", "Newspaper", "Istanbul", "Fruit"], ["Jonathan_Wild", "Police", "Hong_Kong", "Fruit"]]

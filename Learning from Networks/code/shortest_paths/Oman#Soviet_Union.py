@@ -1,0 +1,1 @@
+[["Oman", "Afghanistan", "Soviet_Union"], ["Oman", "India", "Soviet_Union"], ["Oman", "Osama_bin_Laden", "Soviet_Union"], ["Oman", "Persian_Empire", "Soviet_Union"], ["Oman", "Yemen", "Soviet_Union"]]

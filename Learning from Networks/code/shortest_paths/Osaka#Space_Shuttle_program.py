@@ -1,0 +1,1 @@
+[["Osaka", "Japan", "International_Space_Station", "Space_Shuttle_program"], ["Osaka", "Japan", "Space_exploration", "Space_Shuttle_program"]]

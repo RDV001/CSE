@@ -1,0 +1,1 @@
+[["Protoceratops", "Animal", "Water", "West_Bank"]]

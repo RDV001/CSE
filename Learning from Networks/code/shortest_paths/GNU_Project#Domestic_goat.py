@@ -1,0 +1,1 @@
+[["GNU_Project", "Richard_Stallman", "English_language", "Zimbabwe", "Domestic_goat"], ["GNU_Project", "Richard_Stallman", "Latin_America", "Civilization", "Domestic_goat"], ["GNU_Project", "Richard_Stallman", "Penguin", "Gal%C3%A1pagos_Islands", "Domestic_goat"]]

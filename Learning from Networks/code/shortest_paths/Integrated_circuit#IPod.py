@@ -1,0 +1,1 @@
+[["Integrated_circuit", "Communication", "Mass_media", "IPod"], ["Integrated_circuit", "Internet", "Advertising", "IPod"], ["Integrated_circuit", "Television", "Advertising", "IPod"]]

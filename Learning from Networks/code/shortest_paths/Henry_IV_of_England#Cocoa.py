@@ -1,0 +1,1 @@
+[["Henry_IV_of_England", "15th_century", "Aztec", "Cocoa"], ["Henry_IV_of_England", "Denmark", "Agriculture", "Cocoa"], ["Henry_IV_of_England", "Sweden", "Agriculture", "Cocoa"], ["Henry_IV_of_England", "Denmark", "Equatorial_Guinea", "Cocoa"], ["Henry_IV_of_England", "Denmark", "Ghana", "Cocoa"], ["Henry_IV_of_England", "Sweden", "Tree", "Cocoa"]]

@@ -1,0 +1,1 @@
+[["Ludwig_Wittgenstein", "John_Maynard_Keynes", "Herbert_Hoover", "Gerald_Ford"], ["Ludwig_Wittgenstein", "Soviet_Union", "Ronald_Reagan", "Gerald_Ford"], ["Ludwig_Wittgenstein", "World_War_I", "John_Pershing", "Gerald_Ford"], ["Ludwig_Wittgenstein", "World_War_I", "President_of_the_United_States", "Gerald_Ford"]]

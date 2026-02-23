@@ -1,0 +1,1 @@
+[["The_Beano", "Dundee", "United_States", "Yellowstone_National_Park"], ["The_Beano", "English_language", "United_States", "Yellowstone_National_Park"], ["The_Beano", "Eric_Clapton", "United_States", "Yellowstone_National_Park"], ["The_Beano", "Scotland", "United_States", "Yellowstone_National_Park"], ["The_Beano", "Dundee", "Volcano", "Yellowstone_National_Park"]]

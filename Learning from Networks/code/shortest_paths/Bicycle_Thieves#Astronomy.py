@@ -1,0 +1,1 @@
+[["Bicycle_Thieves", "Italy", "Roman_Catholic_Church", "Astronomy"], ["Bicycle_Thieves", "Rome", "Roman_Catholic_Church", "Astronomy"], ["Bicycle_Thieves", "Rome", "Islam", "Astronomy"], ["Bicycle_Thieves", "United_States", "Islam", "Astronomy"], ["Bicycle_Thieves", "Rome", "University", "Astronomy"], ["Bicycle_Thieves", "United_States", "Iran", "Astronomy"]]

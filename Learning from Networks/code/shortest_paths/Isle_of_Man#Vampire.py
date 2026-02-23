@@ -1,0 +1,1 @@
+[["Isle_of_Man", "Cheese", "Tuberculosis", "Vampire"], ["Isle_of_Man", "Milk", "Tuberculosis", "Vampire"], ["Isle_of_Man", "English_language", "Esperanto", "Vampire"], ["Isle_of_Man", "Viking", "Silver", "Vampire"], ["Isle_of_Man", "Wales", "Silver", "Vampire"]]

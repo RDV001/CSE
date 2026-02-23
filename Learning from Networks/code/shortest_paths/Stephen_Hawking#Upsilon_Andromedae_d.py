@@ -1,0 +1,1 @@
+[["Stephen_Hawking", "Astronomy", "Extrasolar_planet", "Upsilon_Andromedae", "Upsilon_Andromedae_d"]]

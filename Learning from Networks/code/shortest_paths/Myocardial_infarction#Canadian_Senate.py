@@ -1,0 +1,1 @@
+[["Myocardial_infarction", "Education", "Globalization", "Canadian_Senate"], ["Myocardial_infarction", "Morphine", "Canada", "Canadian_Senate"], ["Myocardial_infarction", "United_States", "Canada", "Canadian_Senate"]]

@@ -1,0 +1,1 @@
+[["Menstrual_cycle", "Moon", "Ireland", "Church_of_Ireland"]]

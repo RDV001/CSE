@@ -1,0 +1,1 @@
+[["Buddhist_art", "Iran", "Jordan"], ["Buddhist_art", "Islam", "Jordan"], ["Buddhist_art", "Middle_East", "Jordan"]]

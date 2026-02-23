@@ -1,0 +1,1 @@
+[["Chromium", "Periodic_table", "Nuclear_power"]]

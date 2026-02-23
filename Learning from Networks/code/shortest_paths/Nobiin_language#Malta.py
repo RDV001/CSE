@@ -1,0 +1,1 @@
+[["Nobiin_language", "Egypt", "Malta"], ["Nobiin_language", "English_language", "Malta"], ["Nobiin_language", "Sudan", "Malta"]]

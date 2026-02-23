@@ -1,0 +1,1 @@
+[["Cambrian", "20th_century", "Computer", "GNOME", "ITunes"], ["Cambrian", "20th_century", "Mass_media", "IPod", "ITunes"], ["Cambrian", "20th_century", "Mass_media", "Podcasting", "ITunes"], ["Cambrian", "Ocean", "Mars_Exploration_Rover", "Macintosh", "ITunes"]]

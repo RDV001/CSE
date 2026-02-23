@@ -1,0 +1,1 @@
+[["Aircraft_carrier", "Airship", "Gibraltar"], ["Aircraft_carrier", "Malta", "Gibraltar"], ["Aircraft_carrier", "Mediterranean_Sea", "Gibraltar"], ["Aircraft_carrier", "Spain", "Gibraltar"], ["Aircraft_carrier", "United_Kingdom", "Gibraltar"], ["Aircraft_carrier", "United_States", "Gibraltar"], ["Aircraft_carrier", "World_War_II", "Gibraltar"]]

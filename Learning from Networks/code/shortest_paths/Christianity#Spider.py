@@ -1,0 +1,1 @@
+[["Christianity", "Atheism", "New_Zealand", "Spider"], ["Christianity", "Oceania", "New_Zealand", "Spider"], ["Christianity", "People%27s_Republic_of_China", "New_Zealand", "Spider"], ["Christianity", "Europe", "Carnivore", "Spider"]]

@@ -1,0 +1,1 @@
+[["Gliese_876_b", "Earth", "Evolution", "Chimpanzee"], ["Gliese_876_b", "Life", "Evolution", "Chimpanzee"], ["Gliese_876_b", "Earth", "Human", "Chimpanzee"], ["Gliese_876_b", "Water", "Human", "Chimpanzee"], ["Gliese_876_b", "Water", "Dolphin", "Chimpanzee"], ["Gliese_876_b", "Water", "Whale", "Chimpanzee"]]

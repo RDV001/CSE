@@ -1,0 +1,1 @@
+[["Cook_Islands", "Government", "Deity", "Fiction"], ["Cook_Islands", "United_Kingdom", "Novel", "Fiction"]]

@@ -1,0 +1,1 @@
+[["Opus_Dei", "Pope_Benedict_XVI", "Middle_Ages", "Abbot"], ["Opus_Dei", "Roman_Catholic_Church", "Middle_Ages", "Abbot"], ["Opus_Dei", "Pope_John_Paul_II", "Thomas_Aquinas", "Abbot"], ["Opus_Dei", "Roman_Catholic_Church", "Thomas_Aquinas", "Abbot"], ["Opus_Dei", "Roman_Catholic_Church", "Gregor_Mendel", "Abbot"]]

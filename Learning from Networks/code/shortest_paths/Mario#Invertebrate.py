@@ -1,0 +1,1 @@
+[["Mario", "Rabbit", "Chordate", "Invertebrate"], ["Mario", "Sonic_the_Hedgehog_%28character%29", "Armadillo", "Invertebrate"], ["Mario", "Sonic_the_Hedgehog_%28character%29", "Drosophila_melanogaster", "Invertebrate"], ["Mario", "United_States", "Antarctica", "Invertebrate"]]

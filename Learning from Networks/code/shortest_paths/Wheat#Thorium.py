@@ -1,0 +1,1 @@
+[["Wheat", "Biofuel", "Coal", "Thorium"], ["Wheat", "Germany", "Coal", "Thorium"], ["Wheat", "United_States", "Coal", "Thorium"], ["Wheat", "Cereal", "Calcium", "Thorium"], ["Wheat", "Fertilizer", "Calcium", "Thorium"], ["Wheat", "Fertilizer", "Uranium", "Thorium"], ["Wheat", "United_States", "Moon", "Thorium"]]

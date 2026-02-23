@@ -1,0 +1,1 @@
+[["God", "China", "Terrorism"], ["God", "United_States", "Terrorism"]]

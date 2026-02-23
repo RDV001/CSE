@@ -1,0 +1,1 @@
+[["Gray_Wolf", "Dog", "Germany", "Max_Planck"], ["Gray_Wolf", "France", "Germany", "Max_Planck"], ["Gray_Wolf", "Italy", "Germany", "Max_Planck"], ["Gray_Wolf", "Rabies", "Germany", "Max_Planck"], ["Gray_Wolf", "Turkey", "Germany", "Max_Planck"], ["Gray_Wolf", "France", "Brussels", "Max_Planck"]]

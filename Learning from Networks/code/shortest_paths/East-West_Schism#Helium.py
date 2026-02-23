@@ -1,0 +1,1 @@
+[["East-West_Schism", "Geography", "Earth%27s_atmosphere", "Helium"], ["East-West_Schism", "Geography", "Geology", "Helium"], ["East-West_Schism", "Geography", "Solar_System", "Helium"], ["East-West_Schism", "Roman_Catholic_Church", "Big_Bang", "Helium"], ["East-West_Schism", "Syria", "Natural_gas", "Helium"]]

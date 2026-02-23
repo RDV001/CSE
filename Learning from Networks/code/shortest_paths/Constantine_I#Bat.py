@@ -1,0 +1,1 @@
+[["Constantine_I", "England", "Isle_of_Wight", "Bat"], ["Constantine_I", "Great_Britain", "Isle_of_Wight", "Bat"], ["Constantine_I", "England", "Winter", "Bat"], ["Constantine_I", "Europe", "Mammal", "Bat"], ["Constantine_I", "Rhine", "Eocene", "Bat"], ["Constantine_I", "Rhine", "Pliocene", "Bat"]]

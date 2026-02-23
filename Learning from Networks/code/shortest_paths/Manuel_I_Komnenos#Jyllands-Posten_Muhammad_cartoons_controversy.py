@@ -1,0 +1,1 @@
+[["Manuel_I_Komnenos", "Spain", "Mosque", "Jyllands-Posten_Muhammad_cartoons_controversy"]]

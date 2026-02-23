@@ -1,0 +1,1 @@
+[["Globalization", "Gold_standard", "United_States_dollar", "Demand_Note"], ["Globalization", "United_Kingdom", "United_States_dollar", "Demand_Note"], ["Globalization", "United_States", "United_States_dollar", "Demand_Note"]]

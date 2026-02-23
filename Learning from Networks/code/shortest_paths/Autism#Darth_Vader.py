@@ -1,0 +1,1 @@
+[["Autism", "Computer", "Toy", "Star_Wars", "Darth_Vader"], ["Autism", "Film", "21st_century", "Star_Wars", "Darth_Vader"], ["Autism", "Germany", "Richard_Wagner", "Star_Wars", "Darth_Vader"], ["Autism", "Film", "Animation", "The_Lion_King", "Darth_Vader"], ["Autism", "United_States", "Cinema_of_the_United_States", "Star_Wars_Episode_IV__A_New_Hope", "Darth_Vader"]]

@@ -1,0 +1,1 @@
+[["Osama_bin_Laden", "Syria", "Water", "Water_purification"], ["Osama_bin_Laden", "World_War_I", "Chlorine", "Water_purification"]]

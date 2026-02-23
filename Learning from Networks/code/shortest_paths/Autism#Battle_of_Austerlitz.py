@@ -1,0 +1,1 @@
+[["Autism", "Germany", "Napoleonic_Wars", "Battle_of_Austerlitz"], ["Autism", "Tony_Blair", "List_of_Prime_Ministers_of_the_United_Kingdom", "Battle_of_Austerlitz"], ["Autism", "Tony_Blair", "William_Pitt_the_Younger", "Battle_of_Austerlitz"]]

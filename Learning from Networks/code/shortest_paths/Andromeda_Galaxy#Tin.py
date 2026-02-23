@@ -1,0 +1,1 @@
+[["Andromeda_Galaxy", "H_II_region", "Atom", "Tin"], ["Andromeda_Galaxy", "Redshift", "Atom", "Tin"], ["Andromeda_Galaxy", "Moon", "Iron", "Tin"], ["Andromeda_Galaxy", "Solar_System", "Iron", "Tin"], ["Andromeda_Galaxy", "Sun", "Iron", "Tin"], ["Andromeda_Galaxy", "Sun", "South_America", "Tin"], ["Andromeda_Galaxy", "Ultraviolet", "Ozone", "Tin"]]

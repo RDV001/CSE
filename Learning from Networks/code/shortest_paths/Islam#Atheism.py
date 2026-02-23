@@ -1,0 +1,1 @@
+[["Islam", "Christianity", "Atheism"], ["Islam", "Religion", "Atheism"], ["Islam", "Turkey", "Atheism"]]

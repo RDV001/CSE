@@ -1,0 +1,1 @@
+[["Gettysburg_Address", "Cuba", "South_America", "Anaconda"], ["Gettysburg_Address", "Democracy", "South_America", "Anaconda"], ["Gettysburg_Address", "Martin_Luther_King%2C_Jr.", "South_America", "Anaconda"], ["Gettysburg_Address", "Slavery", "South_America", "Anaconda"]]

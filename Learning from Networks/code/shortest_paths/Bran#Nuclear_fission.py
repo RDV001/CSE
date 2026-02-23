@@ -1,0 +1,1 @@
+[["Bran", "Protein", "Atom", "Nuclear_fission"], ["Bran", "Water", "Atom", "Nuclear_fission"], ["Bran", "United_States", "Nuclear_power", "Nuclear_fission"], ["Bran", "United_States", "Nuclear_weapon", "Nuclear_fission"], ["Bran", "United_States", "Sweden", "Nuclear_fission"], ["Bran", "Water", "Sweden", "Nuclear_fission"]]

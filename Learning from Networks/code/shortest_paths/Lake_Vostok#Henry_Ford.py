@@ -1,0 +1,1 @@
+[["Lake_Vostok", "Germany", "Automobile", "Henry_Ford"], ["Lake_Vostok", "Japan", "Automobile", "Henry_Ford"], ["Lake_Vostok", "Germany", "Industrial_Revolution", "Henry_Ford"], ["Lake_Vostok", "United_Kingdom", "Industrial_Revolution", "Henry_Ford"], ["Lake_Vostok", "Germany", "Nazism", "Henry_Ford"], ["Lake_Vostok", "United_Kingdom", "Bicycle", "Henry_Ford"]]

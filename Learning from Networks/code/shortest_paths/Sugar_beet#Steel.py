@@ -1,0 +1,1 @@
+[["Sugar_beet", "Poland", "Steel"], ["Sugar_beet", "Republic_of_Ireland", "Steel"], ["Sugar_beet", "United_Kingdom", "Steel"], ["Sugar_beet", "United_States", "Steel"]]

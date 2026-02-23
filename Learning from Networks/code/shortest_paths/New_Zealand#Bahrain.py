@@ -1,0 +1,1 @@
+[["New_Zealand", "Asia", "Bahrain"], ["New_Zealand", "Iran", "Bahrain"], ["New_Zealand", "List_of_countries_by_system_of_government", "Bahrain"], ["New_Zealand", "Somalia", "Bahrain"]]

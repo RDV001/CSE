@@ -1,0 +1,1 @@
+[["Anne_Frank", "Dutch_language", "18th_century", "Catherine_II_of_Russia"], ["Anne_Frank", "Philadelphia", "18th_century", "Catherine_II_of_Russia"]]

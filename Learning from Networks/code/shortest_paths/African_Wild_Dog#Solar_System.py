@@ -1,0 +1,1 @@
+[["African_Wild_Dog", "Africa", "Earth", "Solar_System"], ["African_Wild_Dog", "Africa", "Ptolemy", "Solar_System"], ["African_Wild_Dog", "Animal", "Water", "Solar_System"], ["African_Wild_Dog", "Lion", "10th_century", "Solar_System"]]

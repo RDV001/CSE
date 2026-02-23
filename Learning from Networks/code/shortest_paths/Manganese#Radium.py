@@ -1,0 +1,1 @@
+[["Manganese", "List_of_elements_by_name", "Radium"], ["Manganese", "Periodic_table", "Radium"]]

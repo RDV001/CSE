@@ -1,0 +1,1 @@
+[["Henry_Morton_Stanley", "Democratic_Republic_of_the_Congo", "Lebanon", "Library"], ["Henry_Morton_Stanley", "Sudan", "Lebanon", "Library"], ["Henry_Morton_Stanley", "Democratic_Republic_of_the_Congo", "Mark_Twain", "Library"], ["Henry_Morton_Stanley", "London", "Education", "Library"]]

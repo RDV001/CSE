@@ -1,0 +1,1 @@
+[["Gas_metal_arc_welding", "Automobile", "Paris", "Mona_Lisa", "Britney_Spears"], ["Gas_metal_arc_welding", "Europe", "Paris", "Mona_Lisa", "Britney_Spears"], ["Gas_metal_arc_welding", "Steel", "16th_century", "Mona_Lisa", "Britney_Spears"], ["Gas_metal_arc_welding", "North_America", "Latin_America", "Reggaeton", "Britney_Spears"]]

@@ -1,0 +1,1 @@
+[["Puerto_Rico", "George_W._Bush", "Minnesota", "Bobcat"], ["Puerto_Rico", "United_States", "Minnesota", "Bobcat"], ["Puerto_Rico", "President_of_the_United_States", "Mount_Rushmore", "Bobcat"]]

@@ -1,0 +1,1 @@
+[["Neodymium", "Color", "Human", "Elephant"], ["Neodymium", "Earth", "Human", "Elephant"], ["Neodymium", "Earth", "Africa", "Elephant"], ["Neodymium", "Earth", "Mammal", "Elephant"], ["Neodymium", "Iron", "Mammal", "Elephant"], ["Neodymium", "Earth", "Southern_Africa", "Elephant"], ["Neodymium", "Magnetism", "Symmetry", "Elephant"]]

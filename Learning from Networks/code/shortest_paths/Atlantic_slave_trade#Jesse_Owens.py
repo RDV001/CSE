@@ -1,0 +1,1 @@
+[["Atlantic_slave_trade", "England", "Olympic_Games", "Jesse_Owens"], ["Atlantic_slave_trade", "Great_Britain", "Olympic_Games", "Jesse_Owens"], ["Atlantic_slave_trade", "Scotland", "Olympic_Games", "Jesse_Owens"], ["Atlantic_slave_trade", "United_Kingdom", "Olympic_Games", "Jesse_Owens"], ["Atlantic_slave_trade", "United_States", "Olympic_Games", "Jesse_Owens"]]

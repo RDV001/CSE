@@ -1,0 +1,1 @@
+[["African_clawed_frog", "South_Africa", "Europe", "Berlin"], ["African_clawed_frog", "South_Africa", "Germany", "Berlin"], ["African_clawed_frog", "South_Africa", "Nazi_Germany", "Berlin"], ["African_clawed_frog", "South_Africa", "United_Nations", "Berlin"], ["African_clawed_frog", "South_Africa", "World_Heritage_Site", "Berlin"]]

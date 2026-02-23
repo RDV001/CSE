@@ -1,0 +1,1 @@
+[["Pikachu", "Computer_and_video_games", "Tobacco", "Tea"], ["Pikachu", "Continent", "Georgia_%28country%29", "Tea"], ["Pikachu", "New_York_City", "Beijing", "Tea"], ["Pikachu", "New_York_City", "British_Empire", "Tea"], ["Pikachu", "Tree", "Agriculture", "Tea"], ["Pikachu", "Tree", "Plant", "Tea"], ["Pikachu", "Tree", "Sri_Lanka", "Tea"]]

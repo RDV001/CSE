@@ -1,0 +1,1 @@
+[["Lettuce", "Asia", "Economy_of_Africa", "Zambezi", "Chinyingi"], ["Lettuce", "China", "River", "Zambezi", "Chinyingi"], ["Lettuce", "Water", "River", "Zambezi", "Chinyingi"], ["Lettuce", "China", "Southern_Africa", "Zambezi", "Chinyingi"], ["Lettuce", "United_States", "List_of_rivers_by_length", "Zambezi", "Chinyingi"]]

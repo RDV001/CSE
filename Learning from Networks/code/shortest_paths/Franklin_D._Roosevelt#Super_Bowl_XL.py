@@ -1,0 +1,1 @@
+[["Franklin_D._Roosevelt", "New_York_City", "Detroit%2C_Michigan", "Super_Bowl_XL"], ["Franklin_D._Roosevelt", "United_States", "Detroit%2C_Michigan", "Super_Bowl_XL"]]

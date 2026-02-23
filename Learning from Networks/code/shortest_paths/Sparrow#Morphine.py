@@ -1,0 +1,1 @@
+[["Sparrow", "Animal", "Plant", "Morphine"], ["Sparrow", "Bird", "Plant", "Morphine"], ["Sparrow", "Scientific_classification", "Plant", "Morphine"], ["Sparrow", "Asia", "Afghanistan", "Morphine"]]

@@ -1,0 +1,1 @@
+[["Pluto", "Earth", "Animal", "Chordate"], ["Pluto", "Earth", "Dinosaur", "Chordate"], ["Pluto", "Earth", "Human", "Chordate"], ["Pluto", "Earth", "Mammal", "Chordate"], ["Pluto", "England", "Lion", "Chordate"], ["Pluto", "Jupiter", "Fish", "Chordate"], ["Pluto", "Zeus", "Dog", "Chordate"], ["Pluto", "Zeus", "Domestic_goat", "Chordate"], ["Pluto", "Zeus", "Eagle", "Chordate"]]

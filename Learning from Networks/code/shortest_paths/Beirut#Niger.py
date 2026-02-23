@@ -1,0 +1,1 @@
+[["Beirut", "Armenia", "Niger"], ["Beirut", "French_language", "Niger"], ["Beirut", "Lebanon", "Niger"], ["Beirut", "Turkey", "Niger"]]

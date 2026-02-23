@@ -1,0 +1,1 @@
+[["Humpback_Whale", "Indian_Ocean", "Japan"], ["Humpback_Whale", "Krill", "Japan"], ["Humpback_Whale", "New_Zealand", "Japan"], ["Humpback_Whale", "Orca", "Japan"], ["Humpback_Whale", "Pacific_Ocean", "Japan"], ["Humpback_Whale", "United_States", "Japan"], ["Humpback_Whale", "Vancouver", "Japan"], ["Humpback_Whale", "Whale", "Japan"]]

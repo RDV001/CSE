@@ -1,0 +1,1 @@
+[["Microsoft", "Computer", "Toy", "Apple"], ["Microsoft", "United_States", "Argentina", "Apple"], ["Microsoft", "United_States_dollar", "Argentina", "Apple"], ["Microsoft", "United_States", "Jersey", "Apple"]]

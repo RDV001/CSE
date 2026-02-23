@@ -1,0 +1,1 @@
+[["Hindi", "Canada", "Afghanistan"], ["Hindi", "Delhi", "Afghanistan"], ["Hindi", "Education", "Afghanistan"], ["Hindi", "Germany", "Afghanistan"], ["Hindi", "Himalayas", "Afghanistan"], ["Hindi", "Pakistan", "Afghanistan"], ["Hindi", "Russian_language", "Afghanistan"], ["Hindi", "Uganda", "Afghanistan"], ["Hindi", "Uzbekistan", "Afghanistan"], ["Hindi", "Yemen", "Afghanistan"]]

@@ -1,0 +1,1 @@
+[["Paul_of_Tarsus", "Athens", "List_of_countries", "Fiji"], ["Paul_of_Tarsus", "Greece", "List_of_countries", "Fiji"], ["Paul_of_Tarsus", "Greece", "List_of_countries_by_system_of_government", "Fiji"], ["Paul_of_Tarsus", "Jesus", "English_language", "Fiji"], ["Paul_of_Tarsus", "Jew", "English_language", "Fiji"]]

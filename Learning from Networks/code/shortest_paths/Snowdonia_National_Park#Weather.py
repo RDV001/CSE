@@ -1,0 +1,1 @@
+[["Snowdonia_National_Park", "Biosphere", "Earth", "Weather"], ["Snowdonia_National_Park", "Biosphere", "Meteorology", "Weather"], ["Snowdonia_National_Park", "Biosphere", "Mount_Everest", "Weather"], ["Snowdonia_National_Park", "Biosphere", "Ocean", "Weather"], ["Snowdonia_National_Park", "England", "Birmingham", "Weather"]]

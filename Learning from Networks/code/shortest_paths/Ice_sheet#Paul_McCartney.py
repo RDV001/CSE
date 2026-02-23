@@ -1,0 +1,1 @@
+[["Ice_sheet", "Canada", "Elizabeth_II_of_the_United_Kingdom", "Paul_McCartney"], ["Ice_sheet", "Canada", "Irish_people", "Paul_McCartney"]]

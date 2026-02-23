@@ -1,0 +1,1 @@
+[["Pollinator_decline", "Agriculture", "History_of_the_world", "Conflict"], ["Pollinator_decline", "Animal", "Human", "Conflict"], ["Pollinator_decline", "Biodiversity", "Human", "Conflict"], ["Pollinator_decline", "Fruit", "Human", "Conflict"], ["Pollinator_decline", "Vegetable", "Human", "Conflict"]]

@@ -1,0 +1,1 @@
+[["Mexico", "Argentina", "British_Empire", "John_Dee"], ["Mexico", "England", "British_Empire", "John_Dee"], ["Mexico", "English_language", "British_Empire", "John_Dee"], ["Mexico", "France", "British_Empire", "John_Dee"], ["Mexico", "Middle_East", "British_Empire", "John_Dee"], ["Mexico", "England", "Christopher_Wren", "John_Dee"], ["Mexico", "Islam", "Alchemy", "John_Dee"]]

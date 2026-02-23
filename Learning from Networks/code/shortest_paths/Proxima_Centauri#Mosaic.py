@@ -1,0 +1,1 @@
+[["Proxima_Centauri", "Hubble_Space_Telescope", "Art", "Mosaic"], ["Proxima_Centauri", "Johannesburg", "Art", "Mosaic"], ["Proxima_Centauri", "Johannesburg", "Pottery", "Mosaic"], ["Proxima_Centauri", "South_Africa", "Vegetation", "Mosaic"]]

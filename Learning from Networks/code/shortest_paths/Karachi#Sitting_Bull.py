@@ -1,0 +1,1 @@
+[["Karachi", "Shanghai", "19th_century", "Sitting_Bull"]]

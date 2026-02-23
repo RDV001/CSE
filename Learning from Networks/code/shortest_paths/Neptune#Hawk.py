@@ -1,0 +1,1 @@
+[["Neptune", "Chinese_language", "Europe", "Hawk"], ["Neptune", "Earth", "Europe", "Hawk"], ["Neptune", "Hubble_Space_Telescope", "Europe", "Hawk"], ["Neptune", "Tropical_cyclone", "Europe", "Hawk"], ["Neptune", "Earth", "Thor", "Hawk"]]

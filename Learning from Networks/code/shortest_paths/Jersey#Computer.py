@@ -1,0 +1,1 @@
+[["Jersey", "United_Kingdom", "Computer"], ["Jersey", "United_States", "Computer"]]

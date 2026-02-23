@@ -1,0 +1,1 @@
+[["Ethanol", "Cancer", "Lung_cancer"], ["Ethanol", "Pneumonia", "Lung_cancer"]]

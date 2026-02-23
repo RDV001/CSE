@@ -1,0 +1,1 @@
+[["Koryaksky", "Russia", "Sputnik_1", "Explorer_I"]]

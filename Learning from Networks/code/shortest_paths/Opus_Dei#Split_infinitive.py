@@ -1,0 +1,1 @@
+[["Opus_Dei", "Pope_Benedict_XVI", "Latin", "Split_infinitive"], ["Opus_Dei", "Pope_John_Paul_II", "Latin", "Split_infinitive"], ["Opus_Dei", "Pope_Pius_XII", "Latin", "Split_infinitive"], ["Opus_Dei", "Roman_Catholic_Church", "Latin", "Split_infinitive"], ["Opus_Dei", "Spain", "Latin", "Split_infinitive"]]

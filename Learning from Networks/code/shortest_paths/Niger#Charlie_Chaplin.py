@@ -1,0 +1,1 @@
+[["Niger", "Germany", "Adolf_Hitler", "Charlie_Chaplin"], ["Niger", "Italy", "Adolf_Hitler", "Charlie_Chaplin"], ["Niger", "Italy", "Benito_Mussolini", "Charlie_Chaplin"], ["Niger", "Niger_River", "Film", "Charlie_Chaplin"], ["Niger", "United_States", "Film", "Charlie_Chaplin"]]

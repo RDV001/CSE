@@ -1,0 +1,1 @@
+[["Water", "Asia", "Communism"], ["Water", "Cambodia", "Communism"], ["Water", "Hong_Kong", "Communism"], ["Water", "Laos", "Communism"], ["Water", "Philosophy", "Communism"], ["Water", "Poland", "Communism"], ["Water", "United_States", "Communism"], ["Water", "Vietnam", "Communism"]]

@@ -1,0 +1,1 @@
+[["Felice_Beato", "India", "Rice", "Fatty_acid"], ["Felice_Beato", "Japan", "Rice", "Fatty_acid"], ["Felice_Beato", "Myanmar", "Rice", "Fatty_acid"]]

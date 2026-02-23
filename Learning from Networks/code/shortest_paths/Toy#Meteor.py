@@ -1,0 +1,1 @@
+[["Toy", "Culture", "Nature", "Meteor"], ["Toy", "Iran", "Nature", "Meteor"], ["Toy", "Plato", "Nature", "Meteor"], ["Toy", "Deity", "Earth", "Meteor"], ["Toy", "Human", "Earth", "Meteor"], ["Toy", "Star_Wars", "Earth", "Meteor"], ["Toy", "World_War_II", "Radar", "Meteor"]]

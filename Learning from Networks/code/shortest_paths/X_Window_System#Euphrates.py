@@ -1,0 +1,1 @@
+[["X_Window_System", "Internet", "Iran", "Euphrates"], ["X_Window_System", "Latin_alphabet", "Turkey", "Euphrates"]]

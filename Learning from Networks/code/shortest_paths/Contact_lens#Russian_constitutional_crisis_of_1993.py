@@ -1,0 +1,1 @@
+[["Contact_lens", "Germany", "Russia", "Russian_constitutional_crisis_of_1993"], ["Contact_lens", "Japan", "Russia", "Russian_constitutional_crisis_of_1993"], ["Contact_lens", "Netherlands", "Russia", "Russian_constitutional_crisis_of_1993"], ["Contact_lens", "United_States", "Russia", "Russian_constitutional_crisis_of_1993"]]

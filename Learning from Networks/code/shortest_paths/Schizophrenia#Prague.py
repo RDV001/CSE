@@ -1,0 +1,1 @@
+[["Schizophrenia", "Czech_Republic", "Prague"], ["Schizophrenia", "Europe", "Prague"]]

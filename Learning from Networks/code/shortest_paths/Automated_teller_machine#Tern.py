@@ -1,0 +1,1 @@
+[["Automated_teller_machine", "Svalbard", "Arctic_Tern", "Tern"]]

@@ -1,0 +1,1 @@
+[["The_Waste_Land", "Charles_Dickens", "Australia", "Adelaide"], ["The_Waste_Land", "English_language", "Australia", "Adelaide"], ["The_Waste_Land", "Fishing", "Melbourne", "Adelaide"], ["The_Waste_Land", "T._S._Eliot", "Melbourne", "Adelaide"]]

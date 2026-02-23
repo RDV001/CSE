@@ -1,0 +1,1 @@
+[["6-2-0", "England", "Charles_Darwin", "Agnosticism"], ["6-2-0", "England", "Germany", "Agnosticism"], ["6-2-0", "United_States", "Germany", "Agnosticism"], ["6-2-0", "United_States", "Brazil", "Agnosticism"]]

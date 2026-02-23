@@ -1,0 +1,1 @@
+[["Macintosh", "George_W._Bush", "Georgia_%28country%29", "Djibouti"], ["Macintosh", "George_W._Bush", "Israel", "Djibouti"], ["Macintosh", "George_W._Bush", "Lebanon", "Djibouti"], ["Macintosh", "George_W._Bush", "Sudan", "Djibouti"], ["Macintosh", "Internet", "French_language", "Djibouti"], ["Macintosh", "United_States_dollar", "Saudi_Arabia", "Djibouti"]]

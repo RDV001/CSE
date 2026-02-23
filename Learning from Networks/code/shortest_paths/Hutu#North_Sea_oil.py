@@ -1,0 +1,1 @@
+[["Hutu", "Rwandan_Genocide", "Ireland", "North_Sea_oil"], ["Hutu", "United_Nations", "Petroleum", "North_Sea_oil"], ["Hutu", "United_States", "Petroleum", "North_Sea_oil"]]

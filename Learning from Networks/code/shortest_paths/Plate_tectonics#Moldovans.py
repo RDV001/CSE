@@ -1,0 +1,1 @@
+[["Plate_tectonics", "Europe", "Kiev", "Moldovans"], ["Plate_tectonics", "Europe", "Moldova", "Moldovans"], ["Plate_tectonics", "Turkey", "Moldova", "Moldovans"], ["Plate_tectonics", "Europe", "Ukraine", "Moldovans"], ["Plate_tectonics", "Turkey", "Ukraine", "Moldovans"]]

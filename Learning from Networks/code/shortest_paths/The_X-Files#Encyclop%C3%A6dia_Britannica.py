@@ -1,0 +1,1 @@
+[["The_X-Files", "United_States", "Advertising", "Encyclop%C3%A6dia_Britannica"], ["The_X-Files", "United_States", "C%C3%B4te_d%27Ivoire", "Encyclop%C3%A6dia_Britannica"]]

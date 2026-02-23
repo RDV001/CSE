@@ -1,0 +1,1 @@
+[["Cape_Town", "Antarctica", "Albatross", "Gull"], ["Cape_Town", "Atlantic_Ocean", "Albatross", "Gull"], ["Cape_Town", "Winter", "Bird", "Gull"]]

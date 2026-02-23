@@ -1,0 +1,1 @@
+[["21st_century", "Asteroid", "Comet", "Comet_Hale-Bopp"], ["21st_century", "Comet_Halley", "Comet", "Comet_Hale-Bopp"], ["21st_century", "Mars", "Comet", "Comet_Hale-Bopp"], ["21st_century", "Mercury_%28planet%29", "Comet", "Comet_Hale-Bopp"]]

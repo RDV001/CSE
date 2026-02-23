@@ -1,0 +1,1 @@
+[["Heracles", "Egypt", "Civilization", "Great_Wall_of_China"], ["Heracles", "Japan", "China", "Great_Wall_of_China"], ["Heracles", "Japan", "Ming_Dynasty", "Great_Wall_of_China"], ["Heracles", "Rome", "Beijing", "Great_Wall_of_China"]]

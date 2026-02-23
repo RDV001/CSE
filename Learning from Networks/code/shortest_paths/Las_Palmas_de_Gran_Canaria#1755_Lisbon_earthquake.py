@@ -1,0 +1,1 @@
+[["Las_Palmas_de_Gran_Canaria", "Atlantic_Ocean", "Lisbon", "1755_Lisbon_earthquake"], ["Las_Palmas_de_Gran_Canaria", "Christopher_Columbus", "Lisbon", "1755_Lisbon_earthquake"], ["Las_Palmas_de_Gran_Canaria", "Spain", "18th_century", "1755_Lisbon_earthquake"]]

@@ -1,0 +1,1 @@
+[["Telecommunication", "China", "Mount_Everest", "Yak"], ["Telecommunication", "China", "Tibet", "Yak"], ["Telecommunication", "Netherlands", "Cheese", "Yak"]]

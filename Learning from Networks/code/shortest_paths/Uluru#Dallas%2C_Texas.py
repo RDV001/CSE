@@ -1,0 +1,1 @@
+[["Uluru", "Australia", "United_States", "Dallas%2C_Texas"], ["Uluru", "World_Heritage_Site", "United_States", "Dallas%2C_Texas"]]

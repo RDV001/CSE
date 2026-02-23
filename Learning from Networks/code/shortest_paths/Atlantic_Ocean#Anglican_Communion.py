@@ -1,0 +1,1 @@
+[["Atlantic_Ocean", "Africa", "Anglican_Communion"], ["Atlantic_Ocean", "Edinburgh", "Anglican_Communion"], ["Atlantic_Ocean", "United_Kingdom", "Anglican_Communion"]]

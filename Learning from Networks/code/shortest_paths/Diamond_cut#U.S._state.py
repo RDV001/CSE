@@ -1,0 +1,1 @@
+[["Diamond_cut", "French_language", "U.S._state"], ["Diamond_cut", "New_York_City", "U.S._state"]]

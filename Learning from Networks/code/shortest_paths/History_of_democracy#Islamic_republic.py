@@ -1,0 +1,1 @@
+[["History_of_democracy", "Afghanistan", "Islamic_republic"]]

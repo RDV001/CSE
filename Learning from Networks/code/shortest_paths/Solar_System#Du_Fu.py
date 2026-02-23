@@ -1,0 +1,1 @@
+[["Solar_System", "Soviet_Union", "Mao_Zedong", "Du_Fu"]]

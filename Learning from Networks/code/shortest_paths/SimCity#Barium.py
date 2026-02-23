@@ -1,0 +1,1 @@
+[["SimCity", "Earthquake", "Magma", "Barium"], ["SimCity", "Germany", "Coal", "Barium"], ["SimCity", "Industry", "Coal", "Barium"], ["SimCity", "United_States", "Coal", "Barium"], ["SimCity", "Internet", "Copper", "Barium"]]

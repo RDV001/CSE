@@ -1,0 +1,1 @@
+[["Planetary_habitability", "Comet", "England", "George_Eliot"], ["Planetary_habitability", "Gravitation", "England", "George_Eliot"], ["Planetary_habitability", "Sun", "England", "George_Eliot"], ["Planetary_habitability", "Ecology", "Henry_David_Thoreau", "George_Eliot"], ["Planetary_habitability", "Philosophy", "Baruch_Spinoza", "George_Eliot"]]

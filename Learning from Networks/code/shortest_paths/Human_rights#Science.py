@@ -1,0 +1,1 @@
+[["Human_rights", "19th_century", "Science"], ["Human_rights", "Biology", "Science"], ["Human_rights", "Philosophy", "Science"], ["Human_rights", "Religion", "Science"]]

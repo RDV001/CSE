@@ -1,0 +1,1 @@
+[["Redwood_National_and_State_Parks", "Fishing", "Ancient_Rome", "House"], ["Redwood_National_and_State_Parks", "Great_Britain", "Ancient_Rome", "House"], ["Redwood_National_and_State_Parks", "Spain", "Ancient_Rome", "House"], ["Redwood_National_and_State_Parks", "Star_Wars", "Ancient_Rome", "House"]]

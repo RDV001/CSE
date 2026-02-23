@@ -1,0 +1,1 @@
+[["Tourette_syndrome", "France", "Pacific_Ocean"]]

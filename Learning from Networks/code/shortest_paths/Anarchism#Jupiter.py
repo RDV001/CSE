@@ -1,0 +1,1 @@
+[["Anarchism", "Agriculture", "Mesopotamia", "Jupiter"], ["Anarchism", "God", "Nature", "Jupiter"], ["Anarchism", "Jean-Jacques_Rousseau", "Nature", "Jupiter"], ["Anarchism", "God", "Volcano", "Jupiter"]]

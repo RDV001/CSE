@@ -1,0 +1,1 @@
+[["Max_Weber", "World_War_I", "Trench_warfare", "Monopoly_%28game%29"]]

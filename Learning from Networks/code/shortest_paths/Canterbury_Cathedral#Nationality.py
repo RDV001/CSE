@@ -1,0 +1,1 @@
+[["Canterbury_Cathedral", "Christianity", "Cultural_identity", "Nationality"], ["Canterbury_Cathedral", "England", "Rudyard_Kipling", "Nationality"], ["Canterbury_Cathedral", "World_Heritage_Site", "Helsinki", "Nationality"]]

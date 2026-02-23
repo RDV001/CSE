@@ -1,0 +1,1 @@
+[["Germany", "Armenia", "Famine"], ["Germany", "Democratic_Republic_of_the_Congo", "Famine"], ["Germany", "French_Revolution", "Famine"], ["Germany", "Russia", "Famine"]]

@@ -1,0 +1,1 @@
+[["Black_Wildebeest", "Africa", "Liberal_democracy", "Anarchism"], ["Black_Wildebeest", "Africa", "Poverty", "Anarchism"], ["Black_Wildebeest", "South_Africa", "Poverty", "Anarchism"], ["Black_Wildebeest", "Namibia", "Government", "Anarchism"], ["Black_Wildebeest", "Namibia", "Marxism", "Anarchism"]]

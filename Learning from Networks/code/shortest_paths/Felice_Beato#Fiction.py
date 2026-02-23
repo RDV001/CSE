@@ -1,0 +1,1 @@
+[["Felice_Beato", "China", "Human", "Fiction"], ["Felice_Beato", "Crimean_War", "Leo_Tolstoy", "Fiction"], ["Felice_Beato", "Egypt", "Literature", "Fiction"], ["Felice_Beato", "England", "William_Hogarth", "Fiction"], ["Felice_Beato", "Paris", "Ernest_Hemingway", "Fiction"], ["Felice_Beato", "Silver", "Vampire", "Fiction"]]

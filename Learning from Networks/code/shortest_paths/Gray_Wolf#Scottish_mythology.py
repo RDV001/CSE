@@ -1,0 +1,1 @@
+[["Gray_Wolf", "Folklore", "Scottish_mythology"]]

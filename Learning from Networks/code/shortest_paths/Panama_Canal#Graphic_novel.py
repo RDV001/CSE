@@ -1,0 +1,1 @@
+[["Panama_Canal", "Spanish_language", "Literature", "Graphic_novel"], ["Panama_Canal", "Theodore_Roosevelt", "Anarchism", "Graphic_novel"]]

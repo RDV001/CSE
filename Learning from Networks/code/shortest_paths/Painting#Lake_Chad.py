@@ -1,0 +1,1 @@
+[["Painting", "7th_century", "Lake_Chad"]]

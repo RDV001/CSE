@@ -1,0 +1,1 @@
+[["Polish-Lithuanian_Commonwealth", "16th_century", "Florida", "Labor_Day_Hurricane_of_1935", "Florida_East_Coast_Railway"], ["Polish-Lithuanian_Commonwealth", "German_language", "Florida", "Labor_Day_Hurricane_of_1935", "Florida_East_Coast_Railway"], ["Polish-Lithuanian_Commonwealth", "United_States", "Florida", "Labor_Day_Hurricane_of_1935", "Florida_East_Coast_Railway"]]

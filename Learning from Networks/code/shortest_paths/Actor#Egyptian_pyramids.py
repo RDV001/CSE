@@ -1,0 +1,1 @@
+[["Actor", "Greece", "Egypt", "Egyptian_pyramids"], ["Actor", "Middle_Ages", "Egypt", "Egyptian_pyramids"]]

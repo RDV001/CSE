@@ -1,0 +1,1 @@
+[["Crustacean", "Animal", "Human", "Love"], ["Crustacean", "Insect", "Human", "Love"], ["Crustacean", "Scientific_classification", "Human", "Love"], ["Crustacean", "Thorax", "Human", "Love"], ["Crustacean", "Scientific_classification", "Flower", "Love"]]

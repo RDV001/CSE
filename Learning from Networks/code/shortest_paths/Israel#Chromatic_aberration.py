@@ -1,0 +1,1 @@
+[["Israel", "Chemistry", "Glass", "Chromatic_aberration"], ["Israel", "Natural_gas", "Glass", "Chromatic_aberration"]]

@@ -1,0 +1,1 @@
+[["Fossil_fuel", "Coal", "World_War_II", "Franklin_D._Roosevelt"], ["Fossil_fuel", "Uranium", "World_War_II", "Franklin_D._Roosevelt"]]

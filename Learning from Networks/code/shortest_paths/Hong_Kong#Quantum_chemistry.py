@@ -1,0 +1,1 @@
+[["Hong_Kong", "Confucianism", "Chemistry", "Quantum_chemistry"], ["Hong_Kong", "Education", "Chemistry", "Quantum_chemistry"], ["Hong_Kong", "Food", "Chemistry", "Quantum_chemistry"], ["Hong_Kong", "Margaret_Thatcher", "Chemistry", "Quantum_chemistry"], ["Hong_Kong", "Confucianism", "Physics", "Quantum_chemistry"], ["Hong_Kong", "Education", "Physics", "Quantum_chemistry"]]

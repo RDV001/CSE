@@ -1,0 +1,1 @@
+[["Analytical_Marxism", "Communism", "Human"]]

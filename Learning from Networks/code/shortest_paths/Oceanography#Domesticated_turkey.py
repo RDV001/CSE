@@ -1,0 +1,1 @@
+[["Oceanography", "Earth", "Apollo_8", "Domesticated_turkey"], ["Oceanography", "United_States", "Turkey_%28bird%29", "Domesticated_turkey"]]

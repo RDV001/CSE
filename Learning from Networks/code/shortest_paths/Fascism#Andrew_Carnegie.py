@@ -1,0 +1,1 @@
+[["Fascism", "Nationalism", "Book", "Andrew_Carnegie"], ["Fascism", "Politics", "Corporation", "Andrew_Carnegie"]]

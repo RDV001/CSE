@@ -1,0 +1,1 @@
+[["Tiger_Woods", "Celine_Dion", "Japan", "Sumo"], ["Tiger_Woods", "Pacific_Ocean", "Japan", "Sumo"], ["Tiger_Woods", "Prostate_cancer", "Japan", "Sumo"], ["Tiger_Woods", "Thailand", "Japan", "Sumo"], ["Tiger_Woods", "United_States", "Japan", "Sumo"]]

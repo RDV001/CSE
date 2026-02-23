@@ -1,0 +1,1 @@
+[["George_II_of_Great_Britain", "Russia", "Suez_Canal", "Pyramid"]]

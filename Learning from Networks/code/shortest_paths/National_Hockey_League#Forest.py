@@ -1,0 +1,1 @@
+[["National_Hockey_League", "Europe", "Forest"], ["National_Hockey_League", "Minnesota", "Forest"]]

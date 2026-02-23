@@ -1,0 +1,1 @@
+[["Space_Shuttle_Columbia", "California", "North_America"], ["Space_Shuttle_Columbia", "Earth", "North_America"], ["Space_Shuttle_Columbia", "United_States", "North_America"]]

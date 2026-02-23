@@ -1,0 +1,1 @@
+[["Actor", "Film", "Color", "Eye", "Chemical_synapse"], ["Actor", "Television", "Color", "Eye", "Chemical_synapse"], ["Actor", "Japan", "Medicine", "Eye", "Chemical_synapse"], ["Actor", "Middle_Ages", "Glasses", "Eye", "Chemical_synapse"], ["Actor", "Film", "Color", "Retina", "Chemical_synapse"], ["Actor", "Television", "Color", "Retina", "Chemical_synapse"]]

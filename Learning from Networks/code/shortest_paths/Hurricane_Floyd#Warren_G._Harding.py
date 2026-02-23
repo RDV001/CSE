@@ -1,0 +1,1 @@
+[["Hurricane_Floyd", "Bill_Clinton", "Warren_G._Harding"]]

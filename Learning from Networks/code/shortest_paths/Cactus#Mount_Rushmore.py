@@ -1,0 +1,1 @@
+[["Cactus", "19th_century", "Thomas_Jefferson", "Mount_Rushmore"], ["Cactus", "United_States", "Thomas_Jefferson", "Mount_Rushmore"], ["Cactus", "United_States", "George_Washington", "Mount_Rushmore"], ["Cactus", "United_States", "President_of_the_United_States", "Mount_Rushmore"]]

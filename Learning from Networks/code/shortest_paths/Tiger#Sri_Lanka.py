@@ -1,0 +1,1 @@
+[["Tiger", "Asia", "Sri_Lanka"], ["Tiger", "Carolus_Linnaeus", "Sri_Lanka"], ["Tiger", "Elephant", "Sri_Lanka"], ["Tiger", "Hinduism", "Sri_Lanka"], ["Tiger", "India", "Sri_Lanka"], ["Tiger", "Turkey", "Sri_Lanka"]]

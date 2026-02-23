@@ -1,0 +1,1 @@
+[["Theodore_Roosevelt", "Russia", "Arctic", "Troodon"]]

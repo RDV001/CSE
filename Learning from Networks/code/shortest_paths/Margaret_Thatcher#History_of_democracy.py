@@ -1,0 +1,1 @@
+[["Margaret_Thatcher", "Human_rights", "Magna_Carta", "History_of_democracy"]]

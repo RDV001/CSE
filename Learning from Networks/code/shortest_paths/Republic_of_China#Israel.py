@@ -1,0 +1,1 @@
+[["Republic_of_China", "Beijing", "Israel"], ["Republic_of_China", "Germany", "Israel"], ["Republic_of_China", "Greece", "Israel"], ["Republic_of_China", "Harry_S._Truman", "Israel"], ["Republic_of_China", "List_of_countries_by_system_of_government", "Israel"], ["Republic_of_China", "Olympic_Games", "Israel"], ["Republic_of_China", "World_War_II", "Israel"]]

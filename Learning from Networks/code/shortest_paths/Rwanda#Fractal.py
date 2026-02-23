@@ -1,0 +1,1 @@
+[["Rwanda", "Armenia", "River", "Fractal"], ["Rwanda", "China", "River", "Fractal"], ["Rwanda", "Congo_River", "River", "Fractal"], ["Rwanda", "France", "River", "Fractal"], ["Rwanda", "Nile", "River", "Fractal"], ["Rwanda", "World_War_II", "Radar", "Fractal"]]

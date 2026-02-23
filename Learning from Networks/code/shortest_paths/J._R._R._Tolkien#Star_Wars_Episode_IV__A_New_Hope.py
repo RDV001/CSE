@@ -1,0 +1,1 @@
+[["J._R._R._Tolkien", "Esperanto", "Star_Trek", "Star_Wars_Episode_IV__A_New_Hope"], ["J._R._R._Tolkien", "The_Lord_of_the_Rings", "Star_Wars", "Star_Wars_Episode_IV__A_New_Hope"], ["J._R._R._Tolkien", "United_States", "Cinema_of_the_United_States", "Star_Wars_Episode_IV__A_New_Hope"]]

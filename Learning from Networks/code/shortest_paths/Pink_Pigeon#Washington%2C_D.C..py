@@ -1,0 +1,1 @@
+[["Pink_Pigeon", "Binomial_nomenclature", "Tyrannosaurus", "Washington%2C_D.C."], ["Pink_Pigeon", "Gerald_Durrell", "Cameroon", "Washington%2C_D.C."], ["Pink_Pigeon", "Mauritius", "Infrastructure", "Washington%2C_D.C."], ["Pink_Pigeon", "Mauritius", "Time_zone", "Washington%2C_D.C."], ["Pink_Pigeon", "Mauritius", "United_States", "Washington%2C_D.C."]]

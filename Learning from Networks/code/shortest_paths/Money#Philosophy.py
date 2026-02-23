@@ -1,0 +1,1 @@
+[["Money", "Art", "Philosophy"], ["Money", "Bob_Dylan", "Philosophy"], ["Money", "Economics", "Philosophy"], ["Money", "Voltaire", "Philosophy"], ["Money", "Water", "Philosophy"]]

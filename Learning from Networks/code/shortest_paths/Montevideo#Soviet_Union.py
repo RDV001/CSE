@@ -1,0 +1,1 @@
+[["Montevideo", "20th_century", "Soviet_Union"], ["Montevideo", "Europe", "Soviet_Union"], ["Montevideo", "Germany", "Soviet_Union"], ["Montevideo", "Royal_Navy", "Soviet_Union"], ["Montevideo", "Spain", "Soviet_Union"], ["Montevideo", "World_War_II", "Soviet_Union"]]

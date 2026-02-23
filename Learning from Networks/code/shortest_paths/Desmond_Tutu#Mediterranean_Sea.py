@@ -1,0 +1,1 @@
+[["Desmond_Tutu", "Africa", "Mediterranean_Sea"], ["Desmond_Tutu", "Israel", "Mediterranean_Sea"], ["Desmond_Tutu", "South_Africa", "Mediterranean_Sea"], ["Desmond_Tutu", "Zionism", "Mediterranean_Sea"]]

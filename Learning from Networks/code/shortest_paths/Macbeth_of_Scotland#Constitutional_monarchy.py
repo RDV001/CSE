@@ -1,0 +1,1 @@
+[["Macbeth_of_Scotland", "Scotland", "Constitutional_monarchy"]]

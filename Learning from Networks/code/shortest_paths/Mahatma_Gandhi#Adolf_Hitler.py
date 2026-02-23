@@ -1,0 +1,1 @@
+[["Mahatma_Gandhi", "Albert_Einstein", "Adolf_Hitler"], ["Mahatma_Gandhi", "Nazi_Germany", "Adolf_Hitler"], ["Mahatma_Gandhi", "Nobel_Peace_Prize", "Adolf_Hitler"], ["Mahatma_Gandhi", "World_War_II", "Adolf_Hitler"], ["Mahatma_Gandhi", "Zionism", "Adolf_Hitler"]]

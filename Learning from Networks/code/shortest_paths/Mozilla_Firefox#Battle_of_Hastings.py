@@ -1,0 +1,1 @@
+[["Mozilla_Firefox", "Europe", "England", "Battle_of_Hastings"], ["Mozilla_Firefox", "Germany", "England", "Battle_of_Hastings"], ["Mozilla_Firefox", "Europe", "London", "Battle_of_Hastings"], ["Mozilla_Firefox", "Germany", "London", "Battle_of_Hastings"]]

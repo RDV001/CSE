@@ -1,0 +1,1 @@
+[["Henrik_Ibsen", "India", "United_States_dollar"], ["Henrik_Ibsen", "United_States", "United_States_dollar"]]

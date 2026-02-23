@@ -1,0 +1,1 @@
+[["Color", "Art", "Oman", "Dubai"], ["Color", "Human", "Shanghai", "Dubai"], ["Color", "Language", "Tamil_language", "Dubai"], ["Color", "Sunlight", "Petroleum", "Dubai"]]

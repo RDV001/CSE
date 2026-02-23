@@ -1,0 +1,1 @@
+[["Arts_and_crafts", "Industrial_Revolution", "Agriculture", "Vegetable"], ["Arts_and_crafts", "Metal", "Potassium", "Vegetable"], ["Arts_and_crafts", "Pottery", "Japan", "Vegetable"], ["Arts_and_crafts", "Sculpture", "Japan", "Vegetable"], ["Arts_and_crafts", "Wood", "Summer", "Vegetable"]]

@@ -1,0 +1,1 @@
+[["English_Reformation", "Anglicanism", "Latin", "Split_infinitive"], ["English_Reformation", "Archbishop_of_Canterbury", "Latin", "Split_infinitive"], ["English_Reformation", "Edward_VI_of_England", "Latin", "Split_infinitive"], ["English_Reformation", "Pope", "Latin", "Split_infinitive"], ["English_Reformation", "Roman_Catholic_Church", "Latin", "Split_infinitive"]]

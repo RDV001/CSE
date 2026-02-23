@@ -1,0 +1,1 @@
+[["Jack_Kerouac", "California", "Gold", "Iodine"], ["Jack_Kerouac", "San_Jose%2C_California", "Gold", "Iodine"], ["Jack_Kerouac", "San_Jose%2C_California", "Aluminium", "Iodine"], ["Jack_Kerouac", "United_States", "Nuclear_power", "Iodine"]]

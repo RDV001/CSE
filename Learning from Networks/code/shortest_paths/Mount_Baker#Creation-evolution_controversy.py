@@ -1,0 +1,1 @@
+[["Mount_Baker", "19th_century", "Evolution", "Creation-evolution_controversy"], ["Mount_Baker", "Royal_Navy", "Evolution", "Creation-evolution_controversy"], ["Mount_Baker", "19th_century", "The_Origin_of_Species", "Creation-evolution_controversy"]]

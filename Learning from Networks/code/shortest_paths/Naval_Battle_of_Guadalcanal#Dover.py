@@ -1,0 +1,1 @@
+[["Naval_Battle_of_Guadalcanal", "World_War_II", "English_Channel", "Dover"]]

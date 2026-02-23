@@ -1,0 +1,1 @@
+[["Carlsbad_Caverns_National_Park", "German_language", "Portugal", "Goa"], ["Carlsbad_Caverns_National_Park", "United_States", "Portugal", "Goa"], ["Carlsbad_Caverns_National_Park", "Mexico", "Mestizo", "Goa"], ["Carlsbad_Caverns_National_Park", "Mexico", "Portuguese_language", "Goa"], ["Carlsbad_Caverns_National_Park", "United_States", "India", "Goa"]]

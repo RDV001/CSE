@@ -1,0 +1,1 @@
+[["Mary_Seacole", "Crimean_War", "Pacific_Ocean"], ["Mary_Seacole", "France", "Pacific_Ocean"], ["Mary_Seacole", "Panama", "Pacific_Ocean"], ["Mary_Seacole", "Panama_Canal", "Pacific_Ocean"], ["Mary_Seacole", "United_States", "Pacific_Ocean"]]

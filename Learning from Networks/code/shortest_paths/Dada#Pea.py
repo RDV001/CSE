@@ -1,0 +1,1 @@
+[["Dada", "Aesthetics", "Indus_Valley_Civilization", "Pea"], ["Dada", "Georgia_%28country%29", "Agriculture", "Pea"], ["Dada", "Russia", "Agriculture", "Pea"], ["Dada", "United_States", "Agriculture", "Pea"], ["Dada", "Vladimir_Lenin", "Agriculture", "Pea"], ["Dada", "United_States", "Desert", "Pea"], ["Dada", "United_States", "Maize", "Pea"]]

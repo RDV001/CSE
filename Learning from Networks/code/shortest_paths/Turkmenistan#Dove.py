@@ -1,0 +1,1 @@
+[["Turkmenistan", "Communism", "Human", "Dove"], ["Turkmenistan", "Poverty", "Francis_of_Assisi", "Dove"]]

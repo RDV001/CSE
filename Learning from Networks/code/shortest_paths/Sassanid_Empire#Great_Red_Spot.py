@@ -1,0 +1,1 @@
+[["Sassanid_Empire", "Mesopotamia", "Jupiter", "Great_Red_Spot"]]

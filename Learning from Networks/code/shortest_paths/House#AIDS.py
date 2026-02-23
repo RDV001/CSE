@@ -1,0 +1,1 @@
+[["House", "Natural_disaster", "AIDS"]]

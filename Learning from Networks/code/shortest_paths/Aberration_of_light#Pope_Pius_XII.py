@@ -1,0 +1,1 @@
+[["Aberration_of_light", "Galaxy", "Big_Bang", "Pope_Pius_XII"], ["Aberration_of_light", "Galileo_Galilei", "Pope_John_Paul_II", "Pope_Pius_XII"], ["Aberration_of_light", "Heliocentrism", "Roman_Catholic_Church", "Pope_Pius_XII"], ["Aberration_of_light", "Tycho_Brahe", "Roman_Catholic_Church", "Pope_Pius_XII"]]

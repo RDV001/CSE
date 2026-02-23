@@ -1,0 +1,1 @@
+[["GNU_Project", "Richard_Stallman", "Franklin_D._Roosevelt", "Royal_Navy", "Card_game", "Blackjack"], ["GNU_Project", "Richard_Stallman", "Open_source", "Beer", "Playing_card", "Blackjack"], ["GNU_Project", "Unix", "Open_source", "Beer", "Playing_card", "Blackjack"]]

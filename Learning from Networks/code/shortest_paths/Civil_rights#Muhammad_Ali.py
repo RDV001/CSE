@@ -1,0 +1,1 @@
+[["Civil_rights", "Martin_Luther_King%2C_Jr.", "Malcolm_X", "Muhammad_Ali"], ["Civil_rights", "United_States", "Elvis_Presley", "Muhammad_Ali"]]

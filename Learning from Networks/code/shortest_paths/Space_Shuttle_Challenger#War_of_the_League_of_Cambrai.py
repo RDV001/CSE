@@ -1,0 +1,1 @@
+[["Space_Shuttle_Challenger", "Florida", "Jamaica", "Habsburg_Spain", "War_of_the_League_of_Cambrai"], ["Space_Shuttle_Challenger", "United_States", "Jamaica", "Habsburg_Spain", "War_of_the_League_of_Cambrai"], ["Space_Shuttle_Challenger", "United_States", "Spain", "Habsburg_Spain", "War_of_the_League_of_Cambrai"]]

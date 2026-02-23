@@ -1,0 +1,1 @@
+[["Aristotle", "Education", "Civil_society", "Social_capital"], ["Aristotle", "Politics", "Civil_society", "Social_capital"], ["Aristotle", "Education", "Community", "Social_capital"]]

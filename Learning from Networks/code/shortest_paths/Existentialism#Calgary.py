@@ -1,0 +1,1 @@
+[["Existentialism", "Paris", "Global_city", "Calgary"], ["Existentialism", "World_War_II", "Winston_Churchill", "Calgary"]]

@@ -1,0 +1,1 @@
+[["Ethics", "Aesthetics", "Japan", "Nintendo"], ["Ethics", "Culture", "Japan", "Nintendo"], ["Ethics", "Human_rights", "Japan", "Nintendo"], ["Ethics", "Philosophy", "Japan", "Nintendo"]]

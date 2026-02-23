@@ -1,0 +1,1 @@
+[["Tropics", "Argentina", "Canada", "Stephen_Harper"], ["Tropics", "Autumn", "Canada", "Stephen_Harper"], ["Tropics", "Costa_Rica", "Canada", "Stephen_Harper"], ["Tropics", "Earth", "Canada", "Stephen_Harper"], ["Tropics", "Madagascar", "Canada", "Stephen_Harper"], ["Tropics", "Season", "Canada", "Stephen_Harper"]]

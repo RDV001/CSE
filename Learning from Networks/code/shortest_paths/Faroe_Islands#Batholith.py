@@ -1,0 +1,1 @@
+[["Faroe_Islands", "Europe", "Geology", "Batholith"], ["Faroe_Islands", "Petroleum", "Geology", "Batholith"], ["Faroe_Islands", "Irish_Sea", "Jurassic", "Batholith"], ["Faroe_Islands", "Orkney", "Granite", "Batholith"]]

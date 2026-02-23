@@ -1,0 +1,1 @@
+[["Luxembourg", "Europe", "Anglicanism"], ["Luxembourg", "London", "Anglicanism"], ["Luxembourg", "Roman_Catholic_Church", "Anglicanism"]]

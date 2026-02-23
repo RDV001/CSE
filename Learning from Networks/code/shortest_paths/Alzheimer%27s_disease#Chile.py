@@ -1,0 +1,1 @@
+[["Alzheimer%27s_disease", "Copper", "Chile"]]

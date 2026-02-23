@@ -1,0 +1,1 @@
+[["Afghan_Hound", "20th_century", "12th_century", "Second_Crusade"], ["Afghan_Hound", "Europe", "Byzantine_Empire", "Second_Crusade"], ["Afghan_Hound", "Russia", "Byzantine_Empire", "Second_Crusade"], ["Afghan_Hound", "Russia", "Crusades", "Second_Crusade"]]

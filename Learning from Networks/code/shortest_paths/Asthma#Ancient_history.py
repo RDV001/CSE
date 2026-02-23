@@ -1,0 +1,1 @@
+[["Asthma", "Bacteria", "Tuberculosis", "Ancient_history"]]

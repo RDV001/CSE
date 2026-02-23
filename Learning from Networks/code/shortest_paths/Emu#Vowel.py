@@ -1,0 +1,1 @@
+[["Emu", "Australia", "Chinese_language", "Vowel"], ["Emu", "People%27s_Republic_of_China", "Korea", "Vowel"]]

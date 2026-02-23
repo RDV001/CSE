@@ -1,0 +1,1 @@
+[["Effect_of_Hurricane_Katrina_on_New_Orleans", "Cholera", "Paris", "Impressionism"], ["Effect_of_Hurricane_Katrina_on_New_Orleans", "France", "Paris", "Impressionism"], ["Effect_of_Hurricane_Katrina_on_New_Orleans", "Mississippi_River", "Slovenia", "Impressionism"], ["Effect_of_Hurricane_Katrina_on_New_Orleans", "Natural_disaster", "20th_century", "Impressionism"]]

@@ -1,0 +1,1 @@
+[["15th_century", "21st_century", "Hurricane_Charley", "Hurricane_Floyd"], ["15th_century", "Christopher_Columbus", "The_Bahamas", "Hurricane_Floyd"], ["15th_century", "North_America", "The_Bahamas", "Hurricane_Floyd"]]

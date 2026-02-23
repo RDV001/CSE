@@ -1,0 +1,1 @@
+[["Sirius", "Hubble_Space_Telescope", "United_States_House_of_Representatives"]]

@@ -1,0 +1,1 @@
+[["Maxwell%27s_equations", "Albert_Einstein", "Schizophrenia", "Winter", "Weasel"], ["Maxwell%27s_equations", "Speed_of_light", "California", "Winter", "Weasel"], ["Maxwell%27s_equations", "Speed_of_light", "Water", "Otter", "Weasel"]]

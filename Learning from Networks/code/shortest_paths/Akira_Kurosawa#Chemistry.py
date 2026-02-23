@@ -1,0 +1,1 @@
+[["Akira_Kurosawa", "Japan", "Confucianism", "Chemistry"], ["Akira_Kurosawa", "Japan", "Metal", "Chemistry"], ["Akira_Kurosawa", "United_States", "Education", "Chemistry"], ["Akira_Kurosawa", "United_States", "Malaysia", "Chemistry"]]

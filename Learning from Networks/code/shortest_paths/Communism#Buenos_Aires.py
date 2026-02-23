@@ -1,0 +1,1 @@
+[["Communism", "Argentina", "Buenos_Aires"], ["Communism", "Latin_America", "Buenos_Aires"], ["Communism", "South_America", "Buenos_Aires"]]

@@ -1,0 +1,1 @@
+[["Schr%C3%B6dinger_equation", "Paul_Dirac", "Soviet_Union", "Belarus"], ["Schr%C3%B6dinger_equation", "Time", "Greece", "Belarus"]]

@@ -1,0 +1,1 @@
+[["Richard_Francis_Burton", "Arabic_language", "Oman"], ["Richard_Francis_Burton", "Asia", "Oman"], ["Richard_Francis_Burton", "Islam", "Oman"], ["Richard_Francis_Burton", "Jew", "Oman"], ["Richard_Francis_Burton", "Somalia", "Oman"], ["Richard_Francis_Burton", "Sultan", "Oman"]]

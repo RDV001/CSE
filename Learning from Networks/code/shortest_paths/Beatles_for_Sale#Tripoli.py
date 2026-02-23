@@ -1,0 +1,1 @@
+[["Beatles_for_Sale", "Hamburg", "Africa", "Tripoli"], ["Beatles_for_Sale", "United_States", "History_of_slavery", "Tripoli"]]

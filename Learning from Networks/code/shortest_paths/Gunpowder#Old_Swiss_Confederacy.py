@@ -1,0 +1,1 @@
+[["Gunpowder", "Alchemy", "Black_Death", "Basel", "Old_Swiss_Confederacy"], ["Gunpowder", "Alchemy", "Carl_Jung", "Basel", "Old_Swiss_Confederacy"], ["Gunpowder", "Sulfur", "Italy", "Medieval_commune", "Old_Swiss_Confederacy"]]

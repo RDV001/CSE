@@ -1,0 +1,1 @@
+[["Panama", "Continent", "Geology", "History_of_Earth"], ["Panama", "Theodore_Roosevelt", "Geology", "History_of_Earth"], ["Panama", "Continent", "Precambrian", "History_of_Earth"], ["Panama", "Costa_Rica", "Biodiversity", "History_of_Earth"], ["Panama", "South_America", "Biodiversity", "History_of_Earth"]]

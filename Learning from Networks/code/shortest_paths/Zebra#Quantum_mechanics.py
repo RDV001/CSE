@@ -1,0 +1,1 @@
+[["Zebra", "Animal", "Energy", "Quantum_mechanics"], ["Zebra", "Kenya", "20th_century", "Quantum_mechanics"], ["Zebra", "Lion", "20th_century", "Quantum_mechanics"], ["Zebra", "Mammal", "20th_century", "Quantum_mechanics"]]

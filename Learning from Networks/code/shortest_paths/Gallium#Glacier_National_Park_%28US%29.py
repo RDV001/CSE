@@ -1,0 +1,1 @@
+[["Gallium", "19th_century", "Evolution", "Glacier_National_Park_%28US%29"]]

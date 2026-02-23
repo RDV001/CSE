@@ -1,0 +1,1 @@
+[["Architecture", "Athens", "Basketball", "Michael_Jordan"], ["Architecture", "China", "Basketball", "Michael_Jordan"], ["Architecture", "Rome", "Basketball", "Michael_Jordan"], ["Architecture", "Athens", "Chicago", "Michael_Jordan"], ["Architecture", "Frank_Lloyd_Wright", "Chicago", "Michael_Jordan"], ["Architecture", "Warsaw", "Chicago", "Michael_Jordan"]]

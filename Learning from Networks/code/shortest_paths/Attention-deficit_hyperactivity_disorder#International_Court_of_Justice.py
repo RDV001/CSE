@@ -1,0 +1,1 @@
+[["Attention-deficit_hyperactivity_disorder", "Albert_Einstein", "Nuclear_weapon", "International_Court_of_Justice"], ["Attention-deficit_hyperactivity_disorder", "Zinc", "Nuclear_weapon", "International_Court_of_Justice"], ["Attention-deficit_hyperactivity_disorder", "Thomas_Edison", "Netherlands", "International_Court_of_Justice"]]

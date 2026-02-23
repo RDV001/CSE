@@ -1,0 +1,1 @@
+[["Dallas%2C_Texas", "Judaism", "Menstrual_cycle", "Cat"], ["Dallas%2C_Texas", "United_States", "Baker_Island", "Cat"], ["Dallas%2C_Texas", "United_States", "Howland_Island", "Cat"]]

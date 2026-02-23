@@ -1,0 +1,1 @@
+[["Westminster_System", "London", "Moscow"]]

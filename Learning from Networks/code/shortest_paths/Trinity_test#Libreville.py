@@ -1,0 +1,1 @@
+[["Trinity_test", "Europe", "Africa", "Libreville"], ["Trinity_test", "Europe", "Atlantic_Ocean", "Libreville"], ["Trinity_test", "United_Kingdom", "Atlantic_Ocean", "Libreville"], ["Trinity_test", "United_States", "Atlantic_Ocean", "Libreville"], ["Trinity_test", "Plutonium", "Gabon", "Libreville"], ["Trinity_test", "United_States", "Gabon", "Libreville"]]

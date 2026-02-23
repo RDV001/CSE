@@ -1,0 +1,1 @@
+[["Gabon", "Africa", "Comoros"], ["Gabon", "French_language", "Comoros"], ["Gabon", "List_of_countries_by_system_of_government", "Comoros"], ["Gabon", "Sub-Saharan_Africa", "Comoros"]]

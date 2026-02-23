@@ -1,0 +1,1 @@
+[["David_Livingstone", "Civilization", "Technology"], ["David_Livingstone", "Scotland", "Technology"]]

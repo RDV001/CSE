@@ -1,0 +1,1 @@
+[["The_Temptations", "United_States", "Education", "Child"]]

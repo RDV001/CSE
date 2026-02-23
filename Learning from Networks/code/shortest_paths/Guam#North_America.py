@@ -1,0 +1,1 @@
+[["Guam", "Earth", "North_America"], ["Guam", "Japan", "North_America"], ["Guam", "Mexico", "North_America"], ["Guam", "Pacific_Ocean", "North_America"], ["Guam", "Spain", "North_America"], ["Guam", "United_States", "North_America"]]

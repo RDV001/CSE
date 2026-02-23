@@ -1,0 +1,1 @@
+[["Bouvet_Island", "Norway", "Parliamentary_system", "Parliament_of_Malaysia"], ["Bouvet_Island", "United_Kingdom", "Parliamentary_system", "Parliament_of_Malaysia"]]

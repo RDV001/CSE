@@ -1,0 +1,1 @@
+[["Diamond", "Electronics", "Physics"], ["Diamond", "Light", "Physics"], ["Diamond", "Symmetry", "Physics"], ["Diamond", "Thermodynamics", "Physics"]]

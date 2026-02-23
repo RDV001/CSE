@@ -1,0 +1,1 @@
+[["Woodworking", "Copper", "Alchemy", "Nintendo"], ["Woodworking", "France", "Japan", "Nintendo"], ["Woodworking", "Germany", "Japan", "Nintendo"], ["Woodworking", "Sculpture", "Japan", "Nintendo"]]

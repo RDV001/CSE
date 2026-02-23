@@ -1,0 +1,1 @@
+[["Vodafone", "Czech_Republic", "15th_century"], ["Vodafone", "Italy", "15th_century"], ["Vodafone", "Peru", "15th_century"], ["Vodafone", "Spain", "15th_century"]]

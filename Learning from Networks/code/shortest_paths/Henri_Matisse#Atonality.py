@@ -1,0 +1,1 @@
+[["Henri_Matisse", "Igor_Stravinsky", "Opera", "Atonality"], ["Henri_Matisse", "Neoclassicism", "Opera", "Atonality"], ["Henri_Matisse", "Paris", "Opera", "Atonality"], ["Henri_Matisse", "Igor_Stravinsky", "Richard_Wagner", "Atonality"], ["Henri_Matisse", "Neoclassicism", "20th_century", "Atonality"], ["Henri_Matisse", "Paul_C%C3%A9zanne", "20th_century", "Atonality"]]

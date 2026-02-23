@@ -1,0 +1,1 @@
+[["John_Cabot", "England", "Age_of_Enlightenment", "Political_economy"], ["John_Cabot", "Italy", "Age_of_Enlightenment", "Political_economy"], ["John_Cabot", "Italy", "Capitalism", "Political_economy"]]

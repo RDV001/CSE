@@ -1,0 +1,1 @@
+[["Ferdinandea", "Spain", "Tourism", "Snowdonia"], ["Ferdinandea", "United_Kingdom", "Wales", "Snowdonia"]]

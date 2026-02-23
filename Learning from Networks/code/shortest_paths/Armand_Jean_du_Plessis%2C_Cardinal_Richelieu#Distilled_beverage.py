@@ -1,0 +1,1 @@
+[["Armand_Jean_du_Plessis%2C_Cardinal_Richelieu", "Canada", "League_of_Nations", "Distilled_beverage"], ["Armand_Jean_du_Plessis%2C_Cardinal_Richelieu", "Switzerland", "League_of_Nations", "Distilled_beverage"]]

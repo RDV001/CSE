@@ -1,0 +1,1 @@
+[["Vinaya", "China", "Biology", "Bacteria"], ["Vinaya", "China", "Carboniferous", "Bacteria"], ["Vinaya", "Japan", "Meat", "Bacteria"], ["Vinaya", "Korea", "Protein", "Bacteria"], ["Vinaya", "Mongolia", "17th_century", "Bacteria"], ["Vinaya", "Mongolia", "Copper", "Bacteria"], ["Vinaya", "Myanmar", "Flute", "Bacteria"]]

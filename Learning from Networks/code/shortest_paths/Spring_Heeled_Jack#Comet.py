@@ -1,0 +1,1 @@
+[["Spring_Heeled_Jack", "Earth", "Comet"], ["Spring_Heeled_Jack", "Nature", "Comet"]]

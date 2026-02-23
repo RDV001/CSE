@@ -1,0 +1,1 @@
+[["F-35_Lightning_II", "Cold_War", "Dominican_Republic"], ["F-35_Lightning_II", "United_States", "Dominican_Republic"]]

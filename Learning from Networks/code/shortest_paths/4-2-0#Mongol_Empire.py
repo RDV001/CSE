@@ -1,0 +1,1 @@
+[["4-2-0", "United_States", "Christopher_Columbus", "Mongol_Empire"], ["4-2-0", "United_States", "Islam", "Mongol_Empire"]]

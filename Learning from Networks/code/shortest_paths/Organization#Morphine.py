@@ -1,0 +1,1 @@
+[["Organization", "Ecology", "Cancer", "Morphine"], ["Organization", "Ecology", "Nitrogen", "Morphine"], ["Organization", "Human", "Sigmund_Freud", "Morphine"], ["Organization", "Psychology", "Sigmund_Freud", "Morphine"]]

@@ -1,0 +1,1 @@
+[["Damascus", "Ancient_Egypt", "Fishing", "Krill"], ["Damascus", "Ancient_Rome", "Fishing", "Krill"], ["Damascus", "Egypt", "Fishing", "Krill"], ["Damascus", "Europe", "Crustacean", "Krill"], ["Damascus", "Mediterranean_Sea", "Ocean", "Krill"], ["Damascus", "South_America", "South_Georgia_and_the_South_Sandwich_Islands", "Krill"]]

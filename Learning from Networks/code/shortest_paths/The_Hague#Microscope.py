@@ -1,0 +1,1 @@
+[["The_Hague", "20th_century", "Birth_control", "Microscope"], ["The_Hague", "20th_century", "Cancer", "Microscope"], ["The_Hague", "Brussels", "Albert_Einstein", "Microscope"], ["The_Hague", "France", "Antarctica", "Microscope"]]

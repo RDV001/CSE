@@ -1,0 +1,1 @@
+[["Cuba", "Angola", "Democracy"], ["Cuba", "Europe", "Democracy"], ["Cuba", "European_Union", "Democracy"], ["Cuba", "France", "Democracy"], ["Cuba", "Israel", "Democracy"], ["Cuba", "Jew", "Democracy"], ["Cuba", "John_F._Kennedy", "Democracy"], ["Cuba", "Middle_East", "Democracy"], ["Cuba", "Spain", "Democracy"]]

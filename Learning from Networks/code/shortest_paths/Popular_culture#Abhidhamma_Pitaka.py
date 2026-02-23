@@ -1,0 +1,1 @@
+[["Popular_culture", "Clothing", "Buddhism", "Abhidhamma_Pitaka"], ["Popular_culture", "Culture", "Buddhism", "Abhidhamma_Pitaka"], ["Popular_culture", "The_Simpsons", "Buddhism", "Abhidhamma_Pitaka"], ["Popular_culture", "Time", "Buddhism", "Abhidhamma_Pitaka"]]

@@ -1,0 +1,1 @@
+[["Wood", "Water", "Brazil", "Economic_inequality", "Social_capital"]]

@@ -1,0 +1,1 @@
+[["Snow_Goose", "20th_century", "Africa", "Afrikaans"], ["Snow_Goose", "North_America", "Africa", "Afrikaans"], ["Snow_Goose", "20th_century", "South_Africa", "Afrikaans"], ["Snow_Goose", "Carolus_Linnaeus", "South_Africa", "Afrikaans"], ["Snow_Goose", "Canada", "Second_Boer_War", "Afrikaans"], ["Snow_Goose", "North_America", "Earth", "Afrikaans"]]

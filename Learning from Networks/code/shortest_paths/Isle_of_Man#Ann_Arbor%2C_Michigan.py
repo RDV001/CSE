@@ -1,0 +1,1 @@
+[["Isle_of_Man", "Elizabeth_II_of_the_United_Kingdom", "Gerald_Ford", "Ann_Arbor%2C_Michigan"], ["Isle_of_Man", "Time_zone", "Detroit%2C_Michigan", "Ann_Arbor%2C_Michigan"]]

@@ -1,0 +1,1 @@
+[["Cape_Canaveral", "Puerto_Rico", "Philippines", "Mount_Pinatubo"], ["Cape_Canaveral", "Spanish_language", "Philippines", "Mount_Pinatubo"], ["Cape_Canaveral", "United_States", "Philippines", "Mount_Pinatubo"]]

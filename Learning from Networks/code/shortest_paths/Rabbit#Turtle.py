@@ -1,0 +1,1 @@
+[["Rabbit", "Animal", "Reptile", "Turtle"], ["Rabbit", "Chordate", "Reptile", "Turtle"], ["Rabbit", "Dandelion", "Egg_%28food%29", "Turtle"], ["Rabbit", "Dog", "Egg_%28food%29", "Turtle"], ["Rabbit", "Japan", "Fishing", "Turtle"], ["Rabbit", "Mammal", "Cretaceous", "Turtle"], ["Rabbit", "Mammal", "Dinosaur", "Turtle"]]

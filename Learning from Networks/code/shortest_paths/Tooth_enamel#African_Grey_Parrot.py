@@ -1,0 +1,1 @@
+[["Tooth_enamel", "Juice", "New_Zealand", "Parrot", "African_Grey_Parrot"], ["Tooth_enamel", "Tea", "Myanmar", "Parrot", "African_Grey_Parrot"]]

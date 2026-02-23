@@ -1,0 +1,1 @@
+[["Erbium", "List_of_elements_by_name", "Fluorine"], ["Erbium", "Metal", "Fluorine"], ["Erbium", "Oxygen", "Fluorine"], ["Erbium", "Periodic_table", "Fluorine"], ["Erbium", "Xenon", "Fluorine"]]

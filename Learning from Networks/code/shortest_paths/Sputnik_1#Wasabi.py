@@ -1,0 +1,1 @@
+[["Sputnik_1", "Cold_War", "Japan", "Wasabi"], ["Sputnik_1", "Moon", "Japan", "Wasabi"], ["Sputnik_1", "New_York_City", "Japan", "Wasabi"], ["Sputnik_1", "Space_Race", "Japan", "Wasabi"], ["Sputnik_1", "United_Nations", "Japan", "Wasabi"], ["Sputnik_1", "United_States", "Japan", "Wasabi"]]

@@ -1,0 +1,1 @@
+[["Portugal", "Africa", "Nigeria"], ["Portugal", "Atlantic_Ocean", "Nigeria"], ["Portugal", "Brazil", "Nigeria"], ["Portugal", "Lebanon", "Nigeria"], ["Portugal", "List_of_countries_by_system_of_government", "Nigeria"], ["Portugal", "Mozambique", "Nigeria"]]

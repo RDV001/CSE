@@ -1,0 +1,1 @@
+[["Temperate", "United_Kingdom", "Channel_Islands", "Weymouth"], ["Temperate", "United_Kingdom", "Guernsey", "Weymouth"]]

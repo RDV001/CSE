@@ -1,0 +1,1 @@
+[["Drawing", "Europe", "Berlin", "Volleyball"], ["Drawing", "Vincent_van_Gogh", "Berlin", "Volleyball"], ["Drawing", "Europe", "Bucharest", "Volleyball"], ["Drawing", "Europe", "Bulgaria", "Volleyball"], ["Drawing", "Europe", "Vienna", "Volleyball"], ["Drawing", "Raphael", "Vienna", "Volleyball"]]

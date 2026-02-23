@@ -1,0 +1,1 @@
+[["Wallis_and_Futuna", "18th_century", "Afghanistan"], ["Wallis_and_Futuna", "List_of_countries_by_system_of_government", "Afghanistan"], ["Wallis_and_Futuna", "Time_zone", "Afghanistan"]]

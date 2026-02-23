@@ -1,0 +1,1 @@
+[["Drawing", "Europe", "Dolphin", "Down_syndrome"], ["Drawing", "Leonardo_da_Vinci", "Brain", "Down_syndrome"], ["Drawing", "Paul_C%C3%A9zanne", "Brain", "Down_syndrome"]]

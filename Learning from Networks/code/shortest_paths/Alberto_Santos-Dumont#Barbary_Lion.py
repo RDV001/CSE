@@ -1,0 +1,1 @@
+[["Alberto_Santos-Dumont", "Europe", "Carnivore", "Tiger", "Barbary_Lion"], ["Alberto_Santos-Dumont", "Soviet_Union", "Nazi_Germany", "Tiger", "Barbary_Lion"]]

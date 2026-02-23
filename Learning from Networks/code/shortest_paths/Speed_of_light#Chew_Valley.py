@@ -1,0 +1,1 @@
+[["Speed_of_light", "Isaac_Newton", "John_Locke", "Chew_Magna", "Chew_Valley"], ["Speed_of_light", "Philosophy", "John_Locke", "Chew_Magna", "Chew_Valley"], ["Speed_of_light", "Ren%C3%A9_Descartes", "John_Locke", "Chew_Magna", "Chew_Valley"]]

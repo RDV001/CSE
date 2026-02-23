@@ -1,0 +1,1 @@
+[["English_language", "Israel", "Assyria", "Akkadian_Empire"], ["English_language", "Israel", "Babylonia", "Akkadian_Empire"], ["English_language", "Poetry", "Mesopotamia", "Akkadian_Empire"], ["English_language", "Poetry", "Sumer", "Akkadian_Empire"], ["English_language", "United_States", "History_of_slavery", "Akkadian_Empire"]]

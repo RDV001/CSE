@@ -1,0 +1,1 @@
+[["Vitamin_D", "Australia", "Dingo", "Dog", "Mixed-breed_dog"], ["Vitamin_D", "Australia", "Elizabeth_II_of_the_United_Kingdom", "Dog", "Mixed-breed_dog"], ["Vitamin_D", "Egg_%28food%29", "Chicken", "Dog", "Mixed-breed_dog"], ["Vitamin_D", "Milk", "Chocolate", "Dog", "Mixed-breed_dog"], ["Vitamin_D", "Cheese", "Space_exploration", "Laika", "Mixed-breed_dog"]]

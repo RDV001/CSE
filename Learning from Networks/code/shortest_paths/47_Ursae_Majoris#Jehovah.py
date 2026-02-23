@@ -1,0 +1,1 @@
+[["47_Ursae_Majoris", "Day", "God", "Jehovah"]]

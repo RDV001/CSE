@@ -1,0 +1,1 @@
+[["Wave", "Earthquake", "Earth", "Dinosaur", "Ammosaurus"], ["Wave", "Speed_of_light", "Earth", "Dinosaur", "Ammosaurus"], ["Wave", "Ultraviolet", "Reptile", "Dinosaur", "Ammosaurus"]]

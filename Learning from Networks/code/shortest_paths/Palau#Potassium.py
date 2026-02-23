@@ -1,0 +1,1 @@
+[["Palau", "Fishing", "Beer", "Potassium"], ["Palau", "Fishing", "Fertilizer", "Potassium"], ["Palau", "Japan", "Metal", "Potassium"], ["Palau", "Japan", "Moon", "Potassium"], ["Palau", "United_States", "Moon", "Potassium"], ["Palau", "Pacific_Ocean", "Igneous_rock", "Potassium"], ["Palau", "Tropical_cyclone", "Energy", "Potassium"]]

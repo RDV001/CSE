@@ -1,0 +1,1 @@
+[["Church_of_England", "Elizabeth_II_of_the_United_Kingdom", "George_H._W._Bush"]]

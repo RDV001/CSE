@@ -1,0 +1,1 @@
+[["Ralph_Nader", "Ronald_Reagan", "Nintendo_Entertainment_System"]]

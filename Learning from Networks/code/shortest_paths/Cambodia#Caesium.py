@@ -1,0 +1,1 @@
+[["Cambodia", "15th_century", "Time", "Caesium"], ["Cambodia", "Time_zone", "Time", "Caesium"], ["Cambodia", "China", "Clock", "Caesium"], ["Cambodia", "Currency", "Gold", "Caesium"], ["Cambodia", "United_States_dollar", "Gold", "Caesium"], ["Cambodia", "India", "Indian_Standard_Time", "Caesium"]]

@@ -1,0 +1,1 @@
+[["Hurricane_Katrina", "Bacteria", "Evolution", "Ape"], ["Hurricane_Katrina", "Race", "Evolution", "Ape"], ["Hurricane_Katrina", "Bacteria", "Human", "Ape"], ["Hurricane_Katrina", "Food", "Vitamin_C", "Ape"], ["Hurricane_Katrina", "Race", "Charles_Darwin", "Ape"]]

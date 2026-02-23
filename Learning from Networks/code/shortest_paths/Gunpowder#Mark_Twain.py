@@ -1,0 +1,1 @@
+[["Gunpowder", "China", "River", "Mark_Twain"], ["Gunpowder", "Fire", "Hinduism", "Mark_Twain"], ["Gunpowder", "Steel", "19th_century", "Mark_Twain"]]

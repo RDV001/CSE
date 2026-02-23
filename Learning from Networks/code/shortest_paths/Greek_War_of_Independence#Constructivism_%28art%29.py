@@ -1,0 +1,1 @@
+[["Greek_War_of_Independence", "Athens", "Moscow", "Constructivism_%28art%29"], ["Greek_War_of_Independence", "Byzantine_Empire", "Moscow", "Constructivism_%28art%29"], ["Greek_War_of_Independence", "Napoleon_I_of_France", "Moscow", "Constructivism_%28art%29"]]

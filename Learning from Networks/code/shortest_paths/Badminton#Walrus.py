@@ -1,0 +1,1 @@
+[["Badminton", "Africa", "Carnivore", "Walrus"], ["Badminton", "Europe", "Carnivore", "Walrus"], ["Badminton", "Europe", "Arctic_Ocean", "Walrus"]]

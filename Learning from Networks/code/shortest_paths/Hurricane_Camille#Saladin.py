@@ -1,0 +1,1 @@
+[["Hurricane_Camille", "20th_century", "12th_century", "Saladin"], ["Hurricane_Camille", "Africa", "Cairo", "Saladin"], ["Hurricane_Camille", "Africa", "Islam", "Saladin"], ["Hurricane_Camille", "Southern_United_States", "Islam", "Saladin"], ["Hurricane_Camille", "United_States", "Islam", "Saladin"]]

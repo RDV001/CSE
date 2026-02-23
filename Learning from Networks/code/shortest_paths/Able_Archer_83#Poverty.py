@@ -1,0 +1,1 @@
+[["Able_Archer_83", "Margaret_Thatcher", "Poverty"]]

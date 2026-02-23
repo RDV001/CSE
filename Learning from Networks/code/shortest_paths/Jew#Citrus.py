@@ -1,0 +1,1 @@
+[["Jew", "Algeria", "Citrus"], ["Jew", "Argentina", "Citrus"], ["Jew", "Islam", "Citrus"], ["Jew", "South_Africa", "Citrus"]]

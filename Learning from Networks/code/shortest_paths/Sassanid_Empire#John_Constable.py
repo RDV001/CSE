@@ -1,0 +1,1 @@
+[["Sassanid_Empire", "China", "Painting", "John_Constable"], ["Sassanid_Empire", "Iran", "Nature", "John_Constable"], ["Sassanid_Empire", "Plato", "Nature", "John_Constable"], ["Sassanid_Empire", "Monarchy", "England", "John_Constable"], ["Sassanid_Empire", "Zionism", "Romanticism", "John_Constable"]]

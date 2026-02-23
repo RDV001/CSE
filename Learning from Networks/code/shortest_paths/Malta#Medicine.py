@@ -1,0 +1,1 @@
+[["Malta", "Byzantine_Empire", "Medicine"]]

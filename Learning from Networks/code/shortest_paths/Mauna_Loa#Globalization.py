@@ -1,0 +1,1 @@
+[["Mauna_Loa", "Global_warming", "Civilization", "Globalization"]]

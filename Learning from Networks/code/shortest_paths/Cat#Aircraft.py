@@ -1,0 +1,1 @@
+[["Cat", "Ancient_Egypt", "Archaeology", "Aircraft"], ["Cat", "Horse", "Archaeology", "Aircraft"], ["Cat", "Bear", "Bicycle", "Aircraft"], ["Cat", "Cheetah", "Sanskrit", "Aircraft"], ["Cat", "Cyprus", "World_War_II", "Aircraft"], ["Cat", "Protein", "World_War_II", "Aircraft"]]

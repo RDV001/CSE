@@ -1,0 +1,1 @@
+[["Vladimir_Lenin", "Leon_Trotsky"]]

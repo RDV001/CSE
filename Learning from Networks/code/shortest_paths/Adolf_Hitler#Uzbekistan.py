@@ -1,0 +1,1 @@
+[["Adolf_Hitler", "Berlin", "Uzbekistan"], ["Adolf_Hitler", "Nationalism", "Uzbekistan"], ["Adolf_Hitler", "Soviet_Union", "Uzbekistan"]]

@@ -1,0 +1,1 @@
+[["Market", "Minimum_wage", "Bill_Clinton", "Warren_G._Harding"]]

@@ -1,0 +1,1 @@
+[["Nazism", "Germany", "Robert_Schumann"], ["Nazism", "Romanticism", "Robert_Schumann"]]

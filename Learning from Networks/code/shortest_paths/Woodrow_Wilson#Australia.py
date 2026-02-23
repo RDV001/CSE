@@ -1,0 +1,1 @@
+[["Woodrow_Wilson", "American_football", "Australia"], ["Woodrow_Wilson", "Atlanta%2C_Georgia", "Australia"], ["Woodrow_Wilson", "Electrical_engineering", "Australia"], ["Woodrow_Wilson", "France", "Australia"], ["Woodrow_Wilson", "League_of_Nations", "Australia"], ["Woodrow_Wilson", "Magna_Carta", "Australia"], ["Woodrow_Wilson", "Parliamentary_system", "Australia"]]

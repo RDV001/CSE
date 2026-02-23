@@ -1,0 +1,1 @@
+[["Andorra", "Lead", "List_of_elements_by_name", "Samarium"], ["Andorra", "Lead", "Periodic_table", "Samarium"]]

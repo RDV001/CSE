@@ -1,0 +1,1 @@
+[["Theodore_Roosevelt", "Bill_Clinton", "Mikhail_Gorbachev"], ["Theodore_Roosevelt", "Nobel_Peace_Prize", "Mikhail_Gorbachev"], ["Theodore_Roosevelt", "Russia", "Mikhail_Gorbachev"]]

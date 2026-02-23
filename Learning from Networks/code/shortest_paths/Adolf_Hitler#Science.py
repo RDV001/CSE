@@ -1,0 +1,1 @@
+[["Adolf_Hitler", "Architecture", "Science"], ["Adolf_Hitler", "Art", "Science"]]

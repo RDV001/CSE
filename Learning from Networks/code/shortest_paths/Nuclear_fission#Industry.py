@@ -1,0 +1,1 @@
+[["Nuclear_fission", "Japan", "Industry"], ["Nuclear_fission", "Technology", "Industry"]]

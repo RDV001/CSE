@@ -1,0 +1,1 @@
+[["Bible", "19th_century", "Athens"], ["Bible", "Ancient_history", "Athens"], ["Bible", "Byzantine_Empire", "Athens"]]

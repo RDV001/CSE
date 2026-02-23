@@ -1,0 +1,1 @@
+[["Gerald_Ford", "Beer", "B_vitamins", "Vitamin_D"], ["Gerald_Ford", "Pneumonia", "Cystic_fibrosis", "Vitamin_D"]]

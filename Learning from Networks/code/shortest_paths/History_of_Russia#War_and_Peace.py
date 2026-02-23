@@ -1,0 +1,1 @@
+[["History_of_Russia", "Anarchism", "Leo_Tolstoy", "War_and_Peace"], ["History_of_Russia", "Crimean_War", "Leo_Tolstoy", "War_and_Peace"], ["History_of_Russia", "Cold_War", "Jimmy_Carter", "War_and_Peace"]]

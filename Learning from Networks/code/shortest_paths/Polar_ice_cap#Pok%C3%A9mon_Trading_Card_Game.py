@@ -1,0 +1,1 @@
+[["Polar_ice_cap", "Season", "Mahjong", "Card_game", "Pok%C3%A9mon_Trading_Card_Game"]]

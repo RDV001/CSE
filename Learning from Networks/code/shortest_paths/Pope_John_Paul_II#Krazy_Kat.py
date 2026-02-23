@@ -1,0 +1,1 @@
+[["Pope_John_Paul_II", "John_Calvin", "Calvin_and_Hobbes", "Krazy_Kat"]]

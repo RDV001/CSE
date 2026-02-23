@@ -1,0 +1,1 @@
+[["George_Fox", "Amsterdam", "Industrial_Revolution"], ["George_Fox", "England", "Industrial_Revolution"], ["George_Fox", "Germany", "Industrial_Revolution"], ["George_Fox", "Roman_Catholic_Church", "Industrial_Revolution"]]

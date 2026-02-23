@@ -1,0 +1,1 @@
+[["Camel", "Ancient_Greece", "Olympic_Games", "Statue_of_Zeus_at_Olympia"], ["Camel", "Australia", "Olympic_Games", "Statue_of_Zeus_at_Olympia"], ["Camel", "Ethiopia", "Olympic_Games", "Statue_of_Zeus_at_Olympia"], ["Camel", "Ancient_Rome", "Zeus", "Statue_of_Zeus_at_Olympia"]]

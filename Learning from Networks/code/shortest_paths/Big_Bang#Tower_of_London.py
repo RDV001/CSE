@@ -1,0 +1,1 @@
+[["Big_Bang", "BBC", "England", "Tower_of_London"], ["Big_Bang", "Gravitation", "England", "Tower_of_London"], ["Big_Bang", "Jew", "England", "Tower_of_London"], ["Big_Bang", "BBC", "London", "Tower_of_London"], ["Big_Bang", "Metric_expansion_of_space", "London", "Tower_of_London"]]

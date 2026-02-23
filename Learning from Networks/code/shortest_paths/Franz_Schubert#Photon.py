@@ -1,0 +1,1 @@
+[["Franz_Schubert", "Mercury_%28element%29", "Electron", "Photon"], ["Franz_Schubert", "Mercury_%28element%29", "Matter", "Photon"], ["Franz_Schubert", "Mercury_%28element%29", "Phase_%28matter%29", "Photon"], ["Franz_Schubert", "Mercury_%28element%29", "Sulfuric_acid", "Photon"]]

@@ -1,0 +1,1 @@
+[["Capitalism", "United_States", "The_Bahamas"]]

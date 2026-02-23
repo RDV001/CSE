@@ -1,0 +1,1 @@
+[["Earl_of_Shaftesbury", "Charles_II_of_England", "Africa", "Giraffe"]]

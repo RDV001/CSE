@@ -1,0 +1,1 @@
+[["Carl_Friedrich_Gauss", "Ancient_Greece", "Bread", "Tuna"], ["Carl_Friedrich_Gauss", "United_States", "Pacific_Ocean", "Tuna"]]

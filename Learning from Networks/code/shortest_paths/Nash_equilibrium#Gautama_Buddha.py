@@ -1,0 +1,1 @@
+[["Nash_equilibrium", "Economics", "Philosophy", "Gautama_Buddha"], ["Nash_equilibrium", "Game_theory", "Philosophy", "Gautama_Buddha"]]

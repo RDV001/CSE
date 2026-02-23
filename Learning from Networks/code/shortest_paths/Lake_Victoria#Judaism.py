@@ -1,0 +1,1 @@
+[["Lake_Victoria", "Africa", "Judaism"], ["Lake_Victoria", "Uganda", "Judaism"], ["Lake_Victoria", "United_Kingdom", "Judaism"]]

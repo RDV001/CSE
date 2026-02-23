@@ -1,0 +1,1 @@
+[["Mathematics", "American_English", "Dutch_language", "West_Flemish"], ["Mathematics", "English_language", "Dutch_language", "West_Flemish"], ["Mathematics", "French_language", "Dutch_language", "West_Flemish"], ["Mathematics", "German_language", "Dutch_language", "West_Flemish"], ["Mathematics", "Language", "Dutch_language", "West_Flemish"]]

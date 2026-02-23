@@ -1,0 +1,1 @@
+[["Architecture", "Athens", "Munich"], ["Architecture", "Germany", "Munich"], ["Architecture", "Leonardo_da_Vinci", "Munich"]]

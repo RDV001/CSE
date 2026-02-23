@@ -1,0 +1,1 @@
+[["African_Buffalo", "Ethiopia", "China", "Calligraphy", "Windows_Vista"], ["African_Buffalo", "Kenya", "China", "Calligraphy", "Windows_Vista"], ["African_Buffalo", "South_Africa", "China", "Calligraphy", "Windows_Vista"], ["African_Buffalo", "Water_Buffalo", "China", "Calligraphy", "Windows_Vista"], ["African_Buffalo", "Zimbabwe", "China", "Calligraphy", "Windows_Vista"]]

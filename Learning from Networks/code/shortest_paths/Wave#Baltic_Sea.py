@@ -1,0 +1,1 @@
+[["Wave", "Speed_of_light", "Moscow", "Baltic_Sea"]]

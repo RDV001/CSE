@@ -1,0 +1,1 @@
+[["Primula", "Ethiopia", "Scramble_for_Africa", "Nelson_Mandela"], ["Primula", "Ethiopia", "South_Africa", "Nelson_Mandela"], ["Primula", "Ethiopia", "Tony_Blair", "Nelson_Mandela"], ["Primula", "Indonesia", "Terrorism", "Nelson_Mandela"]]

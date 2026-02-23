@@ -1,0 +1,1 @@
+[["Telecommunication", "South_America", "European_Space_Agency"]]

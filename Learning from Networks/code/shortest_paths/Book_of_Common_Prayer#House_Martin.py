@@ -1,0 +1,1 @@
+[["Book_of_Common_Prayer", "Charles_I_of_England", "Newmarket", "Bird", "House_Sparrow", "House_Martin"], ["Book_of_Common_Prayer", "England", "Winter", "Bird", "House_Sparrow", "House_Martin"], ["Book_of_Common_Prayer", "English_language", "Puerto_Rico", "Bird", "House_Sparrow", "House_Martin"]]

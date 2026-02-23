@@ -1,0 +1,1 @@
+[["Trigonometric_function", "American_English", "Chicago"]]

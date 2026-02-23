@@ -1,0 +1,1 @@
+[["Kangaroo", "Australia", "England", "Stephen_Hawking"], ["Kangaroo", "English_language", "England", "Stephen_Hawking"], ["Kangaroo", "Europe", "England", "Stephen_Hawking"], ["Kangaroo", "James_Cook", "England", "Stephen_Hawking"], ["Kangaroo", "Wallaby", "England", "Stephen_Hawking"]]

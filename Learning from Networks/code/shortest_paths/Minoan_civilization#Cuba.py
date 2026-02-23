@@ -1,0 +1,1 @@
+[["Minoan_civilization", "Atlantis", "Cuba"], ["Minoan_civilization", "Spain", "Cuba"]]

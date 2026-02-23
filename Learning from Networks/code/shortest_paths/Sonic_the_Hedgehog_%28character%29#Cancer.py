@@ -1,0 +1,1 @@
+[["Sonic_the_Hedgehog_%28character%29", "Dog", "Cancer"], ["Sonic_the_Hedgehog_%28character%29", "Drosophila_melanogaster", "Cancer"]]

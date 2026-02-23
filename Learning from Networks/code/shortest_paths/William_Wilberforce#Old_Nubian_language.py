@@ -1,0 +1,1 @@
+[["William_Wilberforce", "Africa", "Sudan", "Makuria", "Old_Nubian_language"], ["William_Wilberforce", "Napoleonic_Wars", "Nationalism", "Nobiin_language", "Old_Nubian_language"]]

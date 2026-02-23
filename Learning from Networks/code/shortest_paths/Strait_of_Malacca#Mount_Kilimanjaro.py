@@ -1,0 +1,1 @@
+[["Strait_of_Malacca", "Africa", "Nairobi", "Mount_Kilimanjaro"], ["Strait_of_Malacca", "Africa", "Tanzania", "Mount_Kilimanjaro"], ["Strait_of_Malacca", "Egypt", "Tanzania", "Mount_Kilimanjaro"]]

@@ -1,0 +1,1 @@
+[["Paleontology", "Ecology", "Light", "Contact_lens"], ["Paleontology", "Plant", "Light", "Contact_lens"]]

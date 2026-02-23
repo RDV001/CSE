@@ -1,0 +1,1 @@
+[["Dwight_D._Eisenhower", "Franklin_D._Roosevelt", "Republic_of_China"], ["Dwight_D._Eisenhower", "Harry_S._Truman", "Republic_of_China"], ["Dwight_D._Eisenhower", "Richard_Nixon", "Republic_of_China"], ["Dwight_D._Eisenhower", "United_States", "Republic_of_China"], ["Dwight_D._Eisenhower", "World_War_II", "Republic_of_China"]]

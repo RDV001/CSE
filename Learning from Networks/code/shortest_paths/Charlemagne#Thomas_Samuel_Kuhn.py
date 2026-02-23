@@ -1,0 +1,1 @@
+[["Charlemagne", "Architecture", "Science", "Thomas_Samuel_Kuhn"], ["Charlemagne", "Art", "Science", "Thomas_Samuel_Kuhn"], ["Charlemagne", "Latin", "Science", "Thomas_Samuel_Kuhn"], ["Charlemagne", "Religion", "Science", "Thomas_Samuel_Kuhn"]]

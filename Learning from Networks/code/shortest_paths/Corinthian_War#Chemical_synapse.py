@@ -1,0 +1,1 @@
+[["Corinthian_War", "Alexander_the_Great", "Afghanistan", "Morphine", "Chemical_synapse"], ["Corinthian_War", "Ancient_Greece", "Afghanistan", "Morphine", "Chemical_synapse"], ["Corinthian_War", "Alexander_the_Great", "Medicine", "Eye", "Chemical_synapse"], ["Corinthian_War", "Ancient_Greece", "Onion", "Eye", "Chemical_synapse"]]

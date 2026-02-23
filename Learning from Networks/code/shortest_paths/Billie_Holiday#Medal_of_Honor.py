@@ -1,0 +1,1 @@
+[["Billie_Holiday", "United_States", "Attack_on_Pearl_Harbor", "Medal_of_Honor"], ["Billie_Holiday", "United_States", "Wake_Island", "Medal_of_Honor"]]

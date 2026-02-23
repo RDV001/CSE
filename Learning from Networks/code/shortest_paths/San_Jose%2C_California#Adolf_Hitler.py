@@ -1,0 +1,1 @@
+[["San_Jose%2C_California", "Aluminium", "Adolf_Hitler"], ["San_Jose%2C_California", "Jew", "Adolf_Hitler"], ["San_Jose%2C_California", "Nazism", "Adolf_Hitler"], ["San_Jose%2C_California", "Propaganda", "Adolf_Hitler"], ["San_Jose%2C_California", "World_War_II", "Adolf_Hitler"]]

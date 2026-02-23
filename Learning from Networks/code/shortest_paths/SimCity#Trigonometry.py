@@ -1,0 +1,1 @@
+[["SimCity", "Germany", "Georg_Cantor", "Trigonometry"], ["SimCity", "Industry", "Computer", "Trigonometry"], ["SimCity", "United_Kingdom", "Computer", "Trigonometry"], ["SimCity", "United_States", "Computer", "Trigonometry"]]

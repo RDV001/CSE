@@ -1,0 +1,1 @@
+[["Neodymium", "Astronomy", "Law", "Political_philosophy"], ["Neodymium", "Earth", "Thomas_Aquinas", "Political_philosophy"]]

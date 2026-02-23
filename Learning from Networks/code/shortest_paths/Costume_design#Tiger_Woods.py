@@ -1,0 +1,1 @@
+[["Costume_design", "Gone_with_the_Wind_%28film%29", "Australia", "Grand_Slam_%28tennis%29", "Tiger_Woods"], ["Costume_design", "Gone_with_the_Wind_%28film%29", "United_Kingdom", "Grand_Slam_%28tennis%29", "Tiger_Woods"], ["Costume_design", "Howards_End", "United_Kingdom", "Grand_Slam_%28tennis%29", "Tiger_Woods"]]

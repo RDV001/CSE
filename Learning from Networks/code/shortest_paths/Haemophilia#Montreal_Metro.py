@@ -1,0 +1,1 @@
+[["Haemophilia", "Jew", "Canada", "Montreal", "Montreal_Metro"], ["Haemophilia", "Victoria_of_the_United_Kingdom", "Canada", "Montreal", "Montreal_Metro"], ["Haemophilia", "Victoria_of_the_United_Kingdom", "Rail_transport", "Montreal", "Montreal_Metro"]]

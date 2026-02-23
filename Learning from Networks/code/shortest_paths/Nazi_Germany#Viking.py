@@ -1,0 +1,1 @@
+[["Nazi_Germany", "Denmark", "Viking"], ["Nazi_Germany", "English_language", "Viking"], ["Nazi_Germany", "Norway", "Viking"], ["Nazi_Germany", "Sweden", "Viking"]]

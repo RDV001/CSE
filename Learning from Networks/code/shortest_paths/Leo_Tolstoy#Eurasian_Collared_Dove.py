@@ -1,0 +1,1 @@
+[["Leo_Tolstoy", "Communism", "Human", "Dove", "Eurasian_Collared_Dove"], ["Leo_Tolstoy", "Fiction", "Human", "Dove", "Eurasian_Collared_Dove"], ["Leo_Tolstoy", "South_Africa", "Human", "Dove", "Eurasian_Collared_Dove"], ["Leo_Tolstoy", "India", "Sikkim", "Pigeon", "Eurasian_Collared_Dove"]]

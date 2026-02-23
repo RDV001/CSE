@@ -1,0 +1,1 @@
+[["Proton", "Physics", "Anthropology", "Sigmund_Freud"], ["Proton", "Physics", "Philosophy", "Sigmund_Freud"], ["Proton", "Speed_of_light", "Philosophy", "Sigmund_Freud"]]

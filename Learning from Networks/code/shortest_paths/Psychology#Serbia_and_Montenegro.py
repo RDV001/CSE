@@ -1,0 +1,1 @@
+[["Psychology", "Germany", "Montenegro", "Serbia_and_Montenegro"], ["Psychology", "Russia", "Montenegro", "Serbia_and_Montenegro"], ["Psychology", "Germany", "Serbia", "Serbia_and_Montenegro"], ["Psychology", "Russia", "Serbia", "Serbia_and_Montenegro"], ["Psychology", "Germany", "Yugoslavia", "Serbia_and_Montenegro"]]

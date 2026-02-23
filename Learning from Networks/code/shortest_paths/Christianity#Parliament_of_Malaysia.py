@@ -1,0 +1,1 @@
+[["Christianity", "Middle_East", "Parliamentary_system", "Parliament_of_Malaysia"], ["Christianity", "Oceania", "Malaysia", "Parliament_of_Malaysia"], ["Christianity", "Philippines", "Malaysia", "Parliament_of_Malaysia"], ["Christianity", "Sudan", "Malaysia", "Parliament_of_Malaysia"]]

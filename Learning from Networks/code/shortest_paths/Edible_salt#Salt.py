@@ -1,0 +1,1 @@
+[["Edible_salt", "Aluminium", "Salt"], ["Edible_salt", "Folic_acid", "Salt"], ["Edible_salt", "Mali", "Salt"], ["Edible_salt", "Mineral", "Salt"], ["Edible_salt", "Potassium_iodide", "Salt"], ["Edible_salt", "Timbuktu", "Salt"]]

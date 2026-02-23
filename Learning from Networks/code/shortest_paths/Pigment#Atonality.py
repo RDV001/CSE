@@ -1,0 +1,1 @@
+[["Pigment", "Cochineal", "20th_century", "Atonality"], ["Pigment", "Paul_C%C3%A9zanne", "20th_century", "Atonality"], ["Pigment", "Peru", "20th_century", "Atonality"], ["Pigment", "South_America", "20th_century", "Atonality"], ["Pigment", "Germany", "Richard_Wagner", "Atonality"], ["Pigment", "United_Kingdom", "Opera", "Atonality"]]

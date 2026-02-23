@@ -1,0 +1,1 @@
+[["Bog", "Carbon_dioxide", "Color", "Retina"], ["Bog", "Carbon_dioxide", "Welding", "Retina"], ["Bog", "Insect", "Ultraviolet", "Retina"]]

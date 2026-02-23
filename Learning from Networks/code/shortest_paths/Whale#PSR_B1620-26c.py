@@ -1,0 +1,1 @@
+[["Whale", "Energy", "Star", "Binary_star", "PSR_B1620-26c"], ["Whale", "Energy", "Star", "Extrasolar_planet", "PSR_B1620-26c"]]

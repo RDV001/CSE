@@ -1,0 +1,1 @@
+[["5th_century", "16th_century", "Florida", "Labor_Day_Hurricane_of_1935"], ["5th_century", "21st_century", "Florida", "Labor_Day_Hurricane_of_1935"], ["5th_century", "21st_century", "Hurricane_Andrew", "Labor_Day_Hurricane_of_1935"], ["5th_century", "21st_century", "Hurricane_Ivan", "Labor_Day_Hurricane_of_1935"]]

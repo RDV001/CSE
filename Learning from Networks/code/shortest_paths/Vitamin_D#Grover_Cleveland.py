@@ -1,0 +1,1 @@
+[["Vitamin_D", "Cheese", "United_States_dollar", "Grover_Cleveland"]]

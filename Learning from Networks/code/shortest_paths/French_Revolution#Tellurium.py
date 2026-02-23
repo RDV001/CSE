@@ -1,0 +1,1 @@
+[["French_Revolution", "Europe", "Earth", "Tellurium"]]

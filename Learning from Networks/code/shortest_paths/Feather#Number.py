@@ -1,0 +1,1 @@
+[["Feather", "Eagle", "Austria", "Number"], ["Feather", "Heat", "Quantity", "Number"], ["Feather", "Winter", "Meteorology", "Number"]]

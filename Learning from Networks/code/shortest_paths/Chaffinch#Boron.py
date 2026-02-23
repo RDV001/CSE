@@ -1,0 +1,1 @@
+[["Chaffinch", "Africa", "Diamond", "Boron"], ["Chaffinch", "Animal", "Carbon_dioxide", "Boron"], ["Chaffinch", "Bird_migration", "Hydrogen", "Boron"], ["Chaffinch", "Seed", "Fertilizer", "Boron"], ["Chaffinch", "Sweden", "Nuclear_fission", "Boron"]]

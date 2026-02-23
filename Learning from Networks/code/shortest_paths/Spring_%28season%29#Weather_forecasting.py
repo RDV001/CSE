@@ -1,0 +1,1 @@
+[["Spring_%28season%29", "Earth", "Weather", "Weather_forecasting"], ["Spring_%28season%29", "Meteorology", "Weather", "Weather_forecasting"], ["Spring_%28season%29", "Temperate", "Weather", "Weather_forecasting"], ["Spring_%28season%29", "Tropical_cyclone", "Weather", "Weather_forecasting"]]

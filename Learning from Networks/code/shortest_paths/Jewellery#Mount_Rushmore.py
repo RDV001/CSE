@@ -1,0 +1,1 @@
+[["Jewellery", "Abraham_Lincoln", "President_of_the_United_States", "Mount_Rushmore"], ["Jewellery", "American_English", "Thomas_Jefferson", "Mount_Rushmore"]]

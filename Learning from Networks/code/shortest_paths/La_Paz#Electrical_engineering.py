@@ -1,0 +1,1 @@
+[["La_Paz", "Bolivia", "Computer", "Electrical_engineering"]]

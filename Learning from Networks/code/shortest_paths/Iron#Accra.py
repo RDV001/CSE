@@ -1,0 +1,1 @@
+[["Iron", "Agriculture", "Africa", "Accra"], ["Iron", "Carbon", "Africa", "Accra"], ["Iron", "Earth", "Africa", "Accra"], ["Iron", "Egypt", "Africa", "Accra"], ["Iron", "Earth", "Atlantic_Ocean", "Accra"], ["Iron", "Georgia_%28country%29", "Ghana", "Accra"]]

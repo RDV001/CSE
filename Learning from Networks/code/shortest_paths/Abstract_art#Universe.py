@@ -1,0 +1,1 @@
+[["Abstract_art", "20th_century", "Moore%27s_Law", "Universe"], ["Abstract_art", "20th_century", "Physics", "Universe"], ["Abstract_art", "Art", "Human", "Universe"], ["Abstract_art", "Art", "Mesopotamia", "Universe"], ["Abstract_art", "Art", "Science", "Universe"], ["Abstract_art", "Calligraphy", "Religion", "Universe"]]

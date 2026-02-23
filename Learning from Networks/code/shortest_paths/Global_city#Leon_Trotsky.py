@@ -1,0 +1,1 @@
+[["Global_city", "Capitalism", "Leon_Trotsky"], ["Global_city", "Mexico_City", "Leon_Trotsky"]]

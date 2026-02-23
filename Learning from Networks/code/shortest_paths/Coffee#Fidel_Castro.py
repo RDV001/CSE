@@ -1,0 +1,1 @@
+[["Coffee", "Egypt", "Cold_War", "Fidel_Castro"], ["Coffee", "India", "Cold_War", "Fidel_Castro"], ["Coffee", "Vietnam", "Cold_War", "Fidel_Castro"], ["Coffee", "Netherlands", "21st_century", "Fidel_Castro"], ["Coffee", "Sugar", "Cuba", "Fidel_Castro"], ["Coffee", "Vietnam", "Cuba", "Fidel_Castro"]]

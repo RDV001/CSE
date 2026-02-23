@@ -1,0 +1,1 @@
+[["Gliese_876_b", "Earth", "Africa", "Mayotte"], ["Gliese_876_b", "Earth", "East_Africa", "Mayotte"], ["Gliese_876_b", "Earth", "French_language", "Mayotte"], ["Gliese_876_b", "Earth", "Southern_Africa", "Mayotte"], ["Gliese_876_b", "Water", "Israel", "Mayotte"]]

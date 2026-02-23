@@ -1,0 +1,1 @@
+[["Talc", "Brazil", "Mining", "Lake_Superior"], ["Talc", "Mineral", "Mining", "Lake_Superior"], ["Talc", "Quartz", "Mining", "Lake_Superior"], ["Talc", "United_States", "Mining", "Lake_Superior"], ["Talc", "United_States", "Great_Lakes", "Lake_Superior"], ["Talc", "United_States", "Minnesota", "Lake_Superior"]]

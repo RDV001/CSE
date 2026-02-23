@@ -1,0 +1,1 @@
+[["Swastika", "Japan", "Hirohito"], ["Swastika", "World_War_II", "Hirohito"]]

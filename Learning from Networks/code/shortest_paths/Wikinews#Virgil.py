@@ -1,0 +1,1 @@
+[["Wikinews", "Arabic_language", "Latin", "Virgil"], ["Wikinews", "Chinese_language", "Latin", "Virgil"], ["Wikinews", "French_language", "Latin", "Virgil"], ["Wikinews", "German_language", "Latin", "Virgil"], ["Wikinews", "Russian_language", "Latin", "Virgil"]]

@@ -1,0 +1,1 @@
+[["Effect_of_Hurricane_Katrina_on_New_Orleans", "Cholera", "Bacteria", "DNA_repair"], ["Effect_of_Hurricane_Katrina_on_New_Orleans", "Hurricane_Katrina", "Bacteria", "DNA_repair"], ["Effect_of_Hurricane_Katrina_on_New_Orleans", "Tuberculosis", "Bacteria", "DNA_repair"], ["Effect_of_Hurricane_Katrina_on_New_Orleans", "Malaria", "Protein", "DNA_repair"]]

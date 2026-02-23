@@ -1,0 +1,1 @@
+[["Yellow_River", "China", "Human", "Propaganda"], ["Yellow_River", "China", "Music", "Propaganda"], ["Yellow_River", "China", "Republic_of_China", "Propaganda"], ["Yellow_River", "Chinese_language", "Republic_of_China", "Propaganda"], ["Yellow_River", "Japan", "Attack_on_Pearl_Harbor", "Propaganda"]]

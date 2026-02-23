@@ -1,0 +1,1 @@
+[["Felice_Beato", "England", "Newcastle_upon_Tyne", "Durham"], ["Felice_Beato", "London", "City_status_in_the_United_Kingdom", "Durham"]]

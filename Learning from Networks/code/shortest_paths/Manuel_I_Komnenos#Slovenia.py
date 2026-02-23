@@ -1,0 +1,1 @@
+[["Manuel_I_Komnenos", "Danube", "Slovenia"], ["Manuel_I_Komnenos", "Germany", "Slovenia"], ["Manuel_I_Komnenos", "Greece", "Slovenia"], ["Manuel_I_Komnenos", "Italy", "Slovenia"], ["Manuel_I_Komnenos", "Mediterranean_Sea", "Slovenia"], ["Manuel_I_Komnenos", "Spain", "Slovenia"]]

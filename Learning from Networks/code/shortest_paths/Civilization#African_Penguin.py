@@ -1,0 +1,1 @@
+[["Civilization", "Athens", "Cape_Town", "African_Penguin"], ["Civilization", "Ferdinand_Magellan", "Penguin", "African_Penguin"]]

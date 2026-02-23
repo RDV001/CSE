@@ -1,0 +1,1 @@
+[["Crystal", "Atom", "Earth", "Invasive_species"], ["Crystal", "Diamond", "Earth", "Invasive_species"], ["Crystal", "Quartz", "Earth", "Invasive_species"], ["Crystal", "Light", "California", "Invasive_species"]]

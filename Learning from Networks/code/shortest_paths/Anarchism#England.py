@@ -1,0 +1,1 @@
+[["Anarchism", "Capitalism", "England"], ["Anarchism", "Denmark", "England"], ["Anarchism", "Folk_music", "England"], ["Anarchism", "Frankenstein", "England"], ["Anarchism", "Germany", "England"], ["Anarchism", "Great_Britain", "England"], ["Anarchism", "Liberalism", "England"], ["Anarchism", "Politics", "England"], ["Anarchism", "United_Kingdom", "England"]]

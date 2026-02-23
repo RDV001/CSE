@@ -1,0 +1,1 @@
+[["Napoleon_I_of_France", "Europe", "San_Marino"], ["Napoleon_I_of_France", "Germany", "San_Marino"], ["Napoleon_I_of_France", "Italy", "San_Marino"]]

@@ -1,0 +1,1 @@
+[["Nagorno-Karabakh_War", "Ottoman_Empire", "Slavery"]]

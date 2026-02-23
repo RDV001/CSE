@@ -1,0 +1,1 @@
+[["Qing_Dynasty", "Russia", "Civil_society", "Social_capital"]]

@@ -1,0 +1,1 @@
+[["Great_Red_Spot", "Planet", "20th_century", "Tobacco_smoking"]]

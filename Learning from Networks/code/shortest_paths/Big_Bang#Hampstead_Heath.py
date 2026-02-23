@@ -1,0 +1,1 @@
+[["Big_Bang", "BBC", "London", "Hampstead_Heath"], ["Big_Bang", "Metric_expansion_of_space", "London", "Hampstead_Heath"], ["Big_Bang", "BBC", "Newcastle_upon_Tyne", "Hampstead_Heath"]]

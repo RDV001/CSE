@@ -1,0 +1,1 @@
+[["United_States_Constitution", "Law", "New_Zealand", "Spider"], ["United_States_Constitution", "Slavery", "New_Zealand", "Spider"], ["United_States_Constitution", "Television", "New_Zealand", "Spider"], ["United_States_Constitution", "Property", "Animal", "Spider"]]

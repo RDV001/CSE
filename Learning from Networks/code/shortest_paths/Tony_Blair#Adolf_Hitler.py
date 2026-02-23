@@ -1,0 +1,1 @@
+[["Tony_Blair", "Bosnia_and_Herzegovina", "Adolf_Hitler"], ["Tony_Blair", "List_of_Prime_Ministers_of_the_United_Kingdom", "Adolf_Hitler"], ["Tony_Blair", "Paris", "Adolf_Hitler"], ["Tony_Blair", "Winston_Churchill", "Adolf_Hitler"], ["Tony_Blair", "World_War_II", "Adolf_Hitler"]]

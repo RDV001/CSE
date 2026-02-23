@@ -1,0 +1,1 @@
+[["Three_Gorges_Dam", "Lesotho", "Currency"], ["Three_Gorges_Dam", "Money", "Currency"], ["Three_Gorges_Dam", "Soviet_Union", "Currency"]]

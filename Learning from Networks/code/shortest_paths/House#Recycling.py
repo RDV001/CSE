@@ -1,0 +1,1 @@
+[["House", "Garden", "Insect", "Recycling"], ["House", "India", "European_Union", "Recycling"], ["House", "United_Kingdom", "European_Union", "Recycling"], ["House", "United_States", "Minneapolis%2C_Minnesota", "Recycling"]]

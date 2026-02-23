@@ -1,0 +1,1 @@
+[["Electric_charge", "18th_century", "21st_century", "Arnold_Schwarzenegger"], ["Electric_charge", "18th_century", "California", "Arnold_Schwarzenegger"]]

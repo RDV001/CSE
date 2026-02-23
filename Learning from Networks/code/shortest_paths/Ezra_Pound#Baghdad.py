@@ -1,0 +1,1 @@
+[["Ezra_Pound", "Propaganda", "Baghdad"], ["Ezra_Pound", "World_War_I", "Baghdad"]]

@@ -1,0 +1,1 @@
+[["Mandan", "19th_century", "Paris", "Riyadh"], ["Mandan", "Horse", "Asia", "Riyadh"], ["Mandan", "Pacific_Ocean", "Asia", "Riyadh"], ["Mandan", "Smallpox", "Middle_East", "Riyadh"]]

@@ -1,0 +1,1 @@
+[["Henry_VIII_of_England", "Christianity", "North_Africa"], ["Henry_VIII_of_England", "Earth", "North_Africa"], ["Henry_VIII_of_England", "Rome", "North_Africa"], ["Henry_VIII_of_England", "Royal_Navy", "North_Africa"], ["Henry_VIII_of_England", "Spain", "North_Africa"], ["Henry_VIII_of_England", "United_States", "North_Africa"]]

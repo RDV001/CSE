@@ -1,0 +1,1 @@
+[["Perfect_number", "Ancient_Greece", "19th_century", "Venezuela"], ["Perfect_number", "Euclid", "19th_century", "Venezuela"], ["Perfect_number", "Prime_number", "19th_century", "Venezuela"], ["Perfect_number", "Ancient_Greece", "Istanbul", "Venezuela"]]

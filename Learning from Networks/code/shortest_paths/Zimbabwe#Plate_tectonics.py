@@ -1,0 +1,1 @@
+[["Zimbabwe", "Continent", "Plate_tectonics"], ["Zimbabwe", "India", "Plate_tectonics"]]

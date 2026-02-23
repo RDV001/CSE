@@ -1,0 +1,1 @@
+[["Onion_dome", "Jesus", "Anno_Domini", "Comet_Halley"], ["Onion_dome", "Moscow", "21st_century", "Comet_Halley"]]

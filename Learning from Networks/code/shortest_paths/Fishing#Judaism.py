@@ -1,0 +1,1 @@
+[["Fishing", "Bible", "Judaism"], ["Fishing", "China", "Judaism"], ["Fishing", "Food", "Judaism"], ["Fishing", "Kochi_%28India%29", "Judaism"], ["Fishing", "New_Zealand", "Judaism"], ["Fishing", "Norway", "Judaism"], ["Fishing", "United_States", "Judaism"], ["Fishing", "Wine", "Judaism"]]

@@ -1,0 +1,1 @@
+[["Ancient_Greece", "Plato", "Albert_Einstein"]]

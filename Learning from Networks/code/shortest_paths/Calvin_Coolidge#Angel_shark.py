@@ -1,0 +1,1 @@
+[["Calvin_Coolidge", "Japan", "Fishing", "Shark", "Angel_shark"], ["Calvin_Coolidge", "Japan", "Wasabi", "Shark", "Angel_shark"], ["Calvin_Coolidge", "World_War_II", "Naval_Battle_of_Guadalcanal", "Shark", "Angel_shark"]]

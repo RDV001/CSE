@@ -1,0 +1,1 @@
+[["Royal_Geographical_Society", "Elizabeth_II_of_the_United_Kingdom", "California"]]

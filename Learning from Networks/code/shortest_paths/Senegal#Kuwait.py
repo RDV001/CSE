@@ -1,0 +1,1 @@
+[["Senegal", "Arabic_language", "Kuwait"], ["Senegal", "Lebanon", "Kuwait"], ["Senegal", "List_of_countries_by_system_of_government", "Kuwait"]]

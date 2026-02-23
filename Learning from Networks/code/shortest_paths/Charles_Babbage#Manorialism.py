@@ -1,0 +1,1 @@
+[["Charles_Babbage", "England", "Domesday_Book", "Manorialism"], ["Charles_Babbage", "England", "Windsor_Castle", "Manorialism"], ["Charles_Babbage", "United_States", "Capitalism", "Manorialism"]]

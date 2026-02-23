@@ -1,0 +1,1 @@
+[["Plant_cell", "Cell_%28biology%29", "Human", "Leonardo_da_Vinci"], ["Plant_cell", "Organism", "Human", "Leonardo_da_Vinci"], ["Plant_cell", "Protein", "Human", "Leonardo_da_Vinci"], ["Plant_cell", "Organism", "History_of_Earth", "Leonardo_da_Vinci"]]

@@ -1,0 +1,1 @@
+[["Cotopaxi", "Pacific_Ocean", "19th_century", "Victoria_of_the_United_Kingdom"], ["Cotopaxi", "Pacific_Ocean", "Charles_Darwin", "Victoria_of_the_United_Kingdom"]]

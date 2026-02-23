@@ -1,0 +1,1 @@
+[["Thomas_Edison", "United_States", "Terrorism"]]

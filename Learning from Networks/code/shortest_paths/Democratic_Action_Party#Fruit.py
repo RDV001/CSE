@@ -1,0 +1,1 @@
+[["Democratic_Action_Party", "Malaysia", "Hong_Kong", "Fruit"], ["Democratic_Action_Party", "Malaysia", "Palm_oil", "Fruit"]]

@@ -1,0 +1,1 @@
+[["Gunpowder", "Alchemy", "India", "Kerala", "Peafowl", "Indian_Peafowl"], ["Gunpowder", "Middle_East", "India", "Kerala", "Peafowl", "Indian_Peafowl"], ["Gunpowder", "Steel", "India", "Kerala", "Peafowl", "Indian_Peafowl"], ["Gunpowder", "Sulfur", "India", "Kerala", "Peafowl", "Indian_Peafowl"], ["Gunpowder", "China", "Malaysia", "Kerala", "Peafowl", "Indian_Peafowl"]]

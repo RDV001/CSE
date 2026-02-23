@@ -1,0 +1,1 @@
+[["Supply_chain_management", "Logistics", "World_War_II"]]

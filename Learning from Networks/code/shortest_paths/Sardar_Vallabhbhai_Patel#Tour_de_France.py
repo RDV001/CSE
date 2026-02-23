@@ -1,0 +1,1 @@
+[["Sardar_Vallabhbhai_Patel", "Pakistan", "Tour_de_France"]]

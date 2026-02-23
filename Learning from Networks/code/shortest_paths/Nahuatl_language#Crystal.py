@@ -1,0 +1,1 @@
+[["Nahuatl_language", "Chocolate", "Glass", "Crystal"], ["Nahuatl_language", "Chocolate", "Sugar", "Crystal"], ["Nahuatl_language", "English_language", "Republic_of_Ireland", "Crystal"], ["Nahuatl_language", "Maya_civilization", "Salt", "Crystal"]]

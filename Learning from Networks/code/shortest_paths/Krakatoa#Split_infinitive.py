@@ -1,0 +1,1 @@
+[["Krakatoa", "Africa", "Latin", "Split_infinitive"], ["Krakatoa", "Indonesian_language", "Latin", "Split_infinitive"], ["Krakatoa", "Mauritius", "Latin", "Split_infinitive"], ["Krakatoa", "Sanskrit", "Latin", "Split_infinitive"], ["Krakatoa", "United_Kingdom", "Latin", "Split_infinitive"], ["Krakatoa", "Volcano", "Latin", "Split_infinitive"]]

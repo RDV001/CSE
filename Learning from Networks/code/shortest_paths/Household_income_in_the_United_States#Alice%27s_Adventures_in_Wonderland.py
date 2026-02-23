@@ -1,0 +1,1 @@
+[["Household_income_in_the_United_States", "England", "River_Thames", "Alice%27s_Adventures_in_Wonderland"], ["Household_income_in_the_United_States", "United_Kingdom", "River_Thames", "Alice%27s_Adventures_in_Wonderland"], ["Household_income_in_the_United_States", "United_Kingdom", "J._R._R._Tolkien", "Alice%27s_Adventures_in_Wonderland"]]

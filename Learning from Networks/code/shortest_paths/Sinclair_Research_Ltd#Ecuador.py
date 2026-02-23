@@ -1,0 +1,1 @@
+[["Sinclair_Research_Ltd", "United_States", "Ecuador"]]

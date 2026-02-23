@@ -1,0 +1,1 @@
+[["Ethiopian_Wolf", "Animal", "Bird", "Hawk"], ["Ethiopian_Wolf", "Chordate", "Bird", "Hawk"], ["Ethiopian_Wolf", "Mammal", "Bird", "Hawk"], ["Ethiopian_Wolf", "Ethiopia", "Europe", "Hawk"], ["Ethiopian_Wolf", "Mammal", "Paleocene", "Hawk"], ["Ethiopian_Wolf", "Mammal", "Platypus", "Hawk"]]

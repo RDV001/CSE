@@ -1,0 +1,1 @@
+[["Telephone", "Alexander_Graham_Bell", "Light", "Brain"], ["Telephone", "Radio", "Light", "Brain"], ["Telephone", "Internet", "Copper", "Brain"], ["Telephone", "Sweden", "Copper", "Brain"], ["Telephone", "Japan", "Linguistics", "Brain"], ["Telephone", "Japan", "Meat", "Brain"], ["Telephone", "Sweden", "Meat", "Brain"], ["Telephone", "Sweden", "Stone_Age", "Brain"]]

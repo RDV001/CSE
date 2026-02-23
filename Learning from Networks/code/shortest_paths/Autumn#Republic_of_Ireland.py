@@ -1,0 +1,1 @@
+[["Autumn", "English_language", "Republic_of_Ireland"], ["Autumn", "Halloween", "Republic_of_Ireland"], ["Autumn", "United_States", "Republic_of_Ireland"]]

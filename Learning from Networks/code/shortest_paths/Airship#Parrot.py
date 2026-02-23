@@ -1,0 +1,1 @@
+[["Airship", "19th_century", "Costa_Rica", "Parrot"], ["Airship", "United_States", "Costa_Rica", "Parrot"], ["Airship", "Rainforest", "Bird", "Parrot"], ["Airship", "Rainforest", "Myanmar", "Parrot"], ["Airship", "Turkey", "Myanmar", "Parrot"], ["Airship", "Rainforest", "New_Zealand", "Parrot"], ["Airship", "World_War_I", "New_Zealand", "Parrot"]]

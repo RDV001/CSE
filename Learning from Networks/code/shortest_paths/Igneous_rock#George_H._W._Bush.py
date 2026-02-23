@@ -1,0 +1,1 @@
+[["Igneous_rock", "North_America", "Florida", "George_H._W._Bush"]]

@@ -1,0 +1,1 @@
+[["Turquoise", "Europe", "Cold_War"], ["Turquoise", "India", "Cold_War"], ["Turquoise", "Israel", "Cold_War"], ["Turquoise", "Mongolia", "Cold_War"], ["Turquoise", "Persian_Empire", "Cold_War"], ["Turquoise", "United_States", "Cold_War"]]

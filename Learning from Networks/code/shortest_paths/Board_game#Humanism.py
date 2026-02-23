@@ -1,0 +1,1 @@
+[["Board_game", "20th_century", "Italy", "Humanism"], ["Board_game", "Chess", "Italy", "Humanism"], ["Board_game", "Iran", "Italy", "Humanism"], ["Board_game", "China", "Human", "Humanism"], ["Board_game", "Egypt", "Liberalism", "Humanism"], ["Board_game", "Iran", "Human_rights", "Humanism"]]

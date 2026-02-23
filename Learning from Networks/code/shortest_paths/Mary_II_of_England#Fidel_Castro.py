@@ -1,0 +1,1 @@
+[["Mary_II_of_England", "Glorious_Revolution", "Propaganda", "Fidel_Castro"], ["Mary_II_of_England", "Smallpox", "Cuba", "Fidel_Castro"]]

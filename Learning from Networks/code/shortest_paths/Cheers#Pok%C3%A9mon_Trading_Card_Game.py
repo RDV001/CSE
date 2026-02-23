@@ -1,0 +1,1 @@
+[["Cheers", "United_Kingdom", "Royal_Navy", "Card_game", "Pok%C3%A9mon_Trading_Card_Game"]]

@@ -1,0 +1,1 @@
+[["T-34", "Libya", "Poverty", "Working_poor"]]

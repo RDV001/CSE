@@ -1,0 +1,1 @@
+[["Samuel_Taylor_Coleridge", "University_of_Cambridge", "Ernest_Rutherford", "Rutherfordium"]]

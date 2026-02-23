@@ -1,0 +1,1 @@
+[["Manifold", "Calculus", "Algorithm", "Baghdad"], ["Manifold", "Linear_algebra", "Algorithm", "Baghdad"], ["Manifold", "German_language", "16th_century", "Baghdad"], ["Manifold", "German_language", "Asia", "Baghdad"], ["Manifold", "Leonhard_Euler", "Philosophy", "Baghdad"], ["Manifold", "Physics", "Philosophy", "Baghdad"]]

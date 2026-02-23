@@ -1,0 +1,1 @@
+[["Economics", "Gold_standard", "Belgium"], ["Economics", "Spain", "Belgium"]]

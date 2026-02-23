@@ -1,0 +1,1 @@
+[["Earl_of_Shaftesbury", "British_House_of_Commons", "Republic_of_Ireland", "Crystal"], ["Earl_of_Shaftesbury", "British_Isles", "Republic_of_Ireland", "Crystal"], ["Earl_of_Shaftesbury", "Charles_II_of_England", "Robert_Boyle", "Crystal"], ["Earl_of_Shaftesbury", "Dorset", "Robert_Boyle", "Crystal"], ["Earl_of_Shaftesbury", "Dorset", "Granite", "Crystal"]]

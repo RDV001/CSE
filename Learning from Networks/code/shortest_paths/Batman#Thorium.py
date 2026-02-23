@@ -1,0 +1,1 @@
+[["Batman", "Chemistry", "Energy", "Thorium"], ["Batman", "Chemistry", "Helium", "Thorium"], ["Batman", "Chemistry", "List_of_elements_by_name", "Thorium"], ["Batman", "Chemistry", "Periodic_table", "Thorium"], ["Batman", "Chemistry", "Uranium", "Thorium"], ["Batman", "Scotland", "Coal", "Thorium"], ["Batman", "Spring_Heeled_Jack", "Moon", "Thorium"]]

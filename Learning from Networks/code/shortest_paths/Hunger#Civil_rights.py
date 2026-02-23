@@ -1,0 +1,1 @@
+[["Hunger", "Famine", "Ireland", "Civil_rights"], ["Hunger", "Poverty", "Women%27s_rights", "Civil_rights"]]

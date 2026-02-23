@@ -1,0 +1,1 @@
+[["Rice", "Archaeology", "Society"], ["Rice", "Human", "Society"]]

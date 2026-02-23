@@ -1,0 +1,1 @@
+[["Psychology", "Germany", "Greenhouse_effect"]]

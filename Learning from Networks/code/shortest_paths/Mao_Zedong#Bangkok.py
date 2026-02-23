@@ -1,0 +1,1 @@
+[["Mao_Zedong", "Beijing", "Bangkok"], ["Mao_Zedong", "Cambodia", "Bangkok"]]

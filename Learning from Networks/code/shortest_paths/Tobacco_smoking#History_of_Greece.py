@@ -1,0 +1,1 @@
+[["Tobacco_smoking", "Christopher_Columbus", "Lunar_eclipse", "History_of_Greece"], ["Tobacco_smoking", "Italy", "Ancient_Greece", "History_of_Greece"], ["Tobacco_smoking", "Maya_civilization", "Ancient_Greece", "History_of_Greece"], ["Tobacco_smoking", "Italy", "Byzantine_Empire", "History_of_Greece"], ["Tobacco_smoking", "Sweden", "Baltic_Sea", "History_of_Greece"]]

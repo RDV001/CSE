@@ -1,0 +1,1 @@
+[["Madagascar", "Cuba", "James_K._Polk"]]

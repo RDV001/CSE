@@ -1,0 +1,1 @@
+[["The_Beatles", "Elvis_Presley", "Adolf_Hitler"], ["The_Beatles", "Germany", "Adolf_Hitler"], ["The_Beatles", "Italy", "Adolf_Hitler"], ["The_Beatles", "Liverpool", "Adolf_Hitler"], ["The_Beatles", "Sgt._Pepper%27s_Lonely_Hearts_Club_Band", "Adolf_Hitler"], ["The_Beatles", "Spain", "Adolf_Hitler"], ["The_Beatles", "World_War_II", "Adolf_Hitler"]]

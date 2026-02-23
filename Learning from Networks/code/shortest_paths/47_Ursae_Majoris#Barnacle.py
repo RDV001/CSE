@@ -1,0 +1,1 @@
+[["47_Ursae_Majoris", "Helium", "Copper", "Barnacle"], ["47_Ursae_Majoris", "Iron", "Copper", "Barnacle"]]

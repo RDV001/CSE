@@ -1,0 +1,1 @@
+[["Amsterdam", "12th_century", "Croatia"], ["Amsterdam", "Berlin", "Croatia"], ["Amsterdam", "Europe", "Croatia"], ["Amsterdam", "Netherlands", "Croatia"]]

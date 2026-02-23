@@ -1,0 +1,1 @@
+[["Computer", "Automobile", "Russia"], ["Computer", "Cryptography", "Russia"]]

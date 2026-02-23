@@ -1,0 +1,1 @@
+[["Flag_of_Mexico", "Cactus", "Australia"], ["Flag_of_Mexico", "Eagle", "Australia"], ["Flag_of_Mexico", "France", "Australia"], ["Flag_of_Mexico", "Olympic_Games", "Australia"], ["Flag_of_Mexico", "Spain", "Australia"], ["Flag_of_Mexico", "Spanish_language", "Australia"]]

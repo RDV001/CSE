@@ -1,0 +1,1 @@
+[["Earthquake", "Africa", "Human", "Dove"], ["Earthquake", "Earth", "Human", "Dove"], ["Earthquake", "United_Kingdom", "Olympic_Games", "Dove"], ["Earthquake", "United_Kingdom", "Trafalgar_Square", "Dove"]]

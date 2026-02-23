@@ -1,0 +1,1 @@
+[["AIDS", "Europe", "Hungary", "Paprika"], ["AIDS", "Germany", "Hungary", "Paprika"], ["AIDS", "International_Red_Cross_and_Red_Crescent_Movement", "Hungary", "Paprika"], ["AIDS", "Netherlands", "Hungary", "Paprika"]]

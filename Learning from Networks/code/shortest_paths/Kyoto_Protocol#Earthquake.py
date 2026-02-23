@@ -1,0 +1,1 @@
+[["Kyoto_Protocol", "Earth", "Earthquake"], ["Kyoto_Protocol", "Japan", "Earthquake"], ["Kyoto_Protocol", "Los_Angeles%2C_California", "Earthquake"], ["Kyoto_Protocol", "Salt_Lake_City%2C_Utah", "Earthquake"], ["Kyoto_Protocol", "San_Francisco%2C_California", "Earthquake"], ["Kyoto_Protocol", "San_Jose%2C_California", "Earthquake"]]

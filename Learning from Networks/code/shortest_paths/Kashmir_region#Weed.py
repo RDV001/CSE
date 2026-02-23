@@ -1,0 +1,1 @@
+[["Kashmir_region", "Afghanistan", "Domestic_goat", "Weed"], ["Kashmir_region", "India", "Rice", "Weed"], ["Kashmir_region", "Middle_East", "Agriculture", "Weed"], ["Kashmir_region", "Saffron", "Agriculture", "Weed"], ["Kashmir_region", "Saffron", "Plant", "Weed"]]

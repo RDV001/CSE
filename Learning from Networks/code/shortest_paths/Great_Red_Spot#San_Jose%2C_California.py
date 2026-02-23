@@ -1,0 +1,1 @@
+[["Great_Red_Spot", "Telescope", "Radio", "San_Jose%2C_California"]]

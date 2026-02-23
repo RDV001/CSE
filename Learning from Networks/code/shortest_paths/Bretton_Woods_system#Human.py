@@ -1,0 +1,1 @@
+[["Bretton_Woods_system", "Gold", "Human"], ["Bretton_Woods_system", "Nationalism", "Human"]]

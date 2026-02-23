@@ -1,0 +1,1 @@
+[["Canola", "Fossil_fuel", "Coal", "Vanadium"], ["Canola", "United_States", "Coal", "Vanadium"], ["Canola", "Fossil_fuel", "Uranium", "Vanadium"], ["Canola", "United_States", "Steel", "Vanadium"]]

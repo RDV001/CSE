@@ -1,0 +1,1 @@
+[["Scottish_Episcopal_Church", "17th_century", "Banknote"], ["Scottish_Episcopal_Church", "Scotland", "Banknote"]]

@@ -1,0 +1,1 @@
+[["Planetary_nebula", "Carbon", "Petroleum", "North_Sea_oil"], ["Planetary_nebula", "Sun", "Petroleum", "North_Sea_oil"], ["Planetary_nebula", "Hydrogen", "Hydrochloric_acid", "North_Sea_oil"], ["Planetary_nebula", "Nitrogen", "Hydrochloric_acid", "North_Sea_oil"]]

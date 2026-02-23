@@ -1,0 +1,1 @@
+[["Loch_Ness", "England", "Christopher_Wren", "Tuberculosis"], ["Loch_Ness", "United_Kingdom", "Christopher_Wren", "Tuberculosis"], ["Loch_Ness", "England", "Henry_Purcell", "Tuberculosis"], ["Loch_Ness", "United_Kingdom", "Henry_Purcell", "Tuberculosis"], ["Loch_Ness", "England", "John_Constable", "Tuberculosis"]]

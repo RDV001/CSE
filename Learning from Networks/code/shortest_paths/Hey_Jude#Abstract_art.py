@@ -1,0 +1,1 @@
+[["Hey_Jude", "Paul_McCartney", "Painting", "Abstract_art"], ["Hey_Jude", "United_Kingdom", "J._M._W._Turner", "Abstract_art"]]

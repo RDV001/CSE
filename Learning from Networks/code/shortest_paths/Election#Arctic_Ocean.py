@@ -1,0 +1,1 @@
+[["Election", "Russia", "Arctic_Ocean"], ["Election", "United_States", "Arctic_Ocean"]]

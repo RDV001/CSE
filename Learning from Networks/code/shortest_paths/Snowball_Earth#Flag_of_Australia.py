@@ -1,0 +1,1 @@
+[["Snowball_Earth", "Antarctica", "Australia", "Flag_of_Australia"], ["Snowball_Earth", "Continent", "Australia", "Flag_of_Australia"], ["Snowball_Earth", "Earth", "Australia", "Flag_of_Australia"], ["Snowball_Earth", "Plate_tectonics", "Australia", "Flag_of_Australia"]]

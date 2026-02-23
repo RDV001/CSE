@@ -1,0 +1,1 @@
+[["Crohn%27s_disease", "Africa", "Victoria%2C_Seychelles", "Coconut_oil"], ["Crohn%27s_disease", "Genetics", "Fatty_acid", "Coconut_oil"], ["Crohn%27s_disease", "North_America", "Dominica", "Coconut_oil"], ["Crohn%27s_disease", "United_States", "Dominica", "Coconut_oil"]]

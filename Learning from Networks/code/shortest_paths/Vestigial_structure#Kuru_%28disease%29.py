@@ -1,0 +1,1 @@
+[["Vestigial_structure", "Evolution", "Prion", "Kuru_%28disease%29"], ["Vestigial_structure", "Organism", "Prion", "Kuru_%28disease%29"], ["Vestigial_structure", "Whale", "Brain", "Kuru_%28disease%29"]]

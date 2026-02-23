@@ -1,0 +1,1 @@
+[["Energy", "Iceland", "Europe"], ["Energy", "Manufacturing", "Europe"], ["Energy", "Politics", "Europe"], ["Energy", "Property", "Europe"], ["Energy", "Tornado", "Europe"], ["Energy", "Tropical_cyclone", "Europe"]]

@@ -1,0 +1,1 @@
+[["Principality", "Germany", "Treaty_of_Versailles"], ["Principality", "Monaco", "Treaty_of_Versailles"], ["Principality", "Nationalism", "Treaty_of_Versailles"], ["Principality", "World_War_II", "Treaty_of_Versailles"]]

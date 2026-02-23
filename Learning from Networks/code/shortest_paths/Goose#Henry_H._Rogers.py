@@ -1,0 +1,1 @@
+[["Goose", "Asia", "Hinduism", "Mark_Twain", "Henry_H._Rogers"], ["Goose", "Europe", "Hinduism", "Mark_Twain", "Henry_H._Rogers"], ["Goose", "Sanskrit", "Hinduism", "Mark_Twain", "Henry_H._Rogers"], ["Goose", "Swan", "Hinduism", "Mark_Twain", "Henry_H._Rogers"], ["Goose", "Bird", "19th_century", "Mark_Twain", "Henry_H._Rogers"]]

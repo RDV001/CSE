@@ -1,0 +1,1 @@
+[["London", "Christianity", "Atheism"], ["London", "European_Union", "Atheism"], ["London", "Germany", "Atheism"], ["London", "Romania", "Atheism"]]

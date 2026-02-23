@@ -1,0 +1,1 @@
+[["Nuclear_power", "Berlin", "Jew"], ["Nuclear_power", "India", "Jew"], ["Nuclear_power", "Israel", "Jew"], ["Nuclear_power", "Romania", "Jew"], ["Nuclear_power", "Soviet_Union", "Jew"], ["Nuclear_power", "Ukraine", "Jew"]]

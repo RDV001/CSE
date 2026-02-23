@@ -1,0 +1,1 @@
+[["Belarus", "Communism", "North_Korea"], ["Belarus", "Condoleezza_Rice", "North_Korea"], ["Belarus", "Joseph_Stalin", "North_Korea"], ["Belarus", "Russia", "North_Korea"], ["Belarus", "United_Nations", "North_Korea"]]

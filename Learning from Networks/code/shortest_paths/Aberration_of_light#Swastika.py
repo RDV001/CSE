@@ -1,0 +1,1 @@
+[["Aberration_of_light", "Earth", "Carl_Sagan", "Swastika"], ["Aberration_of_light", "Johannes_Kepler", "Carl_Sagan", "Swastika"], ["Aberration_of_light", "London", "Luftwaffe", "Swastika"]]

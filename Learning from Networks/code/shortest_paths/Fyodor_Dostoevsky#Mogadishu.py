@@ -1,0 +1,1 @@
+[["Fyodor_Dostoevsky", "Ernest_Hemingway", "Africa", "Mogadishu"], ["Fyodor_Dostoevsky", "Tuberculosis", "Africa", "Mogadishu"]]

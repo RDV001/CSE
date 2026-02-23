@@ -1,0 +1,1 @@
+[["Platinum", "Sulfur", "Fossil_fuel"]]

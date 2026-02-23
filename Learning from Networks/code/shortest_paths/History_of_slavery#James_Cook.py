@@ -1,0 +1,1 @@
+[["History_of_slavery", "18th_century", "James_Cook"], ["History_of_slavery", "New_Zealand", "James_Cook"]]

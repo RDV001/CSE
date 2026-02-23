@@ -1,0 +1,1 @@
+[["Tornado", "Europe", "18th_century", "Edward_Jenner"], ["Tornado", "Spain", "18th_century", "Edward_Jenner"], ["Tornado", "Spanish_language", "18th_century", "Edward_Jenner"], ["Tornado", "South_America", "Smallpox", "Edward_Jenner"]]

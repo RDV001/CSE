@@ -1,0 +1,1 @@
+[["Galah", "DNA", "Genetics", "Cystic_fibrosis"], ["Galah", "Scientific_classification", "Genetics", "Cystic_fibrosis"]]

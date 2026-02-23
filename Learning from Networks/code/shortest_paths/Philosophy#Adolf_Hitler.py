@@ -1,0 +1,1 @@
+[["Philosophy", "Albert_Einstein", "Adolf_Hitler"], ["Philosophy", "Bertrand_Russell", "Adolf_Hitler"], ["Philosophy", "Jacques-Louis_David", "Adolf_Hitler"], ["Philosophy", "Ludwig_Wittgenstein", "Adolf_Hitler"], ["Philosophy", "World_War_II", "Adolf_Hitler"]]

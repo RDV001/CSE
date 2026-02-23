@@ -1,0 +1,1 @@
+[["Italo_disco", "English_language", "World_War_II", "Tank"], ["Italo_disco", "Europe", "World_War_II", "Tank"], ["Italo_disco", "Germany", "World_War_II", "Tank"], ["Italo_disco", "Germany", "Battle_of_Stalingrad", "Tank"], ["Italo_disco", "Germany", "Blitzkrieg", "Tank"], ["Italo_disco", "Germany", "World_War_I", "Tank"]]

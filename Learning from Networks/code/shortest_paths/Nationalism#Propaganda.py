@@ -1,0 +1,1 @@
+[["Nationalism", "Adolf_Hitler", "Propaganda"], ["Nationalism", "Human", "Propaganda"], ["Nationalism", "Music", "Propaganda"], ["Nationalism", "Napoleon_I_of_France", "Propaganda"], ["Nationalism", "Nazism", "Propaganda"], ["Nationalism", "Roman_Catholic_Church", "Propaganda"], ["Nationalism", "The_Holocaust", "Propaganda"]]

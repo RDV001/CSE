@@ -1,0 +1,1 @@
+[["Apollo_8", "John_F._Kennedy", "Jerusalem"], ["Apollo_8", "New_York_City", "Jerusalem"]]

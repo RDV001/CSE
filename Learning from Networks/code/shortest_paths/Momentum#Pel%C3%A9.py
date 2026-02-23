@@ -1,0 +1,1 @@
+[["Momentum", "Albert_Einstein", "Brazil", "Pel%C3%A9"], ["Momentum", "Albert_Einstein", "New_York_City", "Pel%C3%A9"]]

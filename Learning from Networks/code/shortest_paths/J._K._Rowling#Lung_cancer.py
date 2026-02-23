@@ -1,0 +1,1 @@
+[["J._K._Rowling", "Monty_Python", "Cancer", "Lung_cancer"], ["J._K._Rowling", "Multiple_sclerosis", "Pneumonia", "Lung_cancer"], ["J._K._Rowling", "Multiple_sclerosis", "Tobacco_smoking", "Lung_cancer"], ["J._K._Rowling", "People%27s_Republic_of_China", "Tobacco_smoking", "Lung_cancer"], ["J._K._Rowling", "Multiple_sclerosis", "Vitamin_D", "Lung_cancer"]]

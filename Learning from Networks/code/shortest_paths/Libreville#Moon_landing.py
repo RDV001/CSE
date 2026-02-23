@@ -1,0 +1,1 @@
+[["Libreville", "France", "United_States", "Apollo_11", "Moon_landing"], ["Libreville", "Freetown", "United_States", "Apollo_11", "Moon_landing"], ["Libreville", "French_language", "United_States", "Apollo_11", "Moon_landing"], ["Libreville", "Industry", "Computer", "Electrical_engineering", "Moon_landing"]]

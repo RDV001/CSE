@@ -1,0 +1,1 @@
+[["Economy_of_Africa", "Agriculture", "Alcohol"], ["Economy_of_Africa", "Automobile", "Alcohol"], ["Economy_of_Africa", "Cocoa", "Alcohol"]]

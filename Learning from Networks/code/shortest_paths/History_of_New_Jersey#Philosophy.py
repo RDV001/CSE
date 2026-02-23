@@ -1,0 +1,1 @@
+[["History_of_New_Jersey", "Nazism", "Philosophy"], ["History_of_New_Jersey", "United_States_Bill_of_Rights", "Philosophy"]]

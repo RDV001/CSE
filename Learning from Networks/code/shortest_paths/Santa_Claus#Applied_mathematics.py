@@ -1,0 +1,1 @@
+[["Santa_Claus", "Belgium", "Mathematics", "Applied_mathematics"], ["Santa_Claus", "Folklore", "Mathematics", "Applied_mathematics"], ["Santa_Claus", "Iran", "Mathematics", "Applied_mathematics"], ["Santa_Claus", "Iraq", "Mathematics", "Applied_mathematics"], ["Santa_Claus", "Russia", "Statistics", "Applied_mathematics"]]

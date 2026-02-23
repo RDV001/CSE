@@ -1,0 +1,1 @@
+[["Lhasa", "Copper", "Cyprus", "Akrotiri_and_Dhekelia"], ["Lhasa", "World_Heritage_Site", "Cyprus", "Akrotiri_and_Dhekelia"], ["Lhasa", "Tibet", "British_Empire", "Akrotiri_and_Dhekelia"]]

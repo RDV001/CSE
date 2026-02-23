@@ -1,0 +1,1 @@
+[["Mahjong", "Capitalism", "Ronald_Reagan", "Nintendo_Entertainment_System"], ["Mahjong", "Computer", "Computer_and_video_games", "Nintendo_Entertainment_System"], ["Mahjong", "Game", "SimCity", "Nintendo_Entertainment_System"]]

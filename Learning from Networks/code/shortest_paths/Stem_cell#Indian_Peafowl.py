@@ -1,0 +1,1 @@
+[["Stem_cell", "Bill_Clinton", "2004_Indian_Ocean_earthquake", "Kerala", "Peafowl", "Indian_Peafowl"], ["Stem_cell", "England", "Tamil_language", "Kerala", "Peafowl", "Indian_Peafowl"], ["Stem_cell", "Human", "Elephant", "Kerala", "Peafowl", "Indian_Peafowl"], ["Stem_cell", "Human", "India", "Kerala", "Peafowl", "Indian_Peafowl"]]

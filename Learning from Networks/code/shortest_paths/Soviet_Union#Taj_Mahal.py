@@ -1,0 +1,1 @@
+[["Soviet_Union", "India", "Taj_Mahal"], ["Soviet_Union", "Islam", "Taj_Mahal"]]

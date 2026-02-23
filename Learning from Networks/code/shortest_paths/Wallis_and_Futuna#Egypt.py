@@ -1,0 +1,1 @@
+[["Wallis_and_Futuna", "19th_century", "Egypt"], ["Wallis_and_Futuna", "List_of_countries_by_system_of_government", "Egypt"], ["Wallis_and_Futuna", "Time_zone", "Egypt"]]

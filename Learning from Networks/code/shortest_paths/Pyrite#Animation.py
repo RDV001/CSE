@@ -1,0 +1,1 @@
+[["Pyrite", "Diamond", "Japan", "Animation"], ["Pyrite", "Mining", "Japan", "Animation"], ["Pyrite", "Sulfur", "Japan", "Animation"], ["Pyrite", "Iron", "Sand", "Animation"], ["Pyrite", "Quartz", "Sand", "Animation"]]

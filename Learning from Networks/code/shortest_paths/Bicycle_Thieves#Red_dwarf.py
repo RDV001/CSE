@@ -1,0 +1,1 @@
+[["Bicycle_Thieves", "Bicycle", "Iron", "Star", "Red_dwarf"], ["Bicycle_Thieves", "Bicycle", "Titanium", "Star", "Red_dwarf"], ["Bicycle_Thieves", "Italy", "Volcano", "Jupiter", "Red_dwarf"], ["Bicycle_Thieves", "United_States", "Volcano", "Jupiter", "Red_dwarf"], ["Bicycle_Thieves", "United_States", "Antarctica", "Jupiter", "Red_dwarf"]]

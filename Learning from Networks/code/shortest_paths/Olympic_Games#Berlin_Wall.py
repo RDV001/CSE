@@ -1,0 +1,1 @@
+[["Olympic_Games", "Berlin", "Berlin_Wall"], ["Olympic_Games", "Cold_War", "Berlin_Wall"], ["Olympic_Games", "Germany", "Berlin_Wall"], ["Olympic_Games", "Soviet_Union", "Berlin_Wall"]]

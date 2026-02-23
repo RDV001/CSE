@@ -1,0 +1,1 @@
+[["Sitting_Bull", "English_language", "Kenya", "Dinosaur", "Velociraptor"], ["Sitting_Bull", "Minnesota", "Gulf_of_Mexico", "Dinosaur", "Velociraptor"], ["Sitting_Bull", "United_States", "Gulf_of_Mexico", "Dinosaur", "Velociraptor"], ["Sitting_Bull", "Tribe", "Nature", "Dinosaur", "Velociraptor"]]

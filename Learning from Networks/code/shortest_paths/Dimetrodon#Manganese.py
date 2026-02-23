@@ -1,0 +1,1 @@
+[["Dimetrodon", "Animal", "Photosynthesis", "Manganese"], ["Dimetrodon", "Permian", "Ozone", "Manganese"]]

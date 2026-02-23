@@ -1,0 +1,1 @@
+[["Qur%27an", "Damascus", "France"], ["Qur%27an", "Europe", "France"], ["Qur%27an", "Germany", "France"], ["Qur%27an", "Iran", "France"], ["Qur%27an", "Islam", "France"], ["Qur%27an", "Istanbul", "France"], ["Qur%27an", "Russia", "France"], ["Qur%27an", "Yemen", "France"]]

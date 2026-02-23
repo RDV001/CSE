@@ -1,0 +1,1 @@
+[["Entropy", "Biodiversity", "History_of_Earth", "Permian"], ["Entropy", "Evolution", "History_of_Earth", "Permian"], ["Entropy", "Ecology", "Mammal", "Permian"], ["Entropy", "Energy", "Coal", "Permian"], ["Entropy", "Evolution", "Ice_age", "Permian"], ["Entropy", "Evolution", "Plant", "Permian"], ["Entropy", "Life", "Plant", "Permian"]]

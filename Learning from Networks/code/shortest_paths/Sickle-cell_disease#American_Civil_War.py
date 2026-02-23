@@ -1,0 +1,1 @@
+[["Sickle-cell_disease", "United_States", "American_Civil_War"]]

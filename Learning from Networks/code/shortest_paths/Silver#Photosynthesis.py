@@ -1,0 +1,1 @@
+[["Silver", "Oxygen", "Photosynthesis"], ["Silver", "Ozone", "Photosynthesis"], ["Silver", "Sulfur", "Photosynthesis"]]

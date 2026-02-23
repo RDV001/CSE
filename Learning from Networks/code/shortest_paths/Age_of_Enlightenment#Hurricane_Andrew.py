@@ -1,0 +1,1 @@
+[["Age_of_Enlightenment", "Galileo_Galilei", "Miami%2C_Florida", "Hurricane_Andrew"]]

@@ -1,0 +1,1 @@
+[["Shielded_metal_arc_welding", "Alternating_current", "Acceleration"]]

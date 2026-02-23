@@ -1,0 +1,1 @@
+[["Pluto", "Chemical_element", "Carbon"], ["Pluto", "Jupiter", "Carbon"], ["Pluto", "Nitrogen", "Carbon"], ["Pluto", "Plutonium", "Carbon"], ["Pluto", "Solar_System", "Carbon"], ["Pluto", "Sun", "Carbon"]]

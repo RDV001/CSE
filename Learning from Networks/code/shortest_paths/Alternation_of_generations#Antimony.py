@@ -1,0 +1,1 @@
+[["Alternation_of_generations", "Fern", "Arsenic", "Antimony"], ["Alternation_of_generations", "Water", "Arsenic", "Antimony"], ["Alternation_of_generations", "Plant", "Alcohol", "Antimony"]]

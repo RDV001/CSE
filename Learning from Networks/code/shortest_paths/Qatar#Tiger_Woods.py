@@ -1,0 +1,1 @@
+[["Qatar", "Education", "Child", "Tiger_Woods"], ["Qatar", "United_Kingdom", "Grand_Slam_%28tennis%29", "Tiger_Woods"]]

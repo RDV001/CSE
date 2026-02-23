@@ -1,0 +1,1 @@
+[["Bedbug", "Animal", "Latin", "The_Cat_in_the_Hat"], ["Bedbug", "Bird", "Latin", "The_Cat_in_the_Hat"], ["Bedbug", "Human", "Latin", "The_Cat_in_the_Hat"], ["Bedbug", "Insect", "Latin", "The_Cat_in_the_Hat"], ["Bedbug", "Scientific_classification", "Latin", "The_Cat_in_the_Hat"], ["Bedbug", "South_America", "Latin", "The_Cat_in_the_Hat"]]

@@ -1,0 +1,1 @@
+[["Emperor_Penguin", "Antarctica", "Europe", "Copenhagen"], ["Emperor_Penguin", "Orca", "Europe", "Copenhagen"], ["Emperor_Penguin", "Antarctica", "New_Zealand", "Copenhagen"], ["Emperor_Penguin", "Penguin", "New_Zealand", "Copenhagen"], ["Emperor_Penguin", "Antarctica", "Norway", "Copenhagen"], ["Emperor_Penguin", "Orca", "Norway", "Copenhagen"]]

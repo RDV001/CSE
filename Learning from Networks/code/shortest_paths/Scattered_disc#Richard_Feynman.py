@@ -1,0 +1,1 @@
+[["Scattered_disc", "Solar_System", "Energy", "Richard_Feynman"], ["Scattered_disc", "Sun", "Energy", "Richard_Feynman"], ["Scattered_disc", "Solar_System", "Light", "Richard_Feynman"], ["Scattered_disc", "Sun", "Albert_Einstein", "Richard_Feynman"]]

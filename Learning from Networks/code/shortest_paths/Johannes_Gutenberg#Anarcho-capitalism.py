@@ -1,0 +1,1 @@
+[["Johannes_Gutenberg", "Mass_media", "Politics", "Anarcho-capitalism"], ["Johannes_Gutenberg", "Newspaper", "Politics", "Anarcho-capitalism"], ["Johannes_Gutenberg", "Renaissance", "Politics", "Anarcho-capitalism"]]

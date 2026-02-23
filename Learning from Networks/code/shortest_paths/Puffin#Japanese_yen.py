@@ -1,0 +1,1 @@
+[["Puffin", "Animal", "Human", "Japanese_yen"], ["Puffin", "Bird", "Human", "Japanese_yen"], ["Puffin", "Scientific_classification", "Human", "Japanese_yen"]]

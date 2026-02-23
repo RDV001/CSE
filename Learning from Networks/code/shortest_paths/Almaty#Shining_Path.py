@@ -1,0 +1,1 @@
+[["Almaty", "France", "South_America", "Shining_Path"]]

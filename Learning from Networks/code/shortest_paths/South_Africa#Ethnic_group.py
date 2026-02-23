@@ -1,0 +1,1 @@
+[["South_Africa", "Bantu", "Ethnic_group"], ["South_Africa", "Democratic_Republic_of_the_Congo", "Ethnic_group"], ["South_Africa", "Human", "Ethnic_group"], ["South_Africa", "Mozambique", "Ethnic_group"], ["South_Africa", "Race", "Ethnic_group"]]

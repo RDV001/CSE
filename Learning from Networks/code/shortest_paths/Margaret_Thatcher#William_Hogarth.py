@@ -1,0 +1,1 @@
+[["Margaret_Thatcher", "England", "William_Hogarth"]]

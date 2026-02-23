@@ -1,0 +1,1 @@
+[["Microsoft_Windows", "Microsoft", "United_States", "Peru", "Spanish_conquest_of_the_Inca_Empire"], ["Microsoft_Windows", "Spyware", "Cornell_University", "Peru", "Spanish_conquest_of_the_Inca_Empire"], ["Microsoft_Windows", "Windows_XP", "South_America", "Peru", "Spanish_conquest_of_the_Inca_Empire"]]

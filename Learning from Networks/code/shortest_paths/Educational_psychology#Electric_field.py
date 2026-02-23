@@ -1,0 +1,1 @@
+[["Educational_psychology", "Education", "Physics", "Electric_field"], ["Educational_psychology", "Human", "Physics", "Electric_field"], ["Educational_psychology", "Sociology", "Physics", "Electric_field"]]

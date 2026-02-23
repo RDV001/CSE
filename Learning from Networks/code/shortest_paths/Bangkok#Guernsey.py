@@ -1,0 +1,1 @@
+[["Bangkok", "English_language", "Guernsey"], ["Bangkok", "United_States", "Guernsey"]]

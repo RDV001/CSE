@@ -1,0 +1,1 @@
+[["Feather", "Clothing", "Buddhism", "Kashmir_region"], ["Feather", "Goose", "Sanskrit", "Kashmir_region"], ["Feather", "Greek_mythology", "Sanskrit", "Kashmir_region"]]

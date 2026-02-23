@@ -1,0 +1,1 @@
+[["South_Africa", "India", "Tennis", "Martina_Navratilova"], ["South_Africa", "Tourism", "Tennis", "Martina_Navratilova"], ["South_Africa", "United_Kingdom", "Tennis", "Martina_Navratilova"], ["South_Africa", "United_Kingdom", "Grand_Slam_%28tennis%29", "Martina_Navratilova"], ["South_Africa", "United_Kingdom", "The_Championships%2C_Wimbledon", "Martina_Navratilova"]]

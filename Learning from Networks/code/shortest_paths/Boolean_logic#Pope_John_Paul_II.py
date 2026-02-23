@@ -1,0 +1,1 @@
+[["Boolean_logic", "19th_century", "21st_century", "Pope_John_Paul_II"], ["Boolean_logic", "19th_century", "Cuba", "Pope_John_Paul_II"]]

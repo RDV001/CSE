@@ -1,0 +1,1 @@
+[["Jesse_Owens", "Adolf_Hitler", "Dam", "Flood"], ["Jesse_Owens", "Ann_Arbor%2C_Michigan", "Dam", "Flood"], ["Jesse_Owens", "Ann_Arbor%2C_Michigan", "Belize", "Flood"], ["Jesse_Owens", "George_H._W._Bush", "Hurricane_Katrina", "Flood"], ["Jesse_Owens", "Germany", "River", "Flood"], ["Jesse_Owens", "Propaganda", "Baghdad", "Flood"]]

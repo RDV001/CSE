@@ -1,0 +1,1 @@
+[["Craton", "Continent", "Brazil", "Paraguay"], ["Craton", "Granite", "Brazil", "Paraguay"], ["Craton", "Continent", "Latin_America", "Paraguay"], ["Craton", "Continent", "South_America", "Paraguay"], ["Craton", "Granite", "Water", "Paraguay"]]

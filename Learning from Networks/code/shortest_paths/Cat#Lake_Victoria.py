@@ -1,0 +1,1 @@
+[["Cat", "Ancient_Egypt", "Africa", "Lake_Victoria"], ["Cat", "Dog", "Africa", "Lake_Victoria"], ["Cat", "Lion", "Africa", "Lake_Victoria"], ["Cat", "Wild_cat", "Africa", "Lake_Victoria"], ["Cat", "Ancient_Egypt", "Nile", "Lake_Victoria"], ["Cat", "Cheetah", "Tanzania", "Lake_Victoria"], ["Cat", "Lion", "Tanzania", "Lake_Victoria"]]

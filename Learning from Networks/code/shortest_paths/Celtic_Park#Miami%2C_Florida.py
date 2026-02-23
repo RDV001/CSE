@@ -1,0 +1,1 @@
+[["Celtic_Park", "Glasgow", "Cuba", "Miami%2C_Florida"], ["Celtic_Park", "Glasgow", "United_States", "Miami%2C_Florida"], ["Celtic_Park", "Scotland", "United_States", "Miami%2C_Florida"]]

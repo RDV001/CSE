@@ -1,0 +1,1 @@
+[["Thermodynamic_temperature", "United_States", "United_States_Bill_of_Rights", "Magna_Carta", "History_of_democracy"], ["Thermodynamic_temperature", "United_States", "United_States_Constitution", "Magna_Carta", "History_of_democracy"]]

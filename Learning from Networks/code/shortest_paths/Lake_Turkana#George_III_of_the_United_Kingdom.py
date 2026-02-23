@@ -1,0 +1,1 @@
+[["Lake_Turkana", "Ethiopia", "18th_century", "George_III_of_the_United_Kingdom"]]

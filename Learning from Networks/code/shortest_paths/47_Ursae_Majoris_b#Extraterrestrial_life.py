@@ -1,0 +1,1 @@
+[["47_Ursae_Majoris_b", "Extrasolar_planet", "Extraterrestrial_life"], ["47_Ursae_Majoris_b", "Jupiter", "Extraterrestrial_life"]]

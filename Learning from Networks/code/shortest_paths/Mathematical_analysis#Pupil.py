@@ -1,0 +1,1 @@
+[["Mathematical_analysis", "16th_century", "Sun", "Pupil"], ["Mathematical_analysis", "Archimedes", "Sun", "Pupil"]]

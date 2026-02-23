@@ -1,0 +1,1 @@
+[["Sichuan_Pepper", "Africa", "Great_Pyramid_of_Giza"]]

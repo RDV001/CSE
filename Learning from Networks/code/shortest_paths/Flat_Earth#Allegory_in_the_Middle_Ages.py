@@ -1,0 +1,1 @@
+[["Flat_Earth", "Aristotle", "Poetry", "Allegory_in_the_Middle_Ages"], ["Flat_Earth", "Literature", "Poetry", "Allegory_in_the_Middle_Ages"], ["Flat_Earth", "Pythagoras", "Poetry", "Allegory_in_the_Middle_Ages"], ["Flat_Earth", "Rudyard_Kipling", "Poetry", "Allegory_in_the_Middle_Ages"], ["Flat_Earth", "Voltaire", "Poetry", "Allegory_in_the_Middle_Ages"]]

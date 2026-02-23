@@ -1,0 +1,1 @@
+[["Greek_mythology", "Paris", "Pablo_Picasso"]]

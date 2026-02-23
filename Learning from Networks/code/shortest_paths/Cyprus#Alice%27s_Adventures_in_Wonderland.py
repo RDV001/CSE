@@ -1,0 +1,1 @@
+[["Cyprus", "Roman_Catholic_Church", "J._R._R._Tolkien", "Alice%27s_Adventures_in_Wonderland"], ["Cyprus", "United_Kingdom", "J._R._R._Tolkien", "Alice%27s_Adventures_in_Wonderland"], ["Cyprus", "United_Kingdom", "River_Thames", "Alice%27s_Adventures_in_Wonderland"]]

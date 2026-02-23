@@ -1,0 +1,1 @@
+[["Ununquadium", "Plutonium", "Nuclear_weapon", "Tsar_Bomba"], ["Ununquadium", "Russia", "Nuclear_weapon", "Tsar_Bomba"]]

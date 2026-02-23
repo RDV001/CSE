@@ -1,0 +1,1 @@
+[["Borage", "Europe", "Belarus", "Eurovision_Song_Contest"], ["Borage", "Germany", "Belarus", "Eurovision_Song_Contest"], ["Borage", "Europe", "Helsinki", "Eurovision_Song_Contest"], ["Borage", "Europe", "Ireland", "Eurovision_Song_Contest"], ["Borage", "Europe", "Kiev", "Eurovision_Song_Contest"], ["Borage", "Frankfurt", "Birmingham", "Eurovision_Song_Contest"]]

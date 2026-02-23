@@ -1,0 +1,1 @@
+[["Tropical_Storm_Delta_%282005%29", "Algeria", "Roman_Catholic_Church", "Mona_Lisa", "Britney_Spears"], ["Tropical_Storm_Delta_%282005%29", "Atlantic_Ocean", "Paris", "Mona_Lisa", "Britney_Spears"]]

@@ -1,0 +1,1 @@
+[["Cook_Islands", "American_Samoa", "George_W._Bush"], ["Cook_Islands", "Government", "George_W._Bush"], ["Cook_Islands", "United_States", "George_W._Bush"]]

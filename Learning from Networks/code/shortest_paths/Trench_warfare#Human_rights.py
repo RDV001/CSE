@@ -1,0 +1,1 @@
+[["Trench_warfare", "Military_dictatorship", "Human_rights"], ["Trench_warfare", "New_Zealand", "Human_rights"], ["Trench_warfare", "War", "Human_rights"]]

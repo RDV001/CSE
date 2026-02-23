@@ -1,0 +1,1 @@
+[["Civil_rights", "John_Locke", "Isaac_Newton", "Luminiferous_aether"], ["Civil_rights", "Philosophy", "Isaac_Newton", "Luminiferous_aether"], ["Civil_rights", "Philosophy", "Albert_Einstein", "Luminiferous_aether"]]

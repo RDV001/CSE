@@ -1,0 +1,1 @@
+[["Attalus_I", "Athens", "Romania", "Battle_of_Vaslui"], ["Attalus_I", "Italy", "Romania", "Battle_of_Vaslui"], ["Attalus_I", "Rome", "Romania", "Battle_of_Vaslui"], ["Attalus_I", "Turkey", "Romania", "Battle_of_Vaslui"]]

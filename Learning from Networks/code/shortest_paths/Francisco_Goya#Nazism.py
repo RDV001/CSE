@@ -1,0 +1,1 @@
+[["Francisco_Goya", "War", "Nazism"]]

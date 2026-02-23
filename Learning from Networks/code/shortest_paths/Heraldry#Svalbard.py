@@ -1,0 +1,1 @@
+[["Heraldry", "French_language", "Europe", "Svalbard"], ["Heraldry", "Jesus", "Europe", "Svalbard"], ["Heraldry", "Lion", "Europe", "Svalbard"], ["Heraldry", "Middle_Ages", "Europe", "Svalbard"], ["Heraldry", "Napoleon_I_of_France", "Europe", "Svalbard"], ["Heraldry", "Renaissance", "Europe", "Svalbard"], ["Heraldry", "Middle_Ages", "Russian_language", "Svalbard"]]

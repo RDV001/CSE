@@ -1,0 +1,1 @@
+[["Pearl", "Australia", "Germany", "Greenhouse_effect"], ["Pearl", "Japan", "Germany", "Greenhouse_effect"], ["Pearl", "Calcite", "Earth", "Greenhouse_effect"], ["Pearl", "Indian_Ocean", "Earth", "Greenhouse_effect"], ["Pearl", "Pacific_Ocean", "Earth", "Greenhouse_effect"], ["Pearl", "Pacific_Ocean", "Water", "Greenhouse_effect"]]

@@ -1,0 +1,1 @@
+[["Augustus", "Christianity", "Liberalism", "Benjamin_Franklin"], ["Augustus", "Egypt", "Liberalism", "Benjamin_Franklin"], ["Augustus", "Egypt", "Age_of_Enlightenment", "Benjamin_Franklin"], ["Augustus", "Latin", "18th_century", "Benjamin_Franklin"], ["Augustus", "Latin", "Split_infinitive", "Benjamin_Franklin"]]

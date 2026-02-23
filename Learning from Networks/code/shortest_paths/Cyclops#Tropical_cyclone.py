@@ -1,0 +1,1 @@
+[["Cyclops", "Volcano", "Earth", "Tropical_cyclone"], ["Cyclops", "Volcano", "Guatemala", "Tropical_cyclone"], ["Cyclops", "Volcano", "Japan", "Tropical_cyclone"], ["Cyclops", "Volcano", "Neptune", "Tropical_cyclone"], ["Cyclops", "Volcano", "Saturn", "Tropical_cyclone"]]

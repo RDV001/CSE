@@ -1,0 +1,1 @@
+[["Sun", "Albert_Einstein", "Adolf_Hitler"]]

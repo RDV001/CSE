@@ -1,0 +1,1 @@
+[["Soil_salination", "Aral_Sea", "Turkmenistan", "Corporation", "Andrew_Carnegie"], ["Soil_salination", "Aral_Sea", "United_States", "Corporation", "Andrew_Carnegie"], ["Soil_salination", "Aral_Sea", "United_States", "Dallas%2C_Texas", "Andrew_Carnegie"]]

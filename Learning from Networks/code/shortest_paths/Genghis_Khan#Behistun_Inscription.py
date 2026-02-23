@@ -1,0 +1,1 @@
+[["Genghis_Khan", "Armenia", "Behistun_Inscription"], ["Genghis_Khan", "Iranian_peoples", "Behistun_Inscription"]]

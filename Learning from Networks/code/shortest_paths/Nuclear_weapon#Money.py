@@ -1,0 +1,1 @@
+[["Nuclear_weapon", "Gold", "Money"]]

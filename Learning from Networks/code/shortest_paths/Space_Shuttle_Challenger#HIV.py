@@ -1,0 +1,1 @@
+[["Space_Shuttle_Challenger", "Florida", "Roman_Catholic_Church", "HIV"], ["Space_Shuttle_Challenger", "Space_Shuttle_Challenger_disaster", "Ronald_Reagan", "HIV"], ["Space_Shuttle_Challenger", "Space_Shuttle_Columbia", "Ronald_Reagan", "HIV"], ["Space_Shuttle_Challenger", "United_States", "Nigeria", "HIV"], ["Space_Shuttle_Challenger", "United_States", "Venezuela", "HIV"]]

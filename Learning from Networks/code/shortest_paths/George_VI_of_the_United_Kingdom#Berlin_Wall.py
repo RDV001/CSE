@@ -1,0 +1,1 @@
+[["George_VI_of_the_United_Kingdom", "Europe", "Berlin_Wall"], ["George_VI_of_the_United_Kingdom", "Winston_Churchill", "Berlin_Wall"]]

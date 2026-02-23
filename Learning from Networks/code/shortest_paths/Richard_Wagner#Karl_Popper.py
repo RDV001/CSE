@@ -1,0 +1,1 @@
+[["Richard_Wagner", "Philosophy", "Karl_Popper"], ["Richard_Wagner", "Politics", "Karl_Popper"], ["Richard_Wagner", "Sigmund_Freud", "Karl_Popper"]]

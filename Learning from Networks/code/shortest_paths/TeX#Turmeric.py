@@ -1,0 +1,1 @@
+[["TeX", "Netherlands", "Turkey", "Olive_oil", "Turmeric"], ["TeX", "Spanish_language", "Turkey", "Olive_oil", "Turmeric"], ["TeX", "Physics", "Ancient_Greece", "Olive_oil", "Turmeric"]]

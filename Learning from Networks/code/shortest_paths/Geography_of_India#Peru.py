@@ -1,0 +1,1 @@
+[["Geography_of_India", "2004_Indian_Ocean_earthquake", "Peru"], ["Geography_of_India", "Cotton", "Peru"], ["Geography_of_India", "Irrigation", "Peru"], ["Geography_of_India", "Rice", "Peru"]]

@@ -1,0 +1,1 @@
+[["Alzheimer%27s_disease", "Aluminium", "Automobile", "MINI_%28BMW%29"]]

@@ -1,0 +1,1 @@
+[["Pashtun_people", "Canada"]]

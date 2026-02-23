@@ -1,0 +1,1 @@
+[["Love", "Anthropology", "World_War_I", "Trench_warfare"], ["Love", "Bertrand_Russell", "World_War_I", "Trench_warfare"], ["Love", "Bertrand_Russell", "War", "Trench_warfare"], ["Love", "Mammal", "20th_century", "Trench_warfare"], ["Love", "Psychology", "20th_century", "Trench_warfare"], ["Love", "The_Beatles", "20th_century", "Trench_warfare"]]

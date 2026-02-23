@@ -1,0 +1,1 @@
+[["Star_Trek", "Earth", "Atlantic_Ocean", "Turtle"], ["Star_Trek", "United_States", "Atlantic_Ocean", "Turtle"], ["Star_Trek", "Earth", "Dinosaur", "Turtle"], ["Star_Trek", "Earth", "Indian_Ocean", "Turtle"], ["Star_Trek", "United_States", "Argentina", "Turtle"], ["Star_Trek", "United_States", "Guyana", "Turtle"]]

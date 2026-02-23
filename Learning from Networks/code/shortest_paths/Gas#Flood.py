@@ -1,0 +1,1 @@
+[["Gas", "Natural_gas", "Hurricane_Katrina", "Flood"], ["Gas", "Natural_gas", "River", "Flood"], ["Gas", "Natural_gas", "Tropical_cyclone", "Flood"], ["Gas", "Plasma_%28physics%29", "Earth", "Flood"]]

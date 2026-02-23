@@ -1,0 +1,1 @@
+[["Herbivore", "Animal", "Bird", "Parrot"], ["Herbivore", "Insect", "Bird", "Parrot"], ["Herbivore", "Seed", "Bird", "Parrot"], ["Herbivore", "Elephant", "Myanmar", "Parrot"], ["Herbivore", "United_States", "Costa_Rica", "Parrot"]]

@@ -1,0 +1,1 @@
+[["Algebra", "Europe", "World_War_II", "Naval_Battle_of_Guadalcanal", "Battle_of_Rennell_Island"], ["Algebra", "Gottfried_Leibniz", "World_War_II", "Naval_Battle_of_Guadalcanal", "Battle_of_Rennell_Island"], ["Algebra", "Matrix_%28mathematics%29", "World_War_II", "Naval_Battle_of_Guadalcanal", "Battle_of_Rennell_Island"]]

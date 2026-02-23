@@ -1,0 +1,1 @@
+[["Yemen", "Capital", "City"], ["Yemen", "Djibouti", "City"], ["Yemen", "Philippines", "City"], ["Yemen", "Russia", "City"]]

@@ -1,0 +1,1 @@
+[["Nematode", "Animal", "Spider", "Guild", "Social_capital"], ["Nematode", "Arthropod", "Spider", "Guild", "Social_capital"], ["Nematode", "Antarctica", "Russia", "Civil_society", "Social_capital"], ["Nematode", "Dead_Sea", "Russia", "Civil_society", "Social_capital"]]

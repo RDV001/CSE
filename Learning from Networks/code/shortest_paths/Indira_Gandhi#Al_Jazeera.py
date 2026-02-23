@@ -1,0 +1,1 @@
+[["Indira_Gandhi", "Iran", "Qatar", "Al_Jazeera"], ["Indira_Gandhi", "Pakistan", "September_11%2C_2001_attacks", "Al_Jazeera"]]

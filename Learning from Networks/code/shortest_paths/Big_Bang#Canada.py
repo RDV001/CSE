@@ -1,0 +1,1 @@
+[["Big_Bang", "Helium", "Canada"], ["Big_Bang", "Hinduism", "Canada"], ["Big_Bang", "Jew", "Canada"], ["Big_Bang", "Judaism", "Canada"]]

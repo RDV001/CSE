@@ -1,0 +1,1 @@
+[["Spanish_language", "Antarctica", "Snow"], ["Spanish_language", "Brazil", "Snow"], ["Spanish_language", "Montreal", "Snow"]]

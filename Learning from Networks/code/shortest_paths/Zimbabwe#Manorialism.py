@@ -1,0 +1,1 @@
+[["Zimbabwe", "11th_century", "Domesday_Book", "Manorialism"], ["Zimbabwe", "Christianity", "French_Revolution", "Manorialism"], ["Zimbabwe", "Europe", "French_Revolution", "Manorialism"], ["Zimbabwe", "Cold_War", "Capitalism", "Manorialism"], ["Zimbabwe", "Netherlands", "Capitalism", "Manorialism"]]

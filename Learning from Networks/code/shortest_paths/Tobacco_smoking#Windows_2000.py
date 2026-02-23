@@ -1,0 +1,1 @@
+[["Tobacco_smoking", "Scooby-Doo", "Microsoft_Windows", "Windows_2000"]]

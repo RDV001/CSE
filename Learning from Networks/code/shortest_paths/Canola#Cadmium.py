@@ -1,0 +1,1 @@
+[["Canola", "Agriculture", "Fertilizer", "Cadmium"], ["Canola", "Biodiesel", "Fertilizer", "Cadmium"], ["Canola", "Biodiesel", "Corrosion", "Cadmium"], ["Canola", "Fossil_fuel", "Coal", "Cadmium"], ["Canola", "United_States", "Coal", "Cadmium"], ["Canola", "Fossil_fuel", "Uranium", "Cadmium"], ["Canola", "United_States", "Mining", "Cadmium"]]

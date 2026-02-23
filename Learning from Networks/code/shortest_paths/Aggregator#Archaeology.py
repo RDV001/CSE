@@ -1,0 +1,1 @@
+[["Aggregator", "ITunes", "Finland", "Archaeology"], ["Aggregator", "ITunes", "Japan", "Archaeology"], ["Aggregator", "Mass_media", "Culture", "Archaeology"]]

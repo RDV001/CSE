@@ -1,0 +1,1 @@
+[["Stanley_Baldwin", "England", "Age_of_Enlightenment", "Geometry"], ["Stanley_Baldwin", "England", "Thomas_Hobbes", "Geometry"], ["Stanley_Baldwin", "Trinity_College%2C_Cambridge", "Bertrand_Russell", "Geometry"]]

@@ -1,0 +1,1 @@
+[["Adam_Smith", "Edinburgh", "Mammal", "Zebra", "Plains_Zebra"], ["Adam_Smith", "Europe", "Mammal", "Zebra", "Plains_Zebra"], ["Adam_Smith", "England", "Lion", "Zebra", "Plains_Zebra"], ["Adam_Smith", "Scotland", "Lion", "Zebra", "Plains_Zebra"]]

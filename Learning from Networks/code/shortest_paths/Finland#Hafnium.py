@@ -1,0 +1,1 @@
+[["Finland", "Baltic_Sea", "Copenhagen", "Hafnium"], ["Finland", "Europe", "Copenhagen", "Hafnium"], ["Finland", "European_Union", "Copenhagen", "Hafnium"], ["Finland", "Norway", "Copenhagen", "Hafnium"], ["Finland", "United_Nations", "Copenhagen", "Hafnium"]]

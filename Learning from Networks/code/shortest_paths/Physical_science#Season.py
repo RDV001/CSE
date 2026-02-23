@@ -1,0 +1,1 @@
+[["Physical_science", "Earth", "Season"], ["Physical_science", "Weather", "Season"]]

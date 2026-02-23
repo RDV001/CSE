@@ -1,0 +1,1 @@
+[["Iranian_peoples", "Bronze_Age", "Tsunami", "July_2006_Java_earthquake"]]

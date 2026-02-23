@@ -1,0 +1,1 @@
+[["Paul_of_Tarsus", "Augustine_of_Hippo", "John_Calvin", "Calvin_and_Hobbes", "Krazy_Kat"], ["Paul_of_Tarsus", "Jesus", "Literature", "E._E._Cummings", "Krazy_Kat"]]

@@ -1,0 +1,1 @@
+[["Ganges_River", "United_Kingdom", "Bertrand_Russell"]]

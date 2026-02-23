@@ -1,0 +1,1 @@
+[["Polymerase_chain_reaction", "Russia", "Cold_War", "Yom_Kippur_War"], ["Polymerase_chain_reaction", "Russia", "Suez_Canal", "Yom_Kippur_War"]]

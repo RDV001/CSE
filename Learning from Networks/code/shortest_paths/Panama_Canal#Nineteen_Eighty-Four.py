@@ -1,0 +1,1 @@
+[["Panama_Canal", "Atlantic_Ocean", "Faroe_Islands", "Nineteen_Eighty-Four"], ["Panama_Canal", "People%27s_Republic_of_China", "Police_state", "Nineteen_Eighty-Four"]]

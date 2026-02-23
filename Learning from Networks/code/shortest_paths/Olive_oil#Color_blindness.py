@@ -1,0 +1,1 @@
+[["Olive_oil", "Medicine", "Eye", "Color_blindness"], ["Olive_oil", "Saffron", "Eye", "Color_blindness"], ["Olive_oil", "Saffron", "Retina", "Color_blindness"], ["Olive_oil", "United_States", "Federated_States_of_Micronesia", "Color_blindness"]]

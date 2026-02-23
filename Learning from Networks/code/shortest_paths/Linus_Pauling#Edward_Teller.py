@@ -1,0 +1,1 @@
+[["Linus_Pauling", "Edward_Teller"]]

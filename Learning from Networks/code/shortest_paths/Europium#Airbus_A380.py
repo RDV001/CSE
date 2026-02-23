@@ -1,0 +1,1 @@
+[["Europium", "France", "Airbus_A380"]]

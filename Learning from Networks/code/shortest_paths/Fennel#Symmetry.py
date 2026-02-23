@@ -1,0 +1,1 @@
+[["Fennel", "Greek_mythology", "Minoan_civilization", "Symmetry"], ["Fennel", "Saffron", "Minoan_civilization", "Symmetry"], ["Fennel", "Saffron", "Photon", "Symmetry"], ["Fennel", "United_States", "Antarctica", "Symmetry"]]

@@ -1,0 +1,1 @@
+[["American_popular_music", "Cuba", "Ernest_Hemingway", "Stoicism"]]

@@ -1,0 +1,1 @@
+[["Albania", "Human_rights", "Animal_rights"], ["Albania", "Norway", "Animal_rights"]]

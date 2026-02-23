@@ -1,0 +1,1 @@
+[["War_and_Peace", "Anarchism", "Linux", "Perl"], ["War_and_Peace", "Language", "Programming_language", "Perl"], ["War_and_Peace", "United_States", "Computer", "Perl"]]

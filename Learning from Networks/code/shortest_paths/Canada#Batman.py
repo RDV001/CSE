@@ -1,0 +1,1 @@
+[["Canada", "Elizabeth_II_of_the_United_Kingdom", "Buckingham_Palace", "Batman"], ["Canada", "Ice_hockey", "Buckingham_Palace", "Batman"], ["Canada", "United_Kingdom", "Buckingham_Palace", "Batman"], ["Canada", "Elizabeth_II_of_the_United_Kingdom", "Ronald_Reagan", "Batman"], ["Canada", "NATO", "Ronald_Reagan", "Batman"], ["Canada", "Yugoslavia", "Ronald_Reagan", "Batman"]]

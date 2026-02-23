@@ -1,0 +1,1 @@
+[["Second_Boer_War", "India", "Bangalore", "Economy_of_India"], ["Second_Boer_War", "India", "Kargil_War", "Economy_of_India"], ["Second_Boer_War", "India", "Kolkata", "Economy_of_India"], ["Second_Boer_War", "India", "Mumbai", "Economy_of_India"]]

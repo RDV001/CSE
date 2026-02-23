@@ -1,0 +1,1 @@
+[["Apostolic_Succession", "Christianity", "Islam", "Algorithm"], ["Apostolic_Succession", "England", "Islam", "Algorithm"], ["Apostolic_Succession", "Jesus", "Islam", "Algorithm"], ["Apostolic_Succession", "United_States", "Islam", "Algorithm"]]

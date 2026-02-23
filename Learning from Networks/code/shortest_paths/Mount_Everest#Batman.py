@@ -1,0 +1,1 @@
+[["Mount_Everest", "Elizabeth_II_of_the_United_Kingdom", "Buckingham_Palace", "Batman"], ["Mount_Everest", "London", "Buckingham_Palace", "Batman"], ["Mount_Everest", "United_Kingdom", "Buckingham_Palace", "Batman"], ["Mount_Everest", "Elizabeth_II_of_the_United_Kingdom", "Ronald_Reagan", "Batman"], ["Mount_Everest", "New_Zealand", "Bat", "Batman"]]

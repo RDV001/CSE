@@ -1,0 +1,1 @@
+[["Riesling", "France", "Middle_Ages"], ["Riesling", "Italy", "Middle_Ages"], ["Riesling", "Rhine", "Middle_Ages"], ["Riesling", "Romania", "Middle_Ages"]]

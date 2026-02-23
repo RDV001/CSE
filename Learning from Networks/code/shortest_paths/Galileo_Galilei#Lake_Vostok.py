@@ -1,0 +1,1 @@
+[["Galileo_Galilei", "Earth", "Antarctica", "Lake_Vostok"], ["Galileo_Galilei", "Mercury_%28planet%29", "Antarctica", "Lake_Vostok"], ["Galileo_Galilei", "Pope_John_Paul_II", "Antarctica", "Lake_Vostok"], ["Galileo_Galilei", "Earth", "Snowball_Earth", "Lake_Vostok"]]

@@ -1,0 +1,1 @@
+[["Industry", "Coal", "Clay"], ["Industry", "Technology", "Clay"]]

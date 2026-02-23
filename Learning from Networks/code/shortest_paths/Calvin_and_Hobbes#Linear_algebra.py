@@ -1,0 +1,1 @@
+[["Calvin_and_Hobbes", "Philosophy", "Mathematics", "Linear_algebra"]]

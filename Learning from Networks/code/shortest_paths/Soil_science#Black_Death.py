@@ -1,0 +1,1 @@
+[["Soil_science", "Chemistry", "Alchemy", "Black_Death"], ["Soil_science", "Earth", "Middle_Ages", "Black_Death"], ["Soil_science", "Geography", "Middle_Ages", "Black_Death"], ["Soil_science", "Engineering", "Renaissance", "Black_Death"], ["Soil_science", "Norman_Borlaug", "Norway", "Black_Death"]]

@@ -1,0 +1,1 @@
+[["Quartz", "Earth", "Africa", "Ishango_bone"]]

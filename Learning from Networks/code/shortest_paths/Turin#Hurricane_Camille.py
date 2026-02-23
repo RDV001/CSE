@@ -1,0 +1,1 @@
+[["Turin", "Guatemala", "Hurricane_Mitch", "Hurricane_Camille"], ["Turin", "Guatemala", "Tropical_cyclone", "Hurricane_Camille"], ["Turin", "Japan", "Tropical_cyclone", "Hurricane_Camille"]]

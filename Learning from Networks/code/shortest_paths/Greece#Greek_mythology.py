@@ -1,0 +1,1 @@
+[["Greece", "Athena", "Greek_mythology"], ["Greece", "Europe", "Greek_mythology"], ["Greece", "Owl", "Greek_mythology"]]

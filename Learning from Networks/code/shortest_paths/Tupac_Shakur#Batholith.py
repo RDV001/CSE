@@ -1,0 +1,1 @@
+[["Tupac_Shakur", "Atlanta%2C_Georgia", "Granite", "Batholith"]]

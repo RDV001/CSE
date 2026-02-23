@@ -1,0 +1,1 @@
+[["Alcohol", "United_States", "Olympic_Games", "Fencing"]]

@@ -1,0 +1,1 @@
+[["John_F._Kennedy", "John_F._Kennedy_assassination"]]

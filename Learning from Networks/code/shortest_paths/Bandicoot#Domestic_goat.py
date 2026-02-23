@@ -1,0 +1,1 @@
+[["Bandicoot", "Mammal", "Horse", "Domestic_goat"], ["Bandicoot", "Mammal", "Milk", "Domestic_goat"], ["Bandicoot", "Pig", "Brush", "Domestic_goat"]]

@@ -1,0 +1,1 @@
+[["Joseph_Haydn", "England", "10th_century", "Maya_civilization"], ["Joseph_Haydn", "Fishing", "China", "Maya_civilization"], ["Joseph_Haydn", "Smallpox", "Common_cold", "Maya_civilization"], ["Joseph_Haydn", "Smallpox", "Mexico", "Maya_civilization"], ["Joseph_Haydn", "Smallpox", "Slavery", "Maya_civilization"]]

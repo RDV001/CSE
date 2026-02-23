@@ -1,0 +1,1 @@
+[["Parliamentary_system", "Singapore", "Mosque", "Jyllands-Posten_Muhammad_cartoons_controversy"], ["Parliamentary_system", "Spain", "Mosque", "Jyllands-Posten_Muhammad_cartoons_controversy"], ["Parliamentary_system", "Turkey", "Mosque", "Jyllands-Posten_Muhammad_cartoons_controversy"]]

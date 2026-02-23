@@ -1,0 +1,1 @@
+[["Cotton", "Ecology", "Earth%27s_atmosphere", "Krypton"], ["Cotton", "Europe", "Hungary", "Krypton"], ["Cotton", "German_language", "Hungary", "Krypton"], ["Cotton", "Industrial_Revolution", "Hungary", "Krypton"], ["Cotton", "Mesopotamia", "Silver", "Krypton"]]

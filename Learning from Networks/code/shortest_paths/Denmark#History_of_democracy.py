@@ -1,0 +1,1 @@
+[["Denmark", "Constitutional_monarchy", "Magna_Carta", "History_of_democracy"]]

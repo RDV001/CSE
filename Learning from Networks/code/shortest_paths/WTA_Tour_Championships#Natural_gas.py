@@ -1,0 +1,1 @@
+[["WTA_Tour_Championships", "Germany", "Natural_gas"], ["WTA_Tour_Championships", "United_States", "Natural_gas"]]

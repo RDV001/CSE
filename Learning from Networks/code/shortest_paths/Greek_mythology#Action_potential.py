@@ -1,0 +1,1 @@
+[["Greek_mythology", "Leonardo_da_Vinci", "Brain", "Action_potential"], ["Greek_mythology", "Sigmund_Freud", "Eye", "Action_potential"]]

@@ -1,0 +1,1 @@
+[["Lance_Armstrong", "France", "Internet", "Optical_fiber"], ["Lance_Armstrong", "United_States", "Internet", "Optical_fiber"]]

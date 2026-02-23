@@ -1,0 +1,1 @@
+[["Budapest", "20th_century", "Scurvy", "Lemon"], ["Budapest", "Israel", "Saudi_Arabia", "Lemon"], ["Budapest", "Istanbul", "Saudi_Arabia", "Lemon"], ["Budapest", "List_of_countries", "Saudi_Arabia", "Lemon"], ["Budapest", "Turkey", "Saudi_Arabia", "Lemon"], ["Budapest", "Lisbon", "Wine", "Lemon"], ["Budapest", "Vienna", "Wine", "Lemon"]]

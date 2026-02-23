@@ -1,0 +1,1 @@
+[["Afghanistan", "NATO", "Condoleezza_Rice"], ["Afghanistan", "Osama_bin_Laden", "Condoleezza_Rice"]]

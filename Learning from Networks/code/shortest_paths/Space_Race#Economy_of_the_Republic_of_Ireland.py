@@ -1,0 +1,1 @@
+[["Space_Race", "John_F._Kennedy", "Turkey", "Economy_of_the_Republic_of_Ireland"], ["Space_Race", "Lyndon_B._Johnson", "Turkey", "Economy_of_the_Republic_of_Ireland"]]

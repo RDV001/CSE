@@ -1,0 +1,1 @@
+[["Hindi", "Canada", "Skiing", "Lake_Tahoe"], ["Hindi", "New_Zealand", "Skiing", "Lake_Tahoe"], ["Hindi", "United_States", "California", "Lake_Tahoe"], ["Hindi", "Uzbekistan", "California", "Lake_Tahoe"], ["Hindi", "Yemen", "California", "Lake_Tahoe"]]

@@ -1,0 +1,1 @@
+[["Soil_pH", "Cobalt", "Democratic_Republic_of_the_Congo", "Lake_Tanganyika"], ["Soil_pH", "Cobalt", "Zambia", "Lake_Tanganyika"], ["Soil_pH", "Copper", "Zambia", "Lake_Tanganyika"]]

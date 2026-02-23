@@ -1,0 +1,1 @@
+[["Las_Palmas_de_Gran_Canaria", "Africa", "Carnivore", "Gull", "Great_Black-backed_Gull"], ["Las_Palmas_de_Gran_Canaria", "Atlantic_Ocean", "Albatross", "Gull", "Great_Black-backed_Gull"]]

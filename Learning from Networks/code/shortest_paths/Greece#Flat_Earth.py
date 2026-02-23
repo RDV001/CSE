@@ -1,0 +1,1 @@
+[["Greece", "Africa", "Earth", "Flat_Earth"], ["Greece", "Asia", "Earth", "Flat_Earth"], ["Greece", "Europe", "Earth", "Flat_Earth"], ["Greece", "European_Space_Agency", "Earth", "Flat_Earth"], ["Greece", "Russia", "Earth", "Flat_Earth"], ["Greece", "Time_zone", "Earth", "Flat_Earth"], ["Greece", "United_Kingdom", "Earth", "Flat_Earth"]]

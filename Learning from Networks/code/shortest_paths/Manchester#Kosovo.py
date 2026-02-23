@@ -1,0 +1,1 @@
+[["Manchester", "Christianity", "Kosovo"], ["Manchester", "Europe", "Kosovo"], ["Manchester", "Germany", "Kosovo"], ["Manchester", "Luftwaffe", "Kosovo"], ["Manchester", "Sheffield", "Kosovo"], ["Manchester", "Singapore", "Kosovo"]]

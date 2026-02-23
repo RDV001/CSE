@@ -1,0 +1,1 @@
+[["Sesame_Street", "Kofi_Annan", "Minnesota", "Ralph_Nader"], ["Sesame_Street", "United_States", "Minnesota", "Ralph_Nader"]]

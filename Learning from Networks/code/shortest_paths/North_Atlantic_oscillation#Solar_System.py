@@ -1,0 +1,1 @@
+[["North_Atlantic_oscillation", "Global_warming", "Solar_System"]]

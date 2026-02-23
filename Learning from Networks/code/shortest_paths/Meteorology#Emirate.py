@@ -1,0 +1,1 @@
+[["Meteorology", "20th_century", "Spain", "Emirate"], ["Meteorology", "Europe", "Spain", "Emirate"], ["Meteorology", "North_America", "Spain", "Emirate"], ["Meteorology", "Tropical_cyclone", "Spain", "Emirate"], ["Meteorology", "Volcano", "Spain", "Emirate"]]

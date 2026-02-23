@@ -1,0 +1,1 @@
+[["Calvin_Coolidge", "Warren_G._Harding", "Vancouver"]]

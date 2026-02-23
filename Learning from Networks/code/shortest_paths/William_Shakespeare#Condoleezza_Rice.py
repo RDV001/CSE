@@ -1,0 +1,1 @@
+[["William_Shakespeare", "English_language", "European_Union", "Condoleezza_Rice"], ["William_Shakespeare", "English_language", "Kosovo", "Condoleezza_Rice"], ["William_Shakespeare", "Romanticism", "Roman_Catholic_Church", "Condoleezza_Rice"]]

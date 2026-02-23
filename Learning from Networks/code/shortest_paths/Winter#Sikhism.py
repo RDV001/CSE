@@ -1,0 +1,1 @@
+[["Winter", "Europe", "Sikhism"], ["Winter", "United_Kingdom", "Sikhism"], ["Winter", "United_States", "Sikhism"], ["Winter", "Water", "Sikhism"]]

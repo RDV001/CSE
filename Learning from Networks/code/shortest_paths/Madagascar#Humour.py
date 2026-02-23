@@ -1,0 +1,1 @@
+[["Madagascar", "Australia", "Platypus", "Humour"], ["Madagascar", "Botswana", "Cattle", "Humour"], ["Madagascar", "English_language", "Cattle", "Humour"], ["Madagascar", "Somalia", "Cattle", "Humour"], ["Madagascar", "Zimbabwe", "Cattle", "Humour"]]

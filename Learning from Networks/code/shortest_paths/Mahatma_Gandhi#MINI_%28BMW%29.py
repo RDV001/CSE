@@ -1,0 +1,1 @@
+[["Mahatma_Gandhi", "Atlanta%2C_Georgia", "Automobile", "MINI_%28BMW%29"]]

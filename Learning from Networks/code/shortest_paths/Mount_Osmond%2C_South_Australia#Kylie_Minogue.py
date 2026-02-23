@@ -1,0 +1,1 @@
+[["Mount_Osmond%2C_South_Australia", "Adelaide", "Melbourne", "Kylie_Minogue"], ["Mount_Osmond%2C_South_Australia", "Adelaide", "United_Kingdom", "Kylie_Minogue"], ["Mount_Osmond%2C_South_Australia", "Islam", "United_Kingdom", "Kylie_Minogue"]]

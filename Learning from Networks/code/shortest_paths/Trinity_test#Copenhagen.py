@@ -1,0 +1,1 @@
+[["Trinity_test", "Europe", "Copenhagen"], ["Trinity_test", "Nuclear_fission", "Copenhagen"]]

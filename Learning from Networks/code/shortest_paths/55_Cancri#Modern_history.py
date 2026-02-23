@@ -1,0 +1,1 @@
+[["55_Cancri", "Earth", "Indian_Ocean", "2004_Indian_Ocean_earthquake", "Modern_history"], ["55_Cancri", "Earth", "Tsunami", "2004_Indian_Ocean_earthquake", "Modern_history"], ["55_Cancri", "Sun", "Ancient_Greece", "Demosthenes", "Modern_history"], ["55_Cancri", "Sun", "Pericles", "Demosthenes", "Modern_history"]]

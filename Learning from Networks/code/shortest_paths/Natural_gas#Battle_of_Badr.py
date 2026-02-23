@@ -1,0 +1,1 @@
+[["Natural_gas", "Pakistan", "Muhammad", "Battle_of_Badr"]]

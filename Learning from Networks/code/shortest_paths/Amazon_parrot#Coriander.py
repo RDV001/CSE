@@ -1,0 +1,1 @@
+[["Amazon_parrot", "Mexico", "Judaism", "Olive_oil", "Coriander"], ["Amazon_parrot", "South_America", "Potato", "Dill", "Coriander"]]

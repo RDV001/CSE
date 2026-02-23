@@ -1,0 +1,1 @@
+[["Shark", "Caribbean_Sea", "Cuba", "Fidel_Castro"], ["Shark", "Great_white_shark", "Cuba", "Fidel_Castro"], ["Shark", "North_America", "Cuba", "Fidel_Castro"], ["Shark", "North_America", "Guatemala", "Fidel_Castro"], ["Shark", "South_Africa", "Cold_War", "Fidel_Castro"]]

@@ -1,0 +1,1 @@
+[["Gregor_Mendel", "20th_century", "21st_century", "Hurricane_Katrina", "Effect_of_Hurricane_Katrina_on_New_Orleans"], ["Gregor_Mendel", "German_language", "Canada", "Hurricane_Katrina", "Effect_of_Hurricane_Katrina_on_New_Orleans"], ["Gregor_Mendel", "German_language", "Florida", "Hurricane_Katrina", "Effect_of_Hurricane_Katrina_on_New_Orleans"]]

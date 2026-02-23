@@ -1,0 +1,1 @@
+[["Meteor_shower", "Sun", "United_States", "Palau"]]

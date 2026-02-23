@@ -1,0 +1,1 @@
+[["Archaeoastronomy", "Agriculture", "Alcohol", "Acetone"], ["Archaeoastronomy", "Comet", "Water", "Acetone"], ["Archaeoastronomy", "Ecology", "Water", "Acetone"], ["Archaeoastronomy", "Rainbow", "Water", "Acetone"]]

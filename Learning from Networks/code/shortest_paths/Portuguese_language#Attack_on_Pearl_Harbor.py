@@ -1,0 +1,1 @@
+[["Portuguese_language", "Japan", "Attack_on_Pearl_Harbor"], ["Portuguese_language", "United_States", "Attack_on_Pearl_Harbor"]]

@@ -1,0 +1,1 @@
+[["Myanmar", "European_Union", "Slovakia"], ["Myanmar", "International_Court_of_Justice", "Slovakia"], ["Myanmar", "List_of_countries_by_system_of_government", "Slovakia"], ["Myanmar", "United_States", "Slovakia"]]

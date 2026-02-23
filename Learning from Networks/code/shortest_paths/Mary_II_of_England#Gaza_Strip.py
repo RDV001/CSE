@@ -1,0 +1,1 @@
+[["Mary_II_of_England", "England", "Middle_East", "Gaza_Strip"], ["Mary_II_of_England", "Smallpox", "Middle_East", "Gaza_Strip"], ["Mary_II_of_England", "France", "Mediterranean_Sea", "Gaza_Strip"], ["Mary_II_of_England", "London", "Israel", "Gaza_Strip"]]

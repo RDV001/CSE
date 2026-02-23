@@ -1,0 +1,1 @@
+[["Haemophilia", "12th_century", "India", "Ganges_River"], ["Haemophilia", "Jew", "India", "Ganges_River"], ["Haemophilia", "Victoria_of_the_United_Kingdom", "India", "Ganges_River"], ["Haemophilia", "Jew", "Alexander_the_Great", "Ganges_River"]]

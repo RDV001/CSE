@@ -1,0 +1,1 @@
+[["Chemical_synapse", "Computer", "Great_Britain", "Olympic_Games"]]

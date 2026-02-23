@@ -1,0 +1,1 @@
+[["Bosnia_and_Herzegovina", "Islam", "Astronomy", "Radio_telescope"], ["Bosnia_and_Herzegovina", "Roman_Catholic_Church", "Astronomy", "Radio_telescope"], ["Bosnia_and_Herzegovina", "Transport", "Hydrogen", "Radio_telescope"], ["Bosnia_and_Herzegovina", "United_Kingdom", "Hydrogen", "Radio_telescope"], ["Bosnia_and_Herzegovina", "United_States", "Apollo_11", "Radio_telescope"]]

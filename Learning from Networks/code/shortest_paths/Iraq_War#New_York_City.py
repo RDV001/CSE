@@ -1,0 +1,1 @@
+[["Iraq_War", "Dominican_Republic", "New_York_City"], ["Iraq_War", "George_W._Bush", "New_York_City"], ["Iraq_War", "Singapore", "New_York_City"], ["Iraq_War", "United_States", "New_York_City"]]

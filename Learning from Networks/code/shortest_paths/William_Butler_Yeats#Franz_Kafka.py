@@ -1,0 +1,1 @@
+[["William_Butler_Yeats", "Philosophy", "Franz_Kafka"]]

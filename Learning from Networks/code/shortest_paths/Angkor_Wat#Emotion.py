@@ -1,0 +1,1 @@
+[["Angkor_Wat", "Ancient_Rome", "Art", "Emotion"], ["Angkor_Wat", "Architecture", "Art", "Emotion"], ["Angkor_Wat", "Ancient_Rome", "Human", "Emotion"]]

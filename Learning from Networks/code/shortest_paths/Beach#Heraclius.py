@@ -1,0 +1,1 @@
+[["Beach", "New_Zealand", "Bosnia_and_Herzegovina", "Heraclius"], ["Beach", "Paris", "Jew", "Heraclius"], ["Beach", "South_America", "Jew", "Heraclius"], ["Beach", "Paris", "Roman_Empire", "Heraclius"]]

@@ -1,0 +1,1 @@
+[["Comics", "China", "Myanmar", "Parrot", "Amazon_parrot"], ["Comics", "World_War_II", "Myanmar", "Parrot", "Amazon_parrot"], ["Comics", "Palace_of_Westminster", "New_Zealand", "Parrot", "Amazon_parrot"], ["Comics", "World_War_II", "New_Zealand", "Parrot", "Amazon_parrot"], ["Comics", "United_States", "Costa_Rica", "Parrot", "Amazon_parrot"]]

@@ -1,0 +1,1 @@
+[["Linguistics", "Arabic_language", "Alcohol", "Phosphorus_tribromide", "Phosphorus_trichloride"], ["Linguistics", "Medicine", "Alcohol", "Phosphorus_tribromide", "Phosphorus_trichloride"], ["Linguistics", "Culture", "Agriculture", "Phosphorus", "Phosphorus_trichloride"], ["Linguistics", "Middle_East", "Agriculture", "Phosphorus", "Phosphorus_trichloride"]]

@@ -1,0 +1,1 @@
+[["Louis_Pasteur", "Physics", "Nuclear_weapon", "Tsar_Bomba"]]

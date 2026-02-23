@@ -1,0 +1,1 @@
+[["Super_Mario_Bros.", "Japan", "Rice", "Fatty_acid"], ["Super_Mario_Bros.", "United_States", "Rice", "Fatty_acid"], ["Super_Mario_Bros.", "United_States", "Potato", "Fatty_acid"]]

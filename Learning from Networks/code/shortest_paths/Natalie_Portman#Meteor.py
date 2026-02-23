@@ -1,0 +1,1 @@
+[["Natalie_Portman", "Russia", "Earth", "Meteor"], ["Natalie_Portman", "Star_Wars", "Earth", "Meteor"], ["Natalie_Portman", "The_Simpsons", "Earth", "Meteor"], ["Natalie_Portman", "World_War_II", "Radar", "Meteor"]]

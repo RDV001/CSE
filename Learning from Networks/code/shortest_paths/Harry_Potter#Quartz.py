@@ -1,0 +1,1 @@
+[["Harry_Potter", "Alchemy", "Glass", "Quartz"], ["Harry_Potter", "Alchemy", "Gold", "Quartz"], ["Harry_Potter", "Edinburgh", "Geology", "Quartz"], ["Harry_Potter", "Star_Wars", "Death_Valley_National_Park", "Quartz"], ["Harry_Potter", "United_States", "Mining", "Quartz"]]

@@ -1,0 +1,1 @@
+[["Ibn_Battuta", "Black_Death", "Roman_Catholic_Church", "Catholic_social_teaching"], ["Ibn_Battuta", "Ethiopia", "Roman_Catholic_Church", "Catholic_social_teaching"], ["Ibn_Battuta", "Gibraltar", "Roman_Catholic_Church", "Catholic_social_teaching"]]

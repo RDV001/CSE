@@ -1,0 +1,1 @@
+[["Periodic_table", "19th_century", "Charles_Darwin", "Monkey"], ["Periodic_table", "Biology", "Charles_Darwin", "Monkey"], ["Periodic_table", "19th_century", "Nicaragua", "Monkey"], ["Periodic_table", "Potassium", "Banana", "Monkey"], ["Periodic_table", "Scandium", "Madagascar", "Monkey"], ["Periodic_table", "Tin", "Toy", "Monkey"]]

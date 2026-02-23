@@ -1,0 +1,1 @@
+[["Kingman_Reef", "New_Zealand", "11th_century", "2nd_century"], ["Kingman_Reef", "Pacific_Ocean", "16th_century", "2nd_century"], ["Kingman_Reef", "Pacific_Ocean", "17th_century", "2nd_century"], ["Kingman_Reef", "Pacific_Ocean", "18th_century", "2nd_century"], ["Kingman_Reef", "Pacific_Ocean", "19th_century", "2nd_century"]]

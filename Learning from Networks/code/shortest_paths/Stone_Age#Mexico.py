@@ -1,0 +1,1 @@
+[["Stone_Age", "Brain", "Mexico"], ["Stone_Age", "Copper", "Mexico"], ["Stone_Age", "North_America", "Mexico"], ["Stone_Age", "Philippines", "Mexico"], ["Stone_Age", "South_America", "Mexico"], ["Stone_Age", "Spain", "Mexico"], ["Stone_Age", "Technology", "Mexico"]]

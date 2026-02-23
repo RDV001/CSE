@@ -1,0 +1,1 @@
+[["Moon_landing", "20th_century", "18th_century", "Emanuel_Swedenborg"], ["Moon_landing", "United_States", "Sweden", "Emanuel_Swedenborg"]]

@@ -1,0 +1,1 @@
+[["Lake_District", "19th_century", "North_Africa"], ["Lake_District", "Golden_Eagle", "North_Africa"], ["Lake_District", "Sundew", "North_Africa"], ["Lake_District", "Viking", "North_Africa"], ["Lake_District", "Water", "North_Africa"]]

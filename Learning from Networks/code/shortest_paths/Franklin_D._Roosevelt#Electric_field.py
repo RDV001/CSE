@@ -1,0 +1,1 @@
+[["Franklin_D._Roosevelt", "Honduras", "Electricity", "Electric_field"], ["Franklin_D._Roosevelt", "Joseph_Stalin", "Special_relativity", "Electric_field"], ["Franklin_D._Roosevelt", "Tehran", "Ozone", "Electric_field"]]

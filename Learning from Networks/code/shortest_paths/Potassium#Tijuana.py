@@ -1,0 +1,1 @@
+[["Potassium", "Avocado", "Mexico", "Tijuana"], ["Potassium", "Banana", "Mexico", "Tijuana"], ["Potassium", "California", "Mexico", "Tijuana"], ["Potassium", "California", "Pacific_Ocean", "Tijuana"], ["Potassium", "Earth", "Pacific_Ocean", "Tijuana"], ["Potassium", "Ocean", "Pacific_Ocean", "Tijuana"], ["Potassium", "European_Union", "Global_city", "Tijuana"]]

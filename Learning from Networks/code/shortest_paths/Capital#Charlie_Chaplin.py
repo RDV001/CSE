@@ -1,0 +1,1 @@
+[["Capital", "Cold_War", "Adolf_Hitler", "Charlie_Chaplin"], ["Capital", "Germany", "Adolf_Hitler", "Charlie_Chaplin"], ["Capital", "Greece", "Adolf_Hitler", "Charlie_Chaplin"], ["Capital", "Paris", "Adolf_Hitler", "Charlie_Chaplin"], ["Capital", "Moscow", "Constructivism_%28art%29", "Charlie_Chaplin"], ["Capital", "United_States", "Film", "Charlie_Chaplin"]]

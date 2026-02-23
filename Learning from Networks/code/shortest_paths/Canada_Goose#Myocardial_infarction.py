@@ -1,0 +1,1 @@
+[["Canada_Goose", "20th_century", "Tobacco_smoking", "Myocardial_infarction"], ["Canada_Goose", "Carolus_Linnaeus", "Stroke", "Myocardial_infarction"], ["Canada_Goose", "Great_Lakes", "Bill_Clinton", "Myocardial_infarction"], ["Canada_Goose", "United_States", "Seattle%2C_Washington", "Myocardial_infarction"]]

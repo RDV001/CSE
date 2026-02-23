@@ -1,0 +1,1 @@
+[["Agnosticism", "Atheism", "United_States", "Bald_Eagle"], ["Agnosticism", "Bertrand_Russell", "United_States", "Bald_Eagle"], ["Agnosticism", "God", "United_States", "Bald_Eagle"], ["Agnosticism", "Jew", "United_States", "Bald_Eagle"], ["Agnosticism", "Philosophy", "United_States", "Bald_Eagle"]]

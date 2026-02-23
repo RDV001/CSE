@@ -1,0 +1,1 @@
+[["Qing_Dynasty", "George_III_of_the_United_Kingdom", "Industry"]]

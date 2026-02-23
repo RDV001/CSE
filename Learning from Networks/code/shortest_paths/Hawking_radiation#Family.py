@@ -1,0 +1,1 @@
+[["Hawking_radiation", "Stephen_Hawking", "Germany", "Family"], ["Hawking_radiation", "United_Kingdom", "Germany", "Family"]]

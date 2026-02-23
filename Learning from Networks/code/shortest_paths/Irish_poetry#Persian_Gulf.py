@@ -1,0 +1,1 @@
+[["Irish_poetry", "English_language", "British_Isles", "Persian_Gulf"], ["Irish_poetry", "Northern_Ireland", "British_Isles", "Persian_Gulf"], ["Irish_poetry", "Ezra_Pound", "World_War_I", "Persian_Gulf"], ["Irish_poetry", "James_Joyce", "World_War_I", "Persian_Gulf"], ["Irish_poetry", "James_II_of_England", "Royal_Navy", "Persian_Gulf"]]

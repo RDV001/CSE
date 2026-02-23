@@ -1,0 +1,1 @@
+[["Global_warming", "Drought", "Horn_of_Africa", "Antelope", "Dik-dik"], ["Global_warming", "Industrial_Revolution", "Great_Britain", "Antelope", "Dik-dik"], ["Global_warming", "United_Kingdom", "Great_Britain", "Antelope", "Dik-dik"], ["Global_warming", "United_Kingdom", "Lion", "Antelope", "Dik-dik"]]

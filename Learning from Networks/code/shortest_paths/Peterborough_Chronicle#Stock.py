@@ -1,0 +1,1 @@
+[["Peterborough_Chronicle", "Denmark", "Currency", "Stock"], ["Peterborough_Chronicle", "England", "Currency", "Stock"], ["Peterborough_Chronicle", "England", "Finance", "Stock"]]

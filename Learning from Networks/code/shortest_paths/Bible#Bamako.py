@@ -1,0 +1,1 @@
+[["Bible", "Ancient_Egypt", "Africa", "Bamako"], ["Bible", "Ancient_history", "Africa", "Bamako"], ["Bible", "Byzantine_Empire", "Africa", "Bamako"], ["Bible", "Eastern_Orthodox_Church", "Africa", "Bamako"], ["Bible", "Israel", "Africa", "Bamako"], ["Bible", "Roman_Catholic_Church", "Africa", "Bamako"]]

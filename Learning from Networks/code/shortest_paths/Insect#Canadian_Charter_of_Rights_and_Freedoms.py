@@ -1,0 +1,1 @@
+[["Insect", "Amber", "Canada", "Canadian_Charter_of_Rights_and_Freedoms"], ["Insect", "Spider", "Canada", "Canadian_Charter_of_Rights_and_Freedoms"], ["Insect", "Latin", "French_language", "Canadian_Charter_of_Rights_and_Freedoms"]]

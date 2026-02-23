@@ -1,0 +1,1 @@
+[["Moon", "Earth", "Climate"], ["Moon", "Russia", "Climate"], ["Moon", "Soviet_Union", "Climate"], ["Moon", "Sun", "Climate"]]

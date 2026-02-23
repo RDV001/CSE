@@ -1,0 +1,1 @@
+[["HD_209458_b", "Day", "19th_century", "Natural_selection"], ["HD_209458_b", "Hydrogen", "Biology", "Natural_selection"], ["HD_209458_b", "Hydrogen", "Organism", "Natural_selection"], ["HD_209458_b", "Jupiter", "Photosynthesis", "Natural_selection"], ["HD_209458_b", "Oxygen", "Photosynthesis", "Natural_selection"], ["HD_209458_b", "Sun", "Photosynthesis", "Natural_selection"]]

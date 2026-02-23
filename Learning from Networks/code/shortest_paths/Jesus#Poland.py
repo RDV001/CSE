@@ -1,0 +1,1 @@
+[["Jesus", "Age_of_Enlightenment", "Poland"], ["Jesus", "Europe", "Poland"], ["Jesus", "Jew", "Poland"], ["Jesus", "Mahatma_Gandhi", "Poland"], ["Jesus", "The_Holocaust", "Poland"]]

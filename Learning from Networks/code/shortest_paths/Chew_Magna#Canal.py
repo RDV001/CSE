@@ -1,0 +1,1 @@
+[["Chew_Magna", "Tourism", "Canal"]]

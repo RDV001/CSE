@@ -1,0 +1,1 @@
+[["Walt_Disney", "Communism", "Hungary", "Krypton"], ["Walt_Disney", "Donald_Duck", "Hungary", "Krypton"], ["Walt_Disney", "Los_Angeles%2C_California", "Hungary", "Krypton"], ["Walt_Disney", "New_York_City", "Hungary", "Krypton"], ["Walt_Disney", "World_War_II", "Hungary", "Krypton"], ["Walt_Disney", "Wernher_von_Braun", "Mars", "Krypton"]]

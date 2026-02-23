@@ -1,0 +1,1 @@
+[["Africa", "Gold", "List_of_elements_by_name", "Americium"], ["Africa", "Gold", "Periodic_table", "Americium"]]

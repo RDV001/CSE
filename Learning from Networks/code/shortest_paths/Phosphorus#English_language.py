@@ -1,0 +1,1 @@
+[["Phosphorus", "Chemical_element", "English_language"], ["Phosphorus", "China", "English_language"], ["Phosphorus", "Day", "English_language"], ["Phosphorus", "Florida", "English_language"], ["Phosphorus", "Hamburg", "English_language"], ["Phosphorus", "Latin", "English_language"], ["Phosphorus", "Morocco", "English_language"]]

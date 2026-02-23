@@ -1,0 +1,1 @@
+[["Wall_Street", "Netherlands", "Republic_of_Ireland"], ["Wall_Street", "Tobacco_smoking", "Republic_of_Ireland"], ["Wall_Street", "United_Kingdom", "Republic_of_Ireland"], ["Wall_Street", "United_States", "Republic_of_Ireland"]]

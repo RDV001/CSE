@@ -1,0 +1,1 @@
+[["Child", "Education", "Technology", "Clock"], ["Child", "Law", "China", "Clock"], ["Child", "Literacy", "China", "Clock"], ["Child", "Sport", "China", "Clock"], ["Child", "Law", "Middle_Ages", "Clock"], ["Child", "Medicine", "Middle_Ages", "Clock"], ["Child", "Music", "Time", "Clock"], ["Child", "Wolfgang_Amadeus_Mozart", "Munich", "Clock"]]

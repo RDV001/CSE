@@ -1,0 +1,1 @@
+[["Minimum_wage", "New_Zealand", "The_Lord_of_the_Rings_film_trilogy", "The_Shawshank_Redemption"], ["Minimum_wage", "United_States", "Cinema_of_the_United_States", "The_Shawshank_Redemption"]]

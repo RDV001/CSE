@@ -1,0 +1,1 @@
+[["French_language", "Ottawa", "Earthquake", "Effects_of_nuclear_explosions"], ["French_language", "Vanuatu", "Earthquake", "Effects_of_nuclear_explosions"]]

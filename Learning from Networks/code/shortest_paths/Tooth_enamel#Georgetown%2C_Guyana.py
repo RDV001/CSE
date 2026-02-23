@@ -1,0 +1,1 @@
+[["Tooth_enamel", "Tobacco", "South_America", "Georgetown%2C_Guyana"]]

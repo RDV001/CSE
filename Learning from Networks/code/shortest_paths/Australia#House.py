@@ -1,0 +1,1 @@
+[["Australia", "Asia", "Toy", "House"], ["Australia", "Football_%28soccer%29", "Ancient_Rome", "House"], ["Australia", "Great_Britain", "Ancient_Rome", "House"], ["Australia", "Italy", "Ancient_Rome", "House"], ["Australia", "Olympic_Games", "Ancient_Rome", "House"], ["Australia", "Italy", "Civilization", "House"]]

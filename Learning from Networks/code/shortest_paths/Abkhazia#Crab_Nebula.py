@@ -1,0 +1,1 @@
+[["Abkhazia", "Islam", "Astronomy", "Crab_Nebula"]]

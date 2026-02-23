@@ -1,0 +1,1 @@
+[["Sunflower", "Europe", "Cold_War"], ["Sunflower", "Russia", "Cold_War"], ["Sunflower", "Socialism", "Cold_War"], ["Sunflower", "United_States", "Cold_War"]]

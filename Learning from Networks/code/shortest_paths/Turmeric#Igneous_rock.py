@@ -1,0 +1,1 @@
+[["Turmeric", "Saffron", "Gold", "Igneous_rock"]]

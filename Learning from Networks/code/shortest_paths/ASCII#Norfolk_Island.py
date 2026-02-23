@@ -1,0 +1,1 @@
+[["ASCII", "AT%26T", "United_States", "List_of_countries", "Norfolk_Island"], ["ASCII", "AT%26T", "United_States", "Oceania", "Norfolk_Island"], ["ASCII", "Computer", "Charles_Babbage", "Australia", "Norfolk_Island"], ["ASCII", "Computer", "Computer_and_video_games", "Australia", "Norfolk_Island"], ["ASCII", "Computer", "Electrical_engineering", "Australia", "Norfolk_Island"]]

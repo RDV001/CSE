@@ -1,0 +1,1 @@
+[["Soviet_Union", "Language", "Science"], ["Soviet_Union", "People%27s_Republic_of_China", "Science"], ["Soviet_Union", "Religion", "Science"]]

@@ -1,0 +1,1 @@
+[["Absolute_zero", "Albert_Einstein", "Adolf_Hitler"], ["Absolute_zero", "Max_Planck", "Adolf_Hitler"]]

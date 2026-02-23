@@ -1,0 +1,1 @@
+[["Pearl", "Australia", "Norfolk_Island", "Tree"], ["Pearl", "China", "Beijing", "Tree"], ["Pearl", "China", "Qing_Dynasty", "Tree"], ["Pearl", "China", "Taipei", "Tree"], ["Pearl", "Japan", "Osaka", "Tree"], ["Pearl", "Pacific_Ocean", "Easter_Island", "Tree"], ["Pearl", "Pacific_Ocean", "Los_Angeles%2C_California", "Tree"], ["Pearl", "Philippines", "Mango", "Tree"]]

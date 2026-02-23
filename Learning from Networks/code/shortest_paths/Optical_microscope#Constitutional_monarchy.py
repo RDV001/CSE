@@ -1,0 +1,1 @@
+[["Optical_microscope", "Galileo_Galilei", "Netherlands", "Constitutional_monarchy"]]

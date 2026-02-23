@@ -1,0 +1,1 @@
+[["Tuvalu", "Elizabeth_II_of_the_United_Kingdom", "Royal_Navy", "Card_game", "Pok%C3%A9mon_Trading_Card_Game"], ["Tuvalu", "United_Kingdom", "Royal_Navy", "Card_game", "Pok%C3%A9mon_Trading_Card_Game"], ["Tuvalu", "World_War_II", "Royal_Navy", "Card_game", "Pok%C3%A9mon_Trading_Card_Game"], ["Tuvalu", "World_War_II", "Damascus", "Card_game", "Pok%C3%A9mon_Trading_Card_Game"]]

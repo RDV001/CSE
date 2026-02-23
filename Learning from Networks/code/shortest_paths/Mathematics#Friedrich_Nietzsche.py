@@ -1,0 +1,1 @@
+[["Mathematics", "Philosophy", "Friedrich_Nietzsche"]]

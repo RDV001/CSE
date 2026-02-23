@@ -1,0 +1,1 @@
+[["Barack_Obama", "Jakarta", "Berlin"], ["Barack_Obama", "Jew", "Berlin"], ["Barack_Obama", "United_Nations", "Berlin"]]

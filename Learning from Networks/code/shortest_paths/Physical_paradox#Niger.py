@@ -1,0 +1,1 @@
+[["Physical_paradox", "Mathematics", "French_language", "Niger"], ["Physical_paradox", "Measurement", "French_language", "Niger"], ["Physical_paradox", "Stephen_Hawking", "French_language", "Niger"]]

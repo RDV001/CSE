@@ -1,0 +1,1 @@
+[["Upsilon_Andromedae_b", "Day", "Sanskrit", "Nepal"], ["Upsilon_Andromedae_b", "Gravitation", "India", "Nepal"], ["Upsilon_Andromedae_b", "Iron", "Georgia_%28country%29", "Nepal"]]

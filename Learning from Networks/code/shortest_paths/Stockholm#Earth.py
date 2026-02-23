@@ -1,0 +1,1 @@
+[["Stockholm", "Africa", "Earth"], ["Stockholm", "Season", "Earth"]]

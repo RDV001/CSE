@@ -1,0 +1,1 @@
+[["Caesium_fluoride", "Potassium", "Edible_salt", "Timbuktu", "Ibn_Battuta"], ["Caesium_fluoride", "Sodium", "Edible_salt", "Timbuktu", "Ibn_Battuta"], ["Caesium_fluoride", "Potassium", "Vegetable", "14th_century", "Ibn_Battuta"], ["Caesium_fluoride", "Sodium", "Petroleum", "Sumatra", "Ibn_Battuta"]]

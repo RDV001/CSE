@@ -1,0 +1,1 @@
+[["Propaganda", "Sigmund_Freud", "Eye", "Eyelid"]]

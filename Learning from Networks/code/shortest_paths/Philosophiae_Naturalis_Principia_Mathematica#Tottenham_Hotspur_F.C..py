@@ -1,0 +1,1 @@
+[["Philosophiae_Naturalis_Principia_Mathematica", "Christopher_Wren", "London", "Tottenham_Hotspur_F.C."], ["Philosophiae_Naturalis_Principia_Mathematica", "Gottfried_Leibniz", "London", "Tottenham_Hotspur_F.C."], ["Philosophiae_Naturalis_Principia_Mathematica", "Isaac_Newton", "London", "Tottenham_Hotspur_F.C."]]

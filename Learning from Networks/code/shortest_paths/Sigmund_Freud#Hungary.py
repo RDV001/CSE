@@ -1,0 +1,1 @@
+[["Sigmund_Freud", "German_language", "Hungary"], ["Sigmund_Freud", "Marxism", "Hungary"], ["Sigmund_Freud", "Vienna", "Hungary"]]

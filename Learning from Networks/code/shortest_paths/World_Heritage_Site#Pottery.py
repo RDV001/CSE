@@ -1,0 +1,1 @@
+[["World_Heritage_Site", "Finland", "Pottery"], ["World_Heritage_Site", "Japan", "Pottery"]]

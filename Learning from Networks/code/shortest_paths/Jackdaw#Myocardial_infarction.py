@@ -1,0 +1,1 @@
+[["Jackdaw", "Carolus_Linnaeus", "Stroke", "Myocardial_infarction"]]

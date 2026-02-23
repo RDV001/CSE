@@ -1,0 +1,1 @@
+[["Apollo_11", "John_F._Kennedy", "Benjamin_Franklin", "Walt_Disney"], ["Apollo_11", "Moon_landing", "Wernher_von_Braun", "Walt_Disney"], ["Apollo_11", "Saturn_V", "Wernher_von_Braun", "Walt_Disney"]]

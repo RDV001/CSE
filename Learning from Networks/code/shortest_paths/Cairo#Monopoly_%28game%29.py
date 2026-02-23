@@ -1,0 +1,1 @@
+[["Cairo", "Actor", "The_Simpsons", "Monopoly_%28game%29"], ["Cairo", "Ancient_Egypt", "Board_game", "Monopoly_%28game%29"], ["Cairo", "Tourism", "Brighton", "Monopoly_%28game%29"]]

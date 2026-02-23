@@ -1,0 +1,1 @@
+[["High_German_consonant_shift", "D%C3%BCsseldorf", "United_Kingdom", "Formula_One", "Monaco_Grand_Prix"], ["High_German_consonant_shift", "Dutch_language", "United_Kingdom", "Formula_One", "Monaco_Grand_Prix"], ["High_German_consonant_shift", "D%C3%BCsseldorf", "Vodafone", "Formula_One", "Monaco_Grand_Prix"]]

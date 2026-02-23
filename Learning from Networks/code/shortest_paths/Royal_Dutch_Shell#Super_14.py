@@ -1,0 +1,1 @@
+[["Royal_Dutch_Shell", "London", "HSBC", "Super_14"], ["Royal_Dutch_Shell", "United_Kingdom", "HSBC", "Super_14"], ["Royal_Dutch_Shell", "South_Africa", "Cape_Town", "Super_14"], ["Royal_Dutch_Shell", "South_Africa", "Johannesburg", "Super_14"], ["Royal_Dutch_Shell", "South_Africa", "Pretoria", "Super_14"]]

@@ -1,0 +1,1 @@
+[["Able_Archer_83", "Elizabeth_II_of_the_United_Kingdom", "Mary_I_of_Scotland", "Monty_Python", "Yes_Minister"], ["Able_Archer_83", "United_Kingdom", "J._K._Rowling", "Monty_Python", "Yes_Minister"], ["Able_Archer_83", "United_States", "Minneapolis%2C_Minnesota", "Monty_Python", "Yes_Minister"]]

@@ -1,0 +1,1 @@
+[["Cotopaxi", "Amazon_Rainforest", "Africa", "Eritrea", "Aksumite_currency"], ["Cotopaxi", "Pacific_Ocean", "Africa", "Eritrea", "Aksumite_currency"], ["Cotopaxi", "Ecuador", "List_of_countries_by_system_of_government", "Eritrea", "Aksumite_currency"], ["Cotopaxi", "Volcano", "Democratic_Republic_of_the_Congo", "Eritrea", "Aksumite_currency"]]

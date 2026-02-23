@@ -1,0 +1,1 @@
+[["Warsaw", "Country", "Wales", "Welsh_law"], ["Warsaw", "Europe", "Wales", "Welsh_law"], ["Warsaw", "United_Kingdom", "Wales", "Welsh_law"], ["Warsaw", "United_Kingdom", "Laws_in_Wales_Acts_1535%E2%80%931542", "Welsh_law"]]

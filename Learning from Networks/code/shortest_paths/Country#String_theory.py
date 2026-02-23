@@ -1,0 +1,1 @@
+[["Country", "Antarctica", "Argentina", "String_theory"], ["Country", "United_Kingdom", "Argentina", "String_theory"], ["Country", "United_States", "Argentina", "String_theory"], ["Country", "Earth", "Universe", "String_theory"], ["Country", "Language", "Mathematics", "String_theory"], ["Country", "Scotland", "Mathematics", "String_theory"]]

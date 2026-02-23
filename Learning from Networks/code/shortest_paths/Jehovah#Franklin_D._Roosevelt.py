@@ -1,0 +1,1 @@
+[["Jehovah", "Switzerland", "The_Holocaust", "Franklin_D._Roosevelt"], ["Jehovah", "Switzerland", "United_Nations", "Franklin_D._Roosevelt"], ["Jehovah", "Switzerland", "World_War_II", "Franklin_D._Roosevelt"]]

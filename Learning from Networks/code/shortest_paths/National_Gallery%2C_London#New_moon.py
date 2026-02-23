@@ -1,0 +1,1 @@
+[["National_Gallery%2C_London", "London", "Tide", "New_moon"]]

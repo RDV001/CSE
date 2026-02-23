@@ -1,0 +1,1 @@
+[["John_F._Kennedy_assassination", "John_F._Kennedy", "Education", "Writing"], ["John_F._Kennedy_assassination", "United_States", "Education", "Writing"], ["John_F._Kennedy_assassination", "Ronald_Reagan", "Iraq", "Writing"], ["John_F._Kennedy_assassination", "United_States", "Iraq", "Writing"]]

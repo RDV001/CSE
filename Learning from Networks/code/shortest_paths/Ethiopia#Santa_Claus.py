@@ -1,0 +1,1 @@
+[["Ethiopia", "Armenia", "Coal", "Santa_Claus"], ["Ethiopia", "Israel", "Coal", "Santa_Claus"], ["Ethiopia", "Niger", "Coal", "Santa_Claus"], ["Ethiopia", "Nigeria", "Coal", "Santa_Claus"], ["Ethiopia", "United_States", "Coal", "Santa_Claus"], ["Ethiopia", "Roman_Catholic_Church", "Pope_Benedict_XVI", "Santa_Claus"]]

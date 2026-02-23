@@ -1,0 +1,1 @@
+[["Trichinosis", "United_States", "Coal", "Cadmium"], ["Trichinosis", "United_States", "Mining", "Cadmium"]]

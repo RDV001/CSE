@@ -1,0 +1,1 @@
+[["Mahjong", "Computer", "Microsoft_Windows"]]

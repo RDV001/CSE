@@ -1,0 +1,1 @@
+[["Tel_Aviv", "Budapest", "Capital"], ["Tel_Aviv", "Buenos_Aires", "Capital"], ["Tel_Aviv", "City", "Capital"], ["Tel_Aviv", "Israel", "Capital"], ["Tel_Aviv", "Jerusalem", "Capital"], ["Tel_Aviv", "Moscow", "Capital"], ["Tel_Aviv", "S%C3%A3o_Paulo", "Capital"], ["Tel_Aviv", "Vienna", "Capital"], ["Tel_Aviv", "Warsaw", "Capital"]]

@@ -1,0 +1,1 @@
+[["Paraguay", "Argentina", "Nuclear_power", "Plutonium"], ["Paraguay", "Argentina", "Nuclear_weapon", "Plutonium"], ["Paraguay", "Argentina", "Uranium", "Plutonium"], ["Paraguay", "Atlantic_Ocean", "Irish_Sea", "Plutonium"], ["Paraguay", "Japan", "Metal", "Plutonium"]]

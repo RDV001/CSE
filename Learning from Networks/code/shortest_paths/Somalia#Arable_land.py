@@ -1,0 +1,1 @@
+[["Somalia", "Chad", "Arable_land"], ["Somalia", "Thailand", "Arable_land"]]

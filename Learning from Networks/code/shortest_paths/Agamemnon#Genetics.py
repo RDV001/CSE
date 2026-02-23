@@ -1,0 +1,1 @@
+[["Agamemnon", "Bible", "Israel", "Genetics"], ["Agamemnon", "Bible", "Roman_Catholic_Church", "Genetics"], ["Agamemnon", "Italy", "Roman_Catholic_Church", "Genetics"], ["Agamemnon", "Italy", "Morocco", "Genetics"], ["Agamemnon", "Netherlands", "Morocco", "Genetics"], ["Agamemnon", "Netherlands", "Iceland", "Genetics"], ["Agamemnon", "Scotland", "Iceland", "Genetics"]]

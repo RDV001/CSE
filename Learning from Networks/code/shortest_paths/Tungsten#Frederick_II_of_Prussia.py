@@ -1,0 +1,1 @@
+[["Tungsten", "Molybdenum", "18th_century", "Frederick_II_of_Prussia"], ["Tungsten", "Spain", "18th_century", "Frederick_II_of_Prussia"], ["Tungsten", "Steel", "18th_century", "Frederick_II_of_Prussia"], ["Tungsten", "Vietnam", "18th_century", "Frederick_II_of_Prussia"], ["Tungsten", "Russia", "La_Grande_Arm%C3%A9e", "Frederick_II_of_Prussia"]]

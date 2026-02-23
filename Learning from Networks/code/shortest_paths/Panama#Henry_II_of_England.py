@@ -1,0 +1,1 @@
+[["Panama", "Atlantic_Ocean", "Ireland", "Henry_II_of_England"], ["Panama", "Continent", "Ireland", "Henry_II_of_England"], ["Panama", "English_language", "Ireland", "Henry_II_of_England"], ["Panama", "Time_zone", "Ireland", "Henry_II_of_England"]]

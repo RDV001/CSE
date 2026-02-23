@@ -1,0 +1,1 @@
+[["Crust_%28geology%29", "Plate_tectonics", "Benjamin_Franklin", "Walt_Disney"]]

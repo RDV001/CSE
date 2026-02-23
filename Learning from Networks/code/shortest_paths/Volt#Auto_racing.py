@@ -1,0 +1,1 @@
+[["Volt", "Automobile", "Brazil", "Auto_racing"], ["Volt", "Automobile", "Japan", "Auto_racing"], ["Volt", "Automobile", "Karl_Benz", "Auto_racing"], ["Volt", "Automobile", "United_States", "Auto_racing"], ["Volt", "Silver", "United_States", "Auto_racing"], ["Volt", "Silver", "Australia", "Auto_racing"], ["Volt", "Zinc", "Australia", "Auto_racing"]]

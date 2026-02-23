@@ -1,0 +1,1 @@
+[["Pyongyang", "Automobile", "Biodiesel", "Fresh_water"], ["Pyongyang", "Beijing", "Aquarium", "Fresh_water"], ["Pyongyang", "Beijing", "Singapore", "Fresh_water"], ["Pyongyang", "City", "Singapore", "Fresh_water"], ["Pyongyang", "Nepal", "Singapore", "Fresh_water"], ["Pyongyang", "City", "River", "Fresh_water"], ["Pyongyang", "Paris", "Cholera", "Fresh_water"]]

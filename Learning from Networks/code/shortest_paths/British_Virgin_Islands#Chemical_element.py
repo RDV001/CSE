@@ -1,0 +1,1 @@
+[["British_Virgin_Islands", "Copper", "Chemical_element"]]

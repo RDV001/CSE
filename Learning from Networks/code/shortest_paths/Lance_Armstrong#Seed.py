@@ -1,0 +1,1 @@
+[["Lance_Armstrong", "United_States", "Potato", "Seed"], ["Lance_Armstrong", "United_States", "Rice", "Seed"], ["Lance_Armstrong", "United_States", "Sequoia", "Seed"], ["Lance_Armstrong", "United_States", "Wheat", "Seed"]]

@@ -1,0 +1,1 @@
+[["Global_warming", "Ocean", "Greek_mythology", "Swan"], ["Global_warming", "Solar_System", "Greek_mythology", "Swan"], ["Global_warming", "United_States", "Bald_Eagle", "Swan"]]

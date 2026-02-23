@@ -1,0 +1,1 @@
+[["55_Cancri", "Binary_star", "Arabic_language", "Bahrain"], ["55_Cancri", "Earth", "Arabic_language", "Bahrain"], ["55_Cancri", "Earth", "Asia", "Bahrain"], ["55_Cancri", "Earth", "Middle_East", "Bahrain"], ["55_Cancri", "Helium", "Qatar", "Bahrain"], ["55_Cancri", "Iron", "Georgia_%28country%29", "Bahrain"], ["55_Cancri", "Iron", "Sumer", "Bahrain"]]

@@ -1,0 +1,1 @@
+[["Elizabeth_II_of_the_United_Kingdom", "Christianity", "Martin_Luther"], ["Elizabeth_II_of_the_United_Kingdom", "Germany", "Martin_Luther"], ["Elizabeth_II_of_the_United_Kingdom", "Jesus", "Martin_Luther"]]

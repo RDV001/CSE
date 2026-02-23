@@ -1,0 +1,1 @@
+[["Mona_Lisa", "Sigmund_Freud", "Eye", "Rabbit"]]

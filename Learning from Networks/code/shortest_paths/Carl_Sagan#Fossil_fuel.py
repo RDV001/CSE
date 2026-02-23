@@ -1,0 +1,1 @@
+[["Carl_Sagan", "Fermi_paradox", "Fossil_fuel"], ["Carl_Sagan", "Global_warming", "Fossil_fuel"]]

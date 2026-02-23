@@ -1,0 +1,1 @@
+[["TGV", "Frankfurt", "Advertising", "IPod"], ["TGV", "United_States", "Advertising", "IPod"], ["TGV", "French_language", "Mass_media", "IPod"], ["TGV", "Government_of_France", "Mass_media", "IPod"], ["TGV", "London", "Mass_media", "IPod"]]

@@ -1,0 +1,1 @@
+[["Johannes_Kepler", "Mercury_%28planet%29", "New_Zealand", "Parrot"], ["Johannes_Kepler", "Turkey", "Myanmar", "Parrot"]]

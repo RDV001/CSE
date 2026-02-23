@@ -1,0 +1,1 @@
+[["Superman", "Europe", "Barcelona", "Hannibal_Barca"], ["Superman", "Europe", "Lisbon", "Hannibal_Barca"], ["Superman", "Human", "Elephant", "Hannibal_Barca"]]

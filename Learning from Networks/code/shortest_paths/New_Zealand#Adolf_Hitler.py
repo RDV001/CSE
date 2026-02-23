@@ -1,0 +1,1 @@
+[["New_Zealand", "Bosnia_and_Herzegovina", "Adolf_Hitler"], ["New_Zealand", "Germany", "Adolf_Hitler"], ["New_Zealand", "Parrot", "Adolf_Hitler"], ["New_Zealand", "World_War_II", "Adolf_Hitler"]]

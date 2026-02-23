@@ -1,0 +1,1 @@
+[["Windows_Vista", "European_Union", "Democracy", "Magna_Carta"], ["Windows_Vista", "European_Union", "Law", "Magna_Carta"], ["Windows_Vista", "European_Union", "Liberalism", "Magna_Carta"]]

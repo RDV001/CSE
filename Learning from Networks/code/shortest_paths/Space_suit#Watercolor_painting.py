@@ -1,0 +1,1 @@
+[["Space_suit", "Comics", "Watercolor_painting"]]

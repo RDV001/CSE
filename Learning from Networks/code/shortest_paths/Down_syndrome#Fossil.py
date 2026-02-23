@@ -1,0 +1,1 @@
+[["Down_syndrome", "EastEnders", "Africa", "Fossil"], ["Down_syndrome", "U.S._state", "Louisville%2C_Kentucky", "Fossil"]]

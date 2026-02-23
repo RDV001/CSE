@@ -1,0 +1,1 @@
+[["Ice_age", "Canada", "Christianity", "Cultural_identity"], ["Ice_age", "Greenland", "Christianity", "Cultural_identity"], ["Ice_age", "Canada", "Multiculturalism", "Cultural_identity"], ["Ice_age", "Plate_tectonics", "Ireland", "Cultural_identity"]]

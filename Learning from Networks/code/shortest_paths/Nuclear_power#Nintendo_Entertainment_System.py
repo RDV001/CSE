@@ -1,0 +1,1 @@
+[["Nuclear_power", "Japan", "Mario", "Nintendo_Entertainment_System"], ["Nuclear_power", "Japan", "Nintendo", "Nintendo_Entertainment_System"], ["Nuclear_power", "Jimmy_Carter", "Ronald_Reagan", "Nintendo_Entertainment_System"], ["Nuclear_power", "Soviet_Union", "Ronald_Reagan", "Nintendo_Entertainment_System"]]

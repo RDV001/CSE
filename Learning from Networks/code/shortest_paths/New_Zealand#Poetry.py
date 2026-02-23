@@ -1,0 +1,1 @@
+[["New_Zealand", "Iran", "Poetry"], ["New_Zealand", "Olympic_Games", "Poetry"]]

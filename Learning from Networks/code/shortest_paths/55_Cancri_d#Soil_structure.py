@@ -1,0 +1,1 @@
+[["55_Cancri_d", "Ammonia", "Fertilizer", "Soil_structure"], ["55_Cancri_d", "Ammonia", "Soil", "Soil_structure"]]

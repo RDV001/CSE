@@ -1,0 +1,1 @@
+[["Taipei", "Dallas%2C_Texas", "Jazz", "Christina_Aguilera"], ["Taipei", "Warsaw", "Jazz", "Christina_Aguilera"]]

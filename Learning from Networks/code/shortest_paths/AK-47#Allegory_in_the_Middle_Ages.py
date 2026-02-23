@@ -1,0 +1,1 @@
+[["AK-47", "Nicaragua", "Poetry", "Allegory_in_the_Middle_Ages"]]

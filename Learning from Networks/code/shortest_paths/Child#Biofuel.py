@@ -1,0 +1,1 @@
+[["Child", "Law", "Sweden", "Biofuel"], ["Child", "Literacy", "Sweden", "Biofuel"], ["Child", "Tiger_Woods", "Sweden", "Biofuel"]]

@@ -1,0 +1,1 @@
+[["War_of_the_Spanish_Succession", "Italy", "Adolf_Hitler"]]

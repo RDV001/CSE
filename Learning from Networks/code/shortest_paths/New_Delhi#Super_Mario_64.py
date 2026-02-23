@@ -1,0 +1,1 @@
+[["New_Delhi", "Afghanistan", "Timur", "Nintendo", "Super_Mario_64"], ["New_Delhi", "Taj_Mahal", "Rupee", "Nintendo", "Super_Mario_64"], ["New_Delhi", "Time_zone", "Japan", "Nintendo", "Super_Mario_64"], ["New_Delhi", "Time_zone", "Japan", "Mario", "Super_Mario_64"]]

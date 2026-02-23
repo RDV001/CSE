@@ -1,0 +1,1 @@
+[["Brush", "Painting", "Literature", "E._E._Cummings", "Krazy_Kat"], ["Brush", "Painting", "Salvador_Dal%C3%AD", "Walt_Disney", "Krazy_Kat"]]

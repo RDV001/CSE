@@ -1,0 +1,1 @@
+[["Taoism", "Middle_Ages", "Industrial_Revolution"], ["Taoism", "Philosophy", "Industrial_Revolution"], ["Taoism", "Tourism", "Industrial_Revolution"]]

@@ -1,0 +1,1 @@
+[["Bobcat", "Mexico", "Electricity", "Gauss%27s_law"], ["Bobcat", "Minnesota", "Electricity", "Gauss%27s_law"]]

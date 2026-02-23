@@ -1,0 +1,1 @@
+[["George_III_of_the_United_Kingdom", "British_monarchy", "Wars_of_the_Roses"], ["George_III_of_the_United_Kingdom", "Edward_III_of_England", "Wars_of_the_Roses"], ["George_III_of_the_United_Kingdom", "England", "Wars_of_the_Roses"], ["George_III_of_the_United_Kingdom", "Windsor_Castle", "Wars_of_the_Roses"]]

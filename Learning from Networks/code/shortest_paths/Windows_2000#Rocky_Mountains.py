@@ -1,0 +1,1 @@
+[["Windows_2000", "North_America", "Rocky_Mountains"]]

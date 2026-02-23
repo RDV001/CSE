@@ -1,0 +1,1 @@
+[["Parrot", "Animal", "Bacteria", "Insulin"], ["Parrot", "Evolution", "Bacteria", "Insulin"], ["Parrot", "Kakapo", "Bacteria", "Insulin"], ["Parrot", "Scientific_classification", "Bacteria", "Insulin"], ["Parrot", "Evolution", "Cancer", "Insulin"], ["Parrot", "Evolution", "Crystal", "Insulin"], ["Parrot", "Evolution", "Protein", "Insulin"]]

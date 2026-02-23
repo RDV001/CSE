@@ -1,0 +1,1 @@
+[["HD_209458_b", "Carbon", "Mexico", "Literacy"], ["HD_209458_b", "Sun", "Mexico", "Literacy"], ["HD_209458_b", "Mercury_%28planet%29", "Argentina", "Literacy"]]

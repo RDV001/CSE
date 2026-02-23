@@ -1,0 +1,1 @@
+[["Avon_Gorge", "Forest", "Earth"], ["Avon_Gorge", "Glacier", "Earth"], ["Avon_Gorge", "Ice_age", "Earth"], ["Avon_Gorge", "Iron", "Earth"]]

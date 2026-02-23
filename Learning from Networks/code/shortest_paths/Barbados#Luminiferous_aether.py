@@ -1,0 +1,1 @@
+[["Barbados", "Sun", "Albert_Einstein", "Luminiferous_aether"], ["Barbados", "Sun", "Heliocentrism", "Luminiferous_aether"], ["Barbados", "Sun", "Isaac_Newton", "Luminiferous_aether"], ["Barbados", "Sun", "Speed_of_light", "Luminiferous_aether"], ["Barbados", "United_Kingdom", "James_Clerk_Maxwell", "Luminiferous_aether"]]

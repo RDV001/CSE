@@ -1,0 +1,1 @@
+[["Plasma_%28physics%29", "Electric_charge", "18th_century", "Emanuel_Swedenborg", "Stuttering"], ["Plasma_%28physics%29", "Physics", "18th_century", "Emanuel_Swedenborg", "Stuttering"]]

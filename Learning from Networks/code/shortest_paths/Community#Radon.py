@@ -1,0 +1,1 @@
+[["Community", "Plant", "Lung_cancer", "Radon"], ["Community", "United_States", "Moon", "Radon"], ["Community", "University_of_Chicago", "Plutonium", "Radon"]]

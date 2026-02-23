@@ -1,0 +1,1 @@
+[["Cubism", "Art", "13th_century", "Marco_Polo"], ["Cubism", "Art", "Ottoman_Empire", "Marco_Polo"], ["Cubism", "Europe", "Ottoman_Empire", "Marco_Polo"], ["Cubism", "World_War_I", "Ottoman_Empire", "Marco_Polo"], ["Cubism", "Painting", "Geography", "Marco_Polo"]]

@@ -1,0 +1,1 @@
+[["Trigonometric_function", "British_English", "British_Isles", "Mary_II_of_England"], ["Trigonometric_function", "Pythagorean_theorem", "British_Isles", "Mary_II_of_England"], ["Trigonometric_function", "Mathematical_analysis", "17th_century", "Mary_II_of_England"]]

@@ -1,0 +1,1 @@
+[["Newspaper", "Weather", "Wind"]]

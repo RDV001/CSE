@@ -1,0 +1,1 @@
+[["Almaty", "Istanbul", "People%27s_Republic_of_China"], ["Almaty", "Kazakhstan", "People%27s_Republic_of_China"], ["Almaty", "Soviet_Union", "People%27s_Republic_of_China"], ["Almaty", "Turkey", "People%27s_Republic_of_China"]]

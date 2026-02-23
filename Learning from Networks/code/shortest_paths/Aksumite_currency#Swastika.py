@@ -1,0 +1,1 @@
+[["Aksumite_currency", "India", "Hinduism", "Swastika"], ["Aksumite_currency", "India", "Indus_Valley_Civilization", "Swastika"], ["Aksumite_currency", "Israel", "Nazism", "Swastika"]]

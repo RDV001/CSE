@@ -1,0 +1,1 @@
+[["War_of_the_Spanish_Succession", "Austria", "Granite", "Feldspar"], ["War_of_the_Spanish_Succession", "North_America", "Oregon", "Feldspar"]]

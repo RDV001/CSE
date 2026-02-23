@@ -1,0 +1,1 @@
+[["Omega-3_fatty_acid", "Cotton", "Mesopotamia", "Babylonia"], ["Omega-3_fatty_acid", "Food", "Judaism", "Babylonia"], ["Omega-3_fatty_acid", "Olive_oil", "Judaism", "Babylonia"], ["Omega-3_fatty_acid", "United_States", "Judaism", "Babylonia"], ["Omega-3_fatty_acid", "Olive_oil", "Syria", "Babylonia"]]

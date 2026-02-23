@@ -1,0 +1,1 @@
+[["Gas_metal_arc_welding", "Carbon_dioxide", "Volcano", "Sakurajima"], ["Gas_metal_arc_welding", "Helium", "Volcano", "Sakurajima"], ["Gas_metal_arc_welding", "Japan", "Volcano", "Sakurajima"]]

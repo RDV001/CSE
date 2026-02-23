@@ -1,0 +1,1 @@
+[["Painting", "Nationalism", "Adolf_Hitler"], ["Painting", "Spain", "Adolf_Hitler"], ["Painting", "War", "Adolf_Hitler"]]

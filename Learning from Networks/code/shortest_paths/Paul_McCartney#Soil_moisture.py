@@ -1,0 +1,1 @@
+[["Paul_McCartney", "Alcohol", "Sulfur", "Hydrology", "Soil_moisture"], ["Paul_McCartney", "Germany", "River", "Hydrology", "Soil_moisture"], ["Paul_McCartney", "Painting", "Geography", "Hydrology", "Soil_moisture"]]

@@ -1,0 +1,1 @@
+[["2004_Indian_Ocean_earthquake", "Forest", "Tree", "Argan"], ["2004_Indian_Ocean_earthquake", "Natural_disaster", "Tree", "Argan"], ["2004_Indian_Ocean_earthquake", "Sweden", "Tree", "Argan"]]

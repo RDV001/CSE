@@ -1,0 +1,1 @@
+[["Chicago_Bears", "United_States", "List_of_rivers_by_length", "Columbia_River"], ["Chicago_Bears", "United_States", "Manifest_Destiny", "Columbia_River"], ["Chicago_Bears", "United_States", "Oregon", "Columbia_River"], ["Chicago_Bears", "United_States", "Rocky_Mountains", "Columbia_River"], ["Chicago_Bears", "University_of_Chicago", "Plutonium", "Columbia_River"]]

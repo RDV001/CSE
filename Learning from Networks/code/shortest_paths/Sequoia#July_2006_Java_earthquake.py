@@ -1,0 +1,1 @@
+[["Sequoia", "Flood", "Tsunami", "July_2006_Java_earthquake"], ["Sequoia", "Pacific_Ocean", "Tsunami", "July_2006_Java_earthquake"]]

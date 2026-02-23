@@ -1,0 +1,1 @@
+[["Cholera", "London", "Buckingham_Palace", "Batman"], ["Cholera", "President_of_the_United_States", "Ronald_Reagan", "Batman"]]

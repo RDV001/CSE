@@ -1,0 +1,1 @@
+[["City", "Africa", "Language"], ["City", "Ancient_Rome", "Language"], ["City", "Ancient_history", "Language"], ["City", "English_language", "Language"], ["City", "History", "Language"], ["City", "Istanbul", "Language"], ["City", "Mesopotamia", "Language"]]

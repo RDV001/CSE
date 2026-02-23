@@ -1,0 +1,1 @@
+[["Lake_District", "19th_century", "Atlantic_Ocean"], ["Lake_District", "British_Isles", "Atlantic_Ocean"], ["Lake_District", "England", "Atlantic_Ocean"], ["Lake_District", "Irish_Sea", "Atlantic_Ocean"], ["Lake_District", "Pond", "Atlantic_Ocean"], ["Lake_District", "United_Kingdom", "Atlantic_Ocean"]]

@@ -1,0 +1,1 @@
+[["Zuid-Gelders", "Dutch_language", "English_language", "Kenya", "Lake_Turkana"], ["Zuid-Gelders", "Dutch_language", "France", "Kenya", "Lake_Turkana"], ["Zuid-Gelders", "East_Flemish", "France", "Kenya", "Lake_Turkana"], ["Zuid-Gelders", "West_Flemish", "France", "Kenya", "Lake_Turkana"], ["Zuid-Gelders", "Dutch_language", "Namibia", "Kenya", "Lake_Turkana"]]

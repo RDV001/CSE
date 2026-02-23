@@ -1,0 +1,1 @@
+[["Sahara", "Africa", "Christianity"], ["Sahara", "Ancient_Greece", "Christianity"], ["Sahara", "Ancient_Rome", "Christianity"], ["Sahara", "Cairo", "Christianity"], ["Sahara", "Chad", "Christianity"], ["Sahara", "Egypt", "Christianity"], ["Sahara", "Jew", "Christianity"], ["Sahara", "Libya", "Christianity"]]

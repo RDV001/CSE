@@ -1,0 +1,1 @@
+[["Paul_Kane", "Canada", "Currency"], ["Paul_Kane", "England", "Currency"], ["Paul_Kane", "France", "Currency"], ["Paul_Kane", "Italy", "Currency"], ["Paul_Kane", "Pound_sterling", "Currency"], ["Paul_Kane", "Republic_of_Ireland", "Currency"], ["Paul_Kane", "United_States", "Currency"]]

@@ -1,0 +1,1 @@
+[["Tim_Berners-Lee", "Elizabeth_II_of_the_United_Kingdom", "Canada", "Niagara_Falls"], ["Tim_Berners-Lee", "Elizabeth_II_of_the_United_Kingdom", "Saint_Lawrence_Seaway", "Niagara_Falls"], ["Tim_Berners-Lee", "Finland", "Ice_age", "Niagara_Falls"]]

@@ -1,0 +1,1 @@
+[["Kurt_Cobain", "Attention-deficit_hyperactivity_disorder", "Albert_Einstein", "Linus_Pauling"], ["Kurt_Cobain", "Elvis_Presley", "Albert_Einstein", "Linus_Pauling"], ["Kurt_Cobain", "Germany", "Albert_Einstein", "Linus_Pauling"], ["Kurt_Cobain", "Munich", "Albert_Einstein", "Linus_Pauling"], ["Kurt_Cobain", "Philosophy", "Albert_Einstein", "Linus_Pauling"]]

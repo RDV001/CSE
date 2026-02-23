@@ -1,0 +1,1 @@
+[["Harry_S._Truman", "Europe", "Carnivore", "Frog", "African_dwarf_frog"], ["Harry_S._Truman", "Japan", "Fishing", "Frog", "African_dwarf_frog"], ["Harry_S._Truman", "Minneapolis%2C_Minnesota", "Winter", "Frog", "African_dwarf_frog"]]

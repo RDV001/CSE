@@ -1,0 +1,1 @@
+[["Black_panther", "Ethiopia", "Middle_East", "Azerbaijani_people"], ["Black_panther", "Spain", "Middle_East", "Azerbaijani_people"], ["Black_panther", "Madrid", "Moscow", "Azerbaijani_people"], ["Black_panther", "Scotland", "Moscow", "Azerbaijani_people"]]

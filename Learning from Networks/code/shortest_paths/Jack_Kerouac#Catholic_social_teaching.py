@@ -1,0 +1,1 @@
+[["Jack_Kerouac", "Bob_Dylan", "Pope_John_Paul_II", "Catholic_social_teaching"], ["Jack_Kerouac", "Chicago", "Roman_Catholic_Church", "Catholic_social_teaching"], ["Jack_Kerouac", "Florida", "Roman_Catholic_Church", "Catholic_social_teaching"]]

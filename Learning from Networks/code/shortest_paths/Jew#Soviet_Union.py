@@ -1,0 +1,1 @@
+[["Jew", "Soviet_Union"]]

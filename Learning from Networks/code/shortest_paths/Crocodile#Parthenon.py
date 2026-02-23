@@ -1,0 +1,1 @@
+[["Crocodile", "Africa", "Ancient_Greece", "Parthenon"], ["Crocodile", "Lion", "Ancient_Greece", "Parthenon"], ["Crocodile", "Africa", "Civilization", "Parthenon"], ["Crocodile", "River", "Civilization", "Parthenon"], ["Crocodile", "Asia", "Greece", "Parthenon"], ["Crocodile", "River", "Greek_mythology", "Parthenon"]]

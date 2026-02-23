@@ -1,0 +1,1 @@
+[["Tourette_syndrome", "Sigmund_Freud", "Age_of_Enlightenment", "Philosophiae_Naturalis_Principia_Mathematica"], ["Tourette_syndrome", "Sigmund_Freud", "Isaac_Newton", "Philosophiae_Naturalis_Principia_Mathematica"], ["Tourette_syndrome", "Sigmund_Freud", "Religion", "Philosophiae_Naturalis_Principia_Mathematica"]]

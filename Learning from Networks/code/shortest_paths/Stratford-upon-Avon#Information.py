@@ -1,0 +1,1 @@
+[["Stratford-upon-Avon", "Birmingham", "Library", "Information"], ["Stratford-upon-Avon", "Birmingham", "Market", "Information"], ["Stratford-upon-Avon", "London", "Education", "Information"], ["Stratford-upon-Avon", "London", "Mass_media", "Information"], ["Stratford-upon-Avon", "William_Shakespeare", "Language", "Information"]]

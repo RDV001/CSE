@@ -1,0 +1,1 @@
+[["Church_of_Ireland", "Africa", "Cheetah", "Miocene"], ["Church_of_Ireland", "Africa", "Mediterranean_Sea", "Miocene"], ["Church_of_Ireland", "Henry_II_of_England", "Mediterranean_Sea", "Miocene"], ["Church_of_Ireland", "Africa", "Nile", "Miocene"]]

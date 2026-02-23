@@ -1,0 +1,1 @@
+[["Tank", "Blitzkrieg", "German_language"], ["Tank", "Bridge", "German_language"], ["Tank", "France", "German_language"], ["Tank", "Israel", "German_language"], ["Tank", "United_States", "German_language"]]

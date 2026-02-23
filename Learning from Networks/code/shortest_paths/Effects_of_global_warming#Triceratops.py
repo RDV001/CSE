@@ -1,0 +1,1 @@
+[["Effects_of_global_warming", "Arctic", "Cretaceous", "Triceratops"], ["Effects_of_global_warming", "Himalayas", "Cretaceous", "Triceratops"], ["Effects_of_global_warming", "Gulf_of_Mexico", "Dinosaur", "Triceratops"]]

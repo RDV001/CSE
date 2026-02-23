@@ -1,0 +1,1 @@
+[["Gypsum", "Germany", "Adolf_Hitler"], ["Gypsum", "Italy", "Adolf_Hitler"], ["Gypsum", "Paris", "Adolf_Hitler"]]

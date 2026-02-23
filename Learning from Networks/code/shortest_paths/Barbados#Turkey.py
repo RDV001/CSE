@@ -1,0 +1,1 @@
+[["Barbados", "Europe", "Turkey"], ["Barbados", "Islam", "Turkey"], ["Barbados", "Jew", "Turkey"], ["Barbados", "Lebanon", "Turkey"], ["Barbados", "List_of_countries_by_system_of_government", "Turkey"], ["Barbados", "Slavery", "Turkey"], ["Barbados", "Syria", "Turkey"], ["Barbados", "Tourism", "Turkey"]]

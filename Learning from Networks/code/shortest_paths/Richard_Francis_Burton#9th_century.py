@@ -1,0 +1,1 @@
+[["Richard_Francis_Burton", "Islam", "9th_century"], ["Richard_Francis_Burton", "Latin", "9th_century"]]

@@ -1,0 +1,1 @@
+[["Alcohol", "United_States", "Los_Angeles%2C_California", "Washington_Metro"], ["Alcohol", "United_States", "Washington%2C_D.C.", "Washington_Metro"]]

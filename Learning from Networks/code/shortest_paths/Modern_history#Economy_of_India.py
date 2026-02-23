@@ -1,0 +1,1 @@
+[["Modern_history", "India", "Bangalore", "Economy_of_India"], ["Modern_history", "India", "Kargil_War", "Economy_of_India"], ["Modern_history", "India", "Kolkata", "Economy_of_India"], ["Modern_history", "India", "Mumbai", "Economy_of_India"], ["Modern_history", "Terrorism", "Mumbai", "Economy_of_India"]]

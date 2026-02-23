@@ -1,0 +1,1 @@
+[["Michael_Jordan", "Olympic_Games", "Dove", "Flamingo"]]

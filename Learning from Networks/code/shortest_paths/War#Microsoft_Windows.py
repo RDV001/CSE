@@ -1,0 +1,1 @@
+[["War", "Weapon", "Computer", "Microsoft_Windows"]]

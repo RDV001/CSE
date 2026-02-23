@@ -1,0 +1,1 @@
+[["Cuba", "Bolivia", "Gold", "Bromine"], ["Cuba", "Currency", "Gold", "Bromine"], ["Cuba", "Mining", "Gold", "Bromine"], ["Cuba", "United_States_dollar", "Gold", "Bromine"], ["Cuba", "Israel", "Dead_Sea", "Bromine"]]

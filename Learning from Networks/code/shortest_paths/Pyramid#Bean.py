@@ -1,0 +1,1 @@
+[["Pyramid", "California", "Fruit", "Bean"], ["Pyramid", "California", "Vegetable", "Bean"], ["Pyramid", "United_States", "Maize", "Bean"], ["Pyramid", "United_States", "Turks_and_Caicos_Islands", "Bean"]]

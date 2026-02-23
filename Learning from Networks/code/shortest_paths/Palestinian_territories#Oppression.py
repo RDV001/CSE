@@ -1,0 +1,1 @@
+[["Palestinian_territories", "Egypt", "Civilization", "Oppression"], ["Palestinian_territories", "Jordan", "Civilization", "Oppression"], ["Palestinian_territories", "Middle_East", "Civilization", "Oppression"], ["Palestinian_territories", "Gaza_Strip", "Poverty", "Oppression"], ["Palestinian_territories", "United_Nations", "Poverty", "Oppression"]]

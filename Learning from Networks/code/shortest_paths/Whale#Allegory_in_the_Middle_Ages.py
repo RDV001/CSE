@@ -1,0 +1,1 @@
+[["Whale", "Human", "Poetry", "Allegory_in_the_Middle_Ages"], ["Whale", "Novel", "Poetry", "Allegory_in_the_Middle_Ages"], ["Whale", "Qur%27an", "Poetry", "Allegory_in_the_Middle_Ages"]]

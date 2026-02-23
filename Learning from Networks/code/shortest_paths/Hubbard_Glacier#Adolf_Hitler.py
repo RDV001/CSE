@@ -1,0 +1,1 @@
+[["Hubbard_Glacier", "Canada", "League_of_Nations", "Adolf_Hitler"], ["Hubbard_Glacier", "Canada", "Yugoslavia", "Adolf_Hitler"], ["Hubbard_Glacier", "U.S._state", "Spain", "Adolf_Hitler"]]

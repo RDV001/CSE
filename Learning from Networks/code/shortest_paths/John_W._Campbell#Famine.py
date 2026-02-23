@@ -1,0 +1,1 @@
+[["John_W._Campbell", "Isaac_Asimov", "Russia", "Famine"], ["John_W._Campbell", "Isaac_Asimov", "Thomas_Malthus", "Famine"], ["John_W._Campbell", "Nobel_Peace_Prize", "Joseph_Stalin", "Famine"], ["John_W._Campbell", "Nobel_Peace_Prize", "Norman_Borlaug", "Famine"]]

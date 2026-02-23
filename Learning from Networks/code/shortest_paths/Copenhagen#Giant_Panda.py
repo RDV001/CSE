@@ -1,0 +1,1 @@
+[["Copenhagen", "Winter", "Bear", "Giant_Panda"]]

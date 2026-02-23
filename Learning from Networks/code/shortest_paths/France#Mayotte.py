@@ -1,0 +1,1 @@
+[["France", "Euro", "Mayotte"], ["France", "French_language", "Mayotte"], ["France", "Kenya", "Mayotte"], ["France", "List_of_countries_by_system_of_government", "Mayotte"], ["France", "Sub-Saharan_Africa", "Mayotte"], ["France", "Yemen", "Mayotte"]]

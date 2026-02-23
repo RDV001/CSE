@@ -1,0 +1,1 @@
+[["Hydrogen_peroxide", "Hydrogen", "Star", "Radio_frequency"], ["Hydrogen_peroxide", "Phase_%28matter%29", "Star", "Radio_frequency"], ["Hydrogen_peroxide", "Ozone", "Alternating_current", "Radio_frequency"], ["Hydrogen_peroxide", "Photon", "Radio", "Radio_frequency"]]

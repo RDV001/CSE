@@ -1,0 +1,1 @@
+[["Arsenal_F.C.", "Advertising", "Asia", "Kuwait_City"], ["Arsenal_F.C.", "Europe", "Asia", "Kuwait_City"], ["Arsenal_F.C.", "England", "Middle_East", "Kuwait_City"], ["Arsenal_F.C.", "Europe", "Middle_East", "Kuwait_City"], ["Arsenal_F.C.", "United_States", "Middle_East", "Kuwait_City"], ["Arsenal_F.C.", "Europe", "Sarajevo", "Kuwait_City"]]

@@ -1,0 +1,1 @@
+[["Bible", "19th_century", "Science"], ["Bible", "Israel", "Science"], ["Bible", "Latin", "Science"]]

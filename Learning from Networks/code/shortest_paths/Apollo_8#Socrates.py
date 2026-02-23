@@ -1,0 +1,1 @@
+[["Apollo_8", "Atheism", "Socrates"]]

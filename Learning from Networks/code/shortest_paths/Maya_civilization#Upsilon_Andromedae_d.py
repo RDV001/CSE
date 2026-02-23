@@ -1,0 +1,1 @@
+[["Maya_civilization", "Astronomy", "Extrasolar_planet", "Upsilon_Andromedae", "Upsilon_Andromedae_d"], ["Maya_civilization", "Planet", "Extrasolar_planet", "Upsilon_Andromedae", "Upsilon_Andromedae_d"], ["Maya_civilization", "Planet", "55_Cancri", "Upsilon_Andromedae", "Upsilon_Andromedae_d"]]

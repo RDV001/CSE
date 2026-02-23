@@ -1,0 +1,1 @@
+[["Climate_change", "Agriculture", "Horse", "Pony"], ["Climate_change", "Sahara", "Horse", "Pony"]]

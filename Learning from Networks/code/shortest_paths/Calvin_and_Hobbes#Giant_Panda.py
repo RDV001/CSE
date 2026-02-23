@@ -1,0 +1,1 @@
+[["Calvin_and_Hobbes", "Tiger", "Bear", "Giant_Panda"]]

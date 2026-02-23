@@ -1,0 +1,1 @@
+[["Trigonometry", "Ancient_Egypt", "Currency"], ["Trigonometry", "Economics", "Currency"]]

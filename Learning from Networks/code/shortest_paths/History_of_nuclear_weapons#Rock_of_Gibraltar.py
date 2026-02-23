@@ -1,0 +1,1 @@
+[["History_of_nuclear_weapons", "Spain", "Gibraltar", "Rock_of_Gibraltar"], ["History_of_nuclear_weapons", "United_Kingdom", "Gibraltar", "Rock_of_Gibraltar"], ["History_of_nuclear_weapons", "United_States", "Gibraltar", "Rock_of_Gibraltar"], ["History_of_nuclear_weapons", "World_War_II", "Gibraltar", "Rock_of_Gibraltar"]]

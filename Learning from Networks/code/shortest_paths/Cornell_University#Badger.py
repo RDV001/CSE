@@ -1,0 +1,1 @@
+[["Cornell_University", "Bear", "Red_Panda", "Badger"], ["Cornell_University", "Ice_hockey", "Ireland", "Badger"], ["Cornell_University", "Neoclassicism", "Ireland", "Badger"], ["Cornell_University", "United_Kingdom", "Ireland", "Badger"], ["Cornell_University", "Maize", "Winter", "Badger"]]

@@ -1,0 +1,1 @@
+[["Marcus_Allen", "American_football", "United_States", "Martin_Luther_King%2C_Jr."], ["Marcus_Allen", "Kansas_City%2C_Missouri", "United_States", "Martin_Luther_King%2C_Jr."], ["Marcus_Allen", "Super_Bowl_XL", "United_States", "Martin_Luther_King%2C_Jr."], ["Marcus_Allen", "Super_Bowl_XL", "Rosa_Parks", "Martin_Luther_King%2C_Jr."]]

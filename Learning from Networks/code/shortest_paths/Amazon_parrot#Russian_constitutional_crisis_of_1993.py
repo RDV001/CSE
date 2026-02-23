@@ -1,0 +1,1 @@
+[["Amazon_parrot", "Mexico", "Russia", "Russian_constitutional_crisis_of_1993"]]

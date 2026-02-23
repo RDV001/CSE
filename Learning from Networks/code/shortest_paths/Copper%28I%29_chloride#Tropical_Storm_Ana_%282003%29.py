@@ -1,0 +1,1 @@
+[["Copper%28I%29_chloride", "Ammonia", "Maize", "Spring_%28season%29", "Tropical_Storm_Ana_%282003%29"], ["Copper%28I%29_chloride", "Copper", "Schizophrenia", "Spring_%28season%29", "Tropical_Storm_Ana_%282003%29"]]

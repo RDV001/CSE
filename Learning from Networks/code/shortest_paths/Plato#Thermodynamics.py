@@ -1,0 +1,1 @@
+[["Plato", "Albert_Einstein", "Thermodynamics"]]

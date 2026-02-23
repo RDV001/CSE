@@ -1,0 +1,1 @@
+[["DNA_repair", "Bacteria", "Fatty_acid", "Olive_oil", "Sichuan_Pepper"], ["DNA_repair", "Evolution", "Judaism", "Olive_oil", "Sichuan_Pepper"], ["DNA_repair", "Cancer", "Anemia", "Parsley", "Sichuan_Pepper"]]

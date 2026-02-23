@@ -1,0 +1,1 @@
+[["Hurricane_Vince_%282005%29", "Atlantic_Ocean", "Albatross", "Eocene"], ["Hurricane_Vince_%282005%29", "Spain", "Puerto_Rico", "Eocene"]]

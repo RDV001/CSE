@@ -1,0 +1,1 @@
+[["Crystal", "Bismuth", "Bolivia", "Lake_Titicaca"], ["Crystal", "Snow", "Bolivia", "Lake_Titicaca"], ["Crystal", "Bismuth", "Peru", "Lake_Titicaca"], ["Crystal", "Snow", "South_America", "Lake_Titicaca"]]

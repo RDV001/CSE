@@ -1,0 +1,1 @@
+[["Amazon_parrot", "Animal", "Plant", "Sundew", "Drosera_anglica"], ["Amazon_parrot", "Bird", "Plant", "Sundew", "Drosera_anglica"], ["Amazon_parrot", "Scientific_classification", "Plant", "Sundew", "Drosera_anglica"]]

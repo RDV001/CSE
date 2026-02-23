@@ -1,0 +1,1 @@
+[["Oliver_Twist", "Crime", "Economics", "Game_theory", "Ultimatum_game"], ["Oliver_Twist", "Language", "Computer_science", "Game_theory", "Ultimatum_game"], ["Oliver_Twist", "Language", "Mathematics", "Game_theory", "Ultimatum_game"], ["Oliver_Twist", "Poverty", "War", "Game_theory", "Ultimatum_game"], ["Oliver_Twist", "United_States", "War", "Game_theory", "Ultimatum_game"]]

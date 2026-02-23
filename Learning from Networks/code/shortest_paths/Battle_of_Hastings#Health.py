@@ -1,0 +1,1 @@
+[["Battle_of_Hastings", "England", "Tourism", "Health"], ["Battle_of_Hastings", "York", "Tourism", "Health"]]

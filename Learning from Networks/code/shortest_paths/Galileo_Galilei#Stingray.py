@@ -1,0 +1,1 @@
+[["Galileo_Galilei", "Asteroid", "Trojan_War", "Stingray"]]

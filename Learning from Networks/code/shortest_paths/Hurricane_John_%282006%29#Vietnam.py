@@ -1,0 +1,1 @@
+[["Hurricane_John_%282006%29", "Tropical_cyclone", "Vietnam"], ["Hurricane_John_%282006%29", "United_States", "Vietnam"]]

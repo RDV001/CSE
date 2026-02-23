@@ -1,0 +1,1 @@
+[["Convention_on_the_Rights_of_the_Child", "Bill_Clinton", "Hurricane_Katrina", "2005_Atlantic_hurricane_season", "Tropical_Storm_Franklin_%282005%29"], ["Convention_on_the_Rights_of_the_Child", "George_W._Bush", "Hurricane_Katrina", "2005_Atlantic_hurricane_season", "Tropical_Storm_Franklin_%282005%29"]]

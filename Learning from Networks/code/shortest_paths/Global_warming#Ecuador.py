@@ -1,0 +1,1 @@
+[["Global_warming", "Retreat_of_glaciers_since_1850", "Ecuador"], ["Global_warming", "United_States", "Ecuador"]]

@@ -1,0 +1,1 @@
+[["Greenland", "Atlantic_Ocean", "Rotterdam"], ["Greenland", "European_Union", "Rotterdam"]]

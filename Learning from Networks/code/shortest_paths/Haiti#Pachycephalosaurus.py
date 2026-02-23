@@ -1,0 +1,1 @@
+[["Haiti", "Europe", "Mammal", "Cretaceous-Tertiary_extinction_event", "Pachycephalosaurus"]]

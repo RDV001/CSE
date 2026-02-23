@@ -1,0 +1,1 @@
+[["George_W._Bush", "Condoleezza_Rice", "Fyodor_Dostoevsky", "The_Brothers_Karamazov"], ["George_W._Bush", "Philosophy", "Fyodor_Dostoevsky", "The_Brothers_Karamazov"], ["George_W._Bush", "Jesus", "Sermon_on_the_Mount", "The_Brothers_Karamazov"], ["George_W._Bush", "Religion", "Spanish_Inquisition", "The_Brothers_Karamazov"]]

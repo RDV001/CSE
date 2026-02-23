@@ -1,0 +1,1 @@
+[["Upsilon_Andromedae_c", "Gravitation", "Galaxy"], ["Upsilon_Andromedae_c", "Solar_System", "Galaxy"], ["Upsilon_Andromedae_c", "Star", "Galaxy"], ["Upsilon_Andromedae_c", "Sun", "Galaxy"]]

@@ -1,0 +1,1 @@
+[["Cosmic_microwave_background_radiation", "Princeton_University", "Claude_Monet", "Impressionism"], ["Cosmic_microwave_background_radiation", "Statistics", "19th_century", "Impressionism"], ["Cosmic_microwave_background_radiation", "Topology", "19th_century", "Impressionism"]]

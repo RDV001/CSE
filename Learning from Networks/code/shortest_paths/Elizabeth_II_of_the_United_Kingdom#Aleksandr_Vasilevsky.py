@@ -1,0 +1,1 @@
+[["Elizabeth_II_of_the_United_Kingdom", "Germany", "Battle_of_Stalingrad", "Aleksandr_Vasilevsky"], ["Elizabeth_II_of_the_United_Kingdom", "World_War_II", "Battle_of_Stalingrad", "Aleksandr_Vasilevsky"], ["Elizabeth_II_of_the_United_Kingdom", "World_War_II", "Battle_of_Moscow", "Aleksandr_Vasilevsky"]]

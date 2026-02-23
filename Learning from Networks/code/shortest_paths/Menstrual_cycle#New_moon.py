@@ -1,0 +1,1 @@
+[["Menstrual_cycle", "Moon", "New_moon"]]

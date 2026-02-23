@@ -1,0 +1,1 @@
+[["Emanuel_Swedenborg", "Stuttering", "Tourette_syndrome", "Autism"]]

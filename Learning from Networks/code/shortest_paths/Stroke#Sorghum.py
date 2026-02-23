@@ -1,0 +1,1 @@
+[["Stroke", "Europe", "Africa", "Sorghum"], ["Stroke", "United_States", "Agriculture", "Sorghum"], ["Stroke", "United_States", "Argentina", "Sorghum"]]

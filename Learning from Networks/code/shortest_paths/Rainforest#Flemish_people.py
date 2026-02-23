@@ -1,0 +1,1 @@
+[["Rainforest", "Africa", "Belgium", "Flemish_people"], ["Rainforest", "Georgia_%28country%29", "Belgium", "Flemish_people"], ["Rainforest", "Scotland", "Belgium", "Flemish_people"], ["Rainforest", "Carbon_dioxide", "Flanders", "Flemish_people"]]

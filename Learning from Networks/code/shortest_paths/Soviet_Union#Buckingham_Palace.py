@@ -1,0 +1,1 @@
+[["Soviet_Union", "United_Kingdom", "Buckingham_Palace"]]

@@ -1,0 +1,1 @@
+[["Carl_Jung", "Kenya", "Senegal"], ["Carl_Jung", "Philosophy", "Senegal"]]

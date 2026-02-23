@@ -1,0 +1,1 @@
+[["Communication", "Esperanto", "Star_Trek", "Space_Shuttle_program"], ["Communication", "Telephone", "Star_Trek", "Space_Shuttle_program"], ["Communication", "Human", "International_Space_Station", "Space_Shuttle_program"], ["Communication", "Human", "Space_exploration", "Space_Shuttle_program"]]

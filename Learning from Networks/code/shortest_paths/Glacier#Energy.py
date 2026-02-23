@@ -1,0 +1,1 @@
+[["Glacier", "Earth", "Energy"], ["Glacier", "Ice", "Energy"], ["Glacier", "Plate_tectonics", "Energy"], ["Glacier", "Switzerland", "Energy"]]

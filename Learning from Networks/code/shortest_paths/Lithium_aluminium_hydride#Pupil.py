@@ -1,0 +1,1 @@
+[["Lithium_aluminium_hydride", "Aluminium", "Ancient_Rome", "Pupil"], ["Lithium_aluminium_hydride", "Hydrogen", "Sun", "Pupil"], ["Lithium_aluminium_hydride", "Titanium", "Sun", "Pupil"], ["Lithium_aluminium_hydride", "Vanadium", "Sun", "Pupil"], ["Lithium_aluminium_hydride", "Water", "Sun", "Pupil"]]

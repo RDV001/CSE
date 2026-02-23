@@ -1,0 +1,1 @@
+[["Chelsea_F.C.", "England", "Atlantic_Ocean", "Bissau"], ["Chelsea_F.C.", "Europe", "Atlantic_Ocean", "Bissau"], ["Chelsea_F.C.", "Portugal", "Atlantic_Ocean", "Bissau"], ["Chelsea_F.C.", "United_Kingdom", "Atlantic_Ocean", "Bissau"], ["Chelsea_F.C.", "Europe", "Africa", "Bissau"], ["Chelsea_F.C.", "Lion", "Africa", "Bissau"], ["Chelsea_F.C.", "Portugal", "Africa", "Bissau"]]

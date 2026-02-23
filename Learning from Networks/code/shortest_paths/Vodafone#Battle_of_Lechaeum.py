@@ -1,0 +1,1 @@
+[["Vodafone", "Bulgaria", "Ancient_Greece", "Corinthian_War", "Battle_of_Lechaeum"], ["Vodafone", "Greece", "Ancient_Greece", "Corinthian_War", "Battle_of_Lechaeum"], ["Vodafone", "Italy", "Ancient_Greece", "Corinthian_War", "Battle_of_Lechaeum"]]

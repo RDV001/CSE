@@ -1,0 +1,1 @@
+[["Finland", "Meat", "Chicken", "Common_cold"], ["Finland", "Potato", "Vitamin_C", "Common_cold"], ["Finland", "Vegetable", "Vitamin_C", "Common_cold"], ["Finland", "Sweden", "Smallpox", "Common_cold"], ["Finland", "United_Nations", "Smallpox", "Common_cold"]]

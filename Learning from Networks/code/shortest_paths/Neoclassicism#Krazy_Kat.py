@@ -1,0 +1,1 @@
+[["Neoclassicism", "Literature", "E._E._Cummings", "Krazy_Kat"]]

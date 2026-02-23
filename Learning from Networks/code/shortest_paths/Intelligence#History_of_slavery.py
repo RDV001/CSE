@@ -1,0 +1,1 @@
+[["Intelligence", "Psychology", "United_States", "History_of_slavery"], ["Intelligence", "Stephen_Jay_Gould", "United_States", "History_of_slavery"], ["Intelligence", "The_Mismeasure_of_Man", "United_States", "History_of_slavery"]]

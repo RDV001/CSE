@@ -1,0 +1,1 @@
+[["Star_anise", "Japan", "Nintendo", "Playing_card", "Blackjack"], ["Star_anise", "Plant", "Beer", "Playing_card", "Blackjack"]]

@@ -1,0 +1,1 @@
+[["Sociocultural_evolution", "Earth", "Greenhouse_effect"], ["Sociocultural_evolution", "Ecology", "Greenhouse_effect"]]

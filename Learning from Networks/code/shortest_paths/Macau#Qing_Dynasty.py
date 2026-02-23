@@ -1,0 +1,1 @@
+[["Macau", "17th_century", "Qing_Dynasty"], ["Macau", "China", "Qing_Dynasty"], ["Macau", "Hong_Kong", "Qing_Dynasty"], ["Macau", "People%27s_Republic_of_China", "Qing_Dynasty"]]

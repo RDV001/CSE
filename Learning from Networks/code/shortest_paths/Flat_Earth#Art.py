@@ -1,0 +1,1 @@
+[["Flat_Earth", "15th_century", "Art"], ["Flat_Earth", "Middle_Ages", "Art"]]

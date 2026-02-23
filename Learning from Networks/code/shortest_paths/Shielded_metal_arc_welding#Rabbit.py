@@ -1,0 +1,1 @@
+[["Shielded_metal_arc_welding", "Cornea", "Eye", "Rabbit"], ["Shielded_metal_arc_welding", "Retina", "Eye", "Rabbit"], ["Shielded_metal_arc_welding", "Japan", "Mario", "Rabbit"], ["Shielded_metal_arc_welding", "Japan", "Meat", "Rabbit"]]

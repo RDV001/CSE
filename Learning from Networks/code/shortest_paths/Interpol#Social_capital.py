@@ -1,0 +1,1 @@
+[["Interpol", "Brazil", "Economic_inequality", "Social_capital"], ["Interpol", "Russia", "Civil_society", "Social_capital"]]

@@ -1,0 +1,1 @@
+[["John_Adams", "United_States", "Desert", "Great_Salt_Lake"], ["John_Adams", "United_States", "Rocky_Mountains", "Great_Salt_Lake"]]

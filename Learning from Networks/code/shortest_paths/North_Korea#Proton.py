@@ -1,0 +1,1 @@
+[["North_Korea", "Atheism", "Atom", "Proton"], ["North_Korea", "Fertilizer", "Ammonia", "Proton"], ["North_Korea", "Fertilizer", "Chlorine", "Proton"], ["North_Korea", "Nuclear_weapon", "History_of_nuclear_weapons", "Proton"], ["North_Korea", "Nuclear_weapon", "Neutron", "Proton"], ["North_Korea", "Nuclear_weapon", "Nuclear_fission", "Proton"]]

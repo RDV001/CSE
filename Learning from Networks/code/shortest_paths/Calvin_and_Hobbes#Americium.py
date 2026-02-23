@@ -1,0 +1,1 @@
+[["Calvin_and_Hobbes", "Internet", "Copper", "List_of_elements_by_name", "Americium"], ["Calvin_and_Hobbes", "Internet", "Copper", "Periodic_table", "Americium"], ["Calvin_and_Hobbes", "Krazy_Kat", "Nuclear_weapon", "Plutonium", "Americium"], ["Calvin_and_Hobbes", "Tobacco_smoking", "Myocardial_infarction", "Technetium", "Americium"]]

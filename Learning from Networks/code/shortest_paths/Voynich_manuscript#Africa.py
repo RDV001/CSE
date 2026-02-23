@@ -1,0 +1,1 @@
+[["Voynich_manuscript", "Astrology", "Africa"], ["Voynich_manuscript", "Chinese_language", "Africa"], ["Voynich_manuscript", "Earthquake", "Africa"], ["Voynich_manuscript", "Europe", "Africa"], ["Voynich_manuscript", "Isis", "Africa"], ["Voynich_manuscript", "Latin_alphabet", "Africa"], ["Voynich_manuscript", "Vasco_da_Gama", "Africa"]]

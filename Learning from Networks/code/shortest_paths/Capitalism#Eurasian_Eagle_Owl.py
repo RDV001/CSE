@@ -1,0 +1,1 @@
+[["Capitalism", "Europe", "Owl", "Eurasian_Eagle_Owl"]]

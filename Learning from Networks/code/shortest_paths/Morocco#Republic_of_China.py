@@ -1,0 +1,1 @@
+[["Morocco", "List_of_countries_by_system_of_government", "Republic_of_China"], ["Morocco", "Monarchy", "Republic_of_China"], ["Morocco", "Turkey", "Republic_of_China"], ["Morocco", "United_Nations", "Republic_of_China"], ["Morocco", "United_States", "Republic_of_China"], ["Morocco", "World_War_II", "Republic_of_China"]]

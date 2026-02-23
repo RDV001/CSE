@@ -1,0 +1,1 @@
+[["Euro", "European_Union"]]

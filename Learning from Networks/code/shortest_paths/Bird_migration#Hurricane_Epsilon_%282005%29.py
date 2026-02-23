@@ -1,0 +1,1 @@
+[["Bird_migration", "Atlantic_Ocean", "Tropical_cyclone", "Hurricane_Epsilon_%282005%29"], ["Bird_migration", "El_Ni%C3%B1o-Southern_Oscillation", "Tropical_cyclone", "Hurricane_Epsilon_%282005%29"], ["Bird_migration", "Florida", "Tropical_cyclone", "Hurricane_Epsilon_%282005%29"]]

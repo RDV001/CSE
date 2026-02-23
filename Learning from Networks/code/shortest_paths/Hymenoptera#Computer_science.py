@@ -1,0 +1,1 @@
+[["Hymenoptera", "Bee", "Protein", "Computer_science"], ["Hymenoptera", "Insect", "Protein", "Computer_science"], ["Hymenoptera", "Carolus_Linnaeus", "DNA", "Computer_science"]]

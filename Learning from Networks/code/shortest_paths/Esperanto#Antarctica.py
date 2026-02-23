@@ -1,0 +1,1 @@
+[["Esperanto", "Argentina", "Antarctica"], ["Esperanto", "Bulgaria", "Antarctica"], ["Esperanto", "Continent", "Antarctica"], ["Esperanto", "France", "Antarctica"], ["Esperanto", "Pope_John_Paul_II", "Antarctica"], ["Esperanto", "Spanish_language", "Antarctica"]]

@@ -1,0 +1,1 @@
+[["New_moon", "Iran", "United_States", "Turkey_%28bird%29"], ["New_moon", "Moon", "United_States", "Turkey_%28bird%29"], ["New_moon", "Saudi_Arabia", "United_States", "Turkey_%28bird%29"], ["New_moon", "Sun", "United_States", "Turkey_%28bird%29"], ["New_moon", "Saudi_Arabia", "Chicken", "Turkey_%28bird%29"]]

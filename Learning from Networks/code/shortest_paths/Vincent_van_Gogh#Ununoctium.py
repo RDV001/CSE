@@ -1,0 +1,1 @@
+[["Vincent_van_Gogh", "Cobalt", "Chemical_element", "Ununoctium"], ["Vincent_van_Gogh", "Cobalt", "List_of_elements_by_name", "Ununoctium"]]

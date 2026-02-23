@@ -1,0 +1,1 @@
+[["Brighton", "Birmingham", "Coal", "Beryllium"], ["Brighton", "Manchester", "Coal", "Beryllium"], ["Brighton", "United_States", "Coal", "Beryllium"], ["Brighton", "Wales", "Coal", "Beryllium"], ["Brighton", "Seawater", "Calcium", "Beryllium"], ["Brighton", "Seawater", "Magnesium", "Beryllium"]]

@@ -1,0 +1,1 @@
+[["Tokyo", "Beijing", "Great_Wall_of_China", "Binoculars"], ["Tokyo", "World_Heritage_Site", "Great_Wall_of_China", "Binoculars"], ["Tokyo", "Moscow", "Battle_of_Moscow", "Binoculars"], ["Tokyo", "World_War_II", "Battle_of_Moscow", "Binoculars"]]

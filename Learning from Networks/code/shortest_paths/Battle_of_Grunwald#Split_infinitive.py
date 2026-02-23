@@ -1,0 +1,1 @@
+[["Battle_of_Grunwald", "German_language", "Latin", "Split_infinitive"], ["Battle_of_Grunwald", "Germany", "Latin", "Split_infinitive"], ["Battle_of_Grunwald", "Pope", "Latin", "Split_infinitive"]]

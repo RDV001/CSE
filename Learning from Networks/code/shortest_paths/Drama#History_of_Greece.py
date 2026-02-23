@@ -1,0 +1,1 @@
+[["Drama", "19th_century", "Greek_War_of_Independence", "History_of_Greece"], ["Drama", "Athens", "Greek_War_of_Independence", "History_of_Greece"], ["Drama", "Athens", "Byzantine_Empire", "History_of_Greece"]]

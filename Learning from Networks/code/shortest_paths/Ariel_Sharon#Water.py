@@ -1,0 +1,1 @@
+[["Ariel_Sharon", "European_Union", "Water"]]

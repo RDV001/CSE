@@ -1,0 +1,1 @@
+[["Optical_telescope", "Binoculars", "United_States", "Martin_Luther_King%2C_Jr."]]

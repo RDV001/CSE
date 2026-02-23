@@ -1,0 +1,1 @@
+[["Boat", "England", "Currency", "Stock"], ["Boat", "Hong_Kong", "Currency", "Stock"], ["Boat", "England", "Finance", "Stock"], ["Boat", "Hong_Kong", "Finance", "Stock"], ["Boat", "Hong_Kong", "Capitalism", "Stock"], ["Boat", "Hong_Kong", "Margaret_Thatcher", "Stock"]]

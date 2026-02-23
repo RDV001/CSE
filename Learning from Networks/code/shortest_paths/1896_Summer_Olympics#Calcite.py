@@ -1,0 +1,1 @@
+[["1896_Summer_Olympics", "Germany", "Carbon_dioxide", "Calcite"], ["1896_Summer_Olympics", "Germany", "Coal", "Calcite"], ["1896_Summer_Olympics", "United_States", "Coal", "Calcite"]]

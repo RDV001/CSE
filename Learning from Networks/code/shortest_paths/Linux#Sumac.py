@@ -1,0 +1,1 @@
+[["Linux", "Linus_Torvalds", "Pac-Man", "Fruit", "Sumac"], ["Linux", "Open_source", "California", "Fruit", "Sumac"], ["Linux", "Richard_Stallman", "Sweden", "Tree", "Sumac"]]

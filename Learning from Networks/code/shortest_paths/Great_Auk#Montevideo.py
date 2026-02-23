@@ -1,0 +1,1 @@
+[["Great_Auk", "19th_century", "Uruguay", "Montevideo"], ["Great_Auk", "Florida", "World_War_II", "Montevideo"], ["Great_Auk", "Greenland", "World_War_II", "Montevideo"], ["Great_Auk", "Ireland", "World_War_II", "Montevideo"], ["Great_Auk", "Norway", "World_War_II", "Montevideo"], ["Great_Auk", "Ireland", "FIFA_World_Cup", "Montevideo"]]

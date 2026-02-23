@@ -1,0 +1,1 @@
+[["Tropical_Storm_Leslie_%282000%29", "Bill_Clinton", "Myocardial_infarction", "Thallium"]]

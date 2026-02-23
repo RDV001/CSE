@@ -1,0 +1,1 @@
+[["Scheme_programming_language", "Functional_programming", "Calculus", "Biology", "Climate_change"], ["Scheme_programming_language", "Functional_programming", "Calculus", "Gottfried_Leibniz", "Climate_change"]]

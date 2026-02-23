@@ -1,0 +1,1 @@
+[["Telephone", "Internet", "Asia", "Toy"], ["Telephone", "Japan", "Asia", "Toy"], ["Telephone", "South_Korea", "Asia", "Toy"], ["Telephone", "London", "Newspaper", "Toy"], ["Telephone", "Star_Trek", "Doctor_Who", "Toy"], ["Telephone", "United_States", "Computer", "Toy"]]

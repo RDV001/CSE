@@ -1,0 +1,1 @@
+[["Condoleezza_Rice", "India", "Sanskrit"], ["Condoleezza_Rice", "Indonesia", "Sanskrit"]]

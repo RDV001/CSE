@@ -1,0 +1,1 @@
+[["Tawny_Owl", "Carolus_Linnaeus", "Paris", "Jakarta"], ["Tawny_Owl", "Europe", "Paris", "Jakarta"], ["Tawny_Owl", "Russia", "Paris", "Jakarta"], ["Tawny_Owl", "Europe", "Asia", "Jakarta"], ["Tawny_Owl", "Russia", "Asia", "Jakarta"], ["Tawny_Owl", "Europe", "Berlin", "Jakarta"], ["Tawny_Owl", "Russia", "Istanbul", "Jakarta"]]

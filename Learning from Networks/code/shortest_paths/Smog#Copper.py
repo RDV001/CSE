@@ -1,0 +1,1 @@
+[["Smog", "Coal", "Copper"], ["Smog", "Indonesia", "Copper"]]

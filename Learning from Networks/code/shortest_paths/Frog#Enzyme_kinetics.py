@@ -1,0 +1,1 @@
+[["Frog", "Animal", "Bacteria", "Enzyme_kinetics"], ["Frog", "Herbivore", "Bacteria", "Enzyme_kinetics"], ["Frog", "Scientific_classification", "Bacteria", "Enzyme_kinetics"], ["Frog", "Water", "Bacteria", "Enzyme_kinetics"], ["Frog", "Eye", "Protein", "Enzyme_kinetics"]]

@@ -1,0 +1,1 @@
+[["Beatles_for_Sale", "London", "Mass_media", "Alexander_Graham_Bell"], ["Beatles_for_Sale", "Piano", "19th_century", "Alexander_Graham_Bell"], ["Beatles_for_Sale", "United_Kingdom", "Edinburgh", "Alexander_Graham_Bell"]]

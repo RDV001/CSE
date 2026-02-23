@@ -1,0 +1,1 @@
+[["Manchester_United_F.C.", "Munich", "Electricity"], ["Manchester_United_F.C.", "Sweden", "Electricity"]]

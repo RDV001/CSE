@@ -1,0 +1,1 @@
+[["Christian_Bale", "England", "19th_century", "Louis_Pasteur"], ["Christian_Bale", "Portugal", "19th_century", "Louis_Pasteur"]]

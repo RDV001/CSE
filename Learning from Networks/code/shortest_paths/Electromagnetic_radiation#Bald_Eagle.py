@@ -1,0 +1,1 @@
+[["Electromagnetic_radiation", "Albert_Einstein", "United_States", "Bald_Eagle"], ["Electromagnetic_radiation", "Speed_of_light", "United_States", "Bald_Eagle"]]

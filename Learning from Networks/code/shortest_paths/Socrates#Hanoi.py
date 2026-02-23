@@ -1,0 +1,1 @@
+[["Socrates", "Athens", "Warsaw", "Hanoi"], ["Socrates", "Mysticism", "Asia", "Hanoi"]]

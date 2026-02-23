@@ -1,0 +1,1 @@
+[["Trinity", "Anglicanism", "Roman_Britain", "Coin"], ["Trinity", "Egypt", "Currency", "Coin"], ["Trinity", "Greece", "Currency", "Coin"], ["Trinity", "Greece", "Athena", "Coin"], ["Trinity", "Greece", "Euro", "Coin"], ["Trinity", "Isaac_Newton", "Gold_standard", "Coin"]]

@@ -1,0 +1,1 @@
+[["Jimmy_Carter", "Nobel_Peace_Prize"]]

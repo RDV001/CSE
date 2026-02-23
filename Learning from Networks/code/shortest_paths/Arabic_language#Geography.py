@@ -1,0 +1,1 @@
+[["Arabic_language", "Jew", "Geography"], ["Arabic_language", "Lebanon", "Geography"]]

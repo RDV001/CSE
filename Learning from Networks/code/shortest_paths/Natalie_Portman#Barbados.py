@@ -1,0 +1,1 @@
+[["Natalie_Portman", "English_language", "Barbados"], ["Natalie_Portman", "Uganda", "Barbados"], ["Natalie_Portman", "United_States", "Barbados"]]

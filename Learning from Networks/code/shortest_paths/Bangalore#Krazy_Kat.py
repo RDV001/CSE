@@ -1,0 +1,1 @@
+[["Bangalore", "Electricity", "Benjamin_Franklin", "Walt_Disney", "Krazy_Kat"], ["Bangalore", "Tamil_people", "Literature", "E._E._Cummings", "Krazy_Kat"]]

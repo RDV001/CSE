@@ -1,0 +1,1 @@
+[["University_of_Texas_at_Austin", "American_Civil_War", "Liverpool", "Paul_McCartney"], ["University_of_Texas_at_Austin", "Mexico", "Irish_people", "Paul_McCartney"], ["University_of_Texas_at_Austin", "United_States", "Irish_people", "Paul_McCartney"]]

@@ -1,0 +1,1 @@
+[["Durham_Cathedral", "19th_century", "Venezuela"]]

@@ -1,0 +1,1 @@
+[["Ethiopia", "Africa", "Human"], ["Ethiopia", "Cereal", "Human"], ["Ethiopia", "China", "Human"], ["Ethiopia", "Democratic_Republic_of_the_Congo", "Human"], ["Ethiopia", "Kenya", "Human"], ["Ethiopia", "Meat", "Human"], ["Ethiopia", "South_Africa", "Human"], ["Ethiopia", "Vegetable", "Human"]]

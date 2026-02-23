@@ -1,0 +1,1 @@
+[["Starling", "18th_century", "California", "List_of_U.S._states_by_date_of_statehood"], ["Starling", "North_America", "California", "List_of_U.S._states_by_date_of_statehood"], ["Starling", "North_America", "Florida", "List_of_U.S._states_by_date_of_statehood"], ["Starling", "North_America", "Oregon", "List_of_U.S._states_by_date_of_statehood"]]

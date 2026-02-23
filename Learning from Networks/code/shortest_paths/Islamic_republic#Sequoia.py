@@ -1,0 +1,1 @@
+[["Islamic_republic", "Afghanistan", "United_States", "Sequoia"], ["Islamic_republic", "Africa", "United_States", "Sequoia"], ["Islamic_republic", "Iran", "United_States", "Sequoia"], ["Islamic_republic", "Islam", "United_States", "Sequoia"], ["Islamic_republic", "Middle_East", "United_States", "Sequoia"]]

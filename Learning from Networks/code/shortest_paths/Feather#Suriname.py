@@ -1,0 +1,1 @@
+[["Feather", "Eagle", "South_America", "Suriname"], ["Feather", "Mammal", "South_America", "Suriname"], ["Feather", "Theropoda", "South_America", "Suriname"], ["Feather", "Eagle", "United_States", "Suriname"], ["Feather", "Pollution", "United_States", "Suriname"], ["Feather", "Winter", "United_States", "Suriname"], ["Feather", "Greek_mythology", "France", "Suriname"]]

@@ -1,0 +1,1 @@
+[["Theodore_Roosevelt", "Chicago", "Season", "Mahjong"]]

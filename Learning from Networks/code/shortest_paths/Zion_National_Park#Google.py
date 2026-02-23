@@ -1,0 +1,1 @@
+[["Zion_National_Park", "United_States", "Advertising", "Google"]]

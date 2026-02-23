@@ -1,0 +1,1 @@
+[["Permian", "Asia", "Mathematics", "Calculus"], ["Permian", "Dinosaur", "Chemistry", "Calculus"], ["Permian", "Ultraviolet", "Chemistry", "Calculus"], ["Permian", "Dinosaur", "Science", "Calculus"], ["Permian", "Earth", "Pi", "Calculus"], ["Permian", "United_States", "Education", "Calculus"]]

@@ -1,0 +1,1 @@
+[["Physical_paradox", "Stephen_Hawking", "University_of_Cambridge", "Abbey"]]

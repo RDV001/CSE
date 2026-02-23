@@ -1,0 +1,1 @@
+[["Ozone_depletion", "Australia", "British_Empire", "Mercantilism"]]

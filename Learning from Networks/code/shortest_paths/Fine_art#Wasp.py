@@ -1,0 +1,1 @@
+[["Fine_art", "Architecture", "Light", "Bee", "Wasp"], ["Fine_art", "Aristotle", "Light", "Bee", "Wasp"], ["Fine_art", "Visual_arts", "Light", "Bee", "Wasp"], ["Fine_art", "Painting", "Minoan_civilization", "Bee", "Wasp"], ["Fine_art", "Aristotle", "Biology", "Beetle", "Wasp"], ["Fine_art", "Philosophy", "Biology", "Beetle", "Wasp"]]

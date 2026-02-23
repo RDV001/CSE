@@ -1,0 +1,1 @@
+[["Donald_Duck", "Adolf_Hitler"]]

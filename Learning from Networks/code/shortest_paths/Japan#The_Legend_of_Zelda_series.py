@@ -1,0 +1,1 @@
+[["Japan", "Nintendo", "The_Legend_of_Zelda_series"]]

@@ -1,0 +1,1 @@
+[["Tungsten", "Russia", "Byzantine_Empire", "Manuel_I_Komnenos"]]

@@ -1,0 +1,1 @@
+[["Marseille", "Armenia", "Kuwait"], ["Marseille", "Israel", "Kuwait"], ["Marseille", "List_of_countries", "Kuwait"], ["Marseille", "Petroleum", "Kuwait"]]

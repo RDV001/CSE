@@ -1,0 +1,1 @@
+[["Civil_rights", "Property"]]

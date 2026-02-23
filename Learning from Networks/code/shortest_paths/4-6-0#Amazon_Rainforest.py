@@ -1,0 +1,1 @@
+[["4-6-0", "Petroleum", "Peru", "Amazon_Rainforest"], ["4-6-0", "United_States", "Peru", "Amazon_Rainforest"], ["4-6-0", "United_States", "Brazil", "Amazon_Rainforest"], ["4-6-0", "United_States", "Ecuador", "Amazon_Rainforest"], ["4-6-0", "United_States", "Nicaragua", "Amazon_Rainforest"]]

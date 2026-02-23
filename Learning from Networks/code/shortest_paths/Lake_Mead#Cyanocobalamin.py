@@ -1,0 +1,1 @@
+[["Lake_Mead", "California", "Vegetable", "Vitamin", "Cyanocobalamin"], ["Lake_Mead", "Las_Vegas%2C_Nevada", "20th_century", "Vitamin", "Cyanocobalamin"], ["Lake_Mead", "California", "Wine", "Yeast", "Cyanocobalamin"]]

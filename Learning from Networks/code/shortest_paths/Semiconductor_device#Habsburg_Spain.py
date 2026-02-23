@@ -1,0 +1,1 @@
+[["Semiconductor_device", "Europe", "Belgium", "Habsburg_Spain"], ["Semiconductor_device", "Europe", "Ottoman_Empire", "Habsburg_Spain"], ["Semiconductor_device", "Europe", "Spain", "Habsburg_Spain"], ["Semiconductor_device", "United_States", "Spain", "Habsburg_Spain"], ["Semiconductor_device", "United_States", "Jamaica", "Habsburg_Spain"]]

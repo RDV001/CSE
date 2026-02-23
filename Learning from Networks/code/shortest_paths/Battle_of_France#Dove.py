@@ -1,0 +1,1 @@
+[["Battle_of_France", "Communism", "Human", "Dove"], ["Battle_of_France", "London", "Trafalgar_Square", "Dove"], ["Battle_of_France", "United_Kingdom", "Trafalgar_Square", "Dove"], ["Battle_of_France", "Winston_Churchill", "Trafalgar_Square", "Dove"], ["Battle_of_France", "United_Kingdom", "Olympic_Games", "Dove"]]

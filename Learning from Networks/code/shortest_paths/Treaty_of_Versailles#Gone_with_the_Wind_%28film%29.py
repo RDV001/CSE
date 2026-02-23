@@ -1,0 +1,1 @@
+[["Treaty_of_Versailles", "Adolf_Hitler", "Charlie_Chaplin", "Gone_with_the_Wind_%28film%29"], ["Treaty_of_Versailles", "Woodrow_Wilson", "Atlanta%2C_Georgia", "Gone_with_the_Wind_%28film%29"]]

@@ -1,0 +1,1 @@
+[["Ethnic_group", "Africa", "Carnivore", "Tiger"], ["Ethnic_group", "Europe", "Carnivore", "Tiger"], ["Ethnic_group", "Africa", "Cheetah", "Tiger"], ["Ethnic_group", "Africa", "Hyena", "Tiger"], ["Ethnic_group", "Africa", "Lion", "Tiger"], ["Ethnic_group", "Mercantilism", "Thomas_Hobbes", "Tiger"], ["Ethnic_group", "Nationalism", "Nazi_Germany", "Tiger"]]

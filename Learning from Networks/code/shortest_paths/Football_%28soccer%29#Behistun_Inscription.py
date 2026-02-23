@@ -1,0 +1,1 @@
+[["Football_%28soccer%29", "Europe", "Armenia", "Behistun_Inscription"], ["Football_%28soccer%29", "Germany", "Armenia", "Behistun_Inscription"], ["Football_%28soccer%29", "Paris", "Armenia", "Behistun_Inscription"], ["Football_%28soccer%29", "Germany", "Iranian_peoples", "Behistun_Inscription"]]

@@ -1,0 +1,1 @@
+[["Manganese", "Burkina_Faso", "Time_zone"], ["Manganese", "Gabon", "Time_zone"]]

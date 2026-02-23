@@ -1,0 +1,1 @@
+[["Europium", "Euro", "United_Kingdom", "Arctic_Monkeys"], ["Europium", "Europe", "United_Kingdom", "Arctic_Monkeys"], ["Europium", "France", "United_Kingdom", "Arctic_Monkeys"]]

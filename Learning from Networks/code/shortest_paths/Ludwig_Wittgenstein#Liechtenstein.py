@@ -1,0 +1,1 @@
+[["Ludwig_Wittgenstein", "Austria", "Liechtenstein"], ["Ludwig_Wittgenstein", "Germany", "Liechtenstein"], ["Ludwig_Wittgenstein", "Norway", "Liechtenstein"]]

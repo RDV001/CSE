@@ -1,0 +1,1 @@
+[["Fluorine", "Neutron", "England", "Battle_of_Hastings"], ["Fluorine", "Nuclear_power", "England", "Battle_of_Hastings"], ["Fluorine", "Uranium", "England", "Battle_of_Hastings"], ["Fluorine", "Water", "London", "Battle_of_Hastings"], ["Fluorine", "World_War_II", "Royal_Navy", "Battle_of_Hastings"]]

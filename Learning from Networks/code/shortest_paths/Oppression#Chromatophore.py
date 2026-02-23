@@ -1,0 +1,1 @@
+[["Oppression", "Sociology", "Human", "Pigment", "Albinism", "Chromatophore"]]

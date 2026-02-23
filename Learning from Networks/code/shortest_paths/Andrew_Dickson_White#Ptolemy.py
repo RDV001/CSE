@@ -1,0 +1,1 @@
+[["Andrew_Dickson_White", "Christopher_Columbus", "Ptolemy"]]

@@ -1,0 +1,1 @@
+[["Kochi_%28India%29", "Ancient_Greece", "Turkey", "Economy_of_the_Republic_of_Ireland"], ["Kochi_%28India%29", "British_Empire", "Turkey", "Economy_of_the_Republic_of_Ireland"], ["Kochi_%28India%29", "Islam", "Turkey", "Economy_of_the_Republic_of_Ireland"], ["Kochi_%28India%29", "Jew", "Turkey", "Economy_of_the_Republic_of_Ireland"]]

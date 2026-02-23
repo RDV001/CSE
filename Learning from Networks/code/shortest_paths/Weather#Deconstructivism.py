@@ -1,0 +1,1 @@
+[["Weather", "Canada", "National_Hockey_League", "Columbus%2C_Ohio", "Deconstructivism"], ["Weather", "History_of_the_world", "Christopher_Columbus", "Columbus%2C_Ohio", "Deconstructivism"], ["Weather", "Hurricane_Katrina", "Amtrak", "Columbus%2C_Ohio", "Deconstructivism"]]

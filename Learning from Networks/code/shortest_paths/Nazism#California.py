@@ -1,0 +1,1 @@
+[["Nazism", "Democracy", "California"], ["Nazism", "France", "California"], ["Nazism", "North_America", "California"], ["Nazism", "Swastika", "California"], ["Nazism", "United_States", "California"]]

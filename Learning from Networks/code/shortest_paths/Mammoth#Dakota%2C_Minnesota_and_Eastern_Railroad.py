@@ -1,0 +1,1 @@
+[["Mammoth", "California", "Amtrak", "Chicago_and_North_Western_Railway", "Dakota%2C_Minnesota_and_Eastern_Railroad"], ["Mammoth", "United_States", "Amtrak", "Chicago_and_North_Western_Railway", "Dakota%2C_Minnesota_and_Eastern_Railroad"], ["Mammoth", "Washington%2C_D.C.", "Amtrak", "Chicago_and_North_Western_Railway", "Dakota%2C_Minnesota_and_Eastern_Railroad"]]

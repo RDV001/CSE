@@ -1,0 +1,1 @@
+[["Battle_of_Normandy", "United_States", "Oregon", "Feldspar"]]

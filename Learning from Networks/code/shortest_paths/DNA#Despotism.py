@@ -1,0 +1,1 @@
+[["DNA", "Information", "Plato", "Despotism"], ["DNA", "Sugar", "Africa", "Despotism"], ["DNA", "Thomas_Jefferson", "United_States_Declaration_of_Independence", "Despotism"], ["DNA", "United_Kingdom", "Anne_of_Great_Britain", "Despotism"]]

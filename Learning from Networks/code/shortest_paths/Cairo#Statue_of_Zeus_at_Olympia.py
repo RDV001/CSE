@@ -1,0 +1,1 @@
+[["Cairo", "Europe", "Zeus", "Statue_of_Zeus_at_Olympia"], ["Cairo", "Israel", "Olympic_Games", "Statue_of_Zeus_at_Olympia"], ["Cairo", "United_States", "Olympic_Games", "Statue_of_Zeus_at_Olympia"]]

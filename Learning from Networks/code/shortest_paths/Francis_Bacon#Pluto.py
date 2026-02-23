@@ -1,0 +1,1 @@
+[["Francis_Bacon", "Alchemy", "Astrology", "Pluto"], ["Francis_Bacon", "Religion", "Astrology", "Pluto"], ["Francis_Bacon", "Alchemy", "Planet", "Pluto"], ["Francis_Bacon", "Religion", "Planet", "Pluto"], ["Francis_Bacon", "Elizabeth_I_of_England", "Earth", "Pluto"], ["Francis_Bacon", "Religion", "Sun", "Pluto"]]

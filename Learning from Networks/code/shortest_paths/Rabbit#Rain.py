@@ -1,0 +1,1 @@
+[["Rabbit", "Animal", "Energy", "Rain"], ["Rabbit", "Animal", "Water", "Rain"], ["Rabbit", "Parsley", "Water", "Rain"], ["Rabbit", "Cat", "Evolution", "Rain"], ["Rabbit", "Scientific_classification", "Evolution", "Rain"], ["Rabbit", "Japan", "Hong_Kong", "Rain"], ["Rabbit", "Japan", "Rice", "Rain"], ["Rabbit", "Japan", "Tropical_cyclone", "Rain"]]

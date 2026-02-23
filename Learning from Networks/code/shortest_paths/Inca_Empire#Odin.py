@@ -1,0 +1,1 @@
+[["Inca_Empire", "Bolivia", "Folklore", "Odin"], ["Inca_Empire", "Chile", "Folklore", "Odin"], ["Inca_Empire", "Roman_Catholic_Church", "God", "Odin"], ["Inca_Empire", "Roman_Catholic_Church", "J._R._R._Tolkien", "Odin"]]

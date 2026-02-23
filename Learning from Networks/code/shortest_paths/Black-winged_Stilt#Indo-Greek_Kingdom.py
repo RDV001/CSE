@@ -1,0 +1,1 @@
+[["Black-winged_Stilt", "Asia", "Buddhism", "Indo-Greek_Kingdom"], ["Black-winged_Stilt", "Europe", "Buddhism", "Indo-Greek_Kingdom"], ["Black-winged_Stilt", "Indonesia", "Buddhism", "Indo-Greek_Kingdom"], ["Black-winged_Stilt", "Asia", "Pakistan", "Indo-Greek_Kingdom"], ["Black-winged_Stilt", "Perth%2C_Western_Australia", "Pakistan", "Indo-Greek_Kingdom"]]

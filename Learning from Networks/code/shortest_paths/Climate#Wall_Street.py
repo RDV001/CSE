@@ -1,0 +1,1 @@
+[["Climate", "Climate_change", "United_States", "Wall_Street"], ["Climate", "Global_warming", "United_States", "Wall_Street"], ["Climate", "Tropical_cyclone", "United_States", "Wall_Street"], ["Climate", "Tropical_cyclone", "New_York_City", "Wall_Street"]]

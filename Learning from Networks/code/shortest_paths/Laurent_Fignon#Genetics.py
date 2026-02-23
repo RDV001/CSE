@@ -1,0 +1,1 @@
+[["Laurent_Fignon", "France", "AIDS", "Genetics"], ["Laurent_Fignon", "France", "Roman_Catholic_Church", "Genetics"]]

@@ -1,0 +1,1 @@
+[["Globalization", "19th_century", "Vincent_van_Gogh", "Absinthe"], ["Globalization", "United_Kingdom", "Kylie_Minogue", "Absinthe"]]

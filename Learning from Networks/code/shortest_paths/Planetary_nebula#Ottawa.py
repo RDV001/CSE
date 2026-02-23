@@ -1,0 +1,1 @@
+[["Planetary_nebula", "Astronomy", "Archaeology", "Ottawa"], ["Planetary_nebula", "Carbon", "Canada", "Ottawa"], ["Planetary_nebula", "Helium", "Canada", "Ottawa"], ["Planetary_nebula", "Carbon", "French_language", "Ottawa"], ["Planetary_nebula", "Nitrogen", "French_language", "Ottawa"]]

@@ -1,0 +1,1 @@
+[["Bill_Clinton", "Kosovo", "Alexander_the_Great", "Pyramid"], ["Bill_Clinton", "New_York_City", "Cairo", "Pyramid"], ["Bill_Clinton", "United_Nations", "Cairo", "Pyramid"], ["Bill_Clinton", "United_Nations", "Organization", "Pyramid"]]

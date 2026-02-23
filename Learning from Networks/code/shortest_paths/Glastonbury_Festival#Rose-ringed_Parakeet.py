@@ -1,0 +1,1 @@
+[["Glastonbury_Festival", "Alternative_rock", "New_Zealand", "Parrot", "Rose-ringed_Parakeet"], ["Glastonbury_Festival", "BBC", "New_Zealand", "Parrot", "Rose-ringed_Parakeet"], ["Glastonbury_Festival", "Reggae", "New_Zealand", "Parrot", "Rose-ringed_Parakeet"], ["Glastonbury_Festival", "Stonehenge", "New_Zealand", "Parrot", "Rose-ringed_Parakeet"]]

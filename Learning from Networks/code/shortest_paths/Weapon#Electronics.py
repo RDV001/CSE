@@ -1,0 +1,1 @@
+[["Weapon", "Computer", "Electronics"], ["Weapon", "United_States", "Electronics"]]

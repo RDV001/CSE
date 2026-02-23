@@ -1,0 +1,1 @@
+[["Comet_Hale-Bopp", "Electric_charge", "Benjamin_Franklin", "Walt_Disney"], ["Comet_Hale-Bopp", "Extraterrestrial_life", "Benjamin_Franklin", "Walt_Disney"]]

@@ -1,0 +1,1 @@
+[["Mars", "Ancient_Greece", "Jewellery", "Mammoth"], ["Mars", "Asteroid", "Dinosaur", "Mammoth"], ["Mars", "Earth", "Dinosaur", "Mammoth"], ["Mars", "Earth", "Extinction", "Mammoth"]]

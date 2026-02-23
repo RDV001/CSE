@@ -1,0 +1,1 @@
+[["Confucianism", "19th_century", "6th_century"], ["Confucianism", "20th_century", "6th_century"], ["Confucianism", "Jesus", "6th_century"], ["Confucianism", "Shinto", "6th_century"]]

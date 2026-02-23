@@ -1,0 +1,1 @@
+[["Richard_II_of_England", "British_monarchy", "Harold_Wilson", "Iraq_War"], ["Richard_II_of_England", "England", "Middle_East", "Iraq_War"], ["Richard_II_of_England", "Spain", "Middle_East", "Iraq_War"], ["Richard_II_of_England", "France", "Japan", "Iraq_War"], ["Richard_II_of_England", "Spain", "NATO", "Iraq_War"], ["Richard_II_of_England", "Wales", "Tony_Blair", "Iraq_War"]]

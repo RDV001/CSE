@@ -1,0 +1,1 @@
+[["Niagara_Falls", "Minnesota", "Agriculture", "Egg_%28food%29"], ["Niagara_Falls", "United_States", "Agriculture", "Egg_%28food%29"], ["Niagara_Falls", "Minnesota", "Butter", "Egg_%28food%29"]]

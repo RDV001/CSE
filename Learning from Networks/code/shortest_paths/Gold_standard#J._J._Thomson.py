@@ -1,0 +1,1 @@
+[["Gold_standard", "Isaac_Newton", "University_of_Cambridge", "J._J._Thomson"], ["Gold_standard", "John_Maynard_Keynes", "University_of_Cambridge", "J._J._Thomson"], ["Gold_standard", "United_Kingdom", "University_of_Cambridge", "J._J._Thomson"]]

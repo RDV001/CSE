@@ -1,0 +1,1 @@
+[["Jakarta", "Beijing", "Pakistan"], ["Jakarta", "Buddhism", "Pakistan"], ["Jakarta", "Islam", "Pakistan"], ["Jakarta", "Istanbul", "Pakistan"], ["Jakarta", "Japan", "Pakistan"], ["Jakarta", "People%27s_Republic_of_China", "Pakistan"], ["Jakarta", "Turkey", "Pakistan"], ["Jakarta", "United_Kingdom", "Pakistan"]]

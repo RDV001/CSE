@@ -1,0 +1,1 @@
+[["East-West_Schism", "12th_century", "8th_century"]]

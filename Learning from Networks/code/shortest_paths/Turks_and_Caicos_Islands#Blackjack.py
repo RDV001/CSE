@@ -1,0 +1,1 @@
+[["Turks_and_Caicos_Islands", "Bermuda", "Royal_Navy", "Card_game", "Blackjack"], ["Turks_and_Caicos_Islands", "Elizabeth_II_of_the_United_Kingdom", "Royal_Navy", "Card_game", "Blackjack"], ["Turks_and_Caicos_Islands", "United_Kingdom", "Royal_Navy", "Card_game", "Blackjack"]]

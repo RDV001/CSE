@@ -1,0 +1,1 @@
+[["Matter", "Albert_Einstein", "Israel", "Yemen"], ["Matter", "Albert_Einstein", "Jew", "Yemen"], ["Matter", "Iron", "Georgia_%28country%29", "Yemen"], ["Matter", "Magnet", "Art", "Yemen"]]

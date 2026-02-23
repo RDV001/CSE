@@ -1,0 +1,1 @@
+[["Canadian_English", "British_English", "University", "Astronomy", "Andromeda_Galaxy"], ["Canadian_English", "English_language", "University", "Astronomy", "Andromeda_Galaxy"], ["Canadian_English", "Canada", "Islam", "Astronomy", "Andromeda_Galaxy"], ["Canadian_English", "Toronto", "Islam", "Astronomy", "Andromeda_Galaxy"]]

@@ -1,0 +1,1 @@
+[["Marcus_Allen", "Kansas_City%2C_Missouri", "Boeing_747", "Airbus_A380"], ["Marcus_Allen", "Kansas_City%2C_Missouri", "France", "Airbus_A380"], ["Marcus_Allen", "Super_Bowl_XL", "France", "Airbus_A380"]]

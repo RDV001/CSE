@@ -1,0 +1,1 @@
+[["Dwight_D._Eisenhower", "Attack_on_Pearl_Harbor"]]

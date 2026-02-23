@@ -1,0 +1,1 @@
+[["The_Last_Supper_%28Leonardo%29", "Leonardo_da_Vinci", "Mona_Lisa"], ["The_Last_Supper_%28Leonardo%29", "Painting", "Mona_Lisa"]]

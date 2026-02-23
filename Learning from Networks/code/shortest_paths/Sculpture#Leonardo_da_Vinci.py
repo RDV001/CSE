@@ -1,0 +1,1 @@
+[["Sculpture", "Art", "Leonardo_da_Vinci"], ["Sculpture", "Michelangelo", "Leonardo_da_Vinci"], ["Sculpture", "Renaissance", "Leonardo_da_Vinci"]]

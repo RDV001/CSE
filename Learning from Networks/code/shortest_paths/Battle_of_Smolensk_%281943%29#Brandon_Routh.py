@@ -1,0 +1,1 @@
+[["Battle_of_Smolensk_%281943%29", "Soviet_Union", "Ronald_Reagan", "Superman", "Brandon_Routh"]]

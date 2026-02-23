@@ -1,0 +1,1 @@
+[["Tiger", "Nazi_Germany", "Albert_Einstein"]]

@@ -1,0 +1,1 @@
+[["Bantu", "Africa", "Elephant", "The_Simpsons", "Doom", "Columbine_High_School_massacre"], ["Bantu", "Zambezi", "Elephant", "The_Simpsons", "Doom", "Columbine_High_School_massacre"], ["Bantu", "Rainforest", "Oregon", "The_Simpsons", "Doom", "Columbine_High_School_massacre"]]

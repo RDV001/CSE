@@ -1,0 +1,1 @@
+[["Binoculars", "Symmetry", "Crystal"]]

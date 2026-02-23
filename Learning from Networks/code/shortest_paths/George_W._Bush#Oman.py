@@ -1,0 +1,1 @@
+[["George_W._Bush", "Azerbaijan", "Oman"], ["George_W._Bush", "Georgia_%28country%29", "Oman"], ["George_W._Bush", "Israel", "Oman"], ["George_W._Bush", "Lebanon", "Oman"], ["George_W._Bush", "Middle_East", "Oman"], ["George_W._Bush", "Sudan", "Oman"]]

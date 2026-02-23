@@ -1,0 +1,1 @@
+[["Slavery", "Ancient_Rome", "Edward_Gibbon"], ["Slavery", "Claudius", "Edward_Gibbon"], ["Slavery", "Roman_Empire", "Edward_Gibbon"]]

@@ -1,0 +1,1 @@
+[["Sphere", "Archimedes", "Ancient_Greece", "Demosthenes", "Modern_history"], ["Sphere", "Physics", "Ancient_Greece", "Demosthenes", "Modern_history"], ["Sphere", "Earth", "Indian_Ocean", "2004_Indian_Ocean_earthquake", "Modern_history"], ["Sphere", "Earth", "Tsunami", "2004_Indian_Ocean_earthquake", "Modern_history"]]

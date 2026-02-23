@@ -1,0 +1,1 @@
+[["X_Window_System", "Latin_alphabet", "Telecommunication", "Alexander_Graham_Bell", "James_Garfield"], ["X_Window_System", "Macintosh", "George_W._Bush", "Bill_Clinton", "James_Garfield"], ["X_Window_System", "OpenBSD", "Cryptography", "Bill_Clinton", "James_Garfield"], ["X_Window_System", "Unix", "Dennis_Ritchie", "Bill_Clinton", "James_Garfield"]]

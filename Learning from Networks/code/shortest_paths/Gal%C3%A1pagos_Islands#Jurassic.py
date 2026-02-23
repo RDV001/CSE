@@ -1,0 +1,1 @@
+[["Gal%C3%A1pagos_Islands", "Fossil", "Jurassic"], ["Gal%C3%A1pagos_Islands", "Plant", "Jurassic"]]

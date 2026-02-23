@@ -1,0 +1,1 @@
+[["Dixie_Mission", "Soviet_Union", "Sputnik_1"]]

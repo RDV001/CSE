@@ -1,0 +1,1 @@
+[["Taipei", "Capital", "London", "Royal_Parks_of_London"], ["Taipei", "Rail_transport", "London", "Royal_Parks_of_London"], ["Taipei", "Seoul", "London", "Royal_Parks_of_London"], ["Taipei", "Warsaw", "London", "Royal_Parks_of_London"]]

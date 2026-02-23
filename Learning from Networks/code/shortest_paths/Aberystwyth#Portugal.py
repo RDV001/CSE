@@ -1,0 +1,1 @@
+[["Aberystwyth", "Elizabeth_I_of_England", "Portugal"], ["Aberystwyth", "List_of_countries", "Portugal"], ["Aberystwyth", "List_of_sovereign_states", "Portugal"]]

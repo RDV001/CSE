@@ -1,0 +1,1 @@
+[["Temple_of_Artemis", "18th_century", "President_of_the_United_States", "Dwight_D._Eisenhower"], ["Temple_of_Artemis", "Persian_Empire", "Cold_War", "Dwight_D._Eisenhower"], ["Temple_of_Artemis", "Turkey", "NATO", "Dwight_D._Eisenhower"]]

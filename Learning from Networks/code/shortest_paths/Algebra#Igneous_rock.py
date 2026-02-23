@@ -1,0 +1,1 @@
+[["Algebra", "Ancient_Egypt", "Geology", "Igneous_rock"], ["Algebra", "Europe", "Geology", "Igneous_rock"], ["Algebra", "Gottfried_Leibniz", "Geology", "Igneous_rock"], ["Algebra", "Ancient_Egypt", "Granite", "Igneous_rock"]]

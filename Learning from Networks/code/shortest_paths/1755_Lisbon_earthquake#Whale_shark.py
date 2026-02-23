@@ -1,0 +1,1 @@
+[["1755_Lisbon_earthquake", "Atlantic_Ocean", "Honduras", "Whale_shark"], ["1755_Lisbon_earthquake", "Europe", "Fish", "Whale_shark"], ["1755_Lisbon_earthquake", "Finland", "Fish", "Whale_shark"]]

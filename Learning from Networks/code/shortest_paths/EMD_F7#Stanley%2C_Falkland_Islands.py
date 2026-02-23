@@ -1,0 +1,1 @@
+[["EMD_F7", "North_America", "South_America", "Stanley%2C_Falkland_Islands"]]

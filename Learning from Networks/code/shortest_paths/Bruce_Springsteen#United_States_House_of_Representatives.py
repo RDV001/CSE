@@ -1,0 +1,1 @@
+[["Bruce_Springsteen", "Boston%2C_Massachusetts", "United_States_House_of_Representatives"], ["Bruce_Springsteen", "George_W._Bush", "United_States_House_of_Representatives"], ["Bruce_Springsteen", "United_States", "United_States_House_of_Representatives"], ["Bruce_Springsteen", "Washington%2C_D.C.", "United_States_House_of_Representatives"]]

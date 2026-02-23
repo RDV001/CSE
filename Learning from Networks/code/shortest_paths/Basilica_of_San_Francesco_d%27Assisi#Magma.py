@@ -1,0 +1,1 @@
+[["Basilica_of_San_Francesco_d%27Assisi", "Earthquake", "Magma"]]

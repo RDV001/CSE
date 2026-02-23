@@ -1,0 +1,1 @@
+[["Natalie_Portman", "England", "Henry_VIII_of_England", "Dice"], ["Natalie_Portman", "Israel", "Byzantine_Empire", "Dice"], ["Natalie_Portman", "Jerusalem", "Byzantine_Empire", "Dice"], ["Natalie_Portman", "Russia", "Byzantine_Empire", "Dice"], ["Natalie_Portman", "Israel", "Chess", "Dice"], ["Natalie_Portman", "The_Simpsons", "Monopoly_%28game%29", "Dice"]]

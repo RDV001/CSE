@@ -1,0 +1,1 @@
+[["Publishing", "Doctor_Who", "Poland", "J%C3%B3zef_Pi%C5%82sudski"], ["Publishing", "European_Union", "Poland", "J%C3%B3zef_Pi%C5%82sudski"], ["Publishing", "Law", "Revolution", "J%C3%B3zef_Pi%C5%82sudski"]]

@@ -1,0 +1,1 @@
+[["Eurasian_Collared_Dove", "Arctic_Circle", "Canada"], ["Eurasian_Collared_Dove", "Bird_migration", "Canada"], ["Eurasian_Collared_Dove", "Great_Lakes", "Canada"], ["Eurasian_Collared_Dove", "Ireland", "Canada"]]

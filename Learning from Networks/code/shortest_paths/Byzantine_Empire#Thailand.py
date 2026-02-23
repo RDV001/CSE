@@ -1,0 +1,1 @@
+[["Byzantine_Empire", "13th_century", "Thailand"], ["Byzantine_Empire", "Anno_Domini", "Thailand"], ["Byzantine_Empire", "Armenia", "Thailand"], ["Byzantine_Empire", "Azerbaijan", "Thailand"], ["Byzantine_Empire", "List_of_countries_by_system_of_government", "Thailand"], ["Byzantine_Empire", "Monarchy", "Thailand"], ["Byzantine_Empire", "Spain", "Thailand"]]

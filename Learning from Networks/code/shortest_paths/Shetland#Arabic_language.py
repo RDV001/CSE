@@ -1,0 +1,1 @@
+[["Shetland", "Europe", "Arabic_language"]]

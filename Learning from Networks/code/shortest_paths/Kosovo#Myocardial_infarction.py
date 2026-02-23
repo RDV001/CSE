@@ -1,0 +1,1 @@
+[["Kosovo", "European_Union", "Tony_Blair", "Myocardial_infarction"], ["Kosovo", "Music", "Schizophrenia", "Myocardial_infarction"]]

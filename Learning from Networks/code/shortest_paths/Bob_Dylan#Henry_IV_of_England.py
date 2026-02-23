@@ -1,0 +1,1 @@
+[["Bob_Dylan", "England", "Canterbury_Cathedral", "Henry_IV_of_England"], ["Bob_Dylan", "England", "Henry_VIII_of_England", "Henry_IV_of_England"], ["Bob_Dylan", "Isle_of_Wight", "Henry_VIII_of_England", "Henry_IV_of_England"], ["Bob_Dylan", "England", "Wars_of_the_Roses", "Henry_IV_of_England"], ["Bob_Dylan", "Isle_of_Wight", "Henry_VI_of_England", "Henry_IV_of_England"]]

@@ -1,0 +1,1 @@
+[["Music_of_the_trecento", "Black_Death", "Capitalism", "Manorialism"], ["Music_of_the_trecento", "Italy", "Capitalism", "Manorialism"], ["Music_of_the_trecento", "Renaissance", "Capitalism", "Manorialism"], ["Music_of_the_trecento", "Italy", "French_Revolution", "Manorialism"], ["Music_of_the_trecento", "Milan", "French_Revolution", "Manorialism"]]

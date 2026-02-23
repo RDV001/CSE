@@ -1,0 +1,1 @@
+[["Fruit", "Botany", "Chocolate", "Dog"], ["Fruit", "Carrot", "Afghanistan", "Dog"], ["Fruit", "Carrot", "Rabbit", "Dog"], ["Fruit", "Flower", "Chicken", "Dog"], ["Fruit", "Halloween", "Vampire", "Dog"], ["Fruit", "Human", "Sleep", "Dog"], ["Fruit", "Morphine", "Sleep", "Dog"]]

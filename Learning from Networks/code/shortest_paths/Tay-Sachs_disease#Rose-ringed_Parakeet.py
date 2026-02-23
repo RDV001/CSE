@@ -1,0 +1,1 @@
+[["Tay-Sachs_disease", "Eye", "Bird", "Parrot", "Rose-ringed_Parakeet"], ["Tay-Sachs_disease", "United_States", "Costa_Rica", "Parrot", "Rose-ringed_Parakeet"]]

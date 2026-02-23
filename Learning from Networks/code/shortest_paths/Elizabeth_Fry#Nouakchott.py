@@ -1,0 +1,1 @@
+[["Elizabeth_Fry", "Canada", "Atlantic_Ocean", "Nouakchott"], ["Elizabeth_Fry", "England", "Atlantic_Ocean", "Nouakchott"], ["Elizabeth_Fry", "Weymouth", "Atlantic_Ocean", "Nouakchott"]]

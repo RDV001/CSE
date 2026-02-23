@@ -1,0 +1,1 @@
+[["Animal_law", "Animal_rights", "Dog", "Cat", "Rabbit"], ["Animal_law", "Animal_rights", "Dog", "Chocolate", "Rabbit"], ["Animal_law", "Animal_rights", "Dog", "Meat", "Rabbit"], ["Animal_law", "Animal_rights", "Dog", "Rabies", "Rabbit"]]

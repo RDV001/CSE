@@ -1,0 +1,1 @@
+[["Weapon", "Energy", "Big_Bang", "Hawking_radiation"], ["Weapon", "Energy", "Quantum_mechanics", "Hawking_radiation"]]

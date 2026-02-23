@@ -1,0 +1,1 @@
+[["Labor_Day_Hurricane_of_1935", "Ernest_Hemingway", "Ezra_Pound", "The_Waste_Land"], ["Labor_Day_Hurricane_of_1935", "Ernest_Hemingway", "James_Joyce", "The_Waste_Land"]]

@@ -1,0 +1,1 @@
+[["John_Dee", "Alchemy", "China"], ["John_Dee", "Astrology", "China"], ["John_Dee", "Astronomy", "China"], ["John_Dee", "British_Empire", "China"], ["John_Dee", "God", "China"], ["John_Dee", "Library", "China"], ["John_Dee", "Manchester", "China"], ["John_Dee", "Religion", "China"]]

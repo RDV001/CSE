@@ -1,0 +1,1 @@
+[["List_of_countries", "Iran", "Algebra", "Muhammad_ibn_Musa_al-Khwarizmi"]]

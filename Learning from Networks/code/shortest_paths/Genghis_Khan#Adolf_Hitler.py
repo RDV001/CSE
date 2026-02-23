@@ -1,0 +1,1 @@
+[["Genghis_Khan", "Azerbaijan", "Adolf_Hitler"], ["Genghis_Khan", "Germany", "Adolf_Hitler"], ["Genghis_Khan", "Hungary", "Adolf_Hitler"], ["Genghis_Khan", "Race", "Adolf_Hitler"]]

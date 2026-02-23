@@ -1,0 +1,1 @@
+[["Mozilla_Firefox", "Europe", "18th_century", "Photosynthesis"], ["Mozilla_Firefox", "Europe", "Arctic_Ocean", "Photosynthesis"], ["Mozilla_Firefox", "Europe", "Earth", "Photosynthesis"], ["Mozilla_Firefox", "Germany", "Carbon_dioxide", "Photosynthesis"]]

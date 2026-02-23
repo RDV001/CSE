@@ -1,0 +1,1 @@
+[["Allah", "Deity", "Earth", "Pluto"], ["Allah", "Jesus", "Apollo", "Pluto"]]

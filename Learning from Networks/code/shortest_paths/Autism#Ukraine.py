@@ -1,0 +1,1 @@
+[["Autism", "Baltimore%2C_Maryland", "Ukraine"], ["Autism", "Germany", "Ukraine"]]

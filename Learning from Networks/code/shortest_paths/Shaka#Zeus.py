@@ -1,0 +1,1 @@
+[["Shaka", "19th_century", "Athens", "Zeus"], ["Shaka", "19th_century", "Europe", "Zeus"], ["Shaka", "Napoleon_I_of_France", "Europe", "Zeus"]]

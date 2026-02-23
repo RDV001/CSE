@@ -1,0 +1,1 @@
+[["Clone_Wars_%28Star_Wars%29", "Adolf_Hitler", "Liberalism", "Gender"], ["Clone_Wars_%28Star_Wars%29", "Democracy", "Liberalism", "Gender"], ["Clone_Wars_%28Star_Wars%29", "Adolf_Hitler", "Nationalism", "Gender"], ["Clone_Wars_%28Star_Wars%29", "United_States", "Elvis_Presley", "Gender"], ["Clone_Wars_%28Star_Wars%29", "United_States", "Music_of_the_United_States", "Gender"]]

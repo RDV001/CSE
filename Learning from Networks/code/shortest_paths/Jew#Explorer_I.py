@@ -1,0 +1,1 @@
+[["Jew", "Russia", "Sputnik_1", "Explorer_I"], ["Jew", "Soviet_Union", "Sputnik_1", "Explorer_I"]]

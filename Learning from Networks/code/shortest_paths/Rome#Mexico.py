@@ -1,0 +1,1 @@
+[["Rome", "19th_century", "Mexico"], ["Rome", "Paris", "Mexico"], ["Rome", "Peru", "Mexico"], ["Rome", "Philippines", "Mexico"], ["Rome", "Pollution", "Mexico"], ["Rome", "World_War_I", "Mexico"]]

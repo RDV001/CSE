@@ -1,0 +1,1 @@
+[["Hyena", "Animal", "Bird", "Goose", "Shelduck"], ["Hyena", "Mammal", "Bird", "Goose", "Shelduck"], ["Hyena", "Animal", "Bird", "Swan", "Shelduck"], ["Hyena", "Mammal", "Bird", "Swan", "Shelduck"], ["Hyena", "Europe", "Greek_mythology", "Swan", "Shelduck"]]

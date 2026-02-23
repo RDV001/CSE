@@ -1,0 +1,1 @@
+[["Actor", "Greece", "Kazakhstan", "Aral_Sea"], ["Actor", "Japan", "Technology", "Aral_Sea"], ["Actor", "Middle_Ages", "Technology", "Aral_Sea"], ["Actor", "Television", "Technology", "Aral_Sea"]]

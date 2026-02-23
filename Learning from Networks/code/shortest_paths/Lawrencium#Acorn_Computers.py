@@ -1,0 +1,1 @@
+[["Lawrencium", "Color", "James_Clerk_Maxwell", "Cambridge", "Acorn_Computers"], ["Lawrencium", "Electron", "University_of_Cambridge", "Cambridge", "Acorn_Computers"], ["Lawrencium", "Helium", "Ernest_Rutherford", "Cambridge", "Acorn_Computers"], ["Lawrencium", "Rutherfordium", "Ernest_Rutherford", "Cambridge", "Acorn_Computers"]]

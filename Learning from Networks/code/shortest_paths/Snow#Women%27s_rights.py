@@ -1,0 +1,1 @@
+[["Snow", "Argentina", "Human_rights", "Women%27s_rights"], ["Snow", "Bolivia", "Human_rights", "Women%27s_rights"], ["Snow", "Argentina", "Poverty", "Women%27s_rights"], ["Snow", "United_States", "Multiculturalism", "Women%27s_rights"]]

@@ -1,0 +1,1 @@
+[["David_Beckham", "England", "19th_century", "The_Origin_of_Species"], ["David_Beckham", "Hebrew_language", "19th_century", "The_Origin_of_Species"], ["David_Beckham", "Manchester", "19th_century", "The_Origin_of_Species"], ["David_Beckham", "England", "Charles_Darwin", "The_Origin_of_Species"], ["David_Beckham", "Israel", "Genetics", "The_Origin_of_Species"]]

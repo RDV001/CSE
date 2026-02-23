@@ -1,0 +1,1 @@
+[["Pyramid", "Paris", "Adolf_Hitler"]]

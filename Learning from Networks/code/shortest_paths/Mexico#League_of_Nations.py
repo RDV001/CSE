@@ -1,0 +1,1 @@
+[["Mexico", "Canada", "League_of_Nations"], ["Mexico", "Japan", "League_of_Nations"]]

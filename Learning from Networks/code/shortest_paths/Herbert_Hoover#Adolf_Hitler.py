@@ -1,0 +1,1 @@
+[["Herbert_Hoover", "Franklin_D._Roosevelt", "Adolf_Hitler"], ["Herbert_Hoover", "Germany", "Adolf_Hitler"], ["Herbert_Hoover", "Harry_S._Truman", "Adolf_Hitler"]]

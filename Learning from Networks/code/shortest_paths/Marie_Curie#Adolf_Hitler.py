@@ -1,0 +1,1 @@
+[["Marie_Curie", "Jew", "Adolf_Hitler"], ["Marie_Curie", "Paris", "Adolf_Hitler"], ["Marie_Curie", "Warsaw", "Adolf_Hitler"]]

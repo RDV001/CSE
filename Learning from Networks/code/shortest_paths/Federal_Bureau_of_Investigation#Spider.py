@@ -1,0 +1,1 @@
+[["Federal_Bureau_of_Investigation", "DNA", "Animal", "Spider"], ["Federal_Bureau_of_Investigation", "Theodore_Roosevelt", "Insect", "Spider"]]

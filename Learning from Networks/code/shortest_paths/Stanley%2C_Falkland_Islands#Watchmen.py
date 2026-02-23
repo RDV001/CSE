@@ -1,0 +1,1 @@
+[["Stanley%2C_Falkland_Islands", "Argentina", "Egypt", "Ramesses_II", "Watchmen"], ["Stanley%2C_Falkland_Islands", "Time_zone", "Egypt", "Ramesses_II", "Watchmen"], ["Stanley%2C_Falkland_Islands", "Panama_Canal", "Suez_Canal", "Ramesses_II", "Watchmen"], ["Stanley%2C_Falkland_Islands", "World_War_I", "Suez_Canal", "Ramesses_II", "Watchmen"]]

@@ -1,0 +1,1 @@
+[["Pinworm", "Animal", "Carbon_dioxide", "Volcano", "Koryaksky"], ["Pinworm", "Animal", "Energy", "Volcano", "Koryaksky"]]

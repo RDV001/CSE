@@ -1,0 +1,1 @@
+[["Trinidad_and_Tobago", "British_monarchy", "Prime_Minister_of_the_United_Kingdom"], ["Trinidad_and_Tobago", "World_War_II", "Prime_Minister_of_the_United_Kingdom"]]

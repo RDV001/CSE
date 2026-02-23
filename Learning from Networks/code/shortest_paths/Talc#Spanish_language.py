@@ -1,0 +1,1 @@
+[["Talc", "Arabic_language", "Spanish_language"], ["Talc", "Brazil", "Spanish_language"], ["Talc", "United_States", "Spanish_language"]]

@@ -1,0 +1,1 @@
+[["George_V_of_the_United_Kingdom", "British_monarchy", "Hundred_Years%27_War"], ["George_V_of_the_United_Kingdom", "Paris", "Hundred_Years%27_War"]]

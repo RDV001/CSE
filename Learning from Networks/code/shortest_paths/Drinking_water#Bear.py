@@ -1,0 +1,1 @@
+[["Drinking_water", "Africa", "Carnivore", "Bear"], ["Drinking_water", "Australia", "Olympic_Games", "Bear"], ["Drinking_water", "Peru", "Olympic_Games", "Bear"], ["Drinking_water", "United_Kingdom", "Olympic_Games", "Bear"], ["Drinking_water", "United_States", "Olympic_Games", "Bear"], ["Drinking_water", "Mammal", "Oligocene", "Bear"]]

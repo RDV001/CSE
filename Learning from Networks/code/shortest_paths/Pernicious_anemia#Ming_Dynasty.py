@@ -1,0 +1,1 @@
+[["Pernicious_anemia", "ABO_blood_group_system", "Japan", "Ming_Dynasty"]]

@@ -1,0 +1,1 @@
+[["Venezuela", "Cholera", "Water", "Acetone"], ["Venezuela", "Cocoa", "Water", "Acetone"], ["Venezuela", "Coffee", "Water", "Acetone"], ["Venezuela", "Drinking_water", "Water", "Acetone"], ["Venezuela", "Cocoa", "Alcohol", "Acetone"], ["Venezuela", "Coffee", "Diabetes_mellitus", "Acetone"]]

@@ -1,0 +1,1 @@
+[["Argyle_diamond_mine", "Australia", "Germany", "Ludwig_van_Beethoven"], ["Argyle_diamond_mine", "Australia", "Music", "Ludwig_van_Beethoven"], ["Argyle_diamond_mine", "Australia", "Opera", "Ludwig_van_Beethoven"], ["Argyle_diamond_mine", "Gold", "19th_century", "Ludwig_van_Beethoven"], ["Argyle_diamond_mine", "Zimbabwe", "19th_century", "Ludwig_van_Beethoven"]]

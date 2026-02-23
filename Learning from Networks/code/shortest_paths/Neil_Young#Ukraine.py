@@ -1,0 +1,1 @@
+[["Neil_Young", "Bob_Dylan", "Ukraine"], ["Neil_Young", "Ice_hockey", "Ukraine"], ["Neil_Young", "Iraq_War", "Ukraine"], ["Neil_Young", "Mexico", "Ukraine"]]

@@ -1,0 +1,1 @@
+[["Adenosine_triphosphate", "Sulfur", "New_Zealand", "Parrot", "African_Grey_Parrot"]]

@@ -1,0 +1,1 @@
+[["Zinc_chloride", "Ethanol", "Canada", "Mississippi_River"], ["Zinc_chloride", "Water", "Canada", "Mississippi_River"], ["Zinc_chloride", "Zinc", "Canada", "Mississippi_River"], ["Zinc_chloride", "Water", "Colorado_River", "Mississippi_River"], ["Zinc_chloride", "Water", "River", "Mississippi_River"], ["Zinc_chloride", "Water", "United_States", "Mississippi_River"]]

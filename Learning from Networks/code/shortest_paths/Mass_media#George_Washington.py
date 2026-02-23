@@ -1,0 +1,1 @@
+[["Mass_media", "United_States", "George_Washington"]]

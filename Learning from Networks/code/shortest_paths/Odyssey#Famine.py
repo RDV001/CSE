@@ -1,0 +1,1 @@
+[["Odyssey", "Athena", "Africa", "Famine"], ["Odyssey", "Egypt", "Africa", "Famine"], ["Odyssey", "Greece", "Africa", "Famine"], ["Odyssey", "Egypt", "French_Revolution", "Famine"], ["Odyssey", "Greece", "Armenia", "Famine"], ["Odyssey", "Greece", "Russia", "Famine"]]

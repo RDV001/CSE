@@ -1,0 +1,1 @@
+[["Shoshone_National_Forest", "Granite", "Great_Pyramid_of_Giza"]]

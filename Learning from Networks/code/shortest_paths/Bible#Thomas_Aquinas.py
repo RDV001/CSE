@@ -1,0 +1,1 @@
+[["Bible", "Ancient_history", "Thomas_Aquinas"], ["Bible", "Roman_Catholic_Church", "Thomas_Aquinas"]]

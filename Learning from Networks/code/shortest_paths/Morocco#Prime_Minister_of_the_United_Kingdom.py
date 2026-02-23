@@ -1,0 +1,1 @@
+[["Morocco", "United_Kingdom", "Prime_Minister_of_the_United_Kingdom"], ["Morocco", "World_War_II", "Prime_Minister_of_the_United_Kingdom"]]

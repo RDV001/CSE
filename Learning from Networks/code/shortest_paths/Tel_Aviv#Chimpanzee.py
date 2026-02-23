@@ -1,0 +1,1 @@
+[["Tel_Aviv", "Archaeology", "Evolution", "Chimpanzee"], ["Tel_Aviv", "German_language", "Language", "Chimpanzee"], ["Tel_Aviv", "Mesopotamia", "Language", "Chimpanzee"], ["Tel_Aviv", "Mesopotamia", "War", "Chimpanzee"]]

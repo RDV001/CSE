@@ -1,0 +1,1 @@
+[["Nintendo_Entertainment_System", "Asia", "Middle_East"], ["Nintendo_Entertainment_System", "Brazil", "Middle_East"], ["Nintendo_Entertainment_System", "Europe", "Middle_East"], ["Nintendo_Entertainment_System", "United_States", "Middle_East"]]

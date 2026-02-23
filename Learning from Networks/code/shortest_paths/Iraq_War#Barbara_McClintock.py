@@ -1,0 +1,1 @@
+[["Iraq_War", "Hungary", "John_von_Neumann", "Barbara_McClintock"], ["Iraq_War", "Iceland", "Genetics", "Barbara_McClintock"], ["Iraq_War", "United_States", "Maize", "Barbara_McClintock"], ["Iraq_War", "Wheat", "Maize", "Barbara_McClintock"]]

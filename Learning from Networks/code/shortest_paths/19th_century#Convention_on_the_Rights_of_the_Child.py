@@ -1,0 +1,1 @@
+[["19th_century", "Bolivia", "Human_rights", "Convention_on_the_Rights_of_the_Child"], ["19th_century", "Costa_Rica", "Human_rights", "Convention_on_the_Rights_of_the_Child"], ["19th_century", "Russia", "Human_rights", "Convention_on_the_Rights_of_the_Child"], ["19th_century", "Scramble_for_Africa", "Human_rights", "Convention_on_the_Rights_of_the_Child"]]

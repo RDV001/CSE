@@ -1,0 +1,1 @@
+[["Celtic_mythology", "Lyon", "Paris", "Auguste_Rodin"], ["Celtic_mythology", "Middle_Ages", "Sculpture", "Auguste_Rodin"], ["Celtic_mythology", "Mythology", "Psychology", "Auguste_Rodin"], ["Celtic_mythology", "Religion", "Human", "Auguste_Rodin"]]

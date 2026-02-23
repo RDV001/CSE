@@ -1,0 +1,1 @@
+[["Franks", "Charlemagne", "Ethics", "Stem_cell"], ["Franks", "Germany", "George_W._Bush", "Stem_cell"]]

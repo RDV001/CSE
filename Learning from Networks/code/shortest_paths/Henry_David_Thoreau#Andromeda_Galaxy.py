@@ -1,0 +1,1 @@
+[["Henry_David_Thoreau", "Philosophy", "Astronomy", "Andromeda_Galaxy"]]

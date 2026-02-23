@@ -1,0 +1,1 @@
+[["11th_century", "17th_century", "Taiwan"], ["11th_century", "19th_century", "Taiwan"], ["11th_century", "China", "Taiwan"]]

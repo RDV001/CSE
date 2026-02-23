@@ -1,0 +1,1 @@
+[["Tripoli", "Africa", "Cotton"], ["Tripoli", "Arabic_language", "Cotton"], ["Tripoli", "Clothing", "Cotton"]]

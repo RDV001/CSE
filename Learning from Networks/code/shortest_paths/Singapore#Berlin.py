@@ -1,0 +1,1 @@
+[["Singapore", "Europe", "Berlin"], ["Singapore", "Global_city", "Berlin"], ["Singapore", "London", "Berlin"], ["Singapore", "Tokyo", "Berlin"], ["Singapore", "United_Nations", "Berlin"]]

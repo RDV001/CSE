@@ -1,0 +1,1 @@
+[["Osama_bin_Laden", "Africa", "Belgium"], ["Osama_bin_Laden", "Condoleezza_Rice", "Belgium"], ["Osama_bin_Laden", "Europe", "Belgium"], ["Osama_bin_Laden", "French_language", "Belgium"], ["Osama_bin_Laden", "Saudi_Arabia", "Belgium"]]

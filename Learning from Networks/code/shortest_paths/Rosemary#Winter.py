@@ -1,0 +1,1 @@
+[["Rosemary", "Flower", "Maize", "Winter"], ["Rosemary", "Plant", "Maize", "Winter"], ["Rosemary", "Garden", "England", "Winter"], ["Rosemary", "William_Shakespeare", "England", "Winter"], ["Rosemary", "Garden", "Season", "Winter"], ["Rosemary", "Mediterranean_Sea", "Gaza_Strip", "Winter"], ["Rosemary", "Plant", "Tea", "Winter"], ["Rosemary", "Plant", "Temperate", "Winter"]]

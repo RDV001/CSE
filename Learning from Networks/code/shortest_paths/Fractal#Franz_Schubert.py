@@ -1,0 +1,1 @@
+[["Fractal", "Art", "Romanticism", "Franz_Schubert"], ["Fractal", "Georg_Cantor", "Austria", "Franz_Schubert"], ["Fractal", "Snow", "Austria", "Franz_Schubert"], ["Fractal", "Music", "Johann_Wolfgang_Goethe", "Franz_Schubert"]]

@@ -1,0 +1,1 @@
+[["The_Temptations", "Detroit%2C_Michigan", "Formula_One", "Monaco_Grand_Prix"], ["The_Temptations", "United_Kingdom", "Formula_One", "Monaco_Grand_Prix"]]

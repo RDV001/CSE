@@ -1,0 +1,1 @@
+[["Henry_Fonda", "Canada", "Petroleum", "North_Sea_oil"], ["Henry_Fonda", "Los_Angeles%2C_California", "Petroleum", "North_Sea_oil"], ["Henry_Fonda", "Netherlands", "Petroleum", "North_Sea_oil"], ["Henry_Fonda", "United_States", "Petroleum", "North_Sea_oil"], ["Henry_Fonda", "Netherlands", "Scotland", "North_Sea_oil"]]

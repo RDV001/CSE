@@ -1,0 +1,1 @@
+[["Abstract_art", "Art", "Sultan", "Malwa_%28Madhya_Pradesh%29", "Geography_of_India"], ["Abstract_art", "Calligraphy", "Akbar", "Malwa_%28Madhya_Pradesh%29", "Geography_of_India"]]

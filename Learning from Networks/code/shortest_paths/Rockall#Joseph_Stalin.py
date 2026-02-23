@@ -1,0 +1,1 @@
+[["Rockall", "Soviet_Union", "Joseph_Stalin"]]

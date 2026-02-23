@@ -1,0 +1,1 @@
+[["47_Ursae_Majoris_c", "Sun", "Vitamin_D", "Egg_%28food%29"]]

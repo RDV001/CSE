@@ -1,0 +1,1 @@
+[["Minneapolis%2C_Minnesota", "France", "North_Sea"], ["Minneapolis%2C_Minnesota", "Germany", "North_Sea"], ["Minneapolis%2C_Minnesota", "Norway", "North_Sea"], ["Minneapolis%2C_Minnesota", "Russia", "North_Sea"]]

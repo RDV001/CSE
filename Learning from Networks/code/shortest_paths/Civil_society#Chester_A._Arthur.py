@@ -1,0 +1,1 @@
+[["Civil_society", "Election", "President_of_the_United_States", "Chester_A._Arthur"]]

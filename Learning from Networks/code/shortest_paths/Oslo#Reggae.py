@@ -1,0 +1,1 @@
+[["Oslo", "Agriculture", "Africa", "Reggae"], ["Oslo", "China", "Africa", "Reggae"], ["Oslo", "Stockholm", "Africa", "Reggae"], ["Oslo", "London", "Eric_Clapton", "Reggae"], ["Oslo", "London", "The_Rolling_Stones", "Reggae"], ["Oslo", "Parliamentary_system", "Grenada", "Reggae"]]

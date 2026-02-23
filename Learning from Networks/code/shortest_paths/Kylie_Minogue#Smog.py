@@ -1,0 +1,1 @@
+[["Kylie_Minogue", "Los_Angeles%2C_California", "Smog"]]

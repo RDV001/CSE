@@ -1,0 +1,1 @@
+[["Color", "Human", "Sigmund_Freud", "Library_of_Congress"], ["Color", "Isaac_Newton", "Gottfried_Leibniz", "Library_of_Congress"]]

@@ -1,0 +1,1 @@
+[["DNA", "Animal", "Carbon_dioxide"], ["DNA", "Bacteria", "Carbon_dioxide"], ["DNA", "Organism", "Carbon_dioxide"], ["DNA", "Plant", "Carbon_dioxide"], ["DNA", "Sugar", "Carbon_dioxide"]]

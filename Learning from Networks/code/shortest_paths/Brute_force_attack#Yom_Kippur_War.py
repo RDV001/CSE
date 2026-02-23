@@ -1,0 +1,1 @@
+[["Brute_force_attack", "English_language", "Israel", "Yom_Kippur_War"], ["Brute_force_attack", "United_States", "Cold_War", "Yom_Kippur_War"]]

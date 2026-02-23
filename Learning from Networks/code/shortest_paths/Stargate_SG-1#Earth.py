@@ -1,0 +1,1 @@
+[["Stargate_SG-1", "South_Africa", "Earth"], ["Stargate_SG-1", "Star_Trek", "Earth"], ["Stargate_SG-1", "The_Simpsons", "Earth"], ["Stargate_SG-1", "United_Kingdom", "Earth"]]

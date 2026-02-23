@@ -1,0 +1,1 @@
+[["Iron", "Russia", "Human_rights"]]

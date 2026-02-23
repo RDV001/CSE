@@ -1,0 +1,1 @@
+[["Benjamin_Harrison", "United_Kingdom", "Pound_sterling"]]

@@ -1,0 +1,1 @@
+[["Niels_Bohr", "19th_century", "Politics", "Voting"], ["Niels_Bohr", "London", "Politics", "Voting"], ["Niels_Bohr", "Philosophy", "Politics", "Voting"], ["Niels_Bohr", "Philosophy", "Political_philosophy", "Voting"], ["Niels_Bohr", "United_States", "Martin_Luther_King%2C_Jr.", "Voting"], ["Niels_Bohr", "World_War_II", "Election", "Voting"]]

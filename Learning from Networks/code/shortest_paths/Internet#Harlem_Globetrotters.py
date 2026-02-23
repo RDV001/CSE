@@ -1,0 +1,1 @@
+[["Internet", "Brazil", "Basketball", "Harlem_Globetrotters"], ["Internet", "Chicago", "Basketball", "Harlem_Globetrotters"], ["Internet", "People%27s_Republic_of_China", "Basketball", "Harlem_Globetrotters"], ["Internet", "Toronto", "Basketball", "Harlem_Globetrotters"], ["Internet", "United_States", "Basketball", "Harlem_Globetrotters"]]

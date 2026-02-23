@@ -1,0 +1,1 @@
+[["Cold_War", "Capitalism", "Guild"]]

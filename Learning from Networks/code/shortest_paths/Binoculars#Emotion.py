@@ -1,0 +1,1 @@
+[["Binoculars", "Milky_Way", "Human", "Emotion"], ["Binoculars", "Symmetry", "Art", "Emotion"]]

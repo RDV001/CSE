@@ -1,0 +1,1 @@
+[["Clock", "15th_century", "Baghdad", "Tehran"], ["Clock", "15th_century", "Beijing", "Tehran"], ["Clock", "London", "Beijing", "Tehran"], ["Clock", "20th_century", "Asia", "Tehran"], ["Clock", "Cape_Town", "Asia", "Tehran"], ["Clock", "20th_century", "United_Nations", "Tehran"], ["Clock", "England", "Manchester", "Tehran"], ["Clock", "England", "Middle_East", "Tehran"]]

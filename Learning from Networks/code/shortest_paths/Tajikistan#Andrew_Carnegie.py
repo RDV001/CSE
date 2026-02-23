@@ -1,0 +1,1 @@
+[["Tajikistan", "Turkmenistan", "Corporation", "Andrew_Carnegie"], ["Tajikistan", "United_States", "Corporation", "Andrew_Carnegie"], ["Tajikistan", "United_States", "Dallas%2C_Texas", "Andrew_Carnegie"]]

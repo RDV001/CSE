@@ -1,0 +1,1 @@
+[["Kolkata", "Rabindranath_Tagore", "Astronomy", "Gas_giant"]]

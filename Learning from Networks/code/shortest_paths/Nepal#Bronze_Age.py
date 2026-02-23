@@ -1,0 +1,1 @@
+[["Nepal", "Cattle", "Bronze_Age"], ["Nepal", "Currency", "Bronze_Age"]]

@@ -1,0 +1,1 @@
+[["Sirius", "Astrology", "Greece"], ["Sirius", "Middle_Ages", "Greece"]]

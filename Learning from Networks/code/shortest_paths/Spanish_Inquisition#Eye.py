@@ -1,0 +1,1 @@
+[["Spanish_Inquisition", "France", "AIDS", "Eye"], ["Spanish_Inquisition", "Germany", "Medicine", "Eye"], ["Spanish_Inquisition", "Islam", "Medicine", "Eye"], ["Spanish_Inquisition", "Middle_Ages", "Glasses", "Eye"], ["Spanish_Inquisition", "The_Brothers_Karamazov", "Sigmund_Freud", "Eye"]]

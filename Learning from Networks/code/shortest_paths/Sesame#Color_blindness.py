@@ -1,0 +1,1 @@
+[["Sesame", "Calcium", "Color", "Color_blindness"], ["Sesame", "Copper", "Color", "Color_blindness"], ["Sesame", "Manganese", "Color", "Color_blindness"]]

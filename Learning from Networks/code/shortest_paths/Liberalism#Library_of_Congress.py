@@ -1,0 +1,1 @@
+[["Liberalism", "Library", "Library_of_Congress"], ["Liberalism", "Thomas_Jefferson", "Library_of_Congress"]]

@@ -1,0 +1,1 @@
+[["Andrew_Robinson", "John_F._Kennedy", "Turkey", "Tigris"], ["Andrew_Robinson", "United_States", "Iraq", "Tigris"], ["Andrew_Robinson", "World_War_II", "Iraq", "Tigris"], ["Andrew_Robinson", "United_States", "List_of_rivers_by_length", "Tigris"], ["Andrew_Robinson", "United_States", "Middle_East", "Tigris"]]

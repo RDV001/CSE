@@ -1,0 +1,1 @@
+[["Superman", "Computer_and_video_games", "Advertising", "IPod"], ["Superman", "Newspaper", "Advertising", "IPod"], ["Superman", "Television", "Advertising", "IPod"], ["Superman", "United_States", "Advertising", "IPod"], ["Superman", "Computer_and_video_games", "Doom", "IPod"], ["Superman", "Computer_and_video_games", "Pac-Man", "IPod"]]

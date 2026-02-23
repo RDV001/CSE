@@ -1,0 +1,1 @@
+[["Joan_of_Arc", "Paris", "Geneva", "Watch"], ["Joan_of_Arc", "Voltaire", "Geneva", "Watch"], ["Joan_of_Arc", "Roman_Catholic_Church", "16th_century", "Watch"]]

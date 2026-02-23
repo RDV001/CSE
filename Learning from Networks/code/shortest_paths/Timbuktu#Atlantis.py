@@ -1,0 +1,1 @@
+[["Timbuktu", "Asia", "Deluge_%28mythology%29", "Atlantis"], ["Timbuktu", "French_language", "Equatorial_Guinea", "Atlantis"], ["Timbuktu", "Jew", "Nazism", "Atlantis"]]

@@ -1,0 +1,1 @@
+[["Doom", "United_States", "Abraham_Lincoln", "Frederick_Douglass"], ["Doom", "United_States", "American_Civil_War", "Frederick_Douglass"], ["Doom", "United_States", "History_of_slavery", "Frederick_Douglass"]]

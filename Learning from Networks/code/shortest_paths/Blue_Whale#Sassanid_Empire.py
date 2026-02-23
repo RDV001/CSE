@@ -1,0 +1,1 @@
+[["Blue_Whale", "Japan", "Buddhism", "Sassanid_Empire"], ["Blue_Whale", "Sri_Lanka", "Buddhism", "Sassanid_Empire"], ["Blue_Whale", "United_States", "Buddhism", "Sassanid_Empire"], ["Blue_Whale", "Latin", "Byzantine_Empire", "Sassanid_Empire"], ["Blue_Whale", "World_War_II", "Israel", "Sassanid_Empire"]]

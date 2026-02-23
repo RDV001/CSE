@@ -1,0 +1,1 @@
+[["Mercantilism", "Germany", "Internet", "Linux"], ["Mercantilism", "Government", "Anarchism", "Linux"]]

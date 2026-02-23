@@ -1,0 +1,1 @@
+[["Malaspina_Glacier", "North_America", "Barbados", "Literacy"], ["Malaspina_Glacier", "North_America", "El_Salvador", "Literacy"], ["Malaspina_Glacier", "North_America", "Guadeloupe", "Literacy"], ["Malaspina_Glacier", "North_America", "Mexico", "Literacy"], ["Malaspina_Glacier", "North_America", "United_Nations", "Literacy"]]

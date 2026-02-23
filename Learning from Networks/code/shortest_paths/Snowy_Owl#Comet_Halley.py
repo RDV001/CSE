@@ -1,0 +1,1 @@
+[["Snowy_Owl", "Russia", "Anno_Domini", "Comet_Halley"]]

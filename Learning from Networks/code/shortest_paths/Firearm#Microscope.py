@@ -1,0 +1,1 @@
+[["Firearm", "China", "Biology", "Microscope"], ["Firearm", "Renaissance", "Biology", "Microscope"], ["Firearm", "Leonardo_da_Vinci", "Metallurgy", "Microscope"], ["Firearm", "United_States", "Antarctica", "Microscope"], ["Firearm", "War", "Birth_control", "Microscope"], ["Firearm", "World_War_I", "Pneumonia", "Microscope"]]

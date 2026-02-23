@@ -1,0 +1,1 @@
+[["History_of_post-Soviet_Russia", "Brazil", "Africa", "Cheetah"], ["History_of_post-Soviet_Russia", "Telecommunication", "Africa", "Cheetah"], ["History_of_post-Soviet_Russia", "World_War_I", "Africa", "Cheetah"]]

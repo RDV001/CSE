@@ -1,0 +1,1 @@
+[["The_Illuminatus%21_Trilogy", "Cold_War", "Nuclear_weapon"], ["The_Illuminatus%21_Trilogy", "People%27s_Republic_of_China", "Nuclear_weapon"], ["The_Illuminatus%21_Trilogy", "United_States", "Nuclear_weapon"]]

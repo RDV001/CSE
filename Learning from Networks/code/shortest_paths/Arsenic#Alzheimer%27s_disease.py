@@ -1,0 +1,1 @@
+[["Arsenic", "20th_century", "Alzheimer%27s_disease"]]

@@ -1,0 +1,1 @@
+[["Ernest_Hemingway", "Diabetes_mellitus", "Protein", "Potassium"], ["Ernest_Hemingway", "Fishing", "Beer", "Potassium"], ["Ernest_Hemingway", "Fishing", "Fertilizer", "Potassium"], ["Ernest_Hemingway", "Nature", "Energy", "Potassium"], ["Ernest_Hemingway", "United_States", "Moon", "Potassium"]]

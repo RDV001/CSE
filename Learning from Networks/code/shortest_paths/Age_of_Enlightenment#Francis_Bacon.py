@@ -1,0 +1,1 @@
+[["Age_of_Enlightenment", "Baruch_Spinoza", "Francis_Bacon"], ["Age_of_Enlightenment", "Capitalism", "Francis_Bacon"]]

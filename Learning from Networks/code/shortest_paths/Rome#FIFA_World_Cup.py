@@ -1,0 +1,1 @@
+[["Rome", "Football_%28soccer%29", "FIFA_World_Cup"], ["Rome", "Paris", "FIFA_World_Cup"], ["Rome", "Scotland", "FIFA_World_Cup"], ["Rome", "Tourism", "FIFA_World_Cup"]]

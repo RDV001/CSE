@@ -1,0 +1,1 @@
+[["Zulu", "AK-47", "Finland", "Arctic_Circle"], ["Zulu", "Cape_Town", "Season", "Arctic_Circle"], ["Zulu", "South_Africa", "Earth", "Arctic_Circle"], ["Zulu", "United_Kingdom", "Earth", "Arctic_Circle"], ["Zulu", "United_Kingdom", "Arctic_Monkeys", "Arctic_Circle"]]

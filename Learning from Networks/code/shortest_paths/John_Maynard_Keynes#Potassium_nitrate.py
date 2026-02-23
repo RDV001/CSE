@@ -1,0 +1,1 @@
+[["John_Maynard_Keynes", "Gold", "Alchemy", "Potassium_nitrate"], ["John_Maynard_Keynes", "Isaac_Newton", "Alchemy", "Potassium_nitrate"], ["John_Maynard_Keynes", "Gold", "Sulfur", "Potassium_nitrate"], ["John_Maynard_Keynes", "Thomas_Malthus", "British_East_India_Company", "Potassium_nitrate"]]

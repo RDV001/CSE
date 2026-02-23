@@ -1,0 +1,1 @@
+[["Barack_Obama", "East_Africa", "19th_century"], ["Barack_Obama", "Kenya", "19th_century"], ["Barack_Obama", "Terrorism", "19th_century"]]

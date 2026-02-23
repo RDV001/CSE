@@ -1,0 +1,1 @@
+[["Swastika", "Africa", "Rice"], ["Swastika", "India", "Rice"], ["Swastika", "Japan", "Rice"], ["Swastika", "Sri_Lanka", "Rice"], ["Swastika", "United_States", "Rice"], ["Swastika", "Vietnam", "Rice"]]

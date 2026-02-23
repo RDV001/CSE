@@ -1,0 +1,1 @@
+[["Coffee", "Ethiopia", "Drought", "Hydrology", "Soil_moisture"], ["Coffee", "Water", "Drought", "Hydrology", "Soil_moisture"], ["Coffee", "Yemen", "Drought", "Hydrology", "Soil_moisture"], ["Coffee", "Fertilizer", "Sulfur", "Hydrology", "Soil_moisture"], ["Coffee", "Water", "River", "Hydrology", "Soil_moisture"]]

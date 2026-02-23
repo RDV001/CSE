@@ -1,0 +1,1 @@
+[["Sickle-cell_disease", "Africa", "Earth", "Apollo_8"], ["Sickle-cell_disease", "Sub-Saharan_Africa", "Earth", "Apollo_8"], ["Sickle-cell_disease", "United_States", "Apollo_11", "Apollo_8"], ["Sickle-cell_disease", "United_States", "Moon", "Apollo_8"], ["Sickle-cell_disease", "United_States", "Neil_Armstrong", "Apollo_8"]]

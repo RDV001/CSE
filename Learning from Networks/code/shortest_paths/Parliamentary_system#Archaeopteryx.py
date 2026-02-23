@@ -1,0 +1,1 @@
+[["Parliamentary_system", "Germany", "Berlin", "Archaeopteryx"], ["Parliamentary_system", "Moldova", "Berlin", "Archaeopteryx"], ["Parliamentary_system", "Weimar_Republic", "Berlin", "Archaeopteryx"], ["Parliamentary_system", "Papua_New_Guinea", "Feather", "Archaeopteryx"]]

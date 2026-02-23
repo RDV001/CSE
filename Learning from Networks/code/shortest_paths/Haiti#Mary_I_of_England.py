@@ -1,0 +1,1 @@
+[["Haiti", "Europe", "Anglicanism", "Mary_I_of_England"], ["Haiti", "List_of_countries_by_system_of_government", "Elizabeth_II_of_the_United_Kingdom", "Mary_I_of_England"], ["Haiti", "Mestizo", "16th_century", "Mary_I_of_England"], ["Haiti", "Spain", "16th_century", "Mary_I_of_England"], ["Haiti", "Spain", "Charles_V%2C_Holy_Roman_Emperor", "Mary_I_of_England"]]

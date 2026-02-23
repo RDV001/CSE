@@ -1,0 +1,1 @@
+[["AIDS", "Germany", "Adolf_Hitler"], ["AIDS", "Italy", "Adolf_Hitler"]]

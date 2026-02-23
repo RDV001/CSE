@@ -1,0 +1,1 @@
+[["Hampshire", "Agriculture", "River", "Meander", "Lake_Powell"], ["Hampshire", "River_Thames", "River", "Meander", "Lake_Powell"], ["Hampshire", "Weymouth", "Landform", "Meander", "Lake_Powell"]]

@@ -1,0 +1,1 @@
+[["Adenosine_triphosphate", "Carbon_dioxide", "Water"], ["Adenosine_triphosphate", "Energy", "Water"], ["Adenosine_triphosphate", "Oxygen", "Water"], ["Adenosine_triphosphate", "Photosynthesis", "Water"]]

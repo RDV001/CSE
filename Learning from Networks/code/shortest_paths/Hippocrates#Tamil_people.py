@@ -1,0 +1,1 @@
+[["Hippocrates", "English_language", "Malaysia", "Tamil_people"], ["Hippocrates", "English_language", "Singapore", "Tamil_people"], ["Hippocrates", "English_language", "Sri_Lanka", "Tamil_people"], ["Hippocrates", "France", "Indian_Ocean", "Tamil_people"], ["Hippocrates", "France", "New_Caledonia", "Tamil_people"]]

@@ -1,0 +1,1 @@
+[["Lake_Superior", "Gold", "Argentina", "Cormorant"], ["Lake_Superior", "Silver", "Argentina", "Cormorant"], ["Lake_Superior", "South_America", "Argentina", "Cormorant"], ["Lake_Superior", "Tourism", "Argentina", "Cormorant"]]

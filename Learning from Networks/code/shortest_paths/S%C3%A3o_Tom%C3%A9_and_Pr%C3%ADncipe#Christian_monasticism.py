@@ -1,0 +1,1 @@
+[["S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe", "Portugal", "Christian_monasticism"]]

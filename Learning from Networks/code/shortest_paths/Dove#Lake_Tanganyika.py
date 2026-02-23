@@ -1,0 +1,1 @@
+[["Dove", "Asia", "Africa", "Lake_Tanganyika"], ["Dove", "Crow", "Africa", "Lake_Tanganyika"], ["Dove", "Tuberculosis", "Africa", "Lake_Tanganyika"], ["Dove", "Flamingo", "Tanzania", "Lake_Tanganyika"], ["Dove", "United_States", "Tanzania", "Lake_Tanganyika"], ["Dove", "United_States", "List_of_rivers_by_length", "Lake_Tanganyika"]]

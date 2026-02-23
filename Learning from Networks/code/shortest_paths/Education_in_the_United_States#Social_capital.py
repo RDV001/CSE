@@ -1,0 +1,1 @@
+[["Education_in_the_United_States", "Trade_union", "Guild", "Social_capital"], ["Education_in_the_United_States", "United_States_Bill_of_Rights", "Civil_society", "Social_capital"]]

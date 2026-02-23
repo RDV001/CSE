@@ -1,0 +1,1 @@
+[["Palau", "Currency", "Gold_standard"], ["Palau", "United_States_dollar", "Gold_standard"]]

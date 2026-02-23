@@ -1,0 +1,1 @@
+[["European_Union", "Football_%28soccer%29", "Latin_America"], ["European_Union", "Madrid", "Latin_America"], ["European_Union", "Netherlands_Antilles", "Latin_America"], ["European_Union", "Portugal", "Latin_America"], ["European_Union", "Spanish_language", "Latin_America"], ["European_Union", "United_States", "Latin_America"]]

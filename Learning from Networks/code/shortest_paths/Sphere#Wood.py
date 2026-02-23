@@ -1,0 +1,1 @@
+[["Sphere", "Earth", "Devonian", "Wood"], ["Sphere", "Earth", "Plant", "Wood"], ["Sphere", "Mathematics", "Mesopotamia", "Wood"], ["Sphere", "Trigonometry", "Mesopotamia", "Wood"], ["Sphere", "Physics", "Technology", "Wood"]]

@@ -1,0 +1,1 @@
+[["Diego_Garcia", "Afghanistan", "Morphine", "Eye"], ["Diego_Garcia", "Coconut", "Shark", "Eye"], ["Diego_Garcia", "Earthquake", "Effects_of_nuclear_explosions", "Eye"], ["Diego_Garcia", "United_States", "Medicine", "Eye"]]

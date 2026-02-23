@@ -1,0 +1,1 @@
+[["Ununbium", "Color", "Art", "Mind"], ["Ununbium", "Color", "Human", "Mind"], ["Ununbium", "Germany", "Gottfried_Leibniz", "Mind"], ["Ununbium", "Germany", "Immanuel_Kant", "Mind"], ["Ununbium", "Lead", "Schizophrenia", "Mind"], ["Ununbium", "Russia", "Buddhism", "Mind"], ["Ununbium", "Zinc", "Brain", "Mind"]]

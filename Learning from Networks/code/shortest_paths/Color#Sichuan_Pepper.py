@@ -1,0 +1,1 @@
+[["Color", "Fruit", "Black_pepper", "Sichuan_Pepper"], ["Color", "Fruit", "Olive_oil", "Sichuan_Pepper"]]

@@ -1,0 +1,1 @@
+[["Lisbon", "Paris", "Publishing", "Wikipedia"], ["Lisbon", "United_States", "Publishing", "Wikipedia"], ["Lisbon", "Voltaire", "Encyclop%C3%A6dia_Britannica", "Wikipedia"]]

@@ -1,0 +1,1 @@
+[["Painting", "19th_century", "Alfred_Nobel"]]

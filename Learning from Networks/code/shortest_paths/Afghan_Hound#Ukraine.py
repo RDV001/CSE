@@ -1,0 +1,1 @@
+[["Afghan_Hound", "Europe", "Ukraine"], ["Afghan_Hound", "Russia", "Ukraine"]]

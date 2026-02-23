@@ -1,0 +1,1 @@
+[["Parthenon", "France", "World_War_I", "John_Pershing"], ["Parthenon", "Ottoman_Empire", "World_War_I", "John_Pershing"], ["Parthenon", "Paris", "World_War_I", "John_Pershing"], ["Parthenon", "Persian_Empire", "World_War_I", "John_Pershing"], ["Parthenon", "Rome", "World_War_I", "John_Pershing"], ["Parthenon", "United_Kingdom", "World_War_I", "John_Pershing"]]

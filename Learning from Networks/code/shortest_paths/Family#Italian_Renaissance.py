@@ -1,0 +1,1 @@
+[["Family", "Capitalism", "16th_century", "Italian_Renaissance"], ["Family", "History", "16th_century", "Italian_Renaissance"], ["Family", "Ouagadougou", "Italy", "Italian_Renaissance"], ["Family", "Roman_Empire", "Italy", "Italian_Renaissance"], ["Family", "United_States", "Italy", "Italian_Renaissance"]]

@@ -1,0 +1,1 @@
+[["Amazon_parrot", "Scientific_classification", "Drosophila_melanogaster", "Sodium"], ["Amazon_parrot", "South_America", "Copper", "Sodium"]]

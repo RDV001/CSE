@@ -1,0 +1,1 @@
+[["Minneapolis%2C_Minnesota", "Chile", "Richard_Nixon"], ["Minneapolis%2C_Minnesota", "President_of_the_United_States", "Richard_Nixon"]]

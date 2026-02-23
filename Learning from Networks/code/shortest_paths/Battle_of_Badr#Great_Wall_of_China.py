@@ -1,0 +1,1 @@
+[["Battle_of_Badr", "Islam", "China", "Great_Wall_of_China"], ["Battle_of_Badr", "Religion", "China", "Great_Wall_of_China"], ["Battle_of_Badr", "Yemen", "China", "Great_Wall_of_China"], ["Battle_of_Badr", "Saudi_Arabia", "Mongolia", "Great_Wall_of_China"], ["Battle_of_Badr", "Yemen", "Mongolia", "Great_Wall_of_China"]]

@@ -1,0 +1,1 @@
+[["Dante_Alighieri", "Middle_Ages", "Albigensian_Crusade", "German_Crusade%2C_1096"]]

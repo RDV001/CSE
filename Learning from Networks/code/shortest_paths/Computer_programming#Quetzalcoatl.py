@@ -1,0 +1,1 @@
+[["Computer_programming", "Linux", "Linus_Torvalds", "San_Jose%2C_California", "Quetzalcoatl"]]

@@ -1,0 +1,1 @@
+[["Richard_Stallman", "Emacs", "Microsoft_Windows"], ["Richard_Stallman", "GNU", "Microsoft_Windows"], ["Richard_Stallman", "Linux", "Microsoft_Windows"], ["Richard_Stallman", "Unix", "Microsoft_Windows"]]

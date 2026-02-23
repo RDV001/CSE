@@ -1,0 +1,1 @@
+[["Mount_Baker", "19th_century", "1st_century_BC", "Virgil"], ["Mount_Baker", "Glacier", "Latin", "Virgil"], ["Mount_Baker", "United_States", "Latin", "Virgil"], ["Mount_Baker", "Volcano", "Latin", "Virgil"], ["Mount_Baker", "United_States", "Agriculture", "Virgil"]]

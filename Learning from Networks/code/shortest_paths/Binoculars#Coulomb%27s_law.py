@@ -1,0 +1,1 @@
+[["Binoculars", "Optical_telescope", "Photon", "Coulomb%27s_law"]]

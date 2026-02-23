@@ -1,0 +1,1 @@
+[["Australian_Open", "French_Open_%28tennis%29", "Paris", "Hundred_Years%27_War"], ["Australian_Open", "Sydney", "Paris", "Hundred_Years%27_War"], ["Australian_Open", "Tennis", "Middle_Ages", "Hundred_Years%27_War"]]

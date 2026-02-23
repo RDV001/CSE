@@ -1,0 +1,1 @@
+[["Doha", "BBC", "Doctor_Who", "Card_game"], ["Doha", "Dubai", "Damascus", "Card_game"], ["Doha", "United_Kingdom", "Royal_Navy", "Card_game"]]

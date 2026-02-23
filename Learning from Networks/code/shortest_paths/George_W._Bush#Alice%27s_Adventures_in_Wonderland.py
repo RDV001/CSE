@@ -1,0 +1,1 @@
+[["George_W._Bush", "England", "River_Thames", "Alice%27s_Adventures_in_Wonderland"], ["George_W._Bush", "United_Kingdom", "River_Thames", "Alice%27s_Adventures_in_Wonderland"], ["George_W._Bush", "United_Kingdom", "J._R._R._Tolkien", "Alice%27s_Adventures_in_Wonderland"]]

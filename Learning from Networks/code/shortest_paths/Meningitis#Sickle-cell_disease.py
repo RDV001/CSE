@@ -1,0 +1,1 @@
+[["Meningitis", "Polymerase_chain_reaction", "Genetic_code", "Sickle-cell_disease"], ["Meningitis", "Protein", "Genetic_code", "Sickle-cell_disease"]]

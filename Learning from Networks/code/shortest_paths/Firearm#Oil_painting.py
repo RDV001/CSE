@@ -1,0 +1,1 @@
+[["Firearm", "Renaissance", "Oil_painting"]]

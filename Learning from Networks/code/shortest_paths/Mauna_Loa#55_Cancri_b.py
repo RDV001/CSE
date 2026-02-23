@@ -1,0 +1,1 @@
+[["Mauna_Loa", "Global_warming", "Planet", "55_Cancri", "55_Cancri_b"], ["Mauna_Loa", "Greenhouse_effect", "Planet", "55_Cancri", "55_Cancri_b"], ["Mauna_Loa", "Sun", "Planet", "55_Cancri", "55_Cancri_b"], ["Mauna_Loa", "Volcano", "Planet", "55_Cancri", "55_Cancri_b"]]

@@ -1,0 +1,1 @@
+[["The_Seagull", "19th_century", "J._M._W._Turner", "St_Paul%27s_Cathedral"], ["The_Seagull", "Moscow", "London", "St_Paul%27s_Cathedral"]]

@@ -1,0 +1,1 @@
+[["Ethnic_group", "English_language", "Esperanto", "Charlie_Chaplin"], ["Ethnic_group", "Language", "Esperanto", "Charlie_Chaplin"], ["Ethnic_group", "Nationalism", "Adolf_Hitler", "Charlie_Chaplin"], ["Ethnic_group", "Race", "Adolf_Hitler", "Charlie_Chaplin"]]

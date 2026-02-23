@@ -1,0 +1,1 @@
+[["Waste_management", "Aluminium", "List_of_elements_by_name", "Lawrencium"], ["Waste_management", "Hydrogen", "List_of_elements_by_name", "Lawrencium"], ["Waste_management", "Oxygen", "List_of_elements_by_name", "Lawrencium"], ["Waste_management", "Aluminium", "Periodic_table", "Lawrencium"], ["Waste_management", "Hydrogen", "Periodic_table", "Lawrencium"]]

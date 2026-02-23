@@ -1,0 +1,1 @@
+[["Emirate", "Arabic_language", "Libya", "Rain"], ["Emirate", "Saudi_Arabia", "Libya", "Rain"], ["Emirate", "Arabic_language", "Syria", "Rain"], ["Emirate", "Saudi_Arabia", "Syria", "Rain"], ["Emirate", "Saudi_Arabia", "Desert", "Rain"], ["Emirate", "Saudi_Arabia", "Red_Sea", "Rain"]]

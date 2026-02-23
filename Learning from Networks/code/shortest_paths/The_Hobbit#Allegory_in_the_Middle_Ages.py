@@ -1,0 +1,1 @@
+[["The_Hobbit", "English_language", "Poetry", "Allegory_in_the_Middle_Ages"], ["The_Hobbit", "Esperanto", "Poetry", "Allegory_in_the_Middle_Ages"], ["The_Hobbit", "Novel", "Poetry", "Allegory_in_the_Middle_Ages"], ["The_Hobbit", "J._R._R._Tolkien", "Anglo-Saxon_literature", "Allegory_in_the_Middle_Ages"]]

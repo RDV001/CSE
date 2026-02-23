@@ -1,0 +1,1 @@
+[["Climate_change", "Continent", "People%27s_Republic_of_China", "Shenzhou_6"], ["Climate_change", "Tropical_cyclone", "People%27s_Republic_of_China", "Shenzhou_6"], ["Climate_change", "United_Nations", "People%27s_Republic_of_China", "Shenzhou_6"], ["Climate_change", "United_States", "People%27s_Republic_of_China", "Shenzhou_6"]]

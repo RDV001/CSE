@@ -1,0 +1,1 @@
+[["Potassium_iodide", "Photography", "Aesthetics", "Confucius"], ["Potassium_iodide", "Potassium", "Apricot", "Confucius"]]

@@ -1,0 +1,1 @@
+[["Measurement", "Law", "Thomas_Hobbes", "Calvin_and_Hobbes", "Krazy_Kat"], ["Measurement", "United_States", "Poetry_of_the_United_States", "E._E._Cummings", "Krazy_Kat"]]

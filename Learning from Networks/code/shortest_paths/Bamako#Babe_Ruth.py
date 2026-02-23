@@ -1,0 +1,1 @@
+[["Bamako", "United_States", "Baseball", "Babe_Ruth"], ["Bamako", "United_States", "Boston%2C_Massachusetts", "Babe_Ruth"]]

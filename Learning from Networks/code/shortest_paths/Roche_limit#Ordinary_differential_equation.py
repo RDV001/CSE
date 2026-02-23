@@ -1,0 +1,1 @@
+[["Roche_limit", "Gravitation", "Differential_equation", "Ordinary_differential_equation"], ["Roche_limit", "Sphere", "Differential_equation", "Ordinary_differential_equation"]]

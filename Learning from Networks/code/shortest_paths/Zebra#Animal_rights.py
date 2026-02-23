@@ -1,0 +1,1 @@
+[["Zebra", "Extinction", "Philosophy", "Animal_rights"], ["Zebra", "Horse", "Ostrich", "Animal_rights"]]

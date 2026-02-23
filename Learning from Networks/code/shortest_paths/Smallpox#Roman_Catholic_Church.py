@@ -1,0 +1,1 @@
+[["Smallpox", "Barbados", "Roman_Catholic_Church"], ["Smallpox", "Cuba", "Roman_Catholic_Church"], ["Smallpox", "Henry_VIII_of_England", "Roman_Catholic_Church"], ["Smallpox", "Inca_Empire", "Roman_Catholic_Church"], ["Smallpox", "Italy", "Roman_Catholic_Church"], ["Smallpox", "Latin", "Roman_Catholic_Church"], ["Smallpox", "Philippines", "Roman_Catholic_Church"]]

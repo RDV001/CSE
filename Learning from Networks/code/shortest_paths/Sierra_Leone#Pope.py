@@ -1,0 +1,1 @@
+[["Sierra_Leone", "Africa", "Pope"], ["Sierra_Leone", "Human_rights", "Pope"]]

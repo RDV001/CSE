@@ -1,0 +1,1 @@
+[["Sound", "Bat", "Dolphin", "Ancient_Rome"], ["Sound", "Bat", "Vampire", "Ancient_Rome"], ["Sound", "Music", "Aesthetics", "Ancient_Rome"], ["Sound", "Music", "Art", "Ancient_Rome"], ["Sound", "Music", "Culture", "Ancient_Rome"], ["Sound", "Music", "Religion", "Ancient_Rome"], ["Sound", "Music", "Schizophrenia", "Ancient_Rome"], ["Sound", "Music", "University", "Ancient_Rome"]]

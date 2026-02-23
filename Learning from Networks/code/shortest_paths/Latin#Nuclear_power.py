@@ -1,0 +1,1 @@
+[["Latin", "United_States", "Nuclear_power"]]

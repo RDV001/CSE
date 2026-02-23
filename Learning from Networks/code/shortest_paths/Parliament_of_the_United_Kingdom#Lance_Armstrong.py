@@ -1,0 +1,1 @@
+[["Parliament_of_the_United_Kingdom", "18th_century", "21st_century", "Lance_Armstrong"], ["Parliament_of_the_United_Kingdom", "19th_century", "21st_century", "Lance_Armstrong"], ["Parliament_of_the_United_Kingdom", "20th_century", "21st_century", "Lance_Armstrong"]]

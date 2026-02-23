@@ -1,0 +1,1 @@
+[["Equatorial_Guinea", "List_of_countries_by_system_of_government", "East_Timor"], ["Equatorial_Guinea", "Mozambique", "East_Timor"], ["Equatorial_Guinea", "Portugal", "East_Timor"], ["Equatorial_Guinea", "United_Nations", "East_Timor"]]

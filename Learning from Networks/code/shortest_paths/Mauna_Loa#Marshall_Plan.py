@@ -1,0 +1,1 @@
+[["Mauna_Loa", "Decade_Volcanoes", "Greece", "Marshall_Plan"], ["Mauna_Loa", "Volcano", "Greece", "Marshall_Plan"]]

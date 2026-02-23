@@ -1,0 +1,1 @@
+[["Acid_rain", "People%27s_Republic_of_China", "United_States_dollar", "Demand_Note"]]

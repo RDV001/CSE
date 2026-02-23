@@ -1,0 +1,1 @@
+[["Space_Shuttle_Columbia_disaster", "Israel", "Malaysia", "Parliament_of_Malaysia"], ["Space_Shuttle_Columbia_disaster", "Israel", "Parliamentary_system", "Parliament_of_Malaysia"]]

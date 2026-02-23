@@ -1,0 +1,1 @@
+[["Pyramid", "Earth", "Dinosaur", "Creationism"], ["Pyramid", "Earth", "Evolution", "Creationism"], ["Pyramid", "United_States", "Education_in_the_United_States", "Creationism"], ["Pyramid", "United_States", "George_W._Bush", "Creationism"]]

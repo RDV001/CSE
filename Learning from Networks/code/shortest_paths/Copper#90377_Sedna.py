@@ -1,0 +1,1 @@
+[["Copper", "Iron", "Solar_System", "90377_Sedna"], ["Copper", "Nickel", "Solar_System", "90377_Sedna"], ["Copper", "Silver", "Solar_System", "90377_Sedna"]]

@@ -1,0 +1,1 @@
+[["Photon", "Gravitation", "16th_century", "Spanish_conquest_of_the_Inca_Empire"], ["Photon", "Ren%C3%A9_Descartes", "16th_century", "Spanish_conquest_of_the_Inca_Empire"]]

@@ -1,0 +1,1 @@
+[["Switzerland", "Austria", "Franks"], ["Switzerland", "France", "Franks"], ["Switzerland", "French_Revolution", "Franks"], ["Switzerland", "Germany", "Franks"], ["Switzerland", "Holy_Roman_Empire", "Franks"], ["Switzerland", "Italy", "Franks"], ["Switzerland", "Paris", "Franks"], ["Switzerland", "Rhine", "Franks"]]

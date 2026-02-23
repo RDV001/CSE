@@ -1,0 +1,1 @@
+[["Chemistry", "Bioinformatics", "Agriculture"], ["Chemistry", "Iron", "Agriculture"], ["Chemistry", "Organism", "Agriculture"], ["Chemistry", "Water", "Agriculture"]]

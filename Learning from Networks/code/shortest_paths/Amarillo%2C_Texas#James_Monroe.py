@@ -1,0 +1,1 @@
+[["Amarillo%2C_Texas", "John_Adams", "James_Monroe"], ["Amarillo%2C_Texas", "President_of_the_United_States", "James_Monroe"]]

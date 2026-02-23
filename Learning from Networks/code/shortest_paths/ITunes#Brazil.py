@@ -1,0 +1,1 @@
+[["ITunes", "France", "Brazil"], ["ITunes", "Hip_hop_music", "Brazil"], ["ITunes", "Italy", "Brazil"], ["ITunes", "Portugal", "Brazil"], ["ITunes", "United_States", "Brazil"]]

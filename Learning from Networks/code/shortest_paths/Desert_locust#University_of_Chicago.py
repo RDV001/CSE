@@ -1,0 +1,1 @@
+[["Desert_locust", "Beetle", "Triassic", "University_of_Chicago"], ["Desert_locust", "Mammal", "Triassic", "University_of_Chicago"], ["Desert_locust", "Bible", "Dead_Sea_scrolls", "University_of_Chicago"], ["Desert_locust", "Saudi_Arabia", "Basketball", "University_of_Chicago"]]

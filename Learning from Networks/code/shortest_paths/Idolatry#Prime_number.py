@@ -1,0 +1,1 @@
+[["Idolatry", "Islam", "Mathematics", "Prime_number"]]

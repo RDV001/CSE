@@ -1,0 +1,1 @@
+[["Jesse_Owens", "Propaganda", "Vladimir_Lenin"]]

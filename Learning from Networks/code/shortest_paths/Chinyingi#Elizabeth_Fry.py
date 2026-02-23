@@ -1,0 +1,1 @@
+[["Chinyingi", "AIDS", "United_States", "Religious_Society_of_Friends", "Elizabeth_Fry"], ["Chinyingi", "Copper", "United_States", "Religious_Society_of_Friends", "Elizabeth_Fry"], ["Chinyingi", "Mining", "United_States", "Religious_Society_of_Friends", "Elizabeth_Fry"]]

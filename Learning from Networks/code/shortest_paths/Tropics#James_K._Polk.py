@@ -1,0 +1,1 @@
+[["Tropics", "Argentina", "Bill_Clinton", "James_K._Polk"], ["Tropics", "Chile", "Cuba", "James_K._Polk"], ["Tropics", "Madagascar", "Cuba", "James_K._Polk"]]

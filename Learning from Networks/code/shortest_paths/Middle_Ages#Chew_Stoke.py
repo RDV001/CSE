@@ -1,0 +1,1 @@
+[["Middle_Ages", "Capitalism", "John_Locke", "Chew_Magna", "Chew_Stoke"], ["Middle_Ages", "England", "John_Locke", "Chew_Magna", "Chew_Stoke"]]

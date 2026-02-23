@@ -1,0 +1,1 @@
+[["Battle_of_the_Eastern_Solomons", "United_States", "Steel"]]

@@ -1,0 +1,1 @@
+[["Bromine", "Alcohol", "Islam", "Trinity"], ["Bromine", "Dead_Sea", "Islam", "Trinity"], ["Bromine", "United_States", "Islam", "Trinity"], ["Bromine", "Color", "Isaac_Newton", "Trinity"], ["Bromine", "Dead_Sea", "Allah", "Trinity"], ["Bromine", "United_States", "Bah%C3%A1%27%C3%AD_Faith", "Trinity"], ["Bromine", "United_States", "Trinidad_and_Tobago", "Trinity"]]

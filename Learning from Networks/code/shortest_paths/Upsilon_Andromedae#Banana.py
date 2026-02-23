@@ -1,0 +1,1 @@
+[["Upsilon_Andromedae", "Earth", "Ecuador", "Banana"]]

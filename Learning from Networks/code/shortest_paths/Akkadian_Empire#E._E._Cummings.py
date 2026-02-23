@@ -1,0 +1,1 @@
+[["Akkadian_Empire", "Egypt", "Literature", "E._E._Cummings"]]

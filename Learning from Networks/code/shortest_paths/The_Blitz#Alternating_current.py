@@ -1,0 +1,1 @@
+[["The_Blitz", "Blitzkrieg", "Radio", "Alternating_current"], ["The_Blitz", "London_Underground", "Electricity", "Alternating_current"], ["The_Blitz", "Westminster_Abbey", "William_Thomson%2C_1st_Baron_Kelvin", "Alternating_current"], ["The_Blitz", "York", "Electrical_engineering", "Alternating_current"]]

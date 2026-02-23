@@ -1,0 +1,1 @@
+[["Stratford-upon-Avon", "England", "Henry_VIII_of_England", "Mary_I_of_Scotland"], ["Stratford-upon-Avon", "England", "James_I_of_England", "Mary_I_of_Scotland"], ["Stratford-upon-Avon", "England", "Sheffield", "Mary_I_of_Scotland"]]

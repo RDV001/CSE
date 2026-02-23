@@ -1,0 +1,1 @@
+[["Plate_tectonics", "Australia", "British_Empire", "John_Dee"], ["Plate_tectonics", "Scotland", "British_Empire", "John_Dee"], ["Plate_tectonics", "World_War_II", "British_Empire", "John_Dee"], ["Plate_tectonics", "Francis_Bacon", "Alchemy", "John_Dee"]]

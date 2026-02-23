@@ -1,0 +1,1 @@
+[["Battle_of_Alesia", "France", "World_War_II", "Ho_Chi_Minh_City"], ["Battle_of_Alesia", "Propaganda", "World_War_II", "Ho_Chi_Minh_City"], ["Battle_of_Alesia", "Siege", "World_War_II", "Ho_Chi_Minh_City"], ["Battle_of_Alesia", "Siege", "Vietnam", "Ho_Chi_Minh_City"], ["Battle_of_Alesia", "Siege", "Vietnam_War", "Ho_Chi_Minh_City"]]

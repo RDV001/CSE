@@ -1,0 +1,1 @@
+[["Katana", "Firearm", "China", "Jesus"], ["Katana", "Japan", "China", "Jesus"], ["Katana", "World_War_II", "China", "Jesus"], ["Katana", "Japan", "Anno_Domini", "Jesus"], ["Katana", "Japan", "Christianity", "Jesus"], ["Katana", "Japan", "Confucianism", "Jesus"], ["Katana", "Japan", "George_W._Bush", "Jesus"]]

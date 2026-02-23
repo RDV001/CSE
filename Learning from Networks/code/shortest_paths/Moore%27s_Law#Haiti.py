@@ -1,0 +1,1 @@
+[["Moore%27s_Law", "Atom", "Sugar", "Haiti"], ["Moore%27s_Law", "Election", "United_Nations", "Haiti"], ["Moore%27s_Law", "Election", "United_States", "Haiti"], ["Moore%27s_Law", "Helium", "United_States", "Haiti"], ["Moore%27s_Law", "Nazism", "United_States", "Haiti"], ["Moore%27s_Law", "Nazism", "North_America", "Haiti"], ["Moore%27s_Law", "Technology", "Slavery", "Haiti"]]

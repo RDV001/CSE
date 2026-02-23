@@ -1,0 +1,1 @@
+[["Mao_Zedong", "Soviet_Union", "Latvia", "Amber"], ["Mao_Zedong", "World_War_II", "Latvia", "Amber"], ["Mao_Zedong", "Vladimir_Lenin", "Electricity", "Amber"], ["Mao_Zedong", "World_War_II", "Baltic_Sea", "Amber"]]

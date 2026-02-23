@@ -1,0 +1,1 @@
+[["Jupiter_%28mythology%29", "Greece", "Fascism"]]

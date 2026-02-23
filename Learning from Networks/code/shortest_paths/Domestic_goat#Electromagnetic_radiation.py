@@ -1,0 +1,1 @@
+[["Domestic_goat", "Animal", "Sunlight", "Electromagnetic_radiation"], ["Domestic_goat", "Brain", "Eye", "Electromagnetic_radiation"], ["Domestic_goat", "Iran", "Astronomy", "Electromagnetic_radiation"], ["Domestic_goat", "Milk", "Ultraviolet", "Electromagnetic_radiation"], ["Domestic_goat", "Protein", "Quantum_mechanics", "Electromagnetic_radiation"]]

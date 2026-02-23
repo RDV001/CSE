@@ -1,0 +1,1 @@
+[["Painting", "Nature", "DNA", "Sequence_alignment", "Multiple_sequence_alignment"], ["Painting", "Salvador_Dal%C3%AD", "DNA", "Sequence_alignment", "Multiple_sequence_alignment"]]

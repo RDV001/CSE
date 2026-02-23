@@ -1,0 +1,1 @@
+[["Stephen_Hawking", "United_Kingdom", "The_Rolling_Stones", "Super_Bowl_XL"], ["Stephen_Hawking", "United_States", "Detroit%2C_Michigan", "Super_Bowl_XL"]]

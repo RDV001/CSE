@@ -1,0 +1,1 @@
+[["Epic_of_Gilgamesh", "Babylonia", "Government", "Communication"], ["Epic_of_Gilgamesh", "Mesopotamia", "Information", "Communication"], ["Epic_of_Gilgamesh", "Mesopotamia", "Language", "Communication"], ["Epic_of_Gilgamesh", "Poetry", "Language", "Communication"], ["Epic_of_Gilgamesh", "Poetry", "Literacy", "Communication"]]

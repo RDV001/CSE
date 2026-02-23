@@ -1,0 +1,1 @@
+[["Autumn", "Canada", "John_Cabot"], ["Autumn", "North_America", "John_Cabot"]]

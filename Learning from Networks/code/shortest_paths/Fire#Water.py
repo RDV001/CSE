@@ -1,0 +1,1 @@
+[["Fire", "Animal", "Water"], ["Fire", "Atom", "Water"], ["Fire", "Chlorine", "Water"], ["Fire", "Energy", "Water"], ["Fire", "Fluorine", "Water"], ["Fire", "Halloween", "Water"], ["Fire", "Heat", "Water"], ["Fire", "Hydrogen", "Water"], ["Fire", "Iron", "Water"], ["Fire", "Oxygen", "Water"], ["Fire", "Potassium", "Water"], ["Fire", "Wood", "Water"]]

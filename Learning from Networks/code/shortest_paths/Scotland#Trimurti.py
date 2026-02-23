@@ -1,0 +1,1 @@
+[["Scotland", "Islam", "Trinity", "Trimurti"]]

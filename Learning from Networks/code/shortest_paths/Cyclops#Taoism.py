@@ -1,0 +1,1 @@
+[["Cyclops", "Cyprus", "Asia", "Taoism"], ["Cyclops", "Greek_mythology", "Ancient_history", "Taoism"], ["Cyclops", "Volcano", "Japan", "Taoism"]]

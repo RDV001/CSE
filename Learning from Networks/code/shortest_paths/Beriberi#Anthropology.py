@@ -1,0 +1,1 @@
+[["Beriberi", "19th_century", "Anthropology"], ["Beriberi", "Medicine", "Anthropology"], ["Beriberi", "Sri_Lanka", "Anthropology"]]

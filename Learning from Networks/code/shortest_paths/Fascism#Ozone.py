@@ -1,0 +1,1 @@
+[["Fascism", "Ancient_Rome", "Silver", "Ozone"], ["Fascism", "Argentina", "Silver", "Ozone"], ["Fascism", "Indonesia", "Volcano", "Ozone"], ["Fascism", "Italy", "Volcano", "Ozone"], ["Fascism", "Liberalism", "Pollution", "Ozone"], ["Fascism", "World_War_I", "Chlorine", "Ozone"]]

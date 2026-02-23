@@ -1,0 +1,1 @@
+[["Epic_of_Gilgamesh", "Mesopotamia", "Apple", "Fungus"], ["Epic_of_Gilgamesh", "Mesopotamia", "Wood", "Fungus"], ["Epic_of_Gilgamesh", "Sumer", "Animal", "Fungus"]]

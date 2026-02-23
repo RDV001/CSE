@@ -1,0 +1,1 @@
+[["Hatshepsut", "Mummy", "Utilitarianism", "Das_Kapital"], ["Hatshepsut", "Propaganda", "Marxism", "Das_Kapital"]]

@@ -1,0 +1,1 @@
+[["Winter", "United_States", "Republic_of_China"]]

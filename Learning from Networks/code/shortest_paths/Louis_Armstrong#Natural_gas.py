@@ -1,0 +1,1 @@
+[["Louis_Armstrong", "Argentina", "Natural_gas"], ["Louis_Armstrong", "Russia", "Natural_gas"], ["Louis_Armstrong", "United_Kingdom", "Natural_gas"], ["Louis_Armstrong", "United_States", "Natural_gas"]]

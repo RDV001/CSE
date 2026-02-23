@@ -1,0 +1,1 @@
+[["Upsilon_Andromedae_d", "Ammonia", "Russia", "Caspian_Sea"], ["Upsilon_Andromedae_d", "Day", "Europe", "Caspian_Sea"], ["Upsilon_Andromedae_d", "Water", "Asia", "Caspian_Sea"], ["Upsilon_Andromedae_d", "Water", "Ocean", "Caspian_Sea"], ["Upsilon_Andromedae_d", "Water", "Sea", "Caspian_Sea"], ["Upsilon_Andromedae_d", "Water", "Seawater", "Caspian_Sea"]]

@@ -1,0 +1,1 @@
+[["Applied_mathematics", "Cryptography", "Kazakhstan", "Caspian_Sea"], ["Applied_mathematics", "Cryptography", "Russia", "Caspian_Sea"], ["Applied_mathematics", "Republic_of_Ireland", "Europe", "Caspian_Sea"]]

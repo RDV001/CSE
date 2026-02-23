@@ -1,0 +1,1 @@
+[["Abhidhamma_Pitaka", "Buddhism", "Pakistan", "Globalization", "Sudoku"], ["Abhidhamma_Pitaka", "Sanskrit", "Education", "Globalization", "Sudoku"], ["Abhidhamma_Pitaka", "University_of_Bristol", "Law", "Globalization", "Sudoku"], ["Abhidhamma_Pitaka", "Sanskrit", "Film", "Newspaper", "Sudoku"], ["Abhidhamma_Pitaka", "University_of_Bristol", "Bristol", "Newspaper", "Sudoku"]]

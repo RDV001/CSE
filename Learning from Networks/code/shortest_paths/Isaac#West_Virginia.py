@@ -1,0 +1,1 @@
+[["Isaac", "Egypt", "United_States", "West_Virginia"], ["Isaac", "Hebrew_language", "United_States", "West_Virginia"], ["Isaac", "Islam", "United_States", "West_Virginia"], ["Isaac", "Jew", "United_States", "West_Virginia"], ["Isaac", "Judaism", "United_States", "West_Virginia"], ["Isaac", "Tribe", "United_States", "West_Virginia"]]

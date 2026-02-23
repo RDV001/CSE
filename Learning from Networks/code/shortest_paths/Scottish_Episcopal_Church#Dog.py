@@ -1,0 +1,1 @@
+[["Scottish_Episcopal_Church", "Church_of_England", "Elizabeth_II_of_the_United_Kingdom", "Dog"], ["Scottish_Episcopal_Church", "Scotland", "Elizabeth_II_of_the_United_Kingdom", "Dog"], ["Scottish_Episcopal_Church", "England", "Bridge", "Dog"], ["Scottish_Episcopal_Church", "William_III_of_England", "Mole_%28animal%29", "Dog"]]

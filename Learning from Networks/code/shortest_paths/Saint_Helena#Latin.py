@@ -1,0 +1,1 @@
+[["Saint_Helena", "British_Isles", "Latin"], ["Saint_Helena", "Cape_Town", "Latin"], ["Saint_Helena", "Capital", "Latin"], ["Saint_Helena", "English_language", "Latin"], ["Saint_Helena", "James_II_of_England", "Latin"], ["Saint_Helena", "United_Kingdom", "Latin"], ["Saint_Helena", "United_States", "Latin"], ["Saint_Helena", "Volcano", "Latin"]]

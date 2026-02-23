@@ -1,0 +1,1 @@
+[["Trade_union", "18th_century", "Scotland", "Outer_Hebrides"], ["Trade_union", "Adam_Smith", "Scotland", "Outer_Hebrides"], ["Trade_union", "Germany", "Scotland", "Outer_Hebrides"], ["Trade_union", "Margaret_Thatcher", "Scotland", "Outer_Hebrides"], ["Trade_union", "Ronald_Reagan", "Scotland", "Outer_Hebrides"], ["Trade_union", "Germany", "Faroe_Islands", "Outer_Hebrides"]]

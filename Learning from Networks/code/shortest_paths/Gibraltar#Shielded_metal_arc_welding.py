@@ -1,0 +1,1 @@
+[["Gibraltar", "European_Union", "Carbon_dioxide", "Welding", "Shielded_metal_arc_welding"], ["Gibraltar", "Germany", "Carbon_dioxide", "Welding", "Shielded_metal_arc_welding"], ["Gibraltar", "France", "Airbus_A380", "Welding", "Shielded_metal_arc_welding"], ["Gibraltar", "United_Kingdom", "Hydrogen", "Welding", "Shielded_metal_arc_welding"]]

@@ -1,0 +1,1 @@
+[["Bontebok", "Lesotho", "European_Union", "Agnosticism"], ["Bontebok", "Lesotho", "Germany", "Agnosticism"], ["Bontebok", "South_Africa", "Germany", "Agnosticism"], ["Bontebok", "Mammal", "Australia", "Agnosticism"], ["Bontebok", "Scientific_classification", "Charles_Darwin", "Agnosticism"], ["Bontebok", "South_Africa", "Religion", "Agnosticism"]]

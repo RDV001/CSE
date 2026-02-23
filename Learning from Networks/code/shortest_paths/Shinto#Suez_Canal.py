@@ -1,0 +1,1 @@
+[["Shinto", "19th_century", "Suez_Canal"], ["Shinto", "World_War_II", "Suez_Canal"]]

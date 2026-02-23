@@ -1,0 +1,1 @@
+[["Lunar_eclipse", "Christopher_Columbus", "Lisbon", "Theatre"], ["Lunar_eclipse", "Earth", "Australia", "Theatre"], ["Lunar_eclipse", "Full_moon", "Australia", "Theatre"], ["Lunar_eclipse", "History_of_Greece", "Australia", "Theatre"], ["Lunar_eclipse", "History_of_Greece", "Libya", "Theatre"], ["Lunar_eclipse", "Jamaica", "Toronto", "Theatre"]]

@@ -1,0 +1,1 @@
+[["Thiamine", "Carbon", "Diamond", "Continental_crust"], ["Thiamine", "Carbon", "Volcano", "Continental_crust"], ["Thiamine", "Japan", "Volcano", "Continental_crust"], ["Thiamine", "Sulfur", "Volcano", "Continental_crust"], ["Thiamine", "Magnesium", "Crust_%28geology%29", "Continental_crust"], ["Thiamine", "Rice", "Continent", "Continental_crust"]]

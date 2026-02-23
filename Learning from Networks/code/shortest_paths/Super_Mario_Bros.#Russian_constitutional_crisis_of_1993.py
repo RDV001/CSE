@@ -1,0 +1,1 @@
+[["Super_Mario_Bros.", "Europe", "Russia", "Russian_constitutional_crisis_of_1993"], ["Super_Mario_Bros.", "Japan", "Russia", "Russian_constitutional_crisis_of_1993"], ["Super_Mario_Bros.", "Nintendo_Entertainment_System", "Russia", "Russian_constitutional_crisis_of_1993"], ["Super_Mario_Bros.", "United_States", "Russia", "Russian_constitutional_crisis_of_1993"]]

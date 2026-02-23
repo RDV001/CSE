@@ -1,0 +1,1 @@
+[["Aircraft", "Russia", "Joseph_Stalin"], ["Aircraft", "World_War_II", "Joseph_Stalin"]]

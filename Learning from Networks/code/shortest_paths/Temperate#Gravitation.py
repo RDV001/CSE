@@ -1,0 +1,1 @@
+[["Temperate", "Aristotle", "Gravitation"], ["Temperate", "United_Kingdom", "Gravitation"]]

@@ -1,0 +1,1 @@
+[["Z%C3%BCrich", "Geneva", "Water", "Polar_ice_cap"], ["Z%C3%BCrich", "Switzerland", "Glacier", "Polar_ice_cap"]]

@@ -1,0 +1,1 @@
+[["Crab_Nebula", "Carbon", "Plant", "Fern"], ["Crab_Nebula", "Oxygen", "Plant", "Fern"], ["Crab_Nebula", "Hydrogen", "Biology", "Fern"], ["Crab_Nebula", "Nitrogen", "Biology", "Fern"]]

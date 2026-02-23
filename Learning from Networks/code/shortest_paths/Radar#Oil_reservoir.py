@@ -1,0 +1,1 @@
+[["Radar", "Electricity", "Natural_gas", "Oil_reservoir"]]

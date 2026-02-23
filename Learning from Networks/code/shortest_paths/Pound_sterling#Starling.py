@@ -1,0 +1,1 @@
+[["Pound_sterling", "India", "Extinction", "Dodo", "Extinct_birds", "Starling"], ["Pound_sterling", "Saint_Helena", "Extinction", "Dodo", "Extinct_birds", "Starling"], ["Pound_sterling", "Israel", "Mauritius", "Dodo", "Extinct_birds", "Starling"], ["Pound_sterling", "John_Locke", "Oxford", "Dodo", "Extinct_birds", "Starling"]]

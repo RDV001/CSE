@@ -1,0 +1,1 @@
+[["Protoceratops", "Animal", "Vertebrate"], ["Protoceratops", "Chordate", "Vertebrate"], ["Protoceratops", "Dinosaur", "Vertebrate"], ["Protoceratops", "Fossil", "Vertebrate"], ["Protoceratops", "Reptile", "Vertebrate"], ["Protoceratops", "Scientific_classification", "Vertebrate"]]

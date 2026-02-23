@@ -1,0 +1,1 @@
+[["Machu_Picchu", "India", "Soviet_Union", "Sputnik_1"], ["Machu_Picchu", "Park", "Russia", "Sputnik_1"], ["Machu_Picchu", "World_Heritage_Site", "Russia", "Sputnik_1"]]

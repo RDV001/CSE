@@ -1,0 +1,1 @@
+[["Nintendo_Entertainment_System", "Japanese_yen", "United_States_dollar"], ["Nintendo_Entertainment_System", "Nintendo", "United_States_dollar"], ["Nintendo_Entertainment_System", "United_States", "United_States_dollar"]]

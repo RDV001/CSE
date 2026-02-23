@@ -1,0 +1,1 @@
+[["Democratic_Action_Party", "Malaysia", "Asia", "United_Arab_Emirates"], ["Democratic_Action_Party", "Malaysia", "Hindi", "United_Arab_Emirates"], ["Democratic_Action_Party", "Malaysia", "List_of_countries_by_system_of_government", "United_Arab_Emirates"], ["Democratic_Action_Party", "Malaysia", "Middle_East", "United_Arab_Emirates"]]

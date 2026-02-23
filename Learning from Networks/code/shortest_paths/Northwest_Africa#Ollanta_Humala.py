@@ -1,0 +1,1 @@
+[["Northwest_Africa", "Atlantic_Ocean", "Peru", "Ollanta_Humala"], ["Northwest_Africa", "Latin_America", "Peru", "Ollanta_Humala"], ["Northwest_Africa", "Pacific_Ocean", "Peru", "Ollanta_Humala"], ["Northwest_Africa", "South_America", "Peru", "Ollanta_Humala"]]

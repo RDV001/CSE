@@ -1,0 +1,1 @@
+[["Periodic_table_%28large_version%29", "Indium"]]

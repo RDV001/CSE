@@ -1,0 +1,1 @@
+[["Fossil_fuel", "Carbon", "Art", "Abstract_art"], ["Fossil_fuel", "Coal", "Nazi_Germany", "Abstract_art"], ["Fossil_fuel", "Wood", "Sculpture", "Abstract_art"]]

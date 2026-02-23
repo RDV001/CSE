@@ -1,0 +1,1 @@
+[["Batman", "Chemistry", "Iron", "Ship"], ["Batman", "Earthquake", "Japan", "Ship"], ["Batman", "Scotland", "Industrial_Revolution", "Ship"], ["Batman", "Scotland", "Middle_Ages", "Ship"], ["Batman", "Scotland", "Republic_of_Ireland", "Ship"]]

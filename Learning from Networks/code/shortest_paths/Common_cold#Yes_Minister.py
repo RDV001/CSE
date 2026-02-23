@@ -1,0 +1,1 @@
+[["Common_cold", "19th_century", "Spanish_Inquisition", "Monty_Python", "Yes_Minister"], ["Common_cold", "Soup", "Coconut", "Monty_Python", "Yes_Minister"], ["Common_cold", "United_Kingdom", "J._K._Rowling", "Monty_Python", "Yes_Minister"], ["Common_cold", "United_States", "Minneapolis%2C_Minnesota", "Monty_Python", "Yes_Minister"]]

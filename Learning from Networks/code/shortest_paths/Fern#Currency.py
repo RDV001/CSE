@@ -1,0 +1,1 @@
+[["Fern", "Finland", "Currency"], ["Fern", "New_Zealand", "Currency"], ["Fern", "Norfolk_Island", "Currency"]]

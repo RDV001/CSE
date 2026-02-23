@@ -1,0 +1,1 @@
+[["Galileo_Galilei", "Mercury_%28planet%29", "Potassium", "Edible_salt"], ["Galileo_Galilei", "Moon", "Potassium", "Edible_salt"], ["Galileo_Galilei", "Mercury_%28planet%29", "Sodium", "Edible_salt"], ["Galileo_Galilei", "Moon", "Sodium", "Edible_salt"], ["Galileo_Galilei", "Netherlands", "Cheese", "Edible_salt"]]

@@ -1,0 +1,1 @@
+[["Intelligence", "Psychology", "Austria", "Slovenia", "Magpie"], ["Intelligence", "Psychology", "Germany", "Slovenia", "Magpie"], ["Intelligence", "Stephen_Jay_Gould", "Evolution", "Archaeopteryx", "Magpie"]]

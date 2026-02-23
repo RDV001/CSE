@@ -1,0 +1,1 @@
+[["Treaty_of_Versailles", "Austria", "Islam", "Citrus"], ["Treaty_of_Versailles", "China", "Islam", "Citrus"], ["Treaty_of_Versailles", "France", "Islam", "Citrus"], ["Treaty_of_Versailles", "Lithuania", "Islam", "Citrus"], ["Treaty_of_Versailles", "France", "Algeria", "Citrus"], ["Treaty_of_Versailles", "World_War_I", "South_Africa", "Citrus"]]

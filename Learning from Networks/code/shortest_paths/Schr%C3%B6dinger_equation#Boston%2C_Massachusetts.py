@@ -1,0 +1,1 @@
+[["Schr%C3%B6dinger_equation", "Electric_charge", "Benjamin_Franklin", "Boston%2C_Massachusetts"], ["Schr%C3%B6dinger_equation", "Physics", "Benjamin_Franklin", "Boston%2C_Massachusetts"], ["Schr%C3%B6dinger_equation", "Physics", "Bridge", "Boston%2C_Massachusetts"]]

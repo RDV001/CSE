@@ -1,0 +1,1 @@
+[["Dresden", "19th_century", "Philosophy"], ["Dresden", "Renaissance", "Philosophy"], ["Dresden", "Richard_Wagner", "Philosophy"]]

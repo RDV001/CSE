@@ -1,0 +1,1 @@
+[["Poland", "Communism", "Latin_America"], ["Poland", "Liberal_democracy", "Latin_America"], ["Poland", "United_States", "Latin_America"], ["Poland", "Woodrow_Wilson", "Latin_America"]]

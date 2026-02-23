@@ -1,0 +1,1 @@
+[["Babur", "Islam", "Latin"], ["Babur", "Propaganda", "Latin"], ["Babur", "Qur%27an", "Latin"], ["Babur", "Timur", "Latin"]]

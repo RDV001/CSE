@@ -1,0 +1,1 @@
+[["Moringa_oleifera", "Food", "Politics", "Voting"], ["Moringa_oleifera", "India", "Westminster_System", "Voting"], ["Moringa_oleifera", "Malaysia", "Westminster_System", "Voting"], ["Moringa_oleifera", "Vitamin_C", "History_of_science", "Voting"]]

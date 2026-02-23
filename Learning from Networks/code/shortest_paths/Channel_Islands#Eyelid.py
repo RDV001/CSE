@@ -1,0 +1,1 @@
+[["Channel_Islands", "France", "AIDS", "Eye", "Eyelid"], ["Channel_Islands", "Germany", "Medicine", "Eye", "Eyelid"], ["Channel_Islands", "United_States", "Medicine", "Eye", "Eyelid"], ["Channel_Islands", "Victor_Hugo", "Sigmund_Freud", "Eye", "Eyelid"]]

@@ -1,0 +1,1 @@
+[["Nigeria", "Africa", "Poverty"], ["Nigeria", "African_Union", "Poverty"], ["Nigeria", "Islam", "Poverty"], ["Nigeria", "Pope_John_Paul_II", "Poverty"], ["Nigeria", "United_Nations", "Poverty"]]

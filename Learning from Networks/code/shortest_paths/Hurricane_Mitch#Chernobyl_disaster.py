@@ -1,0 +1,1 @@
+[["Hurricane_Mitch", "Atlantic_Ocean", "Irish_Sea", "Chernobyl_disaster"], ["Hurricane_Mitch", "United_States", "Nuclear_power", "Chernobyl_disaster"]]

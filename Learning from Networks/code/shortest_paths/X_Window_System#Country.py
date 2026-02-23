@@ -1,0 +1,1 @@
+[["X_Window_System", "Internet", "France", "Country"], ["X_Window_System", "Internet", "People%27s_Republic_of_China", "Country"], ["X_Window_System", "Latin_alphabet", "People%27s_Republic_of_China", "Country"], ["X_Window_System", "Internet", "United_States", "Country"], ["X_Window_System", "Latin_alphabet", "Turkey", "Country"]]

@@ -1,0 +1,1 @@
+[["Tree_Sparrow", "Germany", "Coal", "Selenium"], ["Tree_Sparrow", "United_States", "Coal", "Selenium"], ["Tree_Sparrow", "United_States", "Television", "Selenium"]]

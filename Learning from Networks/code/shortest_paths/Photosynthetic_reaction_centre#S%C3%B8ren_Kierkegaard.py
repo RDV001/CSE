@@ -1,0 +1,1 @@
+[["Photosynthetic_reaction_centre", "Electron", "Niels_Bohr", "S%C3%B8ren_Kierkegaard"], ["Photosynthetic_reaction_centre", "Photon", "Niels_Bohr", "S%C3%B8ren_Kierkegaard"], ["Photosynthetic_reaction_centre", "Water", "Denmark", "S%C3%B8ren_Kierkegaard"], ["Photosynthetic_reaction_centre", "Water", "Philosophy", "S%C3%B8ren_Kierkegaard"]]

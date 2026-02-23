@@ -1,0 +1,1 @@
+[["Backgammon", "Germany", "Kazakhstan", "Mir"], ["Backgammon", "Iran", "Kazakhstan", "Mir"], ["Backgammon", "Germany", "Soviet_Union", "Mir"], ["Backgammon", "India", "Soviet_Union", "Mir"], ["Backgammon", "Sweden", "Soviet_Union", "Mir"]]

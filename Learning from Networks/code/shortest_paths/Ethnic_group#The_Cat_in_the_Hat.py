@@ -1,0 +1,1 @@
+[["Ethnic_group", "Africa", "Latin", "The_Cat_in_the_Hat"], ["Ethnic_group", "Egypt", "Latin", "The_Cat_in_the_Hat"], ["Ethnic_group", "English_language", "Latin", "The_Cat_in_the_Hat"], ["Ethnic_group", "Europe", "Latin", "The_Cat_in_the_Hat"], ["Ethnic_group", "Religion", "Latin", "The_Cat_in_the_Hat"]]

@@ -1,0 +1,1 @@
+[["Mount_St._Helens", "1980_eruption_of_Mount_St._Helens", "Nuclear_weapon"], ["Mount_St._Helens", "Earthquake", "Nuclear_weapon"], ["Mount_St._Helens", "Ronald_Reagan", "Nuclear_weapon"], ["Mount_St._Helens", "Tsar_Bomba", "Nuclear_weapon"], ["Mount_St._Helens", "United_States", "Nuclear_weapon"]]

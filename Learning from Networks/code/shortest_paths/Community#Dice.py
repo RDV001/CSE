@@ -1,0 +1,1 @@
+[["Community", "Capital", "Byzantine_Empire", "Dice"], ["Community", "Civilization", "Byzantine_Empire", "Dice"], ["Community", "Latin", "Byzantine_Empire", "Dice"], ["Community", "United_Kingdom", "Henry_VIII_of_England", "Dice"]]

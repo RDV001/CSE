@@ -1,0 +1,1 @@
+[["West_Virginia", "Coal", "Astrology", "Arithmetic"], ["West_Virginia", "English_language", "University", "Arithmetic"], ["West_Virginia", "Europe", "Ancient_Greece", "Arithmetic"], ["West_Virginia", "United_States", "Education", "Arithmetic"], ["West_Virginia", "United_States", "Education_in_the_United_States", "Arithmetic"]]

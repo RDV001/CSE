@@ -1,0 +1,1 @@
+[["F-35_Lightning_II", "United_Kingdom", "Computer", "Computer_and_video_games"], ["F-35_Lightning_II", "United_States", "Computer", "Computer_and_video_games"], ["F-35_Lightning_II", "United_Kingdom", "Television", "Computer_and_video_games"], ["F-35_Lightning_II", "United_States", "Television", "Computer_and_video_games"]]

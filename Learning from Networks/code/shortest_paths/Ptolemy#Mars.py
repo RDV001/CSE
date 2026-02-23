@@ -1,0 +1,1 @@
+[["Ptolemy", "Astrology", "Mars"], ["Ptolemy", "Moon", "Mars"], ["Ptolemy", "Solar_System", "Mars"]]

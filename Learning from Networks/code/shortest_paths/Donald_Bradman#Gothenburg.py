@@ -1,0 +1,1 @@
+[["Donald_Bradman", "Bj%C3%B6rn_Borg", "Davis_Cup", "Gothenburg"], ["Donald_Bradman", "Tennis", "Davis_Cup", "Gothenburg"], ["Donald_Bradman", "Bj%C3%B6rn_Borg", "Sweden", "Gothenburg"], ["Donald_Bradman", "Tennis", "Sweden", "Gothenburg"], ["Donald_Bradman", "Bodyline", "Shanghai", "Gothenburg"], ["Donald_Bradman", "Sydney", "Global_city", "Gothenburg"]]

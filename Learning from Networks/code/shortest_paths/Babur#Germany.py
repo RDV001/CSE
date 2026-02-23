@@ -1,0 +1,1 @@
+[["Babur", "Afghanistan", "Germany"], ["Babur", "Genghis_Khan", "Germany"], ["Babur", "Principality", "Germany"], ["Babur", "Propaganda", "Germany"], ["Babur", "Qur%27an", "Germany"], ["Babur", "River", "Germany"]]

@@ -1,0 +1,1 @@
+[["Superman", "Europe", "Suez_Canal"], ["Superman", "World_War_I", "Suez_Canal"], ["Superman", "World_War_II", "Suez_Canal"]]

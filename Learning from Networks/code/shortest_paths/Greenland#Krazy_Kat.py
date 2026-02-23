@@ -1,0 +1,1 @@
+[["Greenland", "Christianity", "John_Calvin", "Calvin_and_Hobbes", "Krazy_Kat"], ["Greenland", "Germany", "Wernher_von_Braun", "Walt_Disney", "Krazy_Kat"], ["Greenland", "List_of_countries_by_system_of_government", "Tonga", "Walt_Disney", "Krazy_Kat"], ["Greenland", "United_States", "Poetry_of_the_United_States", "E._E._Cummings", "Krazy_Kat"]]

@@ -1,0 +1,1 @@
+[["Effects_of_global_warming", "United_Kingdom", "Chelsea_F.C.", "Celery"]]

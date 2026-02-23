@@ -1,0 +1,1 @@
+[["Mountain_Gorilla", "Berlin", "Nazi_Germany", "Tiger"], ["Mountain_Gorilla", "Human", "Carnivore", "Tiger"], ["Mountain_Gorilla", "Mammal", "Lion", "Tiger"], ["Mountain_Gorilla", "Menstrual_cycle", "Cat", "Tiger"]]

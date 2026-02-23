@@ -1,0 +1,1 @@
+[["Linguistics", "Medicine", "United_Kingdom", "Gordon_Brown"], ["Linguistics", "Middle_East", "United_Kingdom", "Gordon_Brown"]]

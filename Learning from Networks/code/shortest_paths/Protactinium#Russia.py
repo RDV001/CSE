@@ -1,0 +1,1 @@
+[["Protactinium", "Chemical_element", "Russia"], ["Protactinium", "Germany", "Russia"], ["Protactinium", "Periodic_table", "Russia"]]

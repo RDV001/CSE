@@ -1,0 +1,1 @@
+[["Time_zone", "Antarctica", "Cosmic_microwave_background_radiation", "Metric_expansion_of_space"], ["Time_zone", "Earth", "Universe", "Metric_expansion_of_space"], ["Time_zone", "Time", "Universe", "Metric_expansion_of_space"], ["Time_zone", "Time", "Astronomy", "Metric_expansion_of_space"], ["Time_zone", "Time", "Big_Bang", "Metric_expansion_of_space"]]

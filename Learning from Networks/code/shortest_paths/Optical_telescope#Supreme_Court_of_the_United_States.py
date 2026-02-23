@@ -1,0 +1,1 @@
+[["Optical_telescope", "Binoculars", "United_States", "Supreme_Court_of_the_United_States"]]

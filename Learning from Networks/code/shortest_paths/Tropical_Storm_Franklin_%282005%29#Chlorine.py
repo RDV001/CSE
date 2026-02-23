@@ -1,0 +1,1 @@
+[["Tropical_Storm_Franklin_%282005%29", "Africa", "Gold", "Chlorine"], ["Tropical_Storm_Franklin_%282005%29", "Africa", "World_War_I", "Chlorine"]]

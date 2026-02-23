@@ -1,0 +1,1 @@
+[["Hubble_Deep_Field", "Earth", "Pacific_Ocean", "Easter_Island"], ["Hubble_Deep_Field", "Earth", "South_America", "Easter_Island"], ["Hubble_Deep_Field", "Earth", "Spanish_language", "Easter_Island"], ["Hubble_Deep_Field", "Milky_Way", "Spanish_language", "Easter_Island"]]

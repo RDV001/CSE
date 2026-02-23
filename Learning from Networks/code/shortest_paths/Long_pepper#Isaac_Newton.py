@@ -1,0 +1,1 @@
+[["Long_pepper", "Malaysia", "Mathematics", "Isaac_Newton"], ["Long_pepper", "Malaysia", "Physics", "Isaac_Newton"], ["Long_pepper", "Plant", "Light", "Isaac_Newton"], ["Long_pepper", "Sanskrit", "Philosophy", "Isaac_Newton"], ["Long_pepper", "Scientific_classification", "Apple", "Isaac_Newton"], ["Long_pepper", "Scientific_classification", "Charles_Darwin", "Isaac_Newton"]]

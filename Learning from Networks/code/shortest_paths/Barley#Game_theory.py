@@ -1,0 +1,1 @@
+[["Barley", "Ancient_Egypt", "Mathematics", "Game_theory"], ["Barley", "Germany", "Gottfried_Leibniz", "Game_theory"], ["Barley", "United_States", "War", "Game_theory"]]

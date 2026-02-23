@@ -1,0 +1,1 @@
+[["Montenegro", "Lebanon", "Snow", "Avalanche"], ["Montenegro", "People%27s_Republic_of_China", "Mount_Everest", "Avalanche"], ["Montenegro", "Slovakia", "Skiing", "Avalanche"], ["Montenegro", "Sweden", "Skiing", "Avalanche"]]

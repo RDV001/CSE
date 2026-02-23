@@ -1,0 +1,1 @@
+[["Sphere", "Earth", "Iron", "Cobalt"], ["Sphere", "Earth", "Nickel", "Cobalt"], ["Sphere", "Earth", "Southern_Africa", "Cobalt"], ["Sphere", "Physics", "Gold", "Cobalt"], ["Sphere", "Physics", "Magnetism", "Cobalt"], ["Sphere", "Physics", "Nuclear_weapon", "Cobalt"]]

@@ -1,0 +1,1 @@
+[["Ancient_Egypt", "Africa", "Latin_America", "Reggaeton"], ["Ancient_Egypt", "Society", "Latin_America", "Reggaeton"], ["Ancient_Egypt", "Wine", "Latin_America", "Reggaeton"], ["Ancient_Egypt", "Africa", "Reggae", "Reggaeton"]]

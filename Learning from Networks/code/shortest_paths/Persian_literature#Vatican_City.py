@@ -1,0 +1,1 @@
+[["Persian_literature", "Latin", "Vatican_City"], ["Persian_literature", "Turkey", "Vatican_City"]]

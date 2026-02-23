@@ -1,0 +1,1 @@
+[["Huntington%27s_disease", "DNA", "Nature", "Mars", "Phoenix_%28spacecraft%29"], ["Huntington%27s_disease", "DNA", "Nature", "Solar_System", "Phoenix_%28spacecraft%29"], ["Huntington%27s_disease", "Middle_Ages", "Clock", "Solar_System", "Phoenix_%28spacecraft%29"], ["Huntington%27s_disease", "Protein", "Nickel", "Solar_System", "Phoenix_%28spacecraft%29"]]

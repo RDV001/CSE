@@ -1,0 +1,1 @@
+[["Attention-deficit_hyperactivity_disorder", "Thomas_Edison", "Nikola_Tesla", "Mark_Twain", "Henry_H._Rogers"], ["Attention-deficit_hyperactivity_disorder", "Vitamin", "19th_century", "Mark_Twain", "Henry_H._Rogers"]]

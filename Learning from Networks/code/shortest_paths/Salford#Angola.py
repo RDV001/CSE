@@ -1,0 +1,1 @@
+[["Salford", "List_of_sovereign_states", "Angola"]]

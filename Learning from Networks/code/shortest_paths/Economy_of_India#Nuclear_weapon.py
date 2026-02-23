@@ -1,0 +1,1 @@
+[["Economy_of_India", "People%27s_Republic_of_China", "Nuclear_weapon"], ["Economy_of_India", "United_States", "Nuclear_weapon"]]

@@ -1,0 +1,1 @@
+[["Ozone", "Atom", "Fluorine"], ["Ozone", "Chlorine", "Fluorine"], ["Ozone", "Gold", "Fluorine"], ["Ozone", "Hydrochloric_acid", "Fluorine"], ["Ozone", "Hydrogen", "Fluorine"], ["Ozone", "Hydrogen_peroxide", "Fluorine"], ["Ozone", "Oxygen", "Fluorine"]]

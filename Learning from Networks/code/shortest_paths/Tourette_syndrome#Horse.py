@@ -1,0 +1,1 @@
+[["Tourette_syndrome", "Brain", "Cattle", "Horse"], ["Tourette_syndrome", "Brain", "Mammal", "Horse"], ["Tourette_syndrome", "Brain", "Sleep", "Horse"], ["Tourette_syndrome", "World_Health_Organization", "Tobacco", "Horse"]]

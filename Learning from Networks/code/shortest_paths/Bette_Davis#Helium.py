@@ -1,0 +1,1 @@
+[["Bette_Davis", "Cancer", "Sun", "Helium"], ["Bette_Davis", "Europe", "Geology", "Helium"], ["Bette_Davis", "United_States", "Natural_gas", "Helium"]]

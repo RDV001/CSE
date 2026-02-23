@@ -1,0 +1,1 @@
+[["Folklore", "20th_century", "Computer", "Quantum_computer"], ["Folklore", "Game", "Computer", "Quantum_computer"], ["Folklore", "20th_century", "Physics", "Quantum_computer"], ["Folklore", "Music", "Physics", "Quantum_computer"], ["Folklore", "20th_century", "Quantum_mechanics", "Quantum_computer"], ["Folklore", "Mathematics", "Quantum_mechanics", "Quantum_computer"]]

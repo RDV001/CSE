@@ -1,0 +1,1 @@
+[["Shanghai", "Canada", "Skiing"], ["Shanghai", "New_Zealand", "Skiing"], ["Shanghai", "Oslo", "Skiing"], ["Shanghai", "Sweden", "Skiing"]]

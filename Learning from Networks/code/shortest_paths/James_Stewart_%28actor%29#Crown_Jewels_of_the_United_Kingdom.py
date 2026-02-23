@@ -1,0 +1,1 @@
+[["James_Stewart_%28actor%29", "England", "Tower_of_London", "Crown_Jewels_of_the_United_Kingdom"], ["James_Stewart_%28actor%29", "London", "Tower_of_London", "Crown_Jewels_of_the_United_Kingdom"]]

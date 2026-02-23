@@ -1,0 +1,1 @@
+[["Sculpture", "Pablo_Picasso", "Chicago", "Michael_Jordan"], ["Sculpture", "Warsaw", "Chicago", "Michael_Jordan"]]

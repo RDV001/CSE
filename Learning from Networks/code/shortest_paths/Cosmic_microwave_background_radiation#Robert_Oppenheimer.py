@@ -1,0 +1,1 @@
+[["Cosmic_microwave_background_radiation", "Big_Bang", "Black_hole", "Robert_Oppenheimer"], ["Cosmic_microwave_background_radiation", "Cosmic_inflation", "Black_hole", "Robert_Oppenheimer"], ["Cosmic_microwave_background_radiation", "Redshift", "Black_hole", "Robert_Oppenheimer"], ["Cosmic_microwave_background_radiation", "Universe", "Black_hole", "Robert_Oppenheimer"]]

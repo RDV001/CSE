@@ -1,0 +1,1 @@
+[["Santiago%2C_Chile", "Europe", "Ancient_Greece", "Minoan_civilization"], ["Santiago%2C_Chile", "Jew", "Ancient_Greece", "Minoan_civilization"], ["Santiago%2C_Chile", "Europe", "Greek_mythology", "Minoan_civilization"], ["Santiago%2C_Chile", "Latin_America", "Civilization", "Minoan_civilization"]]

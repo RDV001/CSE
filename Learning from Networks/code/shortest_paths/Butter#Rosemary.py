@@ -1,0 +1,1 @@
+[["Butter", "Ancient_Greece", "Olive_oil", "Rosemary"], ["Butter", "Ancient_Rome", "Olive_oil", "Rosemary"], ["Butter", "Asparagus", "Olive_oil", "Rosemary"], ["Butter", "Bread", "Olive_oil", "Rosemary"], ["Butter", "Fatty_acid", "Olive_oil", "Rosemary"], ["Butter", "Potato", "Dill", "Rosemary"], ["Butter", "Wine", "Nutmeg", "Rosemary"]]

@@ -1,0 +1,1 @@
+[["Art", "Color", "Bird"], ["Art", "Leonardo_da_Vinci", "Bird"]]

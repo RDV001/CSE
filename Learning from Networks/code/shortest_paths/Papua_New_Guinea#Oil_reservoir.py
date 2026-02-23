@@ -1,0 +1,1 @@
+[["Papua_New_Guinea", "Petroleum", "Oil_reservoir"]]

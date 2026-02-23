@@ -1,0 +1,1 @@
+[["Canada", "Afghanistan", "Pashtun_people", "Khan_Wali_Khan"]]

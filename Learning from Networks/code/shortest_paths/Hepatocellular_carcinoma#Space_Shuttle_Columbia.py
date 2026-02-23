@@ -1,0 +1,1 @@
+[["Hepatocellular_carcinoma", "Cancer", "United_States", "Space_Shuttle_Columbia"], ["Hepatocellular_carcinoma", "China", "United_States", "Space_Shuttle_Columbia"], ["Hepatocellular_carcinoma", "Peanut", "United_States", "Space_Shuttle_Columbia"], ["Hepatocellular_carcinoma", "Peanut", "Florida", "Space_Shuttle_Columbia"]]

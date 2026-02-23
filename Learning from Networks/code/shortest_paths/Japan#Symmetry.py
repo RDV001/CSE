@@ -1,0 +1,1 @@
+[["Japan", "Hasekura_Tsunenaga", "Swastika", "Symmetry"], ["Japan", "Nazi_Germany", "Swastika", "Symmetry"], ["Japan", "Iron", "Magnetism", "Symmetry"], ["Japan", "Pacific_Ocean", "Antarctica", "Symmetry"], ["Japan", "Time_zone", "Antarctica", "Symmetry"], ["Japan", "United_States", "Antarctica", "Symmetry"], ["Japan", "University", "Geometry", "Symmetry"]]

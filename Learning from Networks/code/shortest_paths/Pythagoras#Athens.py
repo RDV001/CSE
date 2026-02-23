@@ -1,0 +1,1 @@
+[["Pythagoras", "Apollo", "Athens"], ["Pythagoras", "Aristotle", "Athens"], ["Pythagoras", "Plato", "Athens"], ["Pythagoras", "Poetry", "Athens"]]

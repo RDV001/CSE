@@ -1,0 +1,1 @@
+[["Las_Palmas_de_Gran_Canaria", "Africa", "United_Kingdom", "T._S._Eliot"], ["Las_Palmas_de_Gran_Canaria", "Atlantic_Ocean", "United_Kingdom", "T._S._Eliot"], ["Las_Palmas_de_Gran_Canaria", "Spain", "United_Kingdom", "T._S._Eliot"]]

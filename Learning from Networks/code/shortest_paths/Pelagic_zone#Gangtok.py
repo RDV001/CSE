@@ -1,0 +1,1 @@
+[["Pelagic_zone", "Ocean", "Continent", "Himalayas", "Gangtok"], ["Pelagic_zone", "Ocean", "Plate_tectonics", "Himalayas", "Gangtok"], ["Pelagic_zone", "Photosynthesis", "Water", "Himalayas", "Gangtok"]]

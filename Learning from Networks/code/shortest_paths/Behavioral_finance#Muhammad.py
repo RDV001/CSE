@@ -1,0 +1,1 @@
+[["Behavioral_finance", "Adam_Smith", "Political_philosophy", "Muhammad"]]

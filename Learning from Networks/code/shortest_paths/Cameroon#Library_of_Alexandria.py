@@ -1,0 +1,1 @@
+[["Cameroon", "Currency", "Archimedes", "Library_of_Alexandria"], ["Cameroon", "Education", "Library", "Library_of_Alexandria"], ["Cameroon", "Nationalism", "Book", "Library_of_Alexandria"]]

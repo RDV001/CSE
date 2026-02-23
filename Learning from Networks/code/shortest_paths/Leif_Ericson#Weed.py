@@ -1,0 +1,1 @@
+[["Leif_Ericson", "Iceland", "Agriculture", "Weed"], ["Leif_Ericson", "Minnesota", "Agriculture", "Weed"], ["Leif_Ericson", "United_States", "Agriculture", "Weed"], ["Leif_Ericson", "United_States", "Rice", "Weed"]]

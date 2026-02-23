@@ -1,0 +1,1 @@
+[["Arsenic", "Cancer", "Prostate_cancer", "Omega-3_fatty_acid"], ["Arsenic", "Selenium", "Prostate_cancer", "Omega-3_fatty_acid"]]

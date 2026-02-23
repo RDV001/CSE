@@ -1,0 +1,1 @@
+[["Catherine_II_of_Russia", "Belarus", "Norway", "Bouvet_Island"], ["Catherine_II_of_Russia", "Denmark", "Norway", "Bouvet_Island"], ["Catherine_II_of_Russia", "Europe", "Norway", "Bouvet_Island"], ["Catherine_II_of_Russia", "Germany", "Norway", "Bouvet_Island"], ["Catherine_II_of_Russia", "Russian_language", "Norway", "Bouvet_Island"]]

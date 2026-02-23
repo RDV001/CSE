@@ -1,0 +1,1 @@
+[["Cape_Verde", "Atlantic_Ocean", "Petroleum"], ["Cape_Verde", "European_Union", "Petroleum"], ["Cape_Verde", "Netherlands", "Petroleum"], ["Cape_Verde", "United_States", "Petroleum"]]

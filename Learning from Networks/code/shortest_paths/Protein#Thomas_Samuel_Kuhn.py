@@ -1,0 +1,1 @@
+[["Protein", "Computer_science", "Science", "Thomas_Samuel_Kuhn"], ["Protein", "Evolution", "Science", "Thomas_Samuel_Kuhn"], ["Protein", "Human", "Science", "Thomas_Samuel_Kuhn"], ["Protein", "Linus_Pauling", "Science", "Thomas_Samuel_Kuhn"]]

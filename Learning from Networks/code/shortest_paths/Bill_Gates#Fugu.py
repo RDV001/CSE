@@ -1,0 +1,1 @@
+[["Bill_Gates", "Seattle%2C_Washington", "Poetry", "Matsuo_Bash%C5%8D", "Kigo", "Fugu"]]

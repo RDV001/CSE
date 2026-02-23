@@ -1,0 +1,1 @@
+[["Ireland", "20th_century", "Film", "Video"], ["Ireland", "Stone_Age", "Film", "Video"], ["Ireland", "20th_century", "Mass_media", "Video"], ["Ireland", "Folk_music", "Mass_media", "Video"], ["Ireland", "London", "Mass_media", "Video"]]

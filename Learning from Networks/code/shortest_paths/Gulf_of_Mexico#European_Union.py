@@ -1,0 +1,1 @@
+[["Gulf_of_Mexico", "Cuba", "European_Union"], ["Gulf_of_Mexico", "France", "European_Union"], ["Gulf_of_Mexico", "Mexico", "European_Union"], ["Gulf_of_Mexico", "North_America", "European_Union"], ["Gulf_of_Mexico", "Spain", "European_Union"], ["Gulf_of_Mexico", "United_Kingdom", "European_Union"]]

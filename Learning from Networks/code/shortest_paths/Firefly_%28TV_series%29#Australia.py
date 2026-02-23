@@ -1,0 +1,1 @@
+[["Firefly_%28TV_series%29", "19th_century", "Australia"], ["Firefly_%28TV_series%29", "Earth", "Australia"], ["Firefly_%28TV_series%29", "People%27s_Republic_of_China", "Australia"], ["Firefly_%28TV_series%29", "Serenity_%28film%29", "Australia"], ["Firefly_%28TV_series%29", "Stargate_SG-1", "Australia"]]

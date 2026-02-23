@@ -1,0 +1,1 @@
+[["Ancient_history", "18th_century", "President_of_the_United_States"], ["Ancient_history", "Iran", "President_of_the_United_States"], ["Ancient_history", "Olympic_Games", "President_of_the_United_States"], ["Ancient_history", "United_States", "President_of_the_United_States"]]

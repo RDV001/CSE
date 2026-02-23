@@ -1,0 +1,1 @@
+[["Sheffield", "China", "Mathematics", "Euclidean_geometry"], ["Sheffield", "China", "Pi", "Euclidean_geometry"], ["Sheffield", "Germany", "Albert_Einstein", "Euclidean_geometry"], ["Sheffield", "Germany", "David_Hilbert", "Euclidean_geometry"]]

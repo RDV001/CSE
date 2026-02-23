@@ -1,0 +1,1 @@
+[["Israel", "Australia", "Sydney"], ["Israel", "Olympic_Games", "Sydney"]]

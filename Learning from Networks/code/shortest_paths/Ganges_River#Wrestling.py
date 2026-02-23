@@ -1,0 +1,1 @@
+[["Ganges_River", "Canal", "Mesopotamia", "Wrestling"], ["Ganges_River", "River", "Mesopotamia", "Wrestling"], ["Ganges_River", "Dolphin", "Ancient_Rome", "Wrestling"], ["Ganges_River", "Netherlands", "Bulgaria", "Wrestling"], ["Ganges_River", "River", "Bulgaria", "Wrestling"]]

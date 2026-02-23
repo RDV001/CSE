@@ -1,0 +1,1 @@
+[["Great_Lakes", "Minnesota", "Fine_art"], ["Great_Lakes", "United_States", "Fine_art"]]

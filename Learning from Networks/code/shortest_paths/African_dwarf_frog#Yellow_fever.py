@@ -1,0 +1,1 @@
+[["African_dwarf_frog", "Animal", "Insect", "Yellow_fever"], ["African_dwarf_frog", "Scientific_classification", "Insect", "Yellow_fever"]]

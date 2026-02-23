@@ -1,0 +1,1 @@
+[["Battle_of_Austerlitz", "Europe", "Cold_War", "Fidel_Castro"], ["Battle_of_Austerlitz", "Napoleon_I_of_France", "Propaganda", "Fidel_Castro"]]

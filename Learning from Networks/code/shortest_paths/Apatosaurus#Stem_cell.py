@@ -1,0 +1,1 @@
+[["Apatosaurus", "Guam", "George_W._Bush", "Stem_cell"], ["Apatosaurus", "United_States", "George_W._Bush", "Stem_cell"]]

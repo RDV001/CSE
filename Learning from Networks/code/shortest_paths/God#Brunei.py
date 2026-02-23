@@ -1,0 +1,1 @@
+[["God", "Islam", "Brunei"], ["God", "United_States", "Brunei"]]

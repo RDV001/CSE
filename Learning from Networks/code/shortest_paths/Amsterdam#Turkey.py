@@ -1,0 +1,1 @@
+[["Amsterdam", "Berlin", "Turkey"], ["Amsterdam", "Europe", "Turkey"], ["Amsterdam", "Jew", "Turkey"], ["Amsterdam", "Netherlands", "Turkey"], ["Amsterdam", "Rotterdam", "Turkey"], ["Amsterdam", "World_War_I", "Turkey"]]

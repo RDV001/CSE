@@ -1,0 +1,1 @@
+[["Sea_of_Galilee", "Banana", "Scientific_classification", "Chordate"], ["Sea_of_Galilee", "Dead_Sea", "Bird", "Chordate"], ["Sea_of_Galilee", "Dead_Sea", "Jackal", "Chordate"], ["Sea_of_Galilee", "United_Kingdom", "Lion", "Chordate"]]

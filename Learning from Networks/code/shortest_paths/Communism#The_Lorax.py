@@ -1,0 +1,1 @@
+[["Communism", "Human", "Poetry", "Dr._Seuss", "The_Lorax"], ["Communism", "Mao_Zedong", "Poetry", "Dr._Seuss", "The_Lorax"]]

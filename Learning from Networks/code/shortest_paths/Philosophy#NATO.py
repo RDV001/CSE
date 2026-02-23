@@ -1,0 +1,1 @@
+[["Philosophy", "United_States", "NATO"]]

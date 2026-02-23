@@ -1,0 +1,1 @@
+[["Trafalgar_Square", "Germany", "Georgia_%28country%29"]]

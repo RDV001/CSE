@@ -1,0 +1,1 @@
+[["Eurovision_Song_Contest", "Culture", "Law"], ["Eurovision_Song_Contest", "European_Union", "Law"], ["Eurovision_Song_Contest", "Italy", "Law"], ["Eurovision_Song_Contest", "Jordan", "Law"], ["Eurovision_Song_Contest", "Lebanon", "Law"]]

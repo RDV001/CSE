@@ -1,0 +1,1 @@
+[["Christmas_Island", "English_language", "Israel"], ["Christmas_Island", "Islam", "Israel"], ["Christmas_Island", "List_of_countries_by_system_of_government", "Israel"], ["Christmas_Island", "Middle_East", "Israel"], ["Christmas_Island", "World_War_II", "Israel"]]

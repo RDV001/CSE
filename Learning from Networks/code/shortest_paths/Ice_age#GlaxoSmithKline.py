@@ -1,0 +1,1 @@
+[["Ice_age", "Arctic_Ocean", "United_Kingdom", "GlaxoSmithKline"], ["Ice_age", "Canada", "United_Kingdom", "GlaxoSmithKline"], ["Ice_age", "Himalayas", "United_Kingdom", "GlaxoSmithKline"], ["Ice_age", "North_America", "United_Kingdom", "GlaxoSmithKline"]]

@@ -1,0 +1,1 @@
+[["Germany", "Coal", "Barium"]]

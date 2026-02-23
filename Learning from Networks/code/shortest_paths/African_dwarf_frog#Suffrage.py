@@ -1,0 +1,1 @@
+[["African_dwarf_frog", "Africa", "Mozambique", "Suffrage"], ["African_dwarf_frog", "Africa", "S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe", "Suffrage"], ["African_dwarf_frog", "Africa", "United_States_Senate", "Suffrage"]]

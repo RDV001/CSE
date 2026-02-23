@@ -1,0 +1,1 @@
+[["Jehovah", "Switzerland", "Climate", "Tropical_cyclone", "2005_Atlantic_hurricane_season", "Tropical_Storm_Zeta_%282005%29"], ["Jehovah", "Switzerland", "Energy", "Tropical_cyclone", "2005_Atlantic_hurricane_season", "Tropical_Storm_Zeta_%282005%29"], ["Jehovah", "Switzerland", "Japan", "Tropical_cyclone", "2005_Atlantic_hurricane_season", "Tropical_Storm_Zeta_%282005%29"]]

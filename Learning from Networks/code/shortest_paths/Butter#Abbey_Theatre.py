@@ -1,0 +1,1 @@
+[["Butter", "Ireland", "Church_of_Ireland", "Abbey_Theatre"], ["Butter", "United_Kingdom", "Church_of_Ireland", "Abbey_Theatre"], ["Butter", "Ireland", "Dublin", "Abbey_Theatre"], ["Butter", "Tea", "Dublin", "Abbey_Theatre"], ["Butter", "Ireland", "William_Butler_Yeats", "Abbey_Theatre"], ["Butter", "New_Zealand", "Irish_people", "Abbey_Theatre"]]

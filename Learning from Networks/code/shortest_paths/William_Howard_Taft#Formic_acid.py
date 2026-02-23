@@ -1,0 +1,1 @@
+[["William_Howard_Taft", "Automobile", "Alcohol", "Formic_acid"], ["William_Howard_Taft", "Nicaragua", "Water", "Formic_acid"]]

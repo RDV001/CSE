@@ -1,0 +1,1 @@
+[["Naval_Battle_of_Guadalcanal", "New_Zealand", "Basketball", "University_of_Chicago"], ["Naval_Battle_of_Guadalcanal", "United_States", "Basketball", "University_of_Chicago"], ["Naval_Battle_of_Guadalcanal", "United_States", "Chicago", "University_of_Chicago"], ["Naval_Battle_of_Guadalcanal", "United_States", "Education_in_the_United_States", "University_of_Chicago"]]

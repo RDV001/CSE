@@ -1,0 +1,1 @@
+[["Iron%28III%29_chloride", "Copper", "Arsenic", "Insect"], ["Iron%28III%29_chloride", "Copper", "Arthropod", "Insect"], ["Iron%28III%29_chloride", "Copper", "Brain", "Insect"]]

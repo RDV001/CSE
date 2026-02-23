@@ -1,0 +1,1 @@
+[["Gliese_876_c", "Planetary_habitability", "47_Ursae_Majoris"]]

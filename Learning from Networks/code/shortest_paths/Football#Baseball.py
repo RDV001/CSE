@@ -1,0 +1,1 @@
+[["Football", "American_football", "Baseball"], ["Football", "Basketball", "Baseball"], ["Football", "Canada", "Baseball"], ["Football", "Ice_hockey", "Baseball"], ["Football", "Samoa", "Baseball"], ["Football", "Sweden", "Baseball"], ["Football", "United_States", "Baseball"]]

@@ -1,0 +1,1 @@
+[["Bill_Gates", "Seattle%2C_Washington", "Atlanta%2C_Georgia"], ["Bill_Gates", "United_States", "Atlanta%2C_Georgia"]]

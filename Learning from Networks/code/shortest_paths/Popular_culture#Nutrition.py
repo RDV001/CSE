@@ -1,0 +1,1 @@
+[["Popular_culture", "Clothing", "Insect", "Nutrition"], ["Popular_culture", "Culture", "Agriculture", "Nutrition"], ["Popular_culture", "Society", "Agriculture", "Nutrition"], ["Popular_culture", "Literature", "Psychology", "Nutrition"]]

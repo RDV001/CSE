@@ -1,0 +1,1 @@
+[["Tasmanian_Devil", "Australia", "England", "Francis_Bacon"], ["Tasmanian_Devil", "Wallaby", "England", "Francis_Bacon"]]

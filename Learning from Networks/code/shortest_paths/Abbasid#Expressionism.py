@@ -1,0 +1,1 @@
+[["Abbasid", "Charlemagne", "Art", "Expressionism"], ["Abbasid", "Iran", "Art", "Expressionism"], ["Abbasid", "Charlemagne", "Belgium", "Expressionism"], ["Abbasid", "Spain", "Belgium", "Expressionism"], ["Abbasid", "Iran", "20th_century", "Expressionism"]]

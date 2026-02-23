@@ -1,0 +1,1 @@
+[["Mysticism", "19th_century", "Red_Sea", "Invertebrate"], ["Mysticism", "Asia", "Red_Sea", "Invertebrate"], ["Mysticism", "Mediterranean_Sea", "Red_Sea", "Invertebrate"], ["Mysticism", "Mediterranean_Sea", "Jurassic", "Invertebrate"], ["Mysticism", "Mediterranean_Sea", "Miocene", "Invertebrate"]]

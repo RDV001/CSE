@@ -1,0 +1,1 @@
+[["Cocoa", "Alchemy", "Art", "Andy_Warhol"], ["Cocoa", "Maya_civilization", "Art", "Andy_Warhol"], ["Cocoa", "Belgium", "The_Adventures_of_Tintin", "Andy_Warhol"], ["Cocoa", "Ecuador", "Soup", "Andy_Warhol"], ["Cocoa", "Maya_civilization", "Painting", "Andy_Warhol"]]

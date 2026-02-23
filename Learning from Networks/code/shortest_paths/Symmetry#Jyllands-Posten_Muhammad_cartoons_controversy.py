@@ -1,0 +1,1 @@
+[["Symmetry", "Parthenon", "Mosque", "Jyllands-Posten_Muhammad_cartoons_controversy"], ["Symmetry", "Taj_Mahal", "Mosque", "Jyllands-Posten_Muhammad_cartoons_controversy"]]

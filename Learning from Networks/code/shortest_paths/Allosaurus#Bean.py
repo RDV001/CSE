@@ -1,0 +1,1 @@
+[["Allosaurus", "Japan", "Vegetable", "Bean"], ["Allosaurus", "North_America", "Turks_and_Caicos_Islands", "Bean"], ["Allosaurus", "United_States", "Turks_and_Caicos_Islands", "Bean"], ["Allosaurus", "Scientific_classification", "Pea", "Bean"], ["Allosaurus", "United_States", "Maize", "Bean"]]

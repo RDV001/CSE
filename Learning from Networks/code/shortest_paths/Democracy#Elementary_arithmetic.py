@@ -1,0 +1,1 @@
+[["Democracy", "Ancient_Greece", "Arithmetic", "Elementary_arithmetic"]]

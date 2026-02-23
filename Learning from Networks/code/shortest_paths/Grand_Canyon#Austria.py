@@ -1,0 +1,1 @@
+[["Grand_Canyon", "Europe", "Austria"], ["Grand_Canyon", "Snow", "Austria"]]

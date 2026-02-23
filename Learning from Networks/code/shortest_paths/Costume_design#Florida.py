@@ -1,0 +1,1 @@
+[["Costume_design", "Film", "21st_century", "Florida"], ["Costume_design", "Film", "United_States", "Florida"], ["Costume_design", "Gone_with_the_Wind_%28film%29", "American_Civil_War", "Florida"], ["Costume_design", "Gone_with_the_Wind_%28film%29", "Atlanta%2C_Georgia", "Florida"]]

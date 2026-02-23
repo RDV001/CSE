@@ -1,0 +1,1 @@
+[["Yellow_fever", "United_States", "Rocky_Mountains"]]

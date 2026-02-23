@@ -1,0 +1,1 @@
+[["Golden_Eagle", "Japan", "Buddha"]]

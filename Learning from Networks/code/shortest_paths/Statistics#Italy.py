@@ -1,0 +1,1 @@
+[["Statistics", "19th_century", "Italy"], ["Statistics", "Carl_Friedrich_Gauss", "Italy"], ["Statistics", "Florence_Nightingale", "Italy"], ["Statistics", "German_language", "Italy"], ["Statistics", "Science", "Italy"], ["Statistics", "University", "Italy"], ["Statistics", "World_War_I", "Italy"]]

@@ -1,0 +1,1 @@
+[["United_Arab_Emirates", "English_language", "New_Zealand", "Bat"], ["United_Arab_Emirates", "List_of_countries_by_system_of_government", "New_Zealand", "Bat"], ["United_Arab_Emirates", "Saudi_Arabia", "New_Zealand", "Bat"], ["United_Arab_Emirates", "Time_zone", "New_Zealand", "Bat"], ["United_Arab_Emirates", "India", "Mammal", "Bat"]]

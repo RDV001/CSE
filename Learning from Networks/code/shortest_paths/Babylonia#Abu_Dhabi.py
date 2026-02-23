@@ -1,0 +1,1 @@
+[["Babylonia", "Astrology", "Asia", "Abu_Dhabi"], ["Babylonia", "Earth", "Asia", "Abu_Dhabi"], ["Babylonia", "Astrology", "Middle_East", "Abu_Dhabi"], ["Babylonia", "Earth", "Middle_East", "Abu_Dhabi"]]

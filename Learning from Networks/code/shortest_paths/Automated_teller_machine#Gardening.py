@@ -1,0 +1,1 @@
+[["Automated_teller_machine", "Antarctica", "Soil", "Gardening"], ["Automated_teller_machine", "South_Africa", "Plant", "Gardening"]]

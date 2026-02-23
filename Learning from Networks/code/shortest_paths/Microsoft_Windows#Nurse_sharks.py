@@ -1,0 +1,1 @@
+[["Microsoft_Windows", "Microsoft", "United_States", "Cayman_Islands", "Stingray", "Nurse_sharks"], ["Microsoft_Windows", "Windows_2000", "English_language", "Cayman_Islands", "Stingray", "Nurse_sharks"], ["Microsoft_Windows", "Windows_2000", "North_America", "Cayman_Islands", "Stingray", "Nurse_sharks"]]

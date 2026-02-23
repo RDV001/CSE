@@ -1,0 +1,1 @@
+[["Baghdad", "City", "Australia"], ["Baghdad", "Flood", "Australia"], ["Baghdad", "Football", "Australia"], ["Baghdad", "Iran", "Australia"], ["Baghdad", "Iraq_War", "Australia"], ["Baghdad", "Jew", "Australia"], ["Baghdad", "Transport", "Australia"]]

@@ -1,0 +1,1 @@
+[["Tripoli", "City", "University", "List_of_universities_in_the_United_Kingdom"], ["Tripoli", "Ottoman_Empire", "University", "List_of_universities_in_the_United_Kingdom"], ["Tripoli", "Sarajevo", "University", "List_of_universities_in_the_United_Kingdom"]]

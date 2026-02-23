@@ -1,0 +1,1 @@
+[["Firearm", "Italy", "Currency"], ["Firearm", "United_States", "Currency"]]

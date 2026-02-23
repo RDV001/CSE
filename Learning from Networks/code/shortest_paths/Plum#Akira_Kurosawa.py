@@ -1,0 +1,1 @@
+[["Plum", "Plant", "Mitochondrion", "Star_Wars", "Akira_Kurosawa"], ["Plum", "Tree", "Mythology", "Star_Wars", "Akira_Kurosawa"], ["Plum", "Tree", "Redwood_National_and_State_Parks", "Star_Wars", "Akira_Kurosawa"], ["Plum", "United_States", "Cinema_of_the_United_States", "Star_Wars_Episode_IV__A_New_Hope", "Akira_Kurosawa"]]

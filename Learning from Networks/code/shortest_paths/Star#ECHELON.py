@@ -1,0 +1,1 @@
+[["Star", "Radio_frequency", "NATO", "ECHELON"]]

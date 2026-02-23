@@ -1,0 +1,1 @@
+[["Armadillo", "Andes", "Cretaceous", "Iridium"], ["Armadillo", "Insect", "Cretaceous", "Iridium"], ["Armadillo", "Mammal", "Cretaceous", "Iridium"], ["Armadillo", "Mammal", "Cretaceous-Tertiary_extinction_event", "Iridium"], ["Armadillo", "Mammal", "Dinosaur", "Iridium"], ["Armadillo", "Mammal", "Paleocene", "Iridium"]]

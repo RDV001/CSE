@@ -1,0 +1,1 @@
+[["Working_poor", "Poverty", "Iodine", "Nuclear_fission"], ["Working_poor", "United_States", "Nuclear_power", "Nuclear_fission"], ["Working_poor", "United_States", "Nuclear_weapon", "Nuclear_fission"], ["Working_poor", "United_States", "Sweden", "Nuclear_fission"]]

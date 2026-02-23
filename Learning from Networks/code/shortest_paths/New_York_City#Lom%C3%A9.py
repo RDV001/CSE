@@ -1,0 +1,1 @@
+[["New_York_City", "Atlantic_Ocean", "Lom%C3%A9"]]

@@ -1,0 +1,1 @@
+[["Norway", "10th_century", "Mexico"], ["Norway", "19th_century", "Mexico"], ["Norway", "List_of_countries_by_system_of_government", "Mexico"], ["Norway", "Pacific_Ocean", "Mexico"], ["Norway", "Petroleum", "Mexico"], ["Norway", "Saudi_Arabia", "Mexico"], ["Norway", "World_War_I", "Mexico"]]

@@ -1,0 +1,1 @@
+[["Esperanto", "Africa", "Carnivore", "Frog"], ["Esperanto", "Finland", "Fishing", "Frog"], ["Esperanto", "Japan", "Fishing", "Frog"]]

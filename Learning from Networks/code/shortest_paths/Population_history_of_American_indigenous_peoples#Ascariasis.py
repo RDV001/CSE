@@ -1,0 +1,1 @@
+[["Population_history_of_American_indigenous_peoples", "Bacteria", "Pneumonia", "Ascariasis"], ["Population_history_of_American_indigenous_peoples", "Measles", "Pneumonia", "Ascariasis"]]

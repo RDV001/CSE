@@ -1,0 +1,1 @@
+[["Superman", "Canada", "Arctic", "Wolverine"], ["Superman", "Human", "Arctic", "Wolverine"], ["Superman", "Soviet_Union", "Arctic", "Wolverine"], ["Superman", "Canada", "Beaver", "Wolverine"]]

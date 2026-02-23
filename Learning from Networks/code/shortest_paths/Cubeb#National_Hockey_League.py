@@ -1,0 +1,1 @@
+[["Cubeb", "Europe", "Helsinki", "National_Hockey_League"], ["Cubeb", "Thomas_Pynchon", "Boston%2C_Massachusetts", "National_Hockey_League"], ["Cubeb", "Thomas_Pynchon", "New_York_City", "National_Hockey_League"]]

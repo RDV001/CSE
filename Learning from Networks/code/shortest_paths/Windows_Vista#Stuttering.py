@@ -1,0 +1,1 @@
+[["Windows_Vista", "Bill_Gates", "Sweden", "Emanuel_Swedenborg", "Stuttering"], ["Windows_Vista", "European_Union", "Sweden", "Emanuel_Swedenborg", "Stuttering"], ["Windows_Vista", "United_States_dollar", "Abraham_Lincoln", "Zachary_Taylor", "Stuttering"], ["Windows_Vista", "United_States_dollar", "Ulysses_S._Grant", "Zachary_Taylor", "Stuttering"]]

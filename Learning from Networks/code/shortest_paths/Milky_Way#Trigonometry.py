@@ -1,0 +1,1 @@
+[["Milky_Way", "Open_cluster", "Trigonometry"], ["Milky_Way", "Sphere", "Trigonometry"]]

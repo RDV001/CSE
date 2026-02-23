@@ -1,0 +1,1 @@
+[["Russian_language", "Estonia", "Hinduism"], ["Russian_language", "Italy", "Hinduism"], ["Russian_language", "Los_Angeles%2C_California", "Hinduism"], ["Russian_language", "Toronto", "Hinduism"], ["Russian_language", "United_Kingdom", "Hinduism"], ["Russian_language", "United_States", "Hinduism"]]

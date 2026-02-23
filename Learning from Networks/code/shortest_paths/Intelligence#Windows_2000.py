@@ -1,0 +1,1 @@
+[["Intelligence", "Computer_science", "Computer_programming", "Microsoft_Windows", "Windows_2000"], ["Intelligence", "Computer_science", "Cryptography", "Automated_teller_machine", "Windows_2000"], ["Intelligence", "Computer_science", "Cryptography", "Intel_Corporation", "Windows_2000"], ["Intelligence", "Computer_science", "Cryptography", "Mozilla_Firefox", "Windows_2000"]]

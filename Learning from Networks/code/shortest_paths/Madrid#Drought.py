@@ -1,0 +1,1 @@
+[["Madrid", "China", "Drought"], ["Madrid", "Nouakchott", "Drought"], ["Madrid", "Tripoli", "Drought"]]

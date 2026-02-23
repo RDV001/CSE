@@ -1,0 +1,1 @@
+[["Lake_Tahoe", "Los_Angeles%2C_California", "Auckland", "All_Blacks"], ["Lake_Tahoe", "Los_Angeles%2C_California", "New_Zealand", "All_Blacks"], ["Lake_Tahoe", "World_War_II", "New_Zealand", "All_Blacks"]]

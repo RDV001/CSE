@@ -1,0 +1,1 @@
+[["Bedbug", "Temperate", "Winter", "Vole"], ["Bedbug", "Tropics", "Winter", "Vole"]]

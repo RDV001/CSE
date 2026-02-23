@@ -1,0 +1,1 @@
+[["Celery", "Essential_oil", "Cat", "Rabies"], ["Celery", "Rabbit", "Cat", "Rabies"], ["Celery", "Rabbit", "Dog", "Rabies"], ["Celery", "Vitamin_C", "History_of_science", "Rabies"]]

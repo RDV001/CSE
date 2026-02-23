@@ -1,0 +1,1 @@
+[["Sparrow", "Asia", "Hinduism"], ["Sparrow", "Europe", "Hinduism"], ["Sparrow", "South_America", "Hinduism"]]

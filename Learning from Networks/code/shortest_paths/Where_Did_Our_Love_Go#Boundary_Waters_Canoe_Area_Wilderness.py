@@ -1,0 +1,1 @@
+[["Where_Did_Our_Love_Go", "German_language", "Amish", "Minnesota", "Boundary_Waters_Canoe_Area_Wilderness"], ["Where_Did_Our_Love_Go", "German_language", "United_States", "Minnesota", "Boundary_Waters_Canoe_Area_Wilderness"], ["Where_Did_Our_Love_Go", "The_Supremes", "United_States", "Minnesota", "Boundary_Waters_Canoe_Area_Wilderness"]]

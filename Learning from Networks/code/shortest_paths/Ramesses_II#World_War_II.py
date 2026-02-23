@@ -1,0 +1,1 @@
+[["Ramesses_II", "Israel", "World_War_II"], ["Ramesses_II", "Lebanon", "World_War_II"], ["Ramesses_II", "Paris", "World_War_II"]]

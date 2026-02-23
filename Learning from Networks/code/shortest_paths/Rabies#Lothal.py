@@ -1,0 +1,1 @@
+[["Rabies", "China", "Civilization", "Lothal"], ["Rabies", "China", "Indus_Valley_Civilization", "Lothal"], ["Rabies", "India", "Indus_Valley_Civilization", "Lothal"], ["Rabies", "India", "Indus_River", "Lothal"], ["Rabies", "Tuberculosis", "Ancient_history", "Lothal"]]

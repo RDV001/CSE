@@ -1,0 +1,1 @@
+[["Portuguese_language", "Africa", "United_States_Senate"], ["Portuguese_language", "Newark%2C_New_Jersey", "United_States_Senate"], ["Portuguese_language", "United_States", "United_States_Senate"]]

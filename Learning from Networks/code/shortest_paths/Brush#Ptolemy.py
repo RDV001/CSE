@@ -1,0 +1,1 @@
+[["Brush", "Camel", "Africa", "Ptolemy"], ["Brush", "Painting", "Chola_dynasty", "Ptolemy"], ["Brush", "Painting", "Geography", "Ptolemy"], ["Brush", "Pony", "Ireland", "Ptolemy"], ["Brush", "Steel", "England", "Ptolemy"]]

@@ -1,0 +1,1 @@
+[["Oppression", "Psychology", "United_States", "Football_%28soccer%29"]]

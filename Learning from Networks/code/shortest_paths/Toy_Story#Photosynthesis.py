@@ -1,0 +1,1 @@
+[["Toy_Story", "Australia", "Great_Barrier_Reef", "Photosynthesis"], ["Toy_Story", "Eagle", "Animal", "Photosynthesis"], ["Toy_Story", "Star_Wars", "Earth", "Photosynthesis"], ["Toy_Story", "United_Kingdom", "Earth", "Photosynthesis"], ["Toy_Story", "United_States", "Arctic_Ocean", "Photosynthesis"]]

@@ -1,0 +1,1 @@
+[["Uganda", "Qatar", "Cornell_University", "IPod"], ["Uganda", "Russia", "Mass_media", "IPod"], ["Uganda", "United_States", "Advertising", "IPod"]]

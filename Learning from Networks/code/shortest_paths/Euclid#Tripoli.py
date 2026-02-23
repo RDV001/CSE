@@ -1,0 +1,1 @@
+[["Euclid", "Arabic_language", "Libya", "Tripoli"], ["Euclid", "Greece", "Libya", "Tripoli"], ["Euclid", "Greece", "Africa", "Tripoli"]]

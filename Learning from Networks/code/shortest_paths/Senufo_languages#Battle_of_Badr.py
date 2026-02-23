@@ -1,0 +1,1 @@
+[["Senufo_languages", "Burkina_Faso", "Islam", "Muhammad", "Battle_of_Badr"], ["Senufo_languages", "C%C3%B4te_d%27Ivoire", "Portuguese_language", "Muhammad", "Battle_of_Badr"]]

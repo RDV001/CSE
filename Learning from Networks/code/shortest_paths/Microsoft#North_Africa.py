@@ -1,0 +1,1 @@
+[["Microsoft", "United_States", "North_Africa"]]

@@ -1,0 +1,1 @@
+[["Mikhail_Gorbachev", "Belarus", "Eurovision_Song_Contest"]]

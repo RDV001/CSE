@@ -1,0 +1,1 @@
+[["Munich", "Architecture", "Geology", "Batholith"], ["Munich", "Edinburgh", "Geology", "Batholith"], ["Munich", "Austria", "Granite", "Batholith"]]

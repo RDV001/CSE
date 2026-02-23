@@ -1,0 +1,1 @@
+[["Gray_Wolf", "Continent", "Volcano"], ["Gray_Wolf", "Italy", "Volcano"], ["Gray_Wolf", "Minnesota", "Volcano"], ["Gray_Wolf", "Yellowstone_National_Park", "Volcano"]]

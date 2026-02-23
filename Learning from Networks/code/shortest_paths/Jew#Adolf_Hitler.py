@@ -1,0 +1,1 @@
+[["Jew", "Adolf_Hitler"]]

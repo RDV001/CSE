@@ -1,0 +1,1 @@
+[["Netherlands", "German_language", "Chicago", "Chicago_Bears"], ["Netherlands", "Sweden", "Chicago", "Chicago_Bears"], ["Netherlands", "Transport", "Chicago", "Chicago_Bears"], ["Netherlands", "United_States", "Chicago", "Chicago_Bears"]]

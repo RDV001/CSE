@@ -1,0 +1,1 @@
+[["Scooby-Doo", "The_Simpsons", "Antarctica", "Jupiter", "Red_dwarf"], ["Scooby-Doo", "United_States", "Antarctica", "Jupiter", "Red_dwarf"], ["Scooby-Doo", "United_States", "Volcano", "Jupiter", "Red_dwarf"], ["Scooby-Doo", "The_Simpsons", "Earth", "Red_giant", "Red_dwarf"]]

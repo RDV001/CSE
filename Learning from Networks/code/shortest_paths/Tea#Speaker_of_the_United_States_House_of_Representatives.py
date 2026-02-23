@@ -1,0 +1,1 @@
+[["Tea", "Boston%2C_Massachusetts", "Cheers", "Speaker_of_the_United_States_House_of_Representatives"], ["Tea", "Boston%2C_Massachusetts", "United_States_House_of_Representatives", "Speaker_of_the_United_States_House_of_Representatives"]]

@@ -1,0 +1,1 @@
+[["Richard_II_of_England", "British_monarchy", "Henry_VI_of_England"], ["Richard_II_of_England", "Henry_V_of_England", "Henry_VI_of_England"], ["Richard_II_of_England", "Tower_of_London", "Henry_VI_of_England"]]

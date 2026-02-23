@@ -1,0 +1,1 @@
+[["Paul_McCartney", "Christopher_Columbus", "Tropical_cyclone", "2005_Atlantic_hurricane_season"], ["Paul_McCartney", "Rio_de_Janeiro", "Tropical_cyclone", "2005_Atlantic_hurricane_season"], ["Paul_McCartney", "U2", "Hurricane_Katrina", "2005_Atlantic_hurricane_season"]]

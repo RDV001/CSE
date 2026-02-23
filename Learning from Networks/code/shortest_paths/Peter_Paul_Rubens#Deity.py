@@ -1,0 +1,1 @@
+[["Peter_Paul_Rubens", "Baroque", "Religion", "Deity"], ["Peter_Paul_Rubens", "Roman_Catholic_Church", "Africa", "Deity"], ["Peter_Paul_Rubens", "Spain", "Africa", "Deity"], ["Peter_Paul_Rubens", "Roman_Catholic_Church", "God", "Deity"]]

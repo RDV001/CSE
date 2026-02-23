@@ -1,0 +1,1 @@
+[["Vodafone", "England", "Rudyard_Kipling", "Sumac"], ["Vodafone", "Hong_Kong", "Fruit", "Sumac"], ["Vodafone", "Sweden", "Tree", "Sumac"], ["Vodafone", "Turkey", "Olive_oil", "Sumac"]]

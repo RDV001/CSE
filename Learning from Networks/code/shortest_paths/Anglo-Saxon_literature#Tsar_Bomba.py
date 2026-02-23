@@ -1,0 +1,1 @@
+[["Anglo-Saxon_literature", "Geography", "Earthquake", "Tsar_Bomba"]]

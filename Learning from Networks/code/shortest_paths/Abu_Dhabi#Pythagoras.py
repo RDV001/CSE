@@ -1,0 +1,1 @@
+[["Abu_Dhabi", "Arabic_language", "Alchemy", "Pythagoras"], ["Abu_Dhabi", "Egypt", "Greece", "Pythagoras"]]

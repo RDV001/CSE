@@ -1,0 +1,1 @@
+[["Bison", "Asia", "Earth", "Season"], ["Bison", "Europe", "Earth", "Season"], ["Bison", "North_America", "Earth", "Season"], ["Bison", "Asia", "Mathematics", "Season"], ["Bison", "Europe", "Arctic_Ocean", "Season"], ["Bison", "North_America", "Arctic_Ocean", "Season"], ["Bison", "Europe", "England", "Season"], ["Bison", "Europe", "Stockholm", "Season"]]

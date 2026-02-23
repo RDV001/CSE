@@ -1,0 +1,1 @@
+[["Architecture", "Astronomy", "Hubble_Space_Telescope", "Space_Shuttle_Challenger_disaster"], ["Architecture", "Light", "Richard_Feynman", "Space_Shuttle_Challenger_disaster"], ["Architecture", "Science", "Richard_Feynman", "Space_Shuttle_Challenger_disaster"]]

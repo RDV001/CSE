@@ -1,0 +1,1 @@
+[["Coal", "Arsenic", "Light"], ["Coal", "Barium", "Light"], ["Coal", "Cadmium", "Light"], ["Coal", "Electricity", "Light"]]

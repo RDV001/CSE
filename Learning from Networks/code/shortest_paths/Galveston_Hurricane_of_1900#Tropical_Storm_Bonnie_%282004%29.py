@@ -1,0 +1,1 @@
+[["Galveston_Hurricane_of_1900", "Florida", "Hurricane_Charley", "Tropical_Storm_Bonnie_%282004%29"], ["Galveston_Hurricane_of_1900", "Hurricane_Mitch", "2004_Atlantic_hurricane_season", "Tropical_Storm_Bonnie_%282004%29"]]

@@ -1,0 +1,1 @@
+[["Thalassemia", "China", "Calligraphy", "Windows_Vista"]]

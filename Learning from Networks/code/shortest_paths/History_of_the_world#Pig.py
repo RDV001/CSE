@@ -1,0 +1,1 @@
+[["History_of_the_world", "Civilization", "Pig"], ["History_of_the_world", "Fertile_Crescent", "Pig"], ["History_of_the_world", "Islam", "Pig"], ["History_of_the_world", "Sahara", "Pig"], ["History_of_the_world", "Sumer", "Pig"]]

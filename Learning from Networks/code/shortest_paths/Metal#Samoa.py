@@ -1,0 +1,1 @@
+[["Metal", "Aluminium", "English_language", "Samoa"], ["Metal", "Chemical_element", "English_language", "Samoa"], ["Metal", "Silver", "English_language", "Samoa"], ["Metal", "Currency", "List_of_circulating_currencies", "Samoa"], ["Metal", "Numismatics", "List_of_circulating_currencies", "Samoa"]]

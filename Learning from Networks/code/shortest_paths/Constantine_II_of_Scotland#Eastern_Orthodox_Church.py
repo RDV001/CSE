@@ -1,0 +1,1 @@
+[["Constantine_II_of_Scotland", "Christianity", "Eastern_Orthodox_Church"]]

@@ -1,0 +1,1 @@
+[["Magnet", "Floppy_disk", "Compact_Disc"]]

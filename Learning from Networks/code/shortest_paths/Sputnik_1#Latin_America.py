@@ -1,0 +1,1 @@
+[["Sputnik_1", "Earth", "Latin_America"], ["Sputnik_1", "United_States", "Latin_America"]]

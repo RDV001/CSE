@@ -1,0 +1,1 @@
+[["Mahjong", "Copper", "Schizophrenia", "Myocardial_infarction"], ["Mahjong", "People%27s_Republic_of_China", "Tobacco_smoking", "Myocardial_infarction"]]

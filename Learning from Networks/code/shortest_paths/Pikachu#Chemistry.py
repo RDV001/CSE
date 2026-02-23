@@ -1,0 +1,1 @@
+[["Pikachu", "Computer_and_video_games", "Engineering", "Chemistry"], ["Pikachu", "Forest", "Soil", "Chemistry"], ["Pikachu", "Tree", "Soil", "Chemistry"], ["Pikachu", "Mammal", "Dinosaur", "Chemistry"], ["Pikachu", "New_York_City", "Israel", "Chemistry"], ["Pikachu", "The_Simpsons", "Alcohol", "Chemistry"]]

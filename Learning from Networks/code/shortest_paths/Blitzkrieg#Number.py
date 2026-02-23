@@ -1,0 +1,1 @@
+[["Blitzkrieg", "Adolf_Hitler", "Austria", "Number"], ["Blitzkrieg", "Dresden", "Austria", "Number"], ["Blitzkrieg", "German_language", "Austria", "Number"], ["Blitzkrieg", "Germany", "Austria", "Number"], ["Blitzkrieg", "Poland", "Austria", "Number"], ["Blitzkrieg", "Treaty_of_Versailles", "Austria", "Number"], ["Blitzkrieg", "World_War_II", "Austria", "Number"]]

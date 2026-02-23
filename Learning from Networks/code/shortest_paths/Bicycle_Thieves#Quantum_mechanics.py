@@ -1,0 +1,1 @@
+[["Bicycle_Thieves", "Film", "20th_century", "Quantum_mechanics"], ["Bicycle_Thieves", "Italy", "20th_century", "Quantum_mechanics"], ["Bicycle_Thieves", "Rome", "20th_century", "Quantum_mechanics"], ["Bicycle_Thieves", "World_War_II", "Joseph_Stalin", "Quantum_mechanics"]]

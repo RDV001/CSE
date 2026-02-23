@@ -1,0 +1,1 @@
+[["David_Hume", "Edinburgh", "Mammal", "Oligocene"], ["David_Hume", "English_language", "Puerto_Rico", "Oligocene"], ["David_Hume", "France", "Rhine", "Oligocene"], ["David_Hume", "Germany", "Rhine", "Oligocene"], ["David_Hume", "Switzerland", "Rhine", "Oligocene"]]

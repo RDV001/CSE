@@ -1,0 +1,1 @@
+[["Wrestling", "Asia", "Sun", "Aztec"], ["Wrestling", "California", "Mexico", "Aztec"], ["Wrestling", "United_States", "Mexico", "Aztec"], ["Wrestling", "China", "Maya_civilization", "Aztec"], ["Wrestling", "Europe", "Owl", "Aztec"], ["Wrestling", "Israel", "Zionism", "Aztec"]]

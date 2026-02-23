@@ -1,0 +1,1 @@
+[["United_States_Declaration_of_Independence", "Abraham_Lincoln", "Lyndon_B._Johnson", "Mummy"], ["United_States_Declaration_of_Independence", "Martin_Luther_King%2C_Jr.", "Lyndon_B._Johnson", "Mummy"], ["United_States_Declaration_of_Independence", "Ho_Chi_Minh", "Tuberculosis", "Mummy"]]

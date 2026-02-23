@@ -1,0 +1,1 @@
+[["Lithium_aluminium_hydride", "Aluminium", "Alzheimer%27s_disease", "B_vitamins"], ["Lithium_aluminium_hydride", "Ethanol", "Beer", "B_vitamins"]]

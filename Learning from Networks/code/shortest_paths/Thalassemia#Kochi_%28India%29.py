@@ -1,0 +1,1 @@
+[["Thalassemia", "Cambodia", "Indian_Ocean", "Kochi_%28India%29"], ["Thalassemia", "India", "Indian_Ocean", "Kochi_%28India%29"], ["Thalassemia", "Kenya", "Indian_Ocean", "Kochi_%28India%29"], ["Thalassemia", "India", "Kerala", "Kochi_%28India%29"], ["Thalassemia", "Kenya", "Vasco_da_Gama", "Kochi_%28India%29"]]

@@ -1,0 +1,1 @@
+[["Libertarianism", "Germany", "Adolf_Hitler"], ["Libertarianism", "Nazism", "Adolf_Hitler"]]

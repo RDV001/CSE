@@ -1,0 +1,1 @@
+[["Isaac_Brock", "Canada", "Hurricane_Katrina"], ["Isaac_Brock", "Detroit%2C_Michigan", "Hurricane_Katrina"], ["Isaac_Brock", "President_of_the_United_States", "Hurricane_Katrina"]]

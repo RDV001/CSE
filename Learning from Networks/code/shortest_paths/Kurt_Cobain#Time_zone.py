@@ -1,0 +1,1 @@
+[["Kurt_Cobain", "Chicago", "Time_zone"], ["Kurt_Cobain", "Germany", "Time_zone"], ["Kurt_Cobain", "Los_Angeles%2C_California", "Time_zone"], ["Kurt_Cobain", "New_York_City", "Time_zone"], ["Kurt_Cobain", "Rome", "Time_zone"], ["Kurt_Cobain", "Seattle%2C_Washington", "Time_zone"], ["Kurt_Cobain", "United_States", "Time_zone"]]

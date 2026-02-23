@@ -1,0 +1,1 @@
+[["WTA_Tour_Championships", "California", "Earthquake", "Effects_of_nuclear_explosions"]]

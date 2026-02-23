@@ -1,0 +1,1 @@
+[["Byzantine_Empire", "Azerbaijan", "George_W._Bush"], ["Byzantine_Empire", "Germany", "George_W._Bush"]]

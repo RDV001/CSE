@@ -1,0 +1,1 @@
+[["German_language", "Switzerland", "Finance", "Corporate_finance", "Investment_banking"], ["German_language", "United_States", "Finance", "Corporate_finance", "Investment_banking"]]

@@ -1,0 +1,1 @@
+[["Ordinal_number", "John_von_Neumann", "Byzantine_Empire", "Sassanid_Empire"], ["Ordinal_number", "Mathematics", "Mesopotamia", "Sassanid_Empire"]]

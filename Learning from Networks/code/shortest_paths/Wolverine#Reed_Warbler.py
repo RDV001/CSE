@@ -1,0 +1,1 @@
+[["Wolverine", "Europe", "18th_century", "Edward_Jenner", "Common_Cuckoo", "Reed_Warbler"], ["Wolverine", "South_America", "Smallpox", "Edward_Jenner", "Common_Cuckoo", "Reed_Warbler"]]

@@ -1,0 +1,1 @@
+[["Equatorial_Guinea", "Chile", "Silver", "Vampire"], ["Equatorial_Guinea", "United_Nations", "George_Byron%2C_6th_Baron_Byron", "Vampire"]]

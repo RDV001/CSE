@@ -1,0 +1,1 @@
+[["Bah%C3%A1%27%C3%AD_Faith", "League_of_Nations", "Adolf_Hitler"]]

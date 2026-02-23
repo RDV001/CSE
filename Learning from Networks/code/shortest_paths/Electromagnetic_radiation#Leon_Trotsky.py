@@ -1,0 +1,1 @@
+[["Electromagnetic_radiation", "Albert_Einstein", "Capitalism", "Leon_Trotsky"], ["Electromagnetic_radiation", "Albert_Einstein", "Communism", "Leon_Trotsky"], ["Electromagnetic_radiation", "Albert_Einstein", "Soviet_Union", "Leon_Trotsky"], ["Electromagnetic_radiation", "Human", "Mexico_City", "Leon_Trotsky"]]

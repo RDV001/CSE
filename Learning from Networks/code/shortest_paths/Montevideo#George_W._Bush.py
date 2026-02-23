@@ -1,0 +1,1 @@
+[["Montevideo", "Germany", "George_W._Bush"]]

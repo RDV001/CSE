@@ -1,0 +1,1 @@
+[["Acorn_Computers", "England", "Anglicanism", "Ordination_of_women"], ["Acorn_Computers", "United_Kingdom", "Anglican_Communion", "Ordination_of_women"], ["Acorn_Computers", "Wales", "Anglican_Communion", "Ordination_of_women"]]

@@ -1,0 +1,1 @@
+[["Stephen_Hawking", "French_language", "Central_African_Republic"]]

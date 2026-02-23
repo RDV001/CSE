@@ -1,0 +1,1 @@
+[["Azerbaijani_people", "Armenia", "Bronze_Age"], ["Azerbaijani_people", "Estonia", "Bronze_Age"], ["Azerbaijani_people", "Iranian_peoples", "Bronze_Age"]]

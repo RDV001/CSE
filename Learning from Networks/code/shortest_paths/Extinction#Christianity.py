@@ -1,0 +1,1 @@
+[["Extinction", "Human", "Christianity"], ["Extinction", "Madagascar", "Christianity"], ["Extinction", "New_Zealand", "Christianity"], ["Extinction", "Water", "Christianity"]]

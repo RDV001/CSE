@@ -1,0 +1,1 @@
+[["MINI_%28BMW%29", "Brazil", "Parliamentary_system", "Parliament_of_Malaysia", "Social_contract_%28Malaysia%29"], ["MINI_%28BMW%29", "United_Kingdom", "Parliamentary_system", "Parliament_of_Malaysia", "Social_contract_%28Malaysia%29"], ["MINI_%28BMW%29", "United_States", "Malaysia", "Parliament_of_Malaysia", "Social_contract_%28Malaysia%29"]]

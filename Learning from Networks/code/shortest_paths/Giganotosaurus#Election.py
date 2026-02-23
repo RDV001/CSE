@@ -1,0 +1,1 @@
+[["Giganotosaurus", "Argentina", "Liberalism", "Election"], ["Giganotosaurus", "Spinosaurus", "World_War_II", "Election"], ["Giganotosaurus", "Sydney", "World_War_II", "Election"]]

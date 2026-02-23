@@ -1,0 +1,1 @@
+[["Chicago", "Europe", "Iran", "Islamic_republic"], ["Chicago", "Sweden", "Iran", "Islamic_republic"], ["Chicago", "United_States", "Iran", "Islamic_republic"], ["Chicago", "University_of_Chicago", "Iran", "Islamic_republic"], ["Chicago", "Germany", "Afghanistan", "Islamic_republic"], ["Chicago", "Time_zone", "Afghanistan", "Islamic_republic"]]

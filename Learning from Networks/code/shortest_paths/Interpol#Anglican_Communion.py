@@ -1,0 +1,1 @@
+[["Interpol", "Antigua_and_Barbuda", "Anglican_Communion"], ["Interpol", "Australia", "Anglican_Communion"], ["Interpol", "Barbados", "Anglican_Communion"], ["Interpol", "Mozambique", "Anglican_Communion"], ["Interpol", "Sri_Lanka", "Anglican_Communion"], ["Interpol", "The_Bahamas", "Anglican_Communion"], ["Interpol", "United_Kingdom", "Anglican_Communion"]]

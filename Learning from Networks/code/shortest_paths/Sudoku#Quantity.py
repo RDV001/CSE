@@ -1,0 +1,1 @@
+[["Sudoku", "Leonhard_Euler", "Algebra", "Quantity"], ["Sudoku", "Leonhard_Euler", "Mathematics", "Quantity"], ["Sudoku", "Logic", "Mathematics", "Quantity"]]

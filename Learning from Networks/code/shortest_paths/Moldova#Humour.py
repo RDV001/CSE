@@ -1,0 +1,1 @@
+[["Moldova", "Natural_gas", "Cattle", "Humour"]]

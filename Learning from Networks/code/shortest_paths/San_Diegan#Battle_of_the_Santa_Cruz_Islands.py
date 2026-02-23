@@ -1,0 +1,1 @@
+[["San_Diegan", "World_War_II", "Battle_of_Midway", "Battle_of_the_Santa_Cruz_Islands"], ["San_Diegan", "World_War_II", "Naval_Battle_of_Guadalcanal", "Battle_of_the_Santa_Cruz_Islands"]]

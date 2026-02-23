@@ -1,0 +1,1 @@
+[["Behavioral_finance", "John_Maynard_Keynes", "Isaac_Newton", "Planet", "Definition_of_planet"]]

@@ -1,0 +1,1 @@
+[["Beetle", "Mummy", "19th_century", "1st_century"], ["Beetle", "Mummy", "20th_century", "1st_century"], ["Beetle", "Mummy", "8th_century", "1st_century"], ["Beetle", "Mummy", "Peru", "1st_century"], ["Beetle", "Potato", "Peru", "1st_century"]]

@@ -1,0 +1,1 @@
+[["Pony", "Horse", "Olympic_Games", "Bear", "Giant_Panda"], ["Pony", "Ireland", "Luftwaffe", "Swastika", "Giant_Panda"]]

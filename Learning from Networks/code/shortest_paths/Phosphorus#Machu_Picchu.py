@@ -1,0 +1,1 @@
+[["Phosphorus", "19th_century", "Peru", "Machu_Picchu"], ["Phosphorus", "Agriculture", "Andes", "Machu_Picchu"], ["Phosphorus", "Agriculture", "History_of_the_world", "Machu_Picchu"], ["Phosphorus", "China", "Civilization", "Machu_Picchu"], ["Phosphorus", "Florida", "Tourism", "Machu_Picchu"], ["Phosphorus", "Morocco", "Tourism", "Machu_Picchu"]]

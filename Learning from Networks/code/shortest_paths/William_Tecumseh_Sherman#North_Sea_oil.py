@@ -1,0 +1,1 @@
+[["William_Tecumseh_Sherman", "Napoleon_I_of_France", "Scotland", "North_Sea_oil"], ["William_Tecumseh_Sherman", "Washington%2C_D.C.", "Scotland", "North_Sea_oil"], ["William_Tecumseh_Sherman", "United_States", "Petroleum", "North_Sea_oil"]]

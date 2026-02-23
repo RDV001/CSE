@@ -1,0 +1,1 @@
+[["Boeing_747", "Germany", "Capital"], ["Boeing_747", "Japan", "Capital"], ["Boeing_747", "Johannesburg", "Capital"], ["Boeing_747", "London", "Capital"], ["Boeing_747", "Paris", "Capital"], ["Boeing_747", "Taipei", "Capital"]]

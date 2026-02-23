@@ -1,0 +1,1 @@
+[["Waste_management", "Aluminium", "Neutron"], ["Waste_management", "Hydrogen", "Neutron"], ["Waste_management", "Oxygen", "Neutron"]]

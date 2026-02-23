@@ -1,0 +1,1 @@
+[["Buenos_Aires", "Armenia", "Democracy"], ["Buenos_Aires", "Brazil", "Democracy"], ["Buenos_Aires", "Croatia", "Democracy"], ["Buenos_Aires", "France", "Democracy"], ["Buenos_Aires", "Italy", "Democracy"], ["Buenos_Aires", "Jew", "Democracy"], ["Buenos_Aires", "Poland", "Democracy"], ["Buenos_Aires", "Spain", "Democracy"]]

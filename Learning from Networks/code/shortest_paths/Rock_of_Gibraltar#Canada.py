@@ -1,0 +1,1 @@
+[["Rock_of_Gibraltar", "Atlantic_Ocean", "Canada"], ["Rock_of_Gibraltar", "Jamaica", "Canada"], ["Rock_of_Gibraltar", "Jurassic", "Canada"], ["Rock_of_Gibraltar", "United_Kingdom", "Canada"], ["Rock_of_Gibraltar", "World_War_II", "Canada"]]

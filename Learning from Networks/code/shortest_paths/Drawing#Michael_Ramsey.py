@@ -1,0 +1,1 @@
+[["Drawing", "Europe", "Anglicanism", "Michael_Ramsey"]]

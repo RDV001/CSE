@@ -1,0 +1,1 @@
+[["Tay-Sachs_disease", "Schizophrenia", "Republic_of_Ireland"], ["Tay-Sachs_disease", "United_Kingdom", "Republic_of_Ireland"], ["Tay-Sachs_disease", "United_States", "Republic_of_Ireland"]]

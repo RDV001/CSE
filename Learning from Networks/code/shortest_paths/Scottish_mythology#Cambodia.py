@@ -1,0 +1,1 @@
+[["Scottish_mythology", "King_Arthur", "13th_century", "Cambodia"], ["Scottish_mythology", "Scotland", "French_language", "Cambodia"], ["Scottish_mythology", "Scotland", "List_of_countries_by_system_of_government", "Cambodia"], ["Scottish_mythology", "Scotland", "Olympic_Games", "Cambodia"], ["Scottish_mythology", "Scotland", "United_States", "Cambodia"]]

@@ -1,0 +1,1 @@
+[["Claude_Monet", "Algeria", "Africa", "Tutsi"], ["Claude_Monet", "Mediterranean_Sea", "Africa", "Tutsi"], ["Claude_Monet", "Paris", "Africa", "Tutsi"], ["Claude_Monet", "Tuberculosis", "Africa", "Tutsi"], ["Claude_Monet", "World_War_I", "Africa", "Tutsi"]]

@@ -1,0 +1,1 @@
+[["Taipei", "China", "Roman_Empire", "Pompeii"], ["Taipei", "France", "Roman_Empire", "Pompeii"], ["Taipei", "Rail_transport", "Roman_Empire", "Pompeii"], ["Taipei", "El_Salvador", "Literacy", "Pompeii"], ["Taipei", "Mexico", "Literacy", "Pompeii"], ["Taipei", "Saudi_Arabia", "Lemon", "Pompeii"], ["Taipei", "Tea", "Lemon", "Pompeii"]]

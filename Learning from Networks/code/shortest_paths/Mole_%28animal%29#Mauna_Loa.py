@@ -1,0 +1,1 @@
+[["Mole_%28animal%29", "Animal", "Carbon_dioxide", "Mauna_Loa"], ["Mole_%28animal%29", "Germany", "Carbon_dioxide", "Mauna_Loa"]]

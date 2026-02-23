@@ -1,0 +1,1 @@
+[["Potassium_nitrate", "Ammonia", "United_States", "United_States_Constitution"], ["Potassium_nitrate", "Sulfuric_acid", "United_States", "United_States_Constitution"]]

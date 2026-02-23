@@ -1,0 +1,1 @@
+[["Ethnic_group", "Capitalism", "England"], ["Ethnic_group", "English_language", "England"], ["Ethnic_group", "Europe", "England"], ["Ethnic_group", "Nationalism", "England"]]

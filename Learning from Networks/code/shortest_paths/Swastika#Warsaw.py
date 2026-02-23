@@ -1,0 +1,1 @@
+[["Swastika", "Architecture", "Warsaw"], ["Swastika", "Europe", "Warsaw"], ["Swastika", "Kiev", "Warsaw"], ["Swastika", "Paris", "Warsaw"], ["Swastika", "Poland", "Warsaw"], ["Swastika", "Taipei", "Warsaw"], ["Swastika", "The_Holocaust", "Warsaw"], ["Swastika", "World_War_I", "Warsaw"], ["Swastika", "World_War_II", "Warsaw"]]

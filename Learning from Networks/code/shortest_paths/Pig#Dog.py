@@ -1,0 +1,1 @@
+[["Pig", "Brush", "Badger", "Dog"], ["Pig", "Judaism", "Menstrual_cycle", "Dog"], ["Pig", "Meat", "Chicken", "Dog"], ["Pig", "Meat", "Rabbit", "Dog"]]

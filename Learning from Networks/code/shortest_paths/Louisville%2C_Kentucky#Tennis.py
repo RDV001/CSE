@@ -1,0 +1,1 @@
+[["Louisville%2C_Kentucky", "Argentina", "Tennis"], ["Louisville%2C_Kentucky", "Ecuador", "Tennis"], ["Louisville%2C_Kentucky", "United_Kingdom", "Tennis"], ["Louisville%2C_Kentucky", "United_States", "Tennis"]]

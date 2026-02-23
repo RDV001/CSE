@@ -1,0 +1,1 @@
+[["Lightning_rod", "19th_century", "16th_century", "Watch"], ["Lightning_rod", "Metal", "Palladium", "Watch"], ["Lightning_rod", "United_States", "Computer", "Watch"]]

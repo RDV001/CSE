@@ -1,0 +1,1 @@
+[["Lake_Vostok", "Russian_language", "Miami%2C_Florida"]]

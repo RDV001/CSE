@@ -1,0 +1,1 @@
+[["Myocardial_infarction", "AIDS", "United_Kingdom"], ["Myocardial_infarction", "Diabetes_mellitus", "United_Kingdom"], ["Myocardial_infarction", "Morphine", "United_Kingdom"], ["Myocardial_infarction", "Pneumonia", "United_Kingdom"], ["Myocardial_infarction", "United_States", "United_Kingdom"]]

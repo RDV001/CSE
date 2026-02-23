@@ -1,0 +1,1 @@
+[["Mother_Teresa", "Africa", "Carnivore", "Vulture"], ["Mother_Teresa", "Europe", "Carnivore", "Vulture"], ["Mother_Teresa", "California", "Bird_migration", "Vulture"]]

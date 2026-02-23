@@ -1,0 +1,1 @@
+[["Stem_cell", "Bill_Clinton", "United_States", "Bald_Eagle", "Snow_Goose"], ["Stem_cell", "Canada", "United_States", "Bald_Eagle", "Snow_Goose"], ["Stem_cell", "Cancer", "United_States", "Bald_Eagle", "Snow_Goose"], ["Stem_cell", "George_W._Bush", "United_States", "Bald_Eagle", "Snow_Goose"], ["Stem_cell", "Cancer", "Bird", "Goose", "Snow_Goose"]]

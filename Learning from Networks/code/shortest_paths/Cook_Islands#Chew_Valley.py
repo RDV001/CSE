@@ -1,0 +1,1 @@
+[["Cook_Islands", "Constitutional_monarchy", "John_Locke", "Chew_Magna", "Chew_Valley"], ["Cook_Islands", "Government", "John_Locke", "Chew_Magna", "Chew_Valley"]]

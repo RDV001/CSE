@@ -1,0 +1,1 @@
+[["Allah", "Jesus", "Apollo", "Heracles"]]

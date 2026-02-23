@@ -1,0 +1,1 @@
+[["Internet_Explorer", "Bill_Gates", "United_Kingdom", "Grand_Slam_%28tennis%29", "Tiger_Woods"], ["Internet_Explorer", "Phishing", "United_Kingdom", "Grand_Slam_%28tennis%29", "Tiger_Woods"], ["Internet_Explorer", "Windows_XP", "New_Zealand", "All_Blacks", "Tiger_Woods"]]

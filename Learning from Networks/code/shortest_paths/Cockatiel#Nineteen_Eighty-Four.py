@@ -1,0 +1,1 @@
+[["Cockatiel", "Europe", "Faroe_Islands", "Nineteen_Eighty-Four"]]

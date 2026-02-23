@@ -1,0 +1,1 @@
+[["Minstrel_show", "Dance", "18th_century", "Carl_Friedrich_Gauss"], ["Minstrel_show", "Irish_people", "Germany", "Carl_Friedrich_Gauss"], ["Minstrel_show", "United_States", "Germany", "Carl_Friedrich_Gauss"], ["Minstrel_show", "Victoria_of_the_United_Kingdom", "Germany", "Carl_Friedrich_Gauss"], ["Minstrel_show", "Music", "Mathematics", "Carl_Friedrich_Gauss"]]

@@ -1,0 +1,1 @@
+[["The_Rolling_Stones", "England", "Linguistics", "Speech_synthesis"], ["The_Rolling_Stones", "Nazism", "Linguistics", "Speech_synthesis"], ["The_Rolling_Stones", "Miles_Davis", "Synthesizer", "Speech_synthesis"], ["The_Rolling_Stones", "Paul_McCartney", "Synthesizer", "Speech_synthesis"]]

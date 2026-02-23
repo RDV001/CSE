@@ -1,0 +1,1 @@
+[["Boston%2C_Massachusetts", "Global_city", "Dublin", "Google"], ["Boston%2C_Massachusetts", "Global_city", "Hamburg", "Google"], ["Boston%2C_Massachusetts", "Global_city", "Z%C3%BCrich", "Google"], ["Boston%2C_Massachusetts", "September_11%2C_2001_attacks", "Al_Jazeera", "Google"], ["Boston%2C_Massachusetts", "United_States", "Advertising", "Google"]]

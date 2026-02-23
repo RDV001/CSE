@@ -1,0 +1,1 @@
+[["Mammoth_Cave_National_Park", "Calcium", "Ancient_Rome", "House"], ["Mammoth_Cave_National_Park", "Potassium", "Ancient_Rome", "House"], ["Mammoth_Cave_National_Park", "Trench_warfare", "Ancient_Rome", "House"], ["Mammoth_Cave_National_Park", "Trench_warfare", "Monopoly_%28game%29", "House"]]

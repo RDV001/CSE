@@ -1,0 +1,1 @@
+[["Tsar_Bomba", "Soviet_Union", "Leon_Trotsky"]]

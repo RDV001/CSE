@@ -1,0 +1,1 @@
+[["Palestinian_territories", "Lebanon", "Human_rights"], ["Palestinian_territories", "Syria", "Human_rights"], ["Palestinian_territories", "United_Nations", "Human_rights"]]

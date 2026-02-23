@@ -1,0 +1,1 @@
+[["Cyclops", "Greek_mythology", "Leonardo_da_Vinci", "Painting"], ["Cyclops", "Greek_mythology", "Raphael", "Painting"], ["Cyclops", "Homer", "Art", "Painting"]]

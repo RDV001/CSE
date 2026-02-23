@@ -1,0 +1,1 @@
+[["Capitalism", "Islam", "Citrus"]]

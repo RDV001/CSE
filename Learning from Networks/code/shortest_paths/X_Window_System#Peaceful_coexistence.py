@@ -1,0 +1,1 @@
+[["X_Window_System", "Unix", "Richard_Stallman", "Winston_Churchill", "Peaceful_coexistence"]]

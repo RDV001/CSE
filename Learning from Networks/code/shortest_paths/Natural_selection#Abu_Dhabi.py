@@ -1,0 +1,1 @@
+[["Natural_selection", "Nazism", "Middle_East", "Abu_Dhabi"]]

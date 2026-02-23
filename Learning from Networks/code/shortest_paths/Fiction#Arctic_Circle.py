@@ -1,0 +1,1 @@
+[["Fiction", "Advertising", "Sweden", "Arctic_Circle"], ["Fiction", "Santa_Claus", "Sweden", "Arctic_Circle"], ["Fiction", "Art", "Saint_Petersburg", "Arctic_Circle"], ["Fiction", "Human", "Arctic", "Arctic_Circle"], ["Fiction", "Human", "Clothing", "Arctic_Circle"], ["Fiction", "Human", "Earth", "Arctic_Circle"], ["Fiction", "Santa_Claus", "Finland", "Arctic_Circle"]]

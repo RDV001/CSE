@@ -1,0 +1,1 @@
+[["Henry_Morton_Stanley", "Africa", "Earth", "Weather"], ["Henry_Morton_Stanley", "Africa", "Temperate", "Weather"], ["Henry_Morton_Stanley", "London", "Temperate", "Weather"], ["Henry_Morton_Stanley", "London", "Newspaper", "Weather"]]

@@ -1,0 +1,1 @@
+[["Greece", "Adolf_Hitler", "Winston_Churchill"], ["Greece", "European_Union", "Winston_Churchill"], ["Greece", "United_Nations", "Winston_Churchill"], ["Greece", "World_War_II", "Winston_Churchill"]]

@@ -1,0 +1,1 @@
+[["Canberra", "Asia", "Africa", "Ouagadougou"], ["Canberra", "China", "Africa", "Ouagadougou"], ["Canberra", "Chinese_language", "Africa", "Ouagadougou"], ["Canberra", "Melbourne", "Africa", "Ouagadougou"], ["Canberra", "Crime", "Family", "Ouagadougou"], ["Canberra", "Germany", "Family", "Ouagadougou"]]

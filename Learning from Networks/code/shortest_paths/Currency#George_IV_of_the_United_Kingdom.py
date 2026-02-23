@@ -1,0 +1,1 @@
+[["Currency", "18th_century", "George_III_of_the_United_Kingdom", "George_IV_of_the_United_Kingdom"], ["Currency", "18th_century", "Industrial_Revolution", "George_IV_of_the_United_Kingdom"], ["Currency", "19th_century", "Victoria_of_the_United_Kingdom", "George_IV_of_the_United_Kingdom"]]

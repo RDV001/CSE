@@ -1,0 +1,1 @@
+[["James_Bond", "Asia", "Economy_of_Africa", "African_slave_trade"], ["James_Bond", "Novel", "Oroonoko", "African_slave_trade"], ["James_Bond", "United_States", "History_of_slavery", "African_slave_trade"]]

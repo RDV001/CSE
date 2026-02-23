@@ -1,0 +1,1 @@
+[["Supply_chain_management", "Supply_and_demand", "United_States", "Seattle%2C_Washington", "Mount_Rainier"], ["Supply_chain_management", "Supply_and_demand", "United_States", "Volcano", "Mount_Rainier"]]

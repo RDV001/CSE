@@ -1,0 +1,1 @@
+[["Eruption_column", "Climate_change", "United_Nations", "Second_Congo_War"], ["Eruption_column", "Philippines", "United_Nations", "Second_Congo_War"], ["Eruption_column", "Rain", "Africa", "Second_Congo_War"], ["Eruption_column", "Volcano", "Democratic_Republic_of_the_Congo", "Second_Congo_War"]]

@@ -1,0 +1,1 @@
+[["Bath_School_disaster", "United_States", "Manifest_Destiny", "Franklin_Pierce"], ["Bath_School_disaster", "United_States", "President_of_the_United_States", "Franklin_Pierce"], ["Bath_School_disaster", "World_War_I", "President_of_the_United_States", "Franklin_Pierce"]]

@@ -1,0 +1,1 @@
+[["Angel_shark", "Animal", "Human", "Japanese_yen"], ["Angel_shark", "Scientific_classification", "Human", "Japanese_yen"], ["Angel_shark", "Shark", "Japan", "Japanese_yen"]]

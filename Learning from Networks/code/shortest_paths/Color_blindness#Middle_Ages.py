@@ -1,0 +1,1 @@
+[["Color_blindness", "Science", "Middle_Ages"], ["Color_blindness", "Scotland", "Middle_Ages"]]

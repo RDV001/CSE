@@ -1,0 +1,1 @@
+[["Vodafone", "Albania", "Qatar"], ["Vodafone", "Bahrain", "Qatar"], ["Vodafone", "Formula_One", "Qatar"], ["Vodafone", "Greece", "Qatar"], ["Vodafone", "Kenya", "Qatar"], ["Vodafone", "Mozambique", "Qatar"], ["Vodafone", "Tanzania", "Qatar"], ["Vodafone", "Turkey", "Qatar"], ["Vodafone", "United_States", "Qatar"]]

@@ -1,0 +1,1 @@
+[["Barnacle", "Arctic", "United_States", "Hip_hop_music"], ["Barnacle", "Evolution", "United_States", "Hip_hop_music"], ["Barnacle", "Europe", "Bucharest", "Hip_hop_music"], ["Barnacle", "Europe", "Kosovo", "Hip_hop_music"], ["Barnacle", "Europe", "Lisbon", "Hip_hop_music"]]

@@ -1,0 +1,1 @@
+[["Organization", "Corporation", "Sweden", "Emanuel_Swedenborg"]]

@@ -1,0 +1,1 @@
+[["Shoshone_National_Forest", "United_States", "Battle_of_Gettysburg"]]

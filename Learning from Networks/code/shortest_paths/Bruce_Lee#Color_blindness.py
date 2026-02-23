@@ -1,0 +1,1 @@
+[["Bruce_Lee", "Film", "Color", "Color_blindness"], ["Bruce_Lee", "United_States", "Federated_States_of_Micronesia", "Color_blindness"], ["Bruce_Lee", "United_States_dollar", "Federated_States_of_Micronesia", "Color_blindness"]]

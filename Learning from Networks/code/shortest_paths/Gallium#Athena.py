@@ -1,0 +1,1 @@
+[["Gallium", "19th_century", "Athens", "Athena"], ["Gallium", "Aluminium", "Ancient_Greece", "Athena"], ["Gallium", "Mercury_%28element%29", "Ancient_Greece", "Athena"], ["Gallium", "Salt", "Greece", "Athena"]]

@@ -1,0 +1,1 @@
+[["North_Africa", "Ancient_Egypt", "Odysseus", "Agamemnon"], ["North_Africa", "Ancient_Rome", "Greek_mythology", "Agamemnon"], ["North_Africa", "Atlantic_Ocean", "Greek_mythology", "Agamemnon"], ["North_Africa", "Europe", "Greek_mythology", "Agamemnon"], ["North_Africa", "Ancient_Rome", "Zeus", "Agamemnon"], ["North_Africa", "Europe", "Zeus", "Agamemnon"]]

@@ -1,0 +1,1 @@
+[["Mozilla_Firefox", "Europe", "Mammal", "Cretaceous-Tertiary_extinction_event"]]

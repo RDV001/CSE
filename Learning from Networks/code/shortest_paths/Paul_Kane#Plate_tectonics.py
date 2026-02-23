@@ -1,0 +1,1 @@
+[["Paul_Kane", "Mount_St._Helens", "Plate_tectonics"], ["Paul_Kane", "Pacific_Ocean", "Plate_tectonics"], ["Paul_Kane", "Volcano", "Plate_tectonics"]]

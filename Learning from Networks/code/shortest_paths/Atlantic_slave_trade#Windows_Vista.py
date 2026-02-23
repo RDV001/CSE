@@ -1,0 +1,1 @@
+[["Atlantic_slave_trade", "Ottoman_Empire", "Calligraphy", "Windows_Vista"]]

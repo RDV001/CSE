@@ -1,0 +1,1 @@
+[["Victor_Hugo", "19th_century", "Japan"], ["Victor_Hugo", "France", "Japan"], ["Victor_Hugo", "Italy", "Japan"], ["Victor_Hugo", "Liberalism", "Japan"], ["Victor_Hugo", "Paris", "Japan"]]

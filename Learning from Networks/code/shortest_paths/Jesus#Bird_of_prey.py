@@ -1,0 +1,1 @@
+[["Jesus", "British_Empire", "New_Zealand", "Bird_of_prey"], ["Jesus", "English_language", "New_Zealand", "Bird_of_prey"], ["Jesus", "Saudi_Arabia", "New_Zealand", "Bird_of_prey"], ["Jesus", "Europe", "Hawk", "Bird_of_prey"], ["Jesus", "Europe", "Owl", "Bird_of_prey"]]

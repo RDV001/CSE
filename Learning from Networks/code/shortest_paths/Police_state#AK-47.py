@@ -1,0 +1,1 @@
+[["Police_state", "Police", "Firearm", "AK-47"]]

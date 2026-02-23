@@ -1,0 +1,1 @@
+[["Morocco", "English_language", "Saint_Lucia", "Helen"], ["Morocco", "List_of_countries_by_system_of_government", "Saint_Lucia", "Helen"], ["Morocco", "Madagascar", "Saint_Lucia", "Helen"], ["Morocco", "Monarchy", "Saint_Lucia", "Helen"], ["Morocco", "United_States", "Saint_Lucia", "Helen"], ["Morocco", "Europe", "Zeus", "Helen"], ["Morocco", "Jew", "Zeus", "Helen"]]

@@ -1,0 +1,1 @@
+[["Educational_psychology", "Anthropology", "United_Kingdom", "Loch"], ["Educational_psychology", "Medicine", "United_Kingdom", "Loch"], ["Educational_psychology", "North_America", "United_Kingdom", "Loch"]]

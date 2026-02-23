@@ -1,0 +1,1 @@
+[["Electromagnetic_radiation", "Radio", "Woodrow_Wilson", "William_McKinley"]]

@@ -1,0 +1,1 @@
+[["Frederick_II_of_Prussia", "Austria", "European_Union"], ["Frederick_II_of_Prussia", "Berlin", "European_Union"], ["Frederick_II_of_Prussia", "French_language", "European_Union"], ["Frederick_II_of_Prussia", "German_language", "European_Union"], ["Frederick_II_of_Prussia", "German_reunification", "European_Union"], ["Frederick_II_of_Prussia", "Germany", "European_Union"]]

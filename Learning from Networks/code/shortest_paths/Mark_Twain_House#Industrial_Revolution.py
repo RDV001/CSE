@@ -1,0 +1,1 @@
+[["Mark_Twain_House", "Meningitis", "Middle_Ages", "Industrial_Revolution"], ["Mark_Twain_House", "Meningitis", "Tuberculosis", "Industrial_Revolution"], ["Mark_Twain_House", "Telephone", "Sweden", "Industrial_Revolution"]]

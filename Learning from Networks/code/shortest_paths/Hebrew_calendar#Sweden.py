@@ -1,0 +1,1 @@
+[["Hebrew_calendar", "Bible", "Sweden"], ["Hebrew_calendar", "Israel", "Sweden"]]

@@ -1,0 +1,1 @@
+[["Hopman_Cup", "Czech_Republic", "Holy_Roman_Empire"], ["Hopman_Cup", "Germany", "Holy_Roman_Empire"], ["Hopman_Cup", "Switzerland", "Holy_Roman_Empire"], ["Hopman_Cup", "United_States", "Holy_Roman_Empire"]]

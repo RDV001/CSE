@@ -1,0 +1,1 @@
+[["Strait_of_Malacca", "Africa", "Namibia"]]

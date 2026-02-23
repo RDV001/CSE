@@ -1,0 +1,1 @@
+[["Ukraine", "Agriculture", "Fertilizer", "Soil_structure"], ["Ukraine", "Kiev", "Fertilizer", "Soil_structure"], ["Ukraine", "Natural_gas", "Fertilizer", "Soil_structure"], ["Ukraine", "Agriculture", "Soil", "Soil_structure"]]

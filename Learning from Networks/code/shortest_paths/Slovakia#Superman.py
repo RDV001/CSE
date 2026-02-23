@@ -1,0 +1,1 @@
+[["Slovakia", "Bratislava", "Cleveland%2C_Ohio", "Superman"], ["Slovakia", "NATO", "Ronald_Reagan", "Superman"], ["Slovakia", "Soviet_Union", "Ronald_Reagan", "Superman"]]

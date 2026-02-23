@@ -1,0 +1,1 @@
+[["Friedrich_Nietzsche", "Age_of_Enlightenment", "Calculus", "Acceleration"], ["Friedrich_Nietzsche", "Age_of_Enlightenment", "Galileo_Galilei", "Acceleration"], ["Friedrich_Nietzsche", "Humanism", "Galileo_Galilei", "Acceleration"], ["Friedrich_Nietzsche", "Age_of_Enlightenment", "Physics", "Acceleration"], ["Friedrich_Nietzsche", "Music", "Physics", "Acceleration"]]

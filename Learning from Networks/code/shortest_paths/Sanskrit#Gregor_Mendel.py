@@ -1,0 +1,1 @@
+[["Sanskrit", "11th_century", "19th_century", "Gregor_Mendel"], ["Sanskrit", "Film", "19th_century", "Gregor_Mendel"], ["Sanskrit", "Vietnam", "19th_century", "Gregor_Mendel"], ["Sanskrit", "Europe", "Austria", "Gregor_Mendel"], ["Sanskrit", "German_language", "Austria", "Gregor_Mendel"], ["Sanskrit", "Latin", "Roman_Catholic_Church", "Gregor_Mendel"]]

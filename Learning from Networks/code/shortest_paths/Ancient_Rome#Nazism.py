@@ -1,0 +1,1 @@
+[["Ancient_Rome", "20th_century", "Nazism"], ["Ancient_Rome", "War", "Nazism"]]

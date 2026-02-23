@@ -1,0 +1,1 @@
+[["Apple", "Cambridge", "Birmingham", "BBC_television_drama", "The_Quatermass_Experiment"], ["Apple", "England", "Birmingham", "BBC_television_drama", "The_Quatermass_Experiment"], ["Apple", "Cambridge", "Doctor_Who", "BBC_television_drama", "The_Quatermass_Experiment"]]

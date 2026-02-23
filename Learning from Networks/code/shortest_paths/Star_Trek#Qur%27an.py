@@ -1,0 +1,1 @@
+[["Star_Trek", "Human_rights", "Qur%27an"]]

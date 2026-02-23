@@ -1,0 +1,1 @@
+[["Soybean", "Clothing", "19th_century", "Franz_Schubert"], ["Soybean", "Italy", "19th_century", "Franz_Schubert"], ["Soybean", "Europe", "Austria", "Franz_Schubert"], ["Soybean", "Italy", "Austria", "Franz_Schubert"], ["Soybean", "Maize", "Austria", "Franz_Schubert"]]

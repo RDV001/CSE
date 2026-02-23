@@ -1,0 +1,1 @@
+[["47_Ursae_Majoris", "Star", "Eye", "Edema"]]

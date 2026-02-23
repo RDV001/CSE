@@ -1,0 +1,1 @@
+[["The_Count_of_Monte_Cristo", "Economics", "Gold", "Idolatry"], ["The_Count_of_Monte_Cristo", "France", "Judaism", "Idolatry"], ["The_Count_of_Monte_Cristo", "Italy", "Judaism", "Idolatry"], ["The_Count_of_Monte_Cristo", "Rome", "Judaism", "Idolatry"]]

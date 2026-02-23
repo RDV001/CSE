@@ -1,0 +1,1 @@
+[["Medicine", "Ancient_Greece", "Alexander_the_Great"], ["Medicine", "Persian_Empire", "Alexander_the_Great"], ["Medicine", "Ptolemy", "Alexander_the_Great"]]

@@ -1,0 +1,1 @@
+[["Nationalism", "Anarchism", "God"], ["Nationalism", "China", "God"], ["Nationalism", "Hinduism", "God"], ["Nationalism", "Human", "God"], ["Nationalism", "Islam", "God"], ["Nationalism", "Mahatma_Gandhi", "God"], ["Nationalism", "Religion", "God"], ["Nationalism", "Roman_Catholic_Church", "God"], ["Nationalism", "Zionism", "God"]]

@@ -1,0 +1,1 @@
+[["Economy_of_Africa", "Desert", "Vegetation"], ["Economy_of_Africa", "Nigeria", "Vegetation"], ["Economy_of_Africa", "South_Africa", "Vegetation"]]

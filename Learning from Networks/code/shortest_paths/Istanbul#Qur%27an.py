@@ -1,0 +1,1 @@
+[["Istanbul", "Asia", "Qur%27an"], ["Istanbul", "Calligraphy", "Qur%27an"], ["Istanbul", "Islam", "Qur%27an"], ["Istanbul", "Mosque", "Qur%27an"], ["Istanbul", "Ottoman_Empire", "Qur%27an"], ["Istanbul", "Saudi_Arabia", "Qur%27an"], ["Istanbul", "Sultan", "Qur%27an"]]

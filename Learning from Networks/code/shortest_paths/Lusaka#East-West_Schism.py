@@ -1,0 +1,1 @@
+[["Lusaka", "Europe", "Byzantine_Empire", "East-West_Schism"], ["Lusaka", "Europe", "Christianity", "East-West_Schism"], ["Lusaka", "Zambia", "Christianity", "East-West_Schism"], ["Lusaka", "Europe", "Middle_Ages", "East-West_Schism"]]

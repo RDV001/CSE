@@ -1,0 +1,1 @@
+[["ABO_blood_group_system", "Ape", "Human"], ["ABO_blood_group_system", "Bacteria", "Human"], ["ABO_blood_group_system", "Bonobo", "Human"], ["ABO_blood_group_system", "Chimpanzee", "Human"], ["ABO_blood_group_system", "Gorilla", "Human"]]

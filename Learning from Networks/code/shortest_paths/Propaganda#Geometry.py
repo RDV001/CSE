@@ -1,0 +1,1 @@
+[["Propaganda", "Religion", "Geometry"]]

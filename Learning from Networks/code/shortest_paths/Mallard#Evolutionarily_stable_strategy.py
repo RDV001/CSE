@@ -1,0 +1,1 @@
+[["Mallard", "Asia", "Mathematics", "Game_theory", "Evolutionarily_stable_strategy"]]

@@ -1,0 +1,1 @@
+[["Summer", "Astronomy", "Earth"], ["Summer", "Meteorology", "Earth"], ["Summer", "Season", "Earth"], ["Summer", "Spring_%28season%29", "Earth"], ["Summer", "Tropics", "Earth"], ["Summer", "Winter", "Earth"]]

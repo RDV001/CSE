@@ -1,0 +1,1 @@
+[["Richard_Stallman", "Nelson_Mandela", "Manchester_United_F.C.", "David_Beckham"], ["Richard_Stallman", "Nelson_Mandela", "Trafalgar_Square", "David_Beckham"], ["Richard_Stallman", "Winston_Churchill", "Trafalgar_Square", "David_Beckham"]]

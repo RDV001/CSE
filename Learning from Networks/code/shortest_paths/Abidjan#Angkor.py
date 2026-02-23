@@ -1,0 +1,1 @@
+[["Abidjan", "Automobile", "Thailand", "Angkor"], ["Abidjan", "France", "Thailand", "Angkor"], ["Abidjan", "United_Nations", "Thailand", "Angkor"]]

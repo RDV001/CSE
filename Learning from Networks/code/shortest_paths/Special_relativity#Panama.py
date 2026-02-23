@@ -1,0 +1,1 @@
+[["Special_relativity", "Albert_Einstein", "Franklin_D._Roosevelt", "Panama"], ["Special_relativity", "Albert_Einstein", "United_States", "Panama"], ["Special_relativity", "Speed_of_light", "United_States", "Panama"], ["Special_relativity", "Physics", "19th_century", "Panama"]]

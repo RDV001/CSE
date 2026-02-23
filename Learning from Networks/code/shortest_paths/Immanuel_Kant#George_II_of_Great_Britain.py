@@ -1,0 +1,1 @@
+[["Immanuel_Kant", "Gottfried_Leibniz", "George_II_of_Great_Britain"]]

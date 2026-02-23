@@ -1,0 +1,1 @@
+[["Video", "New_Zealand", "Gold", "Mohs_scale_of_mineral_hardness"], ["Video", "Television", "Selenium", "Mohs_scale_of_mineral_hardness"]]

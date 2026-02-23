@@ -1,0 +1,1 @@
+[["Insect", "Amber", "Sweden", "Emanuel_Swedenborg"], ["Insect", "Carolus_Linnaeus", "Sweden", "Emanuel_Swedenborg"], ["Insect", "Latin", "18th_century", "Emanuel_Swedenborg"]]

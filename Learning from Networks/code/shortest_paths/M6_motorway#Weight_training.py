@@ -1,0 +1,1 @@
+[["M6_motorway", "Edinburgh", "Tourism", "Health", "Weight_training"], ["M6_motorway", "England", "Tourism", "Health", "Weight_training"], ["M6_motorway", "Republic_of_Ireland", "Tourism", "Health", "Weight_training"]]

@@ -1,0 +1,1 @@
+[["Canadian_House_of_Commons", "British_monarchy", "Roman_Catholic_Church", "Leonardo_da_Vinci"], ["Canadian_House_of_Commons", "Canadian_Senate", "Roman_Catholic_Church", "Leonardo_da_Vinci"]]

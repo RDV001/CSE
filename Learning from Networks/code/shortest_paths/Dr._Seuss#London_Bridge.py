@@ -1,0 +1,1 @@
+[["Dr._Seuss", "Adolf_Hitler", "London", "London_Bridge"], ["Dr._Seuss", "New_York_City", "London", "London_Bridge"], ["Dr._Seuss", "Communism", "Thomas_More", "London_Bridge"], ["Dr._Seuss", "William_Shakespeare", "Ben_Jonson", "London_Bridge"]]

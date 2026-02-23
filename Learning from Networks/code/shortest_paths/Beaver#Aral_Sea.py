@@ -1,0 +1,1 @@
+[["Beaver", "17th_century", "Persian_Empire", "Aral_Sea"], ["Beaver", "Europe", "Black_Sea", "Aral_Sea"], ["Beaver", "Europe", "Kazakhstan", "Aral_Sea"], ["Beaver", "Extinction", "Technology", "Aral_Sea"], ["Beaver", "Scotland", "Technology", "Aral_Sea"], ["Beaver", "River", "Ocean", "Aral_Sea"], ["Beaver", "River", "Sea", "Aral_Sea"]]

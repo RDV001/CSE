@@ -1,0 +1,1 @@
+[["Vienna", "Eastern_Orthodox_Church", "Pope_John_Paul_II", "List_of_popes"], ["Vienna", "Poland", "Pope_John_Paul_II", "List_of_popes"], ["Vienna", "Warsaw", "Pope_John_Paul_II", "List_of_popes"]]

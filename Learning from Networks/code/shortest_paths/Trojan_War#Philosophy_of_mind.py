@@ -1,0 +1,1 @@
+[["Trojan_War", "Alexander_the_Great", "Philosophy", "Philosophy_of_mind"], ["Trojan_War", "Plato", "Philosophy", "Philosophy_of_mind"], ["Trojan_War", "Virgil", "Philosophy", "Philosophy_of_mind"], ["Trojan_War", "Plato", "Education", "Philosophy_of_mind"], ["Trojan_War", "Plato", "John_Locke", "Philosophy_of_mind"]]

@@ -1,0 +1,1 @@
+[["Ferdinand_Magellan", "Earth", "Season", "Mahjong"]]

@@ -1,0 +1,1 @@
+[["Speaker_of_the_United_States_House_of_Representatives", "Andrew_Jackson", "Great_Britain", "Antelope", "Dik-dik"], ["Speaker_of_the_United_States_House_of_Representatives", "James_K._Polk", "Great_Britain", "Antelope", "Dik-dik"]]

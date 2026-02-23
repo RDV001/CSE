@@ -1,0 +1,1 @@
+[["Prague", "Albert_Einstein", "Physics", "Electrical_resistance"], ["Prague", "Albert_Einstein", "Quantum_mechanics", "Electrical_resistance"], ["Prague", "Berlin", "Electricity", "Electrical_resistance"], ["Prague", "Israel", "Semiconductor", "Electrical_resistance"], ["Prague", "World_War_II", "Radar", "Electrical_resistance"]]

@@ -1,0 +1,1 @@
+[["Israel", "Time_zone", "Detroit%2C_Michigan"], ["Israel", "United_States", "Detroit%2C_Michigan"]]

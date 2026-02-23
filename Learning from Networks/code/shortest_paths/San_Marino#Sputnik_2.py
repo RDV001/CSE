@@ -1,0 +1,1 @@
+[["San_Marino", "Cheese", "Space_exploration", "Sputnik_2"], ["San_Marino", "Russia", "Sputnik_1", "Sputnik_2"]]

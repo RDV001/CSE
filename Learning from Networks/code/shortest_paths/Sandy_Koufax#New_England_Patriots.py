@@ -1,0 +1,1 @@
+[["Sandy_Koufax", "Boston%2C_Massachusetts", "New_England_Patriots"]]

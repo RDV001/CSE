@@ -1,0 +1,1 @@
+[["Intelligence", "Language", "Arabic_language", "African_Union"], ["Intelligence", "Language", "Portuguese_language", "African_Union"]]

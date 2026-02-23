@@ -1,0 +1,1 @@
+[["Czech_Republic", "Euro", "European_Parliament"], ["Czech_Republic", "European_Union", "European_Parliament"]]

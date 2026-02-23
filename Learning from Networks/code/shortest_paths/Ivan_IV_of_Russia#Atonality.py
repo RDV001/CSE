@@ -1,0 +1,1 @@
+[["Ivan_IV_of_Russia", "Lithuania", "20th_century", "Atonality"], ["Ivan_IV_of_Russia", "Moscow", "20th_century", "Atonality"], ["Ivan_IV_of_Russia", "Sweden", "Opera", "Atonality"]]

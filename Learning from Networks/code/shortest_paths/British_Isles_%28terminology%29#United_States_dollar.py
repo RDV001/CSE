@@ -1,0 +1,1 @@
+[["British_Isles_%28terminology%29", "BBC", "United_States_dollar"], ["British_Isles_%28terminology%29", "Bermuda", "United_States_dollar"], ["British_Isles_%28terminology%29", "Hong_Kong", "United_States_dollar"], ["British_Isles_%28terminology%29", "Republic_of_Ireland", "United_States_dollar"], ["British_Isles_%28terminology%29", "United_Kingdom", "United_States_dollar"]]

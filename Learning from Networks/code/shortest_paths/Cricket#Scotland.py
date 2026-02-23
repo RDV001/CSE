@@ -1,0 +1,1 @@
+[["Cricket", "Edward_II_of_England", "Scotland"], ["Cricket", "Edward_I_of_England", "Scotland"], ["Cricket", "England", "Scotland"], ["Cricket", "English_language", "Scotland"], ["Cricket", "Netherlands", "Scotland"], ["Cricket", "New_Zealand", "Scotland"], ["Cricket", "Old_English_language", "Scotland"], ["Cricket", "Wales", "Scotland"]]

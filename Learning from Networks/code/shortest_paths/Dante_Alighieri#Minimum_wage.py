@@ -1,0 +1,1 @@
+[["Dante_Alighieri", "France", "California", "Minimum_wage"], ["Dante_Alighieri", "Paris", "California", "Minimum_wage"], ["Dante_Alighieri", "Italy", "Law", "Minimum_wage"], ["Dante_Alighieri", "Latin", "Law", "Minimum_wage"], ["Dante_Alighieri", "Luxembourg", "Market", "Minimum_wage"]]

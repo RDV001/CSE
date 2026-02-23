@@ -1,0 +1,1 @@
+[["Perfect_number", "Ancient_Greece", "Syria", "League_of_Nations"], ["Perfect_number", "Leonhard_Euler", "Switzerland", "League_of_Nations"]]

@@ -1,0 +1,1 @@
+[["Sanskrit", "India", "Kerala", "Black_pepper"], ["Sanskrit", "Ramayana", "Kerala", "Black_pepper"], ["Sanskrit", "Tamil_language", "Kerala", "Black_pepper"], ["Sanskrit", "Sri_Lanka", "Tamil_people", "Black_pepper"], ["Sanskrit", "Tamil_language", "Tamil_people", "Black_pepper"]]

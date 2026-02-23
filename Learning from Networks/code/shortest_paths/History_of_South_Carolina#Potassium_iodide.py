@@ -1,0 +1,1 @@
+[["History_of_South_Carolina", "Drinking_water", "Potassium", "Potassium_iodide"], ["History_of_South_Carolina", "United_States", "Nuclear_power", "Potassium_iodide"]]

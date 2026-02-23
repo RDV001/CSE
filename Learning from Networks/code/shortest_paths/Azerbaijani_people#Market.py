@@ -1,0 +1,1 @@
+[["Azerbaijani_people", "Civil_society", "Market"]]

@@ -1,0 +1,1 @@
+[["Socrates", "Atheism", "Douglas_Adams", "Google"], ["Socrates", "Atheism", "Encyclop%C3%A6dia_Britannica", "Google"]]

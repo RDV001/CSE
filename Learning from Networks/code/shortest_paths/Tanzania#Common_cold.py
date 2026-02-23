@@ -1,0 +1,1 @@
+[["Tanzania", "Iran", "Multiple_sclerosis", "Common_cold"], ["Tanzania", "Saudi_Arabia", "Chicken", "Common_cold"], ["Tanzania", "Zimbabwe", "Chicken", "Common_cold"], ["Tanzania", "United_Nations", "Smallpox", "Common_cold"]]

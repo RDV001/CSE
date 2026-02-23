@@ -1,0 +1,1 @@
+[["The_West_Wing_%28TV_series%29", "Africa", "Sorghum", "Distilled_beverage"], ["The_West_Wing_%28TV_series%29", "Osama_bin_Laden", "Sorghum", "Distilled_beverage"], ["The_West_Wing_%28TV_series%29", "Israel", "League_of_Nations", "Distilled_beverage"]]

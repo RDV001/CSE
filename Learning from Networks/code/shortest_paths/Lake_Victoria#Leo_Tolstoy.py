@@ -1,0 +1,1 @@
+[["Lake_Victoria", "Gold", "19th_century", "Leo_Tolstoy"], ["Lake_Victoria", "Kenya", "19th_century", "Leo_Tolstoy"], ["Lake_Victoria", "Richard_Francis_Burton", "Crimean_War", "Leo_Tolstoy"], ["Lake_Victoria", "Victoria_of_the_United_Kingdom", "Crimean_War", "Leo_Tolstoy"]]

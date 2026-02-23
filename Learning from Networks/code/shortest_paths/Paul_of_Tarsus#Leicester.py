@@ -1,0 +1,1 @@
+[["Paul_of_Tarsus", "Bede", "Abbot", "Leicester"], ["Paul_of_Tarsus", "Bede", "England", "Leicester"], ["Paul_of_Tarsus", "Jew", "England", "Leicester"], ["Paul_of_Tarsus", "Martin_Luther", "England", "Leicester"], ["Paul_of_Tarsus", "Greece", "Tourism", "Leicester"]]

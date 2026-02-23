@@ -1,0 +1,1 @@
+[["Sputnik_1", "Russian_language", "South_Ossetia"]]

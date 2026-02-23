@@ -1,0 +1,1 @@
+[["Quatermass_and_the_Pit", "London", "Anglicanism", "Ordination_of_women"], ["Quatermass_and_the_Pit", "The_Quatermass_Experiment", "Pope_John_Paul_II", "Ordination_of_women"], ["Quatermass_and_the_Pit", "United_Kingdom", "Anglican_Communion", "Ordination_of_women"]]

@@ -1,0 +1,1 @@
+[["Rwandan_Genocide", "20th_century", "Puerto_Rico"], ["Rwandan_Genocide", "United_States", "Puerto_Rico"]]

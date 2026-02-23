@@ -1,0 +1,1 @@
+[["Babe_Ruth", "Baseball", "South_America", "Quito"], ["Babe_Ruth", "United_States", "Colombia", "Quito"], ["Babe_Ruth", "United_States", "Ecuador", "Quito"]]

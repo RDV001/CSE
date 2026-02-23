@@ -1,0 +1,1 @@
+[["Vegetation", "Climate_change", "United_States", "Supreme_Court_of_the_United_States", "John_Marshall"], ["Vegetation", "Fire", "United_States", "Supreme_Court_of_the_United_States", "John_Marshall"], ["Vegetation", "Plant", "Tobacco", "Richmond%2C_Virginia", "John_Marshall"]]

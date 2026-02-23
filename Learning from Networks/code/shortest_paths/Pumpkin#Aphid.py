@@ -1,0 +1,1 @@
+[["Pumpkin", "Botany", "Maize", "Aphid"], ["Pumpkin", "Fruit", "Maize", "Aphid"], ["Pumpkin", "Halloween", "Maize", "Aphid"], ["Pumpkin", "United_States", "Maize", "Aphid"], ["Pumpkin", "Fruit", "Citrus", "Aphid"], ["Pumpkin", "Pollinator_decline", "Honey", "Aphid"]]

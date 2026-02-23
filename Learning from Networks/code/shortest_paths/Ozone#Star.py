@@ -1,0 +1,1 @@
+[["Ozone", "Atom", "Star"], ["Ozone", "Carbon", "Star"], ["Ozone", "Hydrogen", "Star"], ["Ozone", "Iron", "Star"], ["Ozone", "Manganese", "Star"], ["Ozone", "Phase_%28matter%29", "Star"], ["Ozone", "Plasma_%28physics%29", "Star"], ["Ozone", "Sun", "Star"]]

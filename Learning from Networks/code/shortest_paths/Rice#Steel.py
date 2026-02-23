@@ -1,0 +1,1 @@
+[["Rice", "18th_century", "Steel"], ["Rice", "Brazil", "Steel"], ["Rice", "Japan", "Steel"], ["Rice", "Pakistan", "Steel"], ["Rice", "People%27s_Republic_of_China", "Steel"], ["Rice", "United_States", "Steel"]]

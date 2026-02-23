@@ -1,0 +1,1 @@
+[["Tony_Blair", "Paris", "Mona_Lisa", "Government_of_France"], ["Tony_Blair", "Roman_Catholic_Church", "Mona_Lisa", "Government_of_France"], ["Tony_Blair", "Paris", "TGV", "Government_of_France"]]

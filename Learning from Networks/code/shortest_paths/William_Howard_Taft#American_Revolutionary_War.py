@@ -1,0 +1,1 @@
+[["William_Howard_Taft", "Andrew_Jackson", "American_Revolutionary_War"], ["William_Howard_Taft", "George_Washington", "American_Revolutionary_War"], ["William_Howard_Taft", "Spain", "American_Revolutionary_War"]]

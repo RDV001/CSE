@@ -1,0 +1,1 @@
+[["Condoleezza_Rice", "Belarus", "Dance"], ["Condoleezza_Rice", "Brazil", "Dance"], ["Condoleezza_Rice", "North_Korea", "Dance"], ["Condoleezza_Rice", "South_Africa", "Dance"]]

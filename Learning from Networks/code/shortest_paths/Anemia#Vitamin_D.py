@@ -1,0 +1,1 @@
+[["Anemia", "Cancer", "Prostate_cancer", "Vitamin_D"], ["Anemia", "Cancer", "Sun", "Vitamin_D"], ["Anemia", "Folic_acid", "Food", "Vitamin_D"], ["Anemia", "Folic_acid", "Vegetable", "Vitamin_D"], ["Anemia", "Oxygen", "Ozone", "Vitamin_D"], ["Anemia", "Pernicious_anemia", "Vitamin", "Vitamin_D"], ["Anemia", "Vitamin_C", "Vitamin", "Vitamin_D"]]

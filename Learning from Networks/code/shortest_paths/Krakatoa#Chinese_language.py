@@ -1,0 +1,1 @@
+[["Krakatoa", "Australia", "Chinese_language"], ["Krakatoa", "Indian_Ocean", "Chinese_language"], ["Krakatoa", "Indonesian_language", "Chinese_language"], ["Krakatoa", "Portuguese_language", "Chinese_language"]]

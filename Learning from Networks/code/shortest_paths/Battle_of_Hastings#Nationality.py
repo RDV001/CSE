@@ -1,0 +1,1 @@
+[["Battle_of_Hastings", "England", "Rudyard_Kipling", "Nationality"], ["Battle_of_Hastings", "France", "Country", "Nationality"], ["Battle_of_Hastings", "Julius_Caesar", "Slavery", "Nationality"], ["Battle_of_Hastings", "London", "Ethnic_group", "Nationality"], ["Battle_of_Hastings", "London", "Multiculturalism", "Nationality"]]

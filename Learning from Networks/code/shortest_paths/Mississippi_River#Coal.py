@@ -1,0 +1,1 @@
+[["Mississippi_River", "Great_Lakes", "Coal"], ["Mississippi_River", "Rocky_Mountains", "Coal"], ["Mississippi_River", "United_States", "Coal"]]

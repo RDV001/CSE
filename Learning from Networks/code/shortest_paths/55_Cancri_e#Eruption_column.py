@@ -1,0 +1,1 @@
+[["55_Cancri_e", "Earth", "Volcano", "Koryaksky", "Eruption_column"], ["55_Cancri_e", "Earth", "Volcano", "Mount_Vesuvius", "Eruption_column"], ["55_Cancri_e", "Earth", "Volcano", "Sakurajima", "Eruption_column"]]

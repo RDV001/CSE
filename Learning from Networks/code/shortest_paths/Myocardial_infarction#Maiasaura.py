@@ -1,0 +1,1 @@
+[["Myocardial_infarction", "Technetium", "Earth", "Dinosaur", "Maiasaura"], ["Myocardial_infarction", "Thallium", "Earth", "Dinosaur", "Maiasaura"], ["Myocardial_infarction", "Technetium", "Iridium", "Dinosaur", "Maiasaura"], ["Myocardial_infarction", "United_States", "Gulf_of_Mexico", "Dinosaur", "Maiasaura"]]

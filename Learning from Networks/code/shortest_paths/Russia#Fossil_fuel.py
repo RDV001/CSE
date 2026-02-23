@@ -1,0 +1,1 @@
+[["Russia", "Agriculture", "Fossil_fuel"], ["Russia", "Natural_gas", "Fossil_fuel"]]

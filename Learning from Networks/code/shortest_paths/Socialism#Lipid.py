@@ -1,0 +1,1 @@
+[["Socialism", "1973_oil_crisis", "Ethanol", "Lipid"], ["Socialism", "Ecology", "Bacteria", "Lipid"], ["Socialism", "Ecology", "Organism", "Lipid"], ["Socialism", "Ecology", "Photosynthesis", "Lipid"]]

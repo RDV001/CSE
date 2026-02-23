@@ -1,0 +1,1 @@
+[["Permian", "Plant", "Agriculture"], ["Permian", "Tree", "Agriculture"], ["Permian", "United_States", "Agriculture"]]

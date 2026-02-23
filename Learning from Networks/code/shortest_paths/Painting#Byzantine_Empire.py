@@ -1,0 +1,1 @@
+[["Painting", "7th_century", "Byzantine_Empire"], ["Painting", "Bible", "Byzantine_Empire"], ["Painting", "Chola_dynasty", "Byzantine_Empire"], ["Painting", "Minoan_civilization", "Byzantine_Empire"], ["Painting", "Plato", "Byzantine_Empire"]]

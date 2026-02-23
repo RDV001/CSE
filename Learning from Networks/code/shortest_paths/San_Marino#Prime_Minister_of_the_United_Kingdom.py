@@ -1,0 +1,1 @@
+[["San_Marino", "Germany", "Prime_Minister_of_the_United_Kingdom"], ["San_Marino", "United_Kingdom", "Prime_Minister_of_the_United_Kingdom"], ["San_Marino", "World_War_II", "Prime_Minister_of_the_United_Kingdom"]]

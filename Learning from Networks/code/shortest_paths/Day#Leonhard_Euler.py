@@ -1,0 +1,1 @@
+[["Day", "Astronomy", "Leonhard_Euler"]]

@@ -1,0 +1,1 @@
+[["League_of_Nations", "Esperanto", "Education"], ["League_of_Nations", "French_language", "Education"], ["League_of_Nations", "German_language", "Education"], ["League_of_Nations", "London", "Education"], ["League_of_Nations", "Nationalism", "Education"], ["League_of_Nations", "United_Nations", "Education"], ["League_of_Nations", "United_States", "Education"]]

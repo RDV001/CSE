@@ -1,0 +1,1 @@
+[["Polar_coordinate_system", "Ancient_Greece", "Music", "Musical_instrument"], ["Polar_coordinate_system", "Leonhard_Euler", "Music", "Musical_instrument"], ["Polar_coordinate_system", "Symmetry", "Music", "Musical_instrument"]]

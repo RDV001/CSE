@@ -1,0 +1,1 @@
+[["Persian_Gulf", "Arabic_language", "Middle_Ages", "Hundred_Years%27_War"], ["Persian_Gulf", "Iran", "Middle_Ages", "Hundred_Years%27_War"], ["Persian_Gulf", "United_Kingdom", "British_monarchy", "Hundred_Years%27_War"], ["Persian_Gulf", "United_Kingdom", "Plymouth", "Hundred_Years%27_War"]]

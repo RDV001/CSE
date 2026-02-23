@@ -1,0 +1,1 @@
+[["Myocardial_infarction", "AIDS", "Africa", "Banjul"], ["Myocardial_infarction", "United_States", "Atlantic_Ocean", "Banjul"], ["Myocardial_infarction", "United_States", "The_Gambia", "Banjul"]]

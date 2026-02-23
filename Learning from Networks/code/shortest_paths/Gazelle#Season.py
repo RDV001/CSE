@@ -1,0 +1,1 @@
+[["Gazelle", "Africa", "Cape_Town", "Season"], ["Gazelle", "Africa", "Earth", "Season"], ["Gazelle", "Asia", "Earth", "Season"], ["Gazelle", "Africa", "Temperate", "Season"], ["Gazelle", "Asia", "Mathematics", "Season"]]

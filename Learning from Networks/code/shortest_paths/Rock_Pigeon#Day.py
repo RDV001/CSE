@@ -1,0 +1,1 @@
+[["Rock_Pigeon", "Animal", "Water", "Day"], ["Rock_Pigeon", "Asia", "Earth", "Day"], ["Rock_Pigeon", "Europe", "Earth", "Day"], ["Rock_Pigeon", "North_America", "Earth", "Day"], ["Rock_Pigeon", "Asia", "Mathematics", "Day"], ["Rock_Pigeon", "London", "Newspaper", "Day"], ["Rock_Pigeon", "Montreal", "Newspaper", "Day"]]

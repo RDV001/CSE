@@ -1,0 +1,1 @@
+[["Manila", "Global_city", "Lisbon"], ["Manila", "Paris", "Lisbon"], ["Manila", "Philip_II_of_Spain", "Lisbon"]]

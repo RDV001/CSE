@@ -1,0 +1,1 @@
+[["Millard_Fillmore", "Europe", "Prague", "Cubism"], ["Millard_Fillmore", "Washington%2C_D.C.", "20th_century", "Cubism"]]

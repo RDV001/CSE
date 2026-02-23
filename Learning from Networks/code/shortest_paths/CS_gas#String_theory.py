@@ -1,0 +1,1 @@
+[["CS_gas", "Iran", "Mathematics", "String_theory"], ["CS_gas", "Israel", "Mathematics", "String_theory"], ["CS_gas", "Israel", "Argentina", "String_theory"], ["CS_gas", "Italy", "Argentina", "String_theory"], ["CS_gas", "United_States", "Argentina", "String_theory"], ["CS_gas", "Water", "Argentina", "String_theory"], ["CS_gas", "Phase_%28matter%29", "Big_Bang", "String_theory"]]

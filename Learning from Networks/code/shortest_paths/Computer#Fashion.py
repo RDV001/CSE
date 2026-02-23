@@ -1,0 +1,1 @@
+[["Computer", "Charles_Babbage", "London", "Fashion"], ["Computer", "Internet", "London", "Fashion"], ["Computer", "Telephone", "London", "Fashion"], ["Computer", "Telephone", "New_York_City", "Fashion"], ["Computer", "Toy", "Culture", "Fashion"], ["Computer", "Toy", "House", "Fashion"], ["Computer", "Watch", "20th_century", "Fashion"]]

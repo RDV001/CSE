@@ -1,0 +1,1 @@
+[["Basketball", "Chile", "New_Zealand", "Spider"], ["Basketball", "Netball", "New_Zealand", "Spider"], ["Basketball", "Olympic_Games", "New_Zealand", "Spider"], ["Basketball", "Television", "New_Zealand", "Spider"], ["Basketball", "Greece", "Athena", "Spider"], ["Basketball", "Theodore_Roosevelt", "Insect", "Spider"]]

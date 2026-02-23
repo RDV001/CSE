@@ -1,0 +1,1 @@
+[["Anemia", "American_English", "Jazz", "Christina_Aguilera", "Britney_Spears"], ["Anemia", "Culture", "Art", "Mona_Lisa", "Britney_Spears"], ["Anemia", "Culture", "Roman_Catholic_Church", "Mona_Lisa", "Britney_Spears"]]

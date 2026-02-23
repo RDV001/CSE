@@ -1,0 +1,1 @@
+[["ROT13", "Mathematics", "Quantum_mechanics", "Neutron"], ["ROT13", "Mathematics", "String_theory", "Neutron"], ["ROT13", "Russia", "Nuclear_weapon", "Neutron"], ["ROT13", "United_States", "Nuclear_weapon", "Neutron"], ["ROT13", "United_States", "Moon", "Neutron"], ["ROT13", "United_States", "Nuclear_power", "Neutron"]]

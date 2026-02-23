@@ -1,0 +1,1 @@
+[["Poverty", "Monarchy", "Cayman_Islands", "James_Bond"], ["Poverty", "Monarchy", "Gibraltar", "James_Bond"], ["Poverty", "World_War_II", "Gibraltar", "James_Bond"], ["Poverty", "Paris", "Ernest_Hemingway", "James_Bond"], ["Poverty", "Slavery", "Irish_people", "James_Bond"]]

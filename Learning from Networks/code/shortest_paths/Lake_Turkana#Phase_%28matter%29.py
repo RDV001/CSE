@@ -1,0 +1,1 @@
+[["Lake_Turkana", "Africa", "Gold", "Phase_%28matter%29"], ["Lake_Turkana", "Desert", "Water", "Phase_%28matter%29"], ["Lake_Turkana", "Elephant", "Water", "Phase_%28matter%29"]]

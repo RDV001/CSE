@@ -1,0 +1,1 @@
+[["Stephen_Harper", "Canadian_Charter_of_Rights_and_Freedoms", "God", "Waheguru"], ["Stephen_Harper", "Toronto", "Sikhism", "Waheguru"]]

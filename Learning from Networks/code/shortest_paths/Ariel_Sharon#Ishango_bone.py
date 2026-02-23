@@ -1,0 +1,1 @@
+[["Ariel_Sharon", "Africa", "Ishango_bone"]]

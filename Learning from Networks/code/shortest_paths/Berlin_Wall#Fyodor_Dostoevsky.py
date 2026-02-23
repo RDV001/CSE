@@ -1,0 +1,1 @@
+[["Berlin_Wall", "Austria", "Ludwig_Wittgenstein", "Fyodor_Dostoevsky"], ["Berlin_Wall", "Democracy", "Philosophy", "Fyodor_Dostoevsky"], ["Berlin_Wall", "Mathematics", "Philosophy", "Fyodor_Dostoevsky"], ["Berlin_Wall", "Mikhail_Gorbachev", "Saint_Petersburg", "Fyodor_Dostoevsky"], ["Berlin_Wall", "Ronald_Reagan", "Ernest_Hemingway", "Fyodor_Dostoevsky"]]

@@ -1,0 +1,1 @@
+[["Keira_Knightley", "Japan", "Tropical_cyclone", "Hurricane_Andrew"], ["Keira_Knightley", "United_States", "Florida", "Hurricane_Andrew"], ["Keira_Knightley", "United_States", "Miami%2C_Florida", "Hurricane_Andrew"], ["Keira_Knightley", "United_States", "The_Bahamas", "Hurricane_Andrew"]]

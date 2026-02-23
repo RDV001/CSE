@@ -1,0 +1,1 @@
+[["Ecuador", "Currency", "Numismatics"]]

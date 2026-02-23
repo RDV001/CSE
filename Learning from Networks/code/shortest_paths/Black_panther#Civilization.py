@@ -1,0 +1,1 @@
+[["Black_panther", "Africa", "Civilization"], ["Black_panther", "China", "Civilization"], ["Black_panther", "Latin_America", "Civilization"]]

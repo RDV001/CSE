@@ -1,0 +1,1 @@
+[["Rubidium", "Gold", "London", "Tower_Bridge"]]

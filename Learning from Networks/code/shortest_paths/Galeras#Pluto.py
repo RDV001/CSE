@@ -1,0 +1,1 @@
+[["Galeras", "Volcano", "Earth", "Pluto"], ["Galeras", "Volcano", "Planet", "Pluto"], ["Galeras", "Volcano", "Solar_System", "Pluto"], ["Galeras", "Volcano", "Sun", "Pluto"]]

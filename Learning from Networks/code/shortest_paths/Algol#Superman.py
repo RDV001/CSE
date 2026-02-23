@@ -1,0 +1,1 @@
+[["Algol", "Earth", "Red_giant", "Superman"], ["Algol", "Sirius", "Red_giant", "Superman"], ["Algol", "Star", "Red_giant", "Superman"], ["Algol", "Sun", "Red_giant", "Superman"], ["Algol", "Middle_Ages", "Glasses", "Superman"]]

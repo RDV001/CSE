@@ -1,0 +1,1 @@
+[["Mount_Kilimanjaro", "Ernest_Hemingway", "Nature", "Galaxy"], ["Mount_Kilimanjaro", "Germany", "Gottfried_Leibniz", "Galaxy"], ["Mount_Kilimanjaro", "Volcano", "Solar_System", "Galaxy"], ["Mount_Kilimanjaro", "Volcano", "Sun", "Galaxy"]]

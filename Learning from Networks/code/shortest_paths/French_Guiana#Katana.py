@@ -1,0 +1,1 @@
+[["French_Guiana", "Euro", "Japan", "Katana"], ["French_Guiana", "Football_%28soccer%29", "Japan", "Katana"], ["French_Guiana", "France", "Japan", "Katana"], ["French_Guiana", "Hong_Kong", "Japan", "Katana"], ["French_Guiana", "Laos", "Japan", "Katana"], ["French_Guiana", "Paris", "Japan", "Katana"], ["French_Guiana", "Hong_Kong", "Fishing", "Katana"]]

@@ -1,0 +1,1 @@
+[["Sermon_on_the_Mount", "Christianity", "Spain", "American_Revolutionary_War"], ["Sermon_on_the_Mount", "Mahatma_Gandhi", "New_York_City", "American_Revolutionary_War"], ["Sermon_on_the_Mount", "Mahatma_Gandhi", "United_States", "American_Revolutionary_War"], ["Sermon_on_the_Mount", "Martin_Luther", "18th_century", "American_Revolutionary_War"]]

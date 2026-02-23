@@ -1,0 +1,1 @@
+[["Hong_Kong", "Capitalism", "Ronald_Reagan"], ["Hong_Kong", "Margaret_Thatcher", "Ronald_Reagan"], ["Hong_Kong", "Socialism", "Ronald_Reagan"]]

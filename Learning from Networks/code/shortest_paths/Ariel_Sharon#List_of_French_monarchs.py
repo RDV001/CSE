@@ -1,0 +1,1 @@
+[["Ariel_Sharon", "Belgium", "Franks", "List_of_French_monarchs"], ["Ariel_Sharon", "France", "Franks", "List_of_French_monarchs"], ["Ariel_Sharon", "Brussels", "Louis_XIV_of_France", "List_of_French_monarchs"], ["Ariel_Sharon", "France", "Louis_XIV_of_France", "List_of_French_monarchs"]]

@@ -1,0 +1,1 @@
+[["Egyptian_pyramids", "Ancient_Egypt", "Beer", "Vienna"], ["Egyptian_pyramids", "Archaeology", "Austria", "Vienna"], ["Egyptian_pyramids", "Cairo", "Europe", "Vienna"], ["Egyptian_pyramids", "Cairo", "Napoleon_I_of_France", "Vienna"], ["Egyptian_pyramids", "Cairo", "Ottoman_Empire", "Vienna"], ["Egyptian_pyramids", "Cairo", "United_Nations", "Vienna"]]

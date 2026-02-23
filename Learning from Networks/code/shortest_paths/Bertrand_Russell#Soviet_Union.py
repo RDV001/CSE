@@ -1,0 +1,1 @@
+[["Bertrand_Russell", "Soviet_Union"]]

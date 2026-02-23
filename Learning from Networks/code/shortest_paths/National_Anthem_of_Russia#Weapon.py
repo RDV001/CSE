@@ -1,0 +1,1 @@
+[["National_Anthem_of_Russia", "Communism", "Human", "Weapon"], ["National_Anthem_of_Russia", "Russia", "Iran", "Weapon"], ["National_Anthem_of_Russia", "Russia", "Nuclear_weapon", "Weapon"], ["National_Anthem_of_Russia", "United_Kingdom", "Royal_Navy", "Weapon"]]

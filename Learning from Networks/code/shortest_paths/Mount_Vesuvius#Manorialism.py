@@ -1,0 +1,1 @@
+[["Mount_Vesuvius", "18th_century", "French_Revolution", "Manorialism"], ["Mount_Vesuvius", "Europe", "French_Revolution", "Manorialism"], ["Mount_Vesuvius", "Italy", "French_Revolution", "Manorialism"], ["Mount_Vesuvius", "Italy", "Capitalism", "Manorialism"]]

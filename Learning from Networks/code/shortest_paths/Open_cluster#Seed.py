@@ -1,0 +1,1 @@
+[["Open_cluster", "Earth", "Plant", "Seed"], ["Open_cluster", "Lithium", "Plant", "Seed"], ["Open_cluster", "Pleiades_%28star_cluster%29", "Fennel", "Seed"]]

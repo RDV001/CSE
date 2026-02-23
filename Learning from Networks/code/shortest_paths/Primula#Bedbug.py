@@ -1,0 +1,1 @@
+[["Primula", "Flower", "Insect", "Bedbug"], ["Primula", "Scientific_classification", "Insect", "Bedbug"]]

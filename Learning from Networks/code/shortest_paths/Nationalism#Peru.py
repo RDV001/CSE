@@ -1,0 +1,1 @@
+[["Nationalism", "19th_century", "Peru"], ["Nationalism", "German_language", "Peru"], ["Nationalism", "History_of_the_world", "Peru"], ["Nationalism", "Mozambique", "Peru"], ["Nationalism", "Religion", "Peru"], ["Nationalism", "South_America", "Peru"], ["Nationalism", "Spanish_language", "Peru"], ["Nationalism", "United_States", "Peru"]]

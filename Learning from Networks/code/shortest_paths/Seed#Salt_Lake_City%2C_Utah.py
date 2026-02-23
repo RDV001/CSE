@@ -1,0 +1,1 @@
+[["Seed", "Apple", "U.S._state", "Salt_Lake_City%2C_Utah"], ["Seed", "Israel", "Capital", "Salt_Lake_City%2C_Utah"]]

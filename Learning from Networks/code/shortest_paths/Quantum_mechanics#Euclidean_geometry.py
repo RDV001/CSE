@@ -1,0 +1,1 @@
+[["Quantum_mechanics", "Albert_Einstein", "Euclidean_geometry"], ["Quantum_mechanics", "Mathematics", "Euclidean_geometry"]]

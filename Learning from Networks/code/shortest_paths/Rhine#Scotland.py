@@ -1,0 +1,1 @@
+[["Rhine", "Bridge", "Scotland"], ["Rhine", "Europe", "Scotland"], ["Rhine", "Germany", "Scotland"], ["Rhine", "Iron_Age", "Scotland"], ["Rhine", "Napoleon_I_of_France", "Scotland"], ["Rhine", "Netherlands", "Scotland"], ["Rhine", "North_Sea", "Scotland"], ["Rhine", "Plate_tectonics", "Scotland"], ["Rhine", "River", "Scotland"]]

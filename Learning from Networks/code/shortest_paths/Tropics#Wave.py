@@ -1,0 +1,1 @@
+[["Tropics", "Earth", "Sun", "Wave"], ["Tropics", "Season", "Sun", "Wave"], ["Tropics", "Spring_%28season%29", "Sun", "Wave"], ["Tropics", "Winter", "Sun", "Wave"], ["Tropics", "Earth", "Tsunami", "Wave"], ["Tropics", "Madagascar", "Maldives", "Wave"], ["Tropics", "Summer", "Beach", "Wave"], ["Tropics", "Winter", "Light", "Wave"]]

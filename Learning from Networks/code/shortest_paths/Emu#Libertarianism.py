@@ -1,0 +1,1 @@
+[["Emu", "Australia", "Liberal_democracy", "Libertarianism"], ["Emu", "People%27s_Republic_of_China", "Capitalism", "Libertarianism"], ["Emu", "People%27s_Republic_of_China", "Government", "Libertarianism"], ["Emu", "Peru", "Government", "Libertarianism"], ["Emu", "People%27s_Republic_of_China", "Property", "Libertarianism"], ["Emu", "Peru", "Poverty", "Libertarianism"]]

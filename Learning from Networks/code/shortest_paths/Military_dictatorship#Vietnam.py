@@ -1,0 +1,1 @@
+[["Military_dictatorship", "Argentina", "Vietnam"], ["Military_dictatorship", "Chad", "Vietnam"], ["Military_dictatorship", "China", "Vietnam"], ["Military_dictatorship", "Communism", "Vietnam"], ["Military_dictatorship", "Israel", "Vietnam"], ["Military_dictatorship", "Madagascar", "Vietnam"], ["Military_dictatorship", "Turkey", "Vietnam"]]

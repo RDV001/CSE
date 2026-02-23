@@ -1,0 +1,1 @@
+[["Aircraft_carrier", "Shanghai", "New_York_City"], ["Aircraft_carrier", "Singapore", "New_York_City"], ["Aircraft_carrier", "United_States", "New_York_City"]]

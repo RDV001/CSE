@@ -1,0 +1,1 @@
+[["Gas_tungsten_arc_welding", "Alternating_current", "Electric_charge", "Isospin"], ["Gas_tungsten_arc_welding", "Plasma_%28physics%29", "Electric_charge", "Isospin"]]

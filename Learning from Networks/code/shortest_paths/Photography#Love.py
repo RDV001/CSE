@@ -1,0 +1,1 @@
+[["Photography", "Aesthetics", "Mesopotamia", "Love"], ["Photography", "Art", "Mesopotamia", "Love"], ["Photography", "Aesthetics", "Novel", "Love"], ["Photography", "Art", "Human", "Love"], ["Photography", "Art", "Mind", "Love"], ["Photography", "Art", "William_Shakespeare", "Love"], ["Photography", "Tay_Rail_Bridge", "William_Shakespeare", "Love"]]

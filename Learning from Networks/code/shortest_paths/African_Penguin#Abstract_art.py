@@ -1,0 +1,1 @@
+[["African_Penguin", "South_Africa", "Nazi_Germany", "Abstract_art"]]

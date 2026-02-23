@@ -1,0 +1,1 @@
+[["General_Pershing_Zephyr", "Kansas_City%2C_Missouri", "Sierra_Leone", "Automated_teller_machine", "Windows_XP"]]

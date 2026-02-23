@@ -1,0 +1,1 @@
+[["Florence_Nightingale", "Apollo", "Greek_mythology", "Swan"], ["Florence_Nightingale", "Apollo", "Trojan_War", "Swan"]]

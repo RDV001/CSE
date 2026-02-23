@@ -1,0 +1,1 @@
+[["1755_Lisbon_earthquake", "Lisbon", "Mosque", "Jyllands-Posten_Muhammad_cartoons_controversy"]]

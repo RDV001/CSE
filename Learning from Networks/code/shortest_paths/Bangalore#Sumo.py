@@ -1,0 +1,1 @@
+[["Bangalore", "Asia", "Japan", "Sumo"], ["Bangalore", "Economy_of_India", "Japan", "Sumo"], ["Bangalore", "English_language", "Japan", "Sumo"], ["Bangalore", "India", "Japan", "Sumo"], ["Bangalore", "Indian_independence_movement", "Japan", "Sumo"], ["Bangalore", "Time_zone", "Japan", "Sumo"], ["Bangalore", "Asia", "Shinto", "Sumo"]]

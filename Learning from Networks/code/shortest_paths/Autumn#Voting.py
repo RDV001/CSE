@@ -1,0 +1,1 @@
+[["Autumn", "Alchemy", "History_of_science", "Voting"], ["Autumn", "Canada", "Canadian_Charter_of_Rights_and_Freedoms", "Voting"], ["Autumn", "Japan", "Suffrage", "Voting"], ["Autumn", "United_States", "Martin_Luther_King%2C_Jr.", "Voting"]]

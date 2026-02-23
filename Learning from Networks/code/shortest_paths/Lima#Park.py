@@ -1,0 +1,1 @@
+[["Lima", "Capital", "Abidjan", "Park"], ["Lima", "S%C3%A3o_Paulo", "Abidjan", "Park"], ["Lima", "Capital", "Berlin", "Park"], ["Lima", "Library", "Berlin", "Park"], ["Lima", "World_Heritage_Site", "Berlin", "Park"], ["Lima", "Library", "Montreal", "Park"], ["Lima", "Spanish_language", "Montreal", "Park"], ["Lima", "Peru", "Machu_Picchu", "Park"]]

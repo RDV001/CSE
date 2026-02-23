@@ -1,0 +1,1 @@
+[["Prime_Minister_of_the_United_Kingdom", "Scotland", "Mathematics", "Pythagorean_theorem"], ["Prime_Minister_of_the_United_Kingdom", "William_Ewart_Gladstone", "Mathematics", "Pythagorean_theorem"]]

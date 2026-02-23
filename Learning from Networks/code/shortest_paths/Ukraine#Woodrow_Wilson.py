@@ -1,0 +1,1 @@
+[["Ukraine", "Poland", "Woodrow_Wilson"], ["Ukraine", "World_War_I", "Woodrow_Wilson"]]

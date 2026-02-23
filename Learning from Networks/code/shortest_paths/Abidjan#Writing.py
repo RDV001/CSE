@@ -1,0 +1,1 @@
+[["Abidjan", "Africa", "Ancient_Egypt", "Writing"], ["Abidjan", "Africa", "Civilization", "Writing"], ["Abidjan", "Africa", "Human", "Writing"], ["Abidjan", "Condoleezza_Rice", "Iraq", "Writing"], ["Abidjan", "United_Nations", "Iraq", "Writing"], ["Abidjan", "United_Nations", "Education", "Writing"], ["Abidjan", "United_Nations", "Literacy", "Writing"]]

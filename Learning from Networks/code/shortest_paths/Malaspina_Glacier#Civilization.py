@@ -1,0 +1,1 @@
+[["Malaspina_Glacier", "North_America", "Africa", "Civilization"], ["Malaspina_Glacier", "North_America", "Latin_America", "Civilization"]]

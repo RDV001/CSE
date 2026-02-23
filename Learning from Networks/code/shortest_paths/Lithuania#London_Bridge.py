@@ -1,0 +1,1 @@
+[["Lithuania", "14th_century", "English_peasants%27_revolt_of_1381", "London_Bridge"], ["Lithuania", "Europe", "London", "London_Bridge"], ["Lithuania", "European_Union", "London", "London_Bridge"], ["Lithuania", "Germany", "London", "London_Bridge"], ["Lithuania", "United_Nations", "London", "London_Bridge"]]

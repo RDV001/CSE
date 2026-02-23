@@ -1,0 +1,1 @@
+[["Clay", "Canada", "Christianity"], ["Clay", "Estonia", "Christianity"], ["Clay", "Norway", "Christianity"]]

@@ -1,0 +1,1 @@
+[["Rhode_Island", "List_of_U.S._states_by_date_of_statehood", "Florida", "Hurricane_Ivan"], ["Rhode_Island", "Ronald_Reagan", "Florida", "Hurricane_Ivan"], ["Rhode_Island", "U.S._state", "Florida", "Hurricane_Ivan"], ["Rhode_Island", "Ronald_Reagan", "Grenada", "Hurricane_Ivan"], ["Rhode_Island", "U.S._state", "Hurricane_Katrina", "Hurricane_Ivan"]]

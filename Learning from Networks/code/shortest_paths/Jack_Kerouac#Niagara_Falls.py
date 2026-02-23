@@ -1,0 +1,1 @@
+[["Jack_Kerouac", "Canada", "Niagara_Falls"]]

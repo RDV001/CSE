@@ -1,0 +1,1 @@
+[["Telephone", "Great_Britain", "Isle_of_Wight", "Dinosaur", "Deinonychus"], ["Telephone", "Radio", "Isle_of_Wight", "Dinosaur", "Deinonychus"], ["Telephone", "Star_Trek", "Earth", "Dinosaur", "Deinonychus"], ["Telephone", "Sweden", "Stone_Age", "Dinosaur", "Deinonychus"], ["Telephone", "United_States", "Gulf_of_Mexico", "Dinosaur", "Deinonychus"]]

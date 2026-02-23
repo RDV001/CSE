@@ -1,0 +1,1 @@
+[["Mexico", "English_language", "Papua_New_Guinea"], ["Mexico", "List_of_countries_by_system_of_government", "Papua_New_Guinea"]]

@@ -1,0 +1,1 @@
+[["Open_source", "Australia", "Sudan", "Lord%27s_Resistance_Army"], ["Open_source", "Beer", "Sudan", "Lord%27s_Resistance_Army"], ["Open_source", "Coffee", "Sudan", "Lord%27s_Resistance_Army"], ["Open_source", "Coffee", "Uganda", "Lord%27s_Resistance_Army"]]

@@ -1,0 +1,1 @@
+[["2nd_century", "16th_century", "Brazil", "Pel%C3%A9"], ["2nd_century", "21st_century", "Brazil", "Pel%C3%A9"], ["2nd_century", "17th_century", "New_York_City", "Pel%C3%A9"], ["2nd_century", "20th_century", "New_York_City", "Pel%C3%A9"]]

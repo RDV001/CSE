@@ -1,0 +1,1 @@
+[["Folic_acid", "Cancer", "Brain", "Kuru_%28disease%29"], ["Folic_acid", "Food", "Prion", "Kuru_%28disease%29"]]

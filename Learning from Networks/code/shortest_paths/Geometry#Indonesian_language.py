@@ -1,0 +1,1 @@
+[["Geometry", "Euclid", "Arabic_language", "Indonesian_language"], ["Geometry", "Topology", "Latin_alphabet", "Indonesian_language"]]

@@ -1,0 +1,1 @@
+[["Magna_Carta", "English_language", "Poetry", "Dr._Seuss"], ["Magna_Carta", "Henry_VIII_of_England", "Poetry", "Dr._Seuss"], ["Magna_Carta", "William_Shakespeare", "Poetry", "Dr._Seuss"], ["Magna_Carta", "Latin", "The_Cat_in_the_Hat", "Dr._Seuss"]]

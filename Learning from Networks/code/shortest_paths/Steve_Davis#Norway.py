@@ -1,0 +1,1 @@
+[["Steve_Davis", "England", "Norway"], ["Steve_Davis", "Europe", "Norway"], ["Steve_Davis", "Prime_Minister_of_the_United_Kingdom", "Norway"]]

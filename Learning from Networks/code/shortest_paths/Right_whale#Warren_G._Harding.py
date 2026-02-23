@@ -1,0 +1,1 @@
+[["Right_whale", "Argentina", "Bill_Clinton", "Warren_G._Harding"], ["Right_whale", "Florida", "President_of_the_United_States", "Warren_G._Harding"], ["Right_whale", "Japan", "President_of_the_United_States", "Warren_G._Harding"]]

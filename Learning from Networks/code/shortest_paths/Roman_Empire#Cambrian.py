@@ -1,0 +1,1 @@
+[["Roman_Empire", "Africa", "Fossil", "Cambrian"], ["Roman_Empire", "Europe", "Mammal", "Cambrian"], ["Roman_Empire", "Europe", "Wales", "Cambrian"], ["Roman_Empire", "List_of_countries_by_system_of_government", "Wales", "Cambrian"], ["Roman_Empire", "Roman_Britain", "Wales", "Cambrian"]]

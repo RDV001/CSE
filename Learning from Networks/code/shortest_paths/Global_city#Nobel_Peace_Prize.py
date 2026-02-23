@@ -1,0 +1,1 @@
+[["Global_city", "Cairo", "Nobel_Peace_Prize"], ["Global_city", "Nairobi", "Nobel_Peace_Prize"], ["Global_city", "Oslo", "Nobel_Peace_Prize"], ["Global_city", "United_Nations", "Nobel_Peace_Prize"]]

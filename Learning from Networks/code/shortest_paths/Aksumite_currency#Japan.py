@@ -1,0 +1,1 @@
+[["Aksumite_currency", "India", "Japan"], ["Aksumite_currency", "Israel", "Japan"]]

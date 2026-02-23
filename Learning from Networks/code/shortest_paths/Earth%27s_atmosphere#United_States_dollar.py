@@ -1,0 +1,1 @@
+[["Earth%27s_atmosphere", "United_States", "United_States_dollar"]]

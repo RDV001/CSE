@@ -1,0 +1,1 @@
+[["Plate_tectonics", "Astronomy", "Hubble_Space_Telescope"]]

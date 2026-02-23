@@ -1,0 +1,1 @@
+[["Helmeted_Guineafowl", "Lyme_disease"]]

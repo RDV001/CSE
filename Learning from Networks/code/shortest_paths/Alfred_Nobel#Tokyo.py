@@ -1,0 +1,1 @@
+[["Alfred_Nobel", "Paris", "Tokyo"]]

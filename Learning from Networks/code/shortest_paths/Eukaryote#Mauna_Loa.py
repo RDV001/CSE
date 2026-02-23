@@ -1,0 +1,1 @@
+[["Eukaryote", "Animal", "Carbon_dioxide", "Mauna_Loa"], ["Eukaryote", "Bacteria", "Carbon_dioxide", "Mauna_Loa"], ["Eukaryote", "Organism", "Carbon_dioxide", "Mauna_Loa"], ["Eukaryote", "Photosynthesis", "Carbon_dioxide", "Mauna_Loa"], ["Eukaryote", "Plant", "Carbon_dioxide", "Mauna_Loa"]]

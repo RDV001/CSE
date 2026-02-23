@@ -1,0 +1,1 @@
+[["Gas", "Dutch_language", "18th_century", "Nepal"], ["Gas", "Dutch_language", "Suriname", "Nepal"], ["Gas", "Natural_gas", "India", "Nepal"], ["Gas", "Natural_gas", "Saudi_Arabia", "Nepal"]]

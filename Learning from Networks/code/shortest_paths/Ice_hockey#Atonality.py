@@ -1,0 +1,1 @@
+[["Ice_hockey", "Finland", "Opera", "Atonality"], ["Ice_hockey", "Sweden", "Opera", "Atonality"], ["Ice_hockey", "United_Kingdom", "Opera", "Atonality"], ["Ice_hockey", "Germany", "Richard_Wagner", "Atonality"], ["Ice_hockey", "Ireland", "20th_century", "Atonality"], ["Ice_hockey", "Slovenia", "20th_century", "Atonality"], ["Ice_hockey", "Sport", "20th_century", "Atonality"]]

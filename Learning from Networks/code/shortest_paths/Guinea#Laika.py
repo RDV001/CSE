@@ -1,0 +1,1 @@
+[["Guinea", "Africa", "Soviet_Union", "Laika"], ["Guinea", "Iraq", "Soviet_Union", "Laika"], ["Guinea", "Liberia", "Soviet_Union", "Laika"], ["Guinea", "Petroleum", "Soviet_Union", "Laika"], ["Guinea", "Spain", "Soviet_Union", "Laika"]]

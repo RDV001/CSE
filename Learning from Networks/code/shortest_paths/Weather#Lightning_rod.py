@@ -1,0 +1,1 @@
+[["Weather", "Meteorology", "Benjamin_Franklin", "Lightning_rod"], ["Weather", "Plate_tectonics", "Benjamin_Franklin", "Lightning_rod"]]

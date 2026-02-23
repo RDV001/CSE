@@ -1,0 +1,1 @@
+[["Madrid", "Asia", "Jerusalem"], ["Madrid", "Christopher_Columbus", "Jerusalem"], ["Madrid", "Mosque", "Jerusalem"], ["Madrid", "New_York_City", "Jerusalem"], ["Madrid", "Roman_Empire", "Jerusalem"]]

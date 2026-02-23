@@ -1,0 +1,1 @@
+[["Egyptian_pyramids", "Ancient_Egypt", "Africa", "African_Union", "Chadian-Sudanese_conflict"], ["Egyptian_pyramids", "Cairo", "Africa", "African_Union", "Chadian-Sudanese_conflict"], ["Egyptian_pyramids", "Ancient_Egypt", "Sudan", "African_Union", "Chadian-Sudanese_conflict"], ["Egyptian_pyramids", "Cairo", "Sudan", "African_Union", "Chadian-Sudanese_conflict"]]

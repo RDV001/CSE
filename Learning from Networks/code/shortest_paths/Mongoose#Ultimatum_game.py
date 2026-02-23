@@ -1,0 +1,1 @@
+[["Mongoose", "Asia", "Mathematics", "Game_theory", "Ultimatum_game"], ["Mongoose", "United_States", "War", "Game_theory", "Ultimatum_game"]]

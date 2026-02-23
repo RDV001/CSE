@@ -1,0 +1,1 @@
+[["Fidel_Castro", "Poland"]]

@@ -1,0 +1,1 @@
+[["Accountancy", "Agriculture", "Cotton", "Feather"], ["Accountancy", "Civilization", "Cotton", "Feather"], ["Accountancy", "Ancient_Greece", "Jewellery", "Feather"], ["Accountancy", "English_language", "Papua_New_Guinea", "Feather"]]

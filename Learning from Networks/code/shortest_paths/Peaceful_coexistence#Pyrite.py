@@ -1,0 +1,1 @@
+[["Peaceful_coexistence", "Indonesia", "Gold", "Pyrite"], ["Peaceful_coexistence", "People%27s_Republic_of_China", "Steel", "Pyrite"], ["Peaceful_coexistence", "United_States", "Steel", "Pyrite"], ["Peaceful_coexistence", "United_States", "Coal", "Pyrite"]]

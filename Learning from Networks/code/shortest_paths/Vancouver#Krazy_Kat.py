@@ -1,0 +1,1 @@
+[["Vancouver", "England", "Thomas_Hobbes", "Calvin_and_Hobbes", "Krazy_Kat"], ["Vancouver", "Pacific_Ocean", "Tonga", "Walt_Disney", "Krazy_Kat"], ["Vancouver", "United_States", "Poetry_of_the_United_States", "E._E._Cummings", "Krazy_Kat"], ["Vancouver", "Water", "Literature", "E._E._Cummings", "Krazy_Kat"]]

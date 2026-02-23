@@ -1,0 +1,1 @@
+[["Naval_Battle_of_Guadalcanal", "United_States", "Portugal", "Christian_monasticism", "Oswald_of_Northumbria"]]

@@ -1,0 +1,1 @@
+[["United_States_Declaration_of_Independence", "Propaganda", "Osama_bin_Laden", "Al_Jazeera"], ["United_States_Declaration_of_Independence", "United_States", "Qatar", "Al_Jazeera"], ["United_States_Declaration_of_Independence", "United_States", "September_11%2C_2001_attacks", "Al_Jazeera"]]

@@ -1,0 +1,1 @@
+[["Argentina", "Bill_Clinton", "Jimmy_Carter"], ["Argentina", "Nicaragua", "Jimmy_Carter"], ["Argentina", "Nuclear_power", "Jimmy_Carter"]]

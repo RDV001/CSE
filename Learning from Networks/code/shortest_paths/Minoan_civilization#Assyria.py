@@ -1,0 +1,1 @@
+[["Minoan_civilization", "Mesopotamia", "Assyria"], ["Minoan_civilization", "Saffron", "Assyria"], ["Minoan_civilization", "Syria", "Assyria"]]

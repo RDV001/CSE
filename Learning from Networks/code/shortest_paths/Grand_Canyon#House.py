@@ -1,0 +1,1 @@
+[["Grand_Canyon", "Spain", "Ancient_Rome", "House"], ["Grand_Canyon", "Winter", "Ancient_Rome", "House"]]

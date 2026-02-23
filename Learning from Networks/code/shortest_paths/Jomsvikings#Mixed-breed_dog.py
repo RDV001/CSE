@@ -1,0 +1,1 @@
+[["Jomsvikings", "England", "Bridge", "Dog", "Mixed-breed_dog"], ["Jomsvikings", "Norway", "Animal_rights", "Dog", "Mixed-breed_dog"]]

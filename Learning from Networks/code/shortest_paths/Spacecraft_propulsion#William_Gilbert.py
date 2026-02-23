@@ -1,0 +1,1 @@
+[["Spacecraft_propulsion", "Astronomy", "Galileo_Galilei", "William_Gilbert"], ["Spacecraft_propulsion", "Force", "Galileo_Galilei", "William_Gilbert"], ["Spacecraft_propulsion", "Force", "Electric_charge", "William_Gilbert"], ["Spacecraft_propulsion", "Momentum", "Electric_charge", "William_Gilbert"], ["Spacecraft_propulsion", "Sun", "Electron", "William_Gilbert"]]

@@ -1,0 +1,1 @@
+[["Lake_Titicaca", "Bolivia", "United_States", "History_of_slavery", "History_of_Puerto_Rico", "History_of_Arizona"], ["Lake_Titicaca", "River", "United_States", "History_of_slavery", "History_of_Puerto_Rico", "History_of_Arizona"], ["Lake_Titicaca", "Venezuela", "United_States", "History_of_slavery", "History_of_Puerto_Rico", "History_of_Arizona"]]

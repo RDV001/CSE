@@ -1,0 +1,1 @@
+[["Fossil", "Charles_Darwin", "New_York_City", "U.S._Open_%28tennis%29"], ["Fossil", "Dinosaur", "New_York_City", "U.S._Open_%28tennis%29"]]

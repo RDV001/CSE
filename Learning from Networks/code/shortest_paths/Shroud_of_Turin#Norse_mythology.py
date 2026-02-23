@@ -1,0 +1,1 @@
+[["Shroud_of_Turin", "God", "Odin", "Norse_mythology"], ["Shroud_of_Turin", "Roman_Catholic_Church", "J._R._R._Tolkien", "Norse_mythology"], ["Shroud_of_Turin", "Russia", "Earth", "Norse_mythology"], ["Shroud_of_Turin", "Silver", "Vampire", "Norse_mythology"]]

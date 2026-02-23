@@ -1,0 +1,1 @@
+[["Bissau", "Atlantic_Ocean", "Germany", "Nazism"], ["Bissau", "Capital", "Germany", "Nazism"], ["Bissau", "Portugal", "Germany", "Nazism"], ["Bissau", "Capital", "Shanghai", "Nazism"], ["Bissau", "Portugal", "Kosovo", "Nazism"], ["Bissau", "Portugal", "Romania", "Nazism"]]

@@ -1,0 +1,1 @@
+[["Swaziland", "Africa", "Democracy"], ["Swaziland", "Monarchy", "Democracy"], ["Swaziland", "Mozambique", "Democracy"], ["Swaziland", "United_Nations", "Democracy"]]

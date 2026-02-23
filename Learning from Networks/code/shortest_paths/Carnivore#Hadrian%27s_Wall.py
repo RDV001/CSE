@@ -1,0 +1,1 @@
+[["Carnivore", "Cheese", "Roman_Empire", "Hadrian%27s_Wall"], ["Carnivore", "Honey", "Roman_Empire", "Hadrian%27s_Wall"], ["Carnivore", "Latin", "Roman_Empire", "Hadrian%27s_Wall"]]

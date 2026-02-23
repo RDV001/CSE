@@ -1,0 +1,1 @@
+[["John_F._Kennedy", "Louisville%2C_Kentucky", "Australian_rules_football"], ["John_F._Kennedy", "Washington%2C_D.C.", "Australian_rules_football"]]

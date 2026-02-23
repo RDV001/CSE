@@ -1,0 +1,1 @@
+[["Ottawa", "Cold_War", "Nazi_Germany"], ["Ottawa", "Jew", "Nazi_Germany"], ["Ottawa", "Netherlands", "Nazi_Germany"], ["Ottawa", "Poland", "Nazi_Germany"], ["Ottawa", "Soviet_Union", "Nazi_Germany"], ["Ottawa", "World_War_II", "Nazi_Germany"]]

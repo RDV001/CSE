@@ -1,0 +1,1 @@
+[["Electric_charge", "Amber", "Ancient_Greece", "Minoan_civilization"], ["Electric_charge", "Electricity", "Ancient_Greece", "Minoan_civilization"], ["Electric_charge", "Amber", "Bronze_Age", "Minoan_civilization"]]

@@ -1,0 +1,1 @@
+[["Russian_constitutional_crisis_of_1993", "Industry", "Europe", "Fox", "Bat-eared_Fox"], ["Russian_constitutional_crisis_of_1993", "Moscow", "Europe", "Fox", "Bat-eared_Fox"], ["Russian_constitutional_crisis_of_1993", "Russia", "Europe", "Fox", "Bat-eared_Fox"], ["Russian_constitutional_crisis_of_1993", "United_States", "Europe", "Fox", "Bat-eared_Fox"]]

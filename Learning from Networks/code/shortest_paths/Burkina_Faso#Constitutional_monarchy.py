@@ -1,0 +1,1 @@
+[["Burkina_Faso", "France", "Constitutional_monarchy"], ["Burkina_Faso", "List_of_countries_by_system_of_government", "Constitutional_monarchy"], ["Burkina_Faso", "Parliamentary_system", "Constitutional_monarchy"]]

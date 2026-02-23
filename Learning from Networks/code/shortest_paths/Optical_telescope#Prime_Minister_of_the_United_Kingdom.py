@@ -1,0 +1,1 @@
+[["Optical_telescope", "Binoculars", "United_Kingdom", "Prime_Minister_of_the_United_Kingdom"], ["Optical_telescope", "Binoculars", "World_War_II", "Prime_Minister_of_the_United_Kingdom"], ["Optical_telescope", "Light", "18th_century", "Prime_Minister_of_the_United_Kingdom"]]

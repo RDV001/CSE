@@ -1,0 +1,1 @@
+[["Mosaic", "4th_century", "Armenia", "Behistun_Inscription"], ["Mosaic", "Byzantine_Empire", "Armenia", "Behistun_Inscription"], ["Mosaic", "Georgia_%28country%29", "Armenia", "Behistun_Inscription"], ["Mosaic", "Roman_Empire", "Armenia", "Behistun_Inscription"], ["Mosaic", "Art", "Propaganda", "Behistun_Inscription"]]

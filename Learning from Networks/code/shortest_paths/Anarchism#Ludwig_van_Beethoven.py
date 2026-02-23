@@ -1,0 +1,1 @@
+[["Anarchism", "Germany", "Ludwig_van_Beethoven"]]

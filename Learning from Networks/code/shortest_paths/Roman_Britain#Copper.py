@@ -1,0 +1,1 @@
+[["Roman_Britain", "Coin", "Copper"], ["Roman_Britain", "Gold", "Copper"], ["Roman_Britain", "Iron", "Copper"], ["Roman_Britain", "Iron_Age", "Copper"], ["Roman_Britain", "Lead", "Copper"], ["Roman_Britain", "Silver", "Copper"], ["Roman_Britain", "Tin", "Copper"], ["Roman_Britain", "Wales", "Copper"]]

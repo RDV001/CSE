@@ -1,0 +1,1 @@
+[["Mexico", "California", "Volcano"], ["Mexico", "Chile", "Volcano"], ["Mexico", "Italy", "Volcano"], ["Mexico", "Japan", "Volcano"], ["Mexico", "Russia", "Volcano"], ["Mexico", "United_States", "Volcano"]]

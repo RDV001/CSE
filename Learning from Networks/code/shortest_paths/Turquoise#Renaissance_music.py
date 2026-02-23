@@ -1,0 +1,1 @@
+[["Turquoise", "Architecture", "Renaissance", "Renaissance_music"], ["Turquoise", "Art", "Renaissance", "Renaissance_music"], ["Turquoise", "Europe", "Renaissance", "Renaissance_music"], ["Turquoise", "Jewellery", "Renaissance", "Renaissance_music"], ["Turquoise", "Persian_Empire", "Renaissance", "Renaissance_music"]]

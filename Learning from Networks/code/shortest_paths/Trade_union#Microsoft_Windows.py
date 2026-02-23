@@ -1,0 +1,1 @@
+[["Trade_union", "California", "Computer", "Microsoft_Windows"], ["Trade_union", "Guild", "Microsoft", "Microsoft_Windows"]]

@@ -1,0 +1,1 @@
+[["Cheers", "Film", "Art", "Pablo_Picasso"], ["Cheers", "Kansas_City%2C_Missouri", "Ernest_Hemingway", "Pablo_Picasso"]]

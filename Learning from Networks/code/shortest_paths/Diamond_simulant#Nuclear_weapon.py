@@ -1,0 +1,1 @@
+[["Diamond_simulant", "20th_century", "Nuclear_weapon"], ["Diamond_simulant", "Gold", "Nuclear_weapon"], ["Diamond_simulant", "Russia", "Nuclear_weapon"], ["Diamond_simulant", "United_States", "Nuclear_weapon"]]

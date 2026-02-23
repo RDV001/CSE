@@ -1,0 +1,1 @@
+[["Calgary", "Europe", "Mammal", "Zebra"], ["Calgary", "India", "Mammal", "Zebra"], ["Calgary", "India", "Extinction", "Zebra"], ["Calgary", "Scotland", "Lion", "Zebra"]]

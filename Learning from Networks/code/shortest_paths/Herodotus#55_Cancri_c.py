@@ -1,0 +1,1 @@
+[["Herodotus", "Africa", "Earth", "Planet", "55_Cancri", "55_Cancri_c"], ["Herodotus", "Italy", "Volcano", "Planet", "55_Cancri", "55_Cancri_c"], ["Herodotus", "Mediterranean_Sea", "Ocean", "Planet", "55_Cancri", "55_Cancri_c"], ["Herodotus", "Nile", "Sun", "Planet", "55_Cancri", "55_Cancri_c"]]

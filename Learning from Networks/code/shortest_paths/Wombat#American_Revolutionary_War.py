@@ -1,0 +1,1 @@
+[["Wombat", "Australia", "Norfolk_Island", "American_Revolutionary_War"], ["Wombat", "Australia", "United_States", "American_Revolutionary_War"], ["Wombat", "Herbivore", "United_States", "American_Revolutionary_War"], ["Wombat", "Mammal", "Horse", "American_Revolutionary_War"], ["Wombat", "Sydney", "Smallpox", "American_Revolutionary_War"]]

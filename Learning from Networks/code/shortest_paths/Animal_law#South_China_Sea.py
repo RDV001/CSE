@@ -1,0 +1,1 @@
+[["Animal_law", "Animal_rights", "Brazil", "Pacific_Ocean", "South_China_Sea"], ["Animal_law", "Animal_rights", "Dog", "Vietnam", "South_China_Sea"]]

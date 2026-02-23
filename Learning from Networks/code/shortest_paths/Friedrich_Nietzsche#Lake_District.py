@@ -1,0 +1,1 @@
+[["Friedrich_Nietzsche", "United_Kingdom", "Lake_District"]]

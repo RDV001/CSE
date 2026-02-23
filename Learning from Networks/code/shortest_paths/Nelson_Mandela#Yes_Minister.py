@@ -1,0 +1,1 @@
+[["Nelson_Mandela", "Edinburgh", "J._K._Rowling", "Monty_Python", "Yes_Minister"], ["Nelson_Mandela", "Elizabeth_II_of_the_United_Kingdom", "Mary_I_of_Scotland", "Monty_Python", "Yes_Minister"], ["Nelson_Mandela", "Jew", "Spanish_Inquisition", "Monty_Python", "Yes_Minister"], ["Nelson_Mandela", "Winston_Churchill", "Leicester", "Monty_Python", "Yes_Minister"]]

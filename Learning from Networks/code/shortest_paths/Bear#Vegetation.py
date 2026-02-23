@@ -1,0 +1,1 @@
+[["Bear", "West_Virginia", "Vegetation"]]

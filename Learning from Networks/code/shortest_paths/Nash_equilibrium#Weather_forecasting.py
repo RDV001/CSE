@@ -1,0 +1,1 @@
+[["Nash_equilibrium", "Economics", "Science", "Physical_science", "Weather_forecasting"], ["Nash_equilibrium", "John_von_Neumann", "Calculus", "Physical_science", "Weather_forecasting"], ["Nash_equilibrium", "John_von_Neumann", "Earth", "Weather", "Weather_forecasting"]]

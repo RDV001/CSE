@@ -1,0 +1,1 @@
+[["Eocene", "Antarctica", "Arctic_Ocean"], ["Eocene", "Arctic", "Arctic_Ocean"], ["Eocene", "Atlantic_Ocean", "Arctic_Ocean"], ["Eocene", "Europe", "Arctic_Ocean"], ["Eocene", "Greenland", "Arctic_Ocean"], ["Eocene", "North_America", "Arctic_Ocean"], ["Eocene", "United_States", "Arctic_Ocean"]]

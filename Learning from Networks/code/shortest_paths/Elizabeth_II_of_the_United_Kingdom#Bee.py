@@ -1,0 +1,1 @@
+[["Elizabeth_II_of_the_United_Kingdom", "Dog", "Insect", "Bee"], ["Elizabeth_II_of_the_United_Kingdom", "Kenya", "Cretaceous", "Bee"], ["Elizabeth_II_of_the_United_Kingdom", "Papua_New_Guinea", "Cretaceous", "Bee"], ["Elizabeth_II_of_the_United_Kingdom", "New_Zealand", "Spider", "Bee"], ["Elizabeth_II_of_the_United_Kingdom", "Photography", "Light", "Bee"]]

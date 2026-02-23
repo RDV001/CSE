@@ -1,0 +1,1 @@
+[["Mining", "Ancient_Egypt", "Christianity", "John_Calvin"], ["Mining", "Cyprus", "Christianity", "John_Calvin"], ["Mining", "Diamond", "Christianity", "John_Calvin"], ["Mining", "Japan", "Christianity", "John_Calvin"], ["Mining", "Cyprus", "Geneva", "John_Calvin"], ["Mining", "Hungary", "Renaissance", "John_Calvin"], ["Mining", "Slovakia", "16th_century", "John_Calvin"]]

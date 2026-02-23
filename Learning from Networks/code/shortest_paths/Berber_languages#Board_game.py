@@ -1,0 +1,1 @@
+[["Berber_languages", "Egypt", "Ancient_Egypt", "Board_game"], ["Berber_languages", "North_Africa", "Ancient_Egypt", "Board_game"], ["Berber_languages", "Israel", "Chess", "Board_game"]]

@@ -1,0 +1,1 @@
+[["Upsilon_Andromedae_b", "Jupiter", "Full_moon"], ["Upsilon_Andromedae_b", "Tide", "Full_moon"]]

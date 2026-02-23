@@ -1,0 +1,1 @@
+[["Babur", "Delhi", "Agriculture", "Phosphorus", "Phosphorus_trichloride"], ["Babur", "River", "Soil", "Phosphorus", "Phosphorus_trichloride"], ["Babur", "Timur", "Iron", "Phosphorus", "Phosphorus_trichloride"], ["Babur", "Uzbekistan", "Mineral", "Phosphorus", "Phosphorus_trichloride"], ["Babur", "Islam", "Alcohol", "Phosphorus_tribromide", "Phosphorus_trichloride"]]

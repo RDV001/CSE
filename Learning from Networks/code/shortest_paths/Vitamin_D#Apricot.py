@@ -1,0 +1,1 @@
+[["Vitamin_D", "Calcium", "Potassium", "Apricot"], ["Vitamin_D", "Egg_%28food%29", "Potassium", "Apricot"], ["Vitamin_D", "Milk", "Potassium", "Apricot"], ["Vitamin_D", "Cancer", "Anemia", "Apricot"], ["Vitamin_D", "Vitamin", "Anemia", "Apricot"], ["Vitamin_D", "Cheese", "Wine", "Apricot"]]

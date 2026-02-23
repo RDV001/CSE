@@ -1,0 +1,1 @@
+[["Buddhism", "China", "Civilization"], ["Buddhism", "Indo-Greek_Kingdom", "Civilization"]]

@@ -1,0 +1,1 @@
+[["Denmark", "Aarhus", "Coal", "Santa_Claus"], ["Denmark", "Germany", "Coal", "Santa_Claus"], ["Denmark", "Norway", "Coal", "Santa_Claus"], ["Denmark", "Poland", "Coal", "Santa_Claus"], ["Denmark", "Sunlight", "Coal", "Santa_Claus"]]

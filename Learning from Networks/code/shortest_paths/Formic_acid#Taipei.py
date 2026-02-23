@@ -1,0 +1,1 @@
+[["Formic_acid", "Alchemy", "China", "Taipei"], ["Formic_acid", "France", "China", "Taipei"], ["Formic_acid", "Poultry", "China", "Taipei"], ["Formic_acid", "Textile", "China", "Taipei"], ["Formic_acid", "Water", "China", "Taipei"], ["Formic_acid", "Water", "Asia", "Taipei"]]

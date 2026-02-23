@@ -1,0 +1,1 @@
+[["Timken_1111", "Seattle%2C_Washington", "Libertarianism", "Poverty", "Working_poor"]]

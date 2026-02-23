@@ -1,0 +1,1 @@
+[["Red_giant", "Sun", "Japan", "Katana"]]

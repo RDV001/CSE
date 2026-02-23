@@ -1,0 +1,1 @@
+[["Pyramid", "Ancient_Egypt", "Iron", "Ruthenium"], ["Pyramid", "Earth", "Iron", "Ruthenium"], ["Pyramid", "Mesopotamia", "Iron", "Ruthenium"], ["Pyramid", "Sun", "Iron", "Ruthenium"]]

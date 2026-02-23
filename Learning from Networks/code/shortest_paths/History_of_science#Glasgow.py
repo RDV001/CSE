@@ -1,0 +1,1 @@
+[["History_of_science", "Adam_Smith", "Glasgow"], ["History_of_science", "Rome", "Glasgow"]]

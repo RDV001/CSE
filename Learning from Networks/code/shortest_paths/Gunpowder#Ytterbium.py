@@ -1,0 +1,1 @@
+[["Gunpowder", "Potassium_nitrate", "Ammonia", "Ytterbium"], ["Gunpowder", "Sulfur", "List_of_elements_by_name", "Ytterbium"], ["Gunpowder", "Sulfur", "Periodic_table", "Ytterbium"]]

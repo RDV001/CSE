@@ -1,0 +1,1 @@
+[["Celtic_Park", "Cardiff", "Sand", "Gypsum", "Tofu"], ["Celtic_Park", "Celtic_F.C.", "Republic_of_Ireland", "Gypsum", "Tofu"], ["Celtic_Park", "Scotland", "Republic_of_Ireland", "Gypsum", "Tofu"], ["Celtic_Park", "Scotland", "Agriculture", "Egg_%28food%29", "Tofu"], ["Celtic_Park", "Scotland", "Agriculture", "Soybean", "Tofu"]]

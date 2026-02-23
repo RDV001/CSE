@@ -1,0 +1,1 @@
+[["Tower_Bridge", "England", "English_language", "Pig", "Brush"], ["Tower_Bridge", "England", "Football", "Pig", "Brush"], ["Tower_Bridge", "London", "Football", "Pig", "Brush"], ["Tower_Bridge", "England", "Islam", "Pig", "Brush"], ["Tower_Bridge", "London", "Bucharest", "Visual_arts", "Brush"]]

@@ -1,0 +1,1 @@
+[["Ziad_Jarrah", "Afghanistan", "Jew"], ["Ziad_Jarrah", "Arabic_language", "Jew"], ["Ziad_Jarrah", "Beirut", "Jew"], ["Ziad_Jarrah", "Germany", "Jew"], ["Ziad_Jarrah", "Lebanon", "Jew"], ["Ziad_Jarrah", "Russia", "Jew"], ["Ziad_Jarrah", "Spain", "Jew"], ["Ziad_Jarrah", "Turkey", "Jew"]]

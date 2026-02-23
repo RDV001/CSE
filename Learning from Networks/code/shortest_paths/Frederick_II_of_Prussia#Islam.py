@@ -1,0 +1,1 @@
+[["Frederick_II_of_Prussia", "Austria", "Islam"], ["Frederick_II_of_Prussia", "Berlin", "Islam"], ["Frederick_II_of_Prussia", "England", "Islam"], ["Frederick_II_of_Prussia", "Ottoman_Empire", "Islam"], ["Frederick_II_of_Prussia", "Polish-Lithuanian_Commonwealth", "Islam"]]

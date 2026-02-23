@@ -1,0 +1,1 @@
+[["Comet", "Galileo_Galilei", "Speed_of_light"], ["Comet", "Sun", "Speed_of_light"]]

@@ -1,0 +1,1 @@
+[["Macbeth_of_Scotland", "D%C3%A1l_Riata", "Columba", "Dove", "Flamingo"], ["Macbeth_of_Scotland", "Scotland", "Columba", "Dove", "Flamingo"], ["Macbeth_of_Scotland", "Scotland", "Olympic_Games", "Dove", "Flamingo"], ["Macbeth_of_Scotland", "D%C3%A1l_Riata", "Jewellery", "Bird", "Flamingo"], ["Macbeth_of_Scotland", "English_language", "Puerto_Rico", "Bird", "Flamingo"]]

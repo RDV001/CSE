@@ -1,0 +1,1 @@
+[["Lake_Kivu", "Africa", "Lion", "Zebra"], ["Lake_Kivu", "Democratic_Republic_of_the_Congo", "Okapi", "Zebra"], ["Lake_Kivu", "Europe", "Mammal", "Zebra"]]

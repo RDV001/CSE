@@ -1,0 +1,1 @@
+[["European_Union", "Middle_Ages", "Hundred_Years%27_War"], ["European_Union", "Paris", "Hundred_Years%27_War"]]

@@ -1,0 +1,1 @@
+[["Binoculars", "World_War_II", "Radar"]]

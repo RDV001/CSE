@@ -1,0 +1,1 @@
+[["North_Korea", "Cereal", "Iron", "Ruthenium"], ["North_Korea", "Fertilizer", "Iron", "Ruthenium"], ["North_Korea", "Japan", "Iron", "Ruthenium"], ["North_Korea", "Fertilizer", "Molybdenum", "Ruthenium"], ["North_Korea", "Japan", "Metal", "Ruthenium"]]

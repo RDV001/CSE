@@ -1,0 +1,1 @@
+[["Black_pepper", "Indonesia", "Internet", "OpenOffice.org", "Fedora_Core"], ["Black_pepper", "Medicine", "Computer", "GNOME", "Fedora_Core"], ["Black_pepper", "Medicine", "Computer", "Unix", "Fedora_Core"]]

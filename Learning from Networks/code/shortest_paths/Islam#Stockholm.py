@@ -1,0 +1,1 @@
+[["Islam", "13th_century", "Stockholm"], ["Islam", "Europe", "Stockholm"], ["Islam", "Istanbul", "Stockholm"]]

@@ -1,0 +1,1 @@
+[["Minneapolis%2C_Minnesota", "United_States", "Religious_Society_of_Friends"]]

@@ -1,0 +1,1 @@
+[["Arctic", "Antarctica", "Africa", "Maputo"], ["Arctic", "Atlantic_Ocean", "Africa", "Maputo"], ["Arctic", "Cretaceous", "Africa", "Maputo"], ["Arctic", "Earth", "Africa", "Maputo"], ["Arctic", "Ocean", "Africa", "Maputo"], ["Arctic", "Cold_War", "Winston_Churchill", "Maputo"]]

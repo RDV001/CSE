@@ -1,0 +1,1 @@
+[["Cotton", "Asia", "South_Korea"], ["Cotton", "Hong_Kong", "South_Korea"], ["Cotton", "Peru", "South_Korea"], ["Cotton", "Shanghai", "South_Korea"], ["Cotton", "United_States", "South_Korea"]]

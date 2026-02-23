@@ -1,0 +1,1 @@
+[["Nash_equilibrium", "Economics", "Philosophy", "Atheism"], ["Nash_equilibrium", "Game_theory", "Philosophy", "Atheism"], ["Nash_equilibrium", "Economics", "Religion", "Atheism"], ["Nash_equilibrium", "Evolutionarily_stable_strategy", "Charles_Darwin", "Atheism"], ["Nash_equilibrium", "John_von_Neumann", "Germany", "Atheism"]]

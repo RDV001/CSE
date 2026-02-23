@@ -1,0 +1,1 @@
+[["Sony", "Floppy_disk", "Microsoft"]]

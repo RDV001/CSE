@@ -1,0 +1,1 @@
+[["Shinto", "19th_century", "18th_century", "1755_Lisbon_earthquake"], ["Shinto", "6th_century", "18th_century", "1755_Lisbon_earthquake"], ["Shinto", "Indonesia", "Tsunami", "1755_Lisbon_earthquake"], ["Shinto", "Japan", "Tsunami", "1755_Lisbon_earthquake"]]

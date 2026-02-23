@@ -1,0 +1,1 @@
+[["Marvin_Gaye", "September_11%2C_2001_attacks", "George_W._Bush", "Stem_cell"], ["Marvin_Gaye", "United_States", "George_W._Bush", "Stem_cell"]]

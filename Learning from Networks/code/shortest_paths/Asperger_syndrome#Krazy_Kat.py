@@ -1,0 +1,1 @@
+[["Asperger_syndrome", "Dinosaur", "Brachiosaurus", "Walt_Disney", "Krazy_Kat"], ["Asperger_syndrome", "Dinosaur", "Deinonychus", "Calvin_and_Hobbes", "Krazy_Kat"], ["Asperger_syndrome", "Dinosaur", "Tyrannosaurus", "Calvin_and_Hobbes", "Krazy_Kat"]]

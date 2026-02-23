@@ -1,0 +1,1 @@
+[["Arab-Israeli_conflict", "Arab_League", "Western_Sahara"], ["Arab-Israeli_conflict", "Arabic_language", "Western_Sahara"], ["Arab-Israeli_conflict", "Israel", "Western_Sahara"], ["Arab-Israeli_conflict", "Lebanon", "Western_Sahara"], ["Arab-Israeli_conflict", "United_States", "Western_Sahara"]]

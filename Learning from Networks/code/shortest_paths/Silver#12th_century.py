@@ -1,0 +1,1 @@
+[["Silver", "Middle_Ages", "12th_century"], ["Silver", "Peru", "12th_century"], ["Silver", "Sulfur", "12th_century"]]

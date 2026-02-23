@@ -1,0 +1,1 @@
+[["Lake_Mead", "California", "Gold", "List_of_elements_by_name", "Curium"], ["Lake_Mead", "California", "Gold", "Periodic_table", "Curium"], ["Lake_Mead", "United_States", "Poland", "Marie_Curie", "Curium"]]

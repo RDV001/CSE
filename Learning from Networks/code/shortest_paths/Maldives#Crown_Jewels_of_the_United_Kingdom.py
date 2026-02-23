@@ -1,0 +1,1 @@
+[["Maldives", "Africa", "Diamond", "Crown_Jewels_of_the_United_Kingdom"], ["Maldives", "Tamil_people", "Diamond", "Crown_Jewels_of_the_United_Kingdom"]]

@@ -1,0 +1,1 @@
+[["Hippocrates", "Citrus", "India"], ["Hippocrates", "English_language", "India"], ["Hippocrates", "Honey", "India"], ["Hippocrates", "Macedon", "India"], ["Hippocrates", "Medicine", "India"], ["Hippocrates", "Philosophy", "India"]]

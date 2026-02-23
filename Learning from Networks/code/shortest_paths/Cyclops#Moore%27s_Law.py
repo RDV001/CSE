@@ -1,0 +1,1 @@
+[["Cyclops", "Greek_mythology", "20th_century", "Moore%27s_Law"]]

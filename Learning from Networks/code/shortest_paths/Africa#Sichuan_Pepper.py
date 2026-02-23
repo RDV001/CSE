@@ -1,0 +1,1 @@
+[["Africa", "Ancient_Greece", "Olive_oil", "Sichuan_Pepper"], ["Africa", "Ancient_Rome", "Olive_oil", "Sichuan_Pepper"], ["Africa", "Judaism", "Olive_oil", "Sichuan_Pepper"], ["Africa", "Tunis", "Olive_oil", "Sichuan_Pepper"], ["Africa", "Funchal", "Fennel", "Sichuan_Pepper"]]

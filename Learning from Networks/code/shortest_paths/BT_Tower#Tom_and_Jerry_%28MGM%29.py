@@ -1,0 +1,1 @@
+[["BT_Tower", "England", "London_Underground", "Tobacco_smoking", "Tom_and_Jerry_%28MGM%29"], ["BT_Tower", "London", "London_Underground", "Tobacco_smoking", "Tom_and_Jerry_%28MGM%29"], ["BT_Tower", "London", "People%27s_Republic_of_China", "Tobacco_smoking", "Tom_and_Jerry_%28MGM%29"], ["BT_Tower", "United_Kingdom", "Bicycle", "Tobacco_smoking", "Tom_and_Jerry_%28MGM%29"]]

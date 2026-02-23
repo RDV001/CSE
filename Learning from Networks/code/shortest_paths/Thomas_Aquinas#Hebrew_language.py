@@ -1,0 +1,1 @@
+[["Thomas_Aquinas", "Bible", "Hebrew_language"], ["Thomas_Aquinas", "Christianity", "Hebrew_language"], ["Thomas_Aquinas", "Jesus", "Hebrew_language"], ["Thomas_Aquinas", "Roman_Catholic_Church", "Hebrew_language"]]

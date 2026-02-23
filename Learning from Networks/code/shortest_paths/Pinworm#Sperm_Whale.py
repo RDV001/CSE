@@ -1,0 +1,1 @@
+[["Pinworm", "Animal", "Mammal", "Whale", "Sperm_Whale"], ["Pinworm", "Scientific_classification", "Mammal", "Whale", "Sperm_Whale"], ["Pinworm", "Animal", "Vertebrate", "Whale", "Sperm_Whale"], ["Pinworm", "Scientific_classification", "Vertebrate", "Whale", "Sperm_Whale"], ["Pinworm", "Animal", "Water", "Whale", "Sperm_Whale"]]

@@ -1,0 +1,1 @@
+[["Niue", "Elizabeth_II_of_the_United_Kingdom", "Europe"], ["Niue", "Internet", "Europe"], ["Niue", "James_Cook", "Europe"], ["Niue", "New_Zealand", "Europe"], ["Niue", "Samoa", "Europe"], ["Niue", "United_Kingdom", "Europe"]]

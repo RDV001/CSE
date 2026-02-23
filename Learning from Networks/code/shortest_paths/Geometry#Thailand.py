@@ -1,0 +1,1 @@
+[["Geometry", "Physics", "13th_century", "Thailand"], ["Geometry", "Ren%C3%A9_Descartes", "France", "Thailand"], ["Geometry", "Symmetry", "Angkor_Wat", "Thailand"], ["Geometry", "Symmetry", "Automobile", "Thailand"], ["Geometry", "Symmetry", "Buddhism", "Thailand"], ["Geometry", "Symmetry", "Elephant", "Thailand"], ["Geometry", "Symmetry", "United_States", "Thailand"]]

@@ -1,0 +1,1 @@
+[["4th_century", "17th_century", "Bacteria", "Nitrogen_fixation"], ["4th_century", "20th_century", "Nitrogen", "Nitrogen_fixation"], ["4th_century", "3rd_century", "Maize", "Nitrogen_fixation"]]

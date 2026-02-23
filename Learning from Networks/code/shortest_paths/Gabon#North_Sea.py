@@ -1,0 +1,1 @@
+[["Gabon", "Atlantic_Ocean", "North_Sea"], ["Gabon", "France", "North_Sea"], ["Gabon", "Petroleum", "North_Sea"]]

@@ -1,0 +1,1 @@
+[["Florida", "Atlantic_Ocean", "Portugal"], ["Florida", "Basketball", "Portugal"], ["Florida", "Cuba", "Portugal"], ["Florida", "German_language", "Portugal"], ["Florida", "Germany", "Portugal"], ["Florida", "Greece", "Portugal"], ["Florida", "Judaism", "Portugal"], ["Florida", "Tourism", "Portugal"], ["Florida", "United_States", "Portugal"]]

@@ -1,0 +1,1 @@
+[["Desmond_Tutu", "Africa", "Gold"], ["Desmond_Tutu", "Cape_Town", "Gold"], ["Desmond_Tutu", "Indonesia", "Gold"], ["Desmond_Tutu", "Johannesburg", "Gold"], ["Desmond_Tutu", "South_Africa", "Gold"], ["Desmond_Tutu", "Zimbabwe", "Gold"]]

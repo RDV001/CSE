@@ -1,0 +1,1 @@
+[["Shroud_of_Turin", "Bacteria", "Nitrogen", "Morphine"], ["Shroud_of_Turin", "Bacteria", "Plant", "Morphine"], ["Shroud_of_Turin", "Cotton", "Plant", "Morphine"], ["Shroud_of_Turin", "Fire", "Plant", "Morphine"], ["Shroud_of_Turin", "God", "Sigmund_Freud", "Morphine"], ["Shroud_of_Turin", "Leonardo_da_Vinci", "Sigmund_Freud", "Morphine"]]

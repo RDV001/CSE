@@ -1,0 +1,1 @@
+[["Muhammad_Ali", "Malcolm_X", "Egypt", "Hatshepsut"]]

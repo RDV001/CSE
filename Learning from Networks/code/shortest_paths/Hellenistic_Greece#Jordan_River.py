@@ -1,0 +1,1 @@
+[["Hellenistic_Greece", "Ancient_Greece", "Water", "Jordan_River"], ["Hellenistic_Greece", "Christianity", "Jesus", "Jordan_River"], ["Hellenistic_Greece", "Indo-Greek_Kingdom", "Civilization", "Jordan_River"], ["Hellenistic_Greece", "Minoan_civilization", "Civilization", "Jordan_River"], ["Hellenistic_Greece", "Roman_Empire", "Civilization", "Jordan_River"]]

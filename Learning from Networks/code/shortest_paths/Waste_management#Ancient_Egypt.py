@@ -1,0 +1,1 @@
+[["Waste_management", "Aesthetics", "Ancient_Egypt"], ["Waste_management", "Mining", "Ancient_Egypt"], ["Waste_management", "Steel", "Ancient_Egypt"]]

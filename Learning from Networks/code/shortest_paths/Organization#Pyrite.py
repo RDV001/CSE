@@ -1,0 +1,1 @@
+[["Organization", "Economics", "Gold", "Pyrite"]]

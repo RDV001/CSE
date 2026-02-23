@@ -1,0 +1,1 @@
+[["Paul_C%C3%A9zanne", "19th_century", "Music", "Bluegrass_music"], ["Paul_C%C3%A9zanne", "20th_century", "Music", "Bluegrass_music"], ["Paul_C%C3%A9zanne", "Cubism", "Music", "Bluegrass_music"], ["Paul_C%C3%A9zanne", "Brain", "Southern_United_States", "Bluegrass_music"]]

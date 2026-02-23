@@ -1,0 +1,1 @@
+[["Globular_cluster", "Black_hole", "Stephen_Hawking", "Oxford"], ["Globular_cluster", "Edmond_Halley", "River_Thames", "Oxford"], ["Globular_cluster", "Edmond_Halley", "University_of_Cambridge", "Oxford"]]

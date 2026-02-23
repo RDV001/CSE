@@ -1,0 +1,1 @@
+[["Tokyo", "18th_century", "Photosynthesis", "Adenosine_triphosphate"], ["Tokyo", "Glasgow", "Sugar", "Adenosine_triphosphate"], ["Tokyo", "Transport", "Energy", "Adenosine_triphosphate"]]

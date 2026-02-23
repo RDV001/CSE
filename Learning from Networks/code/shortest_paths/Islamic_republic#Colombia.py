@@ -1,0 +1,1 @@
+[["Islamic_republic", "Military_dictatorship", "Colombia"]]

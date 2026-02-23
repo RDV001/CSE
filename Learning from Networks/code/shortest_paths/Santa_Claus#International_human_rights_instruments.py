@@ -1,0 +1,1 @@
+[["Santa_Claus", "Albania", "Human_rights", "International_human_rights_instruments"], ["Santa_Claus", "Iran", "Human_rights", "International_human_rights_instruments"], ["Santa_Claus", "Russia", "Human_rights", "International_human_rights_instruments"]]

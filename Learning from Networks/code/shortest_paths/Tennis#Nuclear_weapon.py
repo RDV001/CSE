@@ -1,0 +1,1 @@
+[["Tennis", "Argentina", "Nuclear_weapon"], ["Tennis", "Russia", "Nuclear_weapon"], ["Tennis", "United_States", "Nuclear_weapon"]]

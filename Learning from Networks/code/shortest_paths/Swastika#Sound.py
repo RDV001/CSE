@@ -1,0 +1,1 @@
+[["Swastika", "Sanskrit", "Sound"]]

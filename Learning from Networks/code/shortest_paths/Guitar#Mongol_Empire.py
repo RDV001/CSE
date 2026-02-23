@@ -1,0 +1,1 @@
+[["Guitar", "Arabic_language", "Islam", "Mongol_Empire"], ["Guitar", "Iran", "Islam", "Mongol_Empire"], ["Guitar", "Iran", "Kazakhstan", "Mongol_Empire"], ["Guitar", "Iran", "Persian_Empire", "Mongol_Empire"], ["Guitar", "Spanish_language", "Globalization", "Mongol_Empire"]]

@@ -1,0 +1,1 @@
+[["Gas_tungsten_arc_welding", "Copper", "Heat"], ["Gas_tungsten_arc_welding", "Helium", "Heat"], ["Gas_tungsten_arc_welding", "Nitrogen", "Heat"], ["Gas_tungsten_arc_welding", "Welding", "Heat"]]

@@ -1,0 +1,1 @@
+[["BAE_Systems", "United_States_dollar", "Alexander_Hamilton"]]

@@ -1,0 +1,1 @@
+[["Cornea", "Human", "Asia", "Mongolia"], ["Cornea", "Human", "Buddhism", "Mongolia"], ["Cornea", "Human", "List_of_circulating_currencies", "Mongolia"], ["Cornea", "Human", "Seoul", "Mongolia"], ["Cornea", "Romania", "Israel", "Mongolia"], ["Cornea", "Romania", "List_of_countries_by_system_of_government", "Mongolia"]]

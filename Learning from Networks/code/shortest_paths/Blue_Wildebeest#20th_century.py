@@ -1,0 +1,1 @@
+[["Blue_Wildebeest", "Binomial_nomenclature", "20th_century"], ["Blue_Wildebeest", "East_Africa", "20th_century"], ["Blue_Wildebeest", "Kenya", "20th_century"], ["Blue_Wildebeest", "Lion", "20th_century"], ["Blue_Wildebeest", "Mammal", "20th_century"], ["Blue_Wildebeest", "Mozambique", "20th_century"]]

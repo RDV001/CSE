@@ -1,0 +1,1 @@
+[["Bat-eared_Fox", "Africa", "Gold", "Heat"], ["Bat-eared_Fox", "Animal", "Energy", "Heat"], ["Bat-eared_Fox", "Animal", "Photosynthesis", "Heat"], ["Bat-eared_Fox", "Animal", "Reptile", "Heat"], ["Bat-eared_Fox", "Chordate", "Reptile", "Heat"], ["Bat-eared_Fox", "Mammal", "Dinosaur", "Heat"]]

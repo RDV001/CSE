@@ -1,0 +1,1 @@
+[["Gallium", "Chemical_element", "Helium"], ["Gallium", "Francium", "Helium"], ["Gallium", "List_of_elements_by_name", "Helium"], ["Gallium", "Periodic_table", "Helium"]]

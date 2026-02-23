@@ -1,0 +1,1 @@
+[["Minoan_civilization", "Spain", "Gibraltar", "Barbary_Macaque"]]

@@ -1,0 +1,1 @@
+[["Wikipedia", "United_States_dollar", "Rhode_Island"]]

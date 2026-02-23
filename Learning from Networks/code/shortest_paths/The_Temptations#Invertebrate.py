@@ -1,0 +1,1 @@
+[["The_Temptations", "Lung_cancer", "Brain", "Invertebrate"], ["The_Temptations", "United_States", "Antarctica", "Invertebrate"]]

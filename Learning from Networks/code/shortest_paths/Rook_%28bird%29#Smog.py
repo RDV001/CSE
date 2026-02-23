@@ -1,0 +1,1 @@
+[["Rook_%28bird%29", "Asia", "Beijing", "Smog"], ["Rook_%28bird%29", "Asia", "Tehran", "Smog"], ["Rook_%28bird%29", "Human", "Pollution", "Smog"], ["Rook_%28bird%29", "New_Zealand", "Auckland", "Smog"]]

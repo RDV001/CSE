@@ -1,0 +1,1 @@
+[["Flag_of_Belarus", "Communism", "Middle_East"], ["Flag_of_Belarus", "Nazism", "Middle_East"]]

@@ -1,0 +1,1 @@
+[["Mars", "Ancient_Greece", "Persian_Empire"], ["Mars", "Astronomy", "Persian_Empire"]]

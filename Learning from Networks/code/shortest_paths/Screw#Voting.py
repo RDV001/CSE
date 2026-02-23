@@ -1,0 +1,1 @@
+[["Screw", "Canada", "Canadian_Charter_of_Rights_and_Freedoms", "Voting"], ["Screw", "United_States", "Martin_Luther_King%2C_Jr.", "Voting"], ["Screw", "World_War_II", "Election", "Voting"]]

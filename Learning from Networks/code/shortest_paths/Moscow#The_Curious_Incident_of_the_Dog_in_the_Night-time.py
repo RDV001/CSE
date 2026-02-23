@@ -1,0 +1,1 @@
+[["Moscow", "Architecture", "Mathematics", "Prime_number", "The_Curious_Incident_of_the_Dog_in_the_Night-time"], ["Moscow", "Engineering", "Mathematics", "Prime_number", "The_Curious_Incident_of_the_Dog_in_the_Night-time"], ["Moscow", "Napoleon_I_of_France", "Mathematics", "Prime_number", "The_Curious_Incident_of_the_Dog_in_the_Night-time"]]

@@ -1,0 +1,1 @@
+[["Wake_Island", "China", "Roman_Empire", "Pompeii"], ["Wake_Island", "Germany", "Roman_Empire", "Pompeii"], ["Wake_Island", "Mercury_%28element%29", "Roman_Empire", "Pompeii"], ["Wake_Island", "Religion", "Ancient_Rome", "Pompeii"], ["Wake_Island", "United_States", "Advertising", "Pompeii"]]

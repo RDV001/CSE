@@ -1,0 +1,1 @@
+[["Apatosaurus", "Animal", "Bacteria", "DNA_repair"], ["Apatosaurus", "Scientific_classification", "Bacteria", "DNA_repair"], ["Apatosaurus", "Dinosaur", "DNA", "DNA_repair"], ["Apatosaurus", "Fossil", "DNA", "DNA_repair"], ["Apatosaurus", "Scientific_classification", "Gregor_Mendel", "DNA_repair"]]

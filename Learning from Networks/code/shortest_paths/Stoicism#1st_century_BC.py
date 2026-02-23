@@ -1,0 +1,1 @@
+[["Stoicism", "Ancient_Rome", "1st_century_BC"], ["Stoicism", "Logic", "1st_century_BC"]]

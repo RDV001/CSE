@@ -1,0 +1,1 @@
+[["Malcolm_III_of_Scotland", "Newcastle_upon_Tyne", "United_States", "United_States_Senate"], ["Malcolm_III_of_Scotland", "Scotland", "United_States", "United_States_Senate"]]

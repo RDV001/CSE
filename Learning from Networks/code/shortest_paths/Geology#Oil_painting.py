@@ -1,0 +1,1 @@
+[["Geology", "History_of_Earth", "Renaissance", "Oil_painting"], ["Geology", "Science", "Renaissance", "Oil_painting"]]

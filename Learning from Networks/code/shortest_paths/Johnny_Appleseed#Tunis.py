@@ -1,0 +1,1 @@
+[["Johnny_Appleseed", "Art", "Ottoman_Empire", "Tunis"], ["Johnny_Appleseed", "Malaria", "Africa", "Tunis"], ["Johnny_Appleseed", "Malaria", "Algeria", "Tunis"], ["Johnny_Appleseed", "New_York_City", "Israel", "Tunis"]]

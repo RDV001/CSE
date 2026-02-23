@@ -1,0 +1,1 @@
+[["Rainbow", "Gold", "Argentina", "Anteater", "Aardvark"], ["Rainbow", "Inca_Empire", "Argentina", "Anteater", "Aardvark"], ["Rainbow", "Italy", "Argentina", "Anteater", "Aardvark"], ["Rainbow", "Peru", "Argentina", "Anteater", "Aardvark"], ["Rainbow", "Water", "Argentina", "Anteater", "Aardvark"], ["Rainbow", "Peru", "Armadillo", "Anteater", "Aardvark"]]

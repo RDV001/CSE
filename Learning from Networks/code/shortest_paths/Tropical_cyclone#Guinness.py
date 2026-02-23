@@ -1,0 +1,1 @@
+[["Tropical_cyclone", "Africa", "Sorghum", "Guinness"], ["Tropical_cyclone", "British_Isles", "Dublin", "Guinness"], ["Tropical_cyclone", "Europe", "Dublin", "Guinness"], ["Tropical_cyclone", "Hong_Kong", "Dublin", "Guinness"]]

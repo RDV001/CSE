@@ -1,0 +1,1 @@
+[["Airship", "19th_century", "21st_century", "Mahmoud_Abbas"], ["Airship", "Berlin", "The_Holocaust", "Mahmoud_Abbas"], ["Airship", "Germany", "The_Holocaust", "Mahmoud_Abbas"], ["Airship", "Germany", "George_W._Bush", "Mahmoud_Abbas"], ["Airship", "Japan", "George_W._Bush", "Mahmoud_Abbas"], ["Airship", "United_States", "George_W._Bush", "Mahmoud_Abbas"]]

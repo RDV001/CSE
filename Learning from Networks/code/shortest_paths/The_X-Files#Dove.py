@@ -1,0 +1,1 @@
+[["The_X-Files", "The_Simpsons", "Olympic_Games", "Dove"], ["The_X-Files", "United_Kingdom", "Olympic_Games", "Dove"], ["The_X-Files", "United_States", "Olympic_Games", "Dove"], ["The_X-Files", "United_Kingdom", "Trafalgar_Square", "Dove"]]

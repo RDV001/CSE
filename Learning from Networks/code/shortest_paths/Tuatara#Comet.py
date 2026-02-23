@@ -1,0 +1,1 @@
+[["Tuatara", "Deity", "Earth", "Comet"], ["Tuatara", "Landform", "Earth", "Comet"], ["Tuatara", "Reptile", "Sun", "Comet"], ["Tuatara", "Ultraviolet", "Sun", "Comet"], ["Tuatara", "Ultraviolet", "Astronomy", "Comet"], ["Tuatara", "Ultraviolet", "Jupiter", "Comet"]]

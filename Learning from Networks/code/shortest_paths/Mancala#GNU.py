@@ -1,0 +1,1 @@
+[["Mancala", "Asia", "Computer", "GNU"], ["Mancala", "Lebanon", "Computer", "GNU"], ["Mancala", "Syria", "Computer", "GNU"], ["Mancala", "United_States", "Computer", "GNU"]]

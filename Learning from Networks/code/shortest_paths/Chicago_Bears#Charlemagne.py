@@ -1,0 +1,1 @@
+[["Chicago_Bears", "Chicago", "Germany", "Charlemagne"], ["Chicago_Bears", "United_States", "Germany", "Charlemagne"], ["Chicago_Bears", "United_States", "France", "Charlemagne"], ["Chicago_Bears", "United_States", "Holy_Roman_Empire", "Charlemagne"], ["Chicago_Bears", "United_States", "Spain", "Charlemagne"], ["Chicago_Bears", "University_of_Chicago", "Paris", "Charlemagne"]]

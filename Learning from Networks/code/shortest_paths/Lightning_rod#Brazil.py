@@ -1,0 +1,1 @@
+[["Lightning_rod", "United_States", "Brazil"]]

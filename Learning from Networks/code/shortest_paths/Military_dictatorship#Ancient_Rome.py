@@ -1,0 +1,1 @@
+[["Military_dictatorship", "Africa", "Ancient_Rome"], ["Military_dictatorship", "Portugal", "Ancient_Rome"], ["Military_dictatorship", "Romania", "Ancient_Rome"], ["Military_dictatorship", "Spain", "Ancient_Rome"], ["Military_dictatorship", "Syria", "Ancient_Rome"]]

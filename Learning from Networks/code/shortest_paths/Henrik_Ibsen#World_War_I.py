@@ -1,0 +1,1 @@
+[["Henrik_Ibsen", "Germany", "World_War_I"], ["Henrik_Ibsen", "Munich", "World_War_I"], ["Henrik_Ibsen", "Norway", "World_War_I"], ["Henrik_Ibsen", "United_States", "World_War_I"]]

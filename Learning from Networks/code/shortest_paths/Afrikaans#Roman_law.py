@@ -1,0 +1,1 @@
+[["Afrikaans", "Germany", "Roman_law"], ["Afrikaans", "Scotland", "Roman_law"]]

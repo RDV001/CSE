@@ -1,0 +1,1 @@
+[["Quantity", "Energy", "Big_Bang"], ["Quantity", "Time", "Big_Bang"]]

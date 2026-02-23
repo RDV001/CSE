@@ -1,0 +1,1 @@
+[["Mario", "English_language", "Wales", "Welsh_law", "Llywelyn_the_Great"], ["Mario", "Star_Trek", "Human_rights", "John_of_England", "Llywelyn_the_Great"], ["Mario", "United_States", "United_States_Bill_of_Rights", "John_of_England", "Llywelyn_the_Great"]]

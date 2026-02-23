@@ -1,0 +1,1 @@
+[["Tsunami", "Chile", "Coal", "Santa_Claus"], ["Tsunami", "Norway", "Coal", "Santa_Claus"], ["Tsunami", "United_States", "Coal", "Santa_Claus"], ["Tsunami", "Volcano", "Coal", "Santa_Claus"]]

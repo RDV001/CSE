@@ -1,0 +1,1 @@
+[["Parliament_of_Canada", "Currency", "El_Salvador"], ["Parliament_of_Canada", "United_States", "El_Salvador"]]

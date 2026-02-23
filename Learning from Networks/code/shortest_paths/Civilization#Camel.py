@@ -1,0 +1,1 @@
+[["Civilization", "Ferdinand_Magellan", "Camel"], ["Civilization", "Nile", "Camel"], ["Civilization", "Sudan", "Camel"]]

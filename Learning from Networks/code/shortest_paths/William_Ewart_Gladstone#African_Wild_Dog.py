@@ -1,0 +1,1 @@
+[["William_Ewart_Gladstone", "Afghanistan", "Dog", "African_Wild_Dog"]]

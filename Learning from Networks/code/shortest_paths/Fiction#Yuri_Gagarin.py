@@ -1,0 +1,1 @@
+[["Fiction", "Human", "Space_exploration", "Yuri_Gagarin"], ["Fiction", "Propaganda", "Soviet_Union", "Yuri_Gagarin"], ["Fiction", "Religion", "Soviet_Union", "Yuri_Gagarin"], ["Fiction", "Santa_Claus", "Russia", "Yuri_Gagarin"]]

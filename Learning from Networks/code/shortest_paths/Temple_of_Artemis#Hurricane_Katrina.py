@@ -1,0 +1,1 @@
+[["Temple_of_Artemis", "18th_century", "21st_century", "Hurricane_Katrina"], ["Temple_of_Artemis", "18th_century", "President_of_the_United_States", "Hurricane_Katrina"], ["Temple_of_Artemis", "Moon", "Canada", "Hurricane_Katrina"], ["Temple_of_Artemis", "Turkey", "Qatar", "Hurricane_Katrina"]]

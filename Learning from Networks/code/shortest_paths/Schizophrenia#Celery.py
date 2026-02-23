@@ -1,0 +1,1 @@
+[["Schizophrenia", "Ancient_Greece", "Olive_oil", "Celery"], ["Schizophrenia", "Ancient_Rome", "Olive_oil", "Celery"], ["Schizophrenia", "United_Kingdom", "Chelsea_F.C.", "Celery"]]

@@ -1,0 +1,1 @@
+[["Dark_Ages", "18th_century", "Emanuel_Swedenborg"]]

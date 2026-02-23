@@ -1,0 +1,1 @@
+[["Pompeii", "Ancient_Rome", "Law", "Civil_society"], ["Pompeii", "Italy", "Law", "Civil_society"], ["Pompeii", "Latin", "Law", "Civil_society"], ["Pompeii", "Greece", "Russia", "Civil_society"], ["Pompeii", "Volcano", "Russia", "Civil_society"], ["Pompeii", "World_Heritage_Site", "Russia", "Civil_society"]]

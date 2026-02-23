@@ -1,0 +1,1 @@
+[["Nitrification", "Russia", "Soviet_Union", "Laika", "Mixed-breed_dog"], ["Nitrification", "Russia", "Sputnik_1", "Laika", "Mixed-breed_dog"]]

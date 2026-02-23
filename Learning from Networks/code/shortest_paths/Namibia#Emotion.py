@@ -1,0 +1,1 @@
+[["Namibia", "19th_century", "S%C3%B8ren_Kierkegaard", "Emotion"], ["Namibia", "Africa", "Human", "Emotion"], ["Namibia", "Kenya", "Human", "Emotion"], ["Namibia", "South_Africa", "Human", "Emotion"], ["Namibia", "Lead", "Schizophrenia", "Emotion"], ["Namibia", "Zinc", "Brain", "Emotion"]]

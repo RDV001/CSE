@@ -1,0 +1,1 @@
+[["Solar_eclipse", "Albert_Einstein", "Chemical_element"], ["Solar_eclipse", "Sun", "Chemical_element"]]

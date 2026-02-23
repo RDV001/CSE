@@ -1,0 +1,1 @@
+[["Tropical_cyclone", "Sri_Lanka", "Rupee"]]

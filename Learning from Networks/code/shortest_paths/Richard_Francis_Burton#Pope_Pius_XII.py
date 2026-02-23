@@ -1,0 +1,1 @@
+[["Richard_Francis_Burton", "Roman_Catholic_Church", "Pope_Pius_XII"]]

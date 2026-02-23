@@ -1,0 +1,1 @@
+[["Battle_of_Badr", "Islam", "United_Kingdom"], ["Battle_of_Badr", "Judaism", "United_Kingdom"], ["Battle_of_Badr", "Oman", "United_Kingdom"], ["Battle_of_Badr", "Saudi_Arabia", "United_Kingdom"], ["Battle_of_Badr", "Yemen", "United_Kingdom"]]

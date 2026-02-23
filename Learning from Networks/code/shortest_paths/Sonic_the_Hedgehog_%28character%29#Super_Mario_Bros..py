@@ -1,0 +1,1 @@
+[["Sonic_the_Hedgehog_%28character%29", "Mario", "Super_Mario_Bros."], ["Sonic_the_Hedgehog_%28character%29", "Nintendo", "Super_Mario_Bros."]]

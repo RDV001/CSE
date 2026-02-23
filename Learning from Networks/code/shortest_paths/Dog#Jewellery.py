@@ -1,0 +1,1 @@
+[["Dog", "Africa", "Ancient_Greece", "Jewellery"], ["Dog", "Africa", "Diamond", "Jewellery"], ["Dog", "Ammonia", "Platinum", "Jewellery"], ["Dog", "Peru", "Sculpture", "Jewellery"]]

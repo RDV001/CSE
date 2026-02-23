@@ -1,0 +1,1 @@
+[["Desmond_Tutu", "Africa", "Zulu", "Shaka"], ["Desmond_Tutu", "South_Africa", "Zulu", "Shaka"], ["Desmond_Tutu", "Zimbabwe", "Zulu", "Shaka"], ["Desmond_Tutu", "Afrikaans", "19th_century", "Shaka"], ["Desmond_Tutu", "Terrorism", "19th_century", "Shaka"], ["Desmond_Tutu", "Zimbabwe", "19th_century", "Shaka"], ["Desmond_Tutu", "Zionism", "19th_century", "Shaka"]]

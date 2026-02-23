@@ -1,0 +1,1 @@
+[["Outer_Hebrides", "Norway", "Petroleum", "Matter"], ["Outer_Hebrides", "Rockall", "Petroleum", "Matter"], ["Outer_Hebrides", "United_Kingdom", "Petroleum", "Matter"], ["Outer_Hebrides", "United_Kingdom", "Bertrand_Russell", "Matter"]]

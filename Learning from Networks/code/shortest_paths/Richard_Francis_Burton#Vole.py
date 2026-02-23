@@ -1,0 +1,1 @@
+[["Richard_Francis_Burton", "England", "Winter", "Vole"], ["Richard_Francis_Burton", "George_Byron%2C_6th_Baron_Byron", "Badger", "Vole"]]

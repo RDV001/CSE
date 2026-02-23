@@ -1,0 +1,1 @@
+[["Henri_Matisse", "France", "Republic_of_Ireland", "Church_of_Ireland"], ["Henri_Matisse", "France", "United_Kingdom", "Church_of_Ireland"], ["Henri_Matisse", "Paris", "United_Kingdom", "Church_of_Ireland"], ["Henri_Matisse", "Neoclassicism", "Ireland", "Church_of_Ireland"]]

@@ -1,0 +1,1 @@
+[["Birth_control", "Christianity", "North_Africa"], ["Birth_control", "Culture", "North_Africa"], ["Birth_control", "Islam", "North_Africa"], ["Birth_control", "Judaism", "North_Africa"]]

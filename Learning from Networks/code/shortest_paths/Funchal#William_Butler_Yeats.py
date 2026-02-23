@@ -1,0 +1,1 @@
+[["Funchal", "16th_century", "Ireland", "William_Butler_Yeats"], ["Funchal", "Atlantic_Ocean", "Ireland", "William_Butler_Yeats"]]

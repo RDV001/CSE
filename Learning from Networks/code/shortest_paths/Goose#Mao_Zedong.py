@@ -1,0 +1,1 @@
+[["Goose", "Asia", "Mao_Zedong"]]

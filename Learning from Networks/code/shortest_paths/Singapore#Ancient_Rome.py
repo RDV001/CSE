@@ -1,0 +1,1 @@
+[["Singapore", "Fishing", "Ancient_Rome"], ["Singapore", "Kosovo", "Ancient_Rome"], ["Singapore", "Lion", "Ancient_Rome"], ["Singapore", "London", "Ancient_Rome"], ["Singapore", "Portugal", "Ancient_Rome"]]

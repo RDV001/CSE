@@ -1,0 +1,1 @@
+[["Linus_Torvalds", "Moscow", "Azerbaijani_people"]]

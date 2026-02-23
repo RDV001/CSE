@@ -1,0 +1,1 @@
+[["Dualism_%28philosophy_of_mind%29", "Philosophy_of_mind", "Information"]]

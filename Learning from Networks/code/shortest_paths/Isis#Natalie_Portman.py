@@ -1,0 +1,1 @@
+[["Isis", "Asia", "Jerusalem", "Natalie_Portman"], ["Isis", "Josephus", "Jerusalem", "Natalie_Portman"], ["Isis", "Middle_East", "Jerusalem", "Natalie_Portman"], ["Isis", "Rome", "Jerusalem", "Natalie_Portman"]]

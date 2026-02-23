@@ -1,0 +1,1 @@
+[["Ottawa", "French_language", "Algeria", "Algerian_Civil_War"], ["Ottawa", "Jew", "Algeria", "Algerian_Civil_War"]]

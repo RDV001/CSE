@@ -1,0 +1,1 @@
+[["Cooperative", "Edinburgh", "Denmark"], ["Cooperative", "European_Union", "Denmark"], ["Cooperative", "Manchester", "Denmark"], ["Cooperative", "North_America", "Denmark"], ["Cooperative", "Scotland", "Denmark"], ["Cooperative", "United_States", "Denmark"]]

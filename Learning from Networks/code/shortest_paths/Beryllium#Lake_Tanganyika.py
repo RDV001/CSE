@@ -1,0 +1,1 @@
+[["Beryllium", "Copper", "Zambia", "Lake_Tanganyika"], ["Beryllium", "Radium", "Democratic_Republic_of_the_Congo", "Lake_Tanganyika"]]

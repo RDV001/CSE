@@ -1,0 +1,1 @@
+[["Sesame", "Africa", "Earth", "Weather"], ["Sesame", "Calcium", "Earth", "Weather"], ["Sesame", "Africa", "Temperate", "Weather"], ["Sesame", "Plant", "Temperate", "Weather"], ["Sesame", "Greece", "Climate", "Weather"], ["Sesame", "Thailand", "Climate", "Weather"], ["Sesame", "Seed", "Harvest", "Weather"], ["Sesame", "Thailand", "Natural_gas", "Weather"]]

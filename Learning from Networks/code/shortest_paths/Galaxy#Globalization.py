@@ -1,0 +1,1 @@
+[["Galaxy", "Biology", "Anthropology", "Globalization"], ["Galaxy", "Hubble_Space_Telescope", "Art", "Globalization"], ["Galaxy", "Milky_Way", "Spanish_language", "Globalization"]]

@@ -1,0 +1,1 @@
+[["Aztec", "Maize", "Bacteria", "Cell_%28biology%29"], ["Aztec", "Maize", "Protein", "Cell_%28biology%29"], ["Aztec", "Mexico", "Birth_control", "Cell_%28biology%29"], ["Aztec", "Smallpox", "Common_cold", "Cell_%28biology%29"], ["Aztec", "Sun", "Iron", "Cell_%28biology%29"], ["Aztec", "Sun", "Photosynthesis", "Cell_%28biology%29"]]

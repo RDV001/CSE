@@ -1,0 +1,1 @@
+[["A_Christmas_Carol", "Charles_Dickens", "Paris", "Garden"], ["A_Christmas_Carol", "Greek_mythology", "Paris", "Garden"], ["A_Christmas_Carol", "Poverty", "Paris", "Garden"], ["A_Christmas_Carol", "Theatre", "Paris", "Garden"], ["A_Christmas_Carol", "United_States", "Tourism", "Garden"]]

@@ -1,0 +1,1 @@
+[["Tripitaka", "Buddhism", "Sikkim", "Glacier", "Polar_ice_cap"], ["Tripitaka", "History_of_Buddhism", "Sikkim", "Glacier", "Polar_ice_cap"], ["Tripitaka", "Chinese_language", "Africa", "Glacier", "Polar_ice_cap"], ["Tripitaka", "Buddhism", "Singapore", "Fresh_water", "Polar_ice_cap"], ["Tripitaka", "Chinese_language", "Singapore", "Fresh_water", "Polar_ice_cap"]]

@@ -1,0 +1,1 @@
+[["Haemophilia", "12th_century", "13th_century", "Marco_Polo"], ["Haemophilia", "12th_century", "Genghis_Khan", "Marco_Polo"], ["Haemophilia", "12th_century", "Mongol_Empire", "Marco_Polo"], ["Haemophilia", "Jew", "Geography", "Marco_Polo"], ["Haemophilia", "Jew", "Ottoman_Empire", "Marco_Polo"], ["Haemophilia", "Victoria_of_the_United_Kingdom", "Ottoman_Empire", "Marco_Polo"]]

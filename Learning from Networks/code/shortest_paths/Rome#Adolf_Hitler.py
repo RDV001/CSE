@@ -1,0 +1,1 @@
+[["Rome", "Benito_Mussolini", "Adolf_Hitler"], ["Rome", "Italy", "Adolf_Hitler"], ["Rome", "Nazi_Germany", "Adolf_Hitler"], ["Rome", "Paris", "Adolf_Hitler"], ["Rome", "World_War_II", "Adolf_Hitler"]]

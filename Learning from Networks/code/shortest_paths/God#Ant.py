@@ -1,0 +1,1 @@
+[["God", "Light", "Bee", "Ant"], ["God", "Nature", "Organism", "Ant"], ["God", "Nature", "Plant", "Ant"]]

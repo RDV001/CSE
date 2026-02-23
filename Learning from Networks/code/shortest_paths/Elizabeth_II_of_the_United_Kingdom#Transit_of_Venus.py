@@ -1,0 +1,1 @@
+[["Elizabeth_II_of_the_United_Kingdom", "Australia", "James_Cook", "Transit_of_Venus"], ["Elizabeth_II_of_the_United_Kingdom", "New_Zealand", "James_Cook", "Transit_of_Venus"], ["Elizabeth_II_of_the_United_Kingdom", "Royal_Navy", "James_Cook", "Transit_of_Venus"], ["Elizabeth_II_of_the_United_Kingdom", "Germany", "Johannes_Kepler", "Transit_of_Venus"]]

@@ -1,0 +1,1 @@
+[["Confucius", "Asia", "Latin", "Split_infinitive"], ["Confucius", "Chinese_language", "Latin", "Split_infinitive"], ["Confucius", "Society", "Latin", "Split_infinitive"]]

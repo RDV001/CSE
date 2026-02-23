@@ -1,0 +1,1 @@
+[["Finland", "World_War_II", "Battle_of_Midway", "Battle_of_the_Eastern_Solomons"], ["Finland", "World_War_II", "Naval_Battle_of_Guadalcanal", "Battle_of_the_Eastern_Solomons"]]

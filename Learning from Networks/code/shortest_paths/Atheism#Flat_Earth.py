@@ -1,0 +1,1 @@
+[["Atheism", "Astronomy", "Earth", "Flat_Earth"], ["Atheism", "Atom", "Earth", "Flat_Earth"], ["Atheism", "Biology", "Earth", "Flat_Earth"], ["Atheism", "Creationism", "Earth", "Flat_Earth"], ["Atheism", "Deity", "Earth", "Flat_Earth"], ["Atheism", "Zeus", "Earth", "Flat_Earth"]]

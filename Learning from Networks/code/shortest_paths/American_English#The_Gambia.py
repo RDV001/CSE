@@ -1,0 +1,1 @@
+[["American_English", "English_language", "The_Gambia"], ["American_English", "United_States", "The_Gambia"]]

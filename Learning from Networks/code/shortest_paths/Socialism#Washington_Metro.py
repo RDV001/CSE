@@ -1,0 +1,1 @@
+[["Socialism", "Margaret_Thatcher", "Washington%2C_D.C.", "Washington_Metro"], ["Socialism", "Marshall_Plan", "Washington%2C_D.C.", "Washington_Metro"], ["Socialism", "Ronald_Reagan", "Washington%2C_D.C.", "Washington_Metro"], ["Socialism", "Russian_language", "Los_Angeles%2C_California", "Washington_Metro"]]

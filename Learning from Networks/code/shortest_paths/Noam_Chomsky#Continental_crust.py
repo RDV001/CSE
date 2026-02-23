@@ -1,0 +1,1 @@
+[["Noam_Chomsky", "Belarus", "Granite", "Continental_crust"], ["Noam_Chomsky", "Cape_Town", "Diamond", "Continental_crust"], ["Noam_Chomsky", "United_States", "Volcano", "Continental_crust"]]

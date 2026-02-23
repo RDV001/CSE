@@ -1,0 +1,1 @@
+[["Weapon", "Psychology", "Computer_science"]]

@@ -1,0 +1,1 @@
+[["Layla", "Eric_Clapton", "England", "William_Hogarth"], ["Layla", "Paul_McCartney", "England", "William_Hogarth"], ["Layla", "The_Beatles", "England", "William_Hogarth"], ["Layla", "United_Kingdom", "England", "William_Hogarth"], ["Layla", "Paul_McCartney", "Bristol", "William_Hogarth"]]

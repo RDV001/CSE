@@ -1,0 +1,1 @@
+[["Quantity", "Energy", "Computer", "Floppy_disk"]]

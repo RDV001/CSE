@@ -1,0 +1,1 @@
+[["Mao_Zedong", "Renminbi", "Ultraviolet", "Cataract"]]

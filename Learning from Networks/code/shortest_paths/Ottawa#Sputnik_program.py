@@ -1,0 +1,1 @@
+[["Ottawa", "Soviet_Union", "Laika", "Sputnik_program"], ["Ottawa", "Soviet_Union", "Sputnik_1", "Sputnik_program"]]

@@ -1,0 +1,1 @@
+[["Sputnik_1", "United_States", "Tennis", "Martina_Navratilova"]]

@@ -1,0 +1,1 @@
+[["Coal", "13th_century", "Holy_Roman_Empire", "Medieval_literature"], ["Coal", "Germany", "Holy_Roman_Empire", "Medieval_literature"], ["Coal", "Nazi_Germany", "Holy_Roman_Empire", "Medieval_literature"], ["Coal", "United_States", "Holy_Roman_Empire", "Medieval_literature"]]

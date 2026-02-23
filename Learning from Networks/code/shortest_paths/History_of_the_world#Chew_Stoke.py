@@ -1,0 +1,1 @@
+[["History_of_the_world", "Capitalism", "John_Locke", "Chew_Magna", "Chew_Stoke"], ["History_of_the_world", "England", "John_Locke", "Chew_Magna", "Chew_Stoke"], ["History_of_the_world", "Philosophy", "John_Locke", "Chew_Magna", "Chew_Stoke"], ["History_of_the_world", "Plato", "John_Locke", "Chew_Magna", "Chew_Stoke"]]

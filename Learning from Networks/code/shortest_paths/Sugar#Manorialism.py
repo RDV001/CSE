@@ -1,0 +1,1 @@
+[["Sugar", "Europe", "French_Revolution", "Manorialism"], ["Sugar", "Haiti", "French_Revolution", "Manorialism"], ["Sugar", "Napoleon_I_of_France", "French_Revolution", "Manorialism"], ["Sugar", "Netherlands", "Capitalism", "Manorialism"], ["Sugar", "United_States", "Capitalism", "Manorialism"]]

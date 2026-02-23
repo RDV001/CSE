@@ -1,0 +1,1 @@
+[["Batman", "Chemistry", "Atom", "Big_Bang"], ["Batman", "Chemistry", "Carbon", "Big_Bang"], ["Batman", "Chemistry", "Energy", "Big_Bang"], ["Batman", "Chemistry", "Helium", "Big_Bang"], ["Batman", "Chemistry", "Physics", "Big_Bang"], ["Batman", "Scotland", "Belgium", "Big_Bang"]]

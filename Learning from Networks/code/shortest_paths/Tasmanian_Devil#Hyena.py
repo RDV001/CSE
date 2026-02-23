@@ -1,0 +1,1 @@
+[["Tasmanian_Devil", "Carnivore", "Hyena"]]

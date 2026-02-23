@@ -1,0 +1,1 @@
+[["Stephen_Harper", "Israel", "Dead_Sea", "Cystic_fibrosis"], ["Stephen_Harper", "Israel", "Genetics", "Cystic_fibrosis"]]

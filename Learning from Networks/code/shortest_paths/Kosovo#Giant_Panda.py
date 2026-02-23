@@ -1,0 +1,1 @@
+[["Kosovo", "Nazism", "Swastika", "Giant_Panda"]]

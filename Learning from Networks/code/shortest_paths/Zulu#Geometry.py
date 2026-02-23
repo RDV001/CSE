@@ -1,0 +1,1 @@
+[["Zulu", "Cape_Town", "Glacier", "Geometry"], ["Zulu", "Christianity", "Religion", "Geometry"], ["Zulu", "South_Africa", "Religion", "Geometry"], ["Zulu", "Zimbabwe", "Religion", "Geometry"], ["Zulu", "English_language", "University", "Geometry"], ["Zulu", "United_Kingdom", "Bertrand_Russell", "Geometry"]]

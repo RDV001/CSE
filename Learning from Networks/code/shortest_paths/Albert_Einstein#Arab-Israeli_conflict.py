@@ -1,0 +1,1 @@
+[["Albert_Einstein", "Israel", "Arab-Israeli_conflict"], ["Albert_Einstein", "Jerusalem", "Arab-Israeli_conflict"], ["Albert_Einstein", "Jew", "Arab-Israeli_conflict"], ["Albert_Einstein", "Zionism", "Arab-Israeli_conflict"]]

@@ -1,0 +1,1 @@
+[["Ebony", "16th_century", "Mona_Lisa"], ["Ebony", "Paris", "Mona_Lisa"]]

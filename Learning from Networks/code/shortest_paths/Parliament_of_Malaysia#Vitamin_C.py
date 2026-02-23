@@ -1,0 +1,1 @@
+[["Parliament_of_Malaysia", "United_Kingdom", "GlaxoSmithKline", "Vitamin_C"]]

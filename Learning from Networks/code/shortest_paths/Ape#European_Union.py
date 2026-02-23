@@ -1,0 +1,1 @@
+[["Ape", "Asia", "European_Union"], ["Ape", "English_language", "European_Union"], ["Ape", "Gibraltar", "European_Union"], ["Ape", "Monkey", "European_Union"]]

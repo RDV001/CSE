@@ -1,0 +1,1 @@
+[["Gull", "Carnivore", "Vitamin", "Anemia", "Pernicious_anemia"], ["Gull", "Carnivore", "Vitamin", "B_vitamins", "Pernicious_anemia"], ["Gull", "Gal%C3%A1pagos_Islands", "Avocado", "B_vitamins", "Pernicious_anemia"], ["Gull", "Carnivore", "Vitamin", "Cyanocobalamin", "Pernicious_anemia"]]

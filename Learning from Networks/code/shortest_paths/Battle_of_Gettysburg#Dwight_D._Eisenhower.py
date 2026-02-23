@@ -1,0 +1,1 @@
+[["Battle_of_Gettysburg", "President_of_the_United_States", "Dwight_D._Eisenhower"]]

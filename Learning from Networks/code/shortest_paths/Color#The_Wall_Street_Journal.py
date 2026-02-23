@@ -1,0 +1,1 @@
+[["Color", "Color_blindness", "Finland", "The_Wall_Street_Journal"], ["Color", "Rainbow", "Canada", "The_Wall_Street_Journal"]]

@@ -1,0 +1,1 @@
+[["Pernicious_anemia", "ABO_blood_group_system", "United_Kingdom", "The_Beatles", "The_Beatles_discography"], ["Pernicious_anemia", "Cyanocobalamin", "United_Kingdom", "The_Beatles", "The_Beatles_discography"]]

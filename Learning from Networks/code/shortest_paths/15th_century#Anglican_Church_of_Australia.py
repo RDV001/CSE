@@ -1,0 +1,1 @@
+[["15th_century", "16th_century", "Anglicanism", "Anglican_Church_of_Australia"], ["15th_century", "Europe", "Anglicanism", "Anglican_Church_of_Australia"], ["15th_century", "Art", "Canberra", "Anglican_Church_of_Australia"], ["15th_century", "Beijing", "Canberra", "Anglican_Church_of_Australia"]]

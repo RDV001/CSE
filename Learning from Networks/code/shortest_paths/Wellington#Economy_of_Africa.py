@@ -1,0 +1,1 @@
+[["Wellington", "Australia", "Asia", "Economy_of_Africa"], ["Wellington", "Canberra", "Asia", "Economy_of_Africa"], ["Wellington", "Europe", "Asia", "Economy_of_Africa"], ["Wellington", "New_Zealand", "Asia", "Economy_of_Africa"], ["Wellington", "Oceania", "Asia", "Economy_of_Africa"]]

@@ -1,0 +1,1 @@
+[["Otto_von_Bismarck", "Europe", "Bucharest", "Henri_Matisse"], ["Otto_von_Bismarck", "World_War_I", "Bucharest", "Henri_Matisse"], ["Otto_von_Bismarck", "Paris", "Pablo_Picasso", "Henri_Matisse"]]

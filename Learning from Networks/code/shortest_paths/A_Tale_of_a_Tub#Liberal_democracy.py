@@ -1,0 +1,1 @@
+[["A_Tale_of_a_Tub", "Politics", "Liberal_democracy"]]

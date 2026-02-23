@@ -1,0 +1,1 @@
+[["Jurassic", "Europe", "Hinduism", "Ganesha"], ["Jurassic", "India", "Hinduism", "Ganesha"], ["Jurassic", "South_America", "Hinduism", "Ganesha"], ["Jurassic", "United_Kingdom", "Hinduism", "Ganesha"], ["Jurassic", "United_States", "Hinduism", "Ganesha"], ["Jurassic", "India", "Mahabharata", "Ganesha"]]

@@ -1,0 +1,1 @@
+[["Iraq_War", "Albania", "Finland"], ["Iraq_War", "Armenia", "Finland"], ["Iraq_War", "Azerbaijan", "Finland"], ["Iraq_War", "Bulgaria", "Finland"], ["Iraq_War", "Estonia", "Finland"], ["Iraq_War", "Georgia_%28country%29", "Finland"], ["Iraq_War", "Germany", "Finland"], ["Iraq_War", "Latvia", "Finland"], ["Iraq_War", "Netherlands", "Finland"], ["Iraq_War", "Norway", "Finland"]]

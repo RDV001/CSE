@@ -1,0 +1,1 @@
+[["Roman_mythology", "Greek_mythology", "Germany", "Frankfurt"], ["Roman_mythology", "Italy", "Germany", "Frankfurt"], ["Roman_mythology", "Italy", "Euro", "Frankfurt"], ["Roman_mythology", "Italy", "European_Union", "Frankfurt"], ["Roman_mythology", "Italy", "Franks", "Frankfurt"], ["Roman_mythology", "Italy", "Holy_Roman_Empire", "Frankfurt"]]

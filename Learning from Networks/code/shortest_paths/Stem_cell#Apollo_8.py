@@ -1,0 +1,1 @@
+[["Stem_cell", "George_W._Bush", "Moon", "Apollo_8"], ["Stem_cell", "Human", "Earth", "Apollo_8"]]

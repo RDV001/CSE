@@ -1,0 +1,1 @@
+[["Yellow_River", "China", "Arctic", "Arctic_Circle"], ["Yellow_River", "China", "Temperate", "Arctic_Circle"], ["Yellow_River", "Japan", "Temperate", "Arctic_Circle"], ["Yellow_River", "Chinese_language", "Sweden", "Arctic_Circle"]]

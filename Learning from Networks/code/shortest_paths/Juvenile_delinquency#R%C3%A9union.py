@@ -1,0 +1,1 @@
+[["Juvenile_delinquency", "Poverty", "Sub-Saharan_Africa", "R%C3%A9union"], ["Juvenile_delinquency", "United_States", "French_language", "R%C3%A9union"], ["Juvenile_delinquency", "United_States", "Sudan", "R%C3%A9union"]]

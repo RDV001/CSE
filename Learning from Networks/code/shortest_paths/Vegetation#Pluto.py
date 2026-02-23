@@ -1,0 +1,1 @@
+[["Vegetation", "Biosphere", "Earth", "Pluto"], ["Vegetation", "Climate_change", "Earth", "Pluto"], ["Vegetation", "Biosphere", "Planet", "Pluto"], ["Vegetation", "Climate_change", "Sun", "Pluto"], ["Vegetation", "Fire", "Sun", "Pluto"], ["Vegetation", "Fire", "Plasma_%28physics%29", "Pluto"]]

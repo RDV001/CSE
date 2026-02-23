@@ -1,0 +1,1 @@
+[["Backgammon", "16th_century", "Amazon_River", "Anaconda"], ["Backgammon", "18th_century", "South_America", "Anaconda"], ["Backgammon", "France", "South_America", "Anaconda"], ["Backgammon", "India", "South_America", "Anaconda"], ["Backgammon", "Iran", "South_America", "Anaconda"], ["Backgammon", "Sweden", "South_America", "Anaconda"]]

@@ -1,0 +1,1 @@
+[["16_Cygni_Bb", "Star", "Astrology"], ["16_Cygni_Bb", "Sun", "Astrology"]]

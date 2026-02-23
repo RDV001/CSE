@@ -1,0 +1,1 @@
+[["Egg_%28food%29", "Margaret_Thatcher", "London", "Hampstead_Heath", "BT_Tower"], ["Egg_%28food%29", "United_Kingdom", "London", "Hampstead_Heath", "BT_Tower"], ["Egg_%28food%29", "United_Kingdom", "Loch", "Loch_Ness", "BT_Tower"], ["Egg_%28food%29", "United_Kingdom", "Scottish_Highlands", "Loch_Ness", "BT_Tower"]]

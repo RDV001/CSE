@@ -1,0 +1,1 @@
+[["Statistics", "Florence_Nightingale", "Turkey", "F-35_Lightning_II"], ["Statistics", "University", "Turkey", "F-35_Lightning_II"], ["Statistics", "World_War_I", "Turkey", "F-35_Lightning_II"]]

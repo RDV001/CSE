@@ -1,0 +1,1 @@
+[["1928_Okeechobee_Hurricane", "Galveston_Hurricane_of_1900", "Bridge", "Force"], ["1928_Okeechobee_Hurricane", "Latin_America", "Politics", "Force"], ["1928_Okeechobee_Hurricane", "Tropical_cyclone", "Energy", "Force"], ["1928_Okeechobee_Hurricane", "Tropical_cyclone", "Gravitation", "Force"]]

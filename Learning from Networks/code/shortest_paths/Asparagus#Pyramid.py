@@ -1,0 +1,1 @@
+[["Asparagus", "China", "Ancient_Egypt", "Pyramid"], ["Asparagus", "China", "Maya_civilization", "Pyramid"], ["Asparagus", "Mexico", "Maya_civilization", "Pyramid"], ["Asparagus", "Europe", "Suez_Canal", "Pyramid"]]

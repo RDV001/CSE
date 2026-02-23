@@ -1,0 +1,1 @@
+[["Typhoon_Saomai_%282006%29", "Philippines", "Philip_II_of_Spain", "Tripoli"], ["Typhoon_Saomai_%282006%29", "United_States", "History_of_slavery", "Tripoli"]]

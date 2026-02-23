@@ -1,0 +1,1 @@
+[["Liberal_Democrats", "Liberalism", "Brazil", "Economic_inequality"], ["Liberal_Democrats", "Liberalism", "Ronald_Reagan", "Economic_inequality"]]

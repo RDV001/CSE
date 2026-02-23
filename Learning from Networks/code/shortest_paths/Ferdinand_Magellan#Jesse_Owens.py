@@ -1,0 +1,1 @@
+[["Ferdinand_Magellan", "Gold", "Olympic_Games", "Jesse_Owens"]]

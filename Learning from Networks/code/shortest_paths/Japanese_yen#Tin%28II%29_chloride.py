@@ -1,0 +1,1 @@
+[["Japanese_yen", "Tin", "Tin%28II%29_chloride"]]

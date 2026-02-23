@@ -1,0 +1,1 @@
+[["Adolf_Hitler", "Architecture", "Philosophy"], ["Adolf_Hitler", "Art", "Philosophy"], ["Adolf_Hitler", "Democracy", "Philosophy"], ["Adolf_Hitler", "Friedrich_Nietzsche", "Philosophy"], ["Adolf_Hitler", "Marxism", "Philosophy"], ["Adolf_Hitler", "Nazism", "Philosophy"], ["Adolf_Hitler", "Politics", "Philosophy"], ["Adolf_Hitler", "Richard_Wagner", "Philosophy"]]

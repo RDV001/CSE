@@ -1,0 +1,1 @@
+[["Civilization", "Great_Wall_of_China", "Moon", "New_moon"], ["Civilization", "Japan", "Moon", "New_moon"], ["Civilization", "United_States", "Moon", "New_moon"], ["Civilization", "Vasco_da_Gama", "Moon", "New_moon"], ["Civilization", "Mediterranean_Sea", "Tide", "New_moon"]]

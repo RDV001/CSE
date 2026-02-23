@@ -1,0 +1,1 @@
+[["Polymerase_chain_reaction", "Magnesium", "Chemical_element", "Technetium"], ["Polymerase_chain_reaction", "Organism", "Chemical_element", "Technetium"], ["Polymerase_chain_reaction", "Magnesium", "List_of_elements_by_name", "Technetium"], ["Polymerase_chain_reaction", "Magnesium", "Periodic_table", "Technetium"], ["Polymerase_chain_reaction", "Protein", "Atom", "Technetium"]]

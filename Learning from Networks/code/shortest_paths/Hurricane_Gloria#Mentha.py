@@ -1,0 +1,1 @@
+[["Hurricane_Gloria", "Atlantic_Ocean", "Funchal", "Fennel", "Mentha"], ["Hurricane_Gloria", "Iceland", "Potato", "Dill", "Mentha"], ["Hurricane_Gloria", "Rhode_Island", "Judaism", "Olive_oil", "Mentha"]]

@@ -1,0 +1,1 @@
+[["Rail_transport", "South_Korea", "Nobel_Peace_Prize", "Linus_Pauling"], ["Rail_transport", "United_Kingdom", "DNA", "Linus_Pauling"], ["Rail_transport", "United_Kingdom", "Francis_Crick", "Linus_Pauling"]]

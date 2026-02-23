@@ -1,0 +1,1 @@
+[["Adenosine_triphosphate", "Sulfur", "Italy"]]

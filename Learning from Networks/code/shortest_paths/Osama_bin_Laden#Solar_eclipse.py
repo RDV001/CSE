@@ -1,0 +1,1 @@
+[["Osama_bin_Laden", "Africa", "Earth", "Solar_eclipse"], ["Osama_bin_Laden", "Europe", "Earth", "Solar_eclipse"], ["Osama_bin_Laden", "Jerusalem", "Albert_Einstein", "Solar_eclipse"], ["Osama_bin_Laden", "United_States", "Moon", "Solar_eclipse"]]

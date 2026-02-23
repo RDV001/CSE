@@ -1,0 +1,1 @@
+[["Israel", "Canada", "Irish_people", "Daniel_Day-Lewis"], ["Israel", "United_States", "Irish_people", "Daniel_Day-Lewis"]]

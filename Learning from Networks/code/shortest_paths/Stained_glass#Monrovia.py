@@ -1,0 +1,1 @@
+[["Stained_glass", "France", "Atlantic_Ocean", "Monrovia"], ["Stained_glass", "Paris", "Africa", "Monrovia"], ["Stained_glass", "World_Heritage_Site", "Africa", "Monrovia"]]

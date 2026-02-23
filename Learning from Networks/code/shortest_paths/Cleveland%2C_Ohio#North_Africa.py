@@ -1,0 +1,1 @@
+[["Cleveland%2C_Ohio", "Egypt", "North_Africa"], ["Cleveland%2C_Ohio", "United_States", "North_Africa"], ["Cleveland%2C_Ohio", "World_War_II", "North_Africa"]]

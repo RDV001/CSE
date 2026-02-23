@@ -1,0 +1,1 @@
+[["Kosovo", "Albania", "Stone_Age", "Dinosaur", "Maiasaura"], ["Kosovo", "Ancient_Rome", "Horse", "Dinosaur", "Maiasaura"], ["Kosovo", "English_language", "Kenya", "Dinosaur", "Maiasaura"], ["Kosovo", "Sultan", "Kenya", "Dinosaur", "Maiasaura"], ["Kosovo", "Russia", "Earth", "Dinosaur", "Maiasaura"], ["Kosovo", "Time_zone", "Earth", "Dinosaur", "Maiasaura"]]

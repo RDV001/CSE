@@ -1,0 +1,1 @@
+[["J._K._Rowling", "England", "Socialism"], ["J._K._Rowling", "People%27s_Republic_of_China", "Socialism"]]

@@ -1,0 +1,1 @@
+[["Munich", "Albert_Einstein", "Energy", "Adenosine_triphosphate"], ["Munich", "Electricity", "Energy", "Adenosine_triphosphate"], ["Munich", "Biotechnology", "Insulin", "Adenosine_triphosphate"], ["Munich", "Hamburg", "Sugar", "Adenosine_triphosphate"], ["Munich", "Radish", "Magnesium", "Adenosine_triphosphate"]]

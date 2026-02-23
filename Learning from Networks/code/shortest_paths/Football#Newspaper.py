@@ -1,0 +1,1 @@
+[["Football", "London", "Newspaper"], ["Football", "Montreal", "Newspaper"], ["Football", "Theodore_Roosevelt", "Newspaper"]]

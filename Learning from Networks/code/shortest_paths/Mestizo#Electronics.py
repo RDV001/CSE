@@ -1,0 +1,1 @@
+[["Mestizo", "Costa_Rica", "Electronics"], ["Mestizo", "Japan", "Electronics"], ["Mestizo", "United_States", "Electronics"]]

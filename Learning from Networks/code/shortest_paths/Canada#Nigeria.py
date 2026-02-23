@@ -1,0 +1,1 @@
+[["Canada", "Atlantic_Ocean", "Nigeria"], ["Canada", "English_language", "Nigeria"], ["Canada", "List_of_countries_by_system_of_government", "Nigeria"], ["Canada", "Petroleum", "Nigeria"], ["Canada", "Saudi_Arabia", "Nigeria"], ["Canada", "United_States", "Nigeria"]]

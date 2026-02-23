@@ -1,0 +1,1 @@
+[["Thailand", "Currency", "18th_century", "Frederick_II_of_Prussia"], ["Thailand", "Europe", "18th_century", "Frederick_II_of_Prussia"], ["Thailand", "Laos", "18th_century", "Frederick_II_of_Prussia"], ["Thailand", "Spain", "18th_century", "Frederick_II_of_Prussia"], ["Thailand", "Europe", "Berlin", "Frederick_II_of_Prussia"]]

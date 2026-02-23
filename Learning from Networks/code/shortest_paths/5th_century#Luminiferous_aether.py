@@ -1,0 +1,1 @@
+[["5th_century", "16th_century", "Heliocentrism", "Luminiferous_aether"], ["5th_century", "17th_century", "Isaac_Newton", "Luminiferous_aether"], ["5th_century", "17th_century", "Speed_of_light", "Luminiferous_aether"], ["5th_century", "19th_century", "James_Clerk_Maxwell", "Luminiferous_aether"], ["5th_century", "20th_century", "Physics", "Luminiferous_aether"]]

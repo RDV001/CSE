@@ -1,0 +1,1 @@
+[["Nationality", "Corporation", "Andrew_Carnegie", "William_Ewart_Gladstone"], ["Nationality", "Nationalism", "19th_century", "William_Ewart_Gladstone"], ["Nationality", "Politics", "19th_century", "William_Ewart_Gladstone"], ["Nationality", "Politics", "Edmund_Burke", "William_Ewart_Gladstone"]]

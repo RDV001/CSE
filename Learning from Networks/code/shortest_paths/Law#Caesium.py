@@ -1,0 +1,1 @@
+[["Law", "18th_century", "Time", "Caesium"], ["Law", "Business", "Time", "Caesium"], ["Law", "British_Empire", "Gold", "Caesium"], ["Law", "Economics", "Gold", "Caesium"], ["Law", "New_Zealand", "Gold", "Caesium"], ["Law", "China", "Clock", "Caesium"], ["Law", "Middle_Ages", "Clock", "Caesium"], ["Law", "Pollution", "Mercury_%28element%29", "Caesium"]]

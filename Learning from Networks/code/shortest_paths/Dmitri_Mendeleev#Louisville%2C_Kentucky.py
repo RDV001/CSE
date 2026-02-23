@@ -1,0 +1,1 @@
+[["Dmitri_Mendeleev", "Moon", "Neil_Armstrong", "Louisville%2C_Kentucky"], ["Dmitri_Mendeleev", "Russia", "U.S._state", "Louisville%2C_Kentucky"]]

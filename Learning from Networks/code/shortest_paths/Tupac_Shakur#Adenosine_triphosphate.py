@@ -1,0 +1,1 @@
+[["Tupac_Shakur", "South_Africa", "Sugar", "Adenosine_triphosphate"]]

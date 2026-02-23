@@ -1,0 +1,1 @@
+[["David_Hume", "Ludwig_Wittgenstein"]]

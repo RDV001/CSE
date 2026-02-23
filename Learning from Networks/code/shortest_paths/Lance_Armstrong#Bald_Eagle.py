@@ -1,0 +1,1 @@
+[["Lance_Armstrong", "United_States", "Bald_Eagle"]]

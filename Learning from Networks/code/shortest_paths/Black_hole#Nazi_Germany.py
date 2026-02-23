@@ -1,0 +1,1 @@
+[["Black_hole", "Albert_Einstein", "Nazi_Germany"]]

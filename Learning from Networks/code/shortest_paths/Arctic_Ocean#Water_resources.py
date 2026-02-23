@@ -1,0 +1,1 @@
+[["Arctic_Ocean", "China", "Human", "Water_resources"], ["Arctic_Ocean", "Earth", "Human", "Water_resources"], ["Arctic_Ocean", "Snow", "Human", "Water_resources"]]

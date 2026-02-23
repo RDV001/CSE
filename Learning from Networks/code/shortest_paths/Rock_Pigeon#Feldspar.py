@@ -1,0 +1,1 @@
+[["Rock_Pigeon", "Binomial_nomenclature", "Mineral", "Feldspar"], ["Rock_Pigeon", "Ireland", "Metamorphic_rock", "Feldspar"], ["Rock_Pigeon", "North_America", "Oregon", "Feldspar"]]

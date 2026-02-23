@@ -1,0 +1,1 @@
+[["Nuclear_power", "Coal", "Mineral"], ["Nuclear_power", "Lead", "Mineral"], ["Nuclear_power", "Sodium", "Mineral"], ["Nuclear_power", "Uranium", "Mineral"]]

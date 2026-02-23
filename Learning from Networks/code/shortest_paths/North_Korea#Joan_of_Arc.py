@@ -1,0 +1,1 @@
+[["North_Korea", "Cambodia", "15th_century", "Joan_of_Arc"], ["North_Korea", "Famine", "15th_century", "Joan_of_Arc"], ["North_Korea", "Vietnam", "15th_century", "Joan_of_Arc"]]

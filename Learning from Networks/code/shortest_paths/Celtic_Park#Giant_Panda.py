@@ -1,0 +1,1 @@
+[["Celtic_Park", "London", "Luftwaffe", "Swastika", "Giant_Panda"], ["Celtic_Park", "London", "Regent%27s_Park", "London_Zoo", "Giant_Panda"], ["Celtic_Park", "London", "Tower_of_London", "London_Zoo", "Giant_Panda"], ["Celtic_Park", "Scotland", "Olympic_Games", "Bear", "Giant_Panda"]]

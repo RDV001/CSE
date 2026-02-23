@@ -1,0 +1,1 @@
+[["Elephant_shrew", "Animal", "Vertebrate"], ["Elephant_shrew", "Chordate", "Vertebrate"], ["Elephant_shrew", "Elephant", "Vertebrate"], ["Elephant_shrew", "Mammal", "Vertebrate"], ["Elephant_shrew", "Scientific_classification", "Vertebrate"]]

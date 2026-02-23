@@ -1,0 +1,1 @@
+[["Northern_Mariana_Islands", "George_W._Bush", "Chicago", "Michael_Jordan"], ["Northern_Mariana_Islands", "United_States", "Chicago", "Michael_Jordan"], ["Northern_Mariana_Islands", "Philippines", "Basketball", "Michael_Jordan"], ["Northern_Mariana_Islands", "United_States", "Basketball", "Michael_Jordan"]]

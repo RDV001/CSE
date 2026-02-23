@@ -1,0 +1,1 @@
+[["AK-47", "Iraq", "California", "Bay_Area_Rapid_Transit"], ["AK-47", "Mexico", "California", "Bay_Area_Rapid_Transit"], ["AK-47", "World_War_II", "San_Francisco%2C_California", "Bay_Area_Rapid_Transit"]]

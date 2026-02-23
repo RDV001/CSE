@@ -1,0 +1,1 @@
+[["Wine", "Ancient_Rome", "Law", "Robert_Peel"], ["Wine", "Italy", "Law", "Robert_Peel"], ["Wine", "Jordan", "Law", "Robert_Peel"], ["Wine", "Latin", "Law", "Robert_Peel"], ["Wine", "England", "Victoria_of_the_United_Kingdom", "Robert_Peel"], ["Wine", "England", "Winston_Churchill", "Robert_Peel"], ["Wine", "Germany", "Prime_Minister_of_the_United_Kingdom", "Robert_Peel"]]

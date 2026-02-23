@@ -1,0 +1,1 @@
+[["Isle_of_Man", "List_of_countries_by_system_of_government", "Parliamentary_system", "Senate_of_Canada"], ["Isle_of_Man", "United_Kingdom", "Parliamentary_system", "Senate_of_Canada"]]

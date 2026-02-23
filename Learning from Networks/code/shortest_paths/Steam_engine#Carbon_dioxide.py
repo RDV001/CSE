@@ -1,0 +1,1 @@
+[["Steam_engine", "Coal", "Carbon_dioxide"], ["Steam_engine", "Germany", "Carbon_dioxide"], ["Steam_engine", "Nuclear_power", "Carbon_dioxide"], ["Steam_engine", "Water", "Carbon_dioxide"]]

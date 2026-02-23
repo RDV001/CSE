@@ -1,0 +1,1 @@
+[["Condoleezza_Rice", "Human_rights", "United_States_Declaration_of_Independence"], ["Condoleezza_Rice", "United_States", "United_States_Declaration_of_Independence"]]

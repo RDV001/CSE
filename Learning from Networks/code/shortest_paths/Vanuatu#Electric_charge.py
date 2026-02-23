@@ -1,0 +1,1 @@
+[["Vanuatu", "Mineral", "Atom", "Electric_charge"], ["Vanuatu", "Mineral", "Magnetism", "Electric_charge"], ["Vanuatu", "Mineral", "Salt", "Electric_charge"], ["Vanuatu", "Petroleum", "Electricity", "Electric_charge"], ["Vanuatu", "United_Kingdom", "Electron", "Electric_charge"]]

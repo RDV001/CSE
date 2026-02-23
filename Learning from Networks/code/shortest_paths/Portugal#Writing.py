@@ -1,0 +1,1 @@
+[["Portugal", "Civilization", "Writing"], ["Portugal", "Iraq", "Writing"]]

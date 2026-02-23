@@ -1,0 +1,1 @@
+[["Tenzing_Norgay", "Pakistan", "Greco-Buddhism", "Apollo", "European_Goldfinch"], ["Tenzing_Norgay", "Pakistan", "Indo-Greek_Kingdom", "Apollo", "European_Goldfinch"]]

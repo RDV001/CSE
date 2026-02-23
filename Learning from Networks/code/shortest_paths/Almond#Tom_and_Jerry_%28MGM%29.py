@@ -1,0 +1,1 @@
+[["Almond", "Cancer", "Tobacco_smoking", "Tom_and_Jerry_%28MGM%29"], ["Almond", "Diabetes_mellitus", "Tobacco_smoking", "Tom_and_Jerry_%28MGM%29"]]

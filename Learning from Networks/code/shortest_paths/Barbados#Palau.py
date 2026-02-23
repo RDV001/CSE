@@ -1,0 +1,1 @@
+[["Barbados", "List_of_countries_by_system_of_government", "Palau"], ["Barbados", "United_States", "Palau"]]

@@ -1,0 +1,1 @@
+[["Bridge", "Brazil", "Economic_inequality", "Social_capital"], ["Bridge", "Russia", "Civil_society", "Social_capital"]]

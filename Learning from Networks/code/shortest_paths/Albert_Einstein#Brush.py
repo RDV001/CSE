@@ -1,0 +1,1 @@
+[["Albert_Einstein", "Film", "Visual_arts", "Brush"], ["Albert_Einstein", "Humanities", "Visual_arts", "Brush"], ["Albert_Einstein", "Nature", "Visual_arts", "Brush"]]

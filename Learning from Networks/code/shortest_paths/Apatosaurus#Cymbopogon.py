@@ -1,0 +1,1 @@
+[["Apatosaurus", "Greek_mythology", "Ancient_Greece", "Olive_oil", "Cymbopogon"], ["Apatosaurus", "United_States", "Judaism", "Olive_oil", "Cymbopogon"], ["Apatosaurus", "Greek_mythology", "Minoan_civilization", "Lemon", "Cymbopogon"], ["Apatosaurus", "United_States", "Potato", "Dill", "Cymbopogon"]]

@@ -1,0 +1,1 @@
+[["Germanium", "Crystal", "Snow", "Avalanche"]]

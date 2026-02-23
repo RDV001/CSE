@@ -1,0 +1,1 @@
+[["Iceland_hotspot", "Volcano", "Jupiter", "Full_moon"], ["Iceland_hotspot", "Volcano", "Moon", "Full_moon"]]

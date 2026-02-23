@@ -1,0 +1,1 @@
+[["George_H._W._Bush", "2004_Indian_Ocean_earthquake", "Moon"], ["George_H._W._Bush", "George_W._Bush", "Moon"], ["George_H._W._Bush", "Houston%2C_Texas", "Moon"], ["George_H._W._Bush", "Japan", "Moon"], ["George_H._W._Bush", "United_States", "Moon"]]

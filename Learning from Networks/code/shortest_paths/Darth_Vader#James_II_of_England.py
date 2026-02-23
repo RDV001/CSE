@@ -1,0 +1,1 @@
+[["Darth_Vader", "Japan", "Constitutional_monarchy", "James_II_of_England"], ["Darth_Vader", "Japan", "Parliament_of_the_United_Kingdom", "James_II_of_England"], ["Darth_Vader", "Natalie_Portman", "New_York_City", "James_II_of_England"]]

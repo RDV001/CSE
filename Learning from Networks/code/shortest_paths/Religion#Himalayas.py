@@ -1,0 +1,1 @@
+[["Religion", "China", "Himalayas"], ["Religion", "Hinduism", "Himalayas"], ["Religion", "India", "Himalayas"], ["Religion", "Jesus", "Himalayas"], ["Religion", "People%27s_Republic_of_China", "Himalayas"]]

@@ -1,0 +1,1 @@
+[["Qatar", "English_language", "Poetry", "Dr._Seuss", "The_Lorax"], ["Qatar", "Qur%27an", "Poetry", "Dr._Seuss", "The_Lorax"]]

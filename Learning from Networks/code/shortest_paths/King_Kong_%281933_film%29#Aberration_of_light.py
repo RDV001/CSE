@@ -1,0 +1,1 @@
+[["King_Kong_%281933_film%29", "Dinosaur", "Physics", "Speed_of_light", "Aberration_of_light"], ["King_Kong_%281933_film%29", "United_Kingdom", "Electron", "Speed_of_light", "Aberration_of_light"], ["King_Kong_%281933_film%29", "United_Kingdom", "James_Clerk_Maxwell", "Speed_of_light", "Aberration_of_light"]]

@@ -1,0 +1,1 @@
+[["Extrasolar_planet", "University_of_Chicago", "Jake_Gyllenhaal", "Lance_Armstrong", "Greg_LeMond"], ["Extrasolar_planet", "University_of_Chicago", "Paris", "Tour_de_France", "Greg_LeMond"]]

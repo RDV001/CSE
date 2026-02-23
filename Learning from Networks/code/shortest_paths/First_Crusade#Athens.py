@@ -1,0 +1,1 @@
+[["First_Crusade", "Byzantine_Empire", "Athens"], ["First_Crusade", "Europe", "Athens"], ["First_Crusade", "Mediterranean_Sea", "Athens"], ["First_Crusade", "Syria", "Athens"], ["First_Crusade", "The_Holocaust", "Athens"], ["First_Crusade", "Viking", "Athens"]]

@@ -1,0 +1,1 @@
+[["Edema", "American_English", "Turkey", "Bosnia_and_Herzegovina", "Husein_Grada%C5%A1%C4%8Devi%C4%87"], ["Edema", "British_English", "New_Zealand", "Bosnia_and_Herzegovina", "Husein_Grada%C5%A1%C4%8Devi%C4%87"]]

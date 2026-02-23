@@ -1,0 +1,1 @@
+[["Heliocentrism", "17th_century", "Charles_I_of_England"]]

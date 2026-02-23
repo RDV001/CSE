@@ -1,0 +1,1 @@
+[["Water_purification", "Copper", "Egypt", "Gaza_Strip"], ["Water_purification", "Drinking_water", "Egypt", "Gaza_Strip"], ["Water_purification", "Drinking_water", "Asia", "Gaza_Strip"], ["Water_purification", "Waste_management", "Israel", "Gaza_Strip"]]

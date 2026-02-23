@@ -1,0 +1,1 @@
+[["Brisbane", "Cricket", "Tropical_cyclone", "Eye_%28cyclone%29"], ["Brisbane", "Pacific_Ocean", "Tropical_cyclone", "Eye_%28cyclone%29"], ["Brisbane", "Spring_%28season%29", "Tropical_cyclone", "Eye_%28cyclone%29"], ["Brisbane", "Sydney", "Tropical_cyclone", "Eye_%28cyclone%29"], ["Brisbane", "Spring_%28season%29", "Tornado", "Eye_%28cyclone%29"]]

@@ -1,0 +1,1 @@
+[["Belarus", "Agriculture", "Vegetable"], ["Belarus", "Finland", "Vegetable"], ["Belarus", "Summer", "Vegetable"]]

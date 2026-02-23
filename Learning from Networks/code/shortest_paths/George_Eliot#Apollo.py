@@ -1,0 +1,1 @@
+[["George_Eliot", "15th_century", "Plato", "Apollo"], ["George_Eliot", "Baruch_Spinoza", "Plato", "Apollo"], ["George_Eliot", "Europe", "Greek_mythology", "Apollo"], ["George_Eliot", "Europe", "Homer", "Apollo"], ["George_Eliot", "Europe", "Zeus", "Apollo"], ["George_Eliot", "London", "St_Paul%27s_Cathedral", "Apollo"]]

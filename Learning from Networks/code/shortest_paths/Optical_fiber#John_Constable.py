@@ -1,0 +1,1 @@
+[["Optical_fiber", "Art", "Impressionism", "John_Constable"], ["Optical_fiber", "Art", "Painting", "John_Constable"], ["Optical_fiber", "Art", "Romanticism", "John_Constable"], ["Optical_fiber", "Physics", "Nature", "John_Constable"], ["Optical_fiber", "Titanium", "England", "John_Constable"]]

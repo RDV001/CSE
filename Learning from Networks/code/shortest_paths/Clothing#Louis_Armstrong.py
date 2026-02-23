@@ -1,0 +1,1 @@
+[["Clothing", "20th_century", "Jazz", "Louis_Armstrong"], ["Clothing", "Africa", "Jazz", "Louis_Armstrong"], ["Clothing", "Africa", "Trumpet", "Louis_Armstrong"], ["Clothing", "Culture", "Folk_music", "Louis_Armstrong"]]

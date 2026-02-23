@@ -1,0 +1,1 @@
+[["Microscope", "Biology", "19th_century", "Slavery"], ["Microscope", "Biology", "Charles_Darwin", "Slavery"], ["Microscope", "Geology", "Charles_Darwin", "Slavery"], ["Microscope", "Engineering", "Technology", "Slavery"], ["Microscope", "Science", "Technology", "Slavery"], ["Microscope", "Telescope", "Chile", "Slavery"]]

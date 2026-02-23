@@ -1,0 +1,1 @@
+[["Ice_sheet", "Europe", "Asia"], ["Ice_sheet", "Glacier", "Asia"], ["Ice_sheet", "North_America", "Asia"], ["Ice_sheet", "South_America", "Asia"]]

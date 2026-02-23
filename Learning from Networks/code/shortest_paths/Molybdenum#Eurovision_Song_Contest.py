@@ -1,0 +1,1 @@
+[["Molybdenum", "Moon", "Ireland", "Eurovision_Song_Contest"], ["Molybdenum", "Sulfur", "Ireland", "Eurovision_Song_Contest"], ["Molybdenum", "Sweden", "Jerusalem", "Eurovision_Song_Contest"], ["Molybdenum", "World_War_I", "Jerusalem", "Eurovision_Song_Contest"], ["Molybdenum", "United_States", "Irish_people", "Eurovision_Song_Contest"]]

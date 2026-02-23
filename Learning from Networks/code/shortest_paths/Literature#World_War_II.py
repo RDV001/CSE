@@ -1,0 +1,1 @@
+[["Literature", "China", "World_War_II"], ["Literature", "Graphic_novel", "World_War_II"], ["Literature", "Iran", "World_War_II"], ["Literature", "Japan", "World_War_II"], ["Literature", "Mythology", "World_War_II"], ["Literature", "Nationalism", "World_War_II"], ["Literature", "Philosophy", "World_War_II"]]

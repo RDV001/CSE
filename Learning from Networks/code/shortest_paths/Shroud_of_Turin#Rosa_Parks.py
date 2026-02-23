@@ -1,0 +1,1 @@
+[["Shroud_of_Turin", "Roman_Catholic_Church", "Condoleezza_Rice", "Rosa_Parks"]]

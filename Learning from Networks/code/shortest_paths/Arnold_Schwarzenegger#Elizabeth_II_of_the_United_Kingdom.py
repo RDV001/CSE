@@ -1,0 +1,1 @@
+[["Arnold_Schwarzenegger", "George_H._W._Bush", "Elizabeth_II_of_the_United_Kingdom"], ["Arnold_Schwarzenegger", "United_Kingdom", "Elizabeth_II_of_the_United_Kingdom"]]

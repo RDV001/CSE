@@ -1,0 +1,1 @@
+[["Intelligence", "The_Mismeasure_of_Man", "Princeton_University", "Andy_Warhol"]]

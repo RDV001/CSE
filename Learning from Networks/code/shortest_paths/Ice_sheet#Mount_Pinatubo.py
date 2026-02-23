@@ -1,0 +1,1 @@
+[["Ice_sheet", "Greenland", "Climate_change", "Mount_Pinatubo"]]

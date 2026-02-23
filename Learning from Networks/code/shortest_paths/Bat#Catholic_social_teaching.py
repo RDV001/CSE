@@ -1,0 +1,1 @@
+[["Bat", "Poland", "Pope_John_Paul_II", "Catholic_social_teaching"], ["Bat", "South_America", "Roman_Catholic_Church", "Catholic_social_teaching"]]

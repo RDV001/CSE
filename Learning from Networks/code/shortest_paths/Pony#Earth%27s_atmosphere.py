@@ -1,0 +1,1 @@
+[["Pony", "Horse", "Water", "Earth%27s_atmosphere"], ["Pony", "Ireland", "Ice_age", "Earth%27s_atmosphere"], ["Pony", "Ireland", "Natural_gas", "Earth%27s_atmosphere"]]

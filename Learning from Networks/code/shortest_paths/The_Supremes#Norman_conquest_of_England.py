@@ -1,0 +1,1 @@
+[["The_Supremes", "Florida", "England", "Norman_conquest_of_England"], ["The_Supremes", "London", "England", "Norman_conquest_of_England"], ["The_Supremes", "United_Kingdom", "England", "Norman_conquest_of_England"], ["The_Supremes", "London", "Battle_of_Hastings", "Norman_conquest_of_England"], ["The_Supremes", "London", "Edward_the_Confessor", "Norman_conquest_of_England"]]

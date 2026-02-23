@@ -1,0 +1,1 @@
+[["Mining", "North_America", "California", "Bay_Area_Rapid_Transit"], ["Mining", "Petroleum", "California", "Bay_Area_Rapid_Transit"], ["Mining", "Silver", "California", "Bay_Area_Rapid_Transit"], ["Mining", "United_States", "California", "Bay_Area_Rapid_Transit"], ["Mining", "United_States", "San_Francisco%2C_California", "Bay_Area_Rapid_Transit"]]

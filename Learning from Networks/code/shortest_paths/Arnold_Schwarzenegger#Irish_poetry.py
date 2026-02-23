@@ -1,0 +1,1 @@
+[["Arnold_Schwarzenegger", "John_F._Kennedy", "Ireland", "Irish_poetry"], ["Arnold_Schwarzenegger", "United_Kingdom", "Ireland", "Irish_poetry"]]

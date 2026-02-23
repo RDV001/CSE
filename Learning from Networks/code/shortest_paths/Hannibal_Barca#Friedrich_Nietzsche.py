@@ -1,0 +1,1 @@
+[["Hannibal_Barca", "Philosophy", "Friedrich_Nietzsche"], ["Hannibal_Barca", "Turin", "Friedrich_Nietzsche"]]

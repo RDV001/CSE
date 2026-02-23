@@ -1,0 +1,1 @@
+[["Arabic_language", "Alchemy", "Astronomy", "Extraterrestrial_life"], ["Arabic_language", "Iran", "Astronomy", "Extraterrestrial_life"], ["Arabic_language", "Islam", "Astronomy", "Extraterrestrial_life"]]

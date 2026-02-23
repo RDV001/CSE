@@ -1,0 +1,1 @@
+[["Richard_Feynman", "Painting", "Peter_Paul_Rubens"]]

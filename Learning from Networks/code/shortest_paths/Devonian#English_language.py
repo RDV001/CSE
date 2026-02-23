@@ -1,0 +1,1 @@
+[["Devonian", "Australia", "English_language"], ["Devonian", "Continent", "English_language"], ["Devonian", "England", "English_language"], ["Devonian", "North_America", "English_language"]]

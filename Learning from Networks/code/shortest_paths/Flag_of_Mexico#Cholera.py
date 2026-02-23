@@ -1,0 +1,1 @@
+[["Flag_of_Mexico", "Eagle", "Nigeria", "Cholera"], ["Flag_of_Mexico", "Europe", "Paris", "Cholera"], ["Flag_of_Mexico", "France", "Paris", "Cholera"], ["Flag_of_Mexico", "Olympic_Games", "Paris", "Cholera"], ["Flag_of_Mexico", "Spain", "Scramble_for_Africa", "Cholera"], ["Flag_of_Mexico", "Spanish_language", "Venezuela", "Cholera"]]

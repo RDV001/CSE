@@ -1,0 +1,1 @@
+[["Judaism", "Age_of_Enlightenment", "Biology", "Yeast"], ["Judaism", "Ancient_Egypt", "Beer", "Yeast"], ["Judaism", "Ancient_Egypt", "Wine", "Yeast"], ["Judaism", "Argentina", "Wine", "Yeast"], ["Judaism", "South_Africa", "Wine", "Yeast"], ["Judaism", "Germany", "Carbon_dioxide", "Yeast"], ["Judaism", "Khazars", "Honey", "Yeast"]]

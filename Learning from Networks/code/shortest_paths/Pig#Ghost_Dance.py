@@ -1,0 +1,1 @@
+[["Pig", "Hinduism", "Religion", "Mysticism", "Ghost_Dance"], ["Pig", "Judaism", "Religion", "Mysticism", "Ghost_Dance"]]

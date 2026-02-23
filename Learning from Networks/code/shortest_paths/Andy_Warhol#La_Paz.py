@@ -1,0 +1,1 @@
+[["Andy_Warhol", "Advertising", "South_America", "La_Paz"]]

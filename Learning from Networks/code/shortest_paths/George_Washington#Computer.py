@@ -1,0 +1,1 @@
+[["George_Washington", "United_States", "Computer"]]

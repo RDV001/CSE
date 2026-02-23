@@ -1,0 +1,1 @@
+[["Adolf_Hitler", "Denmark", "Internet"], ["Adolf_Hitler", "France", "Internet"], ["Adolf_Hitler", "Genealogy", "Internet"], ["Adolf_Hitler", "Germany", "Internet"], ["Adolf_Hitler", "United_States", "Internet"]]

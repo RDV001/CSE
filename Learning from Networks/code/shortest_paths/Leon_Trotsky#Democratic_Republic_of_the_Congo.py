@@ -1,0 +1,1 @@
+[["Leon_Trotsky", "Georgia_%28country%29", "Democratic_Republic_of_the_Congo"]]

@@ -1,0 +1,1 @@
+[["Analytical_Marxism", "Karl_Popper", "Ayaan_Hirsi_Ali", "Jyllands-Posten_Muhammad_cartoons_controversy"]]

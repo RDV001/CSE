@@ -1,0 +1,1 @@
+[["Dakar", "Marseille", "Scotland", "William_and_Mary"], ["Dakar", "Washington%2C_D.C.", "Scotland", "William_and_Mary"]]

@@ -1,0 +1,1 @@
+[["Mumbai", "Asia", "Damascus", "Card_game", "Pok%C3%A9mon_Trading_Card_Game"], ["Mumbai", "British_Empire", "Royal_Navy", "Card_game", "Pok%C3%A9mon_Trading_Card_Game"], ["Mumbai", "Indian_independence_movement", "Royal_Navy", "Card_game", "Pok%C3%A9mon_Trading_Card_Game"], ["Mumbai", "Publishing", "Doctor_Who", "Card_game", "Pok%C3%A9mon_Trading_Card_Game"]]

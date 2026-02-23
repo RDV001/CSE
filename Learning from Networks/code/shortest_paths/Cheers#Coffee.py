@@ -1,0 +1,1 @@
+[["Cheers", "Seattle%2C_Washington", "Coffee"]]

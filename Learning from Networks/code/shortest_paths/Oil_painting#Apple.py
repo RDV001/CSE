@@ -1,0 +1,1 @@
+[["Oil_painting", "Cotton", "Mesopotamia", "Apple"]]

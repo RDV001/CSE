@@ -1,0 +1,1 @@
+[["Luftwaffe", "England", "Ireland", "Irish_poetry"], ["Luftwaffe", "Europe", "Ireland", "Irish_poetry"], ["Luftwaffe", "Swastika", "Ireland", "Irish_poetry"], ["Luftwaffe", "United_Kingdom", "Ireland", "Irish_poetry"]]

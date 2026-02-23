@@ -1,0 +1,1 @@
+[["Trafalgar_Square", "Adolf_Hitler", "Prague", "Tycho_Brahe"], ["Trafalgar_Square", "Berlin", "Prague", "Tycho_Brahe"], ["Trafalgar_Square", "Vienna", "Prague", "Tycho_Brahe"], ["Trafalgar_Square", "Winston_Churchill", "Prague", "Tycho_Brahe"], ["Trafalgar_Square", "Germany", "Johannes_Kepler", "Tycho_Brahe"]]

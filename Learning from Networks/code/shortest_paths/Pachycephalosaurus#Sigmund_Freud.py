@@ -1,0 +1,1 @@
+[["Pachycephalosaurus", "Animal", "Human", "Sigmund_Freud"], ["Pachycephalosaurus", "Herbivore", "Human", "Sigmund_Freud"], ["Pachycephalosaurus", "Scientific_classification", "Human", "Sigmund_Freud"]]

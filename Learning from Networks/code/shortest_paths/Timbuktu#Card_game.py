@@ -1,0 +1,1 @@
+[["Timbuktu", "Asia", "Damascus", "Card_game"], ["Timbuktu", "Ibn_Battuta", "Damascus", "Card_game"], ["Timbuktu", "Morocco", "Damascus", "Card_game"], ["Timbuktu", "Mosque", "Damascus", "Card_game"], ["Timbuktu", "Qur%27an", "Damascus", "Card_game"], ["Timbuktu", "England", "Royal_Navy", "Card_game"]]

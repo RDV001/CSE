@@ -1,0 +1,1 @@
+[["ALCO_FA", "Argentina", "Medicine", "Ethics"], ["ALCO_FA", "Canadian_Pacific_Railway", "Engineering", "Ethics"], ["ALCO_FA", "Canadian_Pacific_Railway", "Nationalism", "Ethics"], ["ALCO_FA", "Mexico", "Birth_control", "Ethics"], ["ALCO_FA", "Mexico", "Education", "Ethics"]]

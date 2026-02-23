@@ -1,0 +1,1 @@
+[["Humanities", "Christianity", "John_Calvin", "Calvin_and_Hobbes"], ["Humanities", "Renaissance", "John_Calvin", "Calvin_and_Hobbes"], ["Humanities", "Philosophy", "Thomas_Hobbes", "Calvin_and_Hobbes"], ["Humanities", "Plato", "Thomas_Hobbes", "Calvin_and_Hobbes"]]

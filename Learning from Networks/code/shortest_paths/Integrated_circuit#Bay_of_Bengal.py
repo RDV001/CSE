@@ -1,0 +1,1 @@
+[["Integrated_circuit", "Gold", "India", "Bay_of_Bengal"], ["Integrated_circuit", "Welding", "India", "Bay_of_Bengal"], ["Integrated_circuit", "Washington%2C_D.C.", "Tropical_cyclone", "Bay_of_Bengal"]]

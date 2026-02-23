@@ -1,0 +1,1 @@
+[["Paleontology", "Biology", "Biosphere"], ["Paleontology", "Earth", "Biosphere"], ["Paleontology", "Ecology", "Biosphere"], ["Paleontology", "Life", "Biosphere"], ["Paleontology", "Organism", "Biosphere"]]

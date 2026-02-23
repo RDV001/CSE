@@ -1,0 +1,1 @@
+[["Sesame_Street", "United_Kingdom", "British_monarchy", "George_II_of_Great_Britain"], ["Sesame_Street", "United_Kingdom", "Westminster_Abbey", "George_II_of_Great_Britain"]]

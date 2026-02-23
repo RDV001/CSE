@@ -1,0 +1,1 @@
+[["Mona_Lisa", "John_F._Kennedy", "Aircraft_carrier"], ["Mona_Lisa", "World_War_II", "Aircraft_carrier"]]

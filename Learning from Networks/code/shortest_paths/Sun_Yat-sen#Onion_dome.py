@@ -1,0 +1,1 @@
+[["Sun_Yat-sen", "Beijing", "Moscow", "Onion_dome"], ["Sun_Yat-sen", "Europe", "Moscow", "Onion_dome"], ["Sun_Yat-sen", "Vladimir_Lenin", "Moscow", "Onion_dome"], ["Sun_Yat-sen", "World_War_II", "Moscow", "Onion_dome"], ["Sun_Yat-sen", "Vladimir_Lenin", "Munich", "Onion_dome"]]

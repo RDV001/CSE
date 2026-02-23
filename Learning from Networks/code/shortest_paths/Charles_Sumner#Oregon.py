@@ -1,0 +1,1 @@
+[["Charles_Sumner", "American_Civil_War", "Oregon"], ["Charles_Sumner", "United_States", "Oregon"]]

@@ -1,0 +1,1 @@
+[["Otto_von_Bismarck", "Scramble_for_Africa", "President_of_the_United_States", "Franklin_Pierce"], ["Otto_von_Bismarck", "United_States", "President_of_the_United_States", "Franklin_Pierce"], ["Otto_von_Bismarck", "World_War_I", "President_of_the_United_States", "Franklin_Pierce"], ["Otto_von_Bismarck", "United_States", "Manifest_Destiny", "Franklin_Pierce"]]

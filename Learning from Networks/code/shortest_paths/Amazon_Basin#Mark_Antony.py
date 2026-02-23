@@ -1,0 +1,1 @@
+[["Amazon_Basin", "20th_century", "1st_century_BC", "Mark_Antony"], ["Amazon_Basin", "Agriculture", "Virgil", "Mark_Antony"], ["Amazon_Basin", "City", "Ancient_Rome", "Mark_Antony"], ["Amazon_Basin", "Fishing", "Ancient_Rome", "Mark_Antony"]]

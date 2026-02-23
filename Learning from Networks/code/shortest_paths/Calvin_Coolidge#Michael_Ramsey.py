@@ -1,0 +1,1 @@
+[["Calvin_Coolidge", "United_Kingdom", "Anglican_Communion", "Michael_Ramsey"]]

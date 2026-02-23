@@ -1,0 +1,1 @@
+[["Hero_of_the_Russian_Federation", "United_States", "Detroit%2C_Michigan", "The_Temptations", "Sickle-cell_disease"]]

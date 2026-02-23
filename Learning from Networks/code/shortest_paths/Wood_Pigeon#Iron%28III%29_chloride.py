@@ -1,0 +1,1 @@
+[["Wood_Pigeon", "Animal", "Water", "Acetic_acid", "Iron%28III%29_chloride"], ["Wood_Pigeon", "Extinction", "Water", "Acetic_acid", "Iron%28III%29_chloride"], ["Wood_Pigeon", "Animal", "Water", "Water_purification", "Iron%28III%29_chloride"], ["Wood_Pigeon", "Extinction", "Water", "Water_purification", "Iron%28III%29_chloride"]]

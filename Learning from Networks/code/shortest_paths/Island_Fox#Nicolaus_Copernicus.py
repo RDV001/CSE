@@ -1,0 +1,1 @@
+[["Island_Fox", "Ice_age", "Plate_tectonics", "Nicolaus_Copernicus"], ["Island_Fox", "Ice_age", "Sun", "Nicolaus_Copernicus"], ["Island_Fox", "United_States", "Poland", "Nicolaus_Copernicus"]]

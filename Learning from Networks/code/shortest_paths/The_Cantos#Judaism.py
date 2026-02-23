@@ -1,0 +1,1 @@
+[["The_Cantos", "Africa", "Judaism"], ["The_Cantos", "Austria", "Judaism"], ["The_Cantos", "Bible", "Judaism"], ["The_Cantos", "Christianity", "Judaism"], ["The_Cantos", "Culture", "Judaism"], ["The_Cantos", "France", "Judaism"], ["The_Cantos", "Italy", "Judaism"], ["The_Cantos", "Jew", "Judaism"], ["The_Cantos", "Rome", "Judaism"], ["The_Cantos", "United_States", "Judaism"]]

@@ -1,0 +1,1 @@
+[["Gregorian_chant", "Asteroid", "Dinosaur", "Mammoth"], ["Gregorian_chant", "Finland", "Stone_Age", "Mammoth"], ["Gregorian_chant", "Franks", "Rhine", "Mammoth"], ["Gregorian_chant", "Roman_Empire", "Rhine", "Mammoth"], ["Gregorian_chant", "Medieval_music", "Flute", "Mammoth"]]

@@ -1,0 +1,1 @@
+[["Republic_of_Ireland", "Islam", "East_Africa", "Lake_Malawi"], ["Republic_of_Ireland", "List_of_countries_by_system_of_government", "Malawi", "Lake_Malawi"]]

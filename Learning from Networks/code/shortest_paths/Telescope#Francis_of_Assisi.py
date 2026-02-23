@@ -1,0 +1,1 @@
+[["Telescope", "Astronomy", "13th_century", "Francis_of_Assisi"], ["Telescope", "Netherlands", "13th_century", "Francis_of_Assisi"], ["Telescope", "Galileo_Galilei", "San_Francisco%2C_California", "Francis_of_Assisi"], ["Telescope", "Netherlands", "12th_century", "Francis_of_Assisi"]]

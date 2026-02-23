@@ -1,0 +1,1 @@
+[["Battle_of_the_Santa_Cruz_Islands", "United_States", "George_W._Bush"]]

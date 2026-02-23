@@ -1,0 +1,1 @@
+[["Norway", "19th_century", "Socialism"], ["Norway", "Christianity", "Socialism"], ["Norway", "England", "Socialism"], ["Norway", "Government", "Socialism"], ["Norway", "Sweden", "Socialism"]]

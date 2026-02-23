@@ -1,0 +1,1 @@
+[["U.S._state", "California", "Snow"], ["U.S._state", "Florida", "Snow"], ["U.S._state", "Las_Vegas%2C_Nevada", "Snow"], ["U.S._state", "Los_Angeles%2C_California", "Snow"], ["U.S._state", "Louisville%2C_Kentucky", "Snow"], ["U.S._state", "Minneapolis%2C_Minnesota", "Snow"], ["U.S._state", "Minnesota", "Snow"]]

@@ -1,0 +1,1 @@
+[["Los_Angeles%2C_California", "Culture", "Evolution"], ["Los_Angeles%2C_California", "Horse", "Evolution"]]

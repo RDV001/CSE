@@ -1,0 +1,1 @@
+[["Music", "Propaganda", "Political_science"]]

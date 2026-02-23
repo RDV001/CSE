@@ -1,0 +1,1 @@
+[["Royal_National_Theatre", "Arcadia_%28play%29", "Physics", "Electrical_engineering", "Moon_landing"], ["Royal_National_Theatre", "England", "York", "Electrical_engineering", "Moon_landing"], ["Royal_National_Theatre", "Democracy", "United_States", "Apollo_11", "Moon_landing"], ["Royal_National_Theatre", "Henrik_Ibsen", "United_States", "Apollo_11", "Moon_landing"]]

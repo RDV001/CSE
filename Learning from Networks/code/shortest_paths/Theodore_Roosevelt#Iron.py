@@ -1,0 +1,1 @@
+[["Theodore_Roosevelt", "Andrew_Carnegie", "Iron"], ["Theodore_Roosevelt", "Archaeology", "Iron"], ["Theodore_Roosevelt", "Geology", "Iron"], ["Theodore_Roosevelt", "Minnesota", "Iron"], ["Theodore_Roosevelt", "Steel", "Iron"]]

@@ -1,0 +1,1 @@
+[["Police", "Germany", "Coal"], ["Police", "Glasgow", "Coal"], ["Police", "Norway", "Coal"], ["Police", "Scotland", "Coal"], ["Police", "United_States", "Coal"]]

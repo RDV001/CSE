@@ -1,0 +1,1 @@
+[["Battle_of_Marathon", "Athens", "Horse", "Dinosaur"], ["Battle_of_Marathon", "Greece", "Owl", "Dinosaur"], ["Battle_of_Marathon", "North_Africa", "Sahara", "Dinosaur"], ["Battle_of_Marathon", "Plato", "Nature", "Dinosaur"], ["Battle_of_Marathon", "Weapon", "Stone_Age", "Dinosaur"]]

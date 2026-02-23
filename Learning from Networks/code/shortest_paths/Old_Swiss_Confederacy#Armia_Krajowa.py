@@ -1,0 +1,1 @@
+[["Old_Swiss_Confederacy", "France", "World_War_II", "Armia_Krajowa"], ["Old_Swiss_Confederacy", "Rhine", "World_War_II", "Armia_Krajowa"], ["Old_Swiss_Confederacy", "Switzerland", "World_War_II", "Armia_Krajowa"], ["Old_Swiss_Confederacy", "Switzerland", "The_Holocaust", "Armia_Krajowa"]]

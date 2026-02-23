@@ -1,0 +1,1 @@
+[["Vitus_Bering", "Asia", "Mediterranean_Sea", "Triassic"], ["Vitus_Bering", "Baltic_Sea", "Mediterranean_Sea", "Triassic"]]

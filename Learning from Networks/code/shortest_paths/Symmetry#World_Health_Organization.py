@@ -1,0 +1,1 @@
+[["Symmetry", "Bah%C3%A1%27%C3%AD_Faith", "World_Health_Organization"], ["Symmetry", "United_States", "World_Health_Organization"]]

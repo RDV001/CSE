@@ -1,0 +1,1 @@
+[["John_Maynard_Keynes", "United_Kingdom", "Queen_%28band%29", "Sgt._Pepper%27s_Lonely_Hearts_Club_Band"], ["John_Maynard_Keynes", "United_Kingdom", "The_Beatles", "Sgt._Pepper%27s_Lonely_Hearts_Club_Band"], ["John_Maynard_Keynes", "United_Kingdom", "The_Rolling_Stones", "Sgt._Pepper%27s_Lonely_Hearts_Club_Band"]]

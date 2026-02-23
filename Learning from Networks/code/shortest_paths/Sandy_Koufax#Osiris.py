@@ -1,0 +1,1 @@
+[["Sandy_Koufax", "Architecture", "Ancient_Rome", "Isis", "Osiris"], ["Sandy_Koufax", "Baseball", "Earth", "Deity", "Osiris"], ["Sandy_Koufax", "Beer", "Africa", "Deity", "Osiris"], ["Sandy_Koufax", "Los_Angeles%2C_California", "Africa", "Deity", "Osiris"]]

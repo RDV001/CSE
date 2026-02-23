@@ -1,0 +1,1 @@
+[["NATO", "English_language", "HTTP_cookie", "Internet_Explorer"]]

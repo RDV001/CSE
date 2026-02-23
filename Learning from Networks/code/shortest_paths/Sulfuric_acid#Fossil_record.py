@@ -1,0 +1,1 @@
+[["Sulfuric_acid", "Copper", "Arthropod", "Fossil_record"], ["Sulfuric_acid", "Iron", "Mammal", "Fossil_record"], ["Sulfuric_acid", "Water", "Biodiversity", "Fossil_record"]]

@@ -1,0 +1,1 @@
+[["The_Holocaust", "European_Union", "Water", "Acetic_acid"], ["The_Holocaust", "Industrial_Revolution", "Sulfuric_acid", "Acetic_acid"]]

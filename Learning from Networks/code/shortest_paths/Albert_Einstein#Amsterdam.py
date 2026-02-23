@@ -1,0 +1,1 @@
+[["Albert_Einstein", "Prague", "Amsterdam"]]

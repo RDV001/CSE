@@ -1,0 +1,1 @@
+[["Cod", "Europe", "Cold_War", "Jimmy_Carter"], ["Cod", "Europe", "Iran", "Jimmy_Carter"], ["Cod", "Europe", "Warsaw", "Jimmy_Carter"], ["Cod", "Norway", "Parliamentary_system", "Jimmy_Carter"], ["Cod", "United_Kingdom", "Parliamentary_system", "Jimmy_Carter"], ["Cod", "United_Kingdom", "Olympic_Games", "Jimmy_Carter"]]

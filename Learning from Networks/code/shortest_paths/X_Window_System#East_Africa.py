@@ -1,0 +1,1 @@
+[["X_Window_System", "Latin_alphabet", "Africa", "East_Africa"]]

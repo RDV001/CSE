@@ -1,0 +1,1 @@
+[["Alexander_Hamilton", "Spain", "Jew"], ["Alexander_Hamilton", "Washington%2C_D.C.", "Jew"]]

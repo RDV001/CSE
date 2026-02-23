@@ -1,0 +1,1 @@
+[["The_Beano", "United_Kingdom", "Anne_of_Great_Britain", "John_Vanbrugh", "Restoration_comedy", "The_Country_Wife"], ["The_Beano", "United_Kingdom", "Ben_Jonson", "Augustan_literature", "Restoration_comedy", "The_Country_Wife"], ["The_Beano", "United_Kingdom", "Anne_of_Great_Britain", "John_Vanbrugh", "The_Relapse", "The_Country_Wife"]]

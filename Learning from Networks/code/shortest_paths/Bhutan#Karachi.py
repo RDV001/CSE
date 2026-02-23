@@ -1,0 +1,1 @@
+[["Bhutan", "Indian_independence_movement", "Karachi"]]

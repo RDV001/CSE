@@ -1,0 +1,1 @@
+[["Lake_Tahoe", "Gold", "List_of_elements_by_name", "Osmium"], ["Lake_Tahoe", "Gold", "Metal", "Osmium"], ["Lake_Tahoe", "Gold", "Periodic_table", "Osmium"], ["Lake_Tahoe", "Gold", "Platinum", "Osmium"]]

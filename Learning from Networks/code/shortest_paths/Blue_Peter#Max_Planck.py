@@ -1,0 +1,1 @@
+[["Blue_Peter", "Buckingham_Palace", "Germany", "Max_Planck"], ["Blue_Peter", "Doctor_Who", "Germany", "Max_Planck"], ["Blue_Peter", "Elizabeth_II_of_the_United_Kingdom", "Germany", "Max_Planck"], ["Blue_Peter", "Television", "Germany", "Max_Planck"], ["Blue_Peter", "Tower_of_London", "Germany", "Max_Planck"], ["Blue_Peter", "United_Kingdom", "Germany", "Max_Planck"]]

@@ -1,0 +1,1 @@
+[["Korea", "North_Korea"]]

@@ -1,0 +1,1 @@
+[["Cape_Lion", "Africa", "Arabic_language", "Allah"], ["Cape_Lion", "Africa", "Deity", "Allah"], ["Cape_Lion", "Africa", "Islam", "Allah"], ["Cape_Lion", "Cape_Town", "Islam", "Allah"], ["Cape_Lion", "Russia", "Islam", "Allah"]]

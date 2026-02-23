@@ -1,0 +1,1 @@
+[["Firearm", "AK-47", "Nicaragua", "Fern", "Alternation_of_generations"], ["Firearm", "United_States", "Nicaragua", "Fern", "Alternation_of_generations"], ["Firearm", "China", "Biology", "Fern", "Alternation_of_generations"], ["Firearm", "Renaissance", "Biology", "Fern", "Alternation_of_generations"], ["Firearm", "United_States", "Sequoia", "Fern", "Alternation_of_generations"]]

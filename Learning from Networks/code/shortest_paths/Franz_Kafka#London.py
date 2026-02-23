@@ -1,0 +1,1 @@
+[["Franz_Kafka", "Berlin", "London"], ["Franz_Kafka", "Charles_Dickens", "London"], ["Franz_Kafka", "Marxism", "London"], ["Franz_Kafka", "Prague", "London"], ["Franz_Kafka", "Tuberculosis", "London"]]

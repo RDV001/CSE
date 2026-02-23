@@ -1,0 +1,1 @@
+[["Arthropod", "Copper", "United_States", "Guyana", "David_Attenborough"], ["Arthropod", "Spider", "United_States", "Guyana", "David_Attenborough"], ["Arthropod", "Spider", "Yemen", "Guyana", "David_Attenborough"]]

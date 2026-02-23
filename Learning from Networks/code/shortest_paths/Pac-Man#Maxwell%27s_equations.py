@@ -1,0 +1,1 @@
+[["Pac-Man", "Central_processing_unit", "Capacitance", "Maxwell%27s_equations"], ["Pac-Man", "IPod", "Capacitance", "Maxwell%27s_equations"]]

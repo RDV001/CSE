@@ -1,0 +1,1 @@
+[["Alligator", "River", "Canada", "Canadian_Senate"], ["Alligator", "Spanish_language", "Canada", "Canadian_Senate"], ["Alligator", "United_States", "Canada", "Canadian_Senate"], ["Alligator", "Spanish_language", "Globalization", "Canadian_Senate"]]

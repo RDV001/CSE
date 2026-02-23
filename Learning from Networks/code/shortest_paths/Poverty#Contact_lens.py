@@ -1,0 +1,1 @@
+[["Poverty", "God", "Light", "Contact_lens"]]

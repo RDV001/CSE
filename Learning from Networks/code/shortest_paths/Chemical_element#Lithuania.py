@@ -1,0 +1,1 @@
+[["Chemical_element", "Russia", "Lithuania"]]

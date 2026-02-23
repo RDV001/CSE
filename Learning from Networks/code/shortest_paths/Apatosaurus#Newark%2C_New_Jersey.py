@@ -1,0 +1,1 @@
+[["Apatosaurus", "Dinosaur", "New_York_City", "Newark%2C_New_Jersey"], ["Apatosaurus", "United_States", "New_York_City", "Newark%2C_New_Jersey"], ["Apatosaurus", "United_States", "Amtrak", "Newark%2C_New_Jersey"], ["Apatosaurus", "United_States", "U.S._state", "Newark%2C_New_Jersey"]]

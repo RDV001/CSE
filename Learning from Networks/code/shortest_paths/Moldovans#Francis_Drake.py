@@ -1,0 +1,1 @@
+[["Moldovans", "Kazakhstan", "16th_century", "Francis_Drake"], ["Moldovans", "Spain", "16th_century", "Francis_Drake"], ["Moldovans", "Soviet_Union", "British_Empire", "Francis_Drake"], ["Moldovans", "Spain", "California", "Francis_Drake"], ["Moldovans", "United_States", "California", "Francis_Drake"], ["Moldovans", "United_States", "Plymouth", "Francis_Drake"]]

@@ -1,0 +1,1 @@
+[["Palm_oil", "Carbon_dioxide", "Water", "Cloud"], ["Palm_oil", "Cocoa", "Water", "Cloud"], ["Palm_oil", "Greenhouse_effect", "Venus", "Cloud"], ["Palm_oil", "Indonesia", "Internet", "Cloud"], ["Palm_oil", "Industrial_Revolution", "Sulfuric_acid", "Cloud"]]

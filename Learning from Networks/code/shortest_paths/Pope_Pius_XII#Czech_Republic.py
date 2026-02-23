@@ -1,0 +1,1 @@
+[["Pope_Pius_XII", "Berlin", "Czech_Republic"], ["Pope_Pius_XII", "Bratislava", "Czech_Republic"], ["Pope_Pius_XII", "Europe", "Czech_Republic"], ["Pope_Pius_XII", "German_language", "Czech_Republic"], ["Pope_Pius_XII", "Germany", "Czech_Republic"], ["Pope_Pius_XII", "Pope_John_Paul_II", "Czech_Republic"], ["Pope_Pius_XII", "Vienna", "Czech_Republic"]]

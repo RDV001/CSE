@@ -1,0 +1,1 @@
+[["Anglican_Church_of_Australia", "Anglican_Communion", "18th_century", "Benjamin_Franklin"]]

@@ -1,0 +1,1 @@
+[["Johann_Wolfgang_Goethe", "Thomas_Jefferson", "President_of_the_United_States", "William_McKinley"], ["Johann_Wolfgang_Goethe", "Thomas_Jefferson", "Theodore_Roosevelt", "William_McKinley"], ["Johann_Wolfgang_Goethe", "Thomas_Jefferson", "Woodrow_Wilson", "William_McKinley"]]

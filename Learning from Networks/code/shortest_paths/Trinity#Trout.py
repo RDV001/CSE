@@ -1,0 +1,1 @@
+[["Trinity", "Egypt", "Fishing", "Trout"], ["Trinity", "German_language", "Argentina", "Trout"], ["Trinity", "Greece", "Argentina", "Trout"], ["Trinity", "Judaism", "Argentina", "Trout"], ["Trinity", "Greece", "Slovenia", "Trout"], ["Trinity", "Jesus", "Kashmir_region", "Trout"], ["Trinity", "Sanskrit", "Kashmir_region", "Trout"]]

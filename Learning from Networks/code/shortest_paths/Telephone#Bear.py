@@ -1,0 +1,1 @@
+[["Telephone", "Alexander_Graham_Bell", "Bath%2C_Somerset", "Bear"], ["Telephone", "Great_Britain", "Olympic_Games", "Bear"], ["Telephone", "South_Korea", "Olympic_Games", "Bear"], ["Telephone", "United_States", "Olympic_Games", "Bear"]]

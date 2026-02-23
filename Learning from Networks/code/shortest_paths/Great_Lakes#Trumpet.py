@@ -1,0 +1,1 @@
+[["Great_Lakes", "Atlantic_Ocean", "Africa", "Trumpet"], ["Great_Lakes", "North_America", "Africa", "Trumpet"], ["Great_Lakes", "Chicago", "Jazz", "Trumpet"], ["Great_Lakes", "United_States", "Jazz", "Trumpet"], ["Great_Lakes", "United_States", "American_popular_music", "Trumpet"]]

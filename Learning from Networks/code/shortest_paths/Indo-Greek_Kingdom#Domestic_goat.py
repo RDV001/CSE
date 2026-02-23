@@ -1,0 +1,1 @@
+[["Indo-Greek_Kingdom", "Afghanistan", "Domestic_goat"], ["Indo-Greek_Kingdom", "Civilization", "Domestic_goat"], ["Indo-Greek_Kingdom", "Zeus", "Domestic_goat"]]

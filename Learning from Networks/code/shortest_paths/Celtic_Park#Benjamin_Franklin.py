@@ -1,0 +1,1 @@
+[["Celtic_Park", "Glasgow", "Library", "Benjamin_Franklin"], ["Celtic_Park", "London", "United_States_dollar", "Benjamin_Franklin"]]

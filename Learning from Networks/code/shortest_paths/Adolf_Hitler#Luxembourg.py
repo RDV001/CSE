@@ -1,0 +1,1 @@
+[["Adolf_Hitler", "Luxembourg"]]

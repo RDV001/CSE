@@ -1,0 +1,1 @@
+[["First_Macedonian_War", "Ancient_Greece", "Mesopotamia", "Love"], ["First_Macedonian_War", "Ancient_Greece", "Socrates", "Love"], ["First_Macedonian_War", "Greece", "Socrates", "Love"]]

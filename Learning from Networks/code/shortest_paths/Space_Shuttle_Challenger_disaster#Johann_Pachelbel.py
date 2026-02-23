@@ -1,0 +1,1 @@
+[["Space_Shuttle_Challenger_disaster", "Houston%2C_Texas", "Austria", "Baroque", "Johann_Pachelbel"], ["Space_Shuttle_Challenger_disaster", "Neil_Armstrong", "Saint_Petersburg", "Baroque", "Johann_Pachelbel"], ["Space_Shuttle_Challenger_disaster", "Richard_Feynman", "Painting", "Baroque", "Johann_Pachelbel"]]

@@ -1,0 +1,1 @@
+[["Jacques-Louis_David", "Adolf_Hitler", "Battle_of_France"]]

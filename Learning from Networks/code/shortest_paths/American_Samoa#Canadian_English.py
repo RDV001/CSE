@@ -1,0 +1,1 @@
+[["American_Samoa", "English_language", "Canadian_English"]]

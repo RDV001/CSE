@@ -1,0 +1,1 @@
+[["Venezuela", "19th_century", "James_Clerk_Maxwell", "Thermodynamics"], ["Venezuela", "19th_century", "Steam_engine", "Thermodynamics"], ["Venezuela", "20th_century", "Physics", "Thermodynamics"], ["Venezuela", "Biodiversity", "Biology", "Thermodynamics"], ["Venezuela", "Namibia", "Diamond", "Thermodynamics"], ["Venezuela", "Petroleum", "Matter", "Thermodynamics"]]

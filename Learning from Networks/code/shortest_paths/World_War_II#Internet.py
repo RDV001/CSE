@@ -1,0 +1,1 @@
+[["World_War_II", "Denmark", "Internet"], ["World_War_II", "France", "Internet"], ["World_War_II", "Germany", "Internet"], ["World_War_II", "Syria", "Internet"], ["World_War_II", "United_States", "Internet"]]

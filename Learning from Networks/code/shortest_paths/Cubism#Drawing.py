@@ -1,0 +1,1 @@
+[["Cubism", "Art", "Drawing"], ["Cubism", "Literature", "Drawing"], ["Cubism", "Painting", "Drawing"]]

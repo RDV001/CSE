@@ -1,0 +1,1 @@
+[["Arnold_Schwarzenegger", "California", "Vegetable", "Vitamin_D"], ["Arnold_Schwarzenegger", "Minnesota", "Food", "Vitamin_D"], ["Arnold_Schwarzenegger", "Minnesota", "Milk", "Vitamin_D"]]

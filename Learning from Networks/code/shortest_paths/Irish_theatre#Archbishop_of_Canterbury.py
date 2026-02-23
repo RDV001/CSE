@@ -1,0 +1,1 @@
+[["Irish_theatre", "England", "Archbishop_of_Canterbury"], ["Irish_theatre", "Westminster_Abbey", "Archbishop_of_Canterbury"], ["Irish_theatre", "William_III_of_England", "Archbishop_of_Canterbury"]]

@@ -1,0 +1,1 @@
+[["Fossil_fuel", "Biofuel", "Brazil", "Dance"], ["Fossil_fuel", "Carbon", "Brazil", "Dance"], ["Fossil_fuel", "Natural_gas", "Brazil", "Dance"], ["Fossil_fuel", "Carbon", "Art", "Dance"], ["Fossil_fuel", "Carbon", "South_Africa", "Dance"], ["Fossil_fuel", "Coal", "South_Africa", "Dance"]]

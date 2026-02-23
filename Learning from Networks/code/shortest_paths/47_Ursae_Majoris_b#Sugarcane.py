@@ -1,0 +1,1 @@
+[["47_Ursae_Majoris_b", "Water", "Argentina", "Sugarcane"], ["47_Ursae_Majoris_b", "Water", "Brazil", "Sugarcane"], ["47_Ursae_Majoris_b", "Water", "Ethanol", "Sugarcane"]]

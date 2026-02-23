@@ -1,0 +1,1 @@
+[["Koryaksky", "Russia", "Amur"]]

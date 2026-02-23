@@ -1,0 +1,1 @@
+[["Vincent_van_Gogh", "Coal", "Global_warming"]]

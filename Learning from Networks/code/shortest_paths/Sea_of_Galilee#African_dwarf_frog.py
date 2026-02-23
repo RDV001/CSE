@@ -1,0 +1,1 @@
+[["Sea_of_Galilee", "Egypt", "Fishing", "Frog", "African_dwarf_frog"]]

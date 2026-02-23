@@ -1,0 +1,1 @@
+[["Edgar_Allan_Poe", "London", "Black_Death", "English_peasants%27_revolt_of_1381"], ["Edgar_Allan_Poe", "Sweden", "Black_Death", "English_peasants%27_revolt_of_1381"], ["Edgar_Allan_Poe", "London", "London_Bridge", "English_peasants%27_revolt_of_1381"], ["Edgar_Allan_Poe", "Paris", "Hundred_Years%27_War", "English_peasants%27_revolt_of_1381"]]

@@ -1,0 +1,1 @@
+[["Carbon", "India", "Rabindranath_Tagore", "Ezra_Pound", "The_Cantos"], ["Carbon", "United_States", "Poetry_of_the_United_States", "Ezra_Pound", "The_Cantos"], ["Carbon", "United_States", "Walt_Whitman", "Ezra_Pound", "The_Cantos"], ["Carbon", "United_States", "Poetry_of_the_United_States", "Modernist_poetry_in_English", "The_Cantos"]]

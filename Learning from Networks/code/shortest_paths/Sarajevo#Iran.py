@@ -1,0 +1,1 @@
+[["Sarajevo", "Albania", "Iran"], ["Sarajevo", "Azerbaijan", "Iran"], ["Sarajevo", "Europe", "Iran"], ["Sarajevo", "Islam", "Iran"], ["Sarajevo", "Kuwait", "Iran"], ["Sarajevo", "Mosque", "Iran"], ["Sarajevo", "Philosophy", "Iran"], ["Sarajevo", "Sweden", "Iran"], ["Sarajevo", "Turkey", "Iran"], ["Sarajevo", "United_Nations", "Iran"]]

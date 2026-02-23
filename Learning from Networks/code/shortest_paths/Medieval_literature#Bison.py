@@ -1,0 +1,1 @@
+[["Medieval_literature", "Armenia", "Stone_Age", "Bison"], ["Medieval_literature", "Ireland", "Stone_Age", "Bison"], ["Medieval_literature", "Europe", "Carnivore", "Bison"], ["Medieval_literature", "Wales", "Cattle", "Bison"]]

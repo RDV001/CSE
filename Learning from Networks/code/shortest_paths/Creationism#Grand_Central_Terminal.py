@@ -1,0 +1,1 @@
+[["Creationism", "Charles_Darwin", "New_York_City", "Grand_Central_Terminal"], ["Creationism", "Judaism", "New_York_City", "Grand_Central_Terminal"], ["Creationism", "United_States", "New_York_City", "Grand_Central_Terminal"]]

@@ -1,0 +1,1 @@
+[["Animal", "Aristotle", "Light", "Sound"], ["Animal", "Photosynthesis", "Light", "Sound"], ["Animal", "Plant", "Light", "Sound"], ["Animal", "Carbon_dioxide", "Helium", "Sound"], ["Animal", "Energy", "Communication", "Sound"], ["Animal", "Human", "Communication", "Sound"], ["Animal", "Human", "Language", "Sound"], ["Animal", "Human", "Music", "Sound"]]

@@ -1,0 +1,1 @@
+[["Linux", "Linus_Torvalds", "Helsinki", "Finance"]]

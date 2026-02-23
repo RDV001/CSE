@@ -1,0 +1,1 @@
+[["Leonardo_da_Vinci", "Painting", "Poetry", "Allegory_in_the_Middle_Ages"], ["Leonardo_da_Vinci", "Renaissance", "Poetry", "Allegory_in_the_Middle_Ages"]]

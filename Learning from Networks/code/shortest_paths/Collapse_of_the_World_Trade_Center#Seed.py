@@ -1,0 +1,1 @@
+[["Collapse_of_the_World_Trade_Center", "Gypsum", "Permian", "Seed"], ["Collapse_of_the_World_Trade_Center", "Osama_bin_Laden", "Sesame", "Seed"], ["Collapse_of_the_World_Trade_Center", "Osama_bin_Laden", "Sunflower", "Seed"]]

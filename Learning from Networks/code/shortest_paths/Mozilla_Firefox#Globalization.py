@@ -1,0 +1,1 @@
+[["Mozilla_Firefox", "Cryptography", "Pakistan", "Globalization"], ["Mozilla_Firefox", "Germany", "Atheism", "Globalization"], ["Mozilla_Firefox", "Germany", "Capitalism", "Globalization"], ["Mozilla_Firefox", "Germany", "Spanish_language", "Globalization"]]

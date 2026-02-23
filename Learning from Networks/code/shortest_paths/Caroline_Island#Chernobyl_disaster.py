@@ -1,0 +1,1 @@
+[["Caroline_Island", "New_Zealand", "Nuclear_power", "Chernobyl_disaster"], ["Caroline_Island", "United_States", "Nuclear_power", "Chernobyl_disaster"]]

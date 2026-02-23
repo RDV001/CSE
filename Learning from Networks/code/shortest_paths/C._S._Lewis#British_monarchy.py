@@ -1,0 +1,1 @@
+[["C._S._Lewis", "Northern_Ireland", "British_monarchy"], ["C._S._Lewis", "Wales", "British_monarchy"]]

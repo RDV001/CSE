@@ -1,0 +1,1 @@
+[["Pac-Man", "Japan", "Steel", "Sheffield"], ["Pac-Man", "United_States", "Steel", "Sheffield"], ["Pac-Man", "North_America", "Jamaica", "Sheffield"], ["Pac-Man", "United_States", "Jamaica", "Sheffield"], ["Pac-Man", "Ronald_Reagan", "England", "Sheffield"]]

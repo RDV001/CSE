@@ -1,0 +1,1 @@
+[["Doctor_Who", "Germany", "Turkey"], ["Doctor_Who", "Greece", "Turkey"], ["Doctor_Who", "Israel", "Turkey"], ["Doctor_Who", "Middle_East", "Turkey"], ["Doctor_Who", "Netherlands", "Turkey"], ["Doctor_Who", "Russia", "Turkey"]]

@@ -1,0 +1,1 @@
+[["Barbara_McClintock", "South_America", "21st_century", "Bill_Gates"], ["Barbara_McClintock", "United_States", "Education_in_the_United_States", "Bill_Gates"]]

@@ -1,0 +1,1 @@
+[["Theatre", "Russia", "Cuba"], ["Theatre", "United_States", "Cuba"]]

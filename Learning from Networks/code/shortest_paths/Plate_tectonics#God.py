@@ -1,0 +1,1 @@
+[["Plate_tectonics", "Francis_Bacon", "God"], ["Plate_tectonics", "Nicolaus_Copernicus", "God"]]

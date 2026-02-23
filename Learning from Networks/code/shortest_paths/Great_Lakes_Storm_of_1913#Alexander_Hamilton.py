@@ -1,0 +1,1 @@
+[["Great_Lakes_Storm_of_1913", "United_States_dollar", "Alexander_Hamilton"], ["Great_Lakes_Storm_of_1913", "Washington%2C_D.C.", "Alexander_Hamilton"]]

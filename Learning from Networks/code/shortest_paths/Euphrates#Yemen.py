@@ -1,0 +1,1 @@
+[["Euphrates", "Arabic_language", "Yemen"], ["Euphrates", "Muhammad", "Yemen"], ["Euphrates", "Persian_Empire", "Yemen"], ["Euphrates", "Saudi_Arabia", "Yemen"], ["Euphrates", "Turkey", "Yemen"]]

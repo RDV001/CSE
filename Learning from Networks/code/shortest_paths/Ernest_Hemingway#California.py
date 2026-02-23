@@ -1,0 +1,1 @@
+[["Ernest_Hemingway", "American_Civil_War", "California"], ["Ernest_Hemingway", "Fishing", "California"], ["Ernest_Hemingway", "Jack_Kerouac", "California"], ["Ernest_Hemingway", "New_York_City", "California"], ["Ernest_Hemingway", "Paris", "California"], ["Ernest_Hemingway", "Spain", "California"], ["Ernest_Hemingway", "United_States", "California"]]

@@ -1,0 +1,1 @@
+[["Mount_Pinatubo", "United_States", "Haiti"]]

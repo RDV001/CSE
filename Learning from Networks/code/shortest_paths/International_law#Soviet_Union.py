@@ -1,0 +1,1 @@
+[["International_law", "European_Union", "Soviet_Union"], ["International_law", "League_of_Nations", "Soviet_Union"], ["International_law", "United_Nations", "Soviet_Union"], ["International_law", "World_War_II", "Soviet_Union"]]

@@ -1,0 +1,1 @@
+[["Japan", "English_language", "Cattle"], ["Japan", "Natural_gas", "Cattle"]]

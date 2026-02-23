@@ -1,0 +1,1 @@
+[["James_Bond", "Lisbon", "Poetry", "Allegory_in_the_Middle_Ages"], ["James_Bond", "Novel", "Poetry", "Allegory_in_the_Middle_Ages"]]

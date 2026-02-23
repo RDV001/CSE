@@ -1,0 +1,1 @@
+[["Elizabeth_Fry", "Religious_Society_of_Friends", "God"]]

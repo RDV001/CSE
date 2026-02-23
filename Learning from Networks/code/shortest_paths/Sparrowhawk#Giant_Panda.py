@@ -1,0 +1,1 @@
+[["Sparrowhawk", "Carolus_Linnaeus", "Ecology", "Bear", "Giant_Panda"], ["Sparrowhawk", "India", "Hinduism", "Swastika", "Giant_Panda"], ["Sparrowhawk", "India", "Indus_Valley_Civilization", "Swastika", "Giant_Panda"], ["Sparrowhawk", "India", "Sikkim", "Red_Panda", "Giant_Panda"]]

@@ -1,0 +1,1 @@
+[["Carl_Jung", "Archaeology", "Agriculture", "Weed"], ["Carl_Jung", "Archaeology", "Plant", "Weed"], ["Carl_Jung", "DNA", "Plant", "Weed"], ["Carl_Jung", "DNA", "Fungus", "Weed"], ["Carl_Jung", "India", "Rice", "Weed"], ["Carl_Jung", "King_Arthur", "Domestic_goat", "Weed"]]

@@ -1,0 +1,1 @@
+[["Ancient_history", "Art", "Albert_Einstein"], ["Ancient_history", "Education", "Albert_Einstein"], ["Ancient_history", "Jerusalem", "Albert_Einstein"], ["Ancient_history", "Philosophy", "Albert_Einstein"]]

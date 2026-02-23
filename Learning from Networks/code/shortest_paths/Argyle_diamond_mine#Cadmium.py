@@ -1,0 +1,1 @@
+[["Argyle_diamond_mine", "Mining", "Cadmium"]]

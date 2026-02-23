@@ -1,0 +1,1 @@
+[["Restoration_comedy", "Charles_II_of_England", "Africa", "S%C3%A3o_Tom%C3%A9"], ["Restoration_comedy", "Spain", "Africa", "S%C3%A3o_Tom%C3%A9"]]

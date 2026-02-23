@@ -1,0 +1,1 @@
+[["Scent_of_a_Woman", "New_York_City", "Medicine", "Polymerase_chain_reaction"], ["Scent_of_a_Woman", "United_States", "Medicine", "Polymerase_chain_reaction"]]

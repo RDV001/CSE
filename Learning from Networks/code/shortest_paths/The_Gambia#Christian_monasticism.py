@@ -1,0 +1,1 @@
+[["The_Gambia", "Portugal", "Christian_monasticism"]]

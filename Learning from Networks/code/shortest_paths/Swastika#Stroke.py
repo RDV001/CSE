@@ -1,0 +1,1 @@
+[["Swastika", "Woodrow_Wilson", "Stroke"]]

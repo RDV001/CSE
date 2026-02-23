@@ -1,0 +1,1 @@
+[["Medieval_commune", "11th_century", "Portugal"], ["Medieval_commune", "12th_century", "Portugal"], ["Medieval_commune", "Germany", "Portugal"], ["Medieval_commune", "Spain", "Portugal"]]

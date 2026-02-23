@@ -1,0 +1,1 @@
+[["Coin", "China", "Human", "Ape"], ["Coin", "United_Kingdom", "Charles_Darwin", "Ape"]]

@@ -1,0 +1,1 @@
+[["Norfolk", "Domesday_Book", "Christianity"], ["Norfolk", "England", "Christianity"], ["Norfolk", "Europe", "Christianity"], ["Norfolk", "Isle_of_Wight", "Christianity"], ["Norfolk", "London", "Christianity"], ["Norfolk", "Middle_Ages", "Christianity"], ["Norfolk", "Viking", "Christianity"]]

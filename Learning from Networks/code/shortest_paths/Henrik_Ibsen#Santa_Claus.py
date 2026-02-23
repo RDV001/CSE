@@ -1,0 +1,1 @@
+[["Henrik_Ibsen", "Germany", "Coal", "Santa_Claus"], ["Henrik_Ibsen", "Norway", "Coal", "Santa_Claus"], ["Henrik_Ibsen", "United_States", "Coal", "Santa_Claus"], ["Henrik_Ibsen", "Munich", "Pope_Benedict_XVI", "Santa_Claus"]]

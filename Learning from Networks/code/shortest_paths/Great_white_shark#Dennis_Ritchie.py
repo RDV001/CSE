@@ -1,0 +1,1 @@
+[["Great_white_shark", "California", "Computer", "Unix", "Dennis_Ritchie"]]

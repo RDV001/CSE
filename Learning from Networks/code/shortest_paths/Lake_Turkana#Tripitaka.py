@@ -1,0 +1,1 @@
+[["Lake_Turkana", "Elephant", "Buddhism", "Tripitaka"]]

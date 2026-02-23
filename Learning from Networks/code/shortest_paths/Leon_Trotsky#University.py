@@ -1,0 +1,1 @@
+[["Leon_Trotsky", "Mathematics", "University"], ["Leon_Trotsky", "Prague", "University"]]

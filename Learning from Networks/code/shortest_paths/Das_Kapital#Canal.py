@@ -1,0 +1,1 @@
+[["Das_Kapital", "Adam_Smith", "Edinburgh", "Canal"], ["Das_Kapital", "Benjamin_Franklin", "Edinburgh", "Canal"], ["Das_Kapital", "Capitalism", "Industrial_Revolution", "Canal"], ["Das_Kapital", "Revolution", "Industrial_Revolution", "Canal"], ["Das_Kapital", "German_language", "Chile", "Canal"], ["Das_Kapital", "Karl_Marx", "Kerala", "Canal"]]

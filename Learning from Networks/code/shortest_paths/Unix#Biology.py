@@ -1,0 +1,1 @@
+[["Unix", "Dennis_Ritchie", "Physics", "Biology"], ["Unix", "TeX", "Physics", "Biology"], ["Unix", "Latin", "Science", "Biology"], ["Unix", "Open_source", "Science", "Biology"], ["Unix", "Open_source", "Biotechnology", "Biology"], ["Unix", "Open_source", "Medicine", "Biology"], ["Unix", "Open_source", "Philosophy", "Biology"], ["Unix", "TeX", "Engineering", "Biology"]]

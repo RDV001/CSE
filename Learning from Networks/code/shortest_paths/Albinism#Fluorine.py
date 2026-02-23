@@ -1,0 +1,1 @@
+[["Albinism", "Honduras", "Gold", "Fluorine"], ["Albinism", "Niger", "Gold", "Fluorine"], ["Albinism", "Papua_New_Guinea", "Gold", "Fluorine"], ["Albinism", "Ultraviolet", "Hydrogen", "Fluorine"], ["Albinism", "Ultraviolet", "Metal", "Fluorine"]]

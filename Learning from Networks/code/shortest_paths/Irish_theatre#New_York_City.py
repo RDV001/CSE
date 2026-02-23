@@ -1,0 +1,1 @@
+[["Irish_theatre", "Charles_Dickens", "New_York_City"], ["Irish_theatre", "Dublin", "New_York_City"], ["Irish_theatre", "London", "New_York_City"], ["Irish_theatre", "Paris", "New_York_City"], ["Irish_theatre", "Samuel_Beckett", "New_York_City"], ["Irish_theatre", "United_States", "New_York_City"]]

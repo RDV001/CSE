@@ -1,0 +1,1 @@
+[["Lake_Tahoe", "Gold", "Electron"]]

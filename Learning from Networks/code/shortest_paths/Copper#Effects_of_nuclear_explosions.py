@@ -1,0 +1,1 @@
+[["Copper", "Indonesia", "Earthquake", "Effects_of_nuclear_explosions"]]

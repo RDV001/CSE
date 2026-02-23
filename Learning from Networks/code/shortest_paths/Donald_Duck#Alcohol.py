@@ -1,0 +1,1 @@
+[["Donald_Duck", "Adolf_Hitler", "Alcohol"], ["Donald_Duck", "The_Simpsons", "Alcohol"], ["Donald_Duck", "Turkey", "Alcohol"]]

@@ -1,0 +1,1 @@
+[["BP", "Cold_War", "Poland"], ["BP", "Petroleum", "Poland"], ["BP", "World_War_I", "Poland"], ["BP", "World_War_II", "Poland"]]

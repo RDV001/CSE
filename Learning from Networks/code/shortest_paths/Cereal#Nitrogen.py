@@ -1,0 +1,1 @@
+[["Cereal", "Agriculture", "Nitrogen"], ["Cereal", "Barley", "Nitrogen"], ["Cereal", "Iron", "Nitrogen"], ["Cereal", "Nutrition", "Nitrogen"], ["Cereal", "Oat", "Nitrogen"], ["Cereal", "Protein", "Nitrogen"], ["Cereal", "Sorghum", "Nitrogen"], ["Cereal", "Thiamine", "Nitrogen"]]

@@ -1,0 +1,1 @@
+[["Fern", "Arsenic", "European_Union", "Frankfurt"], ["Fern", "Asparagus", "European_Union", "Frankfurt"], ["Fern", "Finland", "European_Union", "Frankfurt"], ["Fern", "Coal", "Germany", "Frankfurt"], ["Fern", "Finland", "Germany", "Frankfurt"], ["Fern", "New_Zealand", "Germany", "Frankfurt"], ["Fern", "Finland", "Euro", "Frankfurt"]]

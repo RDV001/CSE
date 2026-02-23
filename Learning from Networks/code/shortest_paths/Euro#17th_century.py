@@ -1,0 +1,1 @@
+[["Euro", "Czech_Republic", "17th_century"], ["Euro", "Hungary", "17th_century"], ["Euro", "Netherlands", "17th_century"]]

@@ -1,0 +1,1 @@
+[["Cotopaxi", "Amazon_Rainforest", "Bird", "Hawk"], ["Cotopaxi", "Andes", "Argentina", "Hawk"], ["Cotopaxi", "Ecuador", "Europe", "Hawk"], ["Cotopaxi", "Quito", "Europe", "Hawk"]]

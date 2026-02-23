@@ -1,0 +1,1 @@
+[["Pedagogy", "20th_century", "Physics", "Acceleration"], ["Pedagogy", "Education", "Physics", "Acceleration"], ["Pedagogy", "Science", "Physics", "Acceleration"], ["Pedagogy", "Education", "Calculus", "Acceleration"], ["Pedagogy", "Science", "Calculus", "Acceleration"]]

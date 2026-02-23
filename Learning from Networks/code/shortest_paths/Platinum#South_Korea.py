@@ -1,0 +1,1 @@
+[["Platinum", "Automobile", "South_Korea"], ["Platinum", "Peru", "South_Korea"], ["Platinum", "United_States", "South_Korea"]]

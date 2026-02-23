@@ -1,0 +1,1 @@
+[["Medicine", "Germany", "Adolf_Hitler"], ["Medicine", "Paris", "Adolf_Hitler"]]

@@ -1,0 +1,1 @@
+[["Edward_V_of_England", "Edward_IV_of_England", "Richard_III_%28play%29"], ["Edward_V_of_England", "Richard_III_of_England", "Richard_III_%28play%29"], ["Edward_V_of_England", "Tower_of_London", "Richard_III_%28play%29"]]

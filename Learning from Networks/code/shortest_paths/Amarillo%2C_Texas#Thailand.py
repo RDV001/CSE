@@ -1,0 +1,1 @@
+[["Amarillo%2C_Texas", "Automobile", "Thailand"], ["Amarillo%2C_Texas", "Las_Vegas%2C_Nevada", "Thailand"], ["Amarillo%2C_Texas", "United_States", "Thailand"]]

@@ -1,0 +1,1 @@
+[["Gold_standard", "Gold", "List_of_elements_by_name", "Praseodymium"], ["Gold_standard", "Silver", "List_of_elements_by_name", "Praseodymium"], ["Gold_standard", "Gold", "Periodic_table", "Praseodymium"], ["Gold_standard", "Metal", "Periodic_table", "Praseodymium"]]

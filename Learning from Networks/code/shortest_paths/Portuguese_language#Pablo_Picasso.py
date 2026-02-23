@@ -1,0 +1,1 @@
+[["Portuguese_language", "Paris", "Pablo_Picasso"]]

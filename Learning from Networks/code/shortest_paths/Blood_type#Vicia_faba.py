@@ -1,0 +1,1 @@
+[["Blood_type", "ABO_blood_group_system", "South_America", "Peru", "Vicia_faba"], ["Blood_type", "Bacteria", "Cholera", "Peru", "Vicia_faba"], ["Blood_type", "Bacteria", "Petroleum", "Peru", "Vicia_faba"], ["Blood_type", "Anemia", "Folic_acid", "Bean", "Vicia_faba"], ["Blood_type", "Bacteria", "Folic_acid", "Bean", "Vicia_faba"]]

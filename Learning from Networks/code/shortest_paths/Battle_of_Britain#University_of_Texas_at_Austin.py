@@ -1,0 +1,1 @@
+[["Battle_of_Britain", "John_F._Kennedy", "Dallas%2C_Texas", "University_of_Texas_at_Austin"], ["Battle_of_Britain", "John_F._Kennedy", "Lyndon_B._Johnson", "University_of_Texas_at_Austin"]]

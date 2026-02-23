@@ -1,0 +1,1 @@
+[["North_Sea", "English_language", "Israel"], ["North_Sea", "Germany", "Israel"]]

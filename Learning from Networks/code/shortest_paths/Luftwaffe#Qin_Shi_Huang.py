@@ -1,0 +1,1 @@
+[["Luftwaffe", "Swastika", "Ancient_history", "Qin_Shi_Huang"]]

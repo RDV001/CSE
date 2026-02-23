@@ -1,0 +1,1 @@
+[["Chromium", "United_States_dollar", "Gold_standard"]]

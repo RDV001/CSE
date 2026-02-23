@@ -1,0 +1,1 @@
+[["SD26", "North_America", "Capital", "Athens"], ["SD26", "North_America", "Europe", "Athens"], ["SD26", "North_America", "European_Union", "Athens"], ["SD26", "Wheat", "European_Union", "Athens"], ["SD26", "North_America", "Washington%2C_D.C.", "Athens"], ["SD26", "Sulfur", "Homer", "Athens"]]

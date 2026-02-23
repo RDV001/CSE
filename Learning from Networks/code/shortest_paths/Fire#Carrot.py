@@ -1,0 +1,1 @@
+[["Fire", "Fennel", "Fruit", "Carrot"], ["Fire", "Halloween", "Fruit", "Carrot"], ["Fire", "Plant", "Fruit", "Carrot"], ["Fire", "Potassium", "Fruit", "Carrot"], ["Fire", "Potassium", "Parsnip", "Carrot"]]

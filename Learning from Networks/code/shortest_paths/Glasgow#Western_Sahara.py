@@ -1,0 +1,1 @@
+[["Glasgow", "List_of_sovereign_states", "Western_Sahara"], ["Glasgow", "United_States", "Western_Sahara"]]

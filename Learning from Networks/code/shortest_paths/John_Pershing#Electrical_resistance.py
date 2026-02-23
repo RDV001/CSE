@@ -1,0 +1,1 @@
+[["John_Pershing", "Calvin_Coolidge", "Electricity", "Electrical_resistance"], ["John_Pershing", "Mexico", "Electricity", "Electrical_resistance"], ["John_Pershing", "World_War_II", "Radar", "Electrical_resistance"]]

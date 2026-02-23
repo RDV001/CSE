@@ -1,0 +1,1 @@
+[["Button", "Clothing", "Television", "Computer_and_video_games", "Doom", "Columbine_High_School_massacre"], ["Button", "Ivory", "Elephant", "The_Simpsons", "Doom", "Columbine_High_School_massacre"], ["Button", "Metal", "Astronomy", "Mars", "Doom", "Columbine_High_School_massacre"]]

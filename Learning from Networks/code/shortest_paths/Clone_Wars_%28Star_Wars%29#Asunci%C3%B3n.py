@@ -1,0 +1,1 @@
+[["Clone_Wars_%28Star_Wars%29", "Adolf_Hitler", "South_America", "Asunci%C3%B3n"], ["Clone_Wars_%28Star_Wars%29", "Democracy", "South_America", "Asunci%C3%B3n"]]

@@ -1,0 +1,1 @@
+[["Thor", "10th_century", "Solar_System", "Pluto"], ["Thor", "Iron", "Solar_System", "Pluto"], ["Thor", "Heracles", "Apollo", "Pluto"], ["Thor", "Iron", "Earth", "Pluto"], ["Thor", "Old_English_language", "Sun", "Pluto"], ["Thor", "Thorium", "Plutonium", "Pluto"]]

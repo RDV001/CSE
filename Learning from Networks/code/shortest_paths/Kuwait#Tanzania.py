@@ -1,0 +1,1 @@
+[["Kuwait", "Egypt", "Tanzania"], ["Kuwait", "English_language", "Tanzania"], ["Kuwait", "List_of_countries_by_system_of_government", "Tanzania"], ["Kuwait", "Saudi_Arabia", "Tanzania"], ["Kuwait", "United_States", "Tanzania"]]

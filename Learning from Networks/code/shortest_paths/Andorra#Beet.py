@@ -1,0 +1,1 @@
+[["Andorra", "Agriculture", "Fruit", "Beet"], ["Andorra", "Algeria", "Fruit", "Beet"], ["Andorra", "Agriculture", "Sugar", "Beet"], ["Andorra", "Iran", "Sugar", "Beet"], ["Andorra", "Jamaica", "Sugar", "Beet"], ["Andorra", "Sri_Lanka", "Sugar", "Beet"], ["Andorra", "Portugal", "TGV", "Beet"]]

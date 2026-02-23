@@ -1,0 +1,1 @@
+[["Yeast", "Acetic_acid", "Salt"], ["Yeast", "Alcohol", "Salt"], ["Yeast", "Meat", "Salt"], ["Yeast", "Mineral", "Salt"], ["Yeast", "Sulfuric_acid", "Salt"], ["Yeast", "Wine", "Salt"]]

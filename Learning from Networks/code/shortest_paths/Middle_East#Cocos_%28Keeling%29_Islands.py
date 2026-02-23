@@ -1,0 +1,1 @@
+[["Middle_East", "Israel", "Cocos_%28Keeling%29_Islands"], ["Middle_East", "Saudi_Arabia", "Cocos_%28Keeling%29_Islands"], ["Middle_East", "Somalia", "Cocos_%28Keeling%29_Islands"], ["Middle_East", "Sudan", "Cocos_%28Keeling%29_Islands"], ["Middle_East", "Yemen", "Cocos_%28Keeling%29_Islands"]]

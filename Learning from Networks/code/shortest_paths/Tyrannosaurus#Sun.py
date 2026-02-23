@@ -1,0 +1,1 @@
+[["Tyrannosaurus", "Asia", "Sun"], ["Tyrannosaurus", "Reptile", "Sun"]]

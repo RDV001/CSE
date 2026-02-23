@@ -1,0 +1,1 @@
+[["Isaac", "Egypt", "Age_of_Enlightenment", "Benjamin_Franklin"], ["Isaac", "Jew", "Age_of_Enlightenment", "Benjamin_Franklin"], ["Isaac", "Judaism", "Age_of_Enlightenment", "Benjamin_Franklin"], ["Isaac", "Egypt", "Liberalism", "Benjamin_Franklin"]]

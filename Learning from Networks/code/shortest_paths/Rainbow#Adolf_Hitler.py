@@ -1,0 +1,1 @@
+[["Rainbow", "Italy", "Adolf_Hitler"]]

@@ -1,0 +1,1 @@
+[["Linus_Torvalds", "Communism", "Brazil"]]

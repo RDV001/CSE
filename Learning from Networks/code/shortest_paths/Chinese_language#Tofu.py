@@ -1,0 +1,1 @@
+[["Chinese_language", "Thailand", "Gypsum", "Tofu"]]

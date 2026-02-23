@@ -1,0 +1,1 @@
+[["Margaret_Sanger", "Europe", "India", "Chennai"], ["Margaret_Sanger", "Measles", "India", "Chennai"], ["Margaret_Sanger", "Socialism", "India", "Chennai"], ["Margaret_Sanger", "Tuberculosis", "India", "Chennai"], ["Margaret_Sanger", "United_States", "India", "Chennai"], ["Margaret_Sanger", "Socialism", "Frankfurt", "Chennai"]]

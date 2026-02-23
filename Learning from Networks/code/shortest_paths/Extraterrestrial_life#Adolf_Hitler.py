@@ -1,0 +1,1 @@
+[["Extraterrestrial_life", "Jew", "Adolf_Hitler"], ["Extraterrestrial_life", "Spain", "Adolf_Hitler"]]

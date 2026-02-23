@@ -1,0 +1,1 @@
+[["Community", "Plant", "Cretaceous", "Ankylosaurus"]]

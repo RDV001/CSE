@@ -1,0 +1,1 @@
+[["Star_Trek__The_Original_Series", "United_States", "George_W._Bush", "Osama_bin_Laden"], ["Star_Trek__The_Original_Series", "United_States", "September_11%2C_2001_attacks", "Osama_bin_Laden"], ["Star_Trek__The_Original_Series", "United_States", "Terrorism", "Osama_bin_Laden"]]

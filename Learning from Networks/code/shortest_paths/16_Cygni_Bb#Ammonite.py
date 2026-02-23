@@ -1,0 +1,1 @@
+[["16_Cygni_Bb", "Earth", "Antarctica", "Ammonite"], ["16_Cygni_Bb", "Earth", "Devonian", "Ammonite"], ["16_Cygni_Bb", "Earth", "Dinosaur", "Ammonite"]]

@@ -1,0 +1,1 @@
+[["Bangkok", "English_language", "Dominica", "Coconut_oil"], ["Bangkok", "United_States", "Dominica", "Coconut_oil"]]

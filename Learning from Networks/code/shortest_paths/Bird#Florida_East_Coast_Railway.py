@@ -1,0 +1,1 @@
+[["Bird", "Bird_migration", "Florida", "Labor_Day_Hurricane_of_1935", "Florida_East_Coast_Railway"], ["Bird", "Great_Auk", "Florida", "Labor_Day_Hurricane_of_1935", "Florida_East_Coast_Railway"]]

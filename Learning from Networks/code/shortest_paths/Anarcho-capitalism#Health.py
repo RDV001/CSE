@@ -1,0 +1,1 @@
+[["Anarcho-capitalism", "Capitalism", "Economics", "Health"], ["Anarcho-capitalism", "Ethics", "Economics", "Health"], ["Anarcho-capitalism", "Political_philosophy", "Economics", "Health"], ["Anarcho-capitalism", "Ethics", "Medicine", "Health"], ["Anarcho-capitalism", "John_Locke", "Medicine", "Health"]]

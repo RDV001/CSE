@@ -1,0 +1,1 @@
+[["Nature", "Art", "Pablo_Picasso", "Paul_McCartney"], ["Nature", "Australia", "Elizabeth_II_of_the_United_Kingdom", "Paul_McCartney"], ["Nature", "River", "Liverpool", "Paul_McCartney"], ["Nature", "Venus", "Isaac_Asimov", "Paul_McCartney"]]

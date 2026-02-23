@@ -1,0 +1,1 @@
+[["Bird", "19th_century", "18th_century", "Frederick_II_of_Prussia"], ["Bird", "Latin", "18th_century", "Frederick_II_of_Prussia"], ["Bird", "Ostrich", "18th_century", "Frederick_II_of_Prussia"], ["Bird", "Archaeopteryx", "Berlin", "Frederick_II_of_Prussia"], ["Bird", "Carolus_Linnaeus", "Catherine_II_of_Russia", "Frederick_II_of_Prussia"]]

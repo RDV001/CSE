@@ -1,0 +1,1 @@
+[["Chlorine", "Human", "Propaganda", "Osama_bin_Laden"], ["Chlorine", "Water_purification", "Terrorism", "Osama_bin_Laden"]]

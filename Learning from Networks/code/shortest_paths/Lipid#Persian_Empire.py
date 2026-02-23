@@ -1,0 +1,1 @@
+[["Lipid", "Carbon", "Africa", "Persian_Empire"], ["Lipid", "Carbon", "Petroleum", "Persian_Empire"], ["Lipid", "Health", "Medicine", "Persian_Empire"], ["Lipid", "Vitamin", "19th_century", "Persian_Empire"]]

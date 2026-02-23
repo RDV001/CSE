@@ -1,0 +1,1 @@
+[["Cultural_diversity", "Biodiversity", "Africa", "Burundi"], ["Cultural_diversity", "Culture", "Africa", "Burundi"], ["Cultural_diversity", "Biodiversity", "Somalia", "Burundi"], ["Cultural_diversity", "Biodiversity", "United_Nations", "Burundi"], ["Cultural_diversity", "Culture", "Malawi", "Burundi"], ["Cultural_diversity", "Multiculturalism", "Uganda", "Burundi"]]

@@ -1,0 +1,1 @@
+[["Astrology", "Astronomy", "Open_cluster"], ["Astrology", "Star", "Open_cluster"]]

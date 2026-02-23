@@ -1,0 +1,1 @@
+[["Old_Swiss_Confederacy", "Medieval_commune", "11th_century", "Canute_the_Great"], ["Old_Swiss_Confederacy", "Switzerland", "Denmark", "Canute_the_Great"]]

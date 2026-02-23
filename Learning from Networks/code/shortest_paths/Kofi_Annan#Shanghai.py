@@ -1,0 +1,1 @@
+[["Kofi_Annan", "S%C3%A3o_Paulo", "Shanghai"]]

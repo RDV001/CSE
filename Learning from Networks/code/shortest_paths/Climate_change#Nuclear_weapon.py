@@ -1,0 +1,1 @@
+[["Climate_change", "History_of_Earth", "Nuclear_weapon"], ["Climate_change", "United_Nations", "Nuclear_weapon"], ["Climate_change", "United_States", "Nuclear_weapon"]]

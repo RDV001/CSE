@@ -1,0 +1,1 @@
+[["Monarchy", "Agriculture", "Rice"], ["Monarchy", "Bhutan", "Rice"], ["Monarchy", "British_Empire", "Rice"], ["Monarchy", "Brunei", "Rice"], ["Monarchy", "Japan", "Rice"]]

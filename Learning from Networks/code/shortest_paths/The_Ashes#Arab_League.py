@@ -1,0 +1,1 @@
+[["The_Ashes", "Australia", "Sudan", "Arab_League"], ["The_Ashes", "Melbourne", "Sudan", "Arab_League"], ["The_Ashes", "World_War_II", "Harry_S._Truman", "Arab_League"], ["The_Ashes", "World_War_II", "Lebanon", "Arab_League"], ["The_Ashes", "World_War_II", "Syria", "Arab_League"]]

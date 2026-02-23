@@ -1,0 +1,1 @@
+[["Mount_Pinatubo", "Earth%27s_atmosphere", "Helium", "Amarillo%2C_Texas", "U.S._Route_66"]]

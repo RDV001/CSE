@@ -1,0 +1,1 @@
+[["Pablo_Picasso", "Art", "Aesthetics", "Humour"]]

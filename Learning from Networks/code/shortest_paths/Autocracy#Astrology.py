@@ -1,0 +1,1 @@
+[["Autocracy", "Monarchy", "Religion", "Astrology"]]

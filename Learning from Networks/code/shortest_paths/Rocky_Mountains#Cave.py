@@ -1,0 +1,1 @@
+[["Rocky_Mountains", "Mineral", "Cave"]]

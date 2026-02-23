@@ -1,0 +1,1 @@
+[["Thucydides", "Athens", "Plato", "Apollo"], ["Thucydides", "Hippocrates", "Plato", "Apollo"], ["Thucydides", "Pericles", "Plato", "Apollo"], ["Thucydides", "Athens", "Zeus", "Apollo"], ["Thucydides", "Pericles", "Demosthenes", "Apollo"], ["Thucydides", "Pericles", "Socrates", "Apollo"]]

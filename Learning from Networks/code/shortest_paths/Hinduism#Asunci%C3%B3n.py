@@ -1,0 +1,1 @@
+[["Hinduism", "India", "South_America", "Asunci%C3%B3n"], ["Hinduism", "Malaysia", "Portuguese_language", "Asunci%C3%B3n"], ["Hinduism", "Swastika", "Buenos_Aires", "Asunci%C3%B3n"], ["Hinduism", "Swastika", "Taipei", "Asunci%C3%B3n"]]

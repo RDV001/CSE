@@ -1,0 +1,1 @@
+[["Lake_Superior", "Mediterranean_Sea", "Spanish_language"], ["Lake_Superior", "North_America", "Spanish_language"], ["Lake_Superior", "Silver", "Spanish_language"], ["Lake_Superior", "South_America", "Spanish_language"]]

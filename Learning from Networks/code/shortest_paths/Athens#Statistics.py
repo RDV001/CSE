@@ -1,0 +1,1 @@
+[["Athens", "Baseball", "Statistics"], ["Athens", "Russia", "Statistics"], ["Athens", "Slovenia", "Statistics"]]

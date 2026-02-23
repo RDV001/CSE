@@ -1,0 +1,1 @@
+[["Entropy", "Ecology", "Cretaceous-Tertiary_extinction_event", "Boltysh_crater"], ["Entropy", "Evolution", "Cretaceous-Tertiary_extinction_event", "Boltysh_crater"]]

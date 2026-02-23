@@ -1,0 +1,1 @@
+[["Fox", "Australia", "Pacific_Ocean", "Tijuana"], ["Fox", "South_America", "Pacific_Ocean", "Tijuana"], ["Fox", "German_language", "Mexico", "Tijuana"], ["Fox", "South_America", "Mexico", "Tijuana"]]

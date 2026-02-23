@@ -1,0 +1,1 @@
+[["Louis_XIV_of_France", "Africa", "Red_Sea"], ["Louis_XIV_of_France", "Asia", "Red_Sea"], ["Louis_XIV_of_France", "Ottoman_Empire", "Red_Sea"]]

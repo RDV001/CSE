@@ -1,0 +1,1 @@
+[["Claude_Monet", "Ultraviolet", "Astronomy", "Extrasolar_planet", "Upsilon_Andromedae", "Upsilon_Andromedae_b"], ["Claude_Monet", "Ultraviolet", "Jupiter", "Extrasolar_planet", "Upsilon_Andromedae", "Upsilon_Andromedae_b"]]

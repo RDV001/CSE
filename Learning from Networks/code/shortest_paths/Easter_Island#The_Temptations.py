@@ -1,0 +1,1 @@
+[["Easter_Island", "Time_zone", "Detroit%2C_Michigan", "The_Temptations"]]

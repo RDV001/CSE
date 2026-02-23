@@ -1,0 +1,1 @@
+[["Sharon_Tate", "California", "Gold", "Rubidium"]]

@@ -1,0 +1,1 @@
+[["Brahman", "Religion", "Soviet_Union"]]

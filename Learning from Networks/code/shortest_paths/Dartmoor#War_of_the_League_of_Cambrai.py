@@ -1,0 +1,1 @@
+[["Dartmoor", "England", "Belgium", "Habsburg_Spain", "War_of_the_League_of_Cambrai"], ["Dartmoor", "England", "Spain", "Habsburg_Spain", "War_of_the_League_of_Cambrai"], ["Dartmoor", "Granite", "Spain", "Habsburg_Spain", "War_of_the_League_of_Cambrai"]]

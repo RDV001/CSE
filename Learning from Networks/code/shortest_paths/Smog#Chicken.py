@@ -1,0 +1,1 @@
+[["Smog", "19th_century", "Louis_Pasteur", "Chicken"], ["Smog", "Beijing", "Flower", "Chicken"], ["Smog", "Coal", "Vanadium", "Chicken"], ["Smog", "Indonesia", "Saudi_Arabia", "Chicken"]]

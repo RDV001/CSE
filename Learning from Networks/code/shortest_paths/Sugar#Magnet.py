@@ -1,0 +1,1 @@
+[["Sugar", "Africa", "Diamond", "Magnet"], ["Sugar", "Crystal", "Diamond", "Magnet"], ["Sugar", "Carbon_dioxide", "Phase_%28matter%29", "Magnet"], ["Sugar", "Crystal", "Bismuth", "Magnet"], ["Sugar", "Crystal", "Chemistry", "Magnet"], ["Sugar", "Food", "Chemistry", "Magnet"], ["Sugar", "Soil", "Chemistry", "Magnet"]]

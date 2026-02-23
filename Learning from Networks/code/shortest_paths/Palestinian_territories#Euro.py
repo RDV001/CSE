@@ -1,0 +1,1 @@
+[["Palestinian_territories", "United_Kingdom", "Euro"]]

@@ -1,0 +1,1 @@
+[["Niagara_Falls", "Glacier", "River", "Hydrology", "Soil_moisture"], ["Niagara_Falls", "Mississippi_River", "River", "Hydrology", "Soil_moisture"], ["Niagara_Falls", "Ice_age", "Glaciology", "Hydrology", "Soil_moisture"], ["Niagara_Falls", "Minnesota", "Drought", "Hydrology", "Soil_moisture"]]

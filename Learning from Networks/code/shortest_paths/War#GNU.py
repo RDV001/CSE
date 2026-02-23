@@ -1,0 +1,1 @@
+[["War", "Nationalism", "Anarchism", "GNU"], ["War", "Nazism", "Anarchism", "GNU"], ["War", "Weapon", "Computer", "GNU"]]

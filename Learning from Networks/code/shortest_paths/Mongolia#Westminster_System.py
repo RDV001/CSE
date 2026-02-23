@@ -1,0 +1,1 @@
+[["Mongolia", "Parliamentary_system", "Westminster_System"]]

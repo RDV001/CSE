@@ -1,0 +1,1 @@
+[["Swift", "Animal", "Plant", "Tea"], ["Swift", "Bird", "Plant", "Tea"], ["Swift", "Scientific_classification", "Plant", "Tea"], ["Swift", "Bird", "Agriculture", "Tea"], ["Swift", "Denmark", "Agriculture", "Tea"], ["Swift", "France", "British_Empire", "Tea"], ["Swift", "France", "Kenya", "Tea"], ["Swift", "Insect", "Honey", "Tea"]]

@@ -1,0 +1,1 @@
+[["Temperate", "Aristotle", "Philosophy", "Iranian_peoples"], ["Temperate", "United_Kingdom", "Germany", "Iranian_peoples"], ["Temperate", "Winter", "Germany", "Iranian_peoples"]]

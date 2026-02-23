@@ -1,0 +1,1 @@
+[["Calculus", "Albert_Einstein", "Africa", "Tripoli"], ["Calculus", "Arithmetic", "Africa", "Tripoli"], ["Calculus", "Biology", "Africa", "Tripoli"], ["Calculus", "Europe", "Africa", "Tripoli"], ["Calculus", "Europe", "Madrid", "Tripoli"], ["Calculus", "Europe", "Sarajevo", "Tripoli"]]

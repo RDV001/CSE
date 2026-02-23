@@ -1,0 +1,1 @@
+[["Avalanche", "Gravitation", "Galileo_Galilei", "Geometry"], ["Avalanche", "Himalayas", "Glacier", "Geometry"], ["Avalanche", "Italy", "Age_of_Enlightenment", "Geometry"], ["Avalanche", "Oxygen", "Philosophy", "Geometry"], ["Avalanche", "Steel", "Ancient_Egypt", "Geometry"], ["Avalanche", "Steel", "Sumer", "Geometry"], ["Avalanche", "Tree", "Aesthetics", "Geometry"]]

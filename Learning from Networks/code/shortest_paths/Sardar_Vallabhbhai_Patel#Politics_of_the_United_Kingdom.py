@@ -1,0 +1,1 @@
+[["Sardar_Vallabhbhai_Patel", "Indian_independence_movement", "Politics_of_the_United_Kingdom"]]

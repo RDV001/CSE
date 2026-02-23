@@ -1,0 +1,1 @@
+[["Mechanical_work", "Physics", "Anthropology", "Sigmund_Freud"], ["Mechanical_work", "Physics", "Philosophy", "Sigmund_Freud"]]

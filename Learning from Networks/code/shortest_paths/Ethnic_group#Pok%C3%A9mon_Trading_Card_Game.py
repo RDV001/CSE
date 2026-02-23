@@ -1,0 +1,1 @@
+[["Ethnic_group", "Africa", "Royal_Navy", "Card_game", "Pok%C3%A9mon_Trading_Card_Game"], ["Ethnic_group", "Folklore", "Game", "Card_game", "Pok%C3%A9mon_Trading_Card_Game"], ["Ethnic_group", "Middle_East", "Damascus", "Card_game", "Pok%C3%A9mon_Trading_Card_Game"]]

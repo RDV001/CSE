@@ -1,0 +1,1 @@
+[["Swaziland", "Africa", "Atlantic_slave_trade", "William_Wilberforce"], ["Swaziland", "South_Africa", "Desmond_Tutu", "William_Wilberforce"], ["Swaziland", "United_Kingdom", "University_of_Cambridge", "William_Wilberforce"]]

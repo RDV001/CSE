@@ -1,0 +1,1 @@
+[["North_Africa", "Africa", "Democratic_Republic_of_the_Congo", "Okapi"], ["North_Africa", "Sudan", "Democratic_Republic_of_the_Congo", "Okapi"], ["North_Africa", "United_Nations", "Democratic_Republic_of_the_Congo", "Okapi"], ["North_Africa", "Africa", "Giraffe", "Okapi"]]

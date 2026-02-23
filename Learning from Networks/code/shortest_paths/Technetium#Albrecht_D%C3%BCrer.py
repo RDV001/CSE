@@ -1,0 +1,1 @@
+[["Technetium", "Humphry_Davy", "Munich", "Albrecht_D%C3%BCrer"], ["Technetium", "Metal", "Painting", "Albrecht_D%C3%BCrer"], ["Technetium", "Star", "Astrology", "Albrecht_D%C3%BCrer"]]

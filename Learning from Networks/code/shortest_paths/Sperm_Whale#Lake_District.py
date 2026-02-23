@@ -1,0 +1,1 @@
+[["Sperm_Whale", "Dominica", "United_Kingdom", "Lake_District"], ["Sperm_Whale", "Gulf_of_Mexico", "United_Kingdom", "Lake_District"], ["Sperm_Whale", "New_Zealand", "United_Kingdom", "Lake_District"], ["Sperm_Whale", "Taiwan", "United_Kingdom", "Lake_District"], ["Sperm_Whale", "New_Zealand", "England", "Lake_District"], ["Sperm_Whale", "Norway", "England", "Lake_District"]]

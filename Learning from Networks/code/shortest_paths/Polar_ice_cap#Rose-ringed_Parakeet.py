@@ -1,0 +1,1 @@
+[["Polar_ice_cap", "Antarctica", "New_Zealand", "Parrot", "Rose-ringed_Parakeet"]]

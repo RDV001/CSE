@@ -1,0 +1,1 @@
+[["Philately", "19th_century", "17th_century", "Glorious_Revolution"], ["Philately", "19th_century", "18th_century", "Glorious_Revolution"], ["Philately", "Viking", "18th_century", "Glorious_Revolution"], ["Philately", "Viking", "Monarchy", "Glorious_Revolution"], ["Philately", "Viking", "Scotland", "Glorious_Revolution"]]

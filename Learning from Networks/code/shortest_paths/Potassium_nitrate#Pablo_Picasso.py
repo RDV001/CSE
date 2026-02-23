@@ -1,0 +1,1 @@
+[["Potassium_nitrate", "Sulfuric_acid", "Birmingham", "Pablo_Picasso"]]

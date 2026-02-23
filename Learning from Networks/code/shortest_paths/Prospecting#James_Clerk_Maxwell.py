@@ -1,0 +1,1 @@
+[["Prospecting", "Gold", "19th_century", "James_Clerk_Maxwell"], ["Prospecting", "Gold", "Color", "James_Clerk_Maxwell"], ["Prospecting", "Silver", "Color", "James_Clerk_Maxwell"], ["Prospecting", "Gold", "Photography", "James_Clerk_Maxwell"], ["Prospecting", "Silver", "Photography", "James_Clerk_Maxwell"]]

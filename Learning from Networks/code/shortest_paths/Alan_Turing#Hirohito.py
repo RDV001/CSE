@@ -1,0 +1,1 @@
+[["Alan_Turing", "World_War_II", "Hirohito"]]

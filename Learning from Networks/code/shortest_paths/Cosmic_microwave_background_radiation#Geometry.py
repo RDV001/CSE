@@ -1,0 +1,1 @@
+[["Cosmic_microwave_background_radiation", "Cosmic_inflation", "Geometry"], ["Cosmic_microwave_background_radiation", "Metric_expansion_of_space", "Geometry"], ["Cosmic_microwave_background_radiation", "Topology", "Geometry"]]

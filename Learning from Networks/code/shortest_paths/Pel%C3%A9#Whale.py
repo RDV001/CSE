@@ -1,0 +1,1 @@
+[["Pel%C3%A9", "Brazil", "Atlantic_Ocean", "Whale"], ["Pel%C3%A9", "FIFA_World_Cup", "Atlantic_Ocean", "Whale"], ["Pel%C3%A9", "Rio_de_Janeiro", "Atlantic_Ocean", "Whale"], ["Pel%C3%A9", "Uruguay", "Atlantic_Ocean", "Whale"], ["Pel%C3%A9", "United_Nations", "Taiwan", "Whale"], ["Pel%C3%A9", "World_War_II", "Taiwan", "Whale"]]

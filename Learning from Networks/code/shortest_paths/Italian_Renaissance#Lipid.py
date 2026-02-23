@@ -1,0 +1,1 @@
+[["Italian_Renaissance", "Black_Death", "Bacteria", "Lipid"], ["Italian_Renaissance", "Black_Death", "Oat", "Lipid"], ["Italian_Renaissance", "Wheat", "Oat", "Lipid"], ["Italian_Renaissance", "Wheat", "Protein", "Lipid"]]

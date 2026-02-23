@@ -1,0 +1,1 @@
+[["Stock_car_%28rail%29", "Horse", "American_Revolutionary_War"], ["Stock_car_%28rail%29", "Philadelphia", "American_Revolutionary_War"], ["Stock_car_%28rail%29", "United_States", "American_Revolutionary_War"]]

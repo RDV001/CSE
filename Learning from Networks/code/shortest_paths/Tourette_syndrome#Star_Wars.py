@@ -1,0 +1,1 @@
+[["Tourette_syndrome", "Huntington%27s_disease", "Mitochondrion", "Star_Wars"], ["Tourette_syndrome", "Sigmund_Freud", "Mythology", "Star_Wars"]]

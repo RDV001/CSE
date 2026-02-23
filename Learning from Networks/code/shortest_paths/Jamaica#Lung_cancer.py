@@ -1,0 +1,1 @@
+[["Jamaica", "Elizabeth_II_of_the_United_Kingdom", "George_VI_of_the_United_Kingdom", "Lung_cancer"], ["Jamaica", "Madagascar", "Plant", "Lung_cancer"], ["Jamaica", "People%27s_Republic_of_China", "Tobacco_smoking", "Lung_cancer"]]

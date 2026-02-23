@@ -1,0 +1,1 @@
+[["Tungsten", "California", "Francis_Drake", "Walter_Raleigh"]]

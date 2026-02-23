@@ -1,0 +1,1 @@
+[["Ostrich", "19th_century", "Italy"], ["Ostrich", "20th_century", "Italy"], ["Ostrich", "Ancient_Rome", "Italy"], ["Ostrich", "East_Africa", "Italy"], ["Ostrich", "Ethiopia", "Italy"], ["Ostrich", "Kenya", "Italy"], ["Ostrich", "North_Africa", "Italy"], ["Ostrich", "Poland", "Italy"], ["Ostrich", "Somalia", "Italy"], ["Ostrich", "World_War_I", "Italy"]]

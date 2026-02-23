@@ -1,0 +1,1 @@
+[["Child", "Economics", "Game_theory", "Chess"], ["Child", "Law", "Israel", "Chess"], ["Child", "Literacy", "India", "Chess"], ["Child", "Medicine", "India", "Chess"], ["Child", "Music", "India", "Chess"], ["Child", "Literacy", "Vietnam", "Chess"], ["Child", "Tiger_Woods", "Vietnam", "Chess"], ["Child", "Medicine", "Alzheimer%27s_disease", "Chess"]]

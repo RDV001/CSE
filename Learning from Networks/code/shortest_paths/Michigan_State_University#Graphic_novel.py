@@ -1,0 +1,1 @@
+[["Michigan_State_University", "Albert_Einstein", "Anarchism", "Graphic_novel"], ["Michigan_State_University", "Theodore_Roosevelt", "Anarchism", "Graphic_novel"], ["Michigan_State_University", "Visual_arts", "Comics", "Graphic_novel"]]

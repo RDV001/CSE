@@ -1,0 +1,1 @@
+[["Manifest_Destiny", "California", "Winter", "Weasel"], ["Manifest_Destiny", "Florida", "Winter", "Weasel"], ["Manifest_Destiny", "Theodore_Roosevelt", "Mole_%28animal%29", "Weasel"]]

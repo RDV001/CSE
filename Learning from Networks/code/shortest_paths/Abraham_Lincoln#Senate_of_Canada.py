@@ -1,0 +1,1 @@
+[["Abraham_Lincoln", "Edinburgh", "Vancouver", "Senate_of_Canada"], ["Abraham_Lincoln", "United_Kingdom", "Parliamentary_system", "Senate_of_Canada"]]

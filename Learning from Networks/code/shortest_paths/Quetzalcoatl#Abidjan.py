@@ -1,0 +1,1 @@
+[["Quetzalcoatl", "Atlantis", "Africa", "Abidjan"], ["Quetzalcoatl", "Maize", "Africa", "Abidjan"], ["Quetzalcoatl", "Spain", "Africa", "Abidjan"], ["Quetzalcoatl", "Atlantis", "Atlantic_Ocean", "Abidjan"], ["Quetzalcoatl", "Spain", "Atlantic_Ocean", "Abidjan"], ["Quetzalcoatl", "Aztec", "Capital", "Abidjan"]]

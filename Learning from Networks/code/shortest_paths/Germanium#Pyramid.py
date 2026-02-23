@@ -1,0 +1,1 @@
+[["Germanium", "Crystal", "Quartz", "Pyramid"], ["Germanium", "Mineral", "Quartz", "Pyramid"], ["Germanium", "Mohs_scale_of_mineral_hardness", "Quartz", "Pyramid"], ["Germanium", "Silicon", "Quartz", "Pyramid"], ["Germanium", "Day", "Ancient_Egypt", "Pyramid"], ["Germanium", "Silver", "Ancient_Egypt", "Pyramid"]]

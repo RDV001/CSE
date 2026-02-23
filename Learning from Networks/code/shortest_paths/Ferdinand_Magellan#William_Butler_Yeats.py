@@ -1,0 +1,1 @@
+[["Ferdinand_Magellan", "Atlantic_Ocean", "Ireland", "William_Butler_Yeats"], ["Ferdinand_Magellan", "Europe", "Ireland", "William_Butler_Yeats"], ["Ferdinand_Magellan", "Europe", "Dublin", "William_Butler_Yeats"], ["Ferdinand_Magellan", "India", "Rabindranath_Tagore", "William_Butler_Yeats"]]

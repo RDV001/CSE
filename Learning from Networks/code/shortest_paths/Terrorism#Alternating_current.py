@@ -1,0 +1,1 @@
+[["Terrorism", "19th_century", "Nikola_Tesla", "Alternating_current"], ["Terrorism", "Margaret_Thatcher", "Electricity", "Alternating_current"], ["Terrorism", "Mumbai", "Electricity", "Alternating_current"], ["Terrorism", "Petroleum", "Electricity", "Alternating_current"], ["Terrorism", "Mumbai", "Indian_Railways", "Alternating_current"]]

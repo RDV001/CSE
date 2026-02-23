@@ -1,0 +1,1 @@
+[["Spacecraft_propulsion", "Astronomy", "20th_century", "Nationalism"], ["Spacecraft_propulsion", "Earth", "Carl_Sagan", "Nationalism"], ["Spacecraft_propulsion", "Earth", "Government", "Nationalism"]]

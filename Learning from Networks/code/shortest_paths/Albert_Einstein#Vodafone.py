@@ -1,0 +1,1 @@
+[["Albert_Einstein", "Germany", "D%C3%BCsseldorf", "Vodafone"], ["Albert_Einstein", "Nazism", "Seinfeld", "Vodafone"]]

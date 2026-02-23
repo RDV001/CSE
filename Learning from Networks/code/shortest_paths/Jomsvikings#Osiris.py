@@ -1,0 +1,1 @@
+[["Jomsvikings", "Odin", "Deity", "Osiris"]]

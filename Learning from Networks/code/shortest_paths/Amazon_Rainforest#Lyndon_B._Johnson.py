@@ -1,0 +1,1 @@
+[["Amazon_Rainforest", "Africa", "Cold_War", "Lyndon_B._Johnson"], ["Amazon_Rainforest", "South_America", "Cold_War", "Lyndon_B._Johnson"], ["Amazon_Rainforest", "South_America", "Southern_United_States", "Lyndon_B._Johnson"]]

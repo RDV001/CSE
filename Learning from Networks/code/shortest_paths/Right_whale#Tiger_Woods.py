@@ -1,0 +1,1 @@
+[["Right_whale", "Australia", "Grand_Slam_%28tennis%29", "Tiger_Woods"], ["Right_whale", "New_Zealand", "All_Blacks", "Tiger_Woods"]]

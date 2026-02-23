@@ -1,0 +1,1 @@
+[["Great_Moravia", "Bulgaria", "Asia"], ["Great_Moravia", "Croatia", "Asia"], ["Great_Moravia", "Russia", "Asia"], ["Great_Moravia", "Serbia", "Asia"], ["Great_Moravia", "Slovenia", "Asia"]]

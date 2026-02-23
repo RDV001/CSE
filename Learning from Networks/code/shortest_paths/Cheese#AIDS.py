@@ -1,0 +1,1 @@
+[["Cheese", "France", "AIDS"], ["Cheese", "People%27s_Republic_of_China", "AIDS"], ["Cheese", "Tuberculosis", "AIDS"]]

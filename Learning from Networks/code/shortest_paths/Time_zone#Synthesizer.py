@@ -1,0 +1,1 @@
+[["Time_zone", "China", "Musical_instrument", "Synthesizer"], ["Time_zone", "Detroit%2C_Michigan", "Marvin_Gaye", "Synthesizer"], ["Time_zone", "United_States", "Hip_hop_music", "Synthesizer"]]

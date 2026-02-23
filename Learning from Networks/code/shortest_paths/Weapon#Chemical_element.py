@@ -1,0 +1,1 @@
+[["Weapon", "Nuclear_fission", "Chemical_element"]]

@@ -1,0 +1,1 @@
+[["Sikhism", "Australia", "Opera", "Giuseppe_Verdi"], ["Sikhism", "United_Kingdom", "Opera", "Giuseppe_Verdi"], ["Sikhism", "East_Africa", "19th_century", "Giuseppe_Verdi"], ["Sikhism", "Islam", "19th_century", "Giuseppe_Verdi"], ["Sikhism", "Religion", "Spanish_Inquisition", "Giuseppe_Verdi"]]

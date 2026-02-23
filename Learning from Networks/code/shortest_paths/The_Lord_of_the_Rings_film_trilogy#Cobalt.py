@@ -1,0 +1,1 @@
+[["The_Lord_of_the_Rings_film_trilogy", "New_Zealand", "Gold", "Cobalt"], ["The_Lord_of_the_Rings_film_trilogy", "New_Zealand", "Nuclear_weapon", "Cobalt"]]

@@ -1,0 +1,1 @@
+[["Gravitation", "Mercury_%28planet%29", "Helium"], ["Gravitation", "Neptune", "Helium"], ["Gravitation", "Sun", "Helium"], ["Gravitation", "Uranus", "Helium"]]

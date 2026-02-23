@@ -1,0 +1,1 @@
+[["2005_Kashmir_earthquake", "Afghanistan", "Mesopotamia", "Apple"], ["2005_Kashmir_earthquake", "Muhammad", "Mesopotamia", "Apple"], ["2005_Kashmir_earthquake", "India", "Mango", "Apple"], ["2005_Kashmir_earthquake", "India", "Sikkim", "Apple"], ["2005_Kashmir_earthquake", "Snow", "Argentina", "Apple"]]

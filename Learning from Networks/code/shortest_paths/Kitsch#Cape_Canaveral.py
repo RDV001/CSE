@@ -1,0 +1,1 @@
+[["Kitsch", "Elvis_Presley", "John_F._Kennedy", "Cape_Canaveral"], ["Kitsch", "United_States", "John_F._Kennedy", "Cape_Canaveral"], ["Kitsch", "German_language", "Florida", "Cape_Canaveral"], ["Kitsch", "United_States", "Florida", "Cape_Canaveral"], ["Kitsch", "German_language", "Kazakhstan", "Cape_Canaveral"], ["Kitsch", "Russia", "Kazakhstan", "Cape_Canaveral"]]

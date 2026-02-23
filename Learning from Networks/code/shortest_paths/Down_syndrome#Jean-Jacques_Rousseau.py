@@ -1,0 +1,1 @@
+[["Down_syndrome", "Nazi_Germany", "Animal_rights", "Jean-Jacques_Rousseau"], ["Down_syndrome", "World_Health_Organization", "Geneva", "Jean-Jacques_Rousseau"]]

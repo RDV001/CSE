@@ -1,0 +1,1 @@
+[["Jewellery", "Welding", "Electron_beam_welding"]]

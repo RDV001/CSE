@@ -1,0 +1,1 @@
+[["Lindisfarne_Gospels", "18th_century", "James_Cook", "Trigonometry"], ["Lindisfarne_Gospels", "18th_century", "Leonhard_Euler", "Trigonometry"]]

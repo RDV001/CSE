@@ -1,0 +1,1 @@
+[["Lake_Vostok", "Germany", "Prime_Minister_of_the_United_Kingdom"], ["Lake_Vostok", "United_Kingdom", "Prime_Minister_of_the_United_Kingdom"]]

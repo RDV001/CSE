@@ -1,0 +1,1 @@
+[["Leisure", "Europe", "Austria", "Gregor_Mendel"], ["Leisure", "Industrial_Revolution", "Austria", "Gregor_Mendel"], ["Leisure", "Latin", "Roman_Catholic_Church", "Gregor_Mendel"], ["Leisure", "Mysticism", "19th_century", "Gregor_Mendel"]]

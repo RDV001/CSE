@@ -1,0 +1,1 @@
+[["Winston_Churchill", "Edward_VIII_of_the_United_Kingdom", "Federal_Bureau_of_Investigation", "W._Mark_Felt"], ["Winston_Churchill", "Ernest_Hemingway", "Federal_Bureau_of_Investigation", "W._Mark_Felt"], ["Winston_Churchill", "Harry_S._Truman", "Federal_Bureau_of_Investigation", "W._Mark_Felt"]]

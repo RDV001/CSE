@@ -1,0 +1,1 @@
+[["Soybean", "Amazon_Rainforest", "Africa"], ["Soybean", "Asia", "Africa"], ["Soybean", "Biodiversity", "Africa"], ["Soybean", "Brazil", "Africa"], ["Soybean", "China", "Africa"], ["Soybean", "Clothing", "Africa"], ["Soybean", "Europe", "Africa"], ["Soybean", "India", "Africa"], ["Soybean", "Maize", "Africa"], ["Soybean", "Poultry", "Africa"]]

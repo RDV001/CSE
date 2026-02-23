@@ -1,0 +1,1 @@
+[["Snow", "Austria", "Gregor_Mendel", "Abbot"], ["Snow", "Ice", "Middle_Ages", "Abbot"]]

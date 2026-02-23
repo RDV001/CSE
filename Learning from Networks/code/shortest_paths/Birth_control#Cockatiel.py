@@ -1,0 +1,1 @@
+[["Birth_control", "Asia", "Myanmar", "Parrot", "Cockatiel"], ["Birth_control", "Malaysia", "New_Zealand", "Parrot", "Cockatiel"]]

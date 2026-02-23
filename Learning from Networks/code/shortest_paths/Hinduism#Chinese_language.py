@@ -1,0 +1,1 @@
+[["Hinduism", "Buddhism", "Chinese_language"], ["Hinduism", "Canada", "Chinese_language"], ["Hinduism", "Hindi", "Chinese_language"], ["Hinduism", "Ramayana", "Chinese_language"], ["Hinduism", "Swastika", "Chinese_language"], ["Hinduism", "Tibet", "Chinese_language"], ["Hinduism", "United_States", "Chinese_language"]]

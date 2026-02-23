@@ -1,0 +1,1 @@
+[["Ornithischia", "Ankylosaurus", "United_States", "Howland_Island"], ["Ornithischia", "Dinosaur", "United_States", "Howland_Island"], ["Ornithischia", "Evolution", "United_States", "Howland_Island"], ["Ornithischia", "Herbivore", "United_States", "Howland_Island"]]

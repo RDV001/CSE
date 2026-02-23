@@ -1,0 +1,1 @@
+[["White-tailed_Eagle", "Animal", "Photosynthesis", "Photosynthetic_reaction_centre"], ["White-tailed_Eagle", "Tree", "Photosynthesis", "Photosynthetic_reaction_centre"]]

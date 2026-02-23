@@ -1,0 +1,1 @@
+[["Corundum", "Greece", "Fascism", "Mysticism"], ["Corundum", "Greece", "Socrates", "Mysticism"], ["Corundum", "India", "Rabindranath_Tagore", "Mysticism"], ["Corundum", "India", "Taj_Mahal", "Mysticism"], ["Corundum", "Oxygen", "Alchemy", "Mysticism"], ["Corundum", "Zimbabwe", "Religion", "Mysticism"]]

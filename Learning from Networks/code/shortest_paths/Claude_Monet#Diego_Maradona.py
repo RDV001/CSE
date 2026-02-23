@@ -1,0 +1,1 @@
+[["Claude_Monet", "England", "FIFA_World_Cup", "Diego_Maradona"], ["Claude_Monet", "Paris", "FIFA_World_Cup", "Diego_Maradona"], ["Claude_Monet", "United_States_dollar", "Argentina", "Diego_Maradona"]]

@@ -1,0 +1,1 @@
+[["Ernest_Hemingway", "England", "Isle_of_Wight", "Henry_VI_of_England"], ["Ernest_Hemingway", "England", "Tower_of_London", "Henry_VI_of_England"], ["Ernest_Hemingway", "England", "Wars_of_the_Roses", "Henry_VI_of_England"], ["Ernest_Hemingway", "Paris", "Hundred_Years%27_War", "Henry_VI_of_England"]]

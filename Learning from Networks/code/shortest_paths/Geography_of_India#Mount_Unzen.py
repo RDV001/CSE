@@ -1,0 +1,1 @@
+[["Geography_of_India", "Earth%27s_atmosphere", "Volcano", "Mount_Unzen"], ["Geography_of_India", "Gypsum", "Volcano", "Mount_Unzen"], ["Geography_of_India", "Himalayas", "Volcano", "Mount_Unzen"], ["Geography_of_India", "Plate_tectonics", "Volcano", "Mount_Unzen"], ["Geography_of_India", "Tsunami", "Volcano", "Mount_Unzen"]]

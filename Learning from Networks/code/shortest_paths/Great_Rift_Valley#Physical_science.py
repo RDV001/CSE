@@ -1,0 +1,1 @@
+[["Great_Rift_Valley", "Israel", "Science", "Physical_science"], ["Great_Rift_Valley", "Nairobi", "Science", "Physical_science"]]

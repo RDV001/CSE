@@ -1,0 +1,1 @@
+[["Rock_Pigeon", "Asia", "American_English", "Necktie"], ["Rock_Pigeon", "Europe", "Croatia", "Necktie"], ["Rock_Pigeon", "Istanbul", "Croatia", "Necktie"], ["Rock_Pigeon", "Italy", "Croatia", "Necktie"]]

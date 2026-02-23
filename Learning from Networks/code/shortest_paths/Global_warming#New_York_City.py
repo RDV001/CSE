@@ -1,0 +1,1 @@
+[["Global_warming", "Carbon_dioxide", "New_York_City"], ["Global_warming", "Kyoto_Protocol", "New_York_City"], ["Global_warming", "Tropical_cyclone", "New_York_City"], ["Global_warming", "United_States", "New_York_City"]]

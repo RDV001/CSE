@@ -1,0 +1,1 @@
+[["Corporate_finance", "Corporation", "Australia", "Flag_of_Australia"], ["Corporate_finance", "Gold", "Australia", "Flag_of_Australia"], ["Corporate_finance", "Mining", "Australia", "Flag_of_Australia"], ["Corporate_finance", "United_States", "List_of_sovereign_states", "Flag_of_Australia"]]

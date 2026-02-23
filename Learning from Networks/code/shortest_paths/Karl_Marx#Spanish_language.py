@@ -1,0 +1,1 @@
+[["Karl_Marx", "Cuba", "Spanish_language"], ["Karl_Marx", "Germany", "Spanish_language"], ["Karl_Marx", "Human", "Spanish_language"], ["Karl_Marx", "Internet", "Spanish_language"], ["Karl_Marx", "Nicaragua", "Spanish_language"], ["Karl_Marx", "Romania", "Spanish_language"]]

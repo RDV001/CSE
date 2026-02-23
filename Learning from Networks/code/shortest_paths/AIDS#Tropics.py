@@ -1,0 +1,1 @@
+[["AIDS", "C%C3%B4te_d%27Ivoire", "Tropics"], ["AIDS", "Malaria", "Tropics"], ["AIDS", "Sub-Saharan_Africa", "Tropics"]]

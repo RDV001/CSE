@@ -1,0 +1,1 @@
+[["SimCity", "Japan", "Japanese_war_crimes", "Women%27s_rights"], ["SimCity", "World_War_II", "Japanese_war_crimes", "Women%27s_rights"], ["SimCity", "Rio_de_Janeiro", "Poverty", "Women%27s_rights"], ["SimCity", "United_States", "Multiculturalism", "Women%27s_rights"]]

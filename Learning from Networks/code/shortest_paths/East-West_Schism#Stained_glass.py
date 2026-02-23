@@ -1,0 +1,1 @@
+[["East-West_Schism", "Bucharest", "Glass", "Stained_glass"], ["East-West_Schism", "Roman_Empire", "Sculpture", "Stained_glass"]]

@@ -1,0 +1,1 @@
+[["Swastika", "Gold", "List_of_elements_by_name", "Meitnerium"], ["Swastika", "Gold", "Periodic_table", "Meitnerium"]]

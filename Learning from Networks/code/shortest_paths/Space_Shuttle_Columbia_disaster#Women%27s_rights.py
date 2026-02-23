@@ -1,0 +1,1 @@
+[["Space_Shuttle_Columbia_disaster", "George_W._Bush", "Human_rights", "Women%27s_rights"], ["Space_Shuttle_Columbia_disaster", "Russia", "Human_rights", "Women%27s_rights"], ["Space_Shuttle_Columbia_disaster", "George_W._Bush", "Kofi_Annan", "Women%27s_rights"], ["Space_Shuttle_Columbia_disaster", "Hurricane_Katrina", "Poverty", "Women%27s_rights"]]

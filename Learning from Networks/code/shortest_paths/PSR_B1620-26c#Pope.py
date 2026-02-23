@@ -1,0 +1,1 @@
+[["PSR_B1620-26c", "Bible", "Byzantine_Empire", "Pope"], ["PSR_B1620-26c", "Bible", "Christianity", "Pope"], ["PSR_B1620-26c", "Bible", "Eastern_Orthodox_Church", "Pope"], ["PSR_B1620-26c", "Bible", "Roman_Catholic_Church", "Pope"], ["PSR_B1620-26c", "Hubble_Space_Telescope", "Munich", "Pope"], ["PSR_B1620-26c", "Milky_Way", "Rome", "Pope"]]

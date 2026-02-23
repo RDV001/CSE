@@ -1,0 +1,1 @@
+[["Weapon", "Soviet_Union", "Russian_Revolution_of_1917", "History_of_post-Soviet_Russia"], ["Weapon", "World_War_I", "Russian_Revolution_of_1917", "History_of_post-Soviet_Russia"]]

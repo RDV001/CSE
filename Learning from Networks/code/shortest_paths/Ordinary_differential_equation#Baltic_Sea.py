@@ -1,0 +1,1 @@
+[["Ordinary_differential_equation", "Gottfried_Leibniz", "Germany", "Baltic_Sea"], ["Ordinary_differential_equation", "Gottfried_Leibniz", "Poland", "Baltic_Sea"], ["Ordinary_differential_equation", "Gottfried_Leibniz", "World_War_II", "Baltic_Sea"], ["Ordinary_differential_equation", "Leonhard_Euler", "Russia", "Baltic_Sea"]]

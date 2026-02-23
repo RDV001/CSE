@@ -1,0 +1,1 @@
+[["Child", "Education", "Afghanistan", "Earthquake"], ["Child", "Education", "Geography", "Earthquake"], ["Child", "Law", "Geography", "Earthquake"], ["Child", "Law", "Sydney", "Earthquake"], ["Child", "Literacy", "Kerala", "Earthquake"], ["Child", "Literacy", "Pompeii", "Earthquake"], ["Child", "Tiger_Woods", "Pacific_Ocean", "Earthquake"]]

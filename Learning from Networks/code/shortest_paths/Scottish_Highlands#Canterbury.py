@@ -1,0 +1,1 @@
+[["Scottish_Highlands", "England", "Archbishop_of_Canterbury", "Canterbury"], ["Scottish_Highlands", "England", "Canute_the_Great", "Canterbury"], ["Scottish_Highlands", "England", "Church_of_England", "Canterbury"], ["Scottish_Highlands", "Scotland", "Church_of_England", "Canterbury"], ["Scottish_Highlands", "England", "Henry_Purcell", "Canterbury"]]

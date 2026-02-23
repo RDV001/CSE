@@ -1,0 +1,1 @@
+[["Gypsum", "Asia", "Automobile", "MINI_%28BMW%29"], ["Gypsum", "Germany", "Automobile", "MINI_%28BMW%29"]]

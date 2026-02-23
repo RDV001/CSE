@@ -1,0 +1,1 @@
+[["Economy_of_the_Republic_of_Ireland", "Minimum_wage", "Florida"], ["Economy_of_the_Republic_of_Ireland", "Train", "Florida"], ["Economy_of_the_Republic_of_Ireland", "United_States", "Florida"]]

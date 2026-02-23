@@ -1,0 +1,1 @@
+[["Denis_Law", "Manchester", "Coal", "Astrology"], ["Denis_Law", "Scotland", "Coal", "Astrology"], ["Denis_Law", "Scotland", "Religion", "Astrology"]]

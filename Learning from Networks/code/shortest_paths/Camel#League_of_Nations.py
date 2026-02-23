@@ -1,0 +1,1 @@
+[["Camel", "20th_century", "League_of_Nations"], ["Camel", "Ethiopia", "League_of_Nations"], ["Camel", "Jordan", "League_of_Nations"], ["Camel", "Namibia", "League_of_Nations"]]

@@ -1,0 +1,1 @@
+[["Hurricane_Mitch", "Belize", "Maya_civilization", "Venus"], ["Hurricane_Mitch", "Guatemala", "Maya_civilization", "Venus"], ["Hurricane_Mitch", "Mexico", "Maya_civilization", "Venus"], ["Hurricane_Mitch", "Gulf_of_Mexico", "Asteroid", "Venus"], ["Hurricane_Mitch", "Tropical_cyclone", "Cloud", "Venus"], ["Hurricane_Mitch", "United_States", "Moon", "Venus"]]

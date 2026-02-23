@@ -1,0 +1,1 @@
+[["Wallis_and_Futuna", "Banana", "Fruit", "Carrot"], ["Wallis_and_Futuna", "Coconut", "Fruit", "Carrot"], ["Wallis_and_Futuna", "Domestic_goat", "Soup", "Carrot"]]

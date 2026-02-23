@@ -1,0 +1,1 @@
+[["Algerian_Civil_War", "Chad", "Indonesia", "Krakatoa"], ["Algerian_Civil_War", "Islam", "Indonesia", "Krakatoa"], ["Algerian_Civil_War", "Paris", "Indonesia", "Krakatoa"], ["Algerian_Civil_War", "Petroleum", "Indonesia", "Krakatoa"], ["Algerian_Civil_War", "September_11%2C_2001_attacks", "Indonesia", "Krakatoa"], ["Algerian_Civil_War", "United_States", "Indonesia", "Krakatoa"]]

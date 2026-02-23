@@ -1,0 +1,1 @@
+[["Davis_Cup", "Great_Britain", "Viking", "Longship"], ["Davis_Cup", "London", "Viking", "Longship"], ["Davis_Cup", "Paris", "Viking", "Longship"], ["Davis_Cup", "Spain", "Viking", "Longship"], ["Davis_Cup", "Sweden", "Viking", "Longship"]]

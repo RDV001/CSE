@@ -1,0 +1,1 @@
+[["Tenzin_Gyatso%2C_14th_Dalai_Lama", "Mahatma_Gandhi", "Qur%27an"], ["Tenzin_Gyatso%2C_14th_Dalai_Lama", "Slavery", "Qur%27an"]]

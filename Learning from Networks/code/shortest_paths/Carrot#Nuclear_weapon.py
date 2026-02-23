@@ -1,0 +1,1 @@
+[["Carrot", "New_Zealand", "Nuclear_weapon"]]

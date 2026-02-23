@@ -1,0 +1,1 @@
+[["Liberal_Democrats", "London", "Glacier", "Precambrian"], ["Liberal_Democrats", "Northern_Ireland", "Geography_of_Ireland", "Precambrian"], ["Liberal_Democrats", "Northern_Ireland", "Granite", "Precambrian"], ["Liberal_Democrats", "Scotland", "Scottish_Highlands", "Precambrian"], ["Liberal_Democrats", "United_Kingdom", "Scottish_Highlands", "Precambrian"]]

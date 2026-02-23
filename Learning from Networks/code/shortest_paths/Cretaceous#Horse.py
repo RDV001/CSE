@@ -1,0 +1,1 @@
+[["Cretaceous", "Extinction", "Horse"], ["Cretaceous", "Mammal", "Horse"], ["Cretaceous", "Miocene", "Horse"]]

@@ -1,0 +1,1 @@
+[["Robert_Oppenheimer", "Soviet_Union", "Mir"]]

@@ -1,0 +1,1 @@
+[["14th_century", "15th_century", "Wars_of_the_Roses", "Rainbow"], ["14th_century", "Edward_III_of_England", "Wars_of_the_Roses", "Rainbow"], ["14th_century", "England", "Wars_of_the_Roses", "Rainbow"], ["14th_century", "Time", "Isaac_Newton", "Rainbow"], ["14th_century", "Time", "Light", "Rainbow"]]

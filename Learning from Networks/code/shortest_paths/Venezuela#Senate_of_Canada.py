@@ -1,0 +1,1 @@
+[["Venezuela", "Aruba", "Parliamentary_system", "Senate_of_Canada"], ["Venezuela", "Brazil", "Parliamentary_system", "Senate_of_Canada"], ["Venezuela", "List_of_countries_by_system_of_government", "Parliamentary_system", "Senate_of_Canada"], ["Venezuela", "Sweden", "Parliamentary_system", "Senate_of_Canada"]]

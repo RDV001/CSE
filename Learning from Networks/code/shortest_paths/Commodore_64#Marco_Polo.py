@@ -1,0 +1,1 @@
+[["Commodore_64", "Europe", "Ottoman_Empire", "Marco_Polo"], ["Commodore_64", "United_Kingdom", "Petroleum", "Marco_Polo"], ["Commodore_64", "United_States", "Petroleum", "Marco_Polo"], ["Commodore_64", "United_States_dollar", "Petroleum", "Marco_Polo"]]

@@ -1,0 +1,1 @@
+[["Tuvalu", "Europe", "Kiev", "Moldovans"], ["Tuvalu", "Europe", "Moldova", "Moldovans"], ["Tuvalu", "List_of_countries_by_system_of_government", "Moldova", "Moldovans"], ["Tuvalu", "Europe", "Ukraine", "Moldovans"], ["Tuvalu", "List_of_countries_by_system_of_government", "Ukraine", "Moldovans"]]

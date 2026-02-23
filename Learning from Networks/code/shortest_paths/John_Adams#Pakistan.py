@@ -1,0 +1,1 @@
+[["John_Adams", "Elizabeth_II_of_the_United_Kingdom", "Pakistan"]]

@@ -1,0 +1,1 @@
+[["Flamingo", "Cretaceous", "Atlantic_Ocean", "Bristol"], ["Flamingo", "Eocene", "Atlantic_Ocean", "Bristol"], ["Flamingo", "Cretaceous", "Great_Britain", "Bristol"], ["Flamingo", "Kenya", "England", "Bristol"], ["Flamingo", "Kenya", "Jamaica", "Bristol"]]

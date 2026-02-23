@@ -1,0 +1,1 @@
+[["God", "Islam", "8th_century", "Du_Fu"], ["God", "Marxism", "Mao_Zedong", "Du_Fu"], ["God", "Nature", "Poetry", "Du_Fu"], ["God", "Odin", "Poetry", "Du_Fu"]]

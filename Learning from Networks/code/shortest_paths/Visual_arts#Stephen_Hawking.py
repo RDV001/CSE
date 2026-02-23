@@ -1,0 +1,1 @@
+[["Visual_arts", "Film", "21st_century", "Stephen_Hawking"], ["Visual_arts", "Light", "Galileo_Galilei", "Stephen_Hawking"], ["Visual_arts", "United_Kingdom", "England", "Stephen_Hawking"], ["Visual_arts", "United_Kingdom", "University_of_Cambridge", "Stephen_Hawking"]]

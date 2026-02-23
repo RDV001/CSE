@@ -1,0 +1,1 @@
+[["Wikimedia_Foundation", "Employment", "Capitalism"], ["Wikimedia_Foundation", "Industry", "Capitalism"], ["Wikimedia_Foundation", "United_States", "Capitalism"]]

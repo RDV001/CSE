@@ -1,0 +1,1 @@
+[["Ozone_depletion", "Chlorine", "Medicine", "Anatomy"], ["Ozone_depletion", "Oxygen", "Medicine", "Anatomy"], ["Ozone_depletion", "Earth%27s_atmosphere", "Evolution", "Anatomy"], ["Ozone_depletion", "Nitrogen", "Biology", "Anatomy"]]

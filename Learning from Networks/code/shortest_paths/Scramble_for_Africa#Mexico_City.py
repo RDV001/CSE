@@ -1,0 +1,1 @@
+[["Scramble_for_Africa", "Berlin", "Mexico_City"], ["Scramble_for_Africa", "Latin_America", "Mexico_City"]]

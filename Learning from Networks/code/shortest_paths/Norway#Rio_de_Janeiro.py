@@ -1,0 +1,1 @@
+[["Norway", "Atlantic_Ocean", "Rio_de_Janeiro"], ["Norway", "United_Nations", "Rio_de_Janeiro"]]

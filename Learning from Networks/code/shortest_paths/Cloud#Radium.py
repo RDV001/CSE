@@ -1,0 +1,1 @@
+[["Cloud", "Ammonia", "Barium", "Radium"], ["Cloud", "Ammonia", "Coal", "Radium"], ["Cloud", "Sulfuric_acid", "Coal", "Radium"]]

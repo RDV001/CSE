@@ -1,0 +1,1 @@
+[["David_Hume", "Edinburgh", "Football_%28soccer%29"], ["David_Hume", "Paris", "Football_%28soccer%29"], ["David_Hume", "Scotland", "Football_%28soccer%29"]]

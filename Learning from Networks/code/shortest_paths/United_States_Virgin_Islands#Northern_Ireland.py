@@ -1,0 +1,1 @@
+[["United_States_Virgin_Islands", "English_language", "Northern_Ireland"], ["United_States_Virgin_Islands", "Europe", "Northern_Ireland"], ["United_States_Virgin_Islands", "George_W._Bush", "Northern_Ireland"]]

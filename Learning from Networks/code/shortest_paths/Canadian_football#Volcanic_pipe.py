@@ -1,0 +1,1 @@
+[["Canadian_football", "French_language", "Africa", "Diamond", "Volcanic_pipe"], ["Canadian_football", "French_language", "Central_African_Republic", "Diamond", "Volcanic_pipe"], ["Canadian_football", "French_language", "Democratic_Republic_of_the_Congo", "Diamond", "Volcanic_pipe"]]

@@ -1,0 +1,1 @@
+[["Jordan_River", "Dam", "Manganese"]]

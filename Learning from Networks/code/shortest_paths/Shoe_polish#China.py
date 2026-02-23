@@ -1,0 +1,1 @@
+[["Shoe_polish", "Banana", "China"], ["Shoe_polish", "France", "China"], ["Shoe_polish", "Japan", "China"], ["Shoe_polish", "Philadelphia", "China"], ["Shoe_polish", "South_Africa", "China"], ["Shoe_polish", "United_States", "China"], ["Shoe_polish", "Water", "China"], ["Shoe_polish", "World_War_I", "China"], ["Shoe_polish", "World_War_II", "China"]]

@@ -1,0 +1,1 @@
+[["Petroleum", "Germany", "The_Holocaust", "Witold_Pilecki"], ["Petroleum", "Nazi_Germany", "The_Holocaust", "Witold_Pilecki"], ["Petroleum", "Poland", "The_Holocaust", "Witold_Pilecki"], ["Petroleum", "World_War_II", "The_Holocaust", "Witold_Pilecki"], ["Petroleum", "World_War_II", "Armia_Krajowa", "Witold_Pilecki"]]

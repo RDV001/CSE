@@ -1,0 +1,1 @@
+[["Al_Jazeera", "Athens", "Paris"], ["Al_Jazeera", "Berlin", "Paris"], ["Al_Jazeera", "Buenos_Aires", "Paris"], ["Al_Jazeera", "London", "Paris"], ["Al_Jazeera", "Syria", "Paris"]]

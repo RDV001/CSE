@@ -1,0 +1,1 @@
+[["God", "Marxism", "Karl_Marx"], ["God", "Philosophy", "Karl_Marx"]]

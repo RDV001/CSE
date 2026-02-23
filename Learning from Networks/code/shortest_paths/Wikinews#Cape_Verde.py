@@ -1,0 +1,1 @@
+[["Wikinews", "Portuguese_language", "Cape_Verde"]]

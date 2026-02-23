@@ -1,0 +1,1 @@
+[["16th_century", "Germany", "Adolf_Hitler"], ["16th_century", "Hungary", "Adolf_Hitler"], ["16th_century", "Italy", "Adolf_Hitler"], ["16th_century", "Martin_Luther", "Adolf_Hitler"], ["16th_century", "Spain", "Adolf_Hitler"]]

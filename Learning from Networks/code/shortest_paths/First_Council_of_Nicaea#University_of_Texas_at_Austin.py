@@ -1,0 +1,1 @@
+[["First_Council_of_Nicaea", "Georgia_%28country%29", "George_W._Bush", "University_of_Texas_at_Austin"]]

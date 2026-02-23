@@ -1,0 +1,1 @@
+[["Windows_Vista", "European_Union", "German_language", "Amish"], ["Windows_Vista", "European_Union", "Peace", "Amish"]]

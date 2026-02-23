@@ -1,0 +1,1 @@
+[["Bosnia_and_Herzegovina", "Adolf_Hitler", "Swastika", "Scouting"], ["Bosnia_and_Herzegovina", "Nazi_Germany", "Swastika", "Scouting"], ["Bosnia_and_Herzegovina", "Latin", "The_Adventures_of_Tintin", "Scouting"], ["Bosnia_and_Herzegovina", "United_Kingdom", "Kylie_Minogue", "Scouting"]]

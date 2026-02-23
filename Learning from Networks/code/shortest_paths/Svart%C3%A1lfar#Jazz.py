@@ -1,0 +1,1 @@
+[["Svart%C3%A1lfar", "German_language", "20th_century", "Jazz"], ["Svart%C3%A1lfar", "German_language", "Argentina", "Jazz"], ["Svart%C3%A1lfar", "German_language", "Chicago", "Jazz"], ["Svart%C3%A1lfar", "German_language", "United_States", "Jazz"], ["Svart%C3%A1lfar", "Norse_mythology", "United_States", "Jazz"]]

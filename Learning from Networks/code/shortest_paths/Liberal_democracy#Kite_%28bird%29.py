@@ -1,0 +1,1 @@
+[["Liberal_democracy", "Europe", "Hawk", "Kite_%28bird%29"], ["Liberal_democracy", "New_Zealand", "Bird_of_prey", "Kite_%28bird%29"]]

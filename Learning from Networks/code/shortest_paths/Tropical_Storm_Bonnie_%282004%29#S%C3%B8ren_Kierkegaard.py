@@ -1,0 +1,1 @@
+[["Tropical_Storm_Bonnie_%282004%29", "George_W._Bush", "Philosophy", "S%C3%B8ren_Kierkegaard"], ["Tropical_Storm_Bonnie_%282004%29", "United_States", "Denmark", "S%C3%B8ren_Kierkegaard"], ["Tropical_Storm_Bonnie_%282004%29", "United_States_Virgin_Islands", "Denmark", "S%C3%B8ren_Kierkegaard"]]

@@ -1,0 +1,1 @@
+[["Lhasa", "Austria", "Ancient_Rome", "Edward_Gibbon"], ["Lhasa", "Copper", "Ancient_Rome", "Edward_Gibbon"], ["Lhasa", "Lead", "Ancient_Rome", "Edward_Gibbon"], ["Lhasa", "Zinc", "Ancient_Rome", "Edward_Gibbon"], ["Lhasa", "China", "Civilization", "Edward_Gibbon"], ["Lhasa", "China", "Roman_Empire", "Edward_Gibbon"], ["Lhasa", "Lead", "Roman_Empire", "Edward_Gibbon"]]

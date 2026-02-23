@@ -1,0 +1,1 @@
+[["Avalanche", "Canada", "Hurricane_Katrina", "2005_Atlantic_hurricane_season", "2003_Atlantic_hurricane_season"], ["Avalanche", "Wind", "Tropical_cyclone", "2005_Atlantic_hurricane_season", "2003_Atlantic_hurricane_season"], ["Avalanche", "United_States", "The_Bahamas", "2004_Atlantic_hurricane_season", "2003_Atlantic_hurricane_season"]]

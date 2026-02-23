@@ -1,0 +1,1 @@
+[["World_War_I", "Communism", "Nepal"], ["World_War_I", "Georgia_%28country%29", "Nepal"], ["World_War_I", "India", "Nepal"], ["World_War_I", "Karl_Marx", "Nepal"], ["World_War_I", "Marxism", "Nepal"], ["World_War_I", "Turkey", "Nepal"]]

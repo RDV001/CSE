@@ -1,0 +1,1 @@
+[["Agnosticism", "Bertrand_Russell", "Geometry", "Symmetry"], ["Agnosticism", "Philosophy", "Geometry", "Symmetry"], ["Agnosticism", "Religion", "Geometry", "Symmetry"], ["Agnosticism", "Philosophy", "Aesthetics", "Symmetry"]]

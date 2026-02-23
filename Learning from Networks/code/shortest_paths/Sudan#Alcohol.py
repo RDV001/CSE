@@ -1,0 +1,1 @@
+[["Sudan", "Arabic_language", "Alcohol"], ["Sudan", "Iran", "Alcohol"], ["Sudan", "Islam", "Alcohol"], ["Sudan", "Turkey", "Alcohol"]]

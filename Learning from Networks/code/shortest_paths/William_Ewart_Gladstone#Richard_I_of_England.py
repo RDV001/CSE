@@ -1,0 +1,1 @@
+[["William_Ewart_Gladstone", "England", "Richard_I_of_England"]]

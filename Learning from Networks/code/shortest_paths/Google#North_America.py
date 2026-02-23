@@ -1,0 +1,1 @@
+[["Google", "California", "North_America"], ["Google", "Cereal", "North_America"], ["Google", "France", "North_America"], ["Google", "Industry", "North_America"], ["Google", "Internet", "North_America"], ["Google", "New_York_City", "North_America"], ["Google", "United_States", "North_America"]]

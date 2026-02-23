@@ -1,0 +1,1 @@
+[["Oregano", "Binomial_nomenclature", "Sweden", "Nuclear_fission"], ["Oregano", "Carolus_Linnaeus", "Sweden", "Nuclear_fission"], ["Oregano", "Europe", "Sweden", "Nuclear_fission"], ["Oregano", "Greece", "Sweden", "Nuclear_fission"]]

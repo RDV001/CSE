@@ -1,0 +1,1 @@
+[["Stephen_Harper", "George_W._Bush", "England"], ["Stephen_Harper", "Montreal", "England"], ["Stephen_Harper", "The_Beatles", "England"]]

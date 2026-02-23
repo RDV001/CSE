@@ -1,0 +1,1 @@
+[["Mozilla_Firefox", "Europe", "Earth", "Solar_System"], ["Mozilla_Firefox", "Germany", "Gottfried_Leibniz", "Solar_System"], ["Mozilla_Firefox", "Germany", "Johannes_Kepler", "Solar_System"], ["Mozilla_Firefox", "Gmail", "Moon", "Solar_System"], ["Mozilla_Firefox", "Google", "Moon", "Solar_System"]]

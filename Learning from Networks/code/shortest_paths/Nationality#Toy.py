@@ -1,0 +1,1 @@
+[["Nationality", "Australia", "Asia", "Toy"], ["Nationality", "Culture", "Asia", "Toy"], ["Nationality", "Europe", "Asia", "Toy"], ["Nationality", "Nationalism", "Asia", "Toy"], ["Nationality", "Slavery", "Asia", "Toy"], ["Nationality", "Soviet_Union", "Asia", "Toy"], ["Nationality", "Nationalism", "Newspaper", "Toy"], ["Nationality", "United_States", "Computer", "Toy"]]

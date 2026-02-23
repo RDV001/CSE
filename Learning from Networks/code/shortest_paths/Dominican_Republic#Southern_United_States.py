@@ -1,0 +1,1 @@
+[["Dominican_Republic", "New_York_City", "Southern_United_States"], ["Dominican_Republic", "South_America", "Southern_United_States"], ["Dominican_Republic", "United_States", "Southern_United_States"]]

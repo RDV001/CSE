@@ -1,0 +1,1 @@
+[["Diamond_simulant", "Japan", "Nintendo", "The_Legend_of_Zelda_series"], ["Diamond_simulant", "Sri_Lanka", "Rupee", "The_Legend_of_Zelda_series"]]

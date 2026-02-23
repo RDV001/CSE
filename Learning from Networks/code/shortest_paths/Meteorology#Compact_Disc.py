@@ -1,0 +1,1 @@
+[["Meteorology", "20th_century", "Internet", "Compact_Disc"], ["Meteorology", "20th_century", "Mass_media", "Compact_Disc"], ["Meteorology", "Global_warming", "Mass_media", "Compact_Disc"], ["Meteorology", "Earth", "Aluminium", "Compact_Disc"], ["Meteorology", "Japan", "Sony", "Compact_Disc"], ["Meteorology", "Latin", "The_Adventures_of_Tintin", "Compact_Disc"]]

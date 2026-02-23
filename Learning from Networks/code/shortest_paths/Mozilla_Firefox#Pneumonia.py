@@ -1,0 +1,1 @@
+[["Mozilla_Firefox", "Germany", "Friedrich_Nietzsche", "Pneumonia"], ["Mozilla_Firefox", "Germany", "Max_Weber", "Pneumonia"], ["Mozilla_Firefox", "Germany", "World_War_I", "Pneumonia"]]

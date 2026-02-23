@@ -1,0 +1,1 @@
+[["North_Sea", "Edinburgh", "Coal", "Roman_villa"], ["North_Sea", "Germany", "Coal", "Roman_villa"], ["North_Sea", "Norway", "Coal", "Roman_villa"], ["North_Sea", "Scotland", "Coal", "Roman_villa"], ["North_Sea", "English_Channel", "Ancient_Rome", "Roman_villa"], ["North_Sea", "Great_Britain", "Ancient_Rome", "Roman_villa"]]

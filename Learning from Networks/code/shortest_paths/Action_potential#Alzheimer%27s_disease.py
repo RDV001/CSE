@@ -1,0 +1,1 @@
+[["Action_potential", "Calcium", "Aluminium", "Alzheimer%27s_disease"], ["Action_potential", "Multiple_sclerosis", "Pneumonia", "Alzheimer%27s_disease"], ["Action_potential", "Multiple_sclerosis", "Tobacco_smoking", "Alzheimer%27s_disease"], ["Action_potential", "Whale", "Brain", "Alzheimer%27s_disease"]]

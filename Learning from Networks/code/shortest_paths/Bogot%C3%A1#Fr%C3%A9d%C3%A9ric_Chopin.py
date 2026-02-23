@@ -1,0 +1,1 @@
+[["Bogot%C3%A1", "Athens", "Poland", "Fr%C3%A9d%C3%A9ric_Chopin"], ["Bogot%C3%A1", "Athens", "Warsaw", "Fr%C3%A9d%C3%A9ric_Chopin"], ["Bogot%C3%A1", "Venezuela", "19th_century", "Fr%C3%A9d%C3%A9ric_Chopin"], ["Bogot%C3%A1", "Venezuela", "Romanticism", "Fr%C3%A9d%C3%A9ric_Chopin"]]

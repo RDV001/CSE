@@ -1,0 +1,1 @@
+[["El_Salvador", "Communism", "Politics", "Force"], ["El_Salvador", "Liberalism", "Politics", "Force"], ["El_Salvador", "Honduras", "Electricity", "Force"], ["El_Salvador", "Mexico", "Electricity", "Force"], ["El_Salvador", "Infrastructure", "Bridge", "Force"], ["El_Salvador", "Liberalism", "Revolution", "Force"]]

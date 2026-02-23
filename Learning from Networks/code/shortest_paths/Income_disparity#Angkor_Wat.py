@@ -1,0 +1,1 @@
+[["Income_disparity", "Malaysia", "Cambodia", "Angkor_Wat"], ["Income_disparity", "Thailand", "Cambodia", "Angkor_Wat"], ["Income_disparity", "Vietnam", "Cambodia", "Angkor_Wat"], ["Income_disparity", "Thailand", "Angkor", "Angkor_Wat"]]

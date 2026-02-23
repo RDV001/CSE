@@ -1,0 +1,1 @@
+[["Bob_Dylan", "England", "Scotland"], ["Bob_Dylan", "Europe", "Scotland"], ["Bob_Dylan", "Folk_music", "Scotland"], ["Bob_Dylan", "Vancouver", "Scotland"]]

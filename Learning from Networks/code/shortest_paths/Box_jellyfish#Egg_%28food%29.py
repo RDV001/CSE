@@ -1,0 +1,1 @@
+[["Box_jellyfish", "Meat", "Egg_%28food%29"]]

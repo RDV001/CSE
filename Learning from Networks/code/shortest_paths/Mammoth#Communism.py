@@ -1,0 +1,1 @@
+[["Mammoth", "Asia", "Communism"], ["Mammoth", "Europe", "Communism"], ["Mammoth", "Libya", "Communism"], ["Mammoth", "United_States", "Communism"], ["Mammoth", "World_War_II", "Communism"]]

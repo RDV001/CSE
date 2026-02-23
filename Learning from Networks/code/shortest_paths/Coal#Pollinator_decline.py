@@ -1,0 +1,1 @@
+[["Coal", "Arsenic", "Insect", "Pollinator_decline"], ["Coal", "Carboniferous", "Insect", "Pollinator_decline"], ["Coal", "Cretaceous", "Insect", "Pollinator_decline"], ["Coal", "Cretaceous", "Bee", "Pollinator_decline"], ["Coal", "Cretaceous", "Ecology", "Pollinator_decline"]]

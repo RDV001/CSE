@@ -1,0 +1,1 @@
+[["Michael_Jordan", "Geography", "Petroleum", "Ethanol"], ["Michael_Jordan", "United_States", "Petroleum", "Ethanol"], ["Michael_Jordan", "Geography", "Water", "Ethanol"], ["Michael_Jordan", "United_States", "Agriculture", "Ethanol"]]

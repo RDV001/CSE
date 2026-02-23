@@ -1,0 +1,1 @@
+[["Voltaire", "Catherine_II_of_Russia", "Europe", "Fox", "Bat-eared_Fox"], ["Voltaire", "Christianity", "Europe", "Fox", "Bat-eared_Fox"], ["Voltaire", "Civil_rights", "Europe", "Fox", "Bat-eared_Fox"], ["Voltaire", "Jesus", "Europe", "Fox", "Bat-eared_Fox"], ["Voltaire", "Jew", "Europe", "Fox", "Bat-eared_Fox"], ["Voltaire", "Paris", "Europe", "Fox", "Bat-eared_Fox"]]

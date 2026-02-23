@@ -1,0 +1,1 @@
+[["Owl", "Ancient_Rome", "Silver", "Vampire"], ["Owl", "Maya_civilization", "Silver", "Vampire"], ["Owl", "Bird", "Tuberculosis", "Vampire"], ["Owl", "Henry_David_Thoreau", "Tuberculosis", "Vampire"], ["Owl", "Greek_mythology", "George_Byron%2C_6th_Baron_Byron", "Vampire"], ["Owl", "Mammal", "Bat", "Vampire"]]

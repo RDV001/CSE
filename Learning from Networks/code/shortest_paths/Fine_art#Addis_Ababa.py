@@ -1,0 +1,1 @@
+[["Fine_art", "Philosophy", "Africa", "Addis_Ababa"]]

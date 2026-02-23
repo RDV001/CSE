@@ -1,0 +1,1 @@
+[["Ordination_of_women", "11th_century", "10th_century"], ["Ordination_of_women", "Vietnam", "10th_century"]]

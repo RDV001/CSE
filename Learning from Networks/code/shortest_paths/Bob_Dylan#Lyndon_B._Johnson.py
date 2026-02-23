@@ -1,0 +1,1 @@
+[["Bob_Dylan", "Civil_rights", "Lyndon_B._Johnson"], ["Bob_Dylan", "John_F._Kennedy", "Lyndon_B._Johnson"], ["Bob_Dylan", "Martin_Luther_King%2C_Jr.", "Lyndon_B._Johnson"]]

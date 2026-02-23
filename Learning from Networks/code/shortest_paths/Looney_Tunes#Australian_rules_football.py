@@ -1,0 +1,1 @@
+[["Looney_Tunes", "Charles_Dickens", "Australia", "Australian_rules_football"], ["Looney_Tunes", "Donald_Duck", "Australia", "Australian_rules_football"], ["Looney_Tunes", "Jew", "Australia", "Australian_rules_football"], ["Looney_Tunes", "Nintendo_Entertainment_System", "Australia", "Australian_rules_football"]]

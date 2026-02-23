@@ -1,0 +1,1 @@
+[["Kenya", "20th_century", "Communism"], ["Kenya", "Europe", "Communism"], ["Kenya", "Libya", "Communism"], ["Kenya", "United_States", "Communism"], ["Kenya", "Winston_Churchill", "Communism"], ["Kenya", "World_War_I", "Communism"], ["Kenya", "Yemen", "Communism"]]

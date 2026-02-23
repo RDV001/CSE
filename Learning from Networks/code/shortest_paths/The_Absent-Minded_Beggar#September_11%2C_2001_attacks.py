@@ -1,0 +1,1 @@
+[["The_Absent-Minded_Beggar", "Rudyard_Kipling", "BBC", "September_11%2C_2001_attacks"], ["The_Absent-Minded_Beggar", "Rudyard_Kipling", "Pakistan", "September_11%2C_2001_attacks"], ["The_Absent-Minded_Beggar", "Rudyard_Kipling", "Seattle%2C_Washington", "September_11%2C_2001_attacks"], ["The_Absent-Minded_Beggar", "Rudyard_Kipling", "Singapore", "September_11%2C_2001_attacks"]]

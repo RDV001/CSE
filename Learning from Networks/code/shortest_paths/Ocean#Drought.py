@@ -1,0 +1,1 @@
+[["Ocean", "Earth", "Drought"], ["Ocean", "Great_Salt_Lake", "Drought"], ["Ocean", "Tropical_cyclone", "Drought"]]

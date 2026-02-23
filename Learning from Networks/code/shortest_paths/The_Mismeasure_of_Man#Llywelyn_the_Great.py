@@ -1,0 +1,1 @@
+[["The_Mismeasure_of_Man", "Charles_Darwin", "Wales", "Welsh_law", "Llywelyn_the_Great"], ["The_Mismeasure_of_Man", "Plato", "Oligarchy", "John_of_England", "Llywelyn_the_Great"], ["The_Mismeasure_of_Man", "United_States", "United_States_Bill_of_Rights", "John_of_England", "Llywelyn_the_Great"]]

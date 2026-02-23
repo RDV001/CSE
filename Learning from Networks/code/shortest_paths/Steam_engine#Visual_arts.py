@@ -1,0 +1,1 @@
+[["Steam_engine", "Germany", "Medicine", "Visual_arts"], ["Steam_engine", "Gottfried_Leibniz", "Medicine", "Visual_arts"], ["Steam_engine", "Sweden", "Film", "Visual_arts"], ["Steam_engine", "World_War_II", "Bucharest", "Visual_arts"]]

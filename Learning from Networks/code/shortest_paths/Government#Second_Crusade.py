@@ -1,0 +1,1 @@
+[["Government", "Despotism", "Byzantine_Empire", "Second_Crusade"], ["Government", "Law", "Byzantine_Empire", "Second_Crusade"], ["Government", "Despotism", "Manuel_I_Komnenos", "Second_Crusade"]]

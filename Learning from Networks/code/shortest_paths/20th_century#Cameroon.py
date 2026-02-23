@@ -1,0 +1,1 @@
+[["20th_century", "AIDS", "Cameroon"], ["20th_century", "Africa", "Cameroon"], ["20th_century", "Tobacco_smoking", "Cameroon"], ["20th_century", "United_States", "Cameroon"]]

@@ -1,0 +1,1 @@
+[["Floppy_disk", "Sinclair_Research_Ltd", "Spain"], ["Floppy_disk", "Solar_eclipse", "Spain"]]

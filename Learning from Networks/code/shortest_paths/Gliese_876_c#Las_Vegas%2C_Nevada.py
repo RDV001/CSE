@@ -1,0 +1,1 @@
+[["Gliese_876_c", "Day", "United_States", "Las_Vegas%2C_Nevada"], ["Gliese_876_c", "Sun", "United_States", "Las_Vegas%2C_Nevada"]]

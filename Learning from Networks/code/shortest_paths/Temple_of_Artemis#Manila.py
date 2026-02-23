@@ -1,0 +1,1 @@
+[["Temple_of_Artemis", "18th_century", "Pacific_Ocean", "Manila"], ["Temple_of_Artemis", "Christianity", "Philippines", "Manila"], ["Temple_of_Artemis", "Turkey", "Philippines", "Manila"], ["Temple_of_Artemis", "Latin", "Spanish_language", "Manila"], ["Temple_of_Artemis", "Sculpture", "Asia", "Manila"], ["Temple_of_Artemis", "Turkey", "Asia", "Manila"]]

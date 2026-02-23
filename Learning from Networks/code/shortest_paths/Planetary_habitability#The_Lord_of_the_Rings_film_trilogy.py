@@ -1,0 +1,1 @@
+[["Planetary_habitability", "Mercury_%28planet%29", "New_Zealand", "The_Lord_of_the_Rings_film_trilogy"], ["Planetary_habitability", "Plate_tectonics", "New_Zealand", "The_Lord_of_the_Rings_film_trilogy"], ["Planetary_habitability", "Volcano", "New_Zealand", "The_Lord_of_the_Rings_film_trilogy"]]

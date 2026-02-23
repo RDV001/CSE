@@ -1,0 +1,1 @@
+[["Rwandan_Genocide", "Israel", "Jerusalem"], ["Rwandan_Genocide", "Tel_Aviv", "Jerusalem"], ["Rwandan_Genocide", "World_War_I", "Jerusalem"]]

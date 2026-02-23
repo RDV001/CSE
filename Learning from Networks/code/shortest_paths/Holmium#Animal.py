@@ -1,0 +1,1 @@
+[["Holmium", "Calcium", "Animal"], ["Holmium", "Earth", "Animal"], ["Holmium", "Human", "Animal"], ["Holmium", "Nature", "Animal"]]

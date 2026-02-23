@@ -1,0 +1,1 @@
+[["Trafalgar_Square", "Nuclear_weapon", "North_Korea"], ["Trafalgar_Square", "United_States", "North_Korea"], ["Trafalgar_Square", "World_War_II", "North_Korea"]]

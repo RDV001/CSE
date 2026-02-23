@@ -1,0 +1,1 @@
+[["Diamond_simulant", "Copper", "Coin"], ["Diamond_simulant", "Gold", "Coin"]]

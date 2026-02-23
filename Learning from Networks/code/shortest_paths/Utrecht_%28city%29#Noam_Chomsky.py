@@ -1,0 +1,1 @@
+[["Utrecht_%28city%29", "Middle_Ages", "Capitalism", "Noam_Chomsky"], ["Utrecht_%28city%29", "Netherlands", "Capitalism", "Noam_Chomsky"], ["Utrecht_%28city%29", "Roman_Catholic_Church", "Propaganda", "Noam_Chomsky"], ["Utrecht_%28city%29", "Roman_Empire", "Philosophy", "Noam_Chomsky"], ["Utrecht_%28city%29", "World_War_II", "Election", "Noam_Chomsky"]]

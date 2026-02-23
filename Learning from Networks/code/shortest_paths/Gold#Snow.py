@@ -1,0 +1,1 @@
+[["Gold", "South_Africa", "Snow"]]

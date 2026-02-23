@@ -1,0 +1,1 @@
+[["Amish", "Electricity", "Electric_field"]]

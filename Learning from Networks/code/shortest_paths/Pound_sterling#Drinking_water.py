@@ -1,0 +1,1 @@
+[["Pound_sterling", "Sweden", "Drinking_water"]]

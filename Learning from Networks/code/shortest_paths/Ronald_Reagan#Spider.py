@@ -1,0 +1,1 @@
+[["Ronald_Reagan", "Europe", "Carnivore", "Spider"], ["Ronald_Reagan", "International_Court_of_Justice", "New_Zealand", "Spider"], ["Ronald_Reagan", "Vietnam_War", "New_Zealand", "Spider"], ["Ronald_Reagan", "Nicaragua", "Monkey", "Spider"]]

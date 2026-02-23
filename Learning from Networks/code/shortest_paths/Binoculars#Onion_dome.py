@@ -1,0 +1,1 @@
+[["Binoculars", "Symmetry", "Taj_Mahal", "Onion_dome"], ["Binoculars", "World_War_II", "Moscow", "Onion_dome"]]

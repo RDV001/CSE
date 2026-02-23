@@ -1,0 +1,1 @@
+[["National_Hockey_League", "Chicago", "Roman_Catholic_Church"], ["National_Hockey_League", "Florida", "Roman_Catholic_Church"]]

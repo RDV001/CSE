@@ -1,0 +1,1 @@
+[["Andorra", "Canada", "Irish_people"], ["Andorra", "Chile", "Irish_people"], ["Andorra", "Mexico", "Irish_people"], ["Andorra", "United_States", "Irish_people"]]

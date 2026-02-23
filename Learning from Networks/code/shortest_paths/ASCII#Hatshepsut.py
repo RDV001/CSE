@@ -1,0 +1,1 @@
+[["ASCII", "Computer", "Middle_Ages", "Egypt", "Hatshepsut"]]

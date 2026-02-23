@@ -1,0 +1,1 @@
+[["Spanish_conquest_of_the_Inca_Empire", "Argentina", "Gold"], ["Spanish_conquest_of_the_Inca_Empire", "Chile", "Gold"], ["Spanish_conquest_of_the_Inca_Empire", "Quito", "Gold"], ["Spanish_conquest_of_the_Inca_Empire", "Silver", "Gold"]]

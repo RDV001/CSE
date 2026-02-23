@@ -1,0 +1,1 @@
+[["Friedrich_Nietzsche", "Poetry", "Dr._Seuss"]]

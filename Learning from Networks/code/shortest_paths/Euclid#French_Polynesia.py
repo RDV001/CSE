@@ -1,0 +1,1 @@
+[["Euclid", "Greece", "List_of_countries", "French_Polynesia"], ["Euclid", "Mathematics", "French_language", "French_Polynesia"]]

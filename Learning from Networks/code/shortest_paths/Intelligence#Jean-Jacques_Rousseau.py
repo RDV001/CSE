@@ -1,0 +1,1 @@
+[["Intelligence", "Mind", "Philosophy", "Jean-Jacques_Rousseau"], ["Intelligence", "Psychology", "Philosophy", "Jean-Jacques_Rousseau"], ["Intelligence", "Psychology", "Auguste_Rodin", "Jean-Jacques_Rousseau"], ["Intelligence", "Psychology", "Education", "Jean-Jacques_Rousseau"], ["Intelligence", "The_Mismeasure_of_Man", "Thomas_Jefferson", "Jean-Jacques_Rousseau"]]

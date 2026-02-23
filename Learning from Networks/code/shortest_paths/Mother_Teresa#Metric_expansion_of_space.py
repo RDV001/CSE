@@ -1,0 +1,1 @@
+[["Mother_Teresa", "Islam", "Astronomy", "Metric_expansion_of_space"], ["Mother_Teresa", "Roman_Catholic_Church", "Astronomy", "Metric_expansion_of_space"], ["Mother_Teresa", "Roman_Catholic_Church", "Big_Bang", "Metric_expansion_of_space"]]

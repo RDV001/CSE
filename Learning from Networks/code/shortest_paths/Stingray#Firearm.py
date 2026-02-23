@@ -1,0 +1,1 @@
+[["Stingray", "Africa", "Scramble_for_Africa", "Firearm"]]

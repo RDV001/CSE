@@ -1,0 +1,1 @@
+[["Telescope", "Chile", "Ecuador", "Peanut"], ["Telescope", "Earth", "Ecuador", "Peanut"], ["Telescope", "Chile", "Peru", "Peanut"], ["Telescope", "Earth", "Food", "Peanut"], ["Telescope", "Japan", "Wasabi", "Peanut"]]

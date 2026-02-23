@@ -1,0 +1,1 @@
+[["African_slave_trade", "Scramble_for_Africa", "Richard_Francis_Burton"]]

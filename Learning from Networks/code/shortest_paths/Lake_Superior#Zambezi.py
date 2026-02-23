@@ -1,0 +1,1 @@
+[["Lake_Superior", "Copper", "Zambia", "Zambezi"], ["Lake_Superior", "Lake_Tanganyika", "Zambia", "Zambezi"], ["Lake_Superior", "Fresh_water", "River", "Zambezi"], ["Lake_Superior", "Mineral", "Dead_Sea", "Zambezi"]]

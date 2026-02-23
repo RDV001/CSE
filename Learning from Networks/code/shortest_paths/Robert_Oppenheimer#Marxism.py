@@ -1,0 +1,1 @@
+[["Robert_Oppenheimer", "Communism", "Marxism"], ["Robert_Oppenheimer", "Fascism", "Marxism"], ["Robert_Oppenheimer", "World_War_I", "Marxism"]]

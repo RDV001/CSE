@@ -1,0 +1,1 @@
+[["Cheers", "Boston%2C_Massachusetts", "Global_city", "Tashkent"], ["Cheers", "Ice_hockey", "Kazakhstan", "Tashkent"], ["Cheers", "Netherlands", "Kazakhstan", "Tashkent"], ["Cheers", "Kansas_City%2C_Missouri", "Asia", "Tashkent"], ["Cheers", "Netherlands", "Asia", "Tashkent"]]

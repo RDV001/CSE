@@ -1,0 +1,1 @@
+[["The_Legend_of_Zelda_series", "Computer_and_video_games", "France"], ["The_Legend_of_Zelda_series", "Nintendo", "France"]]

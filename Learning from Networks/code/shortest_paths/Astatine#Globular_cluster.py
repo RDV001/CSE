@@ -1,0 +1,1 @@
+[["Astatine", "Magnetism", "Star", "Globular_cluster"], ["Astatine", "Phase_%28matter%29", "Star", "Globular_cluster"], ["Astatine", "Metal", "Astronomy", "Globular_cluster"], ["Astatine", "Phase_%28matter%29", "Big_Bang", "Globular_cluster"]]

@@ -1,0 +1,1 @@
+[["Timur", "Babur", "River", "Columbia_River"], ["Timur", "China", "River", "Columbia_River"], ["Timur", "Delhi", "River", "Columbia_River"], ["Timur", "Ganges_River", "River", "Columbia_River"], ["Timur", "Indus_River", "River", "Columbia_River"]]

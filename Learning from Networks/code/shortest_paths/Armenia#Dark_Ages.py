@@ -1,0 +1,1 @@
+[["Armenia", "Ancient_Rome", "Dark_Ages"], ["Armenia", "Bosnia_and_Herzegovina", "Dark_Ages"], ["Armenia", "Europe", "Dark_Ages"], ["Armenia", "Middle_Ages", "Dark_Ages"], ["Armenia", "Spain", "Dark_Ages"]]

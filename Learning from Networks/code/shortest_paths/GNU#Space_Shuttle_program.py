@@ -1,0 +1,1 @@
+[["GNU", "AT%26T", "Dallas%2C_Texas", "International_Space_Station", "Space_Shuttle_program"], ["GNU", "Internet", "London", "International_Space_Station", "Space_Shuttle_program"], ["GNU", "AT%26T", "Telephone", "Star_Trek", "Space_Shuttle_program"], ["GNU", "TeX", "Engineering", "Star_Trek", "Space_Shuttle_program"]]

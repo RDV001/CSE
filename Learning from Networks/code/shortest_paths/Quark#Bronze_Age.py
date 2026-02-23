@@ -1,0 +1,1 @@
+[["Quark", "Electric_charge", "Amber", "Bronze_Age"], ["Quark", "Helium", "Copper", "Bronze_Age"], ["Quark", "Helium", "Welding", "Bronze_Age"], ["Quark", "James_Joyce", "Ireland", "Bronze_Age"], ["Quark", "Neutron", "England", "Bronze_Age"]]

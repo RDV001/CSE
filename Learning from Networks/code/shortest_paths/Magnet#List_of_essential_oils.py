@@ -1,0 +1,1 @@
+[["Magnet", "Earth", "Carbon_dioxide", "Biodiesel", "List_of_essential_oils"], ["Magnet", "Iron", "Carbon_dioxide", "Biodiesel", "List_of_essential_oils"], ["Magnet", "Iron", "Agriculture", "Biodiesel", "List_of_essential_oils"], ["Magnet", "Iron", "Automobile", "Biodiesel", "List_of_essential_oils"], ["Magnet", "Steel", "Automobile", "Biodiesel", "List_of_essential_oils"]]

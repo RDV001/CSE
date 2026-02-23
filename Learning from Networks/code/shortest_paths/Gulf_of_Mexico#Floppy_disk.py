@@ -1,0 +1,1 @@
+[["Gulf_of_Mexico", "United_Kingdom", "Computer", "Floppy_disk"], ["Gulf_of_Mexico", "United_States", "Computer", "Floppy_disk"]]

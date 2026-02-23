@@ -1,0 +1,1 @@
+[["Che_Guevara", "Argentina", "String_theory", "Black_hole"], ["Che_Guevara", "Bertrand_Russell", "Physics", "Black_hole"], ["Che_Guevara", "South_America", "21st_century", "Black_hole"]]

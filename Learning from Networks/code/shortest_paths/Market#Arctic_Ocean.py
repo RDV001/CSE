@@ -1,0 +1,1 @@
+[["Market", "Capitalism", "Europe", "Arctic_Ocean"], ["Market", "Supply_and_demand", "Europe", "Arctic_Ocean"], ["Market", "Capitalism", "United_States", "Arctic_Ocean"], ["Market", "Minimum_wage", "United_States", "Arctic_Ocean"], ["Market", "Supply_and_demand", "United_States", "Arctic_Ocean"], ["Market", "Law", "North_America", "Arctic_Ocean"]]

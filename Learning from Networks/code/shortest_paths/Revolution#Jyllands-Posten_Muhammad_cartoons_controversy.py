@@ -1,0 +1,1 @@
+[["Revolution", "Madrid", "Mosque", "Jyllands-Posten_Muhammad_cartoons_controversy"], ["Revolution", "Spain", "Mosque", "Jyllands-Posten_Muhammad_cartoons_controversy"]]

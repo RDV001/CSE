@@ -1,0 +1,1 @@
+[["John_Maynard_Keynes", "Germany", "Canada"], ["John_Maynard_Keynes", "Gold", "Canada"], ["John_Maynard_Keynes", "Russia", "Canada"], ["John_Maynard_Keynes", "United_Kingdom", "Canada"], ["John_Maynard_Keynes", "World_War_I", "Canada"], ["John_Maynard_Keynes", "World_War_II", "Canada"]]

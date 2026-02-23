@@ -1,0 +1,1 @@
+[["Commodore_64", "United_States_dollar", "East_Timor"]]

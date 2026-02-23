@@ -1,0 +1,1 @@
+[["Silent_film", "20th_century", "Africa", "Nile"], ["Silent_film", "Paris", "Africa", "Nile"], ["Silent_film", "Vampire", "Africa", "Nile"], ["Silent_film", "Paris", "Cairo", "Nile"], ["Silent_film", "Paris", "Egypt", "Nile"], ["Silent_film", "Vampire", "Ancient_Egypt", "Nile"]]

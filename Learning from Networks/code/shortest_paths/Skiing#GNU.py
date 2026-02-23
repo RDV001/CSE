@@ -1,0 +1,1 @@
+[["Skiing", "20th_century", "Computer", "GNU"], ["Skiing", "Asia", "Computer", "GNU"], ["Skiing", "United_States", "Computer", "GNU"]]

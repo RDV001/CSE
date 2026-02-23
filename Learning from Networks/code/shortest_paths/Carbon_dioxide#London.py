@@ -1,0 +1,1 @@
+[["Carbon_dioxide", "Coal", "London"], ["Carbon_dioxide", "Michael_Faraday", "London"], ["Carbon_dioxide", "New_York_City", "London"], ["Carbon_dioxide", "Scotland", "London"], ["Carbon_dioxide", "Transport", "London"], ["Carbon_dioxide", "Water", "London"]]

@@ -1,0 +1,1 @@
+[["Race", "Monarchy", "Magna_Carta", "History_of_democracy"], ["Race", "Natural_selection", "Sociocultural_evolution", "History_of_democracy"]]

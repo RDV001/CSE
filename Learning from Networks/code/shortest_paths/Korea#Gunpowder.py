@@ -1,0 +1,1 @@
+[["Korea", "China", "Gunpowder"], ["Korea", "Mongol_Empire", "Gunpowder"]]

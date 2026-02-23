@@ -1,0 +1,1 @@
+[["Sand", "Flood", "Houston%2C_Texas", "Theodore_Roosevelt", "Mole_%28animal%29"], ["Sand", "Gypsum", "Herbert_Hoover", "Theodore_Roosevelt", "Mole_%28animal%29"]]

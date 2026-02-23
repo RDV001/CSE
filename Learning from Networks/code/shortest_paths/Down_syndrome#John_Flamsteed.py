@@ -1,0 +1,1 @@
+[["Down_syndrome", "EastEnders", "Religion", "Isaac_Newton", "John_Flamsteed"], ["Down_syndrome", "Nazi_Germany", "Sigmund_Freud", "Isaac_Newton", "John_Flamsteed"], ["Down_syndrome", "World_War_II", "Jet_engine", "Isaac_Newton", "John_Flamsteed"], ["Down_syndrome", "EastEnders", "Religion", "Philosophiae_Naturalis_Principia_Mathematica", "John_Flamsteed"]]

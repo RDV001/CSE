@@ -1,0 +1,1 @@
+[["Marseille", "Glasgow", "American_football"], ["Marseille", "Manchester_United_F.C.", "American_football"], ["Marseille", "Vienna", "American_football"]]

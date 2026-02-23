@@ -1,0 +1,1 @@
+[["Bulgaria", "Burkina_Faso", "Flood", "Hurricane_David"]]

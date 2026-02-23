@@ -1,0 +1,1 @@
+[["Samoa", "English_language", "Cayman_Islands", "Stingray", "Nurse_sharks"], ["Samoa", "Monarchy", "Cayman_Islands", "Stingray", "Nurse_sharks"], ["Samoa", "United_States", "Cayman_Islands", "Stingray", "Nurse_sharks"]]

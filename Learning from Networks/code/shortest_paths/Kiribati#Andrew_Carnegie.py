@@ -1,0 +1,1 @@
+[["Kiribati", "Government", "Corporation", "Andrew_Carnegie"], ["Kiribati", "United_States", "Corporation", "Andrew_Carnegie"], ["Kiribati", "United_Nations", "The_Hague", "Andrew_Carnegie"], ["Kiribati", "United_States", "Dallas%2C_Texas", "Andrew_Carnegie"]]

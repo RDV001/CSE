@@ -1,0 +1,1 @@
+[["Rainbow", "Gold", "Computer", "Computer_and_video_games", "Pac-Man"], ["Rainbow", "Italy", "Mediterranean_Sea", "Triassic", "Pac-Man"], ["Rainbow", "Sunlight", "Coal", "Triassic", "Pac-Man"], ["Rainbow", "Landscape", "21st_century", "Linus_Torvalds", "Pac-Man"], ["Rainbow", "Water", "Finland", "Linus_Torvalds", "Pac-Man"]]

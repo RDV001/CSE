@@ -1,0 +1,1 @@
+[["Pope_John_Paul_II", "France", "Western_Roman_Empire"], ["Pope_John_Paul_II", "Latin", "Western_Roman_Empire"]]

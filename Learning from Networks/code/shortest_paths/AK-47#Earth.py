@@ -1,0 +1,1 @@
+[["AK-47", "Russia", "Earth"], ["AK-47", "United_Kingdom", "Earth"]]

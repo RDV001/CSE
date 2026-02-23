@@ -1,0 +1,1 @@
+[["Glacier", "Africa", "Gold", "Palladium"], ["Glacier", "Earth", "Nickel", "Palladium"], ["Glacier", "Water", "Acetic_acid", "Palladium"]]

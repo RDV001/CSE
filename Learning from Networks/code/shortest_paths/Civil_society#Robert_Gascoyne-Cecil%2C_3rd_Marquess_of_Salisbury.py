@@ -1,0 +1,1 @@
+[["Civil_society", "Germany", "Prime_Minister_of_the_United_Kingdom", "Robert_Gascoyne-Cecil%2C_3rd_Marquess_of_Salisbury"], ["Civil_society", "Marxism", "Prime_Minister_of_the_United_Kingdom", "Robert_Gascoyne-Cecil%2C_3rd_Marquess_of_Salisbury"]]

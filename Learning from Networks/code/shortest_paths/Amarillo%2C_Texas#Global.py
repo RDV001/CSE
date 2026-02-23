@@ -1,0 +1,1 @@
+[["Amarillo%2C_Texas", "Petroleum", "Wind", "Global"], ["Amarillo%2C_Texas", "Tornado", "Wind", "Global"]]

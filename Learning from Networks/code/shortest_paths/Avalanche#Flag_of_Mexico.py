@@ -1,0 +1,1 @@
+[["Avalanche", "Tree", "Mexico", "Flag_of_Mexico"], ["Avalanche", "United_States", "Mexico", "Flag_of_Mexico"], ["Avalanche", "World_War_I", "Mexico", "Flag_of_Mexico"], ["Avalanche", "United_States", "List_of_sovereign_states", "Flag_of_Mexico"]]

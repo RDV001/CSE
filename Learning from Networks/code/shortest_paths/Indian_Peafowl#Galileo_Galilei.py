@@ -1,0 +1,1 @@
+[["Indian_Peafowl", "Florida", "Roman_Catholic_Church", "Galileo_Galilei"], ["Indian_Peafowl", "Pakistan", "Age_of_Enlightenment", "Galileo_Galilei"]]

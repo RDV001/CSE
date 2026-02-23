@@ -1,0 +1,1 @@
+[["Akira_Kurosawa", "Japan", "Meat", "Bacteria"], ["Akira_Kurosawa", "Leo_Tolstoy", "Life", "Bacteria"], ["Akira_Kurosawa", "United_States", "Maize", "Bacteria"], ["Akira_Kurosawa", "United_States", "Yellowstone_National_Park", "Bacteria"]]

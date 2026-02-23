@@ -1,0 +1,1 @@
+[["Americium", "Color", "Human", "Chad"], ["Americium", "Radium", "Democratic_Republic_of_the_Congo", "Chad"], ["Americium", "Uranium", "Democratic_Republic_of_the_Congo", "Chad"], ["Americium", "University_of_Chicago", "Barack_Obama", "Chad"], ["Americium", "University_of_Chicago", "Turkey", "Chad"]]

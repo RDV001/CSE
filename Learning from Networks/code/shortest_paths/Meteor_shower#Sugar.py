@@ -1,0 +1,1 @@
+[["Meteor_shower", "Sun", "Carbon_dioxide", "Sugar"], ["Meteor_shower", "Sun", "Photosynthesis", "Sugar"]]

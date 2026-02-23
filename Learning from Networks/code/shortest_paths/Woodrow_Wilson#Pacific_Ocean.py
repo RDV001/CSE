@@ -1,0 +1,1 @@
+[["Woodrow_Wilson", "France", "Pacific_Ocean"], ["Woodrow_Wilson", "Nicaragua", "Pacific_Ocean"], ["Woodrow_Wilson", "Panama", "Pacific_Ocean"], ["Woodrow_Wilson", "Russia", "Pacific_Ocean"]]

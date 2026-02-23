@@ -1,0 +1,1 @@
+[["Beet", "Europe", "Barcelona", "Hannibal_Barca"], ["Beet", "Fruit", "Barcelona", "Hannibal_Barca"], ["Beet", "Italy", "Barcelona", "Hannibal_Barca"], ["Beet", "Europe", "Lisbon", "Hannibal_Barca"]]

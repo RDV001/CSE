@@ -1,0 +1,1 @@
+[["Sphere", "Mathematics", "Ancient_Egypt", "Pyramid"], ["Sphere", "Trigonometry", "Ancient_Egypt", "Pyramid"], ["Sphere", "Mathematics", "Number", "Pyramid"]]

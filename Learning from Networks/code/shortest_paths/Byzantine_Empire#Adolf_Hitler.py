@@ -1,0 +1,1 @@
+[["Byzantine_Empire", "Azerbaijan", "Adolf_Hitler"], ["Byzantine_Empire", "Germany", "Adolf_Hitler"], ["Byzantine_Empire", "Greece", "Adolf_Hitler"], ["Byzantine_Empire", "History_of_Greece", "Adolf_Hitler"], ["Byzantine_Empire", "Italy", "Adolf_Hitler"], ["Byzantine_Empire", "Spain", "Adolf_Hitler"]]

@@ -1,0 +1,1 @@
+[["Radium", "Australia", "Mammal", "Jurassic"], ["Radium", "Cancer", "Bird", "Jurassic"], ["Radium", "Color", "Bird", "Jurassic"], ["Radium", "Mercury_%28element%29", "Coal", "Jurassic"], ["Radium", "Oxygen", "Plant", "Jurassic"], ["Radium", "Thorium", "Fossil", "Jurassic"], ["Radium", "Water", "Global_warming", "Jurassic"]]

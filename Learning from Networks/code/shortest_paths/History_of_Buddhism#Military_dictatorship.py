@@ -1,0 +1,1 @@
+[["History_of_Buddhism", "Myanmar", "Military_dictatorship"], ["History_of_Buddhism", "Thailand", "Military_dictatorship"]]

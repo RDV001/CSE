@@ -1,0 +1,1 @@
+[["Gauss%27s_law", "Gravitation", "England", "Christopher_Wren"], ["Gauss%27s_law", "Physics", "Blaise_Pascal", "Christopher_Wren"], ["Gauss%27s_law", "Physics", "Philosophiae_Naturalis_Principia_Mathematica", "Christopher_Wren"]]

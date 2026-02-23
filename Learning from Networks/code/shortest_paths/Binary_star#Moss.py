@@ -1,0 +1,1 @@
+[["Binary_star", "Biosphere", "Plant", "Moss"], ["Binary_star", "Earth", "Plant", "Moss"], ["Binary_star", "Earth", "Antarctica", "Moss"]]

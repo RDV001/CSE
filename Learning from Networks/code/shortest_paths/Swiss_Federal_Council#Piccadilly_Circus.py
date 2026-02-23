@@ -1,0 +1,1 @@
+[["Swiss_Federal_Council", "European_Union", "London", "Piccadilly_Circus"], ["Swiss_Federal_Council", "Prime_Minister_of_the_United_Kingdom", "London", "Piccadilly_Circus"]]

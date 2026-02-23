@@ -1,0 +1,1 @@
+[["Katana", "World_War_II", "France"]]

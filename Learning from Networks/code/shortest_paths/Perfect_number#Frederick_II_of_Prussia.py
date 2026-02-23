@@ -1,0 +1,1 @@
+[["Perfect_number", "Leonhard_Euler", "Frederick_II_of_Prussia"]]

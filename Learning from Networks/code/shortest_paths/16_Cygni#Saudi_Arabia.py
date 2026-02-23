@@ -1,0 +1,1 @@
+[["16_Cygni", "Binary_star", "Arabic_language", "Saudi_Arabia"], ["16_Cygni", "Jupiter", "Japan", "Saudi_Arabia"], ["16_Cygni", "Sun", "Japan", "Saudi_Arabia"], ["16_Cygni", "Sun", "Egypt", "Saudi_Arabia"], ["16_Cygni", "Sun", "Petroleum", "Saudi_Arabia"]]

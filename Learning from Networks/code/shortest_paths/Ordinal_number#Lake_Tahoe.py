@@ -1,0 +1,1 @@
+[["Ordinal_number", "John_von_Neumann", "Richard_Feynman", "California", "Lake_Tahoe"], ["Ordinal_number", "John_von_Neumann", "Robert_Oppenheimer", "California", "Lake_Tahoe"]]

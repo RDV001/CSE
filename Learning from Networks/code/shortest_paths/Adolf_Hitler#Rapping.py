@@ -1,0 +1,1 @@
+[["Adolf_Hitler", "Art", "Poetry", "Rapping"], ["Adolf_Hitler", "Belarus", "Poetry", "Rapping"], ["Adolf_Hitler", "Friedrich_Nietzsche", "Poetry", "Rapping"], ["Adolf_Hitler", "United_States", "American_popular_music", "Rapping"], ["Adolf_Hitler", "United_States", "Hip_hop_music", "Rapping"], ["Adolf_Hitler", "United_States", "Music_of_the_United_States", "Rapping"]]

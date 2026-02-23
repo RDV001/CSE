@@ -1,0 +1,1 @@
+[["Mount_Everest", "China", "Pi", "Coulomb%27s_law"], ["Mount_Everest", "Earth", "Pi", "Coulomb%27s_law"], ["Mount_Everest", "Oxygen", "Magnetism", "Coulomb%27s_law"]]

@@ -1,0 +1,1 @@
+[["Aarhus", "Coal", "Cretaceous", "Tyrannosaurus"], ["Aarhus", "Europe", "Carnivore", "Tyrannosaurus"]]

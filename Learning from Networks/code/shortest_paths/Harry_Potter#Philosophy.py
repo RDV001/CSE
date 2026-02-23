@@ -1,0 +1,1 @@
+[["Harry_Potter", "Alchemy", "Philosophy"], ["Harry_Potter", "Logic", "Philosophy"], ["Harry_Potter", "Pope_John_Paul_II", "Philosophy"]]

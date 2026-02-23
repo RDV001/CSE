@@ -1,0 +1,1 @@
+[["Mount_Unzen", "Tsunami", "2004_Indian_Ocean_earthquake", "Vegetation"], ["Mount_Unzen", "Tsunami", "Geography", "Vegetation"], ["Mount_Unzen", "United_Nations", "South_Africa", "Vegetation"]]

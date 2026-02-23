@@ -1,0 +1,1 @@
+[["Muhammad_Iqbal", "Germany", "Euro"], ["Muhammad_Iqbal", "Spain", "Euro"]]

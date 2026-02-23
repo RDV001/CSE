@@ -1,0 +1,1 @@
+[["Henry_Moore", "England", "Hinduism"], ["Henry_Moore", "Sculpture", "Hinduism"], ["Henry_Moore", "Toronto", "Hinduism"], ["Henry_Moore", "United_Kingdom", "Hinduism"]]

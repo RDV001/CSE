@@ -1,0 +1,1 @@
+[["Topology", "19th_century", "Egypt", "Sahara"], ["Topology", "Latin_alphabet", "Egypt", "Sahara"], ["Topology", "19th_century", "North_Africa", "Sahara"], ["Topology", "Mathematics", "Ancient_Egypt", "Sahara"]]

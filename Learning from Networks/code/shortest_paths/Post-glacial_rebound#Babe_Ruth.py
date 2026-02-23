@@ -1,0 +1,1 @@
+[["Post-glacial_rebound", "Canada", "Baseball", "Babe_Ruth"], ["Post-glacial_rebound", "Sweden", "Baseball", "Babe_Ruth"], ["Post-glacial_rebound", "United_States", "Baseball", "Babe_Ruth"], ["Post-glacial_rebound", "United_States", "Boston%2C_Massachusetts", "Babe_Ruth"]]

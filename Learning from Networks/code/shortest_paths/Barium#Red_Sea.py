@@ -1,0 +1,1 @@
+[["Barium", "England", "19th_century", "Red_Sea"], ["Barium", "Periodic_table", "19th_century", "Red_Sea"], ["Barium", "Glass", "Egypt", "Red_Sea"], ["Barium", "Glass", "Mediterranean_Sea", "Red_Sea"], ["Barium", "Mineral", "Dead_Sea", "Red_Sea"]]

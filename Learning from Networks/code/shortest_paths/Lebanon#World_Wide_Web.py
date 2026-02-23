@@ -1,0 +1,1 @@
+[["Lebanon", "Arabic_language", "World_Wide_Web"], ["Lebanon", "Computer", "World_Wide_Web"]]

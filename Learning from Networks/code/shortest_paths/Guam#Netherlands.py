@@ -1,0 +1,1 @@
+[["Guam", "Earthquake", "Netherlands"], ["Guam", "English_language", "Netherlands"], ["Guam", "Japan", "Netherlands"], ["Guam", "List_of_countries_by_system_of_government", "Netherlands"], ["Guam", "Pacific_Ocean", "Netherlands"], ["Guam", "Spain", "Netherlands"], ["Guam", "United_States", "Netherlands"], ["Guam", "World_War_II", "Netherlands"]]

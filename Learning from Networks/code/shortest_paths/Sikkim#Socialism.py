@@ -1,0 +1,1 @@
+[["Sikkim", "India", "Socialism"], ["Sikkim", "People%27s_Republic_of_China", "Socialism"]]

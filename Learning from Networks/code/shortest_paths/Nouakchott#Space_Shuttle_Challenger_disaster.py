@@ -1,0 +1,1 @@
+[["Nouakchott", "Atlantic_Ocean", "Houston%2C_Texas", "Space_Shuttle_Challenger_disaster"]]

@@ -1,0 +1,1 @@
+[["International_Court_of_Justice", "Switzerland", "Swiss_Federal_Council"]]

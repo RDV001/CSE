@@ -1,0 +1,1 @@
+[["Astatine", "List_of_elements_by_name", "Iridium", "R%C3%A9union"], ["Astatine", "Metal", "Iridium", "R%C3%A9union"], ["Astatine", "Periodic_table", "Iridium", "R%C3%A9union"], ["Astatine", "Uranium", "Democratic_Republic_of_the_Congo", "R%C3%A9union"]]

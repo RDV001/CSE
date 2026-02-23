@@ -1,0 +1,1 @@
+[["Pterosaur", "Brazil", "Africa", "Harare"], ["Pterosaur", "Cretaceous", "Africa", "Harare"], ["Pterosaur", "South_America", "Africa", "Harare"], ["Pterosaur", "Gliding", "Munich", "Harare"]]

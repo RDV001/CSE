@@ -1,0 +1,1 @@
+[["Gas_tungsten_arc_welding", "Aluminium", "English_language", "Pig"], ["Gas_tungsten_arc_welding", "Copper", "Isle_of_Man", "Pig"], ["Gas_tungsten_arc_welding", "Copper", "Sumer", "Pig"], ["Gas_tungsten_arc_welding", "Steel", "Sumer", "Pig"]]

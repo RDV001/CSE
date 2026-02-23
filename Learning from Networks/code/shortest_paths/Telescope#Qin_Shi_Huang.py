@@ -1,0 +1,1 @@
+[["Telescope", "Japan", "Confucianism", "Qin_Shi_Huang"], ["Telescope", "Japan", "Taoism", "Qin_Shi_Huang"], ["Telescope", "Ultraviolet", "Mercury_%28element%29", "Qin_Shi_Huang"]]

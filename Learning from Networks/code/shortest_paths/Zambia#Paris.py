@@ -1,0 +1,1 @@
+[["Zambia", "12th_century", "Paris"], ["Zambia", "19th_century", "Paris"], ["Zambia", "Europe", "Paris"], ["Zambia", "France", "Paris"], ["Zambia", "French_Southern_and_Antarctic_Lands", "Paris"], ["Zambia", "Madagascar", "Paris"], ["Zambia", "R%C3%A9union", "Paris"]]

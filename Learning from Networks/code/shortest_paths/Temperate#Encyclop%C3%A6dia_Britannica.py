@@ -1,0 +1,1 @@
+[["Temperate", "Aristotle", "Geology", "Encyclop%C3%A6dia_Britannica"], ["Temperate", "Geography", "Geology", "Encyclop%C3%A6dia_Britannica"], ["Temperate", "Summer", "Advertising", "Encyclop%C3%A6dia_Britannica"]]

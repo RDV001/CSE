@@ -1,0 +1,1 @@
+[["Philosophiae_Naturalis_Principia_Mathematica", "Apple", "Halloween", "Vampire"], ["Philosophiae_Naturalis_Principia_Mathematica", "Christopher_Wren", "Tuberculosis", "Vampire"], ["Philosophiae_Naturalis_Principia_Mathematica", "Richard_Feynman", "Tuberculosis", "Vampire"], ["Philosophiae_Naturalis_Principia_Mathematica", "Gottfried_Leibniz", "Esperanto", "Vampire"]]

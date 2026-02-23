@@ -1,0 +1,1 @@
+[["Political_philosophy", "Earth", "Hebrew_language"], ["Political_philosophy", "Europe", "Hebrew_language"], ["Political_philosophy", "Immanuel_Kant", "Hebrew_language"], ["Political_philosophy", "Zionism", "Hebrew_language"]]

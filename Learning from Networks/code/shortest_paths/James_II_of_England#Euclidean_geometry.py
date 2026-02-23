@@ -1,0 +1,1 @@
+[["James_II_of_England", "Brussels", "Albert_Einstein", "Euclidean_geometry"], ["James_II_of_England", "Roman_Catholic_Church", "Big_Bang", "Euclidean_geometry"]]

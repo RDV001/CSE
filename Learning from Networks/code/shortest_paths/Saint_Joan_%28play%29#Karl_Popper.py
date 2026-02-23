@@ -1,0 +1,1 @@
+[["Saint_Joan_%28play%29", "Law", "Economics", "Karl_Popper"], ["Saint_Joan_%28play%29", "Law", "Philosophy", "Karl_Popper"], ["Saint_Joan_%28play%29", "Law", "Political_philosophy", "Karl_Popper"], ["Saint_Joan_%28play%29", "Law", "Politics", "Karl_Popper"]]

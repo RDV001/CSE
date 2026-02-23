@@ -1,0 +1,1 @@
+[["Dingo", "Australia", "Continent", "Buckminster_Fuller"], ["Dingo", "Kangaroo", "Continent", "Buckminster_Fuller"]]

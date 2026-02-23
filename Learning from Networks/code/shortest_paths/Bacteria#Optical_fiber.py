@@ -1,0 +1,1 @@
+[["Bacteria", "Botany", "Ultraviolet", "Optical_fiber"], ["Bacteria", "DNA", "Ultraviolet", "Optical_fiber"], ["Bacteria", "Human", "Ultraviolet", "Optical_fiber"], ["Bacteria", "Photosynthesis", "Ultraviolet", "Optical_fiber"], ["Bacteria", "Pollinator", "Ultraviolet", "Optical_fiber"], ["Bacteria", "Vitamin", "Ultraviolet", "Optical_fiber"]]

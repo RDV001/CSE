@@ -1,0 +1,1 @@
+[["Scottish_Episcopal_Church", "17th_century", "South_Africa", "Hyena", "Mongoose"], ["Scottish_Episcopal_Church", "England", "Lion", "Hyena", "Mongoose"], ["Scottish_Episcopal_Church", "Scotland", "Lion", "Hyena", "Mongoose"]]

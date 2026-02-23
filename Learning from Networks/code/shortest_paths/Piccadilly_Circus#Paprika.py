@@ -1,0 +1,1 @@
+[["Piccadilly_Circus", "Vodafone", "Hungary", "Paprika"]]

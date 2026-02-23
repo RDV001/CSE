@@ -1,0 +1,1 @@
+[["Ancient_Egypt", "Ancient_Greece", "University"], ["Ancient_Egypt", "Civilization", "University"], ["Ancient_Egypt", "Mathematics", "University"], ["Ancient_Egypt", "Middle_Ages", "University"]]

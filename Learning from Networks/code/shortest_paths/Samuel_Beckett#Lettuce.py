@@ -1,0 +1,1 @@
+[["Samuel_Beckett", "France", "Belgium", "Lettuce"], ["Samuel_Beckett", "Jorge_Luis_Borges", "Belgium", "Lettuce"], ["Samuel_Beckett", "Paris", "Belgium", "Lettuce"], ["Samuel_Beckett", "World_War_II", "Belgium", "Lettuce"], ["Samuel_Beckett", "Novel", "Sumer", "Lettuce"]]

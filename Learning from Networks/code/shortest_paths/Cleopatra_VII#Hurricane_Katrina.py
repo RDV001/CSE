@@ -1,0 +1,1 @@
+[["Cleopatra_VII", "Cyprus", "Canada", "Hurricane_Katrina"], ["Cleopatra_VII", "Syria", "Bill_Clinton", "Hurricane_Katrina"], ["Cleopatra_VII", "Syria", "Natural_gas", "Hurricane_Katrina"]]

@@ -1,0 +1,1 @@
+[["Israel", "Liberal_democracy", "Civil_society"], ["Israel", "Russia", "Civil_society"]]

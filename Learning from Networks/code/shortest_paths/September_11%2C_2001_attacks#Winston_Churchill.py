@@ -1,0 +1,1 @@
+[["September_11%2C_2001_attacks", "European_Union", "Winston_Churchill"], ["September_11%2C_2001_attacks", "Palace_of_Westminster", "Winston_Churchill"]]

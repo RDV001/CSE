@@ -1,0 +1,1 @@
+[["Sakurajima", "Earthquake", "California", "Colorado_River", "Lake_Powell"], ["Sakurajima", "Volcano", "California", "Colorado_River", "Lake_Powell"], ["Sakurajima", "Earthquake", "Dam", "Colorado_River", "Lake_Powell"], ["Sakurajima", "Magma", "Water", "Colorado_River", "Lake_Powell"], ["Sakurajima", "Volcano", "Water", "Colorado_River", "Lake_Powell"]]

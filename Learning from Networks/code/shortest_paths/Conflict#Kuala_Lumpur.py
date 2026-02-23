@@ -1,0 +1,1 @@
+[["Conflict", "Israel", "Asia", "Kuala_Lumpur"], ["Conflict", "Israel", "Malaysia", "Kuala_Lumpur"], ["Conflict", "Israel", "Singapore", "Kuala_Lumpur"], ["Conflict", "Kosovo", "Condoleezza_Rice", "Kuala_Lumpur"], ["Conflict", "Northern_Ireland", "Commonwealth_Games", "Kuala_Lumpur"]]

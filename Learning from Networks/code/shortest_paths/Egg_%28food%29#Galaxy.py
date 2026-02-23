@@ -1,0 +1,1 @@
+[["Egg_%28food%29", "Iron", "Solar_System", "Galaxy"], ["Egg_%28food%29", "Iron", "Star", "Galaxy"], ["Egg_%28food%29", "Iron", "Universe", "Galaxy"], ["Egg_%28food%29", "Sulfur", "Nature", "Galaxy"], ["Egg_%28food%29", "United_Kingdom", "Gravitation", "Galaxy"]]

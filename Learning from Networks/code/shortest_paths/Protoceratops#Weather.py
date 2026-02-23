@@ -1,0 +1,1 @@
+[["Protoceratops", "China", "Climate", "Weather"], ["Protoceratops", "Cretaceous", "Climate", "Weather"], ["Protoceratops", "China", "Mount_Everest", "Weather"], ["Protoceratops", "China", "Temperate", "Weather"], ["Protoceratops", "Cretaceous", "Greenland", "Weather"], ["Protoceratops", "Cretaceous", "Ocean", "Weather"]]

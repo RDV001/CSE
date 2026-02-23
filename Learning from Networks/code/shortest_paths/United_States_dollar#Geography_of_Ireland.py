@@ -1,0 +1,1 @@
+[["United_States_dollar", "Banknote", "Northern_Ireland", "Geography_of_Ireland"]]

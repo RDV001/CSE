@@ -1,0 +1,1 @@
+[["Australian_rules_football", "Australia", "Chinese_language", "Bluetooth"], ["Australian_rules_football", "England", "Chinese_language", "Bluetooth"], ["Australian_rules_football", "Novel", "Chinese_language", "Bluetooth"], ["Australian_rules_football", "Sydney", "Chinese_language", "Bluetooth"], ["Australian_rules_football", "Television", "Telecommunication", "Bluetooth"]]

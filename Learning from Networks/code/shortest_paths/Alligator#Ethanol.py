@@ -1,0 +1,1 @@
+[["Alligator", "Animal", "Bacteria", "Ethanol"], ["Alligator", "Scientific_classification", "Bacteria", "Ethanol"], ["Alligator", "Animal", "Water", "Ethanol"], ["Alligator", "Florida", "Sugarcane", "Ethanol"], ["Alligator", "United_States", "Agriculture", "Ethanol"], ["Alligator", "United_States", "Petroleum", "Ethanol"]]

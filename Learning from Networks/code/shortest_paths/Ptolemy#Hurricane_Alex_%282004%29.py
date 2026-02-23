@@ -1,0 +1,1 @@
+[["Ptolemy", "Atlantic_Ocean", "Tropical_cyclone", "Hurricane_Dennis", "Hurricane_Alex_%282004%29"], ["Ptolemy", "Earth", "Tropical_cyclone", "Hurricane_Dennis", "Hurricane_Alex_%282004%29"]]

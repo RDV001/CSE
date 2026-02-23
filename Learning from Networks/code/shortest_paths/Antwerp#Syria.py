@@ -1,0 +1,1 @@
+[["Antwerp", "Black_Death", "Syria"], ["Antwerp", "Europe", "Syria"], ["Antwerp", "French_language", "Syria"], ["Antwerp", "Israel", "Syria"], ["Antwerp", "Jew", "Syria"], ["Antwerp", "Napoleon_I_of_France", "Syria"], ["Antwerp", "World_War_II", "Syria"]]

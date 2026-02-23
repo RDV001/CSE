@@ -1,0 +1,1 @@
+[["Buddha", "China", "Human", "Propaganda"], ["Buddha", "China", "Music", "Propaganda"], ["Buddha", "Laos", "Music", "Propaganda"], ["Buddha", "China", "Republic_of_China", "Propaganda"], ["Buddha", "God", "Sigmund_Freud", "Propaganda"], ["Buddha", "Japan", "Attack_on_Pearl_Harbor", "Propaganda"]]

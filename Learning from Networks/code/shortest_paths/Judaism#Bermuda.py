@@ -1,0 +1,1 @@
+[["Judaism", "Monarchy", "Bermuda"], ["Judaism", "United_Kingdom", "Bermuda"], ["Judaism", "United_States", "Bermuda"]]

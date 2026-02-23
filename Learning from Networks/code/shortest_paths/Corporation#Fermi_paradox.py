@@ -1,0 +1,1 @@
+[["Corporation", "University", "Astronomy", "Fermi_paradox"]]

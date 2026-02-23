@@ -1,0 +1,1 @@
+[["Leaning_Tower_of_Pisa", "Benito_Mussolini", "United_Kingdom", "Celtic_F.C."], ["Leaning_Tower_of_Pisa", "Italy", "United_Kingdom", "Celtic_F.C."], ["Leaning_Tower_of_Pisa", "World_War_II", "United_Kingdom", "Celtic_F.C."]]

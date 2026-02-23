@@ -1,0 +1,1 @@
+[["British_monarchy", "Buckingham_Palace", "Rococo"]]

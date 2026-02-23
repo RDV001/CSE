@@ -1,0 +1,1 @@
+[["Mali", "Algeria", "Judaism", "Josephus"], ["Mali", "France", "Judaism", "Josephus"], ["Mali", "Senegal", "Judaism", "Josephus"], ["Mali", "Gold", "Idolatry", "Josephus"]]

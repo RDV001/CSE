@@ -1,0 +1,1 @@
+[["Louis_XIV_of_France", "England", "Bronze_Age"], ["Louis_XIV_of_France", "Ireland", "Bronze_Age"], ["Louis_XIV_of_France", "Sweden", "Bronze_Age"]]

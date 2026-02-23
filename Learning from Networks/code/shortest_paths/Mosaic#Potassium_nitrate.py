@@ -1,0 +1,1 @@
+[["Mosaic", "4th_century", "Alchemy", "Potassium_nitrate"], ["Mosaic", "Art", "Alchemy", "Potassium_nitrate"]]

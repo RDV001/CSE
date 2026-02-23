@@ -1,0 +1,1 @@
+[["Slavic_mythology", "Religion", "Gravitation", "Differential_equation"], ["Slavic_mythology", "Religion", "Heliocentrism", "Differential_equation"]]

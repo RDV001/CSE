@@ -1,0 +1,1 @@
+[["Vladimir_Lenin", "Potassium_iodide", "Carbon_dioxide"]]

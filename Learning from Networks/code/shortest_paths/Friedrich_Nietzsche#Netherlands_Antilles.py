@@ -1,0 +1,1 @@
+[["Friedrich_Nietzsche", "France", "Netherlands_Antilles"]]

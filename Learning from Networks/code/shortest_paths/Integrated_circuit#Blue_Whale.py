@@ -1,0 +1,1 @@
+[["Integrated_circuit", "Aluminium", "Iceland", "Whale", "Blue_Whale"], ["Integrated_circuit", "Television", "Iceland", "Whale", "Blue_Whale"], ["Integrated_circuit", "Aluminium", "Ocean", "Whale", "Blue_Whale"], ["Integrated_circuit", "Aluminium", "Water", "Whale", "Blue_Whale"], ["Integrated_circuit", "Germanium", "Mammal", "Whale", "Blue_Whale"]]

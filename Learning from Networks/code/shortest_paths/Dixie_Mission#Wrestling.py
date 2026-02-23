@@ -1,0 +1,1 @@
+[["Dixie_Mission", "China", "Mesopotamia", "Wrestling"], ["Dixie_Mission", "Mao_Zedong", "South_Korea", "Wrestling"], ["Dixie_Mission", "United_States", "South_Korea", "Wrestling"], ["Dixie_Mission", "Washington%2C_D.C.", "South_Korea", "Wrestling"], ["Dixie_Mission", "World_War_II", "Bulgaria", "Wrestling"]]

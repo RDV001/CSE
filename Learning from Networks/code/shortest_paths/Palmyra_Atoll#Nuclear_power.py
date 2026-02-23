@@ -1,0 +1,1 @@
+[["Palmyra_Atoll", "United_States", "Nuclear_power"]]

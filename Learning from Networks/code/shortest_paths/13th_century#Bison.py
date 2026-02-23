@@ -1,0 +1,1 @@
+[["13th_century", "Europe", "Carnivore", "Bison"], ["13th_century", "Isle_of_Man", "Cattle", "Bison"], ["13th_century", "Scotland", "Cattle", "Bison"]]

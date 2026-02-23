@@ -1,0 +1,1 @@
+[["Science", "Bertrand_Russell", "Religion"], ["Science", "Philosophy", "Religion"], ["Science", "Renaissance", "Religion"], ["Science", "University", "Religion"]]

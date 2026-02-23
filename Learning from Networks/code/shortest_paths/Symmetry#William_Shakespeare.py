@@ -1,0 +1,1 @@
+[["Symmetry", "Art", "William_Shakespeare"], ["Symmetry", "Richard_Wagner", "William_Shakespeare"]]

@@ -1,0 +1,1 @@
+[["Blitzkrieg", "France", "Arabic_language", "Algebra"], ["Blitzkrieg", "Germany", "Arabic_language", "Algebra"], ["Blitzkrieg", "France", "Islam", "Algebra"], ["Blitzkrieg", "Soviet_Union", "Islam", "Algebra"], ["Blitzkrieg", "German_language", "Education", "Algebra"], ["Blitzkrieg", "London", "Education", "Algebra"], ["Blitzkrieg", "Germany", "Gottfried_Leibniz", "Algebra"]]

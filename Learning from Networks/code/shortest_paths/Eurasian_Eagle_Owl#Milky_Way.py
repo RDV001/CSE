@@ -1,0 +1,1 @@
+[["Eurasian_Eagle_Owl", "Asia", "Sun", "Milky_Way"]]

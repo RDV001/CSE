@@ -1,0 +1,1 @@
+[["Judaism", "Ancient_Egypt", "Wine"], ["Judaism", "Argentina", "Wine"], ["Judaism", "South_Africa", "Wine"]]

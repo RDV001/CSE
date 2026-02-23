@@ -1,0 +1,1 @@
+[["Smallpox", "United_States", "Macau"], ["Smallpox", "United_States_dollar", "Macau"]]

@@ -1,0 +1,1 @@
+[["Warsaw", "19th_century", "Peru", "Gossypium"], ["Warsaw", "United_States", "Peru", "Gossypium"], ["Warsaw", "Istanbul", "Cotton", "Gossypium"], ["Warsaw", "Polish-Lithuanian_Commonwealth", "Cotton", "Gossypium"]]

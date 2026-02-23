@@ -1,0 +1,1 @@
+[["Columbus%2C_Ohio", "United_States", "Turkey_%28bird%29", "Domesticated_turkey"]]

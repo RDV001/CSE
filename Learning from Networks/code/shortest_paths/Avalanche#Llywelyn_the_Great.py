@@ -1,0 +1,1 @@
+[["Avalanche", "Europe", "Wales", "Welsh_law", "Llywelyn_the_Great"], ["Avalanche", "Italy", "Law", "John_of_England", "Llywelyn_the_Great"], ["Avalanche", "Skiing", "13th_century", "John_of_England", "Llywelyn_the_Great"], ["Avalanche", "United_States", "United_States_Bill_of_Rights", "John_of_England", "Llywelyn_the_Great"]]

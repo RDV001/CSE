@@ -1,0 +1,1 @@
+[["Tasmanian_Devil", "Australia", "Germany", "Adolf_Hitler"], ["Tasmanian_Devil", "Dog", "Germany", "Adolf_Hitler"], ["Tasmanian_Devil", "Australia", "Italy", "Adolf_Hitler"], ["Tasmanian_Devil", "Australia", "Liberal_democracy", "Adolf_Hitler"], ["Tasmanian_Devil", "Australia", "World_War_II", "Adolf_Hitler"]]

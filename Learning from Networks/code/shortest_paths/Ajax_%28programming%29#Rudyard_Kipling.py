@@ -1,0 +1,1 @@
+[["Ajax_%28programming%29", "Microsoft", "United_States", "Manifest_Destiny", "Rudyard_Kipling"]]

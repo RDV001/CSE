@@ -1,0 +1,1 @@
+[["Abbot", "Egypt", "United_Kingdom", "HSBC"], ["Abbot", "English_language", "United_Kingdom", "HSBC"], ["Abbot", "Leicester", "United_Kingdom", "HSBC"], ["Abbot", "Rome", "United_Kingdom", "HSBC"], ["Abbot", "Syria", "United_Kingdom", "HSBC"], ["Abbot", "Genoa", "London", "HSBC"], ["Abbot", "Henry_VIII_of_England", "London", "HSBC"], ["Abbot", "Leicester", "London", "HSBC"]]

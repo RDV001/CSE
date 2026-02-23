@@ -1,0 +1,1 @@
+[["Elvis_Presley", "George_W._Bush", "Hurricane_Katrina", "2005_Atlantic_hurricane_season", "Tropical_Storm_Franklin_%282005%29"]]

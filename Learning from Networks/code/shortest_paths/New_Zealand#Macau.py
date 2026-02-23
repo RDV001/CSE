@@ -1,0 +1,1 @@
+[["New_Zealand", "Asia", "Macau"], ["New_Zealand", "East_Timor", "Macau"], ["New_Zealand", "List_of_countries_by_system_of_government", "Macau"], ["New_Zealand", "People%27s_Republic_of_China", "Macau"], ["New_Zealand", "United_States", "Macau"]]

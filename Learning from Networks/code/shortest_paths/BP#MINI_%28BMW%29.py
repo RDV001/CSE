@@ -1,0 +1,1 @@
+[["BP", "Industry", "Automobile", "MINI_%28BMW%29"], ["BP", "Iran", "Automobile", "MINI_%28BMW%29"], ["BP", "Natural_gas", "Automobile", "MINI_%28BMW%29"], ["BP", "Petroleum", "Automobile", "MINI_%28BMW%29"]]

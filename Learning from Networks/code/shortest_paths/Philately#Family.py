@@ -1,0 +1,1 @@
+[["Philately", "19th_century", "Germany", "Family"], ["Philately", "United_States", "Germany", "Family"], ["Philately", "Viking", "Germany", "Family"], ["Philately", "19th_century", "Politics", "Family"], ["Philately", "India", "Ganges_River", "Family"], ["Philately", "United_States", "Crime", "Family"], ["Philately", "United_States", "Education", "Family"]]

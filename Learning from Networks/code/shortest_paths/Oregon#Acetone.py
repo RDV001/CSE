@@ -1,0 +1,1 @@
+[["Oregon", "Milk", "Diabetes_mellitus", "Acetone"], ["Oregon", "Milk", "Water", "Acetone"], ["Oregon", "Pacific_Ocean", "Water", "Acetone"], ["Oregon", "Potato", "Water", "Acetone"], ["Oregon", "The_Simpsons", "Alcohol", "Acetone"], ["Oregon", "Wheat", "Alcohol", "Acetone"], ["Oregon", "Wine", "Alcohol", "Acetone"]]

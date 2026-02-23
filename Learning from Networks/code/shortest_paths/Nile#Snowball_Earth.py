@@ -1,0 +1,1 @@
+[["Nile", "Africa", "Earth", "Snowball_Earth"], ["Nile", "Sun", "Earth", "Snowball_Earth"], ["Nile", "Africa", "Glacier", "Snowball_Earth"], ["Nile", "Miocene", "Glacier", "Snowball_Earth"], ["Nile", "River", "Glacier", "Snowball_Earth"], ["Nile", "Lake_Victoria", "Ice_age", "Snowball_Earth"], ["Nile", "Sahara", "Ice_age", "Snowball_Earth"]]

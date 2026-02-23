@@ -1,0 +1,1 @@
+[["Philosophiae_Naturalis_Principia_Mathematica", "Latin", "Great_Britain", "Antelope"]]

@@ -1,0 +1,1 @@
+[["Hatshepsut", "Ancient_Egypt", "Anemia", "Folic_acid"], ["Hatshepsut", "Mummy", "Anemia", "Folic_acid"]]

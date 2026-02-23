@@ -1,0 +1,1 @@
+[["Microsoft", "Industry", "Mining", "Pigment", "Albinism", "Chromatophore"], ["Microsoft", "United_States", "Mining", "Pigment", "Albinism", "Chromatophore"], ["Microsoft", "United_States", "Rocky_Mountains", "Crow", "Albinism", "Chromatophore"]]

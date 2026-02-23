@@ -1,0 +1,1 @@
+[["Algerian_Civil_War", "Niger", "Coal", "Santa_Claus"], ["Algerian_Civil_War", "Petroleum", "Coal", "Santa_Claus"], ["Algerian_Civil_War", "United_States", "Coal", "Santa_Claus"]]

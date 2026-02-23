@@ -1,0 +1,1 @@
+[["Goose", "Asia", "Oceania", "Tuvalu"], ["Goose", "North_America", "Oceania", "Tuvalu"], ["Goose", "Asia", "Pacific_Ocean", "Tuvalu"], ["Goose", "North_America", "Pacific_Ocean", "Tuvalu"], ["Goose", "Asia", "Saudi_Arabia", "Tuvalu"], ["Goose", "Europe", "Liechtenstein", "Tuvalu"], ["Goose", "Europe", "San_Marino", "Tuvalu"]]

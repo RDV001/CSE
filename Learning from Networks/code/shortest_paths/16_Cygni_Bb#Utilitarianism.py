@@ -1,0 +1,1 @@
+[["16_Cygni_Bb", "Earth", "Thomas_Aquinas", "Utilitarianism"], ["16_Cygni_Bb", "Sun", "Philosophy", "Utilitarianism"], ["16_Cygni_Bb", "Water", "Philosophy", "Utilitarianism"]]

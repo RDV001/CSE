@@ -1,0 +1,1 @@
+[["Bat-eared_Fox", "Africa", "Middle_Ages", "Abbot"], ["Bat-eared_Fox", "Scientific_classification", "Gregor_Mendel", "Abbot"]]

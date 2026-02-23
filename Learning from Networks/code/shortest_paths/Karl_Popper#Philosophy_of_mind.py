@@ -1,0 +1,1 @@
+[["Karl_Popper", "Philosophy", "Philosophy_of_mind"]]

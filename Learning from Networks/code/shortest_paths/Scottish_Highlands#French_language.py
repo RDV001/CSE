@@ -1,0 +1,1 @@
+[["Scottish_Highlands", "England", "French_language"], ["Scottish_Highlands", "Europe", "French_language"], ["Scottish_Highlands", "Orkney", "French_language"], ["Scottish_Highlands", "Scotland", "French_language"], ["Scottish_Highlands", "Sweden", "French_language"]]

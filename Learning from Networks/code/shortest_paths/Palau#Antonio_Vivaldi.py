@@ -1,0 +1,1 @@
+[["Palau", "Currency", "18th_century", "Antonio_Vivaldi"], ["Palau", "Europe", "18th_century", "Antonio_Vivaldi"], ["Palau", "Pacific_Ocean", "18th_century", "Antonio_Vivaldi"], ["Palau", "Germany", "Johann_Sebastian_Bach", "Antonio_Vivaldi"]]

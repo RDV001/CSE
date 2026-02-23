@@ -1,0 +1,1 @@
+[["Mars", "Italy", "Adolf_Hitler"]]

@@ -1,0 +1,1 @@
+[["Cape_Horn", "Albatross", "Weather", "Great_Red_Spot"], ["Cape_Horn", "Mount_Everest", "Weather", "Great_Red_Spot"], ["Cape_Horn", "Antarctica", "Jupiter", "Great_Red_Spot"], ["Cape_Horn", "Antarctica", "Solar_System", "Great_Red_Spot"]]

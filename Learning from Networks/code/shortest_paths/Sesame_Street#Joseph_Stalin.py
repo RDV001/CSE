@@ -1,0 +1,1 @@
+[["Sesame_Street", "Russia", "Joseph_Stalin"]]

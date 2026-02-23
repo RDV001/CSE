@@ -1,0 +1,1 @@
+[["11th_century", "18th_century", "South_America", "Stanley%2C_Falkland_Islands"], ["11th_century", "France", "South_America", "Stanley%2C_Falkland_Islands"], ["11th_century", "India", "South_America", "Stanley%2C_Falkland_Islands"], ["11th_century", "North_America", "South_America", "Stanley%2C_Falkland_Islands"]]

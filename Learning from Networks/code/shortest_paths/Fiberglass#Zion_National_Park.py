@@ -1,0 +1,1 @@
+[["Fiberglass", "Platinum", "United_States", "List_of_areas_in_the_National_Park_System_of_the_United_States", "Zion_National_Park"], ["Fiberglass", "Quartz", "Sand", "Dune", "Zion_National_Park"], ["Fiberglass", "Silicon", "Sand", "Dune", "Zion_National_Park"]]

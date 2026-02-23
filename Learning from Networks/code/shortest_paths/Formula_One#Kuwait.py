@@ -1,0 +1,1 @@
+[["Formula_One", "Albania", "Kuwait"], ["Formula_One", "Argentina", "Kuwait"], ["Formula_One", "Asia", "Kuwait"], ["Formula_One", "Israel", "Kuwait"], ["Formula_One", "Middle_East", "Kuwait"], ["Formula_One", "Qatar", "Kuwait"], ["Formula_One", "Singapore", "Kuwait"], ["Formula_One", "Turkey", "Kuwait"]]

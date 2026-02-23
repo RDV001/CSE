@@ -1,0 +1,1 @@
+[["Ultimatum_game", "Game_theory", "John_von_Neumann", "Trinity_test"], ["Ultimatum_game", "Nash_equilibrium", "John_von_Neumann", "Trinity_test"]]

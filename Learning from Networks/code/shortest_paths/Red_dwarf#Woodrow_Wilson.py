@@ -1,0 +1,1 @@
+[["Red_dwarf", "Helium", "Poland", "Woodrow_Wilson"], ["Red_dwarf", "Helium", "World_War_I", "Woodrow_Wilson"], ["Red_dwarf", "Milky_Way", "Armenia", "Woodrow_Wilson"], ["Red_dwarf", "Milky_Way", "Princeton_University", "Woodrow_Wilson"]]

@@ -1,0 +1,1 @@
+[["Mediterranean_Sea", "Gaza_Strip", "Summer"], ["Mediterranean_Sea", "Red_Sea", "Summer"]]

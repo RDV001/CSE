@@ -1,0 +1,1 @@
+[["Nairobi", "Europe", "Mammal"], ["Nairobi", "Giraffe", "Mammal"], ["Nairobi", "India", "Mammal"], ["Nairobi", "Lion", "Mammal"]]

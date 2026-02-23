@@ -1,0 +1,1 @@
+[["Trench_warfare", "France", "Antarctica", "Full_moon"], ["Trench_warfare", "New_Zealand", "Antarctica", "Full_moon"], ["Trench_warfare", "United_States", "Antarctica", "Full_moon"], ["Trench_warfare", "Great_Wall_of_China", "Moon", "Full_moon"], ["Trench_warfare", "United_States", "Moon", "Full_moon"]]

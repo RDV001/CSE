@@ -1,0 +1,1 @@
+[["Long_pepper", "India", "Buddhism", "Tao_Te_Ching"], ["Long_pepper", "Indonesia", "Buddhism", "Tao_Te_Ching"], ["Long_pepper", "Malaysia", "Buddhism", "Tao_Te_Ching"], ["Long_pepper", "Sanskrit", "Buddhism", "Tao_Te_Ching"], ["Long_pepper", "Sanskrit", "Philosophy", "Tao_Te_Ching"]]

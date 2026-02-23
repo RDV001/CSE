@@ -1,0 +1,1 @@
+[["Space_exploration", "Space_Race", "Dog", "African_Wild_Dog"], ["Space_exploration", "Sputnik_2", "Dog", "African_Wild_Dog"]]

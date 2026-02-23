@@ -1,0 +1,1 @@
+[["James_Monroe", "Latin_America", "Jew"], ["James_Monroe", "Spain", "Jew"]]

@@ -1,0 +1,1 @@
+[["Hutu", "Africa", "Cold_War"], ["Hutu", "Berlin", "Cold_War"], ["Hutu", "Democratic_Republic_of_the_Congo", "Cold_War"], ["Hutu", "United_Nations", "Cold_War"], ["Hutu", "United_States", "Cold_War"]]

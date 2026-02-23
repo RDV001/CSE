@@ -1,0 +1,1 @@
+[["Acetic_acid", "United_States", "John_F._Kennedy"]]

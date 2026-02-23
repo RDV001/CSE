@@ -1,0 +1,1 @@
+[["Human_rights", "Max_Weber", "Homer"], ["Human_rights", "Political_science", "Homer"], ["Human_rights", "Slavery", "Homer"]]

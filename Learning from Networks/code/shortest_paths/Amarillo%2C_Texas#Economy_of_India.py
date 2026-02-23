@@ -1,0 +1,1 @@
+[["Amarillo%2C_Texas", "Cattle", "Mumbai", "Economy_of_India"], ["Amarillo%2C_Texas", "Time_zone", "Mumbai", "Economy_of_India"]]

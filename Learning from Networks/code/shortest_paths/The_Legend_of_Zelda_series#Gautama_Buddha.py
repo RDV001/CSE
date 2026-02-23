@@ -1,0 +1,1 @@
+[["The_Legend_of_Zelda_series", "Computer_and_video_games", "India", "Gautama_Buddha"], ["The_Legend_of_Zelda_series", "Japan", "Buddha", "Gautama_Buddha"], ["The_Legend_of_Zelda_series", "Japan", "Buddhism", "Gautama_Buddha"], ["The_Legend_of_Zelda_series", "Japan", "Taoism", "Gautama_Buddha"], ["The_Legend_of_Zelda_series", "Norse_mythology", "Odin", "Gautama_Buddha"]]

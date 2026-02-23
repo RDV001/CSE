@@ -1,0 +1,1 @@
+[["Great_Auk", "Bird", "Agriculture", "Egg_%28food%29"], ["Great_Auk", "Iceland", "Agriculture", "Egg_%28food%29"], ["Great_Auk", "Bird", "Chicken", "Egg_%28food%29"], ["Great_Auk", "Bird", "Poultry", "Egg_%28food%29"], ["Great_Auk", "Pliocene", "Dog", "Egg_%28food%29"]]

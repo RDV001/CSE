@@ -1,0 +1,1 @@
+[["Hunger", "Famine", "Ethiopia", "Mecca"], ["Hunger", "Poverty", "Indonesia", "Mecca"]]

@@ -1,0 +1,1 @@
+[["Thomas_Aquinas", "Animal", "Magellanic_Penguin", "African_Penguin"]]

@@ -1,0 +1,1 @@
+[["Amazon_parrot", "Mexico", "English_language", "Fiji"], ["Amazon_parrot", "South_America", "English_language", "Fiji"], ["Amazon_parrot", "Mexico", "List_of_countries_by_system_of_government", "Fiji"], ["Amazon_parrot", "South_America", "Oceania", "Fiji"], ["Amazon_parrot", "South_America", "Pacific_Ocean", "Fiji"]]

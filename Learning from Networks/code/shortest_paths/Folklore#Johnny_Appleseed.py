@@ -1,0 +1,1 @@
+[["Folklore", "Europe", "Jersey", "Apple", "Johnny_Appleseed"], ["Folklore", "Game", "Toy", "Apple", "Johnny_Appleseed"], ["Folklore", "Mathematics", "Mesopotamia", "Apple", "Johnny_Appleseed"]]

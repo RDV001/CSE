@@ -1,0 +1,1 @@
+[["Oxyrhynchus", "Civilization", "Tribe"], ["Oxyrhynchus", "Demosthenes", "Tribe"]]

@@ -1,0 +1,1 @@
+[["Measles", "Mexico", "Irish_people", "Paul_McCartney"], ["Measles", "United_Kingdom", "Elizabeth_II_of_the_United_Kingdom", "Paul_McCartney"], ["Measles", "United_Kingdom", "The_Beatles", "Paul_McCartney"], ["Measles", "United_Kingdom", "The_Rolling_Stones", "Paul_McCartney"]]

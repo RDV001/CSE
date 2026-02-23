@@ -1,0 +1,1 @@
+[["Chimpanzee", "20th_century", "Asia", "Economy_of_Africa"], ["Chimpanzee", "Human", "Asia", "Economy_of_Africa"], ["Chimpanzee", "Democratic_Republic_of_the_Congo", "African_Union", "Economy_of_Africa"], ["Chimpanzee", "Kenya", "African_Union", "Economy_of_Africa"], ["Chimpanzee", "Democratic_Republic_of_the_Congo", "Sub-Saharan_Africa", "Economy_of_Africa"]]

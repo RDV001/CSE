@@ -1,0 +1,1 @@
+[["Ariel_Sharon", "France", "River", "Fractal"], ["Ariel_Sharon", "Jordan", "River", "Fractal"]]

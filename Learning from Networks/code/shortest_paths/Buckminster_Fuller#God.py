@@ -1,0 +1,1 @@
+[["Buckminster_Fuller", "Human", "God"]]

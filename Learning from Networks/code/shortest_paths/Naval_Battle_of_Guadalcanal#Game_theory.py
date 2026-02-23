@@ -1,0 +1,1 @@
+[["Naval_Battle_of_Guadalcanal", "United_States", "War", "Game_theory"], ["Naval_Battle_of_Guadalcanal", "World_War_II", "War", "Game_theory"]]

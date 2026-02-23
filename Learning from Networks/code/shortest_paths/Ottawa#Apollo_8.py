@@ -1,0 +1,1 @@
+[["Ottawa", "Baseball", "Earth", "Apollo_8"], ["Ottawa", "Earthquake", "Earth", "Apollo_8"], ["Ottawa", "Time_zone", "Earth", "Apollo_8"], ["Ottawa", "Tropical_cyclone", "Earth", "Apollo_8"]]

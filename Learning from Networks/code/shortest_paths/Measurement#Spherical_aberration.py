@@ -1,0 +1,1 @@
+[["Measurement", "Milky_Way", "Hubble_Deep_Field", "Spherical_aberration"], ["Measurement", "Speed_of_light", "Telescope", "Spherical_aberration"]]

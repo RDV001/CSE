@@ -1,0 +1,1 @@
+[["Picts", "Old_English_language", "Moon", "Mars"], ["Picts", "Ptolemy", "Moon", "Mars"], ["Picts", "Ptolemy", "Astrology", "Mars"], ["Picts", "Ptolemy", "Solar_System", "Mars"]]

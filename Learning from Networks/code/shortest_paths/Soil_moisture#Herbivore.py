@@ -1,0 +1,1 @@
+[["Soil_moisture", "Agriculture", "Africa", "Herbivore"], ["Soil_moisture", "Rain", "Africa", "Herbivore"], ["Soil_moisture", "Agriculture", "Horse", "Herbivore"], ["Soil_moisture", "Rain", "Plant", "Herbivore"], ["Soil_moisture", "Water", "Human", "Herbivore"]]

@@ -1,0 +1,1 @@
+[["English_poetry", "George_Herbert", "Psychology", "Measurement"], ["English_poetry", "Romanticism", "Psychology", "Measurement"], ["English_poetry", "Johannes_Kepler", "Milky_Way", "Measurement"], ["English_poetry", "Renaissance", "Mathematics", "Measurement"], ["English_poetry", "Scotland", "Mathematics", "Measurement"]]

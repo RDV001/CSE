@@ -1,0 +1,1 @@
+[["U.S._Route_66", "United_States", "Plymouth", "Hundred_Years%27_War"], ["U.S._Route_66", "World_War_II", "Flanders", "Hundred_Years%27_War"], ["U.S._Route_66", "World_War_II", "Paris", "Hundred_Years%27_War"]]

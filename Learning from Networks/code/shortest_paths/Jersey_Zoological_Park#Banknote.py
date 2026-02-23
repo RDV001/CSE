@@ -1,0 +1,1 @@
+[["Jersey_Zoological_Park", "Jersey", "Currency", "Banknote"], ["Jersey_Zoological_Park", "Snowy_Owl", "Scotland", "Banknote"]]

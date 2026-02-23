@@ -1,0 +1,1 @@
+[["National_Hockey_League", "Europe", "Slovenia"], ["National_Hockey_League", "Ice_hockey", "Slovenia"]]

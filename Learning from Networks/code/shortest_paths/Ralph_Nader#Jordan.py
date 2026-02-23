@@ -1,0 +1,1 @@
+[["Ralph_Nader", "Arabic_language", "Jordan"], ["Ralph_Nader", "George_W._Bush", "Jordan"], ["Ralph_Nader", "Iraq", "Jordan"], ["Ralph_Nader", "Lebanon", "Jordan"], ["Ralph_Nader", "Ronald_Reagan", "Jordan"]]

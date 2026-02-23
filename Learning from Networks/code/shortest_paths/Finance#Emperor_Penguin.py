@@ -1,0 +1,1 @@
+[["Finance", "Accountancy", "Human", "Antarctica", "Emperor_Penguin"], ["Finance", "Corporate_finance", "United_States", "Antarctica", "Emperor_Penguin"], ["Finance", "Economics", "United_States", "Antarctica", "Emperor_Penguin"], ["Finance", "Stock", "United_States", "Antarctica", "Emperor_Penguin"]]

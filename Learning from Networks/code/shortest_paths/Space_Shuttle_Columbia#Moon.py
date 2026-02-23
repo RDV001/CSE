@@ -1,0 +1,1 @@
+[["Space_Shuttle_Columbia", "Apollo_11", "Moon"], ["Space_Shuttle_Columbia", "Earth", "Moon"], ["Space_Shuttle_Columbia", "Hubble_Space_Telescope", "Moon"], ["Space_Shuttle_Columbia", "Mir", "Moon"], ["Space_Shuttle_Columbia", "United_States", "Moon"]]

@@ -1,0 +1,1 @@
+[["Crusades", "Georgia_%28country%29", "Sri_Lanka", "Rupee"], ["Crusades", "Islam", "Taj_Mahal", "Rupee"]]

@@ -1,0 +1,1 @@
+[["Plains_Zebra", "Scientific_classification", "Pea", "Wasabi"]]

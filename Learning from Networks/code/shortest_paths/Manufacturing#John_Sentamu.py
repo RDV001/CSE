@@ -1,0 +1,1 @@
+[["Manufacturing", "United_States", "Multiculturalism", "John_Sentamu"]]

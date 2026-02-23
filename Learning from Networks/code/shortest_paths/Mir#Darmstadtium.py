@@ -1,0 +1,1 @@
+[["Mir", "United_States_dollar", "Platinum", "Darmstadtium"]]

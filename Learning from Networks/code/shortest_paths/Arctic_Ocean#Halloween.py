@@ -1,0 +1,1 @@
+[["Arctic_Ocean", "Earth", "Day", "Halloween"], ["Arctic_Ocean", "Season", "Autumn", "Halloween"], ["Arctic_Ocean", "United_States", "Detroit%2C_Michigan", "Halloween"]]

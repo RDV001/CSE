@@ -1,0 +1,1 @@
+[["Perfect_number", "Ancient_Greece", "Aristotle", "Light"], ["Perfect_number", "Euclid", "Astronomy", "Light"], ["Perfect_number", "Leonhard_Euler", "Astronomy", "Light"], ["Perfect_number", "Leonhard_Euler", "Isaac_Newton", "Light"], ["Perfect_number", "Prime_number", "Albert_Einstein", "Light"]]

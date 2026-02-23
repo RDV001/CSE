@@ -1,0 +1,1 @@
+[["Pelycosaur", "Russia", "Human_rights", "Women%27s_rights"], ["Pelycosaur", "South_Africa", "Poverty", "Women%27s_rights"]]

@@ -1,0 +1,1 @@
+[["Nicaragua", "Poetry", "Globalization"], ["Nicaragua", "Spanish_language", "Globalization"]]

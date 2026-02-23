@@ -1,0 +1,1 @@
+[["Pakistan", "Time_zone", "Stockholm"]]

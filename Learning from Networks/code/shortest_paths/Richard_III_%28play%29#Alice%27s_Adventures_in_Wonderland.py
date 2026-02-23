@@ -1,0 +1,1 @@
+[["Richard_III_%28play%29", "Archbishop_of_Canterbury", "River_Thames", "Alice%27s_Adventures_in_Wonderland"], ["Richard_III_%28play%29", "Tower_of_London", "River_Thames", "Alice%27s_Adventures_in_Wonderland"], ["Richard_III_%28play%29", "The_Beatles", "I_Want_to_Hold_Your_Hand", "Alice%27s_Adventures_in_Wonderland"]]

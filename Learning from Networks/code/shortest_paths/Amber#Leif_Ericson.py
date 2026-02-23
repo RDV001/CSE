@@ -1,0 +1,1 @@
+[["Amber", "Baltic_Sea", "Viking", "Leif_Ericson"], ["Amber", "Canada", "Viking", "Leif_Ericson"], ["Amber", "Denmark", "Viking", "Leif_Ericson"], ["Amber", "Norfolk", "Viking", "Leif_Ericson"], ["Amber", "Sweden", "Viking", "Leif_Ericson"], ["Amber", "New_Zealand", "11th_century", "Leif_Ericson"], ["Amber", "Turkey", "11th_century", "Leif_Ericson"]]

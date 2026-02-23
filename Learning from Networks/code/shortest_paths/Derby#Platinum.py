@@ -1,0 +1,1 @@
+[["Derby", "BBC", "United_States_dollar", "Platinum"], ["Derby", "India", "United_States_dollar", "Platinum"], ["Derby", "London", "United_States_dollar", "Platinum"], ["Derby", "Birmingham", "Jewellery", "Platinum"], ["Derby", "Birmingham", "Metal", "Platinum"], ["Derby", "Germany", "Max_Planck", "Platinum"], ["Derby", "John_Flamsteed", "Uranus", "Platinum"]]

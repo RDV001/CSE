@@ -1,0 +1,1 @@
+[["Papua_New_Guinea", "Australia", "Grand_Slam_%28tennis%29", "Tiger_Woods"], ["Papua_New_Guinea", "New_Zealand", "All_Blacks", "Tiger_Woods"]]

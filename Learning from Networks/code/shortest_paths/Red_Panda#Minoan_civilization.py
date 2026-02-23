@@ -1,0 +1,1 @@
+[["Red_Panda", "Human", "Civilization", "Minoan_civilization"]]

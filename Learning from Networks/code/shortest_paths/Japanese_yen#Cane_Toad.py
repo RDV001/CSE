@@ -1,0 +1,1 @@
+[["Japanese_yen", "Europe", "Carnivore", "Frog", "Cane_Toad"], ["Japanese_yen", "Japan", "Fishing", "Frog", "Cane_Toad"]]

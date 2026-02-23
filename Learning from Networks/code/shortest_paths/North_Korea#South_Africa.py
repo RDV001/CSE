@@ -1,0 +1,1 @@
+[["North_Korea", "Famine", "South_Africa"], ["North_Korea", "List_of_countries_by_system_of_government", "South_Africa"], ["North_Korea", "Nuclear_weapon", "South_Africa"], ["North_Korea", "Time_zone", "South_Africa"], ["North_Korea", "United_Nations", "South_Africa"]]

@@ -1,0 +1,1 @@
+[["Bantu", "Africa", "Atlantic_slave_trade", "William_Wilberforce"], ["Bantu", "Madagascar", "Anglicanism", "William_Wilberforce"], ["Bantu", "South_Africa", "Desmond_Tutu", "William_Wilberforce"]]

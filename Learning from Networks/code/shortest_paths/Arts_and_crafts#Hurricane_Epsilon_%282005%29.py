@@ -1,0 +1,1 @@
+[["Arts_and_crafts", "Industrial_Revolution", "Global_warming", "Tropical_cyclone", "Hurricane_Epsilon_%282005%29"], ["Arts_and_crafts", "Pottery", "Japan", "Tropical_cyclone", "Hurricane_Epsilon_%282005%29"], ["Arts_and_crafts", "Sculpture", "Japan", "Tropical_cyclone", "Hurricane_Epsilon_%282005%29"]]

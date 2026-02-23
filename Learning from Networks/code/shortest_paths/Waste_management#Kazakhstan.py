@@ -1,0 +1,1 @@
+[["Waste_management", "Germany", "Kazakhstan"], ["Waste_management", "Israel", "Kazakhstan"]]

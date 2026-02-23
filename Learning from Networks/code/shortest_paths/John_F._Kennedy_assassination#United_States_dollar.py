@@ -1,0 +1,1 @@
+[["John_F._Kennedy_assassination", "Dallas%2C_Texas", "United_States_dollar"], ["John_F._Kennedy_assassination", "United_States", "United_States_dollar"]]

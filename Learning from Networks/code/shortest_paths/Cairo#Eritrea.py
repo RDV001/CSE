@@ -1,0 +1,1 @@
+[["Cairo", "Africa", "Eritrea"], ["Cairo", "Egypt", "Eritrea"], ["Cairo", "Israel", "Eritrea"], ["Cairo", "Khartoum", "Eritrea"], ["Cairo", "Sudan", "Eritrea"]]

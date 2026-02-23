@@ -1,0 +1,1 @@
+[["Colombia", "Currency", "Mauritania"], ["Colombia", "List_of_countries_by_system_of_government", "Mauritania"], ["Colombia", "United_States", "Mauritania"]]

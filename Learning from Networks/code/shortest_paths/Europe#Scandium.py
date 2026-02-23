@@ -1,0 +1,1 @@
+[["Europe", "Earth", "Calcium", "Scandium"]]

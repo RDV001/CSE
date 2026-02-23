@@ -1,0 +1,1 @@
+[["Charles_I_of_England", "Charles_II_of_England", "Africa", "Maseru"], ["Charles_I_of_England", "Ireland", "Africa", "Maseru"], ["Charles_I_of_England", "North_America", "Africa", "Maseru"], ["Charles_I_of_England", "Paris", "Africa", "Maseru"], ["Charles_I_of_England", "Roman_Catholic_Church", "Africa", "Maseru"], ["Charles_I_of_England", "Spain", "Africa", "Maseru"]]

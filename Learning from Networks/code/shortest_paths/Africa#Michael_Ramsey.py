@@ -1,0 +1,1 @@
+[["Africa", "Anglican_Communion", "Michael_Ramsey"]]

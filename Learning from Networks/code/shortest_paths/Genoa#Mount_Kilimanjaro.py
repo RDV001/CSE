@@ -1,0 +1,1 @@
+[["Genoa", "Africa", "Nairobi", "Mount_Kilimanjaro"], ["Genoa", "Africa", "Tanzania", "Mount_Kilimanjaro"], ["Genoa", "Greece", "Tanzania", "Mount_Kilimanjaro"], ["Genoa", "United_States", "Tanzania", "Mount_Kilimanjaro"], ["Genoa", "Aquarium", "Tropics", "Mount_Kilimanjaro"], ["Genoa", "England", "Snow", "Mount_Kilimanjaro"]]

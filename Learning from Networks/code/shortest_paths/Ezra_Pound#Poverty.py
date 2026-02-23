@@ -1,0 +1,1 @@
+[["Ezra_Pound", "Du_Fu", "Poverty"], ["Ezra_Pound", "James_Joyce", "Poverty"]]

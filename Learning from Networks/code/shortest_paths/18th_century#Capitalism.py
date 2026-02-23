@@ -1,0 +1,1 @@
+[["18th_century", "21st_century", "Capitalism"], ["18th_century", "Adam_Smith", "Capitalism"], ["18th_century", "Edmund_Burke", "Capitalism"], ["18th_century", "Netherlands", "Capitalism"], ["18th_century", "United_States", "Capitalism"]]

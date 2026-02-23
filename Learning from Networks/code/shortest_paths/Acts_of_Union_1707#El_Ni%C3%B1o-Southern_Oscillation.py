@@ -1,0 +1,1 @@
+[["Acts_of_Union_1707", "England", "Season", "El_Ni%C3%B1o-Southern_Oscillation"], ["Acts_of_Union_1707", "Pound_sterling", "Australia", "El_Ni%C3%B1o-Southern_Oscillation"]]

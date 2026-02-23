@@ -1,0 +1,1 @@
+[["Erbium", "20th_century", "16th_century", "Mona_Lisa"], ["Erbium", "20th_century", "Paris", "Mona_Lisa"], ["Erbium", "Neutron", "Paris", "Mona_Lisa"], ["Erbium", "Color", "Art", "Mona_Lisa"], ["Erbium", "Metal", "Art", "Mona_Lisa"], ["Erbium", "Metal", "Painting", "Mona_Lisa"]]

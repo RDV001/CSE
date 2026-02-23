@@ -1,0 +1,1 @@
+[["Gas_giant", "Ammonia", "Nitrogen"], ["Gas_giant", "Carbon", "Nitrogen"], ["Gas_giant", "Earth", "Nitrogen"], ["Gas_giant", "Helium", "Nitrogen"], ["Gas_giant", "Hydrogen", "Nitrogen"], ["Gas_giant", "Oxygen", "Nitrogen"], ["Gas_giant", "Planet", "Nitrogen"], ["Gas_giant", "Sun", "Nitrogen"]]

@@ -1,0 +1,1 @@
+[["Billie_Holiday", "Jew", "Nazism"]]

@@ -1,0 +1,1 @@
+[["Israel", "Ethiopia", "Jesus"], ["Israel", "Georgia_%28country%29", "Jesus"], ["Israel", "Jordan", "Jesus"], ["Israel", "Jordan_River", "Jesus"], ["Israel", "Judaism", "Jesus"], ["Israel", "Sassanid_Empire", "Jesus"], ["Israel", "Sea_of_Galilee", "Jesus"], ["Israel", "West_Bank", "Jesus"]]

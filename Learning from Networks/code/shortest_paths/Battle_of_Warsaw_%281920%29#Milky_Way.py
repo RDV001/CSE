@@ -1,0 +1,1 @@
+[["Battle_of_Warsaw_%281920%29", "Germany", "Gottfried_Leibniz", "Milky_Way"], ["Battle_of_Warsaw_%281920%29", "Germany", "Johannes_Kepler", "Milky_Way"], ["Battle_of_Warsaw_%281920%29", "Mythology", "Star_Trek", "Milky_Way"]]

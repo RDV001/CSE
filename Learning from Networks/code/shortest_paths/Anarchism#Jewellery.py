@@ -1,0 +1,1 @@
+[["Anarchism", "Barcelona", "Ancient_Greece", "Jewellery"], ["Anarchism", "Great_Britain", "Ancient_Greece", "Jewellery"], ["Anarchism", "Politics", "Ancient_Greece", "Jewellery"], ["Anarchism", "Stoicism", "Ancient_Greece", "Jewellery"]]

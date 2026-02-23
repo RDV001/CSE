@@ -1,0 +1,1 @@
+[["John_Calvin", "Europe", "Hinduism", "Ganesha"], ["John_Calvin", "Humanities", "Hinduism", "Ganesha"], ["John_Calvin", "Trinity", "Hinduism", "Ganesha"], ["John_Calvin", "Philosophy", "Mahabharata", "Ganesha"], ["John_Calvin", "Wine", "Tobacco", "Ganesha"]]

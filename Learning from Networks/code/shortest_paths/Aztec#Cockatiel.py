@@ -1,0 +1,1 @@
+[["Aztec", "Cocoa", "Chocolate", "Parrot", "Cockatiel"], ["Aztec", "Nahuatl_language", "Chocolate", "Parrot", "Cockatiel"], ["Aztec", "Eagle", "Bird", "Parrot", "Cockatiel"], ["Aztec", "Maize", "New_Zealand", "Parrot", "Cockatiel"], ["Aztec", "Mexico", "Costa_Rica", "Parrot", "Cockatiel"]]

@@ -1,0 +1,1 @@
+[["Electric_charge", "18th_century", "Adam_Smith", "Political_economy"], ["Electric_charge", "Benjamin_Franklin", "Age_of_Enlightenment", "Political_economy"]]

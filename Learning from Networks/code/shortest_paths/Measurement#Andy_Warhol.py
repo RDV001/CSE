@@ -1,0 +1,1 @@
+[["Measurement", "Milky_Way", "Princeton_University", "Andy_Warhol"]]

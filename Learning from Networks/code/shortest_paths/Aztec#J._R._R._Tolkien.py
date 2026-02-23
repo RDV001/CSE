@@ -1,0 +1,1 @@
+[["Aztec", "16th_century", "Roman_Catholic_Church", "J._R._R._Tolkien"], ["Aztec", "Holy_Roman_Empire", "Roman_Catholic_Church", "J._R._R._Tolkien"], ["Aztec", "Cocoa", "United_Kingdom", "J._R._R._Tolkien"], ["Aztec", "Gulf_of_Mexico", "United_Kingdom", "J._R._R._Tolkien"], ["Aztec", "Smallpox", "United_Kingdom", "J._R._R._Tolkien"]]

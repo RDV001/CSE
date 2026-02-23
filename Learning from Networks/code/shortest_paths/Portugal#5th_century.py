@@ -1,0 +1,1 @@
+[["Portugal", "19th_century", "5th_century"], ["Portugal", "Ancient_Rome", "5th_century"], ["Portugal", "Civilization", "5th_century"], ["Portugal", "Morocco", "5th_century"]]

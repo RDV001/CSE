@@ -1,0 +1,1 @@
+[["Equal_Protection_Clause", "Education", "Child", "Tiger_Woods"]]

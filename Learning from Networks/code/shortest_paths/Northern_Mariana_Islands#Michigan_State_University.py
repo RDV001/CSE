@@ -1,0 +1,1 @@
+[["Northern_Mariana_Islands", "George_W._Bush", "Condoleezza_Rice", "Michigan_State_University"], ["Northern_Mariana_Islands", "Time_zone", "Detroit%2C_Michigan", "Michigan_State_University"], ["Northern_Mariana_Islands", "United_States", "Detroit%2C_Michigan", "Michigan_State_University"], ["Northern_Mariana_Islands", "United_States", "Ice_hockey", "Michigan_State_University"]]

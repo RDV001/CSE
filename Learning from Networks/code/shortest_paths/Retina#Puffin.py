@@ -1,0 +1,1 @@
+[["Retina", "Brain", "Europe", "Faroe_Islands", "Puffin"], ["Retina", "Color_blindness", "Scotland", "Faroe_Islands", "Puffin"], ["Retina", "Dog", "Germany", "Faroe_Islands", "Puffin"], ["Retina", "Brain", "Europe", "Svalbard", "Puffin"], ["Retina", "Dog", "Arctic", "Svalbard", "Puffin"]]

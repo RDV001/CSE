@@ -1,0 +1,1 @@
+[["Mount_Everest", "China", "Calligraphy", "Windows_Vista"]]

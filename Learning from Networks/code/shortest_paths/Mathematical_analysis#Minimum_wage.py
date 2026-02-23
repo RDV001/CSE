@@ -1,0 +1,1 @@
+[["Mathematical_analysis", "16th_century", "Florida", "Minimum_wage"], ["Mathematical_analysis", "18th_century", "California", "Minimum_wage"], ["Mathematical_analysis", "Gottfried_Leibniz", "Law", "Minimum_wage"]]

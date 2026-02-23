@@ -1,0 +1,1 @@
+[["Rosa_Parks", "Detroit%2C_Michigan"]]

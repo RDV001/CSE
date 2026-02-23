@@ -1,0 +1,1 @@
+[["Ren%C3%A9_Descartes", "English_language", "HTTP_cookie", "Internet_Explorer"], ["Ren%C3%A9_Descartes", "Gottfried_Leibniz", "World_Wide_Web", "Internet_Explorer"], ["Ren%C3%A9_Descartes", "Science", "World_Wide_Web", "Internet_Explorer"]]

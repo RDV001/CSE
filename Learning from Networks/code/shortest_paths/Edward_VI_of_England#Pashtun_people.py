@@ -1,0 +1,1 @@
+[["Edward_VI_of_England", "Germany", "Afghanistan", "Pashtun_people"], ["Edward_VI_of_England", "Germany", "Iranian_peoples", "Pashtun_people"]]

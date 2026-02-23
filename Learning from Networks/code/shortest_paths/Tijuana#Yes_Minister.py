@@ -1,0 +1,1 @@
+[["Tijuana", "19th_century", "Spanish_Inquisition", "Monty_Python", "Yes_Minister"], ["Tijuana", "Tourism", "Leicester", "Monty_Python", "Yes_Minister"], ["Tijuana", "United_States", "Minneapolis%2C_Minnesota", "Monty_Python", "Yes_Minister"]]

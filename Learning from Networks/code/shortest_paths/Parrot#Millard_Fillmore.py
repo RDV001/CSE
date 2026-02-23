@@ -1,0 +1,1 @@
+[["Parrot", "United_States", "Manifest_Destiny", "Millard_Fillmore"], ["Parrot", "United_States", "Minneapolis%2C_Minnesota", "Millard_Fillmore"], ["Parrot", "United_States", "President_of_the_United_States", "Millard_Fillmore"], ["Parrot", "Winston_Churchill", "Theodore_Roosevelt", "Millard_Fillmore"]]

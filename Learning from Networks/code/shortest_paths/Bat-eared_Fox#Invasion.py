@@ -1,0 +1,1 @@
+[["Bat-eared_Fox", "Africa", "Ancient_Rome", "Invasion"], ["Bat-eared_Fox", "Africa", "Antananarivo", "Invasion"], ["Bat-eared_Fox", "Africa", "Civilization", "Invasion"]]

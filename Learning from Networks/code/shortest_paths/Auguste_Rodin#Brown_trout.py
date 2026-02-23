@@ -1,0 +1,1 @@
+[["Auguste_Rodin", "Bronze_Age", "Sweden", "Minnesota", "Brown_trout"], ["Auguste_Rodin", "Clay", "Sweden", "Minnesota", "Brown_trout"], ["Auguste_Rodin", "Clay", "Ice_age", "Minnesota", "Brown_trout"], ["Auguste_Rodin", "France", "United_States", "Minnesota", "Brown_trout"], ["Auguste_Rodin", "Dante_Alighieri", "Argentina", "Trout", "Brown_trout"]]

@@ -1,0 +1,1 @@
+[["Sea_of_Galilee", "Jordan", "Bill_Clinton", "William_Henry_Harrison"], ["Sea_of_Galilee", "Syria", "Bill_Clinton", "William_Henry_Harrison"]]

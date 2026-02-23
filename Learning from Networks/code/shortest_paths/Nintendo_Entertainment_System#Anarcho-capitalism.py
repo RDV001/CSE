@@ -1,0 +1,1 @@
+[["Nintendo_Entertainment_System", "Russia", "Liberalism", "Anarcho-capitalism"]]

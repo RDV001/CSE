@@ -1,0 +1,1 @@
+[["Harry_S._Truman", "Kansas_City%2C_Missouri", "Baseball"], ["Harry_S._Truman", "Minneapolis%2C_Minnesota", "Baseball"], ["Harry_S._Truman", "Puerto_Rico", "Baseball"], ["Harry_S._Truman", "Southern_United_States", "Baseball"], ["Harry_S._Truman", "United_States", "Baseball"], ["Harry_S._Truman", "Vietnam", "Baseball"]]

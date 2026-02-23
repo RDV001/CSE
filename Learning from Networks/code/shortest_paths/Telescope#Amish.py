@@ -1,0 +1,1 @@
+[["Telescope", "Earth", "German_language", "Amish"], ["Telescope", "France", "German_language", "Amish"], ["Telescope", "Netherlands", "German_language", "Amish"]]

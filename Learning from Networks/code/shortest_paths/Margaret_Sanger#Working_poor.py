@@ -1,0 +1,1 @@
+[["Margaret_Sanger", "John_F._Kennedy", "Poverty", "Working_poor"]]

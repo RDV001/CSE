@@ -1,0 +1,1 @@
+[["Macau", "Africa", "Anthropology", "Carl_Jung"], ["Macau", "Clothing", "Anthropology", "Carl_Jung"], ["Macau", "Buddhism", "Psychology", "Carl_Jung"], ["Macau", "Europe", "Greek_mythology", "Carl_Jung"], ["Macau", "Netherlands", "The_Holocaust", "Carl_Jung"], ["Macau", "World_War_II", "The_Holocaust", "Carl_Jung"], ["Macau", "Taoism", "Alchemy", "Carl_Jung"]]

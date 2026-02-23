@@ -1,0 +1,1 @@
+[["Barium", "Antoine_Lavoisier", "Phosphorus"], ["Barium", "Hydrogen", "Phosphorus"], ["Barium", "Lanthanum", "Phosphorus"], ["Barium", "List_of_elements_by_name", "Phosphorus"], ["Barium", "Mineral", "Phosphorus"], ["Barium", "Periodic_table", "Phosphorus"]]

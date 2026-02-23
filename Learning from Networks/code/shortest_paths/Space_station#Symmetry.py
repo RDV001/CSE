@@ -1,0 +1,1 @@
+[["Space_station", "Human", "Aesthetics", "Symmetry"], ["Space_station", "Human", "Antarctica", "Symmetry"], ["Space_station", "Spacecraft_propulsion", "Momentum", "Symmetry"]]

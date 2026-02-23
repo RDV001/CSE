@@ -1,0 +1,1 @@
+[["Idolatry", "Nationalism", "Adolf_Hitler", "Charlie_Chaplin"]]

@@ -1,0 +1,1 @@
+[["Imperative_programming", "20th_century", "United_States", "Bald_Eagle", "Osprey"], ["Imperative_programming", "C%2B%2B", "Evolution", "Glacier_National_Park_%28US%29", "Osprey"]]

@@ -1,0 +1,1 @@
+[["Eagle", "Extinction", "Cretaceous-Tertiary_extinction_event", "Chromium"], ["Eagle", "Germany", "Coal", "Chromium"], ["Eagle", "Nigeria", "Coal", "Chromium"], ["Eagle", "United_States", "Coal", "Chromium"], ["Eagle", "South_America", "Iron", "Chromium"], ["Eagle", "United_States", "Steel", "Chromium"]]

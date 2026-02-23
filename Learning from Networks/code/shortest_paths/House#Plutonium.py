@@ -1,0 +1,1 @@
+[["House", "Earthquake", "Nuclear_weapon", "Plutonium"], ["House", "United_States", "Nuclear_weapon", "Plutonium"], ["House", "Economics", "University_of_Chicago", "Plutonium"], ["House", "Heat", "Metal", "Plutonium"], ["House", "United_Kingdom", "Irish_Sea", "Plutonium"], ["House", "United_States", "Nuclear_power", "Plutonium"]]

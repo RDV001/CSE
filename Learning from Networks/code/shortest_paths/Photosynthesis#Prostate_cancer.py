@@ -1,0 +1,1 @@
+[["Photosynthesis", "Austria", "Ludwig_Wittgenstein", "Prostate_cancer"], ["Photosynthesis", "Evolution", "Cancer", "Prostate_cancer"], ["Photosynthesis", "Ultraviolet", "Cancer", "Prostate_cancer"], ["Photosynthesis", "Light", "Vitamin_D", "Prostate_cancer"]]

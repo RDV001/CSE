@@ -1,0 +1,1 @@
+[["Stingray", "Africa", "Gold", "Periodic_table"], ["Stingray", "Israel", "Chemistry", "Periodic_table"], ["Stingray", "Malaysia", "Chemistry", "Periodic_table"], ["Stingray", "Malaysia", "Tin", "Periodic_table"], ["Stingray", "South_America", "Tin", "Periodic_table"], ["Stingray", "South_America", "Copper", "Periodic_table"]]

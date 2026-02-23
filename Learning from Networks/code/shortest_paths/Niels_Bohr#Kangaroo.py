@@ -1,0 +1,1 @@
+[["Niels_Bohr", "19th_century", "Australia", "Kangaroo"], ["Niels_Bohr", "Franklin_D._Roosevelt", "Australia", "Kangaroo"], ["Niels_Bohr", "Olympic_Games", "Australia", "Kangaroo"], ["Niels_Bohr", "Speed_of_light", "Australia", "Kangaroo"], ["Niels_Bohr", "The_Simpsons", "Australia", "Kangaroo"]]

@@ -1,0 +1,1 @@
+[["Europium", "Color", "Fruit", "Pea"]]

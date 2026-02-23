@@ -1,0 +1,1 @@
+[["Cuba", "Soviet_Union", "Laika", "Sputnik_program"], ["Cuba", "Soviet_Union", "Sputnik_1", "Sputnik_program"]]

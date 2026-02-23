@@ -1,0 +1,1 @@
+[["Poetry_of_the_United_States", "Russia", "Mongolia", "Molybdenum"], ["Poetry_of_the_United_States", "Sweden", "Iron", "Molybdenum"], ["Poetry_of_the_United_States", "United_States", "Coal", "Molybdenum"], ["Poetry_of_the_United_States", "United_States", "Mining", "Molybdenum"], ["Poetry_of_the_United_States", "United_States", "Rocky_Mountains", "Molybdenum"]]

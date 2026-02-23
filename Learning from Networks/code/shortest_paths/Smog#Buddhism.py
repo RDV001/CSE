@@ -1,0 +1,1 @@
+[["Smog", "Hong_Kong", "Buddhism"], ["Smog", "Indonesia", "Buddhism"], ["Smog", "Malaysia", "Buddhism"], ["Smog", "Singapore", "Buddhism"], ["Smog", "Thailand", "Buddhism"], ["Smog", "Toronto", "Buddhism"]]

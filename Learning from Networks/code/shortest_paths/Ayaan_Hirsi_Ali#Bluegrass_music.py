@@ -1,0 +1,1 @@
+[["Ayaan_Hirsi_Ali", "Ethiopia", "Folk_music", "Bluegrass_music"], ["Ayaan_Hirsi_Ali", "Iran", "Music", "Bluegrass_music"], ["Ayaan_Hirsi_Ali", "United_States", "Elvis_Presley", "Bluegrass_music"], ["Ayaan_Hirsi_Ali", "United_States", "Music_of_the_United_States", "Bluegrass_music"], ["Ayaan_Hirsi_Ali", "United_States", "Southern_United_States", "Bluegrass_music"]]

@@ -1,0 +1,1 @@
+[["Wood_fuel", "Finland", "NATO"], ["Wood_fuel", "Sweden", "NATO"], ["Wood_fuel", "United_States", "NATO"]]

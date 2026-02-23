@@ -1,0 +1,1 @@
+[["Mandan", "English_language", "Anguilla"]]

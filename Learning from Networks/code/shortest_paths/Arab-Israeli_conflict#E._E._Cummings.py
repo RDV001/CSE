@@ -1,0 +1,1 @@
+[["Arab-Israeli_conflict", "Egypt", "Literature", "E._E._Cummings"], ["Arab-Israeli_conflict", "Israel", "Literature", "E._E._Cummings"], ["Arab-Israeli_conflict", "Lebanon", "Literature", "E._E._Cummings"], ["Arab-Israeli_conflict", "United_States", "Poetry_of_the_United_States", "E._E._Cummings"]]

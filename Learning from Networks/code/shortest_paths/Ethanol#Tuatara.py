@@ -1,0 +1,1 @@
+[["Ethanol", "Beer", "New_Zealand", "Tuatara"], ["Ethanol", "Meningitis", "New_Zealand", "Tuatara"], ["Ethanol", "People%27s_Republic_of_China", "New_Zealand", "Tuatara"], ["Ethanol", "Wine", "New_Zealand", "Tuatara"], ["Ethanol", "India", "Reptile", "Tuatara"]]

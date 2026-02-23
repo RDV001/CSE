@@ -1,0 +1,1 @@
+[["Mahatma_Gandhi", "Religion", "Spanish_Inquisition", "Monty_Python", "Yes_Minister"], ["Mahatma_Gandhi", "Zionism", "Spanish_Inquisition", "Monty_Python", "Yes_Minister"], ["Mahatma_Gandhi", "United_Kingdom", "J._K._Rowling", "Monty_Python", "Yes_Minister"], ["Mahatma_Gandhi", "United_States", "Minneapolis%2C_Minnesota", "Monty_Python", "Yes_Minister"]]

@@ -1,0 +1,1 @@
+[["Algorithm", "Baghdad", "Football", "Aberdeen"], ["Algorithm", "Bertrand_Russell", "David_Hume", "Aberdeen"], ["Algorithm", "Bertrand_Russell", "Scotland", "Aberdeen"], ["Algorithm", "English_language", "Scotland", "Aberdeen"], ["Algorithm", "English_language", "Picts", "Aberdeen"], ["Algorithm", "English_language", "Scots_language", "Aberdeen"]]

@@ -1,0 +1,1 @@
+[["Quito", "Capital", "Cairo", "Pyramid"], ["Quito", "Time_zone", "Cairo", "Pyramid"], ["Quito", "Europe", "Suez_Canal", "Pyramid"], ["Quito", "Gold", "Quartz", "Pyramid"]]

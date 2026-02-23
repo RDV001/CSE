@@ -1,0 +1,1 @@
+[["Henry_Rollins", "United_States", "California", "Arnold_Schwarzenegger"], ["Henry_Rollins", "United_States", "George_W._Bush", "Arnold_Schwarzenegger"]]

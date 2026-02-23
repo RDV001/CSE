@@ -1,0 +1,1 @@
+[["Ethnic_group", "Africa", "Earth", "Apollo_8"], ["Ethnic_group", "Europe", "Earth", "Apollo_8"], ["Ethnic_group", "North_America", "Earth", "Apollo_8"]]

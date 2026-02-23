@@ -1,0 +1,1 @@
+[["Airbus_A380", "United_States_dollar", "Palau"]]

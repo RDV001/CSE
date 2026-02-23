@@ -1,0 +1,1 @@
+[["Electricity", "Amber", "Sulfur", "Hydrology", "Soil_moisture"], ["Electricity", "Atom", "Caesium", "Hydrology", "Soil_moisture"], ["Electricity", "Speed_of_light", "Caesium", "Hydrology", "Soil_moisture"], ["Electricity", "Benjamin_Franklin", "Meteorology", "Hydrology", "Soil_moisture"], ["Electricity", "Natural_gas", "River", "Hydrology", "Soil_moisture"]]

@@ -1,0 +1,1 @@
+[["Telephone_exchange", "Telecommunication", "Sweden", "Nuclear_fission"], ["Telephone_exchange", "Telephone", "Sweden", "Nuclear_fission"], ["Telephone_exchange", "United_States", "Sweden", "Nuclear_fission"], ["Telephone_exchange", "United_States", "Nuclear_power", "Nuclear_fission"], ["Telephone_exchange", "United_States", "Nuclear_weapon", "Nuclear_fission"]]

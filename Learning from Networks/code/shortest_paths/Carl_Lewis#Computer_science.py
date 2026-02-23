@@ -1,0 +1,1 @@
+[["Carl_Lewis", "Asia", "Mathematics", "Computer_science"], ["Carl_Lewis", "Europe", "Budapest", "Computer_science"], ["Carl_Lewis", "Stuttgart", "Budapest", "Computer_science"], ["Carl_Lewis", "Helsinki", "Linus_Torvalds", "Computer_science"], ["Carl_Lewis", "United_States", "Education", "Computer_science"]]

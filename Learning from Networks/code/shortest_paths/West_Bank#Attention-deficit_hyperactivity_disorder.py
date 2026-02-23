@@ -1,0 +1,1 @@
+[["West_Bank", "Jerusalem", "Albert_Einstein", "Attention-deficit_hyperactivity_disorder"], ["West_Bank", "Zionism", "Albert_Einstein", "Attention-deficit_hyperactivity_disorder"]]

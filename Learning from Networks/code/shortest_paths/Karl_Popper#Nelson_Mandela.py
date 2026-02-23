@@ -1,0 +1,1 @@
+[["Karl_Popper", "Elizabeth_II_of_the_United_Kingdom", "Nelson_Mandela"]]

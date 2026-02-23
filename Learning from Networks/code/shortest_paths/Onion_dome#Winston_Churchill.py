@@ -1,0 +1,1 @@
+[["Onion_dome", "Jerusalem", "Zionism", "Winston_Churchill"], ["Onion_dome", "Kiev", "Polish-Soviet_War", "Winston_Churchill"], ["Onion_dome", "Kiev", "Pretoria", "Winston_Churchill"], ["Onion_dome", "Kiev", "United_Nations", "Winston_Churchill"], ["Onion_dome", "Moscow", "Joseph_Stalin", "Winston_Churchill"], ["Onion_dome", "Moscow", "World_War_II", "Winston_Churchill"]]

@@ -1,0 +1,1 @@
+[["Jackdaw", "Africa", "United_Nations"], ["Jackdaw", "Austria", "United_Nations"], ["Jackdaw", "Europe", "United_Nations"], ["Jackdaw", "India", "United_Nations"], ["Jackdaw", "Iran", "United_Nations"], ["Jackdaw", "Poland", "United_Nations"]]

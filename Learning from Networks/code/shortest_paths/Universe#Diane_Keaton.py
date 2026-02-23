@@ -1,0 +1,1 @@
+[["Universe", "Albert_Einstein", "Edward_Teller", "Jane_Fonda", "Diane_Keaton"]]

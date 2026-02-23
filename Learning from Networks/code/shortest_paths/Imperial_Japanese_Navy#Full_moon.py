@@ -1,0 +1,1 @@
+[["Imperial_Japanese_Navy", "France", "Antarctica", "Full_moon"], ["Imperial_Japanese_Navy", "United_States", "Antarctica", "Full_moon"], ["Imperial_Japanese_Navy", "Japan", "Moon", "Full_moon"], ["Imperial_Japanese_Navy", "United_States", "Moon", "Full_moon"], ["Imperial_Japanese_Navy", "Mediterranean_Sea", "Tide", "Full_moon"]]

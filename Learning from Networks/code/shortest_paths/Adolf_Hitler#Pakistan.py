@@ -1,0 +1,1 @@
+[["Adolf_Hitler", "Architecture", "Pakistan"], ["Adolf_Hitler", "British_Empire", "Pakistan"], ["Adolf_Hitler", "India", "Pakistan"], ["Adolf_Hitler", "Middle_East", "Pakistan"], ["Adolf_Hitler", "Parliamentary_system", "Pakistan"], ["Adolf_Hitler", "United_Kingdom", "Pakistan"], ["Adolf_Hitler", "World_War_II", "Pakistan"]]

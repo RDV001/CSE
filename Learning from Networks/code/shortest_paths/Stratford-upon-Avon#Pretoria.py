@@ -1,0 +1,1 @@
+[["Stratford-upon-Avon", "Aluminium", "South_Africa", "Pretoria"], ["Stratford-upon-Avon", "Birmingham", "South_Africa", "Pretoria"], ["Stratford-upon-Avon", "Birmingham", "Johannesburg", "Pretoria"], ["Stratford-upon-Avon", "England", "Winston_Churchill", "Pretoria"], ["Stratford-upon-Avon", "London", "Capital", "Pretoria"]]

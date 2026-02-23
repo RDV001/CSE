@@ -1,0 +1,1 @@
+[["Hyena", "Animal", "Water", "Celtic_mythology"], ["Hyena", "Milk", "Water", "Celtic_mythology"], ["Hyena", "Scientific_classification", "Apple", "Celtic_mythology"]]

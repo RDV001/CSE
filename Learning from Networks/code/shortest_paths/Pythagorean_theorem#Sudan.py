@@ -1,0 +1,1 @@
+[["Pythagorean_theorem", "Egypt", "Sudan"]]

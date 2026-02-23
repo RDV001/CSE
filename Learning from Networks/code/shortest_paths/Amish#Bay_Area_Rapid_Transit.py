@@ -1,0 +1,1 @@
+[["Amish", "18th_century", "California", "Bay_Area_Rapid_Transit"], ["Amish", "United_States", "California", "Bay_Area_Rapid_Transit"], ["Amish", "United_States", "San_Francisco%2C_California", "Bay_Area_Rapid_Transit"]]

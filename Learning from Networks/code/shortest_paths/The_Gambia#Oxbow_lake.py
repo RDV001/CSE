@@ -1,0 +1,1 @@
+[["The_Gambia", "City", "River", "Oxbow_lake"], ["The_Gambia", "France", "River", "Oxbow_lake"], ["The_Gambia", "Germany", "River", "Oxbow_lake"], ["The_Gambia", "Polish-Lithuanian_Commonwealth", "River", "Oxbow_lake"]]

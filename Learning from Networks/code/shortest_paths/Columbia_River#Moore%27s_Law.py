@@ -1,0 +1,1 @@
+[["Columbia_River", "Irrigation", "20th_century", "Moore%27s_Law"], ["Columbia_River", "Missouri_River", "20th_century", "Moore%27s_Law"]]

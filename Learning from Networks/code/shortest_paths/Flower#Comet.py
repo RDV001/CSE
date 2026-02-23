@@ -1,0 +1,1 @@
+[["Flower", "Seed", "Sun", "Comet"], ["Flower", "Ultraviolet", "Sun", "Comet"], ["Flower", "Ultraviolet", "Astronomy", "Comet"], ["Flower", "Ultraviolet", "Jupiter", "Comet"], ["Flower", "United_Kingdom", "Charles_II_of_England", "Comet"], ["Flower", "United_Kingdom", "Earth", "Comet"], ["Flower", "Vincent_van_Gogh", "Venus", "Comet"]]

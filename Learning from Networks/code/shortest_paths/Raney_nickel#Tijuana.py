@@ -1,0 +1,1 @@
+[["Raney_nickel", "Carbon", "Mexico", "Tijuana"], ["Raney_nickel", "Copper", "Mexico", "Tijuana"], ["Raney_nickel", "United_States", "Mexico", "Tijuana"], ["Raney_nickel", "United_States", "Abraham_Lincoln", "Tijuana"], ["Raney_nickel", "United_States", "Pacific_Ocean", "Tijuana"]]

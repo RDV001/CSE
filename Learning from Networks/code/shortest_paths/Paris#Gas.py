@@ -1,0 +1,1 @@
+[["Paris", "Armenia", "Gas"], ["Paris", "Georgia_%28country%29", "Gas"], ["Paris", "Manufacturing", "Gas"]]

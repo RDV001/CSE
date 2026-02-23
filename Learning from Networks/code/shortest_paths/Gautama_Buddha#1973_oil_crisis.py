@@ -1,0 +1,1 @@
+[["Gautama_Buddha", "Bible", "Sweden", "1973_oil_crisis"], ["Gautama_Buddha", "India", "Cold_War", "1973_oil_crisis"], ["Gautama_Buddha", "India", "Socialism", "1973_oil_crisis"], ["Gautama_Buddha", "Japan", "Japanese_yen", "1973_oil_crisis"], ["Gautama_Buddha", "Thailand", "Vietnam_War", "1973_oil_crisis"]]

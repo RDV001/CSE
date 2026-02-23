@@ -1,0 +1,1 @@
+[["Lance_Armstrong", "Spain", "Asia", "Rabindranath_Tagore"], ["Lance_Armstrong", "Spain", "India", "Rabindranath_Tagore"], ["Lance_Armstrong", "United_States", "India", "Rabindranath_Tagore"]]

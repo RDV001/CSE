@@ -1,0 +1,1 @@
+[["Society", "Agriculture", "Egypt"], ["Society", "Civilization", "Egypt"]]

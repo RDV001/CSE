@@ -1,0 +1,1 @@
+[["Igneous_rock", "Carbon_dioxide", "Plant", "Sunflower"], ["Igneous_rock", "Earth", "Plant", "Sunflower"], ["Igneous_rock", "Magnesium", "Plant", "Sunflower"], ["Igneous_rock", "Oxygen", "Plant", "Sunflower"], ["Igneous_rock", "Potassium", "Plant", "Sunflower"], ["Igneous_rock", "Earth", "Desert", "Sunflower"]]

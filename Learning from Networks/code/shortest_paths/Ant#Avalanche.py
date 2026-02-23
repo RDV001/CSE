@@ -1,0 +1,1 @@
+[["Ant", "Earth", "Mount_Everest", "Avalanche"], ["Ant", "Evolution", "Glacier_National_Park_%28US%29", "Avalanche"], ["Ant", "South_Africa", "Snow", "Avalanche"]]

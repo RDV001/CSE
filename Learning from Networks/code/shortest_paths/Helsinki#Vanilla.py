@@ -1,0 +1,1 @@
+[["Helsinki", "Beijing", "Tea", "Vanilla"], ["Helsinki", "Hong_Kong", "Tea", "Vanilla"], ["Helsinki", "Hong_Kong", "Fruit", "Vanilla"], ["Helsinki", "Medicine", "Alcohol", "Vanilla"], ["Helsinki", "Serbia", "Comoros", "Vanilla"], ["Helsinki", "Somalia", "Comoros", "Vanilla"], ["Helsinki", "Serbia", "Madagascar", "Vanilla"], ["Helsinki", "Somalia", "Madagascar", "Vanilla"]]

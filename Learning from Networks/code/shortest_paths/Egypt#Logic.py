@@ -1,0 +1,1 @@
+[["Egypt", "Age_of_Enlightenment", "Logic"], ["Egypt", "Culture", "Logic"]]

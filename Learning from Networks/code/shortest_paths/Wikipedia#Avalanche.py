@@ -1,0 +1,1 @@
+[["Wikipedia", "2004_Indian_Ocean_earthquake", "Dune", "Avalanche"], ["Wikipedia", "2004_Indian_Ocean_earthquake", "Natural_disaster", "Avalanche"], ["Wikipedia", "Evolution", "Glacier_National_Park_%28US%29", "Avalanche"], ["Wikipedia", "Florida", "Snow", "Avalanche"], ["Wikipedia", "Seoul", "Snow", "Avalanche"]]

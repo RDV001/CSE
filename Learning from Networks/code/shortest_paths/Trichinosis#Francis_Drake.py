@@ -1,0 +1,1 @@
+[["Trichinosis", "Thailand", "California", "Francis_Drake"], ["Trichinosis", "United_States", "California", "Francis_Drake"], ["Trichinosis", "United_States", "Plymouth", "Francis_Drake"]]

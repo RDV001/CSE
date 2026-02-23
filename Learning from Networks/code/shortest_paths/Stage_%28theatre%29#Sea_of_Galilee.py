@@ -1,0 +1,1 @@
+[["Stage_%28theatre%29", "Ancient_Greece", "Water", "Sea_of_Galilee"], ["Stage_%28theatre%29", "Middle_Ages", "Jerusalem", "Sea_of_Galilee"]]

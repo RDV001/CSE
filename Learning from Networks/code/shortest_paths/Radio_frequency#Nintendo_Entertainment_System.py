@@ -1,0 +1,1 @@
+[["Radio_frequency", "NATO", "Ronald_Reagan", "Nintendo_Entertainment_System"], ["Radio_frequency", "Television", "Computer_and_video_games", "Nintendo_Entertainment_System"]]

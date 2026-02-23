@@ -1,0 +1,1 @@
+[["Wake_Island", "Medal_of_Honor", "Argentina", "Anteater"], ["Wake_Island", "United_States", "Argentina", "Anteater"], ["Wake_Island", "United_States_dollar", "Argentina", "Anteater"]]

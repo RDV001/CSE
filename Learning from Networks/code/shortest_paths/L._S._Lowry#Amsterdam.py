@@ -1,0 +1,1 @@
+[["L._S._Lowry", "Manchester", "Amsterdam"]]

@@ -1,0 +1,1 @@
+[["Chemistry", "Biology", "Fern", "Norfolk_Island"], ["Chemistry", "Carbon", "Australia", "Norfolk_Island"], ["Chemistry", "Gold", "Australia", "Norfolk_Island"], ["Chemistry", "Ice", "Australia", "Norfolk_Island"], ["Chemistry", "Mathematics", "Australia", "Norfolk_Island"], ["Chemistry", "Uranium", "Australia", "Norfolk_Island"]]

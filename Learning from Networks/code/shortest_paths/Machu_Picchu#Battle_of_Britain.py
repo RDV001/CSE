@@ -1,0 +1,1 @@
+[["Machu_Picchu", "India", "Indian_independence_movement", "Battle_of_Britain"], ["Machu_Picchu", "Peru", "World_War_II", "Battle_of_Britain"]]

@@ -1,0 +1,1 @@
+[["Ethiopian_Wolf", "Gray_Wolf", "Horse"], ["Ethiopian_Wolf", "Mammal", "Horse"], ["Ethiopian_Wolf", "Rabies", "Horse"]]

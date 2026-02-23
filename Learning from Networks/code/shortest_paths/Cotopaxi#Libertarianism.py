@@ -1,0 +1,1 @@
+[["Cotopaxi", "Ecuador", "Government", "Libertarianism"], ["Cotopaxi", "Pacific_Ocean", "Seattle%2C_Washington", "Libertarianism"]]

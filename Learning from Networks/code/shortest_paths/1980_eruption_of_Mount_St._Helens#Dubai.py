@@ -1,0 +1,1 @@
+[["1980_eruption_of_Mount_St._Helens", "Tourism", "Dubai"]]

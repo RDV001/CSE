@@ -1,0 +1,1 @@
+[["Taiwan", "Portuguese_language", "Vulgar_Latin"]]

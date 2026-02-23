@@ -1,0 +1,1 @@
+[["Gas_giant", "Ammonia", "Soil", "Gardening"], ["Gas_giant", "Earth", "Soil", "Gardening"], ["Gas_giant", "Ice", "Soil", "Gardening"], ["Gas_giant", "Ammonia", "Tobacco", "Gardening"], ["Gas_giant", "Carbon", "Plant", "Gardening"], ["Gas_giant", "Earth", "Plant", "Gardening"], ["Gas_giant", "Oxygen", "Plant", "Gardening"], ["Gas_giant", "Earth", "Invasive_species", "Gardening"]]

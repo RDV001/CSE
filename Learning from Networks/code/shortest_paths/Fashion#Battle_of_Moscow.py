@@ -1,0 +1,1 @@
+[["Fashion", "Architecture", "Moscow", "Battle_of_Moscow"], ["Fashion", "Europe", "Moscow", "Battle_of_Moscow"], ["Fashion", "Europe", "World_War_II", "Battle_of_Moscow"], ["Fashion", "Philosophy", "World_War_II", "Battle_of_Moscow"]]

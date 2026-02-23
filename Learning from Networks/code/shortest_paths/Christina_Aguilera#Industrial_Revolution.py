@@ -1,0 +1,1 @@
+[["Christina_Aguilera", "England", "Industrial_Revolution"], ["Christina_Aguilera", "Europe", "Industrial_Revolution"], ["Christina_Aguilera", "Germany", "Industrial_Revolution"], ["Christina_Aguilera", "Switzerland", "Industrial_Revolution"], ["Christina_Aguilera", "United_Kingdom", "Industrial_Revolution"]]

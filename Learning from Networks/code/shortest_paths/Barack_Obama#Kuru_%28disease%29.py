@@ -1,0 +1,1 @@
+[["Barack_Obama", "AIDS", "Brain", "Kuru_%28disease%29"]]

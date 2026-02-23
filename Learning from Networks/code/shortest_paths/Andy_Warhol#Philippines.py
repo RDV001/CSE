@@ -1,0 +1,1 @@
+[["Andy_Warhol", "United_States", "Philippines"]]

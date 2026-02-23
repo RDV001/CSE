@@ -1,0 +1,1 @@
+[["Soil_profile", "Soil", "19th_century", "Romania", "Davis_Cup", "Fed_Cup"], ["Soil_profile", "Soil", "Egypt", "Tennis", "Davis_Cup", "Fed_Cup"], ["Soil_profile", "Soil", "Egypt", "Tennis", "Chris_Evert", "Fed_Cup"]]

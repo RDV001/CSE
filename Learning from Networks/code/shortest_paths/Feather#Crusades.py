@@ -1,0 +1,1 @@
+[["Feather", "Clothing", "Russia", "Crusades"], ["Feather", "Pollution", "Russia", "Crusades"], ["Feather", "Winter", "Russia", "Crusades"], ["Feather", "Greek_mythology", "Christianity", "Crusades"], ["Feather", "Greek_mythology", "Renaissance", "Crusades"], ["Feather", "Pollution", "England", "Crusades"]]

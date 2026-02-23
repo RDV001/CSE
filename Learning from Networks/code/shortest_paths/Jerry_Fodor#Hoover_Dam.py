@@ -1,0 +1,1 @@
+[["Jerry_Fodor", "United_States", "Las_Vegas%2C_Nevada", "Hoover_Dam"]]

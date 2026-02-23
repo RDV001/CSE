@@ -1,0 +1,1 @@
+[["Grand_Slam_%28tennis%29", "Tiger_Woods", "Pacific_Ocean", "Plate_tectonics"]]

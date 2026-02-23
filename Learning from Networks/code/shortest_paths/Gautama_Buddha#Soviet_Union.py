@@ -1,0 +1,1 @@
+[["Gautama_Buddha", "India", "Soviet_Union"]]

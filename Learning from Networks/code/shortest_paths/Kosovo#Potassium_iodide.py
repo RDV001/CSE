@@ -1,0 +1,1 @@
+[["Kosovo", "Condoleezza_Rice", "Nuclear_power", "Potassium_iodide"], ["Kosovo", "Germany", "Nuclear_power", "Potassium_iodide"], ["Kosovo", "Leon_Trotsky", "Vladimir_Lenin", "Potassium_iodide"], ["Kosovo", "Russia", "Vladimir_Lenin", "Potassium_iodide"], ["Kosovo", "World_War_I", "Vladimir_Lenin", "Potassium_iodide"]]

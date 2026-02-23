@@ -1,0 +1,1 @@
+[["History_of_Greece", "20th_century", "Tobacco_smoking"]]

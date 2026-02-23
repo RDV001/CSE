@@ -1,0 +1,1 @@
+[["Thorium", "Color", "Art", "Buddhist_art"], ["Thorium", "India", "Gautama_Buddha", "Buddhist_art"]]

@@ -1,0 +1,1 @@
+[["Mongolia", "China", "Civilization", "House"], ["Mongolia", "Iraq", "Civilization", "House"], ["Mongolia", "Coal", "Roman_villa", "House"], ["Mongolia", "Copper", "Ancient_Rome", "House"], ["Mongolia", "Tin", "Toy", "House"]]

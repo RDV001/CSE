@@ -1,0 +1,1 @@
+[["Merseburg_Incantations", "10th_century", "Lion", "Zebra", "Plains_Zebra"]]

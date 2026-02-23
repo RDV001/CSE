@@ -1,0 +1,1 @@
+[["African_American_literature", "George_Washington", "Lead", "Cider"], ["African_American_literature", "Jamaica", "Manchester", "Cider"], ["African_American_literature", "New_York_City", "Newark%2C_New_Jersey", "Cider"], ["African_American_literature", "United_States", "Jersey", "Cider"]]

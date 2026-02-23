@@ -1,0 +1,1 @@
+[["Margaret_Thatcher", "Argentina", "Publishing", "Wikipedia", "Wikimedia_Foundation"], ["Margaret_Thatcher", "Australia", "Publishing", "Wikipedia", "Wikimedia_Foundation"], ["Margaret_Thatcher", "Tony_Blair", "Publishing", "Wikipedia", "Wikimedia_Foundation"], ["Margaret_Thatcher", "United_States", "Publishing", "Wikipedia", "Wikimedia_Foundation"]]

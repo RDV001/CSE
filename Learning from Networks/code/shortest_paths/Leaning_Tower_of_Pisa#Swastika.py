@@ -1,0 +1,1 @@
+[["Leaning_Tower_of_Pisa", "Nazism", "Swastika"]]

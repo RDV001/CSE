@@ -1,0 +1,1 @@
+[["Shroud_of_Turin", "Bacteria", "Plant"], ["Shroud_of_Turin", "Cotton", "Plant"], ["Shroud_of_Turin", "Fire", "Plant"]]

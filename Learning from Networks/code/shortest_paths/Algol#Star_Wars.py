@@ -1,0 +1,1 @@
+[["Algol", "Astrology", "Tycho_Brahe", "Star_Wars"], ["Algol", "Comet", "Tycho_Brahe", "Star_Wars"], ["Algol", "Star", "Tycho_Brahe", "Star_Wars"], ["Algol", "Sirius", "Binary_star", "Star_Wars"], ["Algol", "Star", "Binary_star", "Star_Wars"], ["Algol", "Solar_System", "Mythology", "Star_Wars"], ["Algol", "Star", "Mythology", "Star_Wars"]]

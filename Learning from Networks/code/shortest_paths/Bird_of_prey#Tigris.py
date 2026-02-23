@@ -1,0 +1,1 @@
+[["Bird_of_prey", "Animal", "Water", "Tigris"], ["Bird_of_prey", "Owl", "Middle_East", "Tigris"]]

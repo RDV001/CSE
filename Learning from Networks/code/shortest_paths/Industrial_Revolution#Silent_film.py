@@ -1,0 +1,1 @@
+[["Industrial_Revolution", "Culture", "Film", "Silent_film"], ["Industrial_Revolution", "Frankenstein", "Film", "Silent_film"], ["Industrial_Revolution", "Sweden", "Film", "Silent_film"], ["Industrial_Revolution", "United_States", "Film", "Silent_film"]]

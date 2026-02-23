@@ -1,0 +1,1 @@
+[["Ernest_Hemingway", "Trench_warfare", "Tank"], ["Ernest_Hemingway", "World_War_I", "Tank"], ["Ernest_Hemingway", "World_War_II", "Tank"]]

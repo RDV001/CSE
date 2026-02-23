@@ -1,0 +1,1 @@
+[["Palestinian_territories", "Jerusalem", "Natalie_Portman", "Star_Wars", "Clone_Wars_%28Star_Wars%29"], ["Palestinian_territories", "Religion", "Mythology", "Star_Wars", "Clone_Wars_%28Star_Wars%29"]]

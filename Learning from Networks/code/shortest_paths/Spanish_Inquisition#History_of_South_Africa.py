@@ -1,0 +1,1 @@
+[["Spanish_Inquisition", "Jew", "South_Africa", "History_of_South_Africa"], ["Spanish_Inquisition", "Judaism", "South_Africa", "History_of_South_Africa"]]

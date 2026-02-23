@@ -1,0 +1,1 @@
+[["Temple_of_Artemis", "18th_century", "Australia", "Kangaroo", "Wallaby"], ["Temple_of_Artemis", "Sculpture", "Australia", "Kangaroo", "Wallaby"], ["Temple_of_Artemis", "18th_century", "James_Cook", "Kangaroo", "Wallaby"]]

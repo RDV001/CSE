@@ -1,0 +1,1 @@
+[["Climate_change", "Europe", "United_Kingdom", "Manchester_United_F.C."], ["Climate_change", "Global_warming", "United_Kingdom", "Manchester_United_F.C."], ["Climate_change", "United_Nations", "United_Kingdom", "Manchester_United_F.C."], ["Climate_change", "United_States", "United_Kingdom", "Manchester_United_F.C."]]

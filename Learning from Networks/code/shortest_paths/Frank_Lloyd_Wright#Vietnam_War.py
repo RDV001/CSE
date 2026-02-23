@@ -1,0 +1,1 @@
+[["Frank_Lloyd_Wright", "20th_century", "Vietnam_War"], ["Frank_Lloyd_Wright", "United_States", "Vietnam_War"], ["Frank_Lloyd_Wright", "University_of_Chicago", "Vietnam_War"]]

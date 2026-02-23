@@ -1,0 +1,1 @@
+[["Windsor_Castle", "Charles_II_of_England", "Gold", "Fluorine"], ["Windsor_Castle", "United_Kingdom", "Hydrogen", "Fluorine"], ["Windsor_Castle", "World_War_I", "Chlorine", "Fluorine"]]

@@ -1,0 +1,1 @@
+[["History_of_post-Soviet_Russia", "Argentina", "Tobacco", "Beetle", "Stag_beetle"], ["History_of_post-Soviet_Russia", "Energy", "Biology", "Beetle", "Stag_beetle"]]

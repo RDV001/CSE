@@ -1,0 +1,1 @@
+[["Bamako", "Brazil", "Parliamentary_system", "Senate_of_Canada"], ["Bamako", "Burkina_Faso", "Parliamentary_system", "Senate_of_Canada"]]

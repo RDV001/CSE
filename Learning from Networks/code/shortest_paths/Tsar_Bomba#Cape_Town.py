@@ -1,0 +1,1 @@
+[["Tsar_Bomba", "Finland", "Time_zone", "Cape_Town"], ["Tsar_Bomba", "Soviet_Union", "Time_zone", "Cape_Town"], ["Tsar_Bomba", "Nuclear_weapon", "South_Africa", "Cape_Town"], ["Tsar_Bomba", "Soviet_Union", "British_Empire", "Cape_Town"]]

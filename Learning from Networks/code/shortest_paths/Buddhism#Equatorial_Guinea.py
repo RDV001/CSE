@@ -1,0 +1,1 @@
+[["Buddhism", "Denmark", "Equatorial_Guinea"]]

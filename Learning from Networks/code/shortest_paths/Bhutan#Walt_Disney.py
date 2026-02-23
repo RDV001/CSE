@@ -1,0 +1,1 @@
+[["Bhutan", "List_of_countries_by_system_of_government", "Tonga", "Walt_Disney"], ["Bhutan", "Monarchy", "Tonga", "Walt_Disney"]]

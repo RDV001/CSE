@@ -1,0 +1,1 @@
+[["Wave%E2%80%93particle_duality", "Energy", "Tropical_cyclone", "2005_Atlantic_hurricane_season", "Hurricane_Philippe_%282005%29"]]

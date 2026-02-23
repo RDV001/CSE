@@ -1,0 +1,1 @@
+[["Barracuda", "Brazil", "Atheism", "Utilitarianism"], ["Barracuda", "Mexico", "Liberalism", "Utilitarianism"], ["Barracuda", "Mexico", "Socialism", "Utilitarianism"]]

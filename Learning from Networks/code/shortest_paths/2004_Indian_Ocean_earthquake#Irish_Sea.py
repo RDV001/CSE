@@ -1,0 +1,1 @@
+[["2004_Indian_Ocean_earthquake", "Atlantic_Ocean", "Irish_Sea"], ["2004_Indian_Ocean_earthquake", "United_Kingdom", "Irish_Sea"]]

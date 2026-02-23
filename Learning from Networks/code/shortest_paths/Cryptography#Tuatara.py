@@ -1,0 +1,1 @@
+[["Cryptography", "Automated_teller_machine", "New_Zealand", "Tuatara"], ["Cryptography", "People%27s_Republic_of_China", "New_Zealand", "Tuatara"], ["Cryptography", "Singapore", "New_Zealand", "Tuatara"], ["Cryptography", "World_War_II", "New_Zealand", "Tuatara"]]

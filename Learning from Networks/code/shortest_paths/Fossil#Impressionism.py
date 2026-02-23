@@ -1,0 +1,1 @@
+[["Fossil", "Cambrian", "20th_century", "Impressionism"], ["Fossil", "Charles_Darwin", "20th_century", "Impressionism"], ["Fossil", "Carolus_Linnaeus", "Paris", "Impressionism"], ["Fossil", "China", "Painting", "Impressionism"]]

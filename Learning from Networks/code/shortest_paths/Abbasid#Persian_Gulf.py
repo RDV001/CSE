@@ -1,0 +1,1 @@
+[["Abbasid", "Baghdad", "Persian_Gulf"], ["Abbasid", "Egypt", "Persian_Gulf"], ["Abbasid", "Iran", "Persian_Gulf"], ["Abbasid", "Iraq", "Persian_Gulf"]]

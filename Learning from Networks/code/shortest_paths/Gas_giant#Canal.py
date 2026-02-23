@@ -1,0 +1,1 @@
+[["Gas_giant", "Ammonia", "Chile", "Canal"], ["Gas_giant", "Earth", "Ocean", "Canal"], ["Gas_giant", "Water", "Ocean", "Canal"], ["Gas_giant", "Ice", "Ice_hockey", "Canal"], ["Gas_giant", "Water", "Ice_hockey", "Canal"], ["Gas_giant", "Water", "Irrigation", "Canal"], ["Gas_giant", "Water", "River", "Canal"]]

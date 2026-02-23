@@ -1,0 +1,1 @@
+[["Entropy", "James_Clerk_Maxwell", "Scotland", "Hebrides"], ["Entropy", "Stephen_Hawking", "United_Kingdom", "Hebrides"]]

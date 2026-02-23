@@ -1,0 +1,1 @@
+[["Coconut_crab", "Extinction", "Smallpox", "Edward_Jenner", "Common_Cuckoo"], ["Coconut_crab", "Extinction", "Virus", "Edward_Jenner", "Common_Cuckoo"], ["Coconut_crab", "Pacific_Ocean", "18th_century", "Edward_Jenner", "Common_Cuckoo"], ["Coconut_crab", "Tokyo", "18th_century", "Edward_Jenner", "Common_Cuckoo"]]

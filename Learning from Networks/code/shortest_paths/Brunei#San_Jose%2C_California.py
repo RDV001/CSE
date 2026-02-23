@@ -1,0 +1,1 @@
+[["Brunei", "Europe", "Dublin", "San_Jose%2C_California"], ["Brunei", "Petroleum", "California", "San_Jose%2C_California"], ["Brunei", "Spain", "California", "San_Jose%2C_California"], ["Brunei", "Time_zone", "California", "San_Jose%2C_California"], ["Brunei", "Time_zone", "San_Francisco%2C_California", "San_Jose%2C_California"]]

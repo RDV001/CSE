@@ -1,0 +1,1 @@
+[["Frederick_Douglass", "Dutch_language", "Australia", "Kangaroo", "Wallaby"], ["Frederick_Douglass", "France", "Australia", "Kangaroo", "Wallaby"], ["Frederick_Douglass", "Italy", "Australia", "Kangaroo", "Wallaby"], ["Frederick_Douglass", "Liverpool", "Australia", "Kangaroo", "Wallaby"]]

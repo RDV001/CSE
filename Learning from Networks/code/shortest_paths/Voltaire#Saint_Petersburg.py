@@ -1,0 +1,1 @@
+[["Voltaire", "Catherine_II_of_Russia", "Saint_Petersburg"], ["Voltaire", "Frederick_II_of_Prussia", "Saint_Petersburg"], ["Voltaire", "Paris", "Saint_Petersburg"]]

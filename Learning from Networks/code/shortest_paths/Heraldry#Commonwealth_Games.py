@@ -1,0 +1,1 @@
+[["Heraldry", "Eagle", "Australia", "Commonwealth_Games"], ["Heraldry", "Middle_Ages", "England", "Commonwealth_Games"], ["Heraldry", "Napoleon_I_of_France", "Scotland", "Commonwealth_Games"], ["Heraldry", "Stained_glass", "Manchester", "Commonwealth_Games"]]

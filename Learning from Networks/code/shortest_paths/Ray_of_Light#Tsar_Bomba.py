@@ -1,0 +1,1 @@
+[["Ray_of_Light", "Japan", "Earthquake", "Tsar_Bomba"], ["Ray_of_Light", "Los_Angeles%2C_California", "Earthquake", "Tsar_Bomba"], ["Ray_of_Light", "United_States", "Nuclear_weapon", "Tsar_Bomba"]]

@@ -1,0 +1,1 @@
+[["Nazi_Germany", "List_of_countries_by_system_of_government", "Vanuatu", "Natural_disaster"], ["Nazi_Germany", "Slovenia", "Vanuatu", "Natural_disaster"], ["Nazi_Germany", "Norway", "Dublin", "Natural_disaster"], ["Nazi_Germany", "Swastika", "Dublin", "Natural_disaster"]]

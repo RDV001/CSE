@@ -1,0 +1,1 @@
+[["Blackjack", "Europe", "Geology", "Sulfur"], ["Blackjack", "United_Kingdom", "Argentina", "Sulfur"], ["Blackjack", "United_Kingdom", "Petroleum", "Sulfur"], ["Blackjack", "United_Kingdom", "Steel", "Sulfur"]]

@@ -1,0 +1,1 @@
+[["Lunar_eclipse", "Christopher_Columbus", "Lisbon", "Novel", "Robinson_Crusoe"], ["Lunar_eclipse", "Jamaica", "United_Kingdom", "Novel", "Robinson_Crusoe"], ["Lunar_eclipse", "Sunlight", "Aesthetics", "Novel", "Robinson_Crusoe"]]

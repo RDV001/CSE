@@ -1,0 +1,1 @@
+[["Domesticated_turkey", "Europe", "Latvia"], ["Domesticated_turkey", "Turkey", "Latvia"], ["Domesticated_turkey", "World_War_II", "Latvia"]]

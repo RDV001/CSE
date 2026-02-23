@@ -1,0 +1,1 @@
+[["Diamond_cut", "Germany", "George_W._Bush"], ["Diamond_cut", "New_York_City", "George_W._Bush"]]

@@ -1,0 +1,1 @@
+[["BP", "Cold_War", "Margaret_Thatcher", "James_Callaghan"], ["BP", "Cold_War", "Winston_Churchill", "James_Callaghan"], ["BP", "World_War_II", "Winston_Churchill", "James_Callaghan"], ["BP", "United_Kingdom", "Tony_Blair", "James_Callaghan"]]

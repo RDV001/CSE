@@ -1,0 +1,1 @@
+[["Manchester_United_F.C.", "United_States", "North_Africa", "Northwest_Africa"], ["Manchester_United_F.C.", "World_War_II", "North_Africa", "Northwest_Africa"]]

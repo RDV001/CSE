@@ -1,0 +1,1 @@
+[["Globalization", "United_States", "United_States_Congress"], ["Globalization", "World_War_II", "United_States_Congress"]]

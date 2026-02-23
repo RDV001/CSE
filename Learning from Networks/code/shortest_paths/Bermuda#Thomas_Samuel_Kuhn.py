@@ -1,0 +1,1 @@
+[["Bermuda", "Latin", "Science", "Thomas_Samuel_Kuhn"]]

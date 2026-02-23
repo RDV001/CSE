@@ -1,0 +1,1 @@
+[["Golden_Gate_Highlands_National_Park", "Climate", "Tropical_cyclone", "Thunderstorm"], ["Golden_Gate_Highlands_National_Park", "Johannesburg", "Electricity", "Thunderstorm"], ["Golden_Gate_Highlands_National_Park", "Lesotho", "Electricity", "Thunderstorm"]]

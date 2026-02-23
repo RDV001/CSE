@@ -1,0 +1,1 @@
+[["Bill_Gates", "United_States_dollar", "Gold", "Roentgenium"]]

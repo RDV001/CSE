@@ -1,0 +1,1 @@
+[["Berlin_Wall", "Cold_War", "Winston_Churchill", "Calgary"], ["Berlin_Wall", "World_War_II", "Winston_Churchill", "Calgary"], ["Berlin_Wall", "United_Kingdom", "Olympic_Games", "Calgary"], ["Berlin_Wall", "United_States", "Olympic_Games", "Calgary"], ["Berlin_Wall", "United_States", "Atlanta%2C_Georgia", "Calgary"]]

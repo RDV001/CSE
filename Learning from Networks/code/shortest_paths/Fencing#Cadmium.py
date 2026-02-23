@@ -1,0 +1,1 @@
+[["Fencing", "Chlorine", "List_of_elements_by_name", "Cadmium"], ["Fencing", "Chlorine", "Mercury_%28element%29", "Cadmium"], ["Fencing", "Chlorine", "Periodic_table", "Cadmium"], ["Fencing", "Germany", "Coal", "Cadmium"], ["Fencing", "Olympic_Games", "Silver", "Cadmium"]]

@@ -1,0 +1,1 @@
+[["Muhammad_Ali_Jinnah", "United_Nations", "Organization"]]

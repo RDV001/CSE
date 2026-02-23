@@ -1,0 +1,1 @@
+[["Papua_New_Guinea", "Africa", "Cheetah", "Gazelle"], ["Papua_New_Guinea", "Africa", "Lion", "Gazelle"], ["Papua_New_Guinea", "Mammal", "Lion", "Gazelle"], ["Papua_New_Guinea", "Agriculture", "Sumer", "Gazelle"], ["Papua_New_Guinea", "Copper", "Sumer", "Gazelle"], ["Papua_New_Guinea", "Indian_Ocean", "Sumer", "Gazelle"], ["Papua_New_Guinea", "Mineral", "Biology", "Gazelle"]]

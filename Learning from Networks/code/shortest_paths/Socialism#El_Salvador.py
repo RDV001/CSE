@@ -1,0 +1,1 @@
+[["Socialism", "19th_century", "El_Salvador"], ["Socialism", "Latin_America", "El_Salvador"], ["Socialism", "Money", "El_Salvador"], ["Socialism", "NATO", "El_Salvador"], ["Socialism", "Ronald_Reagan", "El_Salvador"]]

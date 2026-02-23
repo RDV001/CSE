@@ -1,0 +1,1 @@
+[["Jersey", "United_Kingdom", "Capitalism"], ["Jersey", "United_States", "Capitalism"]]

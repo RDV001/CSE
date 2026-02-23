@@ -1,0 +1,1 @@
+[["Argon", "List_of_elements_by_name", "Thulium"], ["Argon", "Periodic_table", "Thulium"]]

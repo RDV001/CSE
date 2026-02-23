@@ -1,0 +1,1 @@
+[["Asperger_syndrome", "Astronomy", "Ancient_Egypt", "Beekeeping"], ["Asperger_syndrome", "Mathematics", "Ancient_Egypt", "Beekeeping"], ["Asperger_syndrome", "Poverty", "Agriculture", "Beekeeping"]]

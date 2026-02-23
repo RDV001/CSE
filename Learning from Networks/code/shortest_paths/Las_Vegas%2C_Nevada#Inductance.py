@@ -1,0 +1,1 @@
+[["Las_Vegas%2C_Nevada", "Hoover_Dam", "Electricity", "Inductance"], ["Las_Vegas%2C_Nevada", "Mexico", "Electricity", "Inductance"], ["Las_Vegas%2C_Nevada", "Snow", "Electricity", "Inductance"]]

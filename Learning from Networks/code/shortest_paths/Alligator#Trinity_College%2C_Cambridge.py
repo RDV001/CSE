@@ -1,0 +1,1 @@
+[["Alligator", "China", "Football_%28soccer%29", "Trinity_College%2C_Cambridge"], ["Alligator", "Florida", "Football_%28soccer%29", "Trinity_College%2C_Cambridge"], ["Alligator", "United_States", "Football_%28soccer%29", "Trinity_College%2C_Cambridge"]]

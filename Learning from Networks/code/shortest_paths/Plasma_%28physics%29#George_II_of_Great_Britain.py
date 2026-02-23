@@ -1,0 +1,1 @@
+[["Plasma_%28physics%29", "Fractal", "Gottfried_Leibniz", "George_II_of_Great_Britain"], ["Plasma_%28physics%29", "J._J._Thomson", "Westminster_Abbey", "George_II_of_Great_Britain"]]

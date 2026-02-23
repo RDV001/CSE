@@ -1,0 +1,1 @@
+[["Pakistan", "Brazil", "Ecuador", "Cotopaxi"], ["Pakistan", "Currency", "Ecuador", "Cotopaxi"], ["Pakistan", "List_of_countries_by_system_of_government", "Ecuador", "Cotopaxi"], ["Pakistan", "Himalayas", "Andes", "Cotopaxi"]]

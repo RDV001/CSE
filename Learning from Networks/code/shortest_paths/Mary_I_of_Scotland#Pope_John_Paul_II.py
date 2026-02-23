@@ -1,0 +1,1 @@
+[["Mary_I_of_Scotland", "Roman_Catholic_Church", "Pope_John_Paul_II"]]

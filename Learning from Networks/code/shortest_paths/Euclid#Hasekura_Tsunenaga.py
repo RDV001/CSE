@@ -1,0 +1,1 @@
+[["Euclid", "19th_century", "Japan", "Hasekura_Tsunenaga"], ["Euclid", "Greece", "Japan", "Hasekura_Tsunenaga"]]

@@ -1,0 +1,1 @@
+[["Uruguay", "Argentina", "Bill_Clinton", "James_Buchanan"], ["Uruguay", "Irish_people", "President_of_the_United_States", "James_Buchanan"], ["Uruguay", "Olympic_Games", "President_of_the_United_States", "James_Buchanan"], ["Uruguay", "United_States", "President_of_the_United_States", "James_Buchanan"], ["Uruguay", "United_States", "Abraham_Lincoln", "James_Buchanan"]]

@@ -1,0 +1,1 @@
+[["Gazelle", "Africa", "Latin", "Split_infinitive"], ["Gazelle", "Animal", "Latin", "Split_infinitive"], ["Gazelle", "Asia", "Latin", "Split_infinitive"], ["Gazelle", "Cheetah", "Latin", "Split_infinitive"], ["Gazelle", "Fossil", "Latin", "Split_infinitive"], ["Gazelle", "Scientific_classification", "Latin", "Split_infinitive"]]

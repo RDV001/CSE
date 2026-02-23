@@ -1,0 +1,1 @@
+[["Chadian-Sudanese_conflict", "Capital", "Bolivia", "La_Paz"], ["Chadian-Sudanese_conflict", "France", "South_America", "La_Paz"], ["Chadian-Sudanese_conflict", "United_Nations", "South_America", "La_Paz"]]

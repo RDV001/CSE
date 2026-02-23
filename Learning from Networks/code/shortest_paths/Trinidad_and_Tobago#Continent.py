@@ -1,0 +1,1 @@
+[["Trinidad_and_Tobago", "Africa", "Continent"], ["Trinidad_and_Tobago", "Cretaceous", "Continent"], ["Trinidad_and_Tobago", "Eocene", "Continent"], ["Trinidad_and_Tobago", "North_America", "Continent"], ["Trinidad_and_Tobago", "South_America", "Continent"]]

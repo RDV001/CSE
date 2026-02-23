@@ -1,0 +1,1 @@
+[["Celtic_F.C.", "Religion", "Heliocentrism", "Extrasolar_planet", "HD_209458_b"], ["Celtic_F.C.", "Religion", "Planet", "Extrasolar_planet", "HD_209458_b"]]

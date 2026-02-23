@@ -1,0 +1,1 @@
+[["Algeria", "Mosque", "American_football"], ["Algeria", "United_States", "American_football"]]

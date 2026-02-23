@@ -1,0 +1,1 @@
+[["Shinto", "19th_century", "Southern_Africa", "Platinum"], ["Shinto", "Indonesia", "Gold", "Platinum"], ["Shinto", "Japan", "Metal", "Platinum"], ["Shinto", "Moon", "Aluminium", "Platinum"], ["Shinto", "Moon", "Titanium", "Platinum"]]

@@ -1,0 +1,1 @@
+[["Amazon_parrot", "Mexico", "United_States", "George_Washington"], ["Amazon_parrot", "Parrot", "United_States", "George_Washington"], ["Amazon_parrot", "South_America", "United_States", "George_Washington"], ["Amazon_parrot", "South_America", "Smallpox", "George_Washington"], ["Amazon_parrot", "South_America", "Southern_United_States", "George_Washington"]]

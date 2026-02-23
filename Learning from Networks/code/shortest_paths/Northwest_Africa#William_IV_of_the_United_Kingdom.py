@@ -1,0 +1,1 @@
+[["Northwest_Africa", "East_Africa", "British_monarchy", "William_IV_of_the_United_Kingdom"], ["Northwest_Africa", "Pacific_Ocean", "Charles_Darwin", "William_IV_of_the_United_Kingdom"]]

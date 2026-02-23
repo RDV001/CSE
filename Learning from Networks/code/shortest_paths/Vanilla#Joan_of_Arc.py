@@ -1,0 +1,1 @@
+[["Vanilla", "19th_century", "15th_century", "Joan_of_Arc"], ["Vanilla", "Spain", "15th_century", "Joan_of_Arc"], ["Vanilla", "Uganda", "15th_century", "Joan_of_Arc"], ["Vanilla", "Zimbabwe", "15th_century", "Joan_of_Arc"]]

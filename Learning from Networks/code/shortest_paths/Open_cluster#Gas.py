@@ -1,0 +1,1 @@
+[["Open_cluster", "H_II_region", "Gas"], ["Open_cluster", "Helium", "Gas"], ["Open_cluster", "Hydrogen", "Gas"], ["Open_cluster", "Planetary_nebula", "Gas"], ["Open_cluster", "Sun", "Gas"]]

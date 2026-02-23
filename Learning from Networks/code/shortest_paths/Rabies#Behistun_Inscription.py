@@ -1,0 +1,1 @@
+[["Rabies", "Germany", "Armenia", "Behistun_Inscription"], ["Rabies", "Germany", "Iranian_peoples", "Behistun_Inscription"]]

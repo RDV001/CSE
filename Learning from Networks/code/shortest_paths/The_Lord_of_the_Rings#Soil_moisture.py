@@ -1,0 +1,1 @@
+[["The_Lord_of_the_Rings", "Earth", "Biosphere", "Hydrology", "Soil_moisture"], ["The_Lord_of_the_Rings", "Earth", "Drought", "Hydrology", "Soil_moisture"], ["The_Lord_of_the_Rings", "Earth", "Geography", "Hydrology", "Soil_moisture"], ["The_Lord_of_the_Rings", "Roman_Catholic_Church", "Meteorology", "Hydrology", "Soil_moisture"]]

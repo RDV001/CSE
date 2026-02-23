@@ -1,0 +1,1 @@
+[["Gaur", "China", "Blaise_Pascal", "Voltaire"], ["Gaur", "China", "Confucianism", "Voltaire"], ["Gaur", "Laos", "18th_century", "Voltaire"]]

@@ -1,0 +1,1 @@
+[["Mormon_Trail", "California", "Film", "Photography"], ["Mormon_Trail", "United_States", "Film", "Photography"], ["Mormon_Trail", "California", "Gold", "Photography"], ["Mormon_Trail", "Europe", "Moscow", "Photography"], ["Mormon_Trail", "United_States", "Education_in_the_United_States", "Photography"]]

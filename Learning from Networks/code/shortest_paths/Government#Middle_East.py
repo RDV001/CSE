@@ -1,0 +1,1 @@
+[["Government", "George_W._Bush", "Middle_East"], ["Government", "Tony_Blair", "Middle_East"]]

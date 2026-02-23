@@ -1,0 +1,1 @@
+[["Spring_%28season%29", "United_States", "Amtrak", "Union_Station_%28San_Diego%29"]]

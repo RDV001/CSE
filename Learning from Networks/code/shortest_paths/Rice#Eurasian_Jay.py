@@ -1,0 +1,1 @@
+[["Rice", "Bird", "Archaeopteryx", "Magpie", "Eurasian_Jay"], ["Rice", "Italy", "Slovenia", "Magpie", "Eurasian_Jay"], ["Rice", "Madagascar", "Slovenia", "Magpie", "Eurasian_Jay"]]

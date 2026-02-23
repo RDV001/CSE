@@ -1,0 +1,1 @@
+[["Sassanid_Empire", "Christianity", "Sudan"], ["Sassanid_Empire", "Egypt", "Sudan"], ["Sassanid_Empire", "Lebanon", "Sudan"], ["Sassanid_Empire", "Turkey", "Sudan"], ["Sassanid_Empire", "Yemen", "Sudan"]]

@@ -1,0 +1,1 @@
+[["India", "Liberal_democracy", "Karl_Popper"]]

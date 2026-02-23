@@ -1,0 +1,1 @@
+[["Felice_Beato", "Delhi", "Akbar", "Malwa_%28Madhya_Pradesh%29", "Geography_of_India"], ["Felice_Beato", "Varanasi", "Akbar", "Malwa_%28Madhya_Pradesh%29", "Geography_of_India"], ["Felice_Beato", "Delhi", "Sultan", "Malwa_%28Madhya_Pradesh%29", "Geography_of_India"]]

@@ -1,0 +1,1 @@
+[["Stephen_Jay_Gould", "History_of_science", "Alchemy", "Star_Trek"], ["Stephen_Jay_Gould", "New_York_City", "Wall_Street", "Star_Trek"], ["Stephen_Jay_Gould", "United_States", "Wall_Street", "Star_Trek"], ["Stephen_Jay_Gould", "Religion", "Mythology", "Star_Trek"], ["Stephen_Jay_Gould", "United_States", "Interpol", "Star_Trek"]]

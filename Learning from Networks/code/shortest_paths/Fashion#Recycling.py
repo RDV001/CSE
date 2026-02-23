@@ -1,0 +1,1 @@
+[["Fashion", "Clothing", "Insect", "Recycling"], ["Fashion", "Europe", "European_Union", "Recycling"], ["Fashion", "Game", "Toy", "Recycling"]]

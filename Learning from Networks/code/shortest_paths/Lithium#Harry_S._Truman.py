@@ -1,0 +1,1 @@
+[["Lithium", "World_War_II", "Harry_S._Truman"]]

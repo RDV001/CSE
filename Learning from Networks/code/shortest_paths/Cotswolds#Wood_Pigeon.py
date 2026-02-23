@@ -1,0 +1,1 @@
+[["Cotswolds", "Ancient_Rome", "Human", "Dove", "Wood_Pigeon"], ["Cotswolds", "England", "Olympic_Games", "Dove", "Wood_Pigeon"], ["Cotswolds", "Oxford", "Columba", "Dove", "Wood_Pigeon"], ["Cotswolds", "Oxford", "Dodo", "Dove", "Wood_Pigeon"], ["Cotswolds", "Oxford", "Dodo", "Extinct_birds", "Wood_Pigeon"], ["Cotswolds", "Oxford", "Dodo", "Pigeon", "Wood_Pigeon"]]

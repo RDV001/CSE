@@ -1,0 +1,1 @@
+[["Lhasa", "Agriculture", "Egg_%28food%29", "Ostrich", "Sparrow"], ["Lhasa", "Agriculture", "Horse", "Ostrich", "Sparrow"], ["Lhasa", "Bolivia", "Alpaca", "Ostrich", "Sparrow"]]

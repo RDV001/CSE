@@ -1,0 +1,1 @@
+[["Astrology", "Asia", "Baghdad"], ["Astrology", "Middle_East", "Baghdad"]]

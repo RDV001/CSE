@@ -1,0 +1,1 @@
+[["Pitcairn_Islands", "Volcano", "Ozone", "Alternating_current"]]

@@ -1,0 +1,1 @@
+[["Manchester_United_F.C.", "Europe", "Black_Sea", "Pyrite"], ["Manchester_United_F.C.", "Germany", "Coal", "Pyrite"], ["Manchester_United_F.C.", "Manchester", "Coal", "Pyrite"], ["Manchester_United_F.C.", "United_States", "Coal", "Pyrite"], ["Manchester_United_F.C.", "United_States", "Steel", "Pyrite"]]

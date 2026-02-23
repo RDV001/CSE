@@ -1,0 +1,1 @@
+[["Black_panther", "Africa", "Anglican_Communion", "Anglican_Church_of_Australia"]]

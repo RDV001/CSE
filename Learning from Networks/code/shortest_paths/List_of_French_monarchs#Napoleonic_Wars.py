@@ -1,0 +1,1 @@
+[["List_of_French_monarchs", "France", "Napoleonic_Wars"], ["List_of_French_monarchs", "Germany", "Napoleonic_Wars"], ["List_of_French_monarchs", "Holy_Roman_Empire", "Napoleonic_Wars"], ["List_of_French_monarchs", "Napoleon_I_of_France", "Napoleonic_Wars"]]

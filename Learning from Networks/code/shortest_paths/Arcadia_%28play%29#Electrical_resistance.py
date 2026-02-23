@@ -1,0 +1,1 @@
+[["Arcadia_%28play%29", "Physics", "Electrical_resistance"]]

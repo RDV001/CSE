@@ -1,0 +1,1 @@
+[["Red_dwarf", "Earth", "Australia", "Sport"], ["Red_dwarf", "Earth", "United_States", "Sport"], ["Red_dwarf", "Helium", "United_States", "Sport"], ["Red_dwarf", "Sun", "United_States", "Sport"]]

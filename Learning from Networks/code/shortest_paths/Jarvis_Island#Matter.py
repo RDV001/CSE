@@ -1,0 +1,1 @@
+[["Jarvis_Island", "United_Kingdom", "Bertrand_Russell", "Matter"], ["Jarvis_Island", "United_Kingdom", "Petroleum", "Matter"], ["Jarvis_Island", "United_States", "Petroleum", "Matter"]]

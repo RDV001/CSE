@@ -1,0 +1,1 @@
+[["Japanese_yen", "Capital", "Beijing"], ["Japanese_yen", "People%27s_Republic_of_China", "Beijing"], ["Japanese_yen", "Renminbi", "Beijing"], ["Japanese_yen", "World_War_II", "Beijing"]]

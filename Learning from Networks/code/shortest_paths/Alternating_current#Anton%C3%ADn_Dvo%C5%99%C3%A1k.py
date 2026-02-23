@@ -1,0 +1,1 @@
+[["Alternating_current", "European_Union", "Prague", "Anton%C3%ADn_Dvo%C5%99%C3%A1k"], ["Alternating_current", "Norway", "19th_century", "Anton%C3%ADn_Dvo%C5%99%C3%A1k"], ["Alternating_current", "Sweden", "Opera", "Anton%C3%ADn_Dvo%C5%99%C3%A1k"]]

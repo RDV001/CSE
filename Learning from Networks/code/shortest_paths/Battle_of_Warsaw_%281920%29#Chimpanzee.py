@@ -1,0 +1,1 @@
+[["Battle_of_Warsaw_%281920%29", "Propaganda", "War", "Chimpanzee"], ["Battle_of_Warsaw_%281920%29", "World_War_I", "War", "Chimpanzee"]]

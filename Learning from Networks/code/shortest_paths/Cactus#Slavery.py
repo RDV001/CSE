@@ -1,0 +1,1 @@
+[["Cactus", "19th_century", "Slavery"], ["Cactus", "Jew", "Slavery"], ["Cactus", "South_America", "Slavery"]]

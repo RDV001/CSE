@@ -1,0 +1,1 @@
+[["Lake_Powell", "Dwight_D._Eisenhower", "London", "Charles_Dickens", "Oliver_Twist"], ["Lake_Powell", "Fishing", "England", "Charles_Dickens", "Oliver_Twist"], ["Lake_Powell", "Dwight_D._Eisenhower", "London", "River_Thames", "Oliver_Twist"], ["Lake_Powell", "Fishing", "England", "River_Thames", "Oliver_Twist"]]

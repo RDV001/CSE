@@ -1,0 +1,1 @@
+[["Britney_Spears", "Actor", "Television"], ["Britney_Spears", "Advertising", "Television"], ["Britney_Spears", "California", "Television"], ["Britney_Spears", "Film", "Television"], ["Britney_Spears", "Los_Angeles%2C_California", "Television"], ["Britney_Spears", "United_Kingdom", "Television"], ["Britney_Spears", "United_States", "Television"]]

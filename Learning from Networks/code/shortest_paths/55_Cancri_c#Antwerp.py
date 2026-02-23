@@ -1,0 +1,1 @@
+[["55_Cancri_c", "Hubble_Space_Telescope", "World_War_II", "Antwerp"]]

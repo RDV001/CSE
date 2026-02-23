@@ -1,0 +1,1 @@
+[["Equal_Protection_Clause", "Education", "Chemistry", "List_of_elements_by_name", "Meitnerium"], ["Equal_Protection_Clause", "Gender", "Oxygen", "List_of_elements_by_name", "Meitnerium"], ["Equal_Protection_Clause", "Rail_transport", "Iron", "List_of_elements_by_name", "Meitnerium"], ["Equal_Protection_Clause", "Education", "Chemistry", "Periodic_table", "Meitnerium"]]

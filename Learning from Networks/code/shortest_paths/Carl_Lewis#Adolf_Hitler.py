@@ -1,0 +1,1 @@
+[["Carl_Lewis", "Jesse_Owens", "Adolf_Hitler"]]

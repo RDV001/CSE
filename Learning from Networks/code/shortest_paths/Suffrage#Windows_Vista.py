@@ -1,0 +1,1 @@
+[["Suffrage", "Election", "Microsoft", "Microsoft_Windows", "Windows_Vista"], ["Suffrage", "United_Kingdom", "Computer", "Microsoft_Windows", "Windows_Vista"], ["Suffrage", "France", "China", "Calligraphy", "Windows_Vista"], ["Suffrage", "South_Africa", "China", "Calligraphy", "Windows_Vista"]]

@@ -1,0 +1,1 @@
+[["Heliocentrism", "16th_century", "Baghdad"]]

@@ -1,0 +1,1 @@
+[["Nematode", "Antarctica", "Tourism", "Macau"], ["Nematode", "Antarctica", "United_States", "Macau"], ["Nematode", "Dead_Sea", "United_States", "Macau"], ["Nematode", "Trichinosis", "United_States", "Macau"]]

@@ -1,0 +1,1 @@
+[["Margin_of_error", "George_W._Bush", "Philippines"]]

@@ -1,0 +1,1 @@
+[["London_Underground", "Scotland", "Norway"], ["London_Underground", "Tobacco_smoking", "Norway"], ["London_Underground", "World_War_II", "Norway"]]

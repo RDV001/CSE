@@ -1,0 +1,1 @@
+[["Civil_society", "Germany", "Coal", "Nickel"], ["Civil_society", "Mass_media", "Copper", "Nickel"], ["Civil_society", "Political_philosophy", "Earth", "Nickel"]]

@@ -1,0 +1,1 @@
+[["Law", "Capital", "Seoul"], ["Law", "South_Korea", "Seoul"]]

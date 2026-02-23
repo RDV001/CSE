@@ -1,0 +1,1 @@
+[["Nobel_Peace_Prize", "Kenya", "Dinosaur", "Landform"], ["Nobel_Peace_Prize", "Myanmar", "Mammal", "Landform"], ["Nobel_Peace_Prize", "Theodore_Roosevelt", "Insect", "Landform"]]

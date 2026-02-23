@@ -1,0 +1,1 @@
+[["Trout", "Australia", "Liberal_democracy"], ["Trout", "United_States", "Liberal_democracy"]]

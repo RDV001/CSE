@@ -1,0 +1,1 @@
+[["Spyware", "HTTP_cookie", "European_Union", "Rotterdam"], ["Spyware", "Sony", "European_Union", "Rotterdam"], ["Spyware", "Windows_Vista", "European_Union", "Rotterdam"], ["Spyware", "Windows_XP", "European_Union", "Rotterdam"], ["Spyware", "Internet", "Vienna", "Rotterdam"]]

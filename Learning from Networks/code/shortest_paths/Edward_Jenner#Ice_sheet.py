@@ -1,0 +1,1 @@
+[["Edward_Jenner", "England", "English_Channel", "Ice_sheet"], ["Edward_Jenner", "England", "North_Sea", "Ice_sheet"], ["Edward_Jenner", "England", "Northern_Ireland", "Ice_sheet"], ["Edward_Jenner", "Tuberculosis", "Northern_Ireland", "Ice_sheet"], ["Edward_Jenner", "England", "Time_zone", "Ice_sheet"], ["Edward_Jenner", "England", "Wind", "Ice_sheet"]]

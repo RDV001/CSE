@@ -1,0 +1,1 @@
+[["Alexander_Graham_Bell", "Nazi_Germany", "Animal_rights", "Animal_law"]]

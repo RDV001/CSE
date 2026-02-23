@@ -1,0 +1,1 @@
+[["James_Lovelock", "Elizabeth_II_of_the_United_Kingdom", "President_of_the_United_States", "Andrew_Johnson"], ["James_Lovelock", "Elizabeth_II_of_the_United_Kingdom", "United_States_Congress", "Andrew_Johnson"]]

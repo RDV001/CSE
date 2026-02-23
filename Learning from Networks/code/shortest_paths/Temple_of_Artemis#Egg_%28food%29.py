@@ -1,0 +1,1 @@
+[["Temple_of_Artemis", "Christianity", "John_Calvin", "Egg_%28food%29"], ["Temple_of_Artemis", "Turkey", "Agriculture", "Egg_%28food%29"]]

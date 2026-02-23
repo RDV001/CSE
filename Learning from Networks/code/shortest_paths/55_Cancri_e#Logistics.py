@@ -1,0 +1,1 @@
+[["55_Cancri_e", "Earth", "Food", "Logistics"], ["55_Cancri_e", "Earth", "Geography", "Logistics"]]

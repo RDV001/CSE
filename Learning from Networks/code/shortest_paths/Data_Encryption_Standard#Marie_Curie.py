@@ -1,0 +1,1 @@
+[["Data_Encryption_Standard", "Russia", "Poland", "Marie_Curie"], ["Data_Encryption_Standard", "United_States", "Poland", "Marie_Curie"]]

@@ -1,0 +1,1 @@
+[["Ayaan_Hirsi_Ali", "United_States", "Houston%2C_Texas", "Space_Shuttle_Challenger_disaster"], ["Ayaan_Hirsi_Ali", "United_States", "Neil_Armstrong", "Space_Shuttle_Challenger_disaster"]]

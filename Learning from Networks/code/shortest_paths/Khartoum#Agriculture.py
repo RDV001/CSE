@@ -1,0 +1,1 @@
+[["Khartoum", "Egypt", "Agriculture"], ["Khartoum", "Eritrea", "Agriculture"], ["Khartoum", "Nile", "Agriculture"], ["Khartoum", "Slavery", "Agriculture"], ["Khartoum", "Uganda", "Agriculture"], ["Khartoum", "United_States", "Agriculture"]]

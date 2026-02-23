@@ -1,0 +1,1 @@
+[["Kiev", "Canada", "Rocky_Mountains", "Moss"], ["Kiev", "North_America", "Rocky_Mountains", "Moss"], ["Kiev", "Edinburgh", "Bog", "Moss"], ["Kiev", "Fertilizer", "Plant", "Moss"], ["Kiev", "North_America", "Nicaragua", "Moss"], ["Kiev", "United_Nations", "Nicaragua", "Moss"]]

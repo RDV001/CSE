@@ -1,0 +1,1 @@
+[["Leonardo_da_Vinci", "Mona_Lisa", "Oil_painting"], ["Leonardo_da_Vinci", "Renaissance", "Oil_painting"]]

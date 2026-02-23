@@ -1,0 +1,1 @@
+[["Telescope", "Earth", "Dinosaur", "Mammoth"], ["Telescope", "Earth", "Extinction", "Mammoth"], ["Telescope", "France", "Rhine", "Mammoth"], ["Telescope", "Netherlands", "Rhine", "Mammoth"], ["Telescope", "Ireland", "Stone_Age", "Mammoth"]]

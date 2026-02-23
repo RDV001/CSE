@@ -1,0 +1,1 @@
+[["Lake_Toba", "1980_eruption_of_Mount_St._Helens", "Animal", "Magellanic_Penguin"]]

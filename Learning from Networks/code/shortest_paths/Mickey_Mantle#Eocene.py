@@ -1,0 +1,1 @@
+[["Mickey_Mantle", "United_States", "Puerto_Rico", "Eocene"], ["Mickey_Mantle", "United_States", "Trinidad_and_Tobago", "Eocene"]]

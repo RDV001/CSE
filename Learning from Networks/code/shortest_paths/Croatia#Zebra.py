@@ -1,0 +1,1 @@
+[["Croatia", "Central_African_Republic", "Lion", "Zebra"], ["Croatia", "Netherlands", "Lion", "Zebra"], ["Croatia", "United_Kingdom", "Lion", "Zebra"], ["Croatia", "Democratic_Republic_of_the_Congo", "Okapi", "Zebra"], ["Croatia", "Europe", "Mammal", "Zebra"]]

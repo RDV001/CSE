@@ -1,0 +1,1 @@
+[["Arab_League", "Afghanistan", "Copper", "Sodium_hydroxide"], ["Arab_League", "Arabic_language", "Alcohol", "Sodium_hydroxide"], ["Arab_League", "Iran", "Alcohol", "Sodium_hydroxide"], ["Arab_League", "Turkey", "Alcohol", "Sodium_hydroxide"]]

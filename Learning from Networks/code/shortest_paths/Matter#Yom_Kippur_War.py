@@ -1,0 +1,1 @@
+[["Matter", "Albert_Einstein", "Israel", "Yom_Kippur_War"], ["Matter", "Albert_Einstein", "Jerusalem", "Yom_Kippur_War"], ["Matter", "Albert_Einstein", "Zionism", "Yom_Kippur_War"]]

@@ -1,0 +1,1 @@
+[["Darth_Vader", "German_language", "Education", "Civil_society"], ["Darth_Vader", "German_language", "Russia", "Civil_society"], ["Darth_Vader", "Japan", "Russia", "Civil_society"], ["Darth_Vader", "Natalie_Portman", "Russia", "Civil_society"]]

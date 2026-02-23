@@ -1,0 +1,1 @@
+[["Nouakchott", "Atlantic_Ocean", "Edinburgh", "Princeton_University"]]

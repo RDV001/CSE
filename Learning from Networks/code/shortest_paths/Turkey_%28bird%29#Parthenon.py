@@ -1,0 +1,1 @@
+[["Turkey_%28bird%29", "Africa", "Ancient_Greece", "Parthenon"], ["Turkey_%28bird%29", "Africa", "Civilization", "Parthenon"], ["Turkey_%28bird%29", "Turkey", "Greece", "Parthenon"]]

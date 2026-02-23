@@ -1,0 +1,1 @@
+[["Guam", "Time_zone", "Baltic_Sea"], ["Guam", "World_War_II", "Baltic_Sea"]]

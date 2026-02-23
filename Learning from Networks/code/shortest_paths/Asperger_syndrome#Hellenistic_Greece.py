@@ -1,0 +1,1 @@
+[["Asperger_syndrome", "Albert_Einstein", "Israel", "Hellenistic_Greece"], ["Asperger_syndrome", "Geography", "Ancient_Greece", "Hellenistic_Greece"], ["Asperger_syndrome", "Schizophrenia", "Ancient_Greece", "Hellenistic_Greece"]]

@@ -1,0 +1,1 @@
+[["Madama_Butterfly", "Italy", "Spain", "Habsburg_Spain"], ["Madama_Butterfly", "Thailand", "Spain", "Habsburg_Spain"], ["Madama_Butterfly", "Tunisia", "Spain", "Habsburg_Spain"], ["Madama_Butterfly", "United_States", "Spain", "Habsburg_Spain"], ["Madama_Butterfly", "Tunisia", "Ottoman_Empire", "Habsburg_Spain"], ["Madama_Butterfly", "United_States", "Jamaica", "Habsburg_Spain"]]

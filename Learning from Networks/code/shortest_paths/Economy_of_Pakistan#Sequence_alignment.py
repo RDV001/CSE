@@ -1,0 +1,1 @@
+[["Economy_of_Pakistan", "Chicken", "Protein", "Sequence_alignment"], ["Economy_of_Pakistan", "Milk", "Protein", "Sequence_alignment"], ["Economy_of_Pakistan", "Tea", "Protein", "Sequence_alignment"], ["Economy_of_Pakistan", "Wheat", "Protein", "Sequence_alignment"]]

@@ -1,0 +1,1 @@
+[["Celine_Dion", "New_York_City", "Jerusalem"]]

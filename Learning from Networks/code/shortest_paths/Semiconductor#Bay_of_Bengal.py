@@ -1,0 +1,1 @@
+[["Semiconductor", "Energy", "Tropical_cyclone", "Bay_of_Bengal"]]

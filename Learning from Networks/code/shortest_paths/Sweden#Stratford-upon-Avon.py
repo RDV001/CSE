@@ -1,0 +1,1 @@
+[["Sweden", "Denmark", "William_Shakespeare", "Stratford-upon-Avon"], ["Sweden", "English_language", "William_Shakespeare", "Stratford-upon-Avon"], ["Sweden", "Opera", "William_Shakespeare", "Stratford-upon-Avon"], ["Sweden", "Tennis", "Birmingham", "Stratford-upon-Avon"]]

@@ -1,0 +1,1 @@
+[["Mother_Teresa", "Armenia", "Industry"], ["Mother_Teresa", "Mexico", "Industry"]]

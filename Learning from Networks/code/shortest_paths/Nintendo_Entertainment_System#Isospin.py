@@ -1,0 +1,1 @@
+[["Nintendo_Entertainment_System", "Central_processing_unit", "Capacitance", "Electric_charge", "Isospin"]]

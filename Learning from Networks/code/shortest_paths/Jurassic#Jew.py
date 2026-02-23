@@ -1,0 +1,1 @@
+[["Jurassic", "Germany", "Jew"], ["Jurassic", "Hip_hop_music", "Jew"], ["Jurassic", "India", "Jew"], ["Jurassic", "Russia", "Jew"], ["Jurassic", "South_America", "Jew"]]

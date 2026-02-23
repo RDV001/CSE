@@ -1,0 +1,1 @@
+[["Buckminster_Fuller", "Chicago", "Great_Lakes", "Lake_Superior"], ["Buckminster_Fuller", "United_States", "Great_Lakes", "Lake_Superior"], ["Buckminster_Fuller", "United_States", "Mining", "Lake_Superior"], ["Buckminster_Fuller", "United_States", "Minnesota", "Lake_Superior"]]

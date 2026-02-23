@@ -1,0 +1,1 @@
+[["Lyme_disease", "Japan", "Mario"]]

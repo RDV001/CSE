@@ -1,0 +1,1 @@
+[["Australian_rules_football", "University", "Astronomy"], ["Australian_rules_football", "Winter", "Astronomy"]]

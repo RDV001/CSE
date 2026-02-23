@@ -1,0 +1,1 @@
+[["Cotton", "Europe", "Sweden"], ["Cotton", "Industrial_Revolution", "Sweden"], ["Cotton", "Shanghai", "Sweden"], ["Cotton", "United_States", "Sweden"]]

@@ -1,0 +1,1 @@
+[["Cobalt", "Australia", "Asia"], ["Cobalt", "Azerbaijan", "Asia"], ["Cobalt", "Human", "Asia"], ["Cobalt", "Petroleum", "Asia"], ["Cobalt", "Russia", "Asia"], ["Cobalt", "Zambia", "Asia"]]

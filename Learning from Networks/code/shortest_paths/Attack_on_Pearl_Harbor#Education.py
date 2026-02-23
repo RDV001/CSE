@@ -1,0 +1,1 @@
+[["Attack_on_Pearl_Harbor", "Propaganda", "Education"], ["Attack_on_Pearl_Harbor", "United_States", "Education"]]

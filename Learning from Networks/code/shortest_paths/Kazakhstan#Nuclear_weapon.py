@@ -1,0 +1,1 @@
+[["Kazakhstan", "Mikhail_Gorbachev", "Nuclear_weapon"], ["Kazakhstan", "People%27s_Republic_of_China", "Nuclear_weapon"], ["Kazakhstan", "Russia", "Nuclear_weapon"], ["Kazakhstan", "Ukraine", "Nuclear_weapon"], ["Kazakhstan", "United_Nations", "Nuclear_weapon"], ["Kazakhstan", "World_War_II", "Nuclear_weapon"]]

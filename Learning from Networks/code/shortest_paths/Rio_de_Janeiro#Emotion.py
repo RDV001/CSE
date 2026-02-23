@@ -1,0 +1,1 @@
+[["Rio_de_Janeiro", "Africa", "Human", "Emotion"], ["Rio_de_Janeiro", "Dance", "Human", "Emotion"], ["Rio_de_Janeiro", "Gold", "Human", "Emotion"], ["Rio_de_Janeiro", "South_Africa", "Human", "Emotion"], ["Rio_de_Janeiro", "Jesus", "Art", "Emotion"], ["Rio_de_Janeiro", "London", "Fashion", "Emotion"]]

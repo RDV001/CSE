@@ -1,0 +1,1 @@
+[["Euclidean_geometry", "19th_century", "Atlantic_Ocean", "Faroe_Islands"], ["Euclidean_geometry", "19th_century", "Europe", "Faroe_Islands"], ["Euclidean_geometry", "19th_century", "Germany", "Faroe_Islands"], ["Euclidean_geometry", "Albert_Einstein", "Germany", "Faroe_Islands"], ["Euclidean_geometry", "David_Hilbert", "Germany", "Faroe_Islands"]]

@@ -1,0 +1,1 @@
+[["Lhasa", "20th_century", "Nuclear_weapon", "History_of_nuclear_weapons"], ["Lhasa", "People%27s_Republic_of_China", "Nuclear_weapon", "History_of_nuclear_weapons"], ["Lhasa", "Zinc", "Nuclear_weapon", "History_of_nuclear_weapons"]]

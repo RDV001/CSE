@@ -1,0 +1,1 @@
+[["Mauna_Loa", "Global_warming", "Retreat_of_glaciers_since_1850", "Svalbard", "Willem_Barents"], ["Mauna_Loa", "Tsunami", "Norway", "Svalbard", "Willem_Barents"]]

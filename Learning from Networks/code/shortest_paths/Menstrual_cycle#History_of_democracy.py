@@ -1,0 +1,1 @@
+[["Menstrual_cycle", "Cancer", "Natural_selection", "Sociocultural_evolution", "History_of_democracy"], ["Menstrual_cycle", "Latin", "Law", "Magna_Carta", "History_of_democracy"]]

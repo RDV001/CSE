@@ -1,0 +1,1 @@
+[["Magnet", "Earth", "Africa", "Giraffe", "African_Wild_Dog"], ["Magnet", "Earth", "Invasive_species", "Giraffe", "African_Wild_Dog"], ["Magnet", "Floppy_disk", "South_Africa", "Giraffe", "African_Wild_Dog"], ["Magnet", "Steel", "Bridge", "Dog", "African_Wild_Dog"]]

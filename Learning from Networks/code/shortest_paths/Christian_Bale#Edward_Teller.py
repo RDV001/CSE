@@ -1,0 +1,1 @@
+[["Christian_Bale", "Computer", "John_von_Neumann", "Edward_Teller"]]

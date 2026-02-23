@@ -1,0 +1,1 @@
+[["Ape", "Africa", "United_Kingdom", "J._K._Rowling"], ["Ape", "English_language", "United_Kingdom", "J._K._Rowling"], ["Ape", "Gibraltar", "United_Kingdom", "J._K._Rowling"], ["Ape", "Jew", "United_Kingdom", "J._K._Rowling"]]

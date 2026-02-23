@@ -1,0 +1,1 @@
+[["Sistine_Chapel_ceiling", "Asia", "Sikhism"]]

@@ -1,0 +1,1 @@
+[["Politics_of_the_United_Kingdom", "Scotland", "Religion", "Mysticism"], ["Politics_of_the_United_Kingdom", "United_Kingdom", "Bertrand_Russell", "Mysticism"], ["Politics_of_the_United_Kingdom", "World_War_I", "Fascism", "Mysticism"]]

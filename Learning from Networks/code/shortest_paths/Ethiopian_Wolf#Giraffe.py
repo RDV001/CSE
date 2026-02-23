@@ -1,0 +1,1 @@
+[["Ethiopian_Wolf", "Binomial_nomenclature", "Tyrannosaurus", "Giraffe"], ["Ethiopian_Wolf", "Dog", "Africa", "Giraffe"], ["Ethiopian_Wolf", "Ethiopia", "Africa", "Giraffe"], ["Ethiopian_Wolf", "Ethiopia", "South_Africa", "Giraffe"]]

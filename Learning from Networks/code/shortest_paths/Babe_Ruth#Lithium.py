@@ -1,0 +1,1 @@
+[["Babe_Ruth", "Roman_Catholic_Church", "Big_Bang", "Lithium"]]

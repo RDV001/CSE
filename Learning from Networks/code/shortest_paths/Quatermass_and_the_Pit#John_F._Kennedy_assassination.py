@@ -1,0 +1,1 @@
+[["Quatermass_and_the_Pit", "United_States", "Dallas%2C_Texas", "John_F._Kennedy_assassination"], ["Quatermass_and_the_Pit", "United_States", "John_F._Kennedy", "John_F._Kennedy_assassination"], ["Quatermass_and_the_Pit", "United_States", "President_of_the_United_States", "John_F._Kennedy_assassination"]]

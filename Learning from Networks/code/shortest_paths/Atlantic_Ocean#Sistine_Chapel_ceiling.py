@@ -1,0 +1,1 @@
+[["Atlantic_Ocean", "Greek_mythology", "Michelangelo", "Sistine_Chapel_ceiling"]]

@@ -1,0 +1,1 @@
+[["Douglas_Adams", "Antarctica", "Coal", "Vanadium"], ["Douglas_Adams", "Antarctica", "Mineral", "Vanadium"]]

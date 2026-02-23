@@ -1,0 +1,1 @@
+[["Howland_Island", "Pacific_Ocean", "California", "Minimum_wage"], ["Howland_Island", "Time_zone", "California", "Minimum_wage"], ["Howland_Island", "United_States", "California", "Minimum_wage"], ["Howland_Island", "United_States", "Florida", "Minimum_wage"], ["Howland_Island", "World_War_II", "Franklin_D._Roosevelt", "Minimum_wage"]]

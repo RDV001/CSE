@@ -1,0 +1,1 @@
+[["Apollo_8", "Chicago", "Cereal", "Vitamin"], ["Apollo_8", "Domesticated_turkey", "Parsnip", "Vitamin"], ["Apollo_8", "South_America", "20th_century", "Vitamin"]]

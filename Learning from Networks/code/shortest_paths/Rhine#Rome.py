@@ -1,0 +1,1 @@
+[["Rhine", "Augustus", "Rome"], ["Rhine", "Charlemagne", "Rome"], ["Rhine", "Europe", "Rome"], ["Rhine", "Italy", "Rome"], ["Rhine", "Napoleon_I_of_France", "Rome"], ["Rhine", "Paris", "Rome"], ["Rhine", "Pollution", "Rome"], ["Rhine", "River", "Rome"], ["Rhine", "Roman_Empire", "Rome"], ["Rhine", "World_War_II", "Rome"]]

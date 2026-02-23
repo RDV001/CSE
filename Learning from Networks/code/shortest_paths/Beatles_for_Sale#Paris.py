@@ -1,0 +1,1 @@
+[["Beatles_for_Sale", "Germany", "Paris"], ["Beatles_for_Sale", "London", "Paris"], ["Beatles_for_Sale", "Piano", "Paris"]]

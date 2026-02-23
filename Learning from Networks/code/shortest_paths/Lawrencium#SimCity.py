@@ -1,0 +1,1 @@
+[["Lawrencium", "Copper", "Alchemy", "Nintendo", "SimCity"], ["Lawrencium", "Metal", "Alchemy", "Nintendo", "SimCity"], ["Lawrencium", "Radon", "Japan", "Nintendo", "SimCity"], ["Lawrencium", "Russia", "Japan", "Nintendo", "SimCity"]]

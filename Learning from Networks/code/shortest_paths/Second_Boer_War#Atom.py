@@ -1,0 +1,1 @@
+[["Second_Boer_War", "Australia", "Atheism", "Atom"], ["Second_Boer_War", "Johannesburg", "Electricity", "Atom"], ["Second_Boer_War", "Johannesburg", "Mineral", "Atom"], ["Second_Boer_War", "Johannesburg", "Water", "Atom"], ["Second_Boer_War", "South_Africa", "Fire", "Atom"], ["Second_Boer_War", "World_War_I", "Chlorine", "Atom"]]

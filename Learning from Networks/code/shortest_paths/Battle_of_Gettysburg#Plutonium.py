@@ -1,0 +1,1 @@
+[["Battle_of_Gettysburg", "United_States", "Nuclear_power", "Plutonium"], ["Battle_of_Gettysburg", "United_States", "Nuclear_weapon", "Plutonium"]]

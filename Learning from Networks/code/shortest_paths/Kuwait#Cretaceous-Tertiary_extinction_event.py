@@ -1,0 +1,1 @@
+[["Kuwait", "India", "Extinction", "Cretaceous-Tertiary_extinction_event"], ["Kuwait", "India", "Mammal", "Cretaceous-Tertiary_extinction_event"]]

@@ -1,0 +1,1 @@
+[["Wave", "Earthquake", "United_Kingdom", "Grand_Slam_%28tennis%29", "Tiger_Woods"], ["Wave", "Speed_of_light", "Australia", "Grand_Slam_%28tennis%29", "Tiger_Woods"]]

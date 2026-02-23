@@ -1,0 +1,1 @@
+[["Snowdonia", "England", "Europe", "Hawk", "Kite_%28bird%29"], ["Snowdonia", "England", "River_Thames", "Isis", "Kite_%28bird%29"], ["Snowdonia", "English_language", "New_Zealand", "Bird_of_prey", "Kite_%28bird%29"]]

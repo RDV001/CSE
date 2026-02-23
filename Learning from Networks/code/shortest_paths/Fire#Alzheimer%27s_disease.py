@@ -1,0 +1,1 @@
+[["Fire", "Tobacco_smoking", "Alzheimer%27s_disease"]]

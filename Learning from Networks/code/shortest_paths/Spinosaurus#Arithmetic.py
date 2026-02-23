@@ -1,0 +1,1 @@
+[["Spinosaurus", "Europe", "Ancient_Greece", "Arithmetic"], ["Spinosaurus", "Germany", "University", "Arithmetic"]]

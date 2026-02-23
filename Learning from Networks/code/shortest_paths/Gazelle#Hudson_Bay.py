@@ -1,0 +1,1 @@
+[["Gazelle", "Asia", "North_America", "Hudson_Bay"], ["Gazelle", "Mammal", "North_America", "Hudson_Bay"], ["Gazelle", "Pliocene", "North_America", "Hudson_Bay"], ["Gazelle", "Fossil", "Arctic", "Hudson_Bay"]]

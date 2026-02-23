@@ -1,0 +1,1 @@
+[["Pok%C3%A9mon_Trading_Card_Game", "Magic__The_Gathering", "Board_game", "Mancala"], ["Pok%C3%A9mon_Trading_Card_Game", "Mathematics", "Game_theory", "Mancala"]]

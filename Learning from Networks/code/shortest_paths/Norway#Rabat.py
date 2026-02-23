@@ -1,0 +1,1 @@
+[["Norway", "Atlantic_Ocean", "Rabat"]]

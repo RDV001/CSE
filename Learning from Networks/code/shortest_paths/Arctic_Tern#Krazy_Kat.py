@@ -1,0 +1,1 @@
+[["Arctic_Tern", "Binomial_nomenclature", "Tyrannosaurus", "Calvin_and_Hobbes", "Krazy_Kat"], ["Arctic_Tern", "Carnivore", "Tyrannosaurus", "Calvin_and_Hobbes", "Krazy_Kat"], ["Arctic_Tern", "Carnivore", "Tiger", "Calvin_and_Hobbes", "Krazy_Kat"], ["Arctic_Tern", "England", "Thomas_Hobbes", "Calvin_and_Hobbes", "Krazy_Kat"]]

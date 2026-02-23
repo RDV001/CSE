@@ -1,0 +1,1 @@
+[["Upsilon_Andromedae_c", "Earth", "Aluminium", "Compact_Disc"]]

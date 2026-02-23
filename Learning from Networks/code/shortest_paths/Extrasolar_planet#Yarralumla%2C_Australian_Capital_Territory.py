@@ -1,0 +1,1 @@
+[["Extrasolar_planet", "Earth", "Australia", "Canberra", "Yarralumla%2C_Australian_Capital_Territory"], ["Extrasolar_planet", "Hubble_Space_Telescope", "Art", "Canberra", "Yarralumla%2C_Australian_Capital_Territory"], ["Extrasolar_planet", "Poland", "Art", "Canberra", "Yarralumla%2C_Australian_Capital_Territory"]]

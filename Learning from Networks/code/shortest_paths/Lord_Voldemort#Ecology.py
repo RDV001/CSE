@@ -1,0 +1,1 @@
+[["Lord_Voldemort", "Dutch_language", "Evolution", "Ecology"], ["Lord_Voldemort", "Harry_Potter", "Owl", "Ecology"], ["Lord_Voldemort", "Spanish_language", "Costa_Rica", "Ecology"], ["Lord_Voldemort", "United_Kingdom", "Charles_Darwin", "Ecology"]]

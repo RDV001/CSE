@@ -1,0 +1,1 @@
+[["Black_panther", "Africa", "Cold_War"], ["Black_panther", "India", "Cold_War"]]

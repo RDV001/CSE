@@ -1,0 +1,1 @@
+[["Down_syndrome", "EastEnders", "Africa", "Palm_oil"], ["Down_syndrome", "World_War_II", "Solomon_Islands", "Palm_oil"]]

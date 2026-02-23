@@ -1,0 +1,1 @@
+[["Animal_rights", "Human_rights", "19th_century", "Dmitri_Mendeleev"], ["Animal_rights", "Mind", "History_of_science", "Dmitri_Mendeleev"]]

@@ -1,0 +1,1 @@
+[["Mikhail_Gorbachev", "Azerbaijan", "Fruit", "Pumpkin"], ["Mikhail_Gorbachev", "Wine", "Fruit", "Pumpkin"], ["Mikhail_Gorbachev", "Azerbaijan", "Vegetable", "Pumpkin"], ["Mikhail_Gorbachev", "Beer", "Bread", "Pumpkin"]]

@@ -1,0 +1,1 @@
+[["Bat", "China", "Judaism", "Khazars"], ["Bat", "United_Kingdom", "Judaism", "Khazars"], ["Bat", "Gliding", "Russia", "Khazars"], ["Bat", "Poland", "Russia", "Khazars"], ["Bat", "Novel", "10th_century", "Khazars"], ["Bat", "Poland", "Ukraine", "Khazars"]]

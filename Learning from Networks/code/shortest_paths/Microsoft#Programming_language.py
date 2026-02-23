@@ -1,0 +1,1 @@
+[["Microsoft", "Bill_Gates", "Programming_language"], ["Microsoft", "Richard_Stallman", "Programming_language"]]

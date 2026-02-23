@@ -1,0 +1,1 @@
+[["Planet", "European_Space_Agency", "Czech_Republic"]]

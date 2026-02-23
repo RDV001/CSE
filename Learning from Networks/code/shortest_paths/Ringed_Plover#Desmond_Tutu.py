@@ -1,0 +1,1 @@
+[["Ringed_Plover", "Africa", "South_Africa", "Desmond_Tutu"], ["Ringed_Plover", "Carolus_Linnaeus", "South_Africa", "Desmond_Tutu"], ["Ringed_Plover", "Europe", "Anglicanism", "Desmond_Tutu"]]

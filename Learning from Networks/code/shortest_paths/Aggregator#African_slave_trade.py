@@ -1,0 +1,1 @@
+[["Aggregator", "Google", "United_States", "History_of_slavery", "African_slave_trade"], ["Aggregator", "ITunes", "United_States", "History_of_slavery", "African_slave_trade"], ["Aggregator", "Mass_media", "United_States", "History_of_slavery", "African_slave_trade"]]

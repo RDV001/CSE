@@ -1,0 +1,1 @@
+[["Alexander_the_Great", "Philosophy", "Isaac_Newton"]]

@@ -1,0 +1,1 @@
+[["PSR_B1620-26c", "Bible", "Israel", "Tanzania"], ["PSR_B1620-26c", "Hubble_Space_Telescope", "United_States", "Tanzania"], ["PSR_B1620-26c", "Sun", "United_States", "Tanzania"], ["PSR_B1620-26c", "Sun", "Egypt", "Tanzania"]]

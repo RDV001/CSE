@@ -1,0 +1,1 @@
+[["Stuttering", "Ancient_Rome", "Art", "Drawing"], ["Stuttering", "Popular_culture", "Art", "Drawing"], ["Stuttering", "Ancient_Rome", "Literature", "Drawing"], ["Stuttering", "Aristotle", "Literature", "Drawing"], ["Stuttering", "Popular_culture", "Literature", "Drawing"], ["Stuttering", "Language", "Information", "Drawing"]]

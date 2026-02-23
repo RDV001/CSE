@@ -1,0 +1,1 @@
+[["Hey_Jude", "London", "The_Championships%2C_Wimbledon", "Boris_Becker"], ["Hey_Jude", "United_Kingdom", "The_Championships%2C_Wimbledon", "Boris_Becker"], ["Hey_Jude", "United_Kingdom", "Grand_Slam_%28tennis%29", "Boris_Becker"], ["Hey_Jude", "United_Kingdom", "Tennis", "Boris_Becker"], ["Hey_Jude", "United_States", "Tennis", "Boris_Becker"]]

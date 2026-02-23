@@ -1,0 +1,1 @@
+[["John_F._Kennedy", "Princeton_University"]]

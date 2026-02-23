@@ -1,0 +1,1 @@
+[["Einsteinium", "Albert_Einstein", "Advertising", "Google"], ["Einsteinium", "Albert_Einstein", "Z%C3%BCrich", "Google"]]

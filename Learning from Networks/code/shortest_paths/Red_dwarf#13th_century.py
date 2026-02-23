@@ -1,0 +1,1 @@
+[["Red_dwarf", "Big_Bang", "Islam", "13th_century"], ["Red_dwarf", "Big_Bang", "Physics", "13th_century"], ["Red_dwarf", "Earth", "Flat_Earth", "13th_century"], ["Red_dwarf", "Earth", "Norse_mythology", "13th_century"], ["Red_dwarf", "Earth", "Weather", "13th_century"], ["Red_dwarf", "Sun", "Heliocentrism", "13th_century"]]

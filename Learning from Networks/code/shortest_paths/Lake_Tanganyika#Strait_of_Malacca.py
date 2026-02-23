@@ -1,0 +1,1 @@
+[["Lake_Tanganyika", "Africa", "Indian_Ocean", "Strait_of_Malacca"], ["Lake_Tanganyika", "Democratic_Republic_of_the_Congo", "Indian_Ocean", "Strait_of_Malacca"], ["Lake_Tanganyika", "Great_Rift_Valley", "Indian_Ocean", "Strait_of_Malacca"], ["Lake_Tanganyika", "Tanzania", "Indian_Ocean", "Strait_of_Malacca"], ["Lake_Tanganyika", "Tanzania", "Malaysia", "Strait_of_Malacca"]]

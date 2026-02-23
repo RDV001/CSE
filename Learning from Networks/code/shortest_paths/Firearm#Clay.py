@@ -1,0 +1,1 @@
+[["Firearm", "Leonardo_da_Vinci", "Clay"]]

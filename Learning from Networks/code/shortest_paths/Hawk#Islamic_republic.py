@@ -1,0 +1,1 @@
+[["Hawk", "Canada", "Afghanistan", "Islamic_republic"]]

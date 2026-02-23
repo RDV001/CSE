@@ -1,0 +1,1 @@
+[["Greek_War_of_Independence", "France", "God"]]

@@ -1,0 +1,1 @@
+[["Vulgar_Latin", "Roman_Empire", "Istanbul"], ["Vulgar_Latin", "Slavery", "Istanbul"]]

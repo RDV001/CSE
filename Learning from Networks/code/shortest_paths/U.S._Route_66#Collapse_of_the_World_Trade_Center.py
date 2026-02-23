@@ -1,0 +1,1 @@
+[["U.S._Route_66", "New_York_City", "September_11%2C_2001_attacks", "Collapse_of_the_World_Trade_Center"], ["U.S._Route_66", "U2", "September_11%2C_2001_attacks", "Collapse_of_the_World_Trade_Center"], ["U.S._Route_66", "United_States", "September_11%2C_2001_attacks", "Collapse_of_the_World_Trade_Center"]]

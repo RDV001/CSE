@@ -1,0 +1,1 @@
+[["House_Sparrow", "Automobile", "Canada"], ["House_Sparrow", "Cereal", "Canada"], ["House_Sparrow", "Flower", "Canada"], ["House_Sparrow", "Gardening", "Canada"], ["House_Sparrow", "United_Kingdom", "Canada"], ["House_Sparrow", "United_States", "Canada"]]

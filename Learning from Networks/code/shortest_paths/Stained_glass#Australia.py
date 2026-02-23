@@ -1,0 +1,1 @@
+[["Stained_glass", "Art", "Australia"], ["Stained_glass", "France", "Australia"], ["Stained_glass", "Manchester", "Australia"], ["Stained_glass", "Paris", "Australia"], ["Stained_glass", "Sculpture", "Australia"], ["Stained_glass", "World_Heritage_Site", "Australia"]]

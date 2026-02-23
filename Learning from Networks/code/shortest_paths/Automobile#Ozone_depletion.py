@@ -1,0 +1,1 @@
+[["Automobile", "Energy", "Global_warming", "Ozone_depletion"], ["Automobile", "Hydrogen", "Ammonia", "Ozone_depletion"], ["Automobile", "Law", "Climate_change", "Ozone_depletion"], ["Automobile", "Oxygen", "Ozone", "Ozone_depletion"]]

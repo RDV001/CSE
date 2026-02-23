@@ -1,0 +1,1 @@
+[["Kosovo", "Alexander_the_Great", "Malaria", "Fungus"], ["Kosovo", "European_Union", "Carbon_dioxide", "Fungus"], ["Kosovo", "Germany", "Carbon_dioxide", "Fungus"], ["Kosovo", "World_War_I", "Pneumonia", "Fungus"]]

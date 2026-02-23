@@ -1,0 +1,1 @@
+[["Serenity_%28film%29", "North_America", "Plate_tectonics", "Mount_St._Helens"], ["Serenity_%28film%29", "United_States", "Volcano", "Mount_St._Helens"], ["Serenity_%28film%29", "United_States", "Yellowstone_National_Park", "Mount_St._Helens"]]

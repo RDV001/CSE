@@ -1,0 +1,1 @@
+[["Llandudno", "Australia", "British_Empire", "John_Dee"], ["Llandudno", "United_Kingdom", "British_Empire", "John_Dee"], ["Llandudno", "Victoria_of_the_United_Kingdom", "British_Empire", "John_Dee"], ["Llandudno", "United_Kingdom", "Christopher_Wren", "John_Dee"]]

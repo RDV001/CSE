@@ -1,0 +1,1 @@
+[["Albinism", "Papua_New_Guinea", "Antarctica", "Full_moon"], ["Albinism", "Ultraviolet", "Jupiter", "Full_moon"]]

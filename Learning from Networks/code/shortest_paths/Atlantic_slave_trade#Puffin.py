@@ -1,0 +1,1 @@
+[["Atlantic_slave_trade", "Denmark", "Faroe_Islands", "Puffin"], ["Atlantic_slave_trade", "Germany", "Faroe_Islands", "Puffin"], ["Atlantic_slave_trade", "Netherlands", "Faroe_Islands", "Puffin"], ["Atlantic_slave_trade", "Scotland", "Faroe_Islands", "Puffin"]]

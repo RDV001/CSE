@@ -1,0 +1,1 @@
+[["Novel", "18th_century", "Australia"], ["Novel", "English_language", "Australia"], ["Novel", "France", "Australia"], ["Novel", "German_language", "Australia"], ["Novel", "Spanish_language", "Australia"]]

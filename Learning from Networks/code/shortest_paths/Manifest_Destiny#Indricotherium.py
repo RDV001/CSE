@@ -1,0 +1,1 @@
+[["Manifest_Destiny", "Puerto_Rico", "Oligocene", "Indricotherium"]]

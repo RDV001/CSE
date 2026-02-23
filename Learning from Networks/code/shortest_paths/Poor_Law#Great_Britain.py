@@ -1,0 +1,1 @@
+[["Poor_Law", "England", "Great_Britain"], ["Poor_Law", "Ireland", "Great_Britain"], ["Poor_Law", "United_Kingdom", "Great_Britain"]]

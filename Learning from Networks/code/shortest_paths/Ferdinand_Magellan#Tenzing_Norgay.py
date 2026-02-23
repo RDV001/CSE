@@ -1,0 +1,1 @@
+[["Ferdinand_Magellan", "Earth", "Mount_Everest", "Tenzing_Norgay"], ["Ferdinand_Magellan", "India", "Himalayas", "Tenzing_Norgay"]]

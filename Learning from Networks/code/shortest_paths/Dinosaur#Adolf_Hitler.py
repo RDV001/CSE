@@ -1,0 +1,1 @@
+[["Dinosaur", "Italy", "Adolf_Hitler"], ["Dinosaur", "King_Kong_%281933_film%29", "Adolf_Hitler"]]

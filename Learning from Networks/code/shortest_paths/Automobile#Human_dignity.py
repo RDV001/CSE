@@ -1,0 +1,1 @@
+[["Automobile", "Law", "Human_rights", "Human_dignity"], ["Automobile", "Russia", "Human_rights", "Human_dignity"]]

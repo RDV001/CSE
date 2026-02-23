@@ -1,0 +1,1 @@
+[["Shaka", "19th_century", "21st_century", "Tsunami", "July_2006_Java_earthquake"], ["Shaka", "19th_century", "Japan", "Tsunami", "July_2006_Java_earthquake"], ["Shaka", "19th_century", "Puerto_Rico", "Tsunami", "July_2006_Java_earthquake"]]

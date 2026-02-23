@@ -1,0 +1,1 @@
+[["Soviet_Union", "British_Empire", "Trinidad_and_Tobago"], ["Soviet_Union", "List_of_countries_by_system_of_government", "Trinidad_and_Tobago"], ["Soviet_Union", "United_States", "Trinidad_and_Tobago"]]

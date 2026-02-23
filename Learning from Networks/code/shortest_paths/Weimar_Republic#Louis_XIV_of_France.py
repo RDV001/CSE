@@ -1,0 +1,1 @@
+[["Weimar_Republic", "Constitutional_monarchy", "Louis_XIV_of_France"], ["Weimar_Republic", "France", "Louis_XIV_of_France"], ["Weimar_Republic", "Holy_Roman_Empire", "Louis_XIV_of_France"]]

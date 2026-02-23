@@ -1,0 +1,1 @@
+[["Kangaroo", "Cattle", "Africa", "Algiers"], ["Kangaroo", "Continent", "Africa", "Algiers"], ["Kangaroo", "Europe", "Africa", "Algiers"], ["Kangaroo", "Milk", "Africa", "Algiers"], ["Kangaroo", "Europe", "Paris", "Algiers"]]

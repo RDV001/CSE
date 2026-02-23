@@ -1,0 +1,1 @@
+[["Coal", "Carbon", "Fruit", "Beet"], ["Coal", "Sulfur", "Fruit", "Beet"], ["Coal", "Carbon_dioxide", "Sugar", "Beet"], ["Coal", "Chromium", "Sugar", "Beet"], ["Coal", "South_Africa", "Sugar", "Beet"], ["Coal", "Sulfuric_acid", "Sugar", "Beet"]]

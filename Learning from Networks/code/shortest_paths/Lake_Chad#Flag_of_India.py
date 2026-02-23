@@ -1,0 +1,1 @@
+[["Lake_Chad", "21st_century", "India", "Flag_of_India"], ["Lake_Chad", "Africa", "India", "Flag_of_India"], ["Lake_Chad", "French_language", "India", "Flag_of_India"], ["Lake_Chad", "Global_warming", "India", "Flag_of_India"], ["Lake_Chad", "Nigeria", "India", "Flag_of_India"], ["Lake_Chad", "Chad", "List_of_sovereign_states", "Flag_of_India"]]

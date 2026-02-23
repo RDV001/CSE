@@ -1,0 +1,1 @@
+[["Arctic_Monkeys", "Scotland", "Coal", "Radium"], ["Arctic_Monkeys", "United_States", "Coal", "Radium"]]

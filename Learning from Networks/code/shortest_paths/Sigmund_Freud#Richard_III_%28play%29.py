@@ -1,0 +1,1 @@
+[["Sigmund_Freud", "England", "Tower_of_London", "Richard_III_%28play%29"], ["Sigmund_Freud", "London", "Tower_of_London", "Richard_III_%28play%29"], ["Sigmund_Freud", "England", "Wars_of_the_Roses", "Richard_III_%28play%29"], ["Sigmund_Freud", "England", "William_Hogarth", "Richard_III_%28play%29"], ["Sigmund_Freud", "London", "Laurence_Olivier", "Richard_III_%28play%29"]]

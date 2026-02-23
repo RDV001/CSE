@@ -1,0 +1,1 @@
+[["Gas_metal_arc_welding", "Liquid_crystal", "Virus"]]

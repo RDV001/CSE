@@ -1,0 +1,1 @@
+[["Fiberglass", "Glass", "Carbon_dioxide", "Beer"], ["Fiberglass", "Oxygen", "Carbon_dioxide", "Beer"], ["Fiberglass", "Oxygen", "Nitrogen", "Beer"], ["Fiberglass", "Rhodium", "Nitrogen", "Beer"], ["Fiberglass", "Oxygen", "Plant", "Beer"], ["Fiberglass", "Rhodium", "Acetic_acid", "Beer"]]

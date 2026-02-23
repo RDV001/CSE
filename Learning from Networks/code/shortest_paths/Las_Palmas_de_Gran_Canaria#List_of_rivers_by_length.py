@@ -1,0 +1,1 @@
+[["Las_Palmas_de_Gran_Canaria", "Africa", "United_States", "List_of_rivers_by_length"], ["Las_Palmas_de_Gran_Canaria", "Atlantic_Ocean", "United_States", "List_of_rivers_by_length"], ["Las_Palmas_de_Gran_Canaria", "Christopher_Columbus", "United_States", "List_of_rivers_by_length"], ["Las_Palmas_de_Gran_Canaria", "Spain", "United_States", "List_of_rivers_by_length"]]

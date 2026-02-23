@@ -1,0 +1,1 @@
+[["Great_Salt_Lake", "Horse", "Cattle", "Mumbai"], ["Great_Salt_Lake", "Salt_Lake_City%2C_Utah", "Time_zone", "Mumbai"], ["Great_Salt_Lake", "U.S._state", "Los_Angeles%2C_California", "Mumbai"]]

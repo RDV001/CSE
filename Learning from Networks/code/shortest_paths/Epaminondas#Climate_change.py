@@ -1,0 +1,1 @@
+[["Epaminondas", "Ancient_Rome", "Civilization", "Climate_change"], ["Epaminondas", "Ancient_Rome", "Law", "Climate_change"], ["Epaminondas", "Ancient_Rome", "Netherlands", "Climate_change"]]

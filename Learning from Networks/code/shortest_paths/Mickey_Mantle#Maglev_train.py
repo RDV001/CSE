@@ -1,0 +1,1 @@
+[["Mickey_Mantle", "Detroit%2C_Michigan", "People%27s_Republic_of_China", "Maglev_train"], ["Mickey_Mantle", "United_States", "People%27s_Republic_of_China", "Maglev_train"], ["Mickey_Mantle", "Washington%2C_D.C.", "People%27s_Republic_of_China", "Maglev_train"], ["Mickey_Mantle", "Prostate_cancer", "Shanghai", "Maglev_train"]]

@@ -1,0 +1,1 @@
+[["Bay_of_Bengal", "Bangladesh", "Currency", "Gold_standard"], ["Bay_of_Bengal", "India", "Currency", "Gold_standard"], ["Bay_of_Bengal", "Myanmar", "Currency", "Gold_standard"], ["Bay_of_Bengal", "Sri_Lanka", "Currency", "Gold_standard"], ["Bay_of_Bengal", "India", "United_States_dollar", "Gold_standard"]]

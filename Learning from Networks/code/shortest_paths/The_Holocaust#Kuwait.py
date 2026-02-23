@@ -1,0 +1,1 @@
+[["The_Holocaust", "Argentina", "Kuwait"], ["The_Holocaust", "Iran", "Kuwait"], ["The_Holocaust", "Israel", "Kuwait"], ["The_Holocaust", "Madagascar", "Kuwait"]]

@@ -1,0 +1,1 @@
+[["SimCity", "Commodore_64", "Synthesizer", "Duran_Duran"], ["SimCity", "Detroit%2C_Michigan", "The_Temptations", "Duran_Duran"], ["SimCity", "United_Kingdom", "Arctic_Monkeys", "Duran_Duran"]]

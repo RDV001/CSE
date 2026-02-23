@@ -1,0 +1,1 @@
+[["Koryaksky", "Russia", "Europe", "Lisbon"], ["Koryaksky", "Russia", "Paris", "Lisbon"], ["Koryaksky", "United_Nations", "East_Timor", "Lisbon"], ["Koryaksky", "United_Nations", "Portugal", "Lisbon"], ["Koryaksky", "United_Nations", "Rio_de_Janeiro", "Lisbon"]]

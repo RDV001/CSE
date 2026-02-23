@@ -1,0 +1,1 @@
+[["Pentateuch", "Isaac", "Arabic_language", "World_Wide_Web", "C%2B%2B"]]

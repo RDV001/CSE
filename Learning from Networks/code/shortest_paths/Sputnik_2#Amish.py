@@ -1,0 +1,1 @@
+[["Sputnik_2", "Earth", "German_language", "Amish"], ["Sputnik_2", "Russian_language", "German_language", "Amish"]]

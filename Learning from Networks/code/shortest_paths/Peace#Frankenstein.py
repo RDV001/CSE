@@ -1,0 +1,1 @@
+[["Peace", "Civilization", "Industrial_Revolution", "Frankenstein"], ["Peace", "Sweden", "Industrial_Revolution", "Frankenstein"], ["Peace", "Switzerland", "Industrial_Revolution", "Frankenstein"], ["Peace", "Politics", "Anarchism", "Frankenstein"], ["Peace", "Slavery", "Anarchism", "Frankenstein"], ["Peace", "Vladimir_Lenin", "Geneva", "Frankenstein"]]

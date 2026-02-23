@@ -1,0 +1,1 @@
+[["Water", "Germany", "Friedrich_Nietzsche", "Crime_and_Punishment"], ["Water", "Philosophy", "Friedrich_Nietzsche", "Crime_and_Punishment"], ["Water", "Philosophy", "Fyodor_Dostoevsky", "Crime_and_Punishment"]]

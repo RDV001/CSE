@@ -1,0 +1,1 @@
+[["21st_century", "George_W._Bush", "Baghdad"], ["21st_century", "Iran", "Baghdad"], ["21st_century", "Iraq", "Baghdad"], ["21st_century", "Petroleum", "Baghdad"], ["21st_century", "Tony_Blair", "Baghdad"]]

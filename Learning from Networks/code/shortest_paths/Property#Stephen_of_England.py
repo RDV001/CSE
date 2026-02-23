@@ -1,0 +1,1 @@
+[["Property", "Charles_I_of_England", "British_monarchy", "Stephen_of_England"], ["Property", "Law", "British_monarchy", "Stephen_of_England"], ["Property", "Monarchy", "British_monarchy", "Stephen_of_England"]]

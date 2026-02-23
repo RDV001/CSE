@@ -1,0 +1,1 @@
+[["Manufacturing", "Electronics", "Electron", "Electron_beam_welding"], ["Manufacturing", "Radio", "Electron", "Electron_beam_welding"], ["Manufacturing", "Semiconductor", "Electron", "Electron_beam_welding"], ["Manufacturing", "United_Kingdom", "Electron", "Electron_beam_welding"]]

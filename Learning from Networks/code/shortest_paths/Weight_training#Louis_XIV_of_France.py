@@ -1,0 +1,1 @@
+[["Weight_training", "Ancient_Greece", "18th_century", "Louis_XIV_of_France"], ["Weight_training", "Basketball", "France", "Louis_XIV_of_France"], ["Weight_training", "Hippocrates", "France", "Louis_XIV_of_France"], ["Weight_training", "Water", "France", "Louis_XIV_of_France"], ["Weight_training", "Water", "Paris", "Louis_XIV_of_France"]]

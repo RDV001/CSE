@@ -1,0 +1,1 @@
+[["Soil_science", "Fertilizer", "Potassium", "Avocado"], ["Soil_science", "Soil", "Potassium", "Avocado"], ["Soil_science", "Irrigation", "Peru", "Avocado"]]

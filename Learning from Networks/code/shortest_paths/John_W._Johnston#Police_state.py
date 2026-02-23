@@ -1,0 +1,1 @@
+[["John_W._Johnston", "Fourteenth_Amendment_to_the_United_States_Constitution", "Government", "Police_state"], ["John_W._Johnston", "United_States", "People%27s_Republic_of_China", "Police_state"]]

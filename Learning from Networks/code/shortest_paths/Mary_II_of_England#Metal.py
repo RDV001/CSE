@@ -1,0 +1,1 @@
+[["Mary_II_of_England", "British_monarchy", "Coin", "Metal"], ["Mary_II_of_England", "Charles_II_of_England", "Gold", "Metal"], ["Mary_II_of_England", "England", "Birmingham", "Metal"], ["Mary_II_of_England", "France", "Japan", "Metal"], ["Mary_II_of_England", "London", "Japan", "Metal"], ["Mary_II_of_England", "Philip_II_of_Spain", "Lisbon", "Metal"]]

@@ -1,0 +1,1 @@
+[["Humour", "Culture", "Ancient_Egypt", "Sahara"], ["Humour", "Culture", "Civilization", "Sahara"], ["Humour", "Culture", "North_Africa", "Sahara"]]

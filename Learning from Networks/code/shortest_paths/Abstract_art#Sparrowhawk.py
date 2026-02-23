@@ -1,0 +1,1 @@
+[["Abstract_art", "20th_century", "Europe", "Hawk", "Sparrowhawk"], ["Abstract_art", "Art", "Europe", "Hawk", "Sparrowhawk"], ["Abstract_art", "Cubism", "Europe", "Hawk", "Sparrowhawk"]]

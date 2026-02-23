@@ -1,0 +1,1 @@
+[["Coffee", "Diabetes_mellitus", "Retina", "Color_blindness"], ["Coffee", "Nitrogen", "Color", "Color_blindness"], ["Coffee", "Water", "Color", "Color_blindness"], ["Coffee", "United_States_dollar", "Federated_States_of_Micronesia", "Color_blindness"]]

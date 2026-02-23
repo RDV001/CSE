@@ -1,0 +1,1 @@
+[["Spyware", "Advertising", "Africa", "Trumpet"]]

@@ -1,0 +1,1 @@
+[["14th_century", "Lithuania", "Pope_John_Paul_II", "African_slave_trade"], ["14th_century", "Poland", "Pope_John_Paul_II", "African_slave_trade"], ["14th_century", "Pope", "Pope_John_Paul_II", "African_slave_trade"]]

@@ -1,0 +1,1 @@
+[["Ecuador", "Spain", "Charles_V%2C_Holy_Roman_Emperor", "Italian_War_of_1521", "Battle_of_Bicocca"]]

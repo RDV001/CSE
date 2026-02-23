@@ -1,0 +1,1 @@
+[["Ethiopian_Wolf", "Animal", "Australian_Green_Tree_Frog", "Frog"], ["Ethiopian_Wolf", "Dog", "Cat", "Frog"], ["Ethiopian_Wolf", "Rabies", "Cat", "Frog"], ["Ethiopian_Wolf", "Mammal", "Cretaceous-Tertiary_extinction_event", "Frog"], ["Ethiopian_Wolf", "Mammal", "Dinosaur", "Frog"]]

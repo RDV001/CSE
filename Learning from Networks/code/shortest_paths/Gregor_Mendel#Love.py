@@ -1,0 +1,1 @@
+[["Gregor_Mendel", "20th_century", "Nazism", "Love"], ["Gregor_Mendel", "German_language", "Nazism", "Love"], ["Gregor_Mendel", "Natural_selection", "Nazism", "Love"], ["Gregor_Mendel", "Genetics", "Human", "Love"], ["Gregor_Mendel", "Physics", "Chemistry", "Love"]]

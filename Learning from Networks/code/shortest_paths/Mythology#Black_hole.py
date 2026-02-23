@@ -1,0 +1,1 @@
+[["Mythology", "Deity", "Universe", "Black_hole"], ["Mythology", "Religion", "Universe", "Black_hole"], ["Mythology", "Religion", "Gravitation", "Black_hole"]]

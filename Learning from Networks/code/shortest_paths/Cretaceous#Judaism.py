@@ -1,0 +1,1 @@
+[["Cretaceous", "Africa", "Judaism"], ["Cretaceous", "China", "Judaism"], ["Cretaceous", "Europe", "Judaism"]]

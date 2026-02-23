@@ -1,0 +1,1 @@
+[["Victoria_Cross", "Medal_of_Honor", "Naval_Battle_of_Guadalcanal", "Battle_of_Rennell_Island"]]

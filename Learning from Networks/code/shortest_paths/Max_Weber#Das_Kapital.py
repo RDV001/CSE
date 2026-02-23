@@ -1,0 +1,1 @@
+[["Max_Weber", "Capitalism", "Das_Kapital"], ["Max_Weber", "Karl_Marx", "Das_Kapital"], ["Max_Weber", "Marxism", "Das_Kapital"]]

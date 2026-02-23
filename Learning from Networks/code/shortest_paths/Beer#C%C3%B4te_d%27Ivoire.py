@@ -1,0 +1,1 @@
+[["Beer", "Africa", "C%C3%B4te_d%27Ivoire"], ["Beer", "Sudan", "C%C3%B4te_d%27Ivoire"], ["Beer", "United_States", "C%C3%B4te_d%27Ivoire"]]

@@ -1,0 +1,1 @@
+[["Florida_East_Coast_Railway", "Coal", "Electricity", "Alternating_current"]]

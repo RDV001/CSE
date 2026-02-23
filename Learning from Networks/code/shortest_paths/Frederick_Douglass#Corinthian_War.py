@@ -1,0 +1,1 @@
+[["Frederick_Douglass", "British_Isles", "Ancient_Greece", "Corinthian_War"], ["Frederick_Douglass", "Greece", "Ancient_Greece", "Corinthian_War"], ["Frederick_Douglass", "Italy", "Ancient_Greece", "Corinthian_War"]]

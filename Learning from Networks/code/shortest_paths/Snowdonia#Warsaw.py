@@ -1,0 +1,1 @@
+[["Snowdonia", "England", "Architecture", "Warsaw"], ["Snowdonia", "England", "Coventry", "Warsaw"], ["Snowdonia", "England", "Europe", "Warsaw"], ["Snowdonia", "English_language", "Esperanto", "Warsaw"], ["Snowdonia", "English_language", "European_Union", "Warsaw"], ["Snowdonia", "English_language", "World_War_II", "Warsaw"]]

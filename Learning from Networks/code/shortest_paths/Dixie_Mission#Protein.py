@@ -1,0 +1,1 @@
+[["Dixie_Mission", "China", "Korea", "Protein"], ["Dixie_Mission", "People%27s_Republic_of_China", "Korea", "Protein"], ["Dixie_Mission", "World_War_II", "Korea", "Protein"], ["Dixie_Mission", "United_States", "Maize", "Protein"], ["Dixie_Mission", "United_States", "Wheat", "Protein"]]

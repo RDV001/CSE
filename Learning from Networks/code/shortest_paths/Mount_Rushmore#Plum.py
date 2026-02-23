@@ -1,0 +1,1 @@
+[["Mount_Rushmore", "Sunflower", "Fruit", "Plum"], ["Mount_Rushmore", "Thomas_Jefferson", "Wine", "Plum"], ["Mount_Rushmore", "Tourism", "Wine", "Plum"], ["Mount_Rushmore", "Woodpecker", "Tree", "Plum"]]

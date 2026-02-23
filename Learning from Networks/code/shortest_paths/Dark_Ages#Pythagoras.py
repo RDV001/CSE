@@ -1,0 +1,1 @@
+[["Dark_Ages", "15th_century", "Plato", "Pythagoras"], ["Dark_Ages", "16th_century", "Nicolaus_Copernicus", "Pythagoras"], ["Dark_Ages", "Archaeology", "Geography", "Pythagoras"], ["Dark_Ages", "Europe", "Greece", "Pythagoras"], ["Dark_Ages", "United_States", "Greece", "Pythagoras"]]

@@ -1,0 +1,1 @@
+[["Thunderstorm", "Energy", "Water", "Sea_of_Galilee"]]

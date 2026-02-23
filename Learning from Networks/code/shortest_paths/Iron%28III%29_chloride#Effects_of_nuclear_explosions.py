@@ -1,0 +1,1 @@
+[["Iron%28III%29_chloride", "Chlorine", "Dead_Sea", "Earthquake", "Effects_of_nuclear_explosions"], ["Iron%28III%29_chloride", "Copper", "Indonesia", "Earthquake", "Effects_of_nuclear_explosions"], ["Iron%28III%29_chloride", "Iron", "Earth", "Earthquake", "Effects_of_nuclear_explosions"]]

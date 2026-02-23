@@ -1,0 +1,1 @@
+[["Mining", "Ancient_Egypt", "Roman_Empire"], ["Mining", "Cyprus", "Roman_Empire"], ["Mining", "Diamond", "Roman_Empire"], ["Mining", "Hungary", "Roman_Empire"], ["Mining", "Lead", "Roman_Empire"], ["Mining", "Slovakia", "Roman_Empire"]]

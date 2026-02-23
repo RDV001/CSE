@@ -1,0 +1,1 @@
+[["Eric_Clapton", "Jupiter", "Ammonia", "Europium"]]

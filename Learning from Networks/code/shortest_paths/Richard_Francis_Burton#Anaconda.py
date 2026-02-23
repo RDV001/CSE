@@ -1,0 +1,1 @@
+[["Richard_Francis_Burton", "Brazil", "Amazon_River", "Anaconda"], ["Richard_Francis_Burton", "Brazil", "South_America", "Anaconda"], ["Richard_Francis_Burton", "Damascus", "South_America", "Anaconda"], ["Richard_Francis_Burton", "France", "South_America", "Anaconda"], ["Richard_Francis_Burton", "India", "South_America", "Anaconda"]]

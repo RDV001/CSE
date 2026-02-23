@@ -1,0 +1,1 @@
+[["Fugu", "Bacteria", "Microscope", "Telescope"], ["Fugu", "Germany", "Wernher_von_Braun", "Telescope"], ["Fugu", "Japan", "Moon", "Telescope"], ["Fugu", "United_States", "Moon", "Telescope"], ["Fugu", "Pacific_Ocean", "17th_century", "Telescope"], ["Fugu", "Sphere", "Physics", "Telescope"], ["Fugu", "United_States", "Space_Shuttle_Columbia", "Telescope"]]

@@ -1,0 +1,1 @@
+[["Continent", "Atlantic_Ocean", "Tropical_cyclone", "Eye_%28cyclone%29"], ["Continent", "Christopher_Columbus", "Tropical_cyclone", "Eye_%28cyclone%29"], ["Continent", "Earth", "Tropical_cyclone", "Eye_%28cyclone%29"], ["Continent", "Japan", "Tropical_cyclone", "Eye_%28cyclone%29"], ["Continent", "Earth", "Tornado", "Eye_%28cyclone%29"]]

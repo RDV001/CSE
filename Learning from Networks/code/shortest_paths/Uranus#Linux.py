@@ -1,0 +1,1 @@
+[["Uranus", "Astrology", "Computer", "Linux"], ["Uranus", "Technology", "Computer", "Linux"], ["Uranus", "Chinese_language", "Bluetooth", "Linux"], ["Uranus", "Hubble_Space_Telescope", "Internet", "Linux"], ["Uranus", "Hubble_Space_Telescope", "Space_Shuttle_Columbia", "Linux"]]

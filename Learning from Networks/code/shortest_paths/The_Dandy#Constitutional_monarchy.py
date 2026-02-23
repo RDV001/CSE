@@ -1,0 +1,1 @@
+[["The_Dandy", "Scotland", "Constitutional_monarchy"], ["The_Dandy", "United_Kingdom", "Constitutional_monarchy"]]

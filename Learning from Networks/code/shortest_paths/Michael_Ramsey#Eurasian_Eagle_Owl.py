@@ -1,0 +1,1 @@
+[["Michael_Ramsey", "20th_century", "Europe", "Owl", "Eurasian_Eagle_Owl"], ["Michael_Ramsey", "Church_of_England", "Europe", "Owl", "Eurasian_Eagle_Owl"]]

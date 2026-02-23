@@ -1,0 +1,1 @@
+[["Black_panther", "Canada", "German_language"], ["Black_panther", "Latin_America", "German_language"]]

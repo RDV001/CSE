@@ -1,0 +1,1 @@
+[["Grover_Cleveland", "Chicago", "Global_city"]]

@@ -1,0 +1,1 @@
+[["John_Seigenthaler%2C_Sr.", "Martin_Luther_King%2C_Jr.", "Vietnam", "South_China_Sea"], ["John_Seigenthaler%2C_Sr.", "Washington%2C_D.C.", "People%27s_Republic_of_China", "South_China_Sea"], ["John_Seigenthaler%2C_Sr.", "Wikipedia", "2004_Indian_Ocean_earthquake", "South_China_Sea"]]

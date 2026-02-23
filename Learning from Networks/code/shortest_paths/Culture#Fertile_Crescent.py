@@ -1,0 +1,1 @@
+[["Culture", "Agriculture", "Fertile_Crescent"], ["Culture", "Middle_East", "Fertile_Crescent"]]

@@ -1,0 +1,1 @@
+[["Lake_Mead", "United_States", "Tennis", "Chris_Evert", "WTA_Tour_Championships"]]

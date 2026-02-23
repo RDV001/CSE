@@ -1,0 +1,1 @@
+[["Population_history_of_American_indigenous_peoples", "California", "Ronald_Reagan", "Gerald_Ford", "Boston_Terrier"], ["Population_history_of_American_indigenous_peoples", "Smallpox", "President_of_the_United_States", "Gerald_Ford", "Boston_Terrier"]]

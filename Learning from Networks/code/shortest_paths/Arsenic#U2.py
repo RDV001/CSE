@@ -1,0 +1,1 @@
+[["Arsenic", "20th_century", "21st_century", "U2"], ["Arsenic", "European_Union", "Republic_of_Ireland", "U2"], ["Arsenic", "Minnesota", "Irish_people", "U2"], ["Arsenic", "Sulfur", "Ireland", "U2"]]

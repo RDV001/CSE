@@ -1,0 +1,1 @@
+[["Ancient_Egypt", "Carbon", "Solar_System", "Phoenix_%28spacecraft%29", "Exploration_of_Mars"], ["Ancient_Egypt", "Iron", "Solar_System", "Phoenix_%28spacecraft%29", "Exploration_of_Mars"]]

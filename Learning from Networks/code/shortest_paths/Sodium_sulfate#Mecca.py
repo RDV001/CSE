@@ -1,0 +1,1 @@
+[["Sodium_sulfate", "Canada", "Islam", "Mecca"], ["Sodium_sulfate", "Mexico", "Islam", "Mecca"], ["Sodium_sulfate", "Spain", "Islam", "Mecca"], ["Sodium_sulfate", "Canada", "Saudi_Arabia", "Mecca"], ["Sodium_sulfate", "Ethanol", "Meningitis", "Mecca"], ["Sodium_sulfate", "Spain", "Mosque", "Mecca"]]

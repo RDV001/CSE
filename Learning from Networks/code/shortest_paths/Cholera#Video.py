@@ -1,0 +1,1 @@
+[["Cholera", "London", "Mass_media", "Video"], ["Cholera", "President_of_the_United_States", "Mass_media", "Video"], ["Cholera", "Russia", "Mass_media", "Video"]]

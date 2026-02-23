@@ -1,0 +1,1 @@
+[["Cockatiel", "Australia", "Anglican_Communion", "Rowan_Williams"], ["Cockatiel", "Europe", "Anglicanism", "Rowan_Williams"]]

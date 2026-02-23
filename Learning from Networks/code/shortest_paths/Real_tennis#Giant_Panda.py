@@ -1,0 +1,1 @@
+[["Real_tennis", "Symmetry", "Swastika", "Giant_Panda"]]

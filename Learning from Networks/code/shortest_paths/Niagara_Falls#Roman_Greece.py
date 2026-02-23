@@ -1,0 +1,1 @@
+[["Niagara_Falls", "Ship", "Ancient_Greece", "Roman_Greece"], ["Niagara_Falls", "United_States", "Greece", "Roman_Greece"], ["Niagara_Falls", "World_War_I", "Greece", "Roman_Greece"]]

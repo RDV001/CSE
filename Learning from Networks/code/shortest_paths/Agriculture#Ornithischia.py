@@ -1,0 +1,1 @@
+[["Agriculture", "Egg_%28food%29", "Bird", "Ornithischia"], ["Agriculture", "Flower", "Bird", "Ornithischia"], ["Agriculture", "Rice", "Bird", "Ornithischia"], ["Agriculture", "Global_warming", "Jurassic", "Ornithischia"], ["Agriculture", "Horse", "Dinosaur", "Ornithischia"]]

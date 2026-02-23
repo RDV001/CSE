@@ -1,0 +1,1 @@
+[["Humour", "Aristotle", "Middle_Ages", "14th_century"], ["Humour", "Culture", "20th_century", "14th_century"], ["Humour", "Culture", "Gender", "14th_century"], ["Humour", "Juice", "Vegetable", "14th_century"]]

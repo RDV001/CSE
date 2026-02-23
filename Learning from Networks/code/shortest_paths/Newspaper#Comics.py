@@ -1,0 +1,1 @@
+[["Newspaper", "Culture", "Popular_culture", "Comics"]]

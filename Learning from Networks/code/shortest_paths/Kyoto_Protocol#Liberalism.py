@@ -1,0 +1,1 @@
+[["Kyoto_Protocol", "European_Union", "Liberalism"], ["Kyoto_Protocol", "Russia", "Liberalism"], ["Kyoto_Protocol", "San_Francisco%2C_California", "Liberalism"]]

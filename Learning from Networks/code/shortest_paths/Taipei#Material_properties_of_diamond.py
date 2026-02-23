@@ -1,0 +1,1 @@
+[["Taipei", "Johannesburg", "Diamond", "Diamond_simulant", "Material_properties_of_diamond"], ["Taipei", "Perth%2C_Western_Australia", "Diamond", "Diamond_simulant", "Material_properties_of_diamond"], ["Taipei", "South_Africa", "Diamond", "Diamond_simulant", "Material_properties_of_diamond"]]

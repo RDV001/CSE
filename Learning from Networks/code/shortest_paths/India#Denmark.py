@@ -1,0 +1,1 @@
+[["India", "Buddhism", "Denmark"], ["India", "Europe", "Denmark"], ["India", "European_Union", "Denmark"], ["India", "Jew", "Denmark"], ["India", "List_of_countries_by_system_of_government", "Denmark"], ["India", "Netherlands", "Denmark"], ["India", "Rabindranath_Tagore", "Denmark"], ["India", "United_States", "Denmark"], ["India", "Wheat", "Denmark"]]

@@ -1,0 +1,1 @@
+[["David_Cameron", "21st_century", "Latvia"], ["David_Cameron", "European_Parliament", "Latvia"], ["David_Cameron", "European_Union", "Latvia"], ["David_Cameron", "Germany", "Latvia"], ["David_Cameron", "NATO", "Latvia"], ["David_Cameron", "Soviet_Union", "Latvia"], ["David_Cameron", "Sweden", "Latvia"], ["David_Cameron", "World_War_II", "Latvia"]]

@@ -1,0 +1,1 @@
+[["Tripoli", "Madrid", "Bogot%C3%A1"], ["Tripoli", "Park", "Bogot%C3%A1"]]

@@ -1,0 +1,1 @@
+[["13th_century", "China", "Civilization", "Lothal"], ["13th_century", "Hungary", "Civilization", "Lothal"], ["13th_century", "China", "Indus_Valley_Civilization", "Lothal"]]

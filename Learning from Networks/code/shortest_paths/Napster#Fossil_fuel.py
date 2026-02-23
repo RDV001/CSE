@@ -1,0 +1,1 @@
+[["Napster", "United_States", "Agriculture", "Fossil_fuel"], ["Napster", "United_States", "Coal", "Fossil_fuel"], ["Napster", "United_States", "Natural_gas", "Fossil_fuel"], ["Napster", "United_States", "Nuclear_power", "Fossil_fuel"]]

@@ -1,0 +1,1 @@
+[["Abbey_Theatre", "Ireland", "Metamorphic_rock", "Calcite"], ["Abbey_Theatre", "Manchester", "Coal", "Calcite"], ["Abbey_Theatre", "Scotland", "Coal", "Calcite"], ["Abbey_Theatre", "United_States", "Coal", "Calcite"], ["Abbey_Theatre", "Wales", "Coal", "Calcite"]]

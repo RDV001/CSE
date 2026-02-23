@@ -1,0 +1,1 @@
+[["Flag_of_the_Republic_of_China", "China", "Ancient_Egypt", "Anemia", "Sickle-cell_disease"], ["Flag_of_the_Republic_of_China", "China", "Biology", "Genetic_code", "Sickle-cell_disease"]]

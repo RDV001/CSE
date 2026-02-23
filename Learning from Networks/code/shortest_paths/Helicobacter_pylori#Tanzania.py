@@ -1,0 +1,1 @@
+[["Helicobacter_pylori", "United_States", "Tanzania"]]

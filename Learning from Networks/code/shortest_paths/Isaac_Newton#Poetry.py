@@ -1,0 +1,1 @@
+[["Isaac_Newton", "Aristotle", "Poetry"], ["Isaac_Newton", "Nature", "Poetry"], ["Isaac_Newton", "Voltaire", "Poetry"]]

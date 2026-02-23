@@ -1,0 +1,1 @@
+[["Cheers", "Boston%2C_Massachusetts", "Fishing", "Pearl"], ["Cheers", "United_Kingdom", "Roman_Britain", "Pearl"], ["Cheers", "United_Kingdom", "Steel", "Pearl"], ["Cheers", "United_States", "Steel", "Pearl"], ["Cheers", "United_States", "Philippines", "Pearl"], ["Cheers", "United_States_dollar", "Kuwait", "Pearl"]]

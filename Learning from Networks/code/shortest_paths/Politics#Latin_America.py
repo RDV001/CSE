@@ -1,0 +1,1 @@
+[["Politics", "19th_century", "Latin_America"], ["Politics", "Communism", "Latin_America"], ["Politics", "Liberal_democracy", "Latin_America"], ["Politics", "Society", "Latin_America"], ["Politics", "United_States", "Latin_America"]]

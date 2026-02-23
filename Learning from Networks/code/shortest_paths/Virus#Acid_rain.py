@@ -1,0 +1,1 @@
+[["Virus", "Bacteria", "Sulfur", "Acid_rain"], ["Virus", "Life", "Earth", "Acid_rain"], ["Virus", "Mount_Everest", "Earth", "Acid_rain"], ["Virus", "Mount_Everest", "Weather", "Acid_rain"], ["Virus", "Organism", "Forest", "Acid_rain"], ["Virus", "Plant", "Forest", "Acid_rain"], ["Virus", "Plant", "Coal", "Acid_rain"]]

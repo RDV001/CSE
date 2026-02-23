@@ -1,0 +1,1 @@
+[["Christopher_Columbus", "Tropical_cyclone", "Galveston_Hurricane_of_1900"]]

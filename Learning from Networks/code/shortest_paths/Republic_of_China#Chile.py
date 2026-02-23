@@ -1,0 +1,1 @@
+[["Republic_of_China", "List_of_countries_by_system_of_government", "Chile"], ["Republic_of_China", "Marxism", "Chile"]]

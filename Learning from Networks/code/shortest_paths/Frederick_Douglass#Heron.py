@@ -1,0 +1,1 @@
+[["Frederick_Douglass", "Greece", "Owl", "Heron"], ["Frederick_Douglass", "United_States", "Rice", "Heron"]]

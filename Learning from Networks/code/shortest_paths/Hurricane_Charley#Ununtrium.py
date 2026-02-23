@@ -1,0 +1,1 @@
+[["Hurricane_Charley", "Africa", "Gold", "List_of_elements_by_name", "Ununtrium"], ["Hurricane_Charley", "Gulf_of_Mexico", "Nitrogen", "List_of_elements_by_name", "Ununtrium"], ["Hurricane_Charley", "Africa", "Gold", "Periodic_table", "Ununtrium"], ["Hurricane_Charley", "Gulf_of_Mexico", "Nitrogen", "Periodic_table", "Ununtrium"]]

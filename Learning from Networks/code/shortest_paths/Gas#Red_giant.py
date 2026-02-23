@@ -1,0 +1,1 @@
+[["Gas", "Heat", "Sun", "Red_giant"], ["Gas", "Plasma_%28physics%29", "Sun", "Red_giant"], ["Gas", "Phase_%28matter%29", "Star", "Red_giant"], ["Gas", "Plasma_%28physics%29", "Star", "Red_giant"], ["Gas", "Plasma_%28physics%29", "Earth", "Red_giant"]]

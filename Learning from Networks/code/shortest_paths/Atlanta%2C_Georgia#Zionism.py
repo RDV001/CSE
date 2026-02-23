@@ -1,0 +1,1 @@
+[["Atlanta%2C_Georgia", "Israel", "Zionism"]]

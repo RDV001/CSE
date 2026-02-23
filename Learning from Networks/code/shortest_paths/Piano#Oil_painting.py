@@ -1,0 +1,1 @@
+[["Piano", "19th_century", "J._M._W._Turner", "Oil_painting"], ["Piano", "Italy", "Renaissance", "Oil_painting"], ["Piano", "Paris", "Auguste_Rodin", "Oil_painting"], ["Piano", "Paris", "Mona_Lisa", "Oil_painting"]]

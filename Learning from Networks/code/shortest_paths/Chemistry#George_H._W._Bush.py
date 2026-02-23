@@ -1,0 +1,1 @@
+[["Chemistry", "World_War_II", "Harry_S._Truman", "George_H._W._Bush"], ["Chemistry", "World_War_II", "Yugoslavia", "George_H._W._Bush"]]

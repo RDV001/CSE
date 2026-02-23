@@ -1,0 +1,1 @@
+[["Christina_Aguilera", "Argentina", "Mining"], ["Christina_Aguilera", "Johannesburg", "Mining"], ["Christina_Aguilera", "United_States", "Mining"]]

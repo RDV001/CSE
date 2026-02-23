@@ -1,0 +1,1 @@
+[["Creationism", "Deluge_%28mythology%29", "Sumer", "Mustard_plant"], ["Creationism", "Hinduism", "Bangladesh", "Mustard_plant"], ["Creationism", "Islam", "Bangladesh", "Mustard_plant"], ["Creationism", "United_Kingdom", "Bangladesh", "Mustard_plant"]]

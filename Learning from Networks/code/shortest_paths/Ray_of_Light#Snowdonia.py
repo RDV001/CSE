@@ -1,0 +1,1 @@
+[["Ray_of_Light", "Europe", "Wales", "Snowdonia"], ["Ray_of_Light", "United_Kingdom", "Wales", "Snowdonia"], ["Ray_of_Light", "Los_Angeles%2C_California", "Tourism", "Snowdonia"], ["Ray_of_Light", "United_States", "Tourism", "Snowdonia"]]

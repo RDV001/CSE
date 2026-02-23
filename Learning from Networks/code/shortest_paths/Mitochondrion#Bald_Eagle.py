@@ -1,0 +1,1 @@
+[["Mitochondrion", "Ammonia", "United_States", "Bald_Eagle"]]

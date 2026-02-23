@@ -1,0 +1,1 @@
+[["Spherical_aberration", "Star", "Eye", "Bird_of_prey", "Osprey"], ["Spherical_aberration", "Telescope", "Eye", "Bird_of_prey", "Osprey"]]

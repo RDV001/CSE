@@ -1,0 +1,1 @@
+[["Ariel_Sharon", "European_Union", "Latvia"], ["Ariel_Sharon", "George_W._Bush", "Latvia"], ["Ariel_Sharon", "Russian_language", "Latvia"]]

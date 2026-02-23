@@ -1,0 +1,1 @@
+[["Wind", "Antarctica", "Albatross", "Feather"], ["Wind", "Earth", "Dinosaur", "Feather"], ["Wind", "Tropical_cyclone", "Papua_New_Guinea", "Feather"]]

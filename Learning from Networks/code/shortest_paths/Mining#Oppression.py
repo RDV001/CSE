@@ -1,0 +1,1 @@
+[["Mining", "Ancient_Egypt", "Civilization", "Oppression"], ["Mining", "Hungary", "Civilization", "Oppression"]]

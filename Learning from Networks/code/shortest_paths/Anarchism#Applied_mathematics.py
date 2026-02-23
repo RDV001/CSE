@@ -1,0 +1,1 @@
+[["Anarchism", "Stoicism", "Physics", "Applied_mathematics"]]

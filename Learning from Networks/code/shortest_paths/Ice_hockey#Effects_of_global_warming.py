@@ -1,0 +1,1 @@
+[["Ice_hockey", "Arctic", "Global_warming", "Effects_of_global_warming"]]

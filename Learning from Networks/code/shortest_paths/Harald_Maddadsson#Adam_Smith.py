@@ -1,0 +1,1 @@
+[["Harald_Maddadsson", "Isle_of_Man", "Economics", "Adam_Smith"], ["Harald_Maddadsson", "Isle_of_Man", "United_Kingdom", "Adam_Smith"], ["Harald_Maddadsson", "Outer_Hebrides", "United_Kingdom", "Adam_Smith"], ["Harald_Maddadsson", "Norway", "The_Wall_Street_Journal", "Adam_Smith"], ["Harald_Maddadsson", "Shetland", "Scots_language", "Adam_Smith"]]

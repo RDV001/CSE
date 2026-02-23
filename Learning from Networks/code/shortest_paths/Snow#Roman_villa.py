@@ -1,0 +1,1 @@
+[["Snow", "Andes", "Machu_Picchu", "Roman_villa"], ["Snow", "Argentina", "Coal", "Roman_villa"], ["Snow", "Chile", "Coal", "Roman_villa"], ["Snow", "United_States", "Coal", "Roman_villa"], ["Snow", "Austria", "Ancient_Rome", "Roman_villa"]]

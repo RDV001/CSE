@@ -1,0 +1,1 @@
+[["Light", "5th_century", "Ireland", "William_Butler_Yeats"], ["Light", "Middle_Ages", "Ireland", "William_Butler_Yeats"], ["Light", "Moon", "Ireland", "William_Butler_Yeats"], ["Light", "Telescope", "Ireland", "William_Butler_Yeats"]]

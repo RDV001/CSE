@@ -1,0 +1,1 @@
+[["Wikinews", "French_language", "World_Trade_Organization"]]

@@ -1,0 +1,1 @@
+[["Greenhouse_effect", "Carbon_dioxide", "United_States", "Philadelphia"], ["Greenhouse_effect", "Earth%27s_atmosphere", "United_States", "Philadelphia"], ["Greenhouse_effect", "Global_warming", "United_States", "Philadelphia"], ["Greenhouse_effect", "Venus", "United_States", "Philadelphia"], ["Greenhouse_effect", "Quantum_mechanics", "Albert_Einstein", "Philadelphia"]]

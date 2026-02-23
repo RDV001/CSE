@@ -1,0 +1,1 @@
+[["Battle_of_Hastings", "France", "Democracy"]]

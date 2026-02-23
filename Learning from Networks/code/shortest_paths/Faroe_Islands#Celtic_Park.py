@@ -1,0 +1,1 @@
+[["Faroe_Islands", "Atlantic_Ocean", "Glasgow", "Celtic_Park"], ["Faroe_Islands", "Orkney", "Glasgow", "Celtic_Park"], ["Faroe_Islands", "United_Kingdom", "Glasgow", "Celtic_Park"], ["Faroe_Islands", "United_Kingdom", "Celtic_F.C.", "Celtic_Park"]]

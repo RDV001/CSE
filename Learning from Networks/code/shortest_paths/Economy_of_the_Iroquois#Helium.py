@@ -1,0 +1,1 @@
+[["Economy_of_the_Iroquois", "Property", "Earth%27s_atmosphere", "Helium"], ["Economy_of_the_Iroquois", "United_Kingdom", "Hydrogen", "Helium"], ["Economy_of_the_Iroquois", "United_Kingdom", "Natural_gas", "Helium"], ["Economy_of_the_Iroquois", "United_States", "Natural_gas", "Helium"]]

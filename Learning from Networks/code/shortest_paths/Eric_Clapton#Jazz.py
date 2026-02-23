@@ -1,0 +1,1 @@
+[["Eric_Clapton", "Birmingham", "Jazz"], ["Eric_Clapton", "Bob_Dylan", "Jazz"], ["Eric_Clapton", "Brass_instrument", "Jazz"], ["Eric_Clapton", "Guitar", "Jazz"], ["Eric_Clapton", "New_York_City", "Jazz"], ["Eric_Clapton", "Piano", "Jazz"], ["Eric_Clapton", "Reggae", "Jazz"], ["Eric_Clapton", "The_Rolling_Stones", "Jazz"], ["Eric_Clapton", "United_States", "Jazz"]]

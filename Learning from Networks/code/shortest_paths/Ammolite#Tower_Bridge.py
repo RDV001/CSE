@@ -1,0 +1,1 @@
+[["Ammolite", "Diamond", "London", "Tower_Bridge"], ["Ammolite", "Dinosaur", "London", "Tower_Bridge"], ["Ammolite", "Gold", "London", "Tower_Bridge"], ["Ammolite", "Water", "London", "Tower_Bridge"], ["Ammolite", "United_States", "September_11%2C_2001_attacks", "Tower_Bridge"]]

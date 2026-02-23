@@ -1,0 +1,1 @@
+[["Automobile", "Energy", "Sun", "Pluto"], ["Automobile", "Hydrogen", "Sun", "Pluto"], ["Automobile", "Europe", "Earth", "Pluto"], ["Automobile", "Russia", "Earth", "Pluto"], ["Automobile", "United_Kingdom", "Earth", "Pluto"], ["Automobile", "Hydrogen", "Plasma_%28physics%29", "Pluto"]]

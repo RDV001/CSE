@@ -1,0 +1,1 @@
+[["Middle_East", "Ancient_history", "Jesus"], ["Middle_East", "Bah%C3%A1%27%C3%AD_Faith", "Jesus"], ["Middle_East", "China", "Jesus"], ["Middle_East", "Eastern_Orthodox_Church", "Jesus"], ["Middle_East", "Jordan", "Jesus"], ["Middle_East", "Judaism", "Jesus"]]

@@ -1,0 +1,1 @@
+[["Rembrandt", "Baroque", "John_Vanbrugh", "Politics_of_the_United_Kingdom"], ["Rembrandt", "England", "Newcastle_upon_Tyne", "Politics_of_the_United_Kingdom"], ["Rembrandt", "London", "Liberal_Democrats", "Politics_of_the_United_Kingdom"]]

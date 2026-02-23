@@ -1,0 +1,1 @@
+[["Windows_Vista", "United_States_dollar", "Thomas_Jefferson", "Palladian_architecture"]]

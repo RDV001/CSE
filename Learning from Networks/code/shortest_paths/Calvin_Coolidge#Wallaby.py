@@ -1,0 +1,1 @@
+[["Calvin_Coolidge", "France", "Australia", "Kangaroo", "Wallaby"], ["Calvin_Coolidge", "Italy", "Australia", "Kangaroo", "Wallaby"], ["Calvin_Coolidge", "Japan", "Australia", "Kangaroo", "Wallaby"], ["Calvin_Coolidge", "League_of_Nations", "Australia", "Kangaroo", "Wallaby"]]

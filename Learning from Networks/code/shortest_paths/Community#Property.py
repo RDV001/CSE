@@ -1,0 +1,1 @@
+[["Community", "United_States", "Property"]]

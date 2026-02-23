@@ -1,0 +1,1 @@
+[["Harlem_Globetrotters", "Chicago", "United_States", "Bald_Eagle"], ["Harlem_Globetrotters", "Michigan_State_University", "United_States", "Bald_Eagle"], ["Harlem_Globetrotters", "Pope_John_Paul_II", "United_States", "Bald_Eagle"]]

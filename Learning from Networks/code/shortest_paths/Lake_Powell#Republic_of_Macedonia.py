@@ -1,0 +1,1 @@
+[["Lake_Powell", "American_Civil_War", "Europe", "Republic_of_Macedonia"], ["Lake_Powell", "Dwight_D._Eisenhower", "Europe", "Republic_of_Macedonia"], ["Lake_Powell", "Dwight_D._Eisenhower", "Germany", "Republic_of_Macedonia"], ["Lake_Powell", "Dwight_D._Eisenhower", "Greece", "Republic_of_Macedonia"], ["Lake_Powell", "Dwight_D._Eisenhower", "NATO", "Republic_of_Macedonia"]]

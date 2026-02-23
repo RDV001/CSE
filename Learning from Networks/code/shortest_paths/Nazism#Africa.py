@@ -1,0 +1,1 @@
+[["Nazism", "Atlantis", "Africa"], ["Nazism", "Communism", "Africa"], ["Nazism", "Democracy", "Africa"], ["Nazism", "Europe", "Africa"], ["Nazism", "Middle_East", "Africa"], ["Nazism", "Nationalism", "Africa"], ["Nazism", "North_America", "Africa"], ["Nazism", "Philosophy", "Africa"], ["Nazism", "Swastika", "Africa"], ["Nazism", "World_War_I", "Africa"]]

@@ -1,0 +1,1 @@
+[["Berber_languages", "Egypt", "Greece"], ["Berber_languages", "Israel", "Greece"], ["Berber_languages", "Latin_alphabet", "Greece"], ["Berber_languages", "Paris", "Greece"]]

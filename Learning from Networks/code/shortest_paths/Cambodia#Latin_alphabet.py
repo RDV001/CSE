@@ -1,0 +1,1 @@
+[["Cambodia", "Christianity", "Latin_alphabet"], ["Cambodia", "English_language", "Latin_alphabet"], ["Cambodia", "French_language", "Latin_alphabet"], ["Cambodia", "Sanskrit", "Latin_alphabet"]]

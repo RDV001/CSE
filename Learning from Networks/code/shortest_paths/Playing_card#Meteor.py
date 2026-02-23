@@ -1,0 +1,1 @@
+[["Playing_card", "Europe", "Earth", "Meteor"], ["Playing_card", "Russia", "Earth", "Meteor"], ["Playing_card", "United_Kingdom", "Earth", "Meteor"]]

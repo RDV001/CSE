@@ -1,0 +1,1 @@
+[["Tree", "California", "Francis_Drake", "Cape_Horn"], ["Tree", "California", "Pacific_Ocean", "Cape_Horn"], ["Tree", "Oregon", "Pacific_Ocean", "Cape_Horn"], ["Tree", "Redwood_National_and_State_Parks", "Pacific_Ocean", "Cape_Horn"], ["Tree", "Sequoia", "Pacific_Ocean", "Cape_Horn"], ["Tree", "Oregon", "James_Cook", "Cape_Horn"]]

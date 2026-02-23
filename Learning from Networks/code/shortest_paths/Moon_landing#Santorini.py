@@ -1,0 +1,1 @@
+[["Moon_landing", "Dwight_D._Eisenhower", "Greece", "Santorini"], ["Moon_landing", "United_States", "Greece", "Santorini"], ["Moon_landing", "United_States", "Volcano", "Santorini"]]

@@ -1,0 +1,1 @@
+[["Peace", "Ancient_Rome", "Mining", "Cadmium"], ["Peace", "Slavery", "Mining", "Cadmium"], ["Peace", "United_States", "Mining", "Cadmium"], ["Peace", "Ancient_Rome", "Silver", "Cadmium"], ["Peace", "Norway", "Coal", "Cadmium"], ["Peace", "United_States", "Coal", "Cadmium"]]

@@ -1,0 +1,1 @@
+[["Gaza_Strip", "Arabic_language", "Sugar", "Chocolate"], ["Gaza_Strip", "List_of_countries_by_system_of_government", "Venezuela", "Chocolate"], ["Gaza_Strip", "Time_zone", "San_Francisco%2C_California", "Chocolate"], ["Gaza_Strip", "Vegetable", "Botany", "Chocolate"]]

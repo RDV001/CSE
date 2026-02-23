@@ -1,0 +1,1 @@
+[["Monaco", "Climate", "Tropical_cyclone", "Thunderstorm"], ["Monaco", "Genoa", "Baltimore%2C_Maryland", "Thunderstorm"], ["Monaco", "Tourism", "Las_Vegas%2C_Nevada", "Thunderstorm"]]

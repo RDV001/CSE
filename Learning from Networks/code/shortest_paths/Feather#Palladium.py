@@ -1,0 +1,1 @@
+[["Feather", "Clothing", "Metal", "Palladium"], ["Feather", "Heat", "Metal", "Palladium"], ["Feather", "Protein", "Nickel", "Palladium"]]

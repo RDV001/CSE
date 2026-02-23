@@ -1,0 +1,1 @@
+[["Niue", "Capital", "Helsinki", "Eurovision_Song_Contest"], ["Niue", "English_language", "Ireland", "Eurovision_Song_Contest"], ["Niue", "Time_zone", "Ireland", "Eurovision_Song_Contest"], ["Niue", "United_Kingdom", "Ireland", "Eurovision_Song_Contest"], ["Niue", "New_Zealand", "Irish_people", "Eurovision_Song_Contest"]]

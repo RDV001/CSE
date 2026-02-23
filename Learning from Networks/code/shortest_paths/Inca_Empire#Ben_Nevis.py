@@ -1,0 +1,1 @@
+[["Inca_Empire", "Argentina", "United_Kingdom", "Ben_Nevis"], ["Inca_Empire", "List_of_countries_by_system_of_government", "United_Kingdom", "Ben_Nevis"], ["Inca_Empire", "Spanish_language", "United_Kingdom", "Ben_Nevis"], ["Inca_Empire", "List_of_countries_by_system_of_government", "Scotland", "Ben_Nevis"], ["Inca_Empire", "Potato", "British_Isles", "Ben_Nevis"]]

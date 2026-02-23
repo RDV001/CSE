@@ -1,0 +1,1 @@
+[["1755_Lisbon_earthquake", "Gottfried_Leibniz", "Quantum_mechanics"]]

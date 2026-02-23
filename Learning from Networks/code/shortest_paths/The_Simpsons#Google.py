@@ -1,0 +1,1 @@
+[["The_Simpsons", "Europe", "Dublin", "Google"], ["The_Simpsons", "Popular_culture", "Advertising", "Google"], ["The_Simpsons", "Television", "Advertising", "Google"], ["The_Simpsons", "United_States", "Advertising", "Google"]]

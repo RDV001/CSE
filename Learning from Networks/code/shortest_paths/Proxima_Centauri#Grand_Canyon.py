@@ -1,0 +1,1 @@
+[["Proxima_Centauri", "Hubble_Space_Telescope", "United_States", "Grand_Canyon"], ["Proxima_Centauri", "Johannesburg", "United_States", "Grand_Canyon"], ["Proxima_Centauri", "Moon", "United_States", "Grand_Canyon"], ["Proxima_Centauri", "Sun", "United_States", "Grand_Canyon"], ["Proxima_Centauri", "Moon", "Mars", "Grand_Canyon"]]

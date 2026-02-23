@@ -1,0 +1,1 @@
+[["ZX_Spectrum", "Poland", "World_War_I"], ["ZX_Spectrum", "Pound_sterling", "World_War_I"], ["ZX_Spectrum", "Romania", "World_War_I"], ["ZX_Spectrum", "United_Kingdom", "World_War_I"]]

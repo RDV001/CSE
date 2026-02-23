@@ -1,0 +1,1 @@
+[["Inca_Empire", "Argentina", "Norway"], ["Inca_Empire", "List_of_countries_by_system_of_government", "Norway"]]

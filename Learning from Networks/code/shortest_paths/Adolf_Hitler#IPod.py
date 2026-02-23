@@ -1,0 +1,1 @@
+[["Adolf_Hitler", "Art", "Mass_media", "IPod"], ["Adolf_Hitler", "London", "Mass_media", "IPod"], ["Adolf_Hitler", "Luxembourg", "Mass_media", "IPod"], ["Adolf_Hitler", "Propaganda", "Mass_media", "IPod"], ["Adolf_Hitler", "Propaganda", "Advertising", "IPod"], ["Adolf_Hitler", "United_States", "Advertising", "IPod"]]

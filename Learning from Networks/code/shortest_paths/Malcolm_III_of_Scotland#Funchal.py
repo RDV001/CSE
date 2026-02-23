@@ -1,0 +1,1 @@
+[["Malcolm_III_of_Scotland", "12th_century", "Portugal", "Funchal"], ["Malcolm_III_of_Scotland", "England", "Atlantic_Ocean", "Funchal"], ["Malcolm_III_of_Scotland", "Scotland", "Atlantic_Ocean", "Funchal"]]

@@ -1,0 +1,1 @@
+[["12th_century", "10th_century", "Mexico"], ["12th_century", "19th_century", "Mexico"], ["12th_century", "21st_century", "Mexico"], ["12th_century", "3rd_century", "Mexico"], ["12th_century", "Paris", "Mexico"]]

@@ -1,0 +1,1 @@
+[["Zoroaster", "Star", "Chemical_element", "Lutetium"]]

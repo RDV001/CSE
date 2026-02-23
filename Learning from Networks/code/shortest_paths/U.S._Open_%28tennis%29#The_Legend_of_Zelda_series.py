@@ -1,0 +1,1 @@
+[["U.S._Open_%28tennis%29", "John_McEnroe", "Homestar_Runner", "Nintendo", "The_Legend_of_Zelda_series"], ["U.S._Open_%28tennis%29", "New_York_City", "Japan", "Nintendo", "The_Legend_of_Zelda_series"], ["U.S._Open_%28tennis%29", "Pete_Sampras", "Japan", "Nintendo", "The_Legend_of_Zelda_series"]]

@@ -1,0 +1,1 @@
+[["List_of_circulating_currencies", "United_Kingdom", "Glasgow"]]

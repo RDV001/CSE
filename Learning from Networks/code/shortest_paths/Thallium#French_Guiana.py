@@ -1,0 +1,1 @@
+[["Thallium", "United_States", "French_Guiana"]]

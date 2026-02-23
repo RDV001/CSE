@@ -1,0 +1,1 @@
+[["Thorium", "Ammonia", "Tobacco", "Stroke"], ["Thorium", "Cancer", "Tobacco", "Stroke"], ["Thorium", "Plutonium", "Tobacco", "Stroke"], ["Thorium", "Cancer", "Brain", "Stroke"], ["Thorium", "Fossil", "Carolus_Linnaeus", "Stroke"], ["Thorium", "Lead", "Schizophrenia", "Stroke"]]

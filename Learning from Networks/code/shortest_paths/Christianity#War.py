@@ -1,0 +1,1 @@
+[["Christianity", "Crusades", "War"], ["Christianity", "Last_Supper", "War"], ["Christianity", "Liberalism", "War"], ["Christianity", "Nationalism", "War"]]

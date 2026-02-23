@@ -1,0 +1,1 @@
+[["Northern_Ireland", "Commonwealth_Games", "Swaziland"], ["Northern_Ireland", "English_language", "Swaziland"], ["Northern_Ireland", "List_of_countries_by_system_of_government", "Swaziland"]]

@@ -1,0 +1,1 @@
+[["Seed", "Bird", "19th_century", "Fyodor_Dostoevsky"], ["Seed", "Soil", "19th_century", "Fyodor_Dostoevsky"], ["Seed", "Sun", "Philosophy", "Fyodor_Dostoevsky"], ["Seed", "Water", "Philosophy", "Fyodor_Dostoevsky"]]

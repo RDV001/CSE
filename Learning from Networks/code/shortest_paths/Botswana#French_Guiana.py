@@ -1,0 +1,1 @@
+[["Botswana", "European_Union", "French_Guiana"], ["Botswana", "Madagascar", "French_Guiana"], ["Botswana", "United_States", "French_Guiana"]]

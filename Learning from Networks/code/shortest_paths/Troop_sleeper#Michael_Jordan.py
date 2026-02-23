@@ -1,0 +1,1 @@
+[["Troop_sleeper", "Denver%2C_Colorado", "Chicago", "Michael_Jordan"], ["Troop_sleeper", "Refrigerator_car", "Chicago", "Michael_Jordan"], ["Troop_sleeper", "United_States", "Chicago", "Michael_Jordan"], ["Troop_sleeper", "United_States", "Basketball", "Michael_Jordan"]]

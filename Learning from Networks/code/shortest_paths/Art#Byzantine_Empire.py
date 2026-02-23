@@ -1,0 +1,1 @@
+[["Art", "13th_century", "Byzantine_Empire"], ["Art", "Ancient_Greece", "Byzantine_Empire"], ["Art", "Ancient_Rome", "Byzantine_Empire"], ["Art", "Europe", "Byzantine_Empire"], ["Art", "Middle_Ages", "Byzantine_Empire"], ["Art", "Mosaic", "Byzantine_Empire"], ["Art", "Ottoman_Empire", "Byzantine_Empire"]]

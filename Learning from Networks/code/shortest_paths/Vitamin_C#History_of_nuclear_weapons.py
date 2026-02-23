@@ -1,0 +1,1 @@
+[["Vitamin_C", "20th_century", "Nuclear_weapon", "History_of_nuclear_weapons"], ["Vitamin_C", "United_States", "Nuclear_weapon", "History_of_nuclear_weapons"]]

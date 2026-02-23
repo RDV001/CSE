@@ -1,0 +1,1 @@
+[["Magnet", "Earth", "Water", "Acetic_acid"], ["Magnet", "Heat", "Water", "Acetic_acid"], ["Magnet", "Iron", "Water", "Acetic_acid"], ["Magnet", "Steel", "Water", "Acetic_acid"]]

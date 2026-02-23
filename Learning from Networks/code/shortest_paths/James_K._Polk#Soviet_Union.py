@@ -1,0 +1,1 @@
+[["James_K._Polk", "Cuba", "Soviet_Union"], ["James_K._Polk", "President_of_the_United_States", "Soviet_Union"], ["James_K._Polk", "United_States", "Soviet_Union"]]

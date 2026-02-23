@@ -1,0 +1,1 @@
+[["Sitting_Bull", "Minnesota", "Milk", "Potassium"], ["Sitting_Bull", "United_States", "Moon", "Potassium"]]

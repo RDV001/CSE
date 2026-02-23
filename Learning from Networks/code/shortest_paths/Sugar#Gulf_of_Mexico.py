@@ -1,0 +1,1 @@
+[["Sugar", "Cuba", "Gulf_of_Mexico"], ["Sugar", "North_America", "Gulf_of_Mexico"], ["Sugar", "United_States", "Gulf_of_Mexico"], ["Sugar", "Yellow_fever", "Gulf_of_Mexico"]]

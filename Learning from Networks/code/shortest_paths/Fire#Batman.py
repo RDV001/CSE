@@ -1,0 +1,1 @@
+[["Fire", "Halloween", "Bat", "Batman"], ["Fire", "Tobacco_smoking", "Scooby-Doo", "Batman"]]

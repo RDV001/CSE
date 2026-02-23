@@ -1,0 +1,1 @@
+[["Juvenile_delinquency", "Poverty", "Capitalism"], ["Juvenile_delinquency", "United_States", "Capitalism"]]

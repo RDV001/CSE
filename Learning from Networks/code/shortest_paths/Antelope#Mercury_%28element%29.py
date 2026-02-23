@@ -1,0 +1,1 @@
+[["Antelope", "Africa", "Gold", "Mercury_%28element%29"], ["Antelope", "United_States", "Coal", "Mercury_%28element%29"], ["Antelope", "United_States", "September_11%2C_2001_attacks", "Mercury_%28element%29"], ["Antelope", "United_States", "Wake_Island", "Mercury_%28element%29"]]

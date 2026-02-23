@@ -1,0 +1,1 @@
+[["Isles_of_Scilly", "England", "Socialism", "Anarchism"], ["Isles_of_Scilly", "Middle_Ages", "Capitalism", "Anarchism"], ["Isles_of_Scilly", "Netherlands", "Capitalism", "Anarchism"], ["Isles_of_Scilly", "Prime_Minister_of_the_United_Kingdom", "Nazism", "Anarchism"]]

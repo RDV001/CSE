@@ -1,0 +1,1 @@
+[["Mammoth", "Africa", "Gold", "Astrology"], ["Mammoth", "California", "Gold", "Astrology"], ["Mammoth", "South_Africa", "Gold", "Astrology"], ["Mammoth", "Africa", "Ptolemy", "Astrology"], ["Mammoth", "Asia", "Sun", "Astrology"], ["Mammoth", "Asia", "Taoism", "Astrology"], ["Mammoth", "South_Africa", "Religion", "Astrology"], ["Mammoth", "United_States", "Coal", "Astrology"]]

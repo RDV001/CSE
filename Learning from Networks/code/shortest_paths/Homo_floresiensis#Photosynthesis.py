@@ -1,0 +1,1 @@
+[["Homo_floresiensis", "Animal", "Photosynthesis"]]

@@ -1,0 +1,1 @@
+[["Great_Red_Spot", "Earth", "Human", "Folklore"], ["Great_Red_Spot", "Telescope", "Chile", "Folklore"]]

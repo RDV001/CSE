@@ -1,0 +1,1 @@
+[["Domestic_goat", "Bible", "Judaism"], ["Domestic_goat", "Brazil", "Judaism"], ["Domestic_goat", "Cattle", "Judaism"], ["Domestic_goat", "Cheese", "Judaism"], ["Domestic_goat", "Iran", "Judaism"], ["Domestic_goat", "Jesus", "Judaism"], ["Domestic_goat", "Meat", "Judaism"], ["Domestic_goat", "Middle_East", "Judaism"], ["Domestic_goat", "Wine", "Judaism"]]

@@ -1,0 +1,1 @@
+[["Seattle%2C_Washington", "Coffee", "Turkey"], ["Seattle%2C_Washington", "Europe", "Turkey"], ["Seattle%2C_Washington", "Greece", "Turkey"], ["Seattle%2C_Washington", "Jew", "Turkey"], ["Seattle%2C_Washington", "Water", "Turkey"]]

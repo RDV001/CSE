@@ -1,0 +1,1 @@
+[["Hurricane_Andrew", "20th_century", "Jazz", "Clarinet"], ["Hurricane_Andrew", "Africa", "Jazz", "Clarinet"], ["Hurricane_Andrew", "Southern_United_States", "Jazz", "Clarinet"], ["Hurricane_Andrew", "United_States", "Jazz", "Clarinet"], ["Hurricane_Andrew", "Africa", "Flute", "Clarinet"], ["Hurricane_Andrew", "Africa", "Soukous", "Clarinet"]]

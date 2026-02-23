@@ -1,0 +1,1 @@
+[["List_of_sovereign_states", "Austria", "Granite"], ["List_of_sovereign_states", "Belarus", "Granite"], ["List_of_sovereign_states", "Central_African_Republic", "Granite"], ["List_of_sovereign_states", "Libya", "Granite"], ["List_of_sovereign_states", "Seychelles", "Granite"]]

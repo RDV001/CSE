@@ -1,0 +1,1 @@
+[["Beijing", "Argentina", "Norway"], ["Beijing", "Europe", "Norway"], ["Beijing", "Germany", "Norway"], ["Beijing", "Netherlands", "Norway"], ["Beijing", "Russia", "Norway"], ["Beijing", "Serbia", "Norway"], ["Beijing", "Shanghai", "Norway"], ["Beijing", "Turkey", "Norway"], ["Beijing", "World_War_II", "Norway"]]

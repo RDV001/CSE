@@ -1,0 +1,1 @@
+[["Gold_standard", "Franklin_D._Roosevelt", "Battle_of_Midway", "Battle_of_the_Eastern_Solomons"]]

@@ -1,0 +1,1 @@
+[["Race", "English_language", "Saint_Lucia", "Helen"], ["Race", "Monarchy", "Saint_Lucia", "Helen"], ["Race", "United_States", "Saint_Lucia", "Helen"], ["Race", "Jew", "Zeus", "Helen"], ["Race", "Scientific_classification", "Apple", "Helen"], ["Race", "Wine", "Apple", "Helen"]]

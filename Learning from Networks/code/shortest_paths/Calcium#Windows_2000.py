@@ -1,0 +1,1 @@
+[["Calcium", "Beryllium", "Computer", "Microsoft_Windows", "Windows_2000"], ["Calcium", "United_States", "Computer", "Microsoft_Windows", "Windows_2000"], ["Calcium", "United_States", "American_English", "Automated_teller_machine", "Windows_2000"], ["Calcium", "United_States", "Sierra_Leone", "Automated_teller_machine", "Windows_2000"]]

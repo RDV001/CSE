@@ -1,0 +1,1 @@
+[["Japanese_war_crimes", "20th_century", "The_Holocaust"], ["Japanese_war_crimes", "Jew", "The_Holocaust"], ["Japanese_war_crimes", "Nazi_Germany", "The_Holocaust"], ["Japanese_war_crimes", "Netherlands", "The_Holocaust"], ["Japanese_war_crimes", "World_War_II", "The_Holocaust"]]

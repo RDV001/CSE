@@ -1,0 +1,1 @@
+[["Human_rights", "Communism", "Leon_Trotsky"]]

@@ -1,0 +1,1 @@
+[["George_III_of_the_United_Kingdom", "Anne_of_Great_Britain", "Jacobite_rising"]]

@@ -1,0 +1,1 @@
+[["Synthesizer", "U2", "Human_rights", "Confucius"]]

@@ -1,0 +1,1 @@
+[["Clock", "17th_century", "Ireland", "Badger"], ["Clock", "England", "Ireland", "Badger"], ["Clock", "Cape_Town", "Winter", "Badger"], ["Clock", "England", "Winter", "Badger"]]

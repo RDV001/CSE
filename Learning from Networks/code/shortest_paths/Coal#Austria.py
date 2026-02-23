@@ -1,0 +1,1 @@
+[["Coal", "Germany", "Austria"], ["Coal", "Industrial_Revolution", "Austria"], ["Coal", "Nazi_Germany", "Austria"], ["Coal", "World_War_II", "Austria"]]

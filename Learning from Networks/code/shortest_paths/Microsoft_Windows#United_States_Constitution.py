@@ -1,0 +1,1 @@
+[["Microsoft_Windows", "GNU", "AT%26T", "United_States_Constitution"], ["Microsoft_Windows", "Unix", "AT%26T", "United_States_Constitution"], ["Microsoft_Windows", "Macintosh", "George_W._Bush", "United_States_Constitution"], ["Microsoft_Windows", "Microsoft", "United_States", "United_States_Constitution"]]

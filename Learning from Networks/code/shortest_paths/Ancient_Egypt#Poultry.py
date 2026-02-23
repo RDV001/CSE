@@ -1,0 +1,1 @@
+[["Ancient_Egypt", "Agriculture", "Meat", "Poultry"], ["Ancient_Egypt", "Agriculture", "Soybean", "Poultry"], ["Ancient_Egypt", "Beer", "Bhutan", "Poultry"], ["Ancient_Egypt", "Cereal", "Oat", "Poultry"], ["Ancient_Egypt", "Copper", "Isle_of_Man", "Poultry"], ["Ancient_Egypt", "Copper", "Sodium_hydroxide", "Poultry"], ["Ancient_Egypt", "Horn_of_Africa", "Bird", "Poultry"]]

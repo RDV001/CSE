@@ -1,0 +1,1 @@
+[["Upsilon_Andromedae_b", "Iron", "Egypt", "Liberalism"], ["Upsilon_Andromedae_b", "Sun", "Egypt", "Liberalism"], ["Upsilon_Andromedae_b", "Iron", "Russia", "Liberalism"], ["Upsilon_Andromedae_b", "Mercury_%28planet%29", "Russia", "Liberalism"], ["Upsilon_Andromedae_b", "Mercury_%28planet%29", "Argentina", "Liberalism"], ["Upsilon_Andromedae_b", "Sun", "Mexico", "Liberalism"]]

@@ -1,0 +1,1 @@
+[["Algebra", "Europe", "France", "AIDS"], ["Algebra", "Linear_algebra", "France", "AIDS"], ["Algebra", "Latin", "Roman_Catholic_Church", "AIDS"], ["Algebra", "Logic", "20th_century", "AIDS"], ["Algebra", "Mathematical_analysis", "20th_century", "AIDS"]]

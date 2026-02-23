@@ -1,0 +1,1 @@
+[["Harare", "Munich", "Edinburgh", "Malcolm_II_of_Scotland"], ["Harare", "Nottingham", "Edinburgh", "Malcolm_II_of_Scotland"], ["Harare", "United_Kingdom", "Edinburgh", "Malcolm_II_of_Scotland"], ["Harare", "United_Kingdom", "British_monarchy", "Malcolm_II_of_Scotland"]]

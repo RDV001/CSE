@@ -1,0 +1,1 @@
+[["Windows_XP", "Asia", "Cairo", "Novel"], ["Windows_XP", "Asia", "Rabindranath_Tagore", "Novel"], ["Windows_XP", "European_Union", "United_Kingdom", "Novel"], ["Windows_XP", "New_Zealand", "United_Kingdom", "Novel"], ["Windows_XP", "South_America", "United_Kingdom", "Novel"], ["Windows_XP", "New_Zealand", "11th_century", "Novel"], ["Windows_XP", "New_Zealand", "Bat", "Novel"]]

@@ -1,0 +1,1 @@
+[["Smog", "London", "Ben_Jonson", "Augustan_literature", "Restoration_comedy", "The_Country_Wife"], ["Smog", "Mexico_City", "Baroque", "John_Vanbrugh", "Restoration_comedy", "The_Country_Wife"], ["Smog", "Mexico_City", "Baroque", "John_Vanbrugh", "The_Relapse", "The_Country_Wife"]]

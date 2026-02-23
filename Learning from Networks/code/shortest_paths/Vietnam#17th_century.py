@@ -1,0 +1,1 @@
+[["Vietnam", "11th_century", "17th_century"], ["Vietnam", "15th_century", "17th_century"], ["Vietnam", "18th_century", "17th_century"], ["Vietnam", "19th_century", "17th_century"], ["Vietnam", "Chinese_language", "17th_century"], ["Vietnam", "Islam", "17th_century"]]

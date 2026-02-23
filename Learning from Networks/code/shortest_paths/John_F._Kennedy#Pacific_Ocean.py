@@ -1,0 +1,1 @@
+[["John_F._Kennedy", "Japan", "Pacific_Ocean"], ["John_F._Kennedy", "Panama", "Pacific_Ocean"], ["John_F._Kennedy", "Puerto_Rico", "Pacific_Ocean"], ["John_F._Kennedy", "South_America", "Pacific_Ocean"], ["John_F._Kennedy", "United_States", "Pacific_Ocean"]]

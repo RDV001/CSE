@@ -1,0 +1,1 @@
+[["History", "English_language", "Rwanda"], ["History", "Sub-Saharan_Africa", "Rwanda"]]

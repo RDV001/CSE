@@ -1,0 +1,1 @@
+[["Computer", "Automobile", "India", "Indus_River"], ["Computer", "Computer_and_video_games", "India", "Indus_River"], ["Computer", "Electrical_engineering", "India", "Indus_River"], ["Computer", "Cryptography", "Pakistan", "Indus_River"], ["Computer", "Trigonometry", "Indus_Valley_Civilization", "Indus_River"], ["Computer", "Trigonometry", "Timur", "Indus_River"]]

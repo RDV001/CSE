@@ -1,0 +1,1 @@
+[["Family", "Anthropology", "Romanticism", "Henry_David_Thoreau"], ["Family", "Capitalism", "Anarchism", "Henry_David_Thoreau"], ["Family", "United_States", "Poetry_of_the_United_States", "Henry_David_Thoreau"], ["Family", "United_States", "Thomas_Jefferson", "Henry_David_Thoreau"]]

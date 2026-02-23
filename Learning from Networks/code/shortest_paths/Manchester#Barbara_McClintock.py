@@ -1,0 +1,1 @@
+[["Manchester", "Beer", "Maize", "Barbara_McClintock"], ["Manchester", "Beijing", "Maize", "Barbara_McClintock"], ["Manchester", "United_States", "Maize", "Barbara_McClintock"], ["Manchester", "Doha", "Cornell_University", "Barbara_McClintock"], ["Manchester", "Dubai", "Genetics", "Barbara_McClintock"], ["Manchester", "Israel", "Genetics", "Barbara_McClintock"]]

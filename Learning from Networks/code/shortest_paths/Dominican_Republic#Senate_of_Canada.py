@@ -1,0 +1,1 @@
+[["Dominican_Republic", "Brazil", "Parliamentary_system", "Senate_of_Canada"], ["Dominican_Republic", "List_of_countries_by_system_of_government", "Parliamentary_system", "Senate_of_Canada"], ["Dominican_Republic", "Middle_East", "Parliamentary_system", "Senate_of_Canada"]]

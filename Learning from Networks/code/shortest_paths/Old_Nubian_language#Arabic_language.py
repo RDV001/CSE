@@ -1,0 +1,1 @@
+[["Old_Nubian_language", "8th_century", "Arabic_language"], ["Old_Nubian_language", "Vowel", "Arabic_language"]]

@@ -1,0 +1,1 @@
+[["Swastika", "Iran", "Jimmy_Carter", "Harley-Davidson"]]

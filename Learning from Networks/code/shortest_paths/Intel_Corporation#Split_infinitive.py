@@ -1,0 +1,1 @@
+[["Intel_Corporation", "Argentina", "Latin", "Split_infinitive"], ["Intel_Corporation", "United_States", "Latin", "Split_infinitive"]]

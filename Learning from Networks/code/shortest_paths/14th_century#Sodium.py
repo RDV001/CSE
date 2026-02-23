@@ -1,0 +1,1 @@
+[["14th_century", "Black_Death", "Alchemy", "Sodium"], ["14th_century", "Islam", "Alchemy", "Sodium"], ["14th_century", "Hundred_Years%27_War", "Salt", "Sodium"], ["14th_century", "Islam", "Alcohol", "Sodium"]]

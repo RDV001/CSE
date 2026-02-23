@@ -1,0 +1,1 @@
+[["George_Fox", "Charles_II_of_England", "Gold", "Bromine"]]

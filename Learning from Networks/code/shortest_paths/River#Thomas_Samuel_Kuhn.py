@@ -1,0 +1,1 @@
+[["River", "Civilization", "Science", "Thomas_Samuel_Kuhn"], ["River", "Iraq", "Science", "Thomas_Samuel_Kuhn"], ["River", "Israel", "Science", "Thomas_Samuel_Kuhn"], ["River", "Mark_Twain", "Science", "Thomas_Samuel_Kuhn"], ["River", "Scotland", "Science", "Thomas_Samuel_Kuhn"]]

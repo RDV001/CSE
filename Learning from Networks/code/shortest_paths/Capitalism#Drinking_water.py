@@ -1,0 +1,1 @@
+[["Capitalism", "Pollution", "Drinking_water"]]

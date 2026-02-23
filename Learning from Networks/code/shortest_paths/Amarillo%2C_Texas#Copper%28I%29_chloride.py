@@ -1,0 +1,1 @@
+[["Amarillo%2C_Texas", "Helium", "Copper", "Copper%28I%29_chloride"], ["Amarillo%2C_Texas", "Recycling", "Copper", "Copper%28I%29_chloride"]]

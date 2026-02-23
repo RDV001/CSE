@@ -1,0 +1,1 @@
+[["Manchester_United_F.C.", "Europe", "Buddhism"], ["Manchester_United_F.C.", "Manchester", "Buddhism"], ["Manchester_United_F.C.", "United_States", "Buddhism"]]

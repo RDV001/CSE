@@ -1,0 +1,1 @@
+[["Astatine", "Chemical_element", "Ununoctium"], ["Astatine", "List_of_elements_by_name", "Ununoctium"], ["Astatine", "Periodic_table", "Ununoctium"], ["Astatine", "Radon", "Ununoctium"]]

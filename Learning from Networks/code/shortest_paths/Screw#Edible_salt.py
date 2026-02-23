@@ -1,0 +1,1 @@
+[["Screw", "Aluminium", "Potassium", "Edible_salt"], ["Screw", "Titanium", "Potassium", "Edible_salt"], ["Screw", "Aluminium", "Salt", "Edible_salt"], ["Screw", "Titanium", "Salt", "Edible_salt"], ["Screw", "Wine", "Salt", "Edible_salt"], ["Screw", "Aluminium", "Sodium", "Edible_salt"], ["Screw", "Titanium", "Sodium", "Edible_salt"]]

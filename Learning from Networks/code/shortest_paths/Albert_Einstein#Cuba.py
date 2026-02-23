@@ -1,0 +1,1 @@
+[["Albert_Einstein", "Anarchism", "Cuba"], ["Albert_Einstein", "Communism", "Cuba"], ["Albert_Einstein", "Franklin_D._Roosevelt", "Cuba"], ["Albert_Einstein", "United_States", "Cuba"]]

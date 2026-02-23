@@ -1,0 +1,1 @@
+[["Apple", "Bible", "God"], ["Apple", "China", "God"], ["Apple", "France", "God"]]

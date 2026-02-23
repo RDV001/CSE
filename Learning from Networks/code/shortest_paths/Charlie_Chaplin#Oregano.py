@@ -1,0 +1,1 @@
+[["Charlie_Chaplin", "Communism", "Cuba", "Oregano"], ["Charlie_Chaplin", "Spain", "Cuba", "Oregano"], ["Charlie_Chaplin", "United_States", "Cuba", "Oregano"]]

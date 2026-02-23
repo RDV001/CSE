@@ -1,0 +1,1 @@
+[["Waste_management", "Aesthetics", "Charlemagne", "Sean_Connery"], ["Waste_management", "France", "Charlemagne", "Sean_Connery"], ["Waste_management", "Germany", "Charlemagne", "Sean_Connery"]]

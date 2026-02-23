@@ -1,0 +1,1 @@
+[["Shetland", "Natural_gas", "Carbon_dioxide", "Welding", "Shielded_metal_arc_welding"], ["Shetland", "Natural_gas", "Helium", "Welding", "Shielded_metal_arc_welding"], ["Shetland", "Natural_gas", "Hydrogen", "Welding", "Shielded_metal_arc_welding"]]

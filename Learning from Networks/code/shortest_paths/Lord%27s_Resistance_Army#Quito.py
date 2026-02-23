@@ -1,0 +1,1 @@
+[["Lord%27s_Resistance_Army", "Democratic_Republic_of_the_Congo", "South_America", "Quito"], ["Lord%27s_Resistance_Army", "United_Nations", "South_America", "Quito"], ["Lord%27s_Resistance_Army", "Interpol", "Colombia", "Quito"], ["Lord%27s_Resistance_Army", "Interpol", "Ecuador", "Quito"]]

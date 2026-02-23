@@ -1,0 +1,1 @@
+[["Eurasian_Eagle_Owl", "Animal", "Carbon_dioxide", "Germanium"]]

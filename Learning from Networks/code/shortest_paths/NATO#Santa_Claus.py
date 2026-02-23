@@ -1,0 +1,1 @@
+[["NATO", "Armenia", "Coal", "Santa_Claus"], ["NATO", "Germany", "Coal", "Santa_Claus"], ["NATO", "Israel", "Coal", "Santa_Claus"], ["NATO", "Kyrgyzstan", "Coal", "Santa_Claus"], ["NATO", "Moldova", "Coal", "Santa_Claus"], ["NATO", "Norway", "Coal", "Santa_Claus"], ["NATO", "Poland", "Coal", "Santa_Claus"], ["NATO", "United_States", "Coal", "Santa_Claus"]]

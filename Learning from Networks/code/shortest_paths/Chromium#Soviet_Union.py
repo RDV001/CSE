@@ -1,0 +1,1 @@
+[["Chromium", "India", "Soviet_Union"], ["Chromium", "Kazakhstan", "Soviet_Union"], ["Chromium", "Russia", "Soviet_Union"], ["Chromium", "Solar_System", "Soviet_Union"], ["Chromium", "Sugar", "Soviet_Union"], ["Chromium", "Titanium", "Soviet_Union"], ["Chromium", "Turkey", "Soviet_Union"]]

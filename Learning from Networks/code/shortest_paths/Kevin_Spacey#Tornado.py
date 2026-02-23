@@ -1,0 +1,1 @@
+[["Kevin_Spacey", "Bill_Clinton", "Florida", "Tornado"], ["Kevin_Spacey", "Bill_Clinton", "Hurricane_Katrina", "Tornado"], ["Kevin_Spacey", "Extraterrestrial_life", "Earth", "Tornado"], ["Kevin_Spacey", "London", "City", "Tornado"], ["Kevin_Spacey", "Neil_Young", "Nashville%2C_Tennessee", "Tornado"], ["Kevin_Spacey", "New_York_City", "Dallas%2C_Texas", "Tornado"]]

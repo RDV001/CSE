@@ -1,0 +1,1 @@
+[["DVD", "United_States_dollar", "Gold", "Fluorine"]]

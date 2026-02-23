@@ -1,0 +1,1 @@
+[["Emirate", "Saudi_Arabia", "Chicken", "Dinosaur", "Stegosaurus", "Scelidosaurus"], ["Emirate", "Saudi_Arabia", "Kenya", "Dinosaur", "Stegosaurus", "Scelidosaurus"], ["Emirate", "Sultan", "Kenya", "Dinosaur", "Stegosaurus", "Scelidosaurus"], ["Emirate", "Saudi_Arabia", "New_Zealand", "King_Kong_%282005_film%29", "Stegosaurus", "Scelidosaurus"]]

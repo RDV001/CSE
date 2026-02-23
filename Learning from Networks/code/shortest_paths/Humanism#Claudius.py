@@ -1,0 +1,1 @@
+[["Humanism", "Art", "Ancient_Rome", "Claudius"], ["Humanism", "Atheism", "Roman_Empire", "Claudius"], ["Humanism", "Geography", "Roman_Empire", "Claudius"], ["Humanism", "Isaac_Asimov", "Roman_Empire", "Claudius"], ["Humanism", "Middle_Ages", "Roman_Empire", "Claudius"], ["Humanism", "Human_rights", "Slavery", "Claudius"]]

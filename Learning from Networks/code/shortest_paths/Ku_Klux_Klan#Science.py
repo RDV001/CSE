@@ -1,0 +1,1 @@
+[["Ku_Klux_Klan", "Los_Angeles%2C_California", "Science"], ["Ku_Klux_Klan", "Scotland", "Science"]]

@@ -1,0 +1,1 @@
+[["Pythagorean_theorem", "China", "Japan", "Mario", "Super_Mario_Bros."], ["Pythagorean_theorem", "China", "Japan", "Nintendo", "Super_Mario_Bros."], ["Pythagorean_theorem", "Pythagoras", "Alchemy", "Nintendo", "Super_Mario_Bros."], ["Pythagorean_theorem", "President_of_the_United_States", "Ronald_Reagan", "Nintendo_Entertainment_System", "Super_Mario_Bros."]]

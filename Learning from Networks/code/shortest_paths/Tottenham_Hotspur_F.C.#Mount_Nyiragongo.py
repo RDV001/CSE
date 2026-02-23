@@ -1,0 +1,1 @@
+[["Tottenham_Hotspur_F.C.", "Cricket", "Kenya", "Great_Rift_Valley", "Mount_Nyiragongo"], ["Tottenham_Hotspur_F.C.", "Jew", "Ethiopia", "Great_Rift_Valley", "Mount_Nyiragongo"]]

@@ -1,0 +1,1 @@
+[["Vampire_bat", "Brazil", "Parliamentary_system", "Senate_of_Canada"]]

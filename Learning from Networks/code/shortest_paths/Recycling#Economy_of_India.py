@@ -1,0 +1,1 @@
+[["Recycling", "Bangladesh", "Kolkata", "Economy_of_India"], ["Recycling", "India", "Kolkata", "Economy_of_India"], ["Recycling", "India", "Bangalore", "Economy_of_India"], ["Recycling", "India", "Kargil_War", "Economy_of_India"], ["Recycling", "Pakistan", "Kargil_War", "Economy_of_India"], ["Recycling", "India", "Mumbai", "Economy_of_India"]]

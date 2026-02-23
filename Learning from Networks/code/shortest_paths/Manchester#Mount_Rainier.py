@@ -1,0 +1,1 @@
+[["Manchester", "China", "Volcano", "Mount_Rainier"], ["Manchester", "Italy", "Volcano", "Mount_Rainier"], ["Manchester", "Russia", "Volcano", "Mount_Rainier"], ["Manchester", "United_States", "Volcano", "Mount_Rainier"], ["Manchester", "England", "Snow", "Mount_Rainier"], ["Manchester", "United_States", "Seattle%2C_Washington", "Mount_Rainier"]]

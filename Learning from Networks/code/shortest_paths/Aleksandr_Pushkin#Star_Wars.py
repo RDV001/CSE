@@ -1,0 +1,1 @@
+[["Aleksandr_Pushkin", "Moscow", "21st_century", "Star_Wars"], ["Aleksandr_Pushkin", "Opera", "Richard_Wagner", "Star_Wars"], ["Aleksandr_Pushkin", "Romanticism", "Richard_Wagner", "Star_Wars"], ["Aleksandr_Pushkin", "Opera", "The_Rite_of_Spring", "Star_Wars"]]

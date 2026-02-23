@@ -1,0 +1,1 @@
+[["Bernard_Hinault", "France", "British_Empire", "Indian_independence_movement", "Sardar_Vallabhbhai_Patel"], ["Bernard_Hinault", "France", "British_Empire", "Mahatma_Gandhi", "Sardar_Vallabhbhai_Patel"]]

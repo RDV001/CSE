@@ -1,0 +1,1 @@
+[["Gray_Wolf", "Bear", "Giant_Panda", "Platinum"], ["Gray_Wolf", "Continent", "Igneous_rock", "Platinum"], ["Gray_Wolf", "Dog", "Ammonia", "Platinum"], ["Gray_Wolf", "Economics", "Gold", "Platinum"], ["Gray_Wolf", "Technology", "Gold", "Platinum"], ["Gray_Wolf", "Hungary", "Krypton", "Platinum"]]

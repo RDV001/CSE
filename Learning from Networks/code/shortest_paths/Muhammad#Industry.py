@@ -1,0 +1,1 @@
+[["Muhammad", "Armenia", "Industry"], ["Muhammad", "Iran", "Industry"], ["Muhammad", "Syria", "Industry"]]

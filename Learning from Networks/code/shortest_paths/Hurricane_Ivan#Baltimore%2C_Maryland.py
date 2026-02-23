@@ -1,0 +1,1 @@
+[["Hurricane_Ivan", "Atlanta%2C_Georgia", "Baltimore%2C_Maryland"], ["Hurricane_Ivan", "Atlantic_Ocean", "Baltimore%2C_Maryland"], ["Hurricane_Ivan", "Jamaica", "Baltimore%2C_Maryland"], ["Hurricane_Ivan", "United_States", "Baltimore%2C_Maryland"]]

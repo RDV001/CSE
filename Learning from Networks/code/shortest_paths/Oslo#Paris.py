@@ -1,0 +1,1 @@
+[["Oslo", "Antwerp", "Paris"], ["Oslo", "Capital", "Paris"], ["Oslo", "European_Union", "Paris"], ["Oslo", "Football_%28soccer%29", "Paris"], ["Oslo", "Germany", "Paris"], ["Oslo", "London", "Paris"], ["Oslo", "Russia", "Paris"], ["Oslo", "Washington%2C_D.C.", "Paris"]]

@@ -1,0 +1,1 @@
+[["Communism", "Mikhail_Gorbachev", "Meat", "Trichinosis"]]

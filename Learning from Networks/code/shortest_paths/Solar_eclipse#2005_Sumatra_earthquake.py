@@ -1,0 +1,1 @@
+[["Solar_eclipse", "Indian_Ocean", "2004_Indian_Ocean_earthquake", "2005_Sumatra_earthquake"]]

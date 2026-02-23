@@ -1,0 +1,1 @@
+[["Goa", "British_Empire", "Cyprus"], ["Goa", "Europe", "Cyprus"], ["Goa", "Mining", "Cyprus"], ["Goa", "Netherlands", "Cyprus"], ["Goa", "Rice", "Cyprus"], ["Goa", "World_Heritage_Site", "Cyprus"]]

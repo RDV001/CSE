@@ -1,0 +1,1 @@
+[["Theropoda", "Chicago", "New_York_City"], ["Theropoda", "Dinosaur", "New_York_City"], ["Theropoda", "Tyrannosaurus", "New_York_City"]]

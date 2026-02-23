@@ -1,0 +1,1 @@
+[["James_Garfield", "American_Civil_War", "Jesus", "Mosaic"], ["James_Garfield", "Latin", "Ancient_Rome", "Mosaic"], ["James_Garfield", "Latin", "Byzantine_Empire", "Mosaic"], ["James_Garfield", "Latin", "Virgil", "Mosaic"], ["James_Garfield", "Paris", "Moscow", "Mosaic"]]

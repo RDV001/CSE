@@ -1,0 +1,1 @@
+[["Wallaby", "Australia", "Elizabeth_II_of_the_United_Kingdom", "Nelson_Mandela"], ["Wallaby", "Scotland", "Elizabeth_II_of_the_United_Kingdom", "Nelson_Mandela"], ["Wallaby", "England", "Newcastle_upon_Tyne", "Nelson_Mandela"], ["Wallaby", "Scotland", "Rugby_World_Cup", "Nelson_Mandela"], ["Wallaby", "Scotland", "Tony_Blair", "Nelson_Mandela"]]

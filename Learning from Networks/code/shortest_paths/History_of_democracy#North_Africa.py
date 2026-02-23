@@ -1,0 +1,1 @@
+[["History_of_democracy", "19th_century", "North_Africa"], ["History_of_democracy", "Rome", "North_Africa"], ["History_of_democracy", "Spain", "North_Africa"]]

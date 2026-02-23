@@ -1,0 +1,1 @@
+[["Mythology", "Bible", "Sweden", "Skiing"], ["Mythology", "Homer", "Athens", "Skiing"], ["Mythology", "The_Lord_of_the_Rings", "Canada", "Skiing"], ["Mythology", "World_War_II", "Canada", "Skiing"], ["Mythology", "World_War_II", "New_Zealand", "Skiing"]]

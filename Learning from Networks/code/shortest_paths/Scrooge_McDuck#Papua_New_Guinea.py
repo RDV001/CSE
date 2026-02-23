@@ -1,0 +1,1 @@
+[["Scrooge_McDuck", "English_language", "Papua_New_Guinea"]]

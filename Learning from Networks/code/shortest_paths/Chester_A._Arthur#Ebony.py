@@ -1,0 +1,1 @@
+[["Chester_A._Arthur", "Canada", "Canadian_Senate", "Ebony"]]

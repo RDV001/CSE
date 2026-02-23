@@ -1,0 +1,1 @@
+[["Sunlight", "Organism", "Prion", "Kuru_%28disease%29"]]

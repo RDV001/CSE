@@ -1,0 +1,1 @@
+[["Cheese", "Argentina", "Nuclear_weapon"], ["Cheese", "New_Zealand", "Nuclear_weapon"], ["Cheese", "People%27s_Republic_of_China", "Nuclear_weapon"], ["Cheese", "Space_exploration", "Nuclear_weapon"], ["Cheese", "United_Nations", "Nuclear_weapon"], ["Cheese", "United_States", "Nuclear_weapon"], ["Cheese", "World_War_II", "Nuclear_weapon"]]

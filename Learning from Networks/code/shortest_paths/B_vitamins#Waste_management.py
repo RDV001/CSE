@@ -1,0 +1,1 @@
+[["B_vitamins", "Folic_acid", "European_Union", "Waste_management"]]

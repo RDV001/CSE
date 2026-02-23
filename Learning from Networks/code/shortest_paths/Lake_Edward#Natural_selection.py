@@ -1,0 +1,1 @@
+[["Lake_Edward", "Africa", "Anthropology", "Natural_selection"], ["Lake_Edward", "Democratic_Republic_of_the_Congo", "Biodiversity", "Natural_selection"], ["Lake_Edward", "Democratic_Republic_of_the_Congo", "Human_rights", "Natural_selection"], ["Lake_Edward", "Uganda", "Human_rights", "Natural_selection"]]

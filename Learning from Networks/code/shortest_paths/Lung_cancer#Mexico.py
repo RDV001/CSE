@@ -1,0 +1,1 @@
+[["Lung_cancer", "Brain", "Mexico"], ["Lung_cancer", "California", "Mexico"], ["Lung_cancer", "Tobacco_smoking", "Mexico"], ["Lung_cancer", "United_States", "Mexico"]]

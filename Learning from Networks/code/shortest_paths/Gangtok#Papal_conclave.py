@@ -1,0 +1,1 @@
+[["Gangtok", "Mosque", "Saudi_Arabia", "Monarchies_in_the_European_Union", "Papal_conclave"], ["Gangtok", "Nepal", "Saudi_Arabia", "Monarchies_in_the_European_Union", "Papal_conclave"], ["Gangtok", "University", "Roman_Catholic_Church", "Pope_Pius_XII", "Papal_conclave"]]

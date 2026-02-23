@@ -1,0 +1,1 @@
+[["Qin_Dynasty", "China", "Civilization", "American_Revolutionary_War"], ["Qin_Dynasty", "China", "United_States", "American_Revolutionary_War"], ["Qin_Dynasty", "Qing_Dynasty", "George_III_of_the_United_Kingdom", "American_Revolutionary_War"]]

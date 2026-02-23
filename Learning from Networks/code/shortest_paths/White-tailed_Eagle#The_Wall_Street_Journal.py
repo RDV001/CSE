@@ -1,0 +1,1 @@
+[["White-tailed_Eagle", "Norway", "The_Wall_Street_Journal"]]

@@ -1,0 +1,1 @@
+[["French_language", "Africa", "United_States_Senate"], ["French_language", "United_States", "United_States_Senate"], ["French_language", "World_Trade_Organization", "United_States_Senate"]]

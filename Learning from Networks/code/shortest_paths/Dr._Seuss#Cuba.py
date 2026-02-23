@@ -1,0 +1,1 @@
+[["Dr._Seuss", "Communism", "Cuba"], ["Dr._Seuss", "United_States", "Cuba"]]

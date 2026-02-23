@@ -1,0 +1,1 @@
+[["Nitrogen", "Antoine_Lavoisier", "Zinc"], ["Nitrogen", "Fertilizer", "Zinc"], ["Nitrogen", "Gold", "Zinc"], ["Nitrogen", "Hydrogen", "Zinc"], ["Nitrogen", "List_of_elements_by_name", "Zinc"], ["Nitrogen", "Magnetism", "Zinc"], ["Nitrogen", "Periodic_table", "Zinc"]]

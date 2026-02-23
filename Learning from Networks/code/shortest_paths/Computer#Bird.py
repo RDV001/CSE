@@ -1,0 +1,1 @@
+[["Computer", "C%2B%2B", "Evolution", "Bird"], ["Computer", "Electronics", "Color", "Bird"], ["Computer", "Television", "Color", "Bird"], ["Computer", "Great_Britain", "Isles_of_Scilly", "Bird"], ["Computer", "Integrated_circuit", "Ultraviolet", "Bird"], ["Computer", "Toy", "Animal", "Bird"], ["Computer", "Toy", "Mammal", "Bird"]]

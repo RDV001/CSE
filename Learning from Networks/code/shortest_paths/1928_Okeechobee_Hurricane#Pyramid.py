@@ -1,0 +1,1 @@
+[["1928_Okeechobee_Hurricane", "Africa", "Ancient_Egypt", "Pyramid"], ["1928_Okeechobee_Hurricane", "Africa", "Cairo", "Pyramid"], ["1928_Okeechobee_Hurricane", "Paris", "Cairo", "Pyramid"], ["1928_Okeechobee_Hurricane", "Africa", "Suez_Canal", "Pyramid"], ["1928_Okeechobee_Hurricane", "Latin_America", "Maya_civilization", "Pyramid"]]

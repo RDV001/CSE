@@ -1,0 +1,1 @@
+[["Leaning_Tower_of_Pisa", "Nazism", "Chile", "Richard_Nixon"], ["Leaning_Tower_of_Pisa", "Nazism", "Cold_War", "Richard_Nixon"], ["Leaning_Tower_of_Pisa", "World_War_II", "Cold_War", "Richard_Nixon"], ["Leaning_Tower_of_Pisa", "World_War_II", "Mao_Zedong", "Richard_Nixon"], ["Leaning_Tower_of_Pisa", "World_War_II", "United_States_Congress", "Richard_Nixon"]]

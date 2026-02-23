@@ -1,0 +1,1 @@
+[["Fennel", "Australia", "Parliamentary_system", "Senate_of_Canada"], ["Fennel", "Canada", "Parliamentary_system", "Senate_of_Canada"], ["Fennel", "Egypt", "Parliamentary_system", "Senate_of_Canada"], ["Fennel", "Middle_East", "Parliamentary_system", "Senate_of_Canada"], ["Fennel", "Canada", "Vancouver", "Senate_of_Canada"]]

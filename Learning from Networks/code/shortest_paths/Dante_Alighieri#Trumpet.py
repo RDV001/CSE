@@ -1,0 +1,1 @@
+[["Dante_Alighieri", "Argentina", "Jazz", "Trumpet"], ["Dante_Alighieri", "Europe", "Africa", "Trumpet"], ["Dante_Alighieri", "Malaria", "Africa", "Trumpet"], ["Dante_Alighieri", "Middle_Ages", "Africa", "Trumpet"], ["Dante_Alighieri", "Paris", "Africa", "Trumpet"]]

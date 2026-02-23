@@ -1,0 +1,1 @@
+[["Warsaw", "19th_century", "Peru", "Machu_Picchu"], ["Warsaw", "United_States", "Peru", "Machu_Picchu"], ["Warsaw", "Esperanto", "Tourism", "Machu_Picchu"], ["Warsaw", "Hanoi", "Tourism", "Machu_Picchu"], ["Warsaw", "Istanbul", "Tourism", "Machu_Picchu"], ["Warsaw", "Paris", "Tourism", "Machu_Picchu"], ["Warsaw", "United_States", "Tourism", "Machu_Picchu"]]

@@ -1,0 +1,1 @@
+[["La_Paz", "Bolivia", "Capitalism", "Noam_Chomsky"], ["La_Paz", "Peace", "Propaganda", "Noam_Chomsky"]]

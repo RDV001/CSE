@@ -1,0 +1,1 @@
+[["Alfred_Hitchcock", "United_States", "Florida", "Labor_Day_Hurricane_of_1935"], ["Alfred_Hitchcock", "Walt_Disney", "Florida", "Labor_Day_Hurricane_of_1935"]]

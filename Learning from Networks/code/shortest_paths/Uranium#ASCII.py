@@ -1,0 +1,1 @@
+[["Uranium", "Chemical_element", "Latin_alphabet", "ASCII"], ["Uranium", "England", "Hebrew_language", "ASCII"]]

@@ -1,0 +1,1 @@
+[["The_Rite_of_Spring", "French_language", "German_language", "Amish"], ["The_Rite_of_Spring", "Russian_language", "German_language", "Amish"], ["The_Rite_of_Spring", "United_States", "German_language", "Amish"], ["The_Rite_of_Spring", "United_States", "Peace", "Amish"]]

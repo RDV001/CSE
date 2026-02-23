@@ -1,0 +1,1 @@
+[["Ariel_Sharon", "Cancer", "Natural_selection"]]

@@ -1,0 +1,1 @@
+[["WorkChoices", "Australia", "James_Cook", "Abel_Tasman"], ["WorkChoices", "Australia", "New_Zealand", "Abel_Tasman"], ["WorkChoices", "Australia", "Pacific_Ocean", "Abel_Tasman"]]

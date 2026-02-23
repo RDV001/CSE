@@ -1,0 +1,1 @@
+[["Marie_Curie", "Banknote", "Money"]]

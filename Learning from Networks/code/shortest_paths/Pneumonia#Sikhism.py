@@ -1,0 +1,1 @@
+[["Pneumonia", "United_Kingdom", "Sikhism"], ["Pneumonia", "United_States", "Sikhism"]]

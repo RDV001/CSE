@@ -1,0 +1,1 @@
+[["Norway", "Dublin", "Dallas%2C_Texas", "University_of_Texas_at_Austin"], ["Norway", "Germany", "George_W._Bush", "University_of_Texas_at_Austin"], ["Norway", "Government", "George_W._Bush", "University_of_Texas_at_Austin"]]

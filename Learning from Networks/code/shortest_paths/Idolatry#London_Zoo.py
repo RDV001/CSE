@@ -1,0 +1,1 @@
+[["Idolatry", "Nationalism", "England", "Tower_of_London", "London_Zoo"]]

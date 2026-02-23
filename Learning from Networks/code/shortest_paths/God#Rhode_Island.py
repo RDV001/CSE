@@ -1,0 +1,1 @@
+[["God", "United_States", "Rhode_Island"]]

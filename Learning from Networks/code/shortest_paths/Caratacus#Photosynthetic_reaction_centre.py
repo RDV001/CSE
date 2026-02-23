@@ -1,0 +1,1 @@
+[["Caratacus", "River_Thames", "18th_century", "Photosynthesis", "Photosynthetic_reaction_centre"], ["Caratacus", "Wales", "Arable_land", "Photosynthesis", "Photosynthetic_reaction_centre"], ["Caratacus", "Wales", "Silurian", "Photosynthesis", "Photosynthetic_reaction_centre"]]

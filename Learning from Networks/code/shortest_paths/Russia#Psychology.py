@@ -1,0 +1,1 @@
+[["Russia", "Buddhism", "Psychology"], ["Russia", "Statistics", "Psychology"]]

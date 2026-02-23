@@ -1,0 +1,1 @@
+[["African_Great_Lakes", "Fresh_water", "Polar_ice_cap", "Mars", "Planetary_habitability", "16_Cygni"], ["African_Great_Lakes", "Great_Rift_Valley", "Volcano", "Mars", "Planetary_habitability", "16_Cygni"]]

@@ -1,0 +1,1 @@
+[["Cooperative", "European_Union", "Cyprus", "Trojan_War"]]

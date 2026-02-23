@@ -1,0 +1,1 @@
+[["Space_Invaders", "Extraterrestrial_life", "Ammonia", "Strontium"], ["Space_Invaders", "Japanese_yen", "Aluminium", "Strontium"]]

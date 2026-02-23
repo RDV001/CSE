@@ -1,0 +1,1 @@
+[["Colima_%28volcano%29", "Mexico", "Agriculture", "Flower"], ["Colima_%28volcano%29", "Pacific_Ocean", "Los_Angeles%2C_California", "Flower"], ["Colima_%28volcano%29", "Pacific_Ocean", "Seattle%2C_Washington", "Flower"], ["Colima_%28volcano%29", "Pacific_Ocean", "Shanghai", "Flower"]]

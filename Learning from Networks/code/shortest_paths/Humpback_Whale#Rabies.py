@@ -1,0 +1,1 @@
+[["Humpback_Whale", "Extinction", "Virus", "Rabies"], ["Humpback_Whale", "Mammal", "Bat", "Rabies"], ["Humpback_Whale", "New_Zealand", "Bat", "Rabies"]]

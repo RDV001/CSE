@@ -1,0 +1,1 @@
+[["Middle_East", "Africa", "Guinea"], ["Middle_East", "French_language", "Guinea"], ["Middle_East", "Lebanon", "Guinea"], ["Middle_East", "Saudi_Arabia", "Guinea"], ["Middle_East", "Somalia", "Guinea"], ["Middle_East", "Sudan", "Guinea"], ["Middle_East", "Turkey", "Guinea"], ["Middle_East", "United_States", "Guinea"], ["Middle_East", "Yemen", "Guinea"]]

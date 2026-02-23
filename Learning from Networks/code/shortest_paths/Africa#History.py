@@ -1,0 +1,1 @@
+[["Africa", "Ancient_Rome", "History"], ["Africa", "Anthropology", "History"], ["Africa", "Fossil", "History"], ["Africa", "Poverty", "History"]]

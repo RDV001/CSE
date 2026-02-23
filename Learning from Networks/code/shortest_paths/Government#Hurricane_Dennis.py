@@ -1,0 +1,1 @@
+[["Government", "George_W._Bush", "Florida", "Hurricane_Dennis"]]

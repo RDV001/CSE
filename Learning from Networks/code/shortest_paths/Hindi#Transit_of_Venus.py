@@ -1,0 +1,1 @@
+[["Hindi", "Australia", "James_Cook", "Transit_of_Venus"], ["Hindi", "New_Zealand", "James_Cook", "Transit_of_Venus"], ["Hindi", "English_language", "South_Georgia_and_the_South_Sandwich_Islands", "Transit_of_Venus"], ["Hindi", "Germany", "Johannes_Kepler", "Transit_of_Venus"]]

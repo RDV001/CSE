@@ -1,0 +1,1 @@
+[["Sanssouci", "French_language", "Mali", "Hippopotamus"], ["Sanssouci", "Mosque", "Mali", "Hippopotamus"], ["Sanssouci", "Nature", "Mammal", "Hippopotamus"], ["Sanssouci", "World_Heritage_Site", "South_Africa", "Hippopotamus"], ["Sanssouci", "World_War_I", "South_Africa", "Hippopotamus"]]

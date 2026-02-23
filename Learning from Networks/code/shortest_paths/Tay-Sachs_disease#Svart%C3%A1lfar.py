@@ -1,0 +1,1 @@
+[["Tay-Sachs_disease", "Jew", "Zeus", "Norse_mythology", "Svart%C3%A1lfar"], ["Tay-Sachs_disease", "United_Kingdom", "Earth", "Norse_mythology", "Svart%C3%A1lfar"], ["Tay-Sachs_disease", "United_Kingdom", "J._R._R._Tolkien", "Norse_mythology", "Svart%C3%A1lfar"]]

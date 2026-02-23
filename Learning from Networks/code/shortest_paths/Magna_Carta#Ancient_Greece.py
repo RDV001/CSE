@@ -1,0 +1,1 @@
+[["Magna_Carta", "European_Union", "Ancient_Greece"], ["Magna_Carta", "Law", "Ancient_Greece"], ["Magna_Carta", "Rome", "Ancient_Greece"]]

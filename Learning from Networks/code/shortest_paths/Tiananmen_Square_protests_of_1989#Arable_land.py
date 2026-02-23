@@ -1,0 +1,1 @@
+[["Tiananmen_Square_protests_of_1989", "Soviet_Union", "Arable_land"]]

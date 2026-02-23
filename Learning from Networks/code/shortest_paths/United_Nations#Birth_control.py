@@ -1,0 +1,1 @@
+[["United_Nations", "Poverty", "Birth_control"], ["United_Nations", "War", "Birth_control"]]

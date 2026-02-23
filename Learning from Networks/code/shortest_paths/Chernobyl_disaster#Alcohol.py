@@ -1,0 +1,1 @@
+[["Chernobyl_disaster", "Cancer", "Alcohol"], ["Chernobyl_disaster", "Oxygen", "Alcohol"]]

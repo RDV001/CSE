@@ -1,0 +1,1 @@
+[["Government_of_France", "Education", "Medicine", "Polymerase_chain_reaction"]]

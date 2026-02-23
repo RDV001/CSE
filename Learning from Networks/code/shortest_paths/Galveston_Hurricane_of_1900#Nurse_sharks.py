@@ -1,0 +1,1 @@
+[["Galveston_Hurricane_of_1900", "Cuba", "Cayman_Islands", "Stingray", "Nurse_sharks"], ["Galveston_Hurricane_of_1900", "Hurricane_Mitch", "Cayman_Islands", "Stingray", "Nurse_sharks"], ["Galveston_Hurricane_of_1900", "United_States", "Cayman_Islands", "Stingray", "Nurse_sharks"]]

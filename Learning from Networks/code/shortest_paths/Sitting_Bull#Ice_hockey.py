@@ -1,0 +1,1 @@
+[["Sitting_Bull", "Boston%2C_Massachusetts", "Ice_hockey"], ["Sitting_Bull", "Canada", "Ice_hockey"], ["Sitting_Bull", "United_States", "Ice_hockey"]]

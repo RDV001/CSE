@@ -1,0 +1,1 @@
+[["Jakarta", "Islam", "19th_century", "Florence_Nightingale"], ["Jakarta", "Netherlands", "19th_century", "Florence_Nightingale"], ["Jakarta", "Paris", "19th_century", "Florence_Nightingale"], ["Jakarta", "Portugal", "19th_century", "Florence_Nightingale"]]

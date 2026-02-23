@@ -1,0 +1,1 @@
+[["Raphael", "Dresden", "China", "Sun_Yat-sen"], ["Raphael", "France", "China", "Sun_Yat-sen"], ["Raphael", "Madrid", "China", "Sun_Yat-sen"], ["Raphael", "New_York_City", "China", "Sun_Yat-sen"], ["Raphael", "Painting", "China", "Sun_Yat-sen"], ["Raphael", "Saint_Petersburg", "Shanghai", "Sun_Yat-sen"], ["Raphael", "Vatican_City", "Republic_of_China", "Sun_Yat-sen"]]

@@ -1,0 +1,1 @@
+[["Cosmic_microwave_background_radiation", "Princeton_University", "Ernest_Hemingway"]]

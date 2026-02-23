@@ -1,0 +1,1 @@
+[["Edward_VIII_of_the_United_Kingdom", "France", "Sub-Saharan_Africa"], ["Edward_VIII_of_the_United_Kingdom", "Poverty", "Sub-Saharan_Africa"]]

@@ -1,0 +1,1 @@
+[["Zinc_chloride", "Ethanol", "Pakistan", "Age_of_Enlightenment"], ["Zinc_chloride", "Textile", "Art", "Age_of_Enlightenment"], ["Zinc_chloride", "Water", "Judaism", "Age_of_Enlightenment"], ["Zinc_chloride", "Zinc", "Ancient_Rome", "Age_of_Enlightenment"]]

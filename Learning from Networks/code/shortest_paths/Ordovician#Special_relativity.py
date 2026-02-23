@@ -1,0 +1,1 @@
+[["Ordovician", "Animal", "Energy", "Special_relativity"], ["Ordovician", "Devonian", "Nature", "Special_relativity"], ["Ordovician", "Glacier", "Gravitation", "Special_relativity"], ["Ordovician", "History_of_Earth", "Hydrogen", "Special_relativity"], ["Ordovician", "Petroleum", "Hydrogen", "Special_relativity"]]

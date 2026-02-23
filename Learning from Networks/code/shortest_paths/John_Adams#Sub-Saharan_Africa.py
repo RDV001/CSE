@@ -1,0 +1,1 @@
+[["John_Adams", "France", "Sub-Saharan_Africa"]]

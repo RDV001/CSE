@@ -1,0 +1,1 @@
+[["Health", "Cancer", "London", "The_Rolling_Stones"], ["Health", "Medicine", "England", "The_Rolling_Stones"], ["Health", "Medicine", "United_Kingdom", "The_Rolling_Stones"]]

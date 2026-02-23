@@ -1,0 +1,1 @@
+[["Shining_Path", "Spanish_language", "Equatorial_Guinea"]]

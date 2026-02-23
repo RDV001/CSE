@@ -1,0 +1,1 @@
+[["John_W._Campbell", "Newark%2C_New_Jersey", "Brazil", "Bras%C3%ADlia"], ["John_W._Campbell", "Nobel_Peace_Prize", "Capital", "Bras%C3%ADlia"]]

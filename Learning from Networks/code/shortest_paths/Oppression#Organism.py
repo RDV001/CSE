@@ -1,0 +1,1 @@
+[["Oppression", "Psychology", "Animal", "Organism"], ["Oppression", "Psychology", "Biology", "Organism"], ["Oppression", "Sociology", "Biology", "Organism"], ["Oppression", "Psychology", "Emotion", "Organism"], ["Oppression", "Sociology", "Chemistry", "Organism"], ["Oppression", "Sociology", "Human", "Organism"], ["Oppression", "Sociology", "Life", "Organism"]]

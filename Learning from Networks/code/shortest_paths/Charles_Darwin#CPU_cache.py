@@ -1,0 +1,1 @@
+[["Charles_Darwin", "20th_century", "Computer", "CPU_cache"], ["Charles_Darwin", "Evolution", "Computer", "CPU_cache"], ["Charles_Darwin", "Medicine", "Computer", "CPU_cache"], ["Charles_Darwin", "Physics", "Computer", "CPU_cache"]]

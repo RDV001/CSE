@@ -1,0 +1,1 @@
+[["Camel", "Asia", "Gaza_Strip", "Dune"], ["Camel", "Egypt", "Gaza_Strip", "Dune"], ["Camel", "Desert", "Sand", "Dune"], ["Camel", "Iron", "Sand", "Dune"], ["Camel", "Egypt", "Sahara", "Dune"], ["Camel", "Mammal", "Landform", "Dune"], ["Camel", "Somalia", "2004_Indian_Ocean_earthquake", "Dune"]]

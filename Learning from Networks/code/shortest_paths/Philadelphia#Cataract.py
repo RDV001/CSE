@@ -1,0 +1,1 @@
+[["Philadelphia", "18th_century", "Leonhard_Euler", "Cataract"], ["Philadelphia", "Cancer", "Ultraviolet", "Cataract"], ["Philadelphia", "GlaxoSmithKline", "Vitamin_C", "Cataract"]]

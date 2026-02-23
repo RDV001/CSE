@@ -1,0 +1,1 @@
+[["Guild", "Europe", "Mammal", "Cretaceous-Tertiary_extinction_event"], ["Guild", "India", "Mammal", "Cretaceous-Tertiary_extinction_event"], ["Guild", "India", "Extinction", "Cretaceous-Tertiary_extinction_event"], ["Guild", "Karl_Marx", "Evolution", "Cretaceous-Tertiary_extinction_event"], ["Guild", "Political_economy", "Ecology", "Cretaceous-Tertiary_extinction_event"]]

@@ -1,0 +1,1 @@
+[["Pig", "Carolus_Linnaeus", "Sweden", "Autocracy"], ["Pig", "Hinduism", "Philosophy", "Autocracy"], ["Pig", "Judaism", "Roman_Empire", "Autocracy"]]

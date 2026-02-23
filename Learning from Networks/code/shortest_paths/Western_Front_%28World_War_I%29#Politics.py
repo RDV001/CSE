@@ -1,0 +1,1 @@
+[["Western_Front_%28World_War_I%29", "Adolf_Hitler", "Politics"]]

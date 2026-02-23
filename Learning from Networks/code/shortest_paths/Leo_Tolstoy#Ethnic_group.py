@@ -1,0 +1,1 @@
+[["Leo_Tolstoy", "Esperanto", "Ethnic_group"], ["Leo_Tolstoy", "War", "Ethnic_group"]]

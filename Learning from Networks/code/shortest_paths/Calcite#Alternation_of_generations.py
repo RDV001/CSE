@@ -1,0 +1,1 @@
+[["Calcite", "Earth", "Devonian", "Fern", "Alternation_of_generations"], ["Calcite", "Earth", "Extinction", "Fern", "Alternation_of_generations"], ["Calcite", "Earth", "Plant", "Fern", "Alternation_of_generations"]]

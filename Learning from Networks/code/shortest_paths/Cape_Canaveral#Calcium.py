@@ -1,0 +1,1 @@
+[["Cape_Canaveral", "Atlantic_Ocean", "Earth", "Calcium"], ["Cape_Canaveral", "The_Simpsons", "Earth", "Calcium"], ["Cape_Canaveral", "John_F._Kennedy", "Moon", "Calcium"], ["Cape_Canaveral", "United_States", "Moon", "Calcium"], ["Cape_Canaveral", "Puerto_Rico", "Cretaceous", "Calcium"], ["Cape_Canaveral", "Puerto_Rico", "Reptile", "Calcium"]]

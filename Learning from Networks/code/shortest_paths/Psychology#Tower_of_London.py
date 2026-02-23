@@ -1,0 +1,1 @@
+[["Psychology", "19th_century", "England", "Tower_of_London"], ["Psychology", "Germany", "England", "Tower_of_London"], ["Psychology", "Sigmund_Freud", "England", "Tower_of_London"], ["Psychology", "Germany", "London", "Tower_of_London"], ["Psychology", "Sigmund_Freud", "London", "Tower_of_London"], ["Psychology", "United_States", "Gibraltar", "Tower_of_London"]]

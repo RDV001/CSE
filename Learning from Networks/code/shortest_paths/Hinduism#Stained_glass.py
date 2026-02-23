@@ -1,0 +1,1 @@
+[["Hinduism", "Swastika", "Heraldry", "Stained_glass"]]

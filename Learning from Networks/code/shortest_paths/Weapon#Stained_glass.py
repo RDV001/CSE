@@ -1,0 +1,1 @@
+[["Weapon", "Middle_Ages", "Sculpture", "Stained_glass"], ["Weapon", "Roman_Empire", "Sculpture", "Stained_glass"]]

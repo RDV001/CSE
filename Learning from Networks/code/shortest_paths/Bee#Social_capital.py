@@ -1,0 +1,1 @@
+[["Bee", "Animal", "Spider", "Guild", "Social_capital"], ["Bee", "Arthropod", "Spider", "Guild", "Social_capital"], ["Bee", "Insect", "Spider", "Guild", "Social_capital"], ["Bee", "Wasp", "Spider", "Guild", "Social_capital"], ["Bee", "Antarctica", "Russia", "Civil_society", "Social_capital"]]

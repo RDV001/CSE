@@ -1,0 +1,1 @@
+[["Cubism", "Architecture", "Athens", "Nashville%2C_Tennessee"], ["Cubism", "Europe", "Athens", "Nashville%2C_Tennessee"], ["Cubism", "Frank_Lloyd_Wright", "American_Civil_War", "Nashville%2C_Tennessee"], ["Cubism", "Frank_Lloyd_Wright", "Los_Angeles%2C_California", "Nashville%2C_Tennessee"]]

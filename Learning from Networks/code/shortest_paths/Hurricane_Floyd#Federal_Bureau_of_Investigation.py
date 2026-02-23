@@ -1,0 +1,1 @@
+[["Hurricane_Floyd", "Bill_Clinton", "Federal_Bureau_of_Investigation"], ["Hurricane_Floyd", "United_States", "Federal_Bureau_of_Investigation"]]

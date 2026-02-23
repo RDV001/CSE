@@ -1,0 +1,1 @@
+[["British_monarchy", "Anglican_Communion", "Pope_John_Paul_II", "Harlem_Globetrotters"], ["British_monarchy", "Pope", "Pope_John_Paul_II", "Harlem_Globetrotters"], ["British_monarchy", "Roman_Catholic_Church", "Pope_John_Paul_II", "Harlem_Globetrotters"]]

@@ -1,0 +1,1 @@
+[["Boeing_747", "Germany", "Albert_Einstein", "Euclidean_geometry"], ["Boeing_747", "Germany", "David_Hilbert", "Euclidean_geometry"], ["Boeing_747", "Iran", "Mathematics", "Euclidean_geometry"]]

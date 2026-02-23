@@ -1,0 +1,1 @@
+[["Dubnium", "United_States", "George_Washington", "Mount_Rushmore", "Colossus_of_Rhodes"], ["Dubnium", "United_States", "President_of_the_United_States", "Mount_Rushmore", "Colossus_of_Rhodes"], ["Dubnium", "United_States", "Thomas_Jefferson", "Mount_Rushmore", "Colossus_of_Rhodes"]]

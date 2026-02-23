@@ -1,0 +1,1 @@
+[["Sickle-cell_disease", "United_States", "Detroit%2C_Michigan", "Michigan_State_University"], ["Sickle-cell_disease", "United_States", "Ice_hockey", "Michigan_State_University"]]

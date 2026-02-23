@@ -1,0 +1,1 @@
+[["Chemical_element", "Mercury_%28element%29", "Nazi_Germany", "Swastika", "Giant_Panda"], ["Chemical_element", "Russia", "Nazi_Germany", "Swastika", "Giant_Panda"], ["Chemical_element", "Russia", "Lake_Baikal", "Bear", "Giant_Panda"]]

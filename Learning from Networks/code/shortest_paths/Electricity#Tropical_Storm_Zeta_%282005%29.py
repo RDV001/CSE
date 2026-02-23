@@ -1,0 +1,1 @@
+[["Electricity", "Energy", "Tropical_cyclone", "2005_Atlantic_hurricane_season", "Tropical_Storm_Zeta_%282005%29"], ["Electricity", "Natural_gas", "Tropical_cyclone", "2005_Atlantic_hurricane_season", "Tropical_Storm_Zeta_%282005%29"], ["Electricity", "Natural_gas", "Hurricane_Katrina", "2005_Atlantic_hurricane_season", "Tropical_Storm_Zeta_%282005%29"]]

@@ -1,0 +1,1 @@
+[["Seoul", "New_Zealand", "Cook_Islands"]]

@@ -1,0 +1,1 @@
+[["Charles_I_of_England", "Edward_I_of_England", "Adolf_Hitler"], ["Charles_I_of_England", "Paris", "Adolf_Hitler"], ["Charles_I_of_England", "Spain", "Adolf_Hitler"]]

@@ -1,0 +1,1 @@
+[["Smallpox", "United_Kingdom", "Novel", "Robinson_Crusoe"]]

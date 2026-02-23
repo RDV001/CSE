@@ -1,0 +1,1 @@
+[["Quark", "Helium", "Argon", "Krypton"], ["Quark", "Helium", "Earth%27s_atmosphere", "Krypton"], ["Quark", "Proton", "Earth%27s_atmosphere", "Krypton"], ["Quark", "Helium", "Fluorine", "Krypton"], ["Quark", "Helium", "Iodine", "Krypton"], ["Quark", "Helium", "List_of_elements_by_name", "Krypton"], ["Quark", "Helium", "Zirconium", "Krypton"]]

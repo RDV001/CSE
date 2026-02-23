@@ -1,0 +1,1 @@
+[["Animation", "Glass", "Color", "Bird", "Cormorant"], ["Animation", "Glass", "Gold", "Argentina", "Cormorant"], ["Animation", "Glass", "Silver", "Argentina", "Cormorant"], ["Animation", "The_Lion_King", "United_States", "Argentina", "Cormorant"], ["Animation", "The_Lion_King", "United_States_dollar", "Argentina", "Cormorant"]]

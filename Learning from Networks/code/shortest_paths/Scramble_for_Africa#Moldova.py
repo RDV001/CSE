@@ -1,0 +1,1 @@
+[["Scramble_for_Africa", "Europe", "Moldova"], ["Scramble_for_Africa", "Germany", "Moldova"], ["Scramble_for_Africa", "Mozambique", "Moldova"], ["Scramble_for_Africa", "Nationalism", "Moldova"]]

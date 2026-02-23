@@ -1,0 +1,1 @@
+[["Tacitean_studies", "Age_of_Enlightenment", "Poland"], ["Tacitean_studies", "Napoleon_I_of_France", "Poland"]]

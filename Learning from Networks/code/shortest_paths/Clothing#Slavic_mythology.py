@@ -1,0 +1,1 @@
+[["Clothing", "Hinduism", "Swastika", "Slavic_mythology"], ["Clothing", "Russia", "Khazars", "Slavic_mythology"]]

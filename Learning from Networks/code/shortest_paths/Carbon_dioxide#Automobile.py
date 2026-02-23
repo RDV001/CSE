@@ -1,0 +1,1 @@
+[["Carbon_dioxide", "Bicycle", "Automobile"], ["Carbon_dioxide", "Central_processing_unit", "Automobile"], ["Carbon_dioxide", "Petroleum", "Automobile"], ["Carbon_dioxide", "Transport", "Automobile"]]

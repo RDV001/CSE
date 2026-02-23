@@ -1,0 +1,1 @@
+[["Russian_language", "Azerbaijan", "Religion"], ["Russian_language", "Christianity", "Religion"], ["Russian_language", "Jew", "Religion"], ["Russian_language", "Soviet_Union", "Religion"]]

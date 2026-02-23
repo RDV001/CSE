@@ -1,0 +1,1 @@
+[["United_States_dollar", "People%27s_Republic_of_China", "Property"], ["United_States_dollar", "United_States", "Property"]]

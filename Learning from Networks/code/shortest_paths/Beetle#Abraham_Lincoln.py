@@ -1,0 +1,1 @@
+[["Beetle", "Chestnut", "United_States", "Abraham_Lincoln"], ["Beetle", "Mummy", "United_States", "Abraham_Lincoln"], ["Beetle", "Permian", "United_States", "Abraham_Lincoln"], ["Beetle", "Mummy", "19th_century", "Abraham_Lincoln"], ["Beetle", "Mummy", "Atlanta%2C_Georgia", "Abraham_Lincoln"]]

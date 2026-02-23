@@ -1,0 +1,1 @@
+[["Libreville", "France", "Islam", "Astronomy", "Andromeda_Galaxy"], ["Libreville", "France", "Roman_Catholic_Church", "Astronomy", "Andromeda_Galaxy"], ["Libreville", "Gabon", "Roman_Catholic_Church", "Astronomy", "Andromeda_Galaxy"]]

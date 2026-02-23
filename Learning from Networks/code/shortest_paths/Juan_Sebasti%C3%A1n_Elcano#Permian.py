@@ -1,0 +1,1 @@
+[["Juan_Sebasti%C3%A1n_Elcano", "Earth", "Devonian", "Permian"], ["Juan_Sebasti%C3%A1n_Elcano", "Earth", "Ice_age", "Permian"], ["Juan_Sebasti%C3%A1n_Elcano", "Earth", "Mammal", "Permian"], ["Juan_Sebasti%C3%A1n_Elcano", "Earth", "Plant", "Permian"], ["Juan_Sebasti%C3%A1n_Elcano", "Indian_Ocean", "Turtle", "Permian"]]

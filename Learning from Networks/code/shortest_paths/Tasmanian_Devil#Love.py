@@ -1,0 +1,1 @@
+[["Tasmanian_Devil", "Animal", "Human", "Love"], ["Tasmanian_Devil", "Mammal", "Human", "Love"], ["Tasmanian_Devil", "Scientific_classification", "Human", "Love"], ["Tasmanian_Devil", "Carnivore", "Vulture", "Love"], ["Tasmanian_Devil", "Scientific_classification", "Flower", "Love"]]

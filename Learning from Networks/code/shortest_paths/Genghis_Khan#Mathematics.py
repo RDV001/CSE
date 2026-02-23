@@ -1,0 +1,1 @@
+[["Genghis_Khan", "China", "Mathematics"], ["Genghis_Khan", "Iran", "Mathematics"], ["Genghis_Khan", "Iraq", "Mathematics"], ["Genghis_Khan", "Islam", "Mathematics"]]

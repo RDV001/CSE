@@ -1,0 +1,1 @@
+[["Tamil_language", "Sri_Lanka", "Rupee", "The_Legend_of_Zelda_series"]]

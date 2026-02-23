@@ -1,0 +1,1 @@
+[["Nepal", "Cattle", "Poland"], ["Nepal", "European_Union", "Poland"], ["Nepal", "Germany", "Poland"], ["Nepal", "List_of_countries_by_system_of_government", "Poland"], ["Nepal", "United_Nations", "Poland"], ["Nepal", "United_States", "Poland"]]

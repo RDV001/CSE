@@ -1,0 +1,1 @@
+[["Bamako", "Germany", "Prime_Minister_of_the_United_Kingdom", "Order_of_the_Thistle"]]

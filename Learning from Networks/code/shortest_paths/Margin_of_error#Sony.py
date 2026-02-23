@@ -1,0 +1,1 @@
+[["Margin_of_error", "Mass_media", "Compact_Disc", "Sony"], ["Margin_of_error", "Mass_media", "DVD", "Sony"], ["Margin_of_error", "Mass_media", "IPod", "Sony"], ["Margin_of_error", "Mass_media", "Radio", "Sony"], ["Margin_of_error", "Mass_media", "Video", "Sony"]]

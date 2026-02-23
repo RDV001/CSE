@@ -1,0 +1,1 @@
+[["Stuttgart", "Budapest", "Israel"], ["Stuttgart", "Cairo", "Israel"], ["Stuttgart", "Frankfurt", "Israel"], ["Stuttgart", "Germany", "Israel"], ["Stuttgart", "List_of_countries", "Israel"], ["Stuttgart", "Munich", "Israel"], ["Stuttgart", "Napoleon_I_of_France", "Israel"], ["Stuttgart", "World_War_II", "Israel"]]

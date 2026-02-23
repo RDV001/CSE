@@ -1,0 +1,1 @@
+[["Oenothera", "Chile", "Volcano", "Magma"], ["Oenothera", "Europe", "Geology", "Magma"], ["Oenothera", "Sand", "Geology", "Magma"], ["Oenothera", "Soil", "Geology", "Magma"], ["Oenothera", "Ice_age", "Plate_tectonics", "Magma"], ["Oenothera", "North_America", "Plate_tectonics", "Magma"], ["Oenothera", "Sand", "Feldspar", "Magma"], ["Oenothera", "Sand", "Glass", "Magma"]]

@@ -1,0 +1,1 @@
+[["Space_Invaders", "Extraterrestrial_life", "Earth", "Acid_rain"], ["Space_Invaders", "United_States", "Coal", "Acid_rain"], ["Space_Invaders", "United_States", "Volcano", "Acid_rain"]]

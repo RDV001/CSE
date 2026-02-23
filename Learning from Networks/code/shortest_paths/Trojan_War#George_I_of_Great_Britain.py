@@ -1,0 +1,1 @@
+[["Trojan_War", "Berlin", "Frederick_II_of_Prussia", "George_I_of_Great_Britain"]]

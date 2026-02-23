@@ -1,0 +1,1 @@
+[["Ronald_Reagan", "Europe", "Napoleon_I_of_France"], ["Ronald_Reagan", "John_Adams", "Napoleon_I_of_France"], ["Ronald_Reagan", "Moscow", "Napoleon_I_of_France"], ["Ronald_Reagan", "Poland", "Napoleon_I_of_France"]]

@@ -1,0 +1,1 @@
+[["Oppression", "Psychology", "Philosophy", "Confucius"], ["Oppression", "Sociology", "Philosophy", "Confucius"]]

@@ -1,0 +1,1 @@
+[["Richard_Nixon", "Bangladesh", "Tropical_cyclone"], ["Richard_Nixon", "Washington%2C_D.C.", "Tropical_cyclone"]]

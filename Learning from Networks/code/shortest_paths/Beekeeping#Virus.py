@@ -1,0 +1,1 @@
+[["Beekeeping", "Agriculture", "Botany", "Virus"], ["Beekeeping", "Agriculture", "Ethanol", "Virus"], ["Beekeeping", "Almond", "Ethanol", "Virus"], ["Beekeeping", "Agriculture", "Food", "Virus"], ["Beekeeping", "Almond", "Cancer", "Virus"], ["Beekeeping", "Bee", "Protein", "Virus"], ["Beekeeping", "Honey", "Bacteria", "Virus"]]

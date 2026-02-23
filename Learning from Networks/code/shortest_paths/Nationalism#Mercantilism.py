@@ -1,0 +1,1 @@
+[["Nationalism", "Capitalism", "Mercantilism"], ["Nationalism", "Ethnic_group", "Mercantilism"], ["Nationalism", "Liberalism", "Mercantilism"]]

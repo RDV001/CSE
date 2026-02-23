@@ -1,0 +1,1 @@
+[["Double-decker_bus", "London", "Terrorism", "Pan_Am_Flight_103"], ["Double-decker_bus", "Singapore", "Terrorism", "Pan_Am_Flight_103"], ["Double-decker_bus", "United_States", "Terrorism", "Pan_Am_Flight_103"], ["Double-decker_bus", "United_Kingdom", "Tony_Blair", "Pan_Am_Flight_103"]]

@@ -1,0 +1,1 @@
+[["Atlantic_slave_trade", "Mining", "Uranium"]]

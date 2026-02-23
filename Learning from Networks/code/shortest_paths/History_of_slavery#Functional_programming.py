@@ -1,0 +1,1 @@
+[["History_of_slavery", "Hungary", "Programming_language", "Functional_programming"], ["History_of_slavery", "Islam", "Algorithm", "Functional_programming"]]

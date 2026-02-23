@@ -1,0 +1,1 @@
+[["Political_economy", "Ecology", "Geography"], ["Political_economy", "Law", "Geography"]]

@@ -1,0 +1,1 @@
+[["Tropical_Storm_Lee_%282005%29", "Tropical_cyclone", "Spanish_language"]]

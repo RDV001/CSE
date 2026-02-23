@@ -1,0 +1,1 @@
+[["Suleiman_the_Magnificent", "Philosophy", "Friedrich_Nietzsche"]]

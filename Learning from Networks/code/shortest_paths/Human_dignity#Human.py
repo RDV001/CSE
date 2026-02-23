@@ -1,0 +1,1 @@
+[["Human_dignity", "Immanuel_Kant", "Human"]]

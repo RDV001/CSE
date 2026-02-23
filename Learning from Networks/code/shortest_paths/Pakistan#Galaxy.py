@@ -1,0 +1,1 @@
+[["Pakistan", "Age_of_Enlightenment", "Gottfried_Leibniz", "Galaxy"], ["Pakistan", "Age_of_Enlightenment", "Physics", "Galaxy"], ["Pakistan", "George_W._Bush", "Creationism", "Galaxy"], ["Pakistan", "Iran", "Astronomy", "Galaxy"], ["Pakistan", "Islam", "Astronomy", "Galaxy"], ["Pakistan", "Iran", "Nature", "Galaxy"], ["Pakistan", "United_Kingdom", "Gravitation", "Galaxy"]]

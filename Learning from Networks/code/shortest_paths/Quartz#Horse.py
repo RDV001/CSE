@@ -1,0 +1,1 @@
+[["Quartz", "Earth", "Extinction", "Horse"], ["Quartz", "Earth", "Mammal", "Horse"], ["Quartz", "Mineral", "Great_Salt_Lake", "Horse"], ["Quartz", "Mining", "Agriculture", "Horse"], ["Quartz", "Silver", "Chocolate", "Horse"]]

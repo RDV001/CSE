@@ -1,0 +1,1 @@
+[["Common_Cuckoo", "Animal", "Carbon_dioxide", "Central_processing_unit"], ["Common_Cuckoo", "Asia", "Computer", "Central_processing_unit"]]

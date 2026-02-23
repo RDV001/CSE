@@ -1,0 +1,1 @@
+[["Colombo", "Cricket", "Australia", "Adelaide"], ["Colombo", "Tamil_language", "Australia", "Adelaide"], ["Colombo", "Cricket", "Bodyline", "Adelaide"], ["Colombo", "Cricket", "Melbourne", "Adelaide"], ["Colombo", "United_Kingdom", "The_Beatles", "Adelaide"], ["Colombo", "United_Kingdom", "Tony_Blair", "Adelaide"]]

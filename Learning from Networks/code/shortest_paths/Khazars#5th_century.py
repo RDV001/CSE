@@ -1,0 +1,1 @@
+[["Khazars", "7th_century", "5th_century"], ["Khazars", "8th_century", "5th_century"], ["Khazars", "9th_century", "5th_century"], ["Khazars", "Christianity", "5th_century"], ["Khazars", "Iran", "5th_century"], ["Khazars", "Viking", "5th_century"]]

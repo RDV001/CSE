@@ -1,0 +1,1 @@
+[["Global_warming", "Climate_change", "Weather"], ["Global_warming", "Effects_of_global_warming", "Weather"], ["Global_warming", "Ocean", "Weather"], ["Global_warming", "Tropical_cyclone", "Weather"]]

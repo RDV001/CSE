@@ -1,0 +1,1 @@
+[["Optical_telescope", "Binoculars", "United_Kingdom", "Pound_sterling"]]

@@ -1,0 +1,1 @@
+[["Iran", "Bah%C3%A1%27%C3%AD_Faith", "Jesus"], ["Iran", "China", "Jesus"], ["Iran", "Christianity", "Jesus"], ["Iran", "Jimmy_Carter", "Jesus"], ["Iran", "Jordan", "Jesus"], ["Iran", "Judaism", "Jesus"], ["Iran", "Qur%27an", "Jesus"], ["Iran", "Venezuela", "Jesus"], ["Iran", "Zoroaster", "Jesus"]]

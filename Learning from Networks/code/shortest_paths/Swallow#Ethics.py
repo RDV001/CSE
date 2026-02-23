@@ -1,0 +1,1 @@
+[["Swallow", "Animal", "Aristotle", "Ethics"], ["Swallow", "Scientific_classification", "Aristotle", "Ethics"], ["Swallow", "Animal", "Human", "Ethics"], ["Swallow", "Bird", "Human", "Ethics"], ["Swallow", "Scientific_classification", "Human", "Ethics"], ["Swallow", "Bird", "Extinction", "Ethics"]]

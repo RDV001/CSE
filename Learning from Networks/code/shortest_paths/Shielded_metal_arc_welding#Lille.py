@@ -1,0 +1,1 @@
+[["Shielded_metal_arc_welding", "Carbon_dioxide", "Flanders", "Lille"], ["Shielded_metal_arc_welding", "Humphry_Davy", "France", "Lille"], ["Shielded_metal_arc_welding", "Japan", "Telecommunication", "Lille"]]

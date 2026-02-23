@@ -1,0 +1,1 @@
+[["Amsterdam", "Jew", "Jerusalem", "Natalie_Portman"], ["Amsterdam", "World_War_I", "Jerusalem", "Natalie_Portman"]]

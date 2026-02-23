@@ -1,0 +1,1 @@
+[["Faroe_Islands", "Petroleum", "Sulfur", "Hydrology"], ["Faroe_Islands", "Roman_Catholic_Church", "Meteorology", "Hydrology"], ["Faroe_Islands", "Wind", "Geography", "Hydrology"]]

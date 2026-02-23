@@ -1,0 +1,1 @@
+[["Globalization", "Canadian_Senate", "Palace_of_Westminster"], ["Globalization", "United_Kingdom", "Palace_of_Westminster"]]

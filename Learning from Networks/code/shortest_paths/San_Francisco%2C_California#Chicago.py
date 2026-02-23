@@ -1,0 +1,1 @@
+[["San_Francisco%2C_California", "Amtrak", "Chicago"], ["San_Francisco%2C_California", "First_Transcontinental_Railroad", "Chicago"], ["San_Francisco%2C_California", "Global_city", "Chicago"], ["San_Francisco%2C_California", "San_Jose%2C_California", "Chicago"], ["San_Francisco%2C_California", "U.S._state", "Chicago"], ["San_Francisco%2C_California", "United_States", "Chicago"]]

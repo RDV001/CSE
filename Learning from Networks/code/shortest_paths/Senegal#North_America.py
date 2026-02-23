@@ -1,0 +1,1 @@
+[["Senegal", "Europe", "North_America"], ["Senegal", "France", "North_America"], ["Senegal", "French_language", "North_America"], ["Senegal", "Lebanon", "North_America"]]

@@ -1,0 +1,1 @@
+[["Refrigerator_car", "Milk", "Milky_Way"]]

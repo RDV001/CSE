@@ -1,0 +1,1 @@
+[["Western_Roman_Empire", "Milan", "Basketball", "Harlem_Globetrotters"], ["Western_Roman_Empire", "Rome", "Basketball", "Harlem_Globetrotters"], ["Western_Roman_Empire", "Pope", "Pope_John_Paul_II", "Harlem_Globetrotters"], ["Western_Roman_Empire", "Roman_Catholic_Church", "Pope_John_Paul_II", "Harlem_Globetrotters"]]

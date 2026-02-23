@@ -1,0 +1,1 @@
+[["Giant_Panda", "United_States", "American_Revolutionary_War"], ["Giant_Panda", "United_States_dollar", "American_Revolutionary_War"]]

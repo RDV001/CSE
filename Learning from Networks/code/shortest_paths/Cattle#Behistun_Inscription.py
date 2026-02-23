@@ -1,0 +1,1 @@
+[["Cattle", "Europe", "Armenia", "Behistun_Inscription"], ["Cattle", "Iran", "Armenia", "Behistun_Inscription"], ["Cattle", "Iran", "Cyrus_the_Great", "Behistun_Inscription"], ["Cattle", "Iran", "Iranian_peoples", "Behistun_Inscription"]]

@@ -1,0 +1,1 @@
+[["Thermodynamic_temperature", "Earth", "Pacific_Ocean", "Tijuana"], ["Thermodynamic_temperature", "United_States", "Pacific_Ocean", "Tijuana"], ["Thermodynamic_temperature", "Sun", "Mexico", "Tijuana"], ["Thermodynamic_temperature", "United_States", "Mexico", "Tijuana"], ["Thermodynamic_temperature", "United_States", "Abraham_Lincoln", "Tijuana"]]

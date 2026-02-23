@@ -1,0 +1,1 @@
+[["Charles_V%2C_Holy_Roman_Emperor", "Habsburg_Spain", "Colombia", "Mormon"], ["Charles_V%2C_Holy_Roman_Emperor", "Spanish_language", "Colombia", "Mormon"], ["Charles_V%2C_Holy_Roman_Emperor", "Spanish_language", "Latin_America", "Mormon"]]

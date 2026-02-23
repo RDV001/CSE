@@ -1,0 +1,1 @@
+[["Space_Shuttle_program", "Star_Trek", "Human_rights", "Henry_David_Thoreau"], ["Space_Shuttle_program", "United_States", "Poetry_of_the_United_States", "Henry_David_Thoreau"], ["Space_Shuttle_program", "United_States", "Thomas_Jefferson", "Henry_David_Thoreau"]]

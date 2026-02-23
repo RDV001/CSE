@@ -1,0 +1,1 @@
+[["Red_dwarf", "Earth", "Europe", "Bucharest"], ["Red_dwarf", "Helium", "World_War_I", "Bucharest"], ["Red_dwarf", "Helium", "World_War_II", "Bucharest"]]

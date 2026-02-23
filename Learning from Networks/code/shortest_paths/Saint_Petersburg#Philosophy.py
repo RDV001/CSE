@@ -1,0 +1,1 @@
+[["Saint_Petersburg", "Antwerp", "Philosophy"], ["Saint_Petersburg", "Iran", "Philosophy"], ["Saint_Petersburg", "Leonhard_Euler", "Philosophy"], ["Saint_Petersburg", "Vladimir_Lenin", "Philosophy"]]

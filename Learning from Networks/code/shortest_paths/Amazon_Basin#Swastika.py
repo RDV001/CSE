@@ -1,0 +1,1 @@
+[["Amazon_Basin", "20th_century", "Nazism", "Swastika"], ["Amazon_Basin", "City", "Indus_Valley_Civilization", "Swastika"], ["Amazon_Basin", "South_America", "Hinduism", "Swastika"]]

@@ -1,0 +1,1 @@
+[["Ozone_depletion", "Earth%27s_atmosphere", "Evolution", "James_D._Watson"], ["Ozone_depletion", "Oxygen", "DNA", "James_D._Watson"], ["Ozone_depletion", "Ultraviolet", "DNA", "James_D._Watson"], ["Ozone_depletion", "Ultraviolet", "Genetics", "James_D._Watson"]]

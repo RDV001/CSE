@@ -1,0 +1,1 @@
+[["Gull", "England", "Islam", "Algorithm"], ["Gull", "Norway", "Islam", "Algorithm"], ["Gull", "United_States", "Islam", "Algorithm"]]

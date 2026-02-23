@@ -1,0 +1,1 @@
+[["Athanasius_Kircher", "China", "Buddhism"], ["Athanasius_Kircher", "Confucius", "Buddhism"], ["Athanasius_Kircher", "France", "Buddhism"], ["Athanasius_Kircher", "Human", "Buddhism"], ["Athanasius_Kircher", "Jorge_Luis_Borges", "Buddhism"], ["Athanasius_Kircher", "Philosophy", "Buddhism"]]

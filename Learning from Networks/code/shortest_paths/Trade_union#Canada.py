@@ -1,0 +1,1 @@
+[["Trade_union", "Corporation", "Canada"], ["Trade_union", "Employment", "Canada"], ["Trade_union", "Germany", "Canada"], ["Trade_union", "Margaret_Thatcher", "Canada"]]

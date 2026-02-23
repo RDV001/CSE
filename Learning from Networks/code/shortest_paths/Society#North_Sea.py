@@ -1,0 +1,1 @@
+[["Society", "France", "North_Sea"], ["Society", "United_Kingdom", "North_Sea"]]

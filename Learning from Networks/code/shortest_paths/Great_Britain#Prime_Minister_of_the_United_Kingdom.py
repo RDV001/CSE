@@ -1,0 +1,1 @@
+[["Great_Britain", "Isles_of_Scilly", "Prime_Minister_of_the_United_Kingdom"], ["Great_Britain", "Northern_Ireland", "Prime_Minister_of_the_United_Kingdom"], ["Great_Britain", "Scotland", "Prime_Minister_of_the_United_Kingdom"], ["Great_Britain", "United_Kingdom", "Prime_Minister_of_the_United_Kingdom"], ["Great_Britain", "Wales", "Prime_Minister_of_the_United_Kingdom"]]

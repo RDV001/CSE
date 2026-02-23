@@ -1,0 +1,1 @@
+[["Wayne_Rooney", "Florida", "Glacier", "Snowball_Earth"], ["Wayne_Rooney", "United_Kingdom", "Earth", "Snowball_Earth"]]

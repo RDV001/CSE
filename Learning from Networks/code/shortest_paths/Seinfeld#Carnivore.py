@@ -1,0 +1,1 @@
+[["Seinfeld", "New_York_City", "Europe", "Carnivore"], ["Seinfeld", "Superman", "Europe", "Carnivore"], ["Seinfeld", "United_States", "Europe", "Carnivore"], ["Seinfeld", "Superman", "Human", "Carnivore"]]

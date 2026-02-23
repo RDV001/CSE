@@ -1,0 +1,1 @@
+[["Zionism", "19th_century", "Jane_Austen", "Keira_Knightley"], ["Zionism", "George_Eliot", "Jane_Austen", "Keira_Knightley"], ["Zionism", "United_Kingdom", "Jane_Austen", "Keira_Knightley"], ["Zionism", "Jerusalem", "Natalie_Portman", "Keira_Knightley"]]

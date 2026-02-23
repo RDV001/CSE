@@ -1,0 +1,1 @@
+[["Great_Lakes_Storm_of_1913", "Autumn", "Latin", "The_Cat_in_the_Hat"], ["Great_Lakes_Storm_of_1913", "Canada", "Latin", "The_Cat_in_the_Hat"], ["Great_Lakes_Storm_of_1913", "Chicago", "Latin", "The_Cat_in_the_Hat"], ["Great_Lakes_Storm_of_1913", "Meteorology", "Latin", "The_Cat_in_the_Hat"], ["Great_Lakes_Storm_of_1913", "United_States", "Latin", "The_Cat_in_the_Hat"]]

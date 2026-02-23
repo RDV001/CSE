@@ -1,0 +1,1 @@
+[["Paul_C%C3%A9zanne", "19th_century", "Greek_War_of_Independence", "Minoan_civilization"], ["Paul_C%C3%A9zanne", "Cubism", "Painting", "Minoan_civilization"], ["Paul_C%C3%A9zanne", "Marseille", "Olive_oil", "Minoan_civilization"]]

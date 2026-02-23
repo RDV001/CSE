@@ -1,0 +1,1 @@
+[["Latvia", "Asia", "Computer", "C%2B%2B"], ["Latvia", "United_Kingdom", "Computer", "C%2B%2B"], ["Latvia", "Hungary", "Programming_language", "C%2B%2B"]]

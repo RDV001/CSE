@@ -1,0 +1,1 @@
+[["T-34", "Angola", "Latin", "Split_infinitive"], ["T-34", "Croatia", "Latin", "Split_infinitive"], ["T-34", "Egypt", "Latin", "Split_infinitive"], ["T-34", "Germany", "Latin", "Split_infinitive"], ["T-34", "Hungary", "Latin", "Split_infinitive"], ["T-34", "Romania", "Latin", "Split_infinitive"]]

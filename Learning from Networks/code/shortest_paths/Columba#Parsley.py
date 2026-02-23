@@ -1,0 +1,1 @@
+[["Columba", "Christianity", "Judaism", "Olive_oil", "Parsley"], ["Columba", "Ireland", "Judaism", "Olive_oil", "Parsley"], ["Columba", "Dove", "Fruit", "Olive_oil", "Parsley"]]

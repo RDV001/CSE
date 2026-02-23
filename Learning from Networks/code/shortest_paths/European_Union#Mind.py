@@ -1,0 +1,1 @@
+[["European_Union", "Buddhism", "Mind"], ["European_Union", "Hinduism", "Mind"], ["European_Union", "Peace", "Mind"]]

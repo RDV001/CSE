@@ -1,0 +1,1 @@
+[["Irish_poetry", "English_language", "United_Kingdom", "Michael_Faraday"], ["Irish_poetry", "Northern_Ireland", "United_Kingdom", "Michael_Faraday"], ["Irish_poetry", "T._S._Eliot", "United_Kingdom", "Michael_Faraday"], ["Irish_poetry", "Martin_Luther", "19th_century", "Michael_Faraday"]]

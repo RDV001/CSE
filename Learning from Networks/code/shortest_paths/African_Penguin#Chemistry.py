@@ -1,0 +1,1 @@
+[["African_Penguin", "Africa", "Gold", "Chemistry"], ["African_Penguin", "Cape_Town", "Gold", "Chemistry"], ["African_Penguin", "South_Africa", "Gold", "Chemistry"], ["African_Penguin", "Animal", "Energy", "Chemistry"], ["African_Penguin", "Carolus_Linnaeus", "Ecology", "Chemistry"], ["African_Penguin", "South_Africa", "Food", "Chemistry"]]

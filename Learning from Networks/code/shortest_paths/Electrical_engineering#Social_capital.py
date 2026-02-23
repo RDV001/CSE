@@ -1,0 +1,1 @@
+[["Electrical_engineering", "Manufacturing", "Guild", "Social_capital"]]

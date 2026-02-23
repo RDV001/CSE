@@ -1,0 +1,1 @@
+[["Mongoose", "United_States", "California", "Minimum_wage"], ["Mongoose", "United_States", "Florida", "Minimum_wage"]]

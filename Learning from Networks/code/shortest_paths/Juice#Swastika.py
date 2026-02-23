@@ -1,0 +1,1 @@
+[["Juice", "Bulgaria", "Nazism", "Swastika"], ["Juice", "Europe", "Hinduism", "Swastika"], ["Juice", "New_Zealand", "Hinduism", "Swastika"], ["Juice", "Water", "Hinduism", "Swastika"], ["Juice", "Spain", "Adolf_Hitler", "Swastika"]]

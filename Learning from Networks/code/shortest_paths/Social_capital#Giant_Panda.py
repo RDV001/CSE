@@ -1,0 +1,1 @@
+[["Social_capital", "Scouting", "Swastika", "Giant_Panda"]]

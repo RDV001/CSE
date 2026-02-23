@@ -1,0 +1,1 @@
+[["Allegory_in_the_Middle_Ages", "Middle_Ages", "Gunpowder", "Potassium_nitrate"]]

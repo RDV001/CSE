@@ -1,0 +1,1 @@
+[["Global_warming", "Mass_media", "Politics", "Anarcho-capitalism"]]

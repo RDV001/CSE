@@ -1,0 +1,1 @@
+[["Ammosaurus", "Earth", "Glacier", "Retreat_of_glaciers_since_1850", "Shoshone_National_Forest"], ["Ammosaurus", "Earth", "Global_warming", "Retreat_of_glaciers_since_1850", "Shoshone_National_Forest"]]

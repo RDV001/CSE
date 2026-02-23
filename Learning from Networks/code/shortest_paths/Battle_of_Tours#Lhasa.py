@@ -1,0 +1,1 @@
+[["Battle_of_Tours", "19th_century", "Tibet", "Lhasa"], ["Battle_of_Tours", "Pakistan", "Himalayas", "Lhasa"]]

@@ -1,0 +1,1 @@
+[["Crimean_Karaites", "Europe", "Africa", "Maseru"], ["Crimean_Karaites", "Israel", "Africa", "Maseru"], ["Crimean_Karaites", "Middle_East", "Africa", "Maseru"]]

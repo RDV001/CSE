@@ -1,0 +1,1 @@
+[["Tokelau", "New_Zealand", "Volcano", "Mount_Vesuvius"], ["Tokelau", "Pacific_Ocean", "Volcano", "Mount_Vesuvius"], ["Tokelau", "United_States", "Volcano", "Mount_Vesuvius"]]

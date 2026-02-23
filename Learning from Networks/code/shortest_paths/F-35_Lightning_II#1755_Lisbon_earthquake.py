@@ -1,0 +1,1 @@
+[["F-35_Lightning_II", "Afghanistan", "18th_century", "1755_Lisbon_earthquake"], ["F-35_Lightning_II", "Royal_Air_Force", "2004_Indian_Ocean_earthquake", "1755_Lisbon_earthquake"]]

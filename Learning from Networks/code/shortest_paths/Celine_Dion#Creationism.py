@@ -1,0 +1,1 @@
+[["Celine_Dion", "George_W._Bush", "Creationism"]]

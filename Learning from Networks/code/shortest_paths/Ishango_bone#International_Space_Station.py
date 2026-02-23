@@ -1,0 +1,1 @@
+[["Ishango_bone", "Africa", "Earth", "International_Space_Station"], ["Ishango_bone", "Africa", "Human", "International_Space_Station"], ["Ishango_bone", "Democratic_Republic_of_the_Congo", "Human", "International_Space_Station"], ["Ishango_bone", "Africa", "Soviet_Union", "International_Space_Station"]]

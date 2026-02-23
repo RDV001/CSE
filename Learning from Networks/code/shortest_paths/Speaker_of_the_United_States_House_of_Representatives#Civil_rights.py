@@ -1,0 +1,1 @@
+[["Speaker_of_the_United_States_House_of_Representatives", "Ronald_Reagan", "Civil_rights"]]

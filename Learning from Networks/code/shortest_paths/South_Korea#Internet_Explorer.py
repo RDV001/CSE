@@ -1,0 +1,1 @@
+[["South_Korea", "English_language", "HTTP_cookie", "Internet_Explorer"], ["South_Korea", "Internet", "World_Wide_Web", "Internet_Explorer"]]

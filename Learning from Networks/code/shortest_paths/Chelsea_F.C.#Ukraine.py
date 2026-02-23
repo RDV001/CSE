@@ -1,0 +1,1 @@
+[["Chelsea_F.C.", "Athens", "Ukraine"], ["Chelsea_F.C.", "Europe", "Ukraine"], ["Chelsea_F.C.", "Italy", "Ukraine"], ["Chelsea_F.C.", "Portugal", "Ukraine"], ["Chelsea_F.C.", "Russia", "Ukraine"], ["Chelsea_F.C.", "Soviet_Union", "Ukraine"]]

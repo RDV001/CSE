@@ -1,0 +1,1 @@
+[["Arsenal_F.C.", "Manchester_United_F.C."]]

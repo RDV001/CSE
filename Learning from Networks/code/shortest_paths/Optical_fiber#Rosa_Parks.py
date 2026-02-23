@@ -1,0 +1,1 @@
+[["Optical_fiber", "Art", "21st_century", "Condoleezza_Rice", "Rosa_Parks"]]

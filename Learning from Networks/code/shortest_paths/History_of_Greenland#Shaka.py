@@ -1,0 +1,1 @@
+[["History_of_Greenland", "Black_Death", "19th_century", "Shaka"], ["History_of_Greenland", "Norse_mythology", "19th_century", "Shaka"], ["History_of_Greenland", "Norway", "19th_century", "Shaka"], ["History_of_Greenland", "Viking", "19th_century", "Shaka"]]

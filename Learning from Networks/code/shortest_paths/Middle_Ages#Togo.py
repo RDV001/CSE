@@ -1,0 +1,1 @@
+[["Middle_Ages", "Africa", "Togo"], ["Middle_Ages", "French_language", "Togo"], ["Middle_Ages", "German_language", "Togo"], ["Middle_Ages", "Sub-Saharan_Africa", "Togo"], ["Middle_Ages", "Turkey", "Togo"]]

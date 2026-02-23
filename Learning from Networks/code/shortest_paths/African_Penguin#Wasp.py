@@ -1,0 +1,1 @@
+[["African_Penguin", "Animal", "Insect", "Wasp"], ["African_Penguin", "Scientific_classification", "Insect", "Wasp"], ["African_Penguin", "Animal", "Spider", "Wasp"]]

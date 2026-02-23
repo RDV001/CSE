@@ -1,0 +1,1 @@
+[["National_Gallery%2C_London", "Victoria_of_the_United_Kingdom", "Mark_Twain", "Henry_H._Rogers"], ["National_Gallery%2C_London", "Winston_Churchill", "Mark_Twain", "Henry_H._Rogers"]]

@@ -1,0 +1,1 @@
+[["Milgram_experiment", "The_Holocaust", "Adolf_Hitler", "Pablo_Picasso"], ["Milgram_experiment", "The_Holocaust", "Luftwaffe", "Pablo_Picasso"], ["Milgram_experiment", "The_Holocaust", "Paris", "Pablo_Picasso"]]

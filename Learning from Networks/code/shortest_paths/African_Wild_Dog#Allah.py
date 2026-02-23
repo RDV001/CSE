@@ -1,0 +1,1 @@
+[["African_Wild_Dog", "Africa", "Arabic_language", "Allah"], ["African_Wild_Dog", "Africa", "Deity", "Allah"], ["African_Wild_Dog", "Africa", "Islam", "Allah"]]

@@ -1,0 +1,1 @@
+[["AIDS", "20th_century", "Paris"], ["AIDS", "Europe", "Paris"], ["AIDS", "France", "Paris"], ["AIDS", "Germany", "Paris"], ["AIDS", "Switzerland", "Paris"]]

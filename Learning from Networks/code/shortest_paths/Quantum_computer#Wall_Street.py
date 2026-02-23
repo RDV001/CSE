@@ -1,0 +1,1 @@
+[["Quantum_computer", "Cryptography", "United_States", "Wall_Street"], ["Quantum_computer", "Measurement", "United_States", "Wall_Street"], ["Quantum_computer", "Medicine", "United_States", "Wall_Street"], ["Quantum_computer", "Richard_Feynman", "United_States", "Wall_Street"]]

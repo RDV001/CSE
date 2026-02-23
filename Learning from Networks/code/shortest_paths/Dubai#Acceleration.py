@@ -1,0 +1,1 @@
+[["Dubai", "Japan", "Tsunami", "Acceleration"], ["Dubai", "Roman_Catholic_Church", "Galileo_Galilei", "Acceleration"]]

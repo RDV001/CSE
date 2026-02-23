@@ -1,0 +1,1 @@
+[["Linguistics", "Medicine", "United_Kingdom", "Edinburgh"], ["Linguistics", "Middle_East", "United_Kingdom", "Edinburgh"], ["Linguistics", "Philosophy", "David_Hume", "Edinburgh"]]

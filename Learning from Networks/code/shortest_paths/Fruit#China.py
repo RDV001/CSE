@@ -1,0 +1,1 @@
+[["Fruit", "Apple", "China"], ["Fruit", "Banana", "China"], ["Fruit", "Barcelona", "China"], ["Fruit", "Black_pepper", "China"], ["Fruit", "Citrus", "China"], ["Fruit", "Maize", "China"], ["Fruit", "Mango", "China"], ["Fruit", "Peanut", "China"], ["Fruit", "Plum", "China"], ["Fruit", "Rice", "China"], ["Fruit", "Wheat", "China"]]

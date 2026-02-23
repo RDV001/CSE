@@ -1,0 +1,1 @@
+[["Golden_Eagle", "Asia", "Mathematics", "Euclid"], ["Golden_Eagle", "China", "Mathematics", "Euclid"], ["Golden_Eagle", "Iran", "Mathematics", "Euclid"], ["Golden_Eagle", "China", "Blaise_Pascal", "Euclid"], ["Golden_Eagle", "Iran", "Algebra", "Euclid"], ["Golden_Eagle", "Iran", "Philosophy", "Euclid"]]

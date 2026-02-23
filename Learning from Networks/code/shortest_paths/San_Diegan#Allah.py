@@ -1,0 +1,1 @@
+[["San_Diegan", "Los_Angeles%2C_California", "Islam", "Allah"], ["San_Diegan", "United_States", "Islam", "Allah"], ["San_Diegan", "Pennsylvania_Railroad", "Gold_standard", "Allah"]]

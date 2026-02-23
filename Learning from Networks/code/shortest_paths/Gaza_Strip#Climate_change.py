@@ -1,0 +1,1 @@
+[["Gaza_Strip", "Drought", "Climate_change"]]

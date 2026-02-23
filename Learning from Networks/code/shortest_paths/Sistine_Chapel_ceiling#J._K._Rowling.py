@@ -1,0 +1,1 @@
+[["Sistine_Chapel_ceiling", "Africa", "United_Kingdom", "J._K._Rowling"], ["Sistine_Chapel_ceiling", "Bologna", "United_Kingdom", "J._K._Rowling"], ["Sistine_Chapel_ceiling", "Greece", "United_Kingdom", "J._K._Rowling"], ["Sistine_Chapel_ceiling", "Jew", "United_Kingdom", "J._K._Rowling"], ["Sistine_Chapel_ceiling", "Pope_John_Paul_II", "United_Kingdom", "J._K._Rowling"]]

@@ -1,0 +1,1 @@
+[["Hey_Jude", "Canada", "Vancouver", "Smog"], ["Hey_Jude", "London", "Beijing", "Smog"], ["Hey_Jude", "United_States", "Los_Angeles%2C_California", "Smog"]]

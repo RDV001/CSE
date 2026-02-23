@@ -1,0 +1,1 @@
+[["Gaza_Strip", "Arable_land", "England", "Stephen_Hawking"], ["Gaza_Strip", "Dune", "England", "Stephen_Hawking"], ["Gaza_Strip", "List_of_countries_by_system_of_government", "England", "Stephen_Hawking"]]

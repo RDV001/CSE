@@ -1,0 +1,1 @@
+[["X_Window_System", "Internet", "Advertising", "Broadcasting"], ["X_Window_System", "Internet", "United_States", "Broadcasting"], ["X_Window_System", "Latin_alphabet", "Telecommunication", "Broadcasting"]]

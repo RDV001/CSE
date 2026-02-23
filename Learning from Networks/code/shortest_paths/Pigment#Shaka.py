@@ -1,0 +1,1 @@
+[["Pigment", "Biology", "19th_century", "Shaka"], ["Pigment", "Cochineal", "19th_century", "Shaka"], ["Pigment", "Paul_C%C3%A9zanne", "19th_century", "Shaka"], ["Pigment", "Peru", "19th_century", "Shaka"], ["Pigment", "Zambia", "19th_century", "Shaka"]]

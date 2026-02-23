@@ -1,0 +1,1 @@
+[["Flute", "China", "Indus_Valley_Civilization", "Fertile_Crescent"], ["Flute", "Gold", "Currency", "Fertile_Crescent"], ["Flute", "Serbia", "Currency", "Fertile_Crescent"], ["Flute", "Slovenia", "Currency", "Fertile_Crescent"], ["Flute", "Nickel", "History_of_Earth", "Fertile_Crescent"], ["Flute", "Serbia", "Agriculture", "Fertile_Crescent"]]

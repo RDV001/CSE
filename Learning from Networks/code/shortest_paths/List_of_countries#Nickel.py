@@ -1,0 +1,1 @@
+[["List_of_countries", "New_Caledonia", "Nickel"], ["List_of_countries", "Solomon_Islands", "Nickel"]]

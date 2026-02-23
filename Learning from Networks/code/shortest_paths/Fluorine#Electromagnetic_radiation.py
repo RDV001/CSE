@@ -1,0 +1,1 @@
+[["Fluorine", "Color", "Electromagnetic_radiation"], ["Fluorine", "Eye", "Electromagnetic_radiation"], ["Fluorine", "Magnetism", "Electromagnetic_radiation"], ["Fluorine", "Ozone", "Electromagnetic_radiation"]]

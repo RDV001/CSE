@@ -1,0 +1,1 @@
+[["Microsoft_Windows", "Windows_2000", "North_America", "Continent"], ["Microsoft_Windows", "Windows_XP", "Asia", "Continent"], ["Microsoft_Windows", "Windows_XP", "South_America", "Continent"]]

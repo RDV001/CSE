@@ -1,0 +1,1 @@
+[["Amber", "Brighton", "London"], ["Amber", "Coal", "London"], ["Amber", "England", "London"], ["Amber", "Gold", "London"], ["Amber", "Great_Yarmouth", "London"], ["Amber", "New_Zealand", "London"], ["Amber", "Norfolk", "London"], ["Amber", "Spanish_language", "London"]]

@@ -1,0 +1,1 @@
+[["Optical_telescope", "Asteroid", "Mars", "Doom", "Batman"], ["Optical_telescope", "Asteroid", "Trojan_War", "Odysseus", "Batman"], ["Optical_telescope", "Binoculars", "United_Kingdom", "Buckingham_Palace", "Batman"], ["Optical_telescope", "Light", "California", "Ronald_Reagan", "Batman"], ["Optical_telescope", "Light", "Sound", "Bat", "Batman"]]

@@ -1,0 +1,1 @@
+[["Roman_Britain", "Cologne", "Berlin", "Tashkent"], ["Roman_Britain", "Germany", "Berlin", "Tashkent"], ["Roman_Britain", "London", "Berlin", "Tashkent"], ["Roman_Britain", "Germany", "Asia", "Tashkent"], ["Roman_Britain", "Southampton", "Asia", "Tashkent"], ["Roman_Britain", "Germany", "Kazakhstan", "Tashkent"]]

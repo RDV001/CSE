@@ -1,0 +1,1 @@
+[["Shackleton_%28crater%29", "Electricity", "Fossil_fuel"]]

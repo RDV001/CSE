@@ -1,0 +1,1 @@
+[["Lutetium", "Hafnium", "Boron"], ["Lutetium", "Lanthanum", "Boron"], ["Lutetium", "Lawrencium", "Boron"], ["Lutetium", "List_of_elements_by_name", "Boron"], ["Lutetium", "Metal", "Boron"], ["Lutetium", "Neutron", "Boron"]]

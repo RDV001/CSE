@@ -1,0 +1,1 @@
+[["Sumo", "Argentina", "Jackal", "Reptile"], ["Sumo", "Argentina", "Turtle", "Reptile"], ["Sumo", "Olympic_Games", "Puerto_Rico", "Reptile"], ["Sumo", "Osaka", "Aquarium", "Reptile"], ["Sumo", "Religion", "India", "Reptile"], ["Sumo", "Tokyo", "India", "Reptile"]]

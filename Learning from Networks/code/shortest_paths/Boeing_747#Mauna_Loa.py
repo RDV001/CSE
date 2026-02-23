@@ -1,0 +1,1 @@
+[["Boeing_747", "Germany", "Carbon_dioxide", "Mauna_Loa"], ["Boeing_747", "James_Bond", "Volcano", "Mauna_Loa"], ["Boeing_747", "Japan", "Volcano", "Mauna_Loa"], ["Boeing_747", "South_Korea", "Volcano", "Mauna_Loa"], ["Boeing_747", "United_States", "Volcano", "Mauna_Loa"], ["Boeing_747", "Japan", "Tsunami", "Mauna_Loa"]]

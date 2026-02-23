@@ -1,0 +1,1 @@
+[["Barcelona", "8th_century", "21st_century", "Stargate_SG-1"], ["Barcelona", "Boston%2C_Massachusetts", "Ice_hockey", "Stargate_SG-1"], ["Barcelona", "Cologne", "Ice_hockey", "Stargate_SG-1"], ["Barcelona", "South_Korea", "Ice_hockey", "Stargate_SG-1"], ["Barcelona", "Stockholm", "Ice_hockey", "Stargate_SG-1"], ["Barcelona", "United_States", "Ice_hockey", "Stargate_SG-1"]]

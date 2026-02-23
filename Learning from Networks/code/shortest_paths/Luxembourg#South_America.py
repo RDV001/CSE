@@ -1,0 +1,1 @@
+[["Luxembourg", "Agriculture", "South_America"], ["Luxembourg", "France", "South_America"], ["Luxembourg", "United_Nations", "South_America"]]

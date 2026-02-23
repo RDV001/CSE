@@ -1,0 +1,1 @@
+[["Soil_moisture", "Drought", "War", "First_Crusade"], ["Soil_moisture", "Rain", "Jerusalem", "First_Crusade"]]

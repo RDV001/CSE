@@ -1,0 +1,1 @@
+[["Eukaryote", "Animal", "Mammal", "Horse"], ["Eukaryote", "Scientific_classification", "Mammal", "Horse"], ["Eukaryote", "Bacteria", "Insulin", "Horse"], ["Eukaryote", "Organism", "Agriculture", "Horse"], ["Eukaryote", "Plant", "Agriculture", "Horse"], ["Eukaryote", "Plant", "Tobacco", "Horse"]]

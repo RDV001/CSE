@@ -1,0 +1,1 @@
+[["Fossil_fuel", "Carbon", "Australia", "Adelaide"], ["Fossil_fuel", "Coal", "Australia", "Adelaide"], ["Fossil_fuel", "Thorium", "Australia", "Adelaide"], ["Fossil_fuel", "Uranium", "Australia", "Adelaide"]]

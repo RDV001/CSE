@@ -1,0 +1,1 @@
+[["Kofi_Annan", "Arab-Israeli_conflict", "Yom_Kippur_War", "Battle_of_Badr"], ["Kofi_Annan", "Islam", "Muhammad", "Battle_of_Badr"]]

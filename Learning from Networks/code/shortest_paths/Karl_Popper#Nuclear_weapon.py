@@ -1,0 +1,1 @@
+[["Karl_Popper", "20th_century", "Nuclear_weapon"], ["Karl_Popper", "Albert_Einstein", "Nuclear_weapon"], ["Karl_Popper", "Ayaan_Hirsi_Ali", "Nuclear_weapon"], ["Karl_Popper", "New_Zealand", "Nuclear_weapon"]]

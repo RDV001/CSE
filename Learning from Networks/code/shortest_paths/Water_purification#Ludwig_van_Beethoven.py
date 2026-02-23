@@ -1,0 +1,1 @@
+[["Water_purification", "Biofuel", "Germany", "Ludwig_van_Beethoven"], ["Water_purification", "Potassium", "Germany", "Ludwig_van_Beethoven"], ["Water_purification", "Waste_management", "Germany", "Ludwig_van_Beethoven"], ["Water_purification", "Terrorism", "19th_century", "Ludwig_van_Beethoven"]]

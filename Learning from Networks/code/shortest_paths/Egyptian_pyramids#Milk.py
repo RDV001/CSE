@@ -1,0 +1,1 @@
+[["Egyptian_pyramids", "Ancient_Egypt", "Agriculture", "Milk"], ["Egyptian_pyramids", "Archaeology", "Agriculture", "Milk"], ["Egyptian_pyramids", "Ancient_Egypt", "East_Africa", "Milk"]]

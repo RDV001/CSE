@@ -1,0 +1,1 @@
+[["55_Cancri_e", "Day", "United_States"], ["55_Cancri_e", "Earth", "United_States"], ["55_Cancri_e", "Hubble_Space_Telescope", "United_States"], ["55_Cancri_e", "Sun", "United_States"]]

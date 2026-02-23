@@ -1,0 +1,1 @@
+[["Miami%2C_Florida", "Argentina", "Western_Sahara"], ["Miami%2C_Florida", "Israel", "Western_Sahara"], ["Miami%2C_Florida", "Morocco", "Western_Sahara"], ["Miami%2C_Florida", "Spain", "Western_Sahara"], ["Miami%2C_Florida", "Spanish_language", "Western_Sahara"], ["Miami%2C_Florida", "United_States", "Western_Sahara"]]

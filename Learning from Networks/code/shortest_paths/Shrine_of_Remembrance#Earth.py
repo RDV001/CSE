@@ -1,0 +1,1 @@
+[["Shrine_of_Remembrance", "Pyramid", "Earth"]]

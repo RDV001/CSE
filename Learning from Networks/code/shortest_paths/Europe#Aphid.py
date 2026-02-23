@@ -1,0 +1,1 @@
+[["Europe", "Carnivore", "Honey", "Aphid"], ["Europe", "Crustacean", "Cretaceous", "Aphid"], ["Europe", "Mammal", "Cretaceous", "Aphid"], ["Europe", "Owl", "Cretaceous", "Aphid"], ["Europe", "Islam", "Citrus", "Aphid"]]

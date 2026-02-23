@@ -1,0 +1,1 @@
+[["Google", "China", "Islam", "Algorithm", "Imperative_programming"], ["Google", "France", "Islam", "Algorithm", "Imperative_programming"], ["Google", "United_States", "Islam", "Algorithm", "Imperative_programming"], ["Google", "Linux", "C%2B%2B", "Algorithm", "Imperative_programming"], ["Google", "Linux", "Perl", "Functional_programming", "Imperative_programming"]]

@@ -1,0 +1,1 @@
+[["Dove", "Asia", "Greece", "Parthenon"], ["Dove", "Jew", "Greece", "Parthenon"], ["Dove", "United_States", "Greece", "Parthenon"], ["Dove", "Iran", "Architecture", "Parthenon"], ["Dove", "Jew", "Ancient_Greece", "Parthenon"]]

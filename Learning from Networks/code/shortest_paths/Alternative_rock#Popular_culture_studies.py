@@ -1,0 +1,1 @@
+[["Alternative_rock", "New_Zealand", "Bat", "Vampire", "Buffy_the_Vampire_Slayer", "Popular_culture_studies"], ["Alternative_rock", "United_States", "Baltimore%2C_Maryland", "The_X-Files", "Buffy_the_Vampire_Slayer", "Popular_culture_studies"]]

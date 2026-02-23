@@ -1,0 +1,1 @@
+[["Gunpowder", "China", "Beijing", "Smog"], ["Gunpowder", "Middle_East", "Tehran", "Smog"], ["Gunpowder", "Potassium_nitrate", "Nitrogen", "Smog"], ["Gunpowder", "Steel", "Nitrogen", "Smog"], ["Gunpowder", "Sulfur", "Nitrogen", "Smog"], ["Gunpowder", "Sulfur", "Acid_rain", "Smog"], ["Gunpowder", "Sulfur", "Vancouver", "Smog"]]

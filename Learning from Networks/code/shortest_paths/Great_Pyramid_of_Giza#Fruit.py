@@ -1,0 +1,1 @@
+[["Great_Pyramid_of_Giza", "Agriculture", "Fruit"]]

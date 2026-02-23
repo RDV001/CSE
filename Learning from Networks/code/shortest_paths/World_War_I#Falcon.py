@@ -1,0 +1,1 @@
+[["World_War_I", "Africa", "Carnivore", "Falcon"], ["World_War_I", "Europe", "Carnivore", "Falcon"], ["World_War_I", "Europe", "Hawk", "Falcon"], ["World_War_I", "Europe", "Owl", "Falcon"], ["World_War_I", "Greece", "Owl", "Falcon"], ["World_War_I", "New_Zealand", "Bird_of_prey", "Falcon"]]

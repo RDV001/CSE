@@ -1,0 +1,1 @@
+[["Stanis%C5%82aw_Koniecpolski", "Austria", "United_Nations"], ["Stanis%C5%82aw_Koniecpolski", "France", "United_Nations"], ["Stanis%C5%82aw_Koniecpolski", "Lithuania", "United_Nations"], ["Stanis%C5%82aw_Koniecpolski", "Poland", "United_Nations"], ["Stanis%C5%82aw_Koniecpolski", "Sweden", "United_Nations"], ["Stanis%C5%82aw_Koniecpolski", "Ukraine", "United_Nations"]]

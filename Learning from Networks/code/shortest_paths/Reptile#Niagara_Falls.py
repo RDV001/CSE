@@ -1,0 +1,1 @@
+[["Reptile", "Alligator", "River", "Niagara_Falls"], ["Reptile", "Crocodile", "River", "Niagara_Falls"], ["Reptile", "Continent", "Ice_age", "Niagara_Falls"], ["Reptile", "Food", "Phosphorus", "Niagara_Falls"], ["Reptile", "Nitrogen", "Phosphorus", "Niagara_Falls"], ["Reptile", "New_Zealand", "Canada", "Niagara_Falls"], ["Reptile", "Turtle", "Canada", "Niagara_Falls"]]

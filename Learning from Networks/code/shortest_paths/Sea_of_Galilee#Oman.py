@@ -1,0 +1,1 @@
+[["Sea_of_Galilee", "Arabic_language", "Oman"], ["Sea_of_Galilee", "Israel", "Oman"]]

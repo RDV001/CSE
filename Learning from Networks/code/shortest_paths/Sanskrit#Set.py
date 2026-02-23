@@ -1,0 +1,1 @@
+[["Sanskrit", "Arabic_language", "Algebra", "Set"], ["Sanskrit", "Education", "Algebra", "Set"], ["Sanskrit", "China", "Mathematics", "Set"], ["Sanskrit", "Education", "Mathematics", "Set"], ["Sanskrit", "Philosophy", "Mathematics", "Set"], ["Sanskrit", "Education", "Chemistry", "Set"]]

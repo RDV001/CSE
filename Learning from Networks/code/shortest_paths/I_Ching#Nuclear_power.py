@@ -1,0 +1,1 @@
+[["I_Ching", "Archaeology", "United_States", "Nuclear_power"], ["I_Ching", "Philosophy", "United_States", "Nuclear_power"], ["I_Ching", "Carl_Jung", "Switzerland", "Nuclear_power"], ["I_Ching", "Gottfried_Leibniz", "Germany", "Nuclear_power"], ["I_Ching", "Gottfried_Leibniz", "Steam_engine", "Nuclear_power"]]

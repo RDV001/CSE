@@ -1,0 +1,1 @@
+[["Speed_of_light", "Moscow", "Napoleon_I_of_France"]]

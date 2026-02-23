@@ -1,0 +1,1 @@
+[["Atlantic_slave_trade", "Aztec", "Nahuatl_language"], ["Atlantic_slave_trade", "Hern%C3%A1n_Cort%C3%A9s", "Nahuatl_language"], ["Atlantic_slave_trade", "Mexico", "Nahuatl_language"]]

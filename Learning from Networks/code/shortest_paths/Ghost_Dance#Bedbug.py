@@ -1,0 +1,1 @@
+[["Ghost_Dance", "Bison", "Animal", "Insect", "Bedbug"], ["Ghost_Dance", "Bison", "Scientific_classification", "Insect", "Bedbug"], ["Ghost_Dance", "California", "Sequoia", "Insect", "Bedbug"], ["Ghost_Dance", "United_States", "Sequoia", "Insect", "Bedbug"], ["Ghost_Dance", "Oregon", "Rainforest", "Insect", "Bedbug"], ["Ghost_Dance", "United_States", "Rice", "Insect", "Bedbug"]]

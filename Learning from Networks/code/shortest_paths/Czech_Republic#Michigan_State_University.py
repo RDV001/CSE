@@ -1,0 +1,1 @@
+[["Czech_Republic", "European_Union", "Condoleezza_Rice", "Michigan_State_University"], ["Czech_Republic", "NATO", "Condoleezza_Rice", "Michigan_State_University"], ["Czech_Republic", "European_Union", "Ice_hockey", "Michigan_State_University"], ["Czech_Republic", "Time_zone", "Detroit%2C_Michigan", "Michigan_State_University"]]

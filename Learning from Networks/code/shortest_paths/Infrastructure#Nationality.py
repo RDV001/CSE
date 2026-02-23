@@ -1,0 +1,1 @@
+[["Infrastructure", "19th_century", "International_Red_Cross_and_Red_Crescent_Movement", "Nationality"], ["Infrastructure", "19th_century", "Mark_Twain", "Nationality"], ["Infrastructure", "19th_century", "Slavery", "Nationality"], ["Infrastructure", "19th_century", "Zionism", "Nationality"], ["Infrastructure", "France", "Country", "Nationality"]]

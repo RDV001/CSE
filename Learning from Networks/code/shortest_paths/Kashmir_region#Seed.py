@@ -1,0 +1,1 @@
+[["Kashmir_region", "Afghanistan", "Dog", "Seed"], ["Kashmir_region", "India", "Mango", "Seed"], ["Kashmir_region", "India", "Rice", "Seed"], ["Kashmir_region", "India", "Wheat", "Seed"], ["Kashmir_region", "Saffron", "Essential_oil", "Seed"], ["Kashmir_region", "Saffron", "Flower", "Seed"], ["Kashmir_region", "Saffron", "Plant", "Seed"]]

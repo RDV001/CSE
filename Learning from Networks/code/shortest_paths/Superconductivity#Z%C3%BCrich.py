@@ -1,0 +1,1 @@
+[["Superconductivity", "Absolute_zero", "Albert_Einstein", "Z%C3%BCrich"], ["Superconductivity", "Energy", "Albert_Einstein", "Z%C3%BCrich"], ["Superconductivity", "Quantum_mechanics", "Albert_Einstein", "Z%C3%BCrich"], ["Superconductivity", "Alternating_current", "Switzerland", "Z%C3%BCrich"], ["Superconductivity", "Quantum_mechanics", "Linus_Pauling", "Z%C3%BCrich"]]

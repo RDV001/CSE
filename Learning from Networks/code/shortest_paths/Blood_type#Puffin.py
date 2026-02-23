@@ -1,0 +1,1 @@
+[["Blood_type", "ABO_blood_group_system", "Europe", "Faroe_Islands", "Puffin"], ["Blood_type", "ABO_blood_group_system", "Germany", "Faroe_Islands", "Puffin"], ["Blood_type", "ABO_blood_group_system", "Viking", "Faroe_Islands", "Puffin"], ["Blood_type", "ABO_blood_group_system", "Europe", "Svalbard", "Puffin"]]

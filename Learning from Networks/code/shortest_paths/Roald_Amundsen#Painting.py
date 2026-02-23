@@ -1,0 +1,1 @@
+[["Roald_Amundsen", "Atlantic_Ocean", "Peru", "Painting"], ["Roald_Amundsen", "Pacific_Ocean", "Peru", "Painting"], ["Roald_Amundsen", "Christopher_Columbus", "China", "Painting"], ["Roald_Amundsen", "Germany", "Moscow", "Painting"]]

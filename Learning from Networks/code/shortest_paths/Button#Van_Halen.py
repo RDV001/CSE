@@ -1,0 +1,1 @@
+[["Button", "14th_century", "England", "Queen_%28band%29", "Van_Halen"], ["Button", "Ancient_Rome", "England", "Queen_%28band%29", "Van_Halen"], ["Button", "Europe", "England", "Queen_%28band%29", "Van_Halen"], ["Button", "Europe", "London", "Queen_%28band%29", "Van_Halen"], ["Button", "Europe", "United_Kingdom", "Queen_%28band%29", "Van_Halen"]]

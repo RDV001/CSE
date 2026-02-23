@@ -1,0 +1,1 @@
+[["Vodafone", "Austria", "Wolfgang_Amadeus_Mozart", "Trichinosis"], ["Vodafone", "Germany", "Wolfgang_Amadeus_Mozart", "Trichinosis"], ["Vodafone", "Finland", "Meat", "Trichinosis"], ["Vodafone", "Peru", "Meat", "Trichinosis"], ["Vodafone", "South_Africa", "Meat", "Trichinosis"], ["Vodafone", "Sweden", "Meat", "Trichinosis"]]

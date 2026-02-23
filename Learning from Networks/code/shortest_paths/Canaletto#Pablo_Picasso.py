@@ -1,0 +1,1 @@
+[["Canaletto", "Impressionism", "Diego_Vel%C3%A1zquez", "Pablo_Picasso"], ["Canaletto", "Impressionism", "Paris", "Pablo_Picasso"], ["Canaletto", "Impressionism", "Paul_C%C3%A9zanne", "Pablo_Picasso"]]

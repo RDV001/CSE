@@ -1,0 +1,1 @@
+[["Wolfgang_Amadeus_Mozart", "Bologna", "Nicaragua", "Eagle"], ["Wolfgang_Amadeus_Mozart", "Mercury_%28element%29", "Nazi_Germany", "Eagle"], ["Wolfgang_Amadeus_Mozart", "Prague", "Nazi_Germany", "Eagle"], ["Wolfgang_Amadeus_Mozart", "Pyotr_Ilyich_Tchaikovsky", "George_Byron%2C_6th_Baron_Byron", "Eagle"]]

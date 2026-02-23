@@ -1,0 +1,1 @@
+[["Myocardial_infarction", "United_States", "El_Salvador", "Hurricane_Mitch"], ["Myocardial_infarction", "United_States", "Guatemala", "Hurricane_Mitch"], ["Myocardial_infarction", "United_States", "Honduras", "Hurricane_Mitch"]]

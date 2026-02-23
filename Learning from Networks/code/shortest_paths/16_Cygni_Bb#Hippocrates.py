@@ -1,0 +1,1 @@
+[["16_Cygni_Bb", "Earth", "Food", "Hippocrates"], ["16_Cygni_Bb", "Jupiter", "Heat", "Hippocrates"], ["16_Cygni_Bb", "Sun", "Heat", "Hippocrates"], ["16_Cygni_Bb", "Planet", "Ancient_history", "Hippocrates"], ["16_Cygni_Bb", "Sun", "Ancient_Greece", "Hippocrates"], ["16_Cygni_Bb", "Water", "Ancient_Greece", "Hippocrates"]]

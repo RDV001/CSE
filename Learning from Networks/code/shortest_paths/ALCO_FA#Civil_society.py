@@ -1,0 +1,1 @@
+[["ALCO_FA", "Argentina", "Russia", "Civil_society"], ["ALCO_FA", "Canada", "Russia", "Civil_society"], ["ALCO_FA", "Mexico", "Russia", "Civil_society"], ["ALCO_FA", "Canadian_Pacific_Railway", "Nationalism", "Civil_society"], ["ALCO_FA", "Mexico", "Education", "Civil_society"]]

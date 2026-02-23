@@ -1,0 +1,1 @@
+[["Star_Trek", "Doctor_Who", "Germany", "Wernher_von_Braun"], ["Star_Trek", "United_States", "Germany", "Wernher_von_Braun"], ["Star_Trek", "Star_Trek__The_Original_Series", "Walt_Disney", "Wernher_von_Braun"], ["Star_Trek", "Technology", "Space_exploration", "Wernher_von_Braun"]]

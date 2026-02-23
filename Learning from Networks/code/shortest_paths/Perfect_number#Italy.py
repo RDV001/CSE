@@ -1,0 +1,1 @@
+[["Perfect_number", "Ancient_Greece", "Italy"]]

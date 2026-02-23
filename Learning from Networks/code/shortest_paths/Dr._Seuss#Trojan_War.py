@@ -1,0 +1,1 @@
+[["Dr._Seuss", "Elephant", "Homer", "Trojan_War"], ["Dr._Seuss", "Literature", "Homer", "Trojan_War"], ["Dr._Seuss", "Elephant", "Odyssey", "Trojan_War"], ["Dr._Seuss", "Literature", "Odyssey", "Trojan_War"], ["Dr._Seuss", "Jew", "Crusades", "Trojan_War"], ["Dr._Seuss", "Literature", "Mythology", "Trojan_War"]]

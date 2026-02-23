@@ -1,0 +1,1 @@
+[["Visual_arts", "Comics", "United_States", "Johnston_Atoll"], ["Visual_arts", "Film", "United_States", "Johnston_Atoll"], ["Visual_arts", "Mona_Lisa", "United_States", "Johnston_Atoll"], ["Visual_arts", "Photography", "United_States", "Johnston_Atoll"]]

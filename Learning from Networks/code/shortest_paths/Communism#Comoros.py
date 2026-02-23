@@ -1,0 +1,1 @@
+[["Communism", "Africa", "Comoros"], ["Communism", "Albania", "Comoros"], ["Communism", "Bulgaria", "Comoros"], ["Communism", "Mozambique", "Comoros"]]

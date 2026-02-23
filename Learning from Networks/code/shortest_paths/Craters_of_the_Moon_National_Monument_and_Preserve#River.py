@@ -1,0 +1,1 @@
+[["Craters_of_the_Moon_National_Monument_and_Preserve", "Agriculture", "River"], ["Craters_of_the_Moon_National_Monument_and_Preserve", "Bear", "River"], ["Craters_of_the_Moon_National_Monument_and_Preserve", "Glacier", "River"], ["Craters_of_the_Moon_National_Monument_and_Preserve", "Water", "River"]]

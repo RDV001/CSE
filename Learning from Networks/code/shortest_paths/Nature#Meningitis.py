@@ -1,0 +1,1 @@
+[["Nature", "Bacteria", "Ethanol", "Meningitis"], ["Nature", "Bacteria", "Lyme_disease", "Meningitis"], ["Nature", "Bacteria", "Tuberculosis", "Meningitis"], ["Nature", "John_Constable", "Tuberculosis", "Meningitis"], ["Nature", "Human", "AIDS", "Meningitis"], ["Nature", "Human", "Brain", "Meningitis"], ["Nature", "Mammal", "Brain", "Meningitis"]]

@@ -1,0 +1,1 @@
+[["Almond", "Israel", "Arabic_language"], ["Almond", "Morocco", "Arabic_language"], ["Almond", "Spain", "Arabic_language"], ["Almond", "Syria", "Arabic_language"], ["Almond", "Turkey", "Arabic_language"]]

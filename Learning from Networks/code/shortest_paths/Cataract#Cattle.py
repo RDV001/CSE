@@ -1,0 +1,1 @@
+[["Cataract", "Diabetes_mellitus", "Insulin", "Cattle"], ["Cataract", "Protein", "Insulin", "Cattle"], ["Cataract", "Eye", "Brain", "Cattle"], ["Cataract", "Eye", "Sleep", "Cattle"], ["Cataract", "Hindi", "English_language", "Cattle"], ["Cataract", "Latin", "English_language", "Cattle"], ["Cataract", "Hindi", "Nepal", "Cattle"]]

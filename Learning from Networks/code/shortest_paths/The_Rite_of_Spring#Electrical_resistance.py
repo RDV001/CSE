@@ -1,0 +1,1 @@
+[["The_Rite_of_Spring", "Sony", "Semiconductor", "Electrical_resistance"]]

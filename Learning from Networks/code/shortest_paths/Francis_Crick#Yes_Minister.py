@@ -1,0 +1,1 @@
+[["Francis_Crick", "England", "Leicester", "Monty_Python", "Yes_Minister"], ["Francis_Crick", "Religion", "Spanish_Inquisition", "Monty_Python", "Yes_Minister"], ["Francis_Crick", "University_of_Cambridge", "Douglas_Adams", "Monty_Python", "Yes_Minister"], ["Francis_Crick", "University_of_Cambridge", "Oliver_Cromwell", "Monty_Python", "Yes_Minister"]]

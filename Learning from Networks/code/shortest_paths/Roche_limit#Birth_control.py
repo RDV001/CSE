@@ -1,0 +1,1 @@
+[["Roche_limit", "Astronomy", "20th_century", "Birth_control"], ["Roche_limit", "Earth", "Evolution", "Birth_control"], ["Roche_limit", "France", "Roman_Catholic_Church", "Birth_control"], ["Roche_limit", "Sun", "Mexico", "Birth_control"]]

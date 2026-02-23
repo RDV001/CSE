@@ -1,0 +1,1 @@
+[["Windsor_Castle", "Elizabeth_I_of_England", "Islam"], ["Windsor_Castle", "England", "Islam"], ["Windsor_Castle", "Napoleon_I_of_France", "Islam"], ["Windsor_Castle", "United_Kingdom", "Islam"]]

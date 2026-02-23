@@ -1,0 +1,1 @@
+[["Nigeria", "African_Union", "NATO", "Able_Archer_83"], ["Nigeria", "Darfur_conflict", "NATO", "Able_Archer_83"], ["Nigeria", "United_Kingdom", "NATO", "Able_Archer_83"], ["Nigeria", "United_States", "NATO", "Able_Archer_83"], ["Nigeria", "Yugoslavia", "NATO", "Able_Archer_83"]]

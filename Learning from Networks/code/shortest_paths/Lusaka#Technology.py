@@ -1,0 +1,1 @@
+[["Lusaka", "Europe", "Industrial_Revolution", "Technology"], ["Lusaka", "Europe", "Middle_Ages", "Technology"], ["Lusaka", "Europe", "Scotland", "Technology"], ["Lusaka", "Zambia", "People%27s_Republic_of_China", "Technology"]]

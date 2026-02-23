@@ -1,0 +1,1 @@
+[["Wave", "Energy", "Technology", "Slavery"], ["Wave", "Quantum_mechanics", "Technology", "Slavery"], ["Wave", "Speed_of_light", "Islam", "Slavery"]]

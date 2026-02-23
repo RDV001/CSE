@@ -1,0 +1,1 @@
+[["Osama_bin_Laden", "Iraq", "Hellenistic_Greece"], ["Osama_bin_Laden", "Israel", "Hellenistic_Greece"]]

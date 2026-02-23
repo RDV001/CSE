@@ -1,0 +1,1 @@
+[["Rule_of_St_Benedict", "Christian_monasticism", "Wine", "Carbon_dioxide"], ["Rule_of_St_Benedict", "Democracy", "European_Union", "Carbon_dioxide"], ["Rule_of_St_Benedict", "Rome", "European_Union", "Carbon_dioxide"], ["Rule_of_St_Benedict", "Rome", "Pollution", "Carbon_dioxide"]]

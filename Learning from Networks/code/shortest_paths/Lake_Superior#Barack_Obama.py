@@ -1,0 +1,1 @@
+[["Lake_Superior", "Canada", "Basketball", "University_of_Chicago", "Barack_Obama"], ["Lake_Superior", "Great_Lakes", "Chicago", "University_of_Chicago", "Barack_Obama"], ["Lake_Superior", "Industry", "Economics", "University_of_Chicago", "Barack_Obama"], ["Lake_Superior", "Mediterranean_Sea", "Triassic", "University_of_Chicago", "Barack_Obama"]]

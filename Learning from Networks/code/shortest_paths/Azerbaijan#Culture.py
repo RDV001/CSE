@@ -1,0 +1,1 @@
+[["Azerbaijan", "Cattle", "Culture"], ["Azerbaijan", "Europe", "Culture"], ["Azerbaijan", "Italy", "Culture"], ["Azerbaijan", "Japan", "Culture"], ["Azerbaijan", "Norway", "Culture"], ["Azerbaijan", "Religion", "Culture"], ["Azerbaijan", "Soviet_Union", "Culture"]]

@@ -1,0 +1,1 @@
+[["Barbados", "English_language", "Malaysia"], ["Barbados", "Hinduism", "Malaysia"], ["Barbados", "Lebanon", "Malaysia"], ["Barbados", "List_of_countries_by_system_of_government", "Malaysia"], ["Barbados", "September_11%2C_2001_attacks", "Malaysia"], ["Barbados", "United_States", "Malaysia"]]

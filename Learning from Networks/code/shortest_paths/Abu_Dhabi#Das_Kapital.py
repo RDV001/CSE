@@ -1,0 +1,1 @@
+[["Abu_Dhabi", "18th_century", "Edmund_Burke", "Das_Kapital"], ["Abu_Dhabi", "19th_century", "Karl_Marx", "Das_Kapital"], ["Abu_Dhabi", "United_Kingdom", "Capitalism", "Das_Kapital"]]

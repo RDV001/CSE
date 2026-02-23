@@ -1,0 +1,1 @@
+[["Dodo", "Dove", "Iran", "Jimmy_Carter"], ["Dodo", "Pigeon", "Iran", "Jimmy_Carter"], ["Dodo", "Oxford", "Nicaragua", "Jimmy_Carter"], ["Dodo", "Portugal", "Afghanistan", "Jimmy_Carter"], ["Dodo", "South_Africa", "Cold_War", "Jimmy_Carter"]]

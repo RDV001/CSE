@@ -1,0 +1,1 @@
+[["Mount_Rushmore", "Sunflower", "Olive_oil", "Oregano"], ["Mount_Rushmore", "Theodore_Roosevelt", "Cuba", "Oregano"], ["Mount_Rushmore", "Tourism", "Cuba", "Oregano"], ["Mount_Rushmore", "United_States", "Cuba", "Oregano"]]

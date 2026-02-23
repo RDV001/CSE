@@ -1,0 +1,1 @@
+[["War", "Adolf_Hitler", "Radar", "Wave"], ["War", "World_War_II", "Radar", "Wave"], ["War", "Birth_control", "Microscope", "Wave"], ["War", "Cyrus_the_Great", "Sun", "Wave"], ["War", "Petroleum", "Sun", "Wave"], ["War", "Religion", "Sun", "Wave"], ["War", "Religion", "Isaac_Newton", "Wave"], ["War", "Sociology", "Physics", "Wave"]]

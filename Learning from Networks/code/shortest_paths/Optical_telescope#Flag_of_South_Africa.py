@@ -1,0 +1,1 @@
+[["Optical_telescope", "Binoculars", "United_States", "List_of_sovereign_states", "Flag_of_South_Africa"], ["Optical_telescope", "Light", "18th_century", "South_Africa", "Flag_of_South_Africa"]]

@@ -1,0 +1,1 @@
+[["Volcano", "Russia", "Civil_society", "Social_capital"]]

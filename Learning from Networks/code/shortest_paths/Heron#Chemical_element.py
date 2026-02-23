@@ -1,0 +1,1 @@
+[["Heron", "Animal", "Organism", "Chemical_element"], ["Heron", "DNA", "Organism", "Chemical_element"], ["Heron", "Scientific_classification", "Organism", "Chemical_element"], ["Heron", "Animal", "Oxygen", "Chemical_element"], ["Heron", "Fossil", "Oxygen", "Chemical_element"], ["Heron", "Fossil", "Mineral", "Chemical_element"]]

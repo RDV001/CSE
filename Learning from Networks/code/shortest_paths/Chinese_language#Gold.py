@@ -1,0 +1,1 @@
+[["Chinese_language", "Africa", "Gold"], ["Chinese_language", "Indonesia", "Gold"]]

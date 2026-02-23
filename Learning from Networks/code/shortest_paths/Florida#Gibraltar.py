@@ -1,0 +1,1 @@
+[["Florida", "English_language", "Gibraltar"], ["Florida", "Spanish_language", "Gibraltar"], ["Florida", "United_Kingdom", "Gibraltar"], ["Florida", "United_States", "Gibraltar"], ["Florida", "World_War_II", "Gibraltar"]]

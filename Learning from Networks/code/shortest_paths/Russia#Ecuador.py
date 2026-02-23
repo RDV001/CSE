@@ -1,0 +1,1 @@
+[["Russia", "Bulgaria", "Ecuador"], ["Russia", "Currency", "Ecuador"], ["Russia", "Earth", "Ecuador"], ["Russia", "Liberalism", "Ecuador"], ["Russia", "List_of_countries_by_system_of_government", "Ecuador"], ["Russia", "Pacific_Ocean", "Ecuador"], ["Russia", "United_States", "Ecuador"]]

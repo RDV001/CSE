@@ -1,0 +1,1 @@
+[["Alligator", "Florida", "Tourism", "Harold_Macmillan"], ["Alligator", "Spain", "Tourism", "Harold_Macmillan"], ["Alligator", "United_States", "Tourism", "Harold_Macmillan"], ["Alligator", "Spain", "NATO", "Harold_Macmillan"], ["Alligator", "United_States", "NATO", "Harold_Macmillan"]]

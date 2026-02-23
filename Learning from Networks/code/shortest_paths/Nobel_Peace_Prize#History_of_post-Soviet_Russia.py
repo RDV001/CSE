@@ -1,0 +1,1 @@
+[["Nobel_Peace_Prize", "Joseph_Stalin", "Russian_Revolution_of_1917", "History_of_post-Soviet_Russia"], ["Nobel_Peace_Prize", "Mikhail_Gorbachev", "Russian_Revolution_of_1917", "History_of_post-Soviet_Russia"], ["Nobel_Peace_Prize", "World_War_I", "Russian_Revolution_of_1917", "History_of_post-Soviet_Russia"]]

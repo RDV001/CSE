@@ -1,0 +1,1 @@
+[["Rudyard_Kipling", "London", "University_of_Cambridge", "J._J._Thomson"], ["Rudyard_Kipling", "United_Kingdom", "University_of_Cambridge", "J._J._Thomson"], ["Rudyard_Kipling", "Westminster_Abbey", "University_of_Cambridge", "J._J._Thomson"], ["Rudyard_Kipling", "Westminster_Abbey", "Ernest_Rutherford", "J._J._Thomson"]]

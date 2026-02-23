@@ -1,0 +1,1 @@
+[["Barn_Owl", "Antarctica", "Jupiter", "Nicolaus_Copernicus"], ["Barn_Owl", "Antarctica", "Solar_System", "Nicolaus_Copernicus"], ["Barn_Owl", "Antarctica", "Sun", "Nicolaus_Copernicus"], ["Barn_Owl", "Europe", "Poland", "Nicolaus_Copernicus"], ["Barn_Owl", "Europe", "Warsaw", "Nicolaus_Copernicus"]]

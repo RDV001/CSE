@@ -1,0 +1,1 @@
+[["Leif_Ericson", "Canada", "Afghanistan", "Pashtun_people"], ["Leif_Ericson", "Germany", "Afghanistan", "Pashtun_people"], ["Leif_Ericson", "Germany", "Iranian_peoples", "Pashtun_people"]]

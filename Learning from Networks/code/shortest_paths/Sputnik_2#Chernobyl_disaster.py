@@ -1,0 +1,1 @@
+[["Sputnik_2", "Soviet_Union", "Mikhail_Gorbachev", "Chernobyl_disaster"]]

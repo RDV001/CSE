@@ -1,0 +1,1 @@
+[["Richard_I_of_England", "French_language", "Education"], ["Richard_I_of_England", "London", "Education"]]

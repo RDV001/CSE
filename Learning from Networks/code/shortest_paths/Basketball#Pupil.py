@@ -1,0 +1,1 @@
+[["Basketball", "Football_%28soccer%29", "Ancient_Rome", "Pupil"], ["Basketball", "Italy", "Ancient_Rome", "Pupil"], ["Basketball", "Olympic_Games", "Ancient_Rome", "Pupil"], ["Basketball", "Portugal", "Ancient_Rome", "Pupil"], ["Basketball", "Romania", "Ancient_Rome", "Pupil"], ["Basketball", "Spain", "Ancient_Rome", "Pupil"]]

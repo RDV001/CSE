@@ -1,0 +1,1 @@
+[["Columbia_River", "Russia", "Buddhism", "Tripitaka"], ["Columbia_River", "United_States", "Buddhism", "Tripitaka"]]

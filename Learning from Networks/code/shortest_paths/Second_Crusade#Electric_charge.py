@@ -1,0 +1,1 @@
+[["Second_Crusade", "Lisbon", "Salt", "Electric_charge"], ["Second_Crusade", "Switzerland", "Energy", "Electric_charge"]]

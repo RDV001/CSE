@@ -1,0 +1,1 @@
+[["Gliese_876", "Day", "English_language", "Saint_Helena"], ["Gliese_876", "Earth", "Africa", "Saint_Helena"]]

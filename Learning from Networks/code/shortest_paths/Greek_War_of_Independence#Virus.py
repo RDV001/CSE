@@ -1,0 +1,1 @@
+[["Greek_War_of_Independence", "France", "AIDS", "Virus"], ["Greek_War_of_Independence", "Napoleon_I_of_France", "Cancer", "Virus"], ["Greek_War_of_Independence", "Napoleon_I_of_France", "Yellow_fever", "Virus"]]

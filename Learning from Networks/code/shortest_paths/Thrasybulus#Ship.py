@@ -1,0 +1,1 @@
+[["Thrasybulus", "Athens", "Cape_Town", "Ship"], ["Thrasybulus", "Cyprus", "Copper", "Ship"], ["Thrasybulus", "Democracy", "Middle_Ages", "Ship"], ["Thrasybulus", "Oligarchy", "Middle_Ages", "Ship"]]

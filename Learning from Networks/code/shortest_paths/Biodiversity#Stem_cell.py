@@ -1,0 +1,1 @@
+[["Biodiversity", "Bacteria", "DNA_repair", "Stem_cell"], ["Biodiversity", "Extinction", "Ethics", "Stem_cell"], ["Biodiversity", "Human", "Ethics", "Stem_cell"], ["Biodiversity", "Medicine", "Ethics", "Stem_cell"], ["Biodiversity", "United_States", "George_W._Bush", "Stem_cell"]]

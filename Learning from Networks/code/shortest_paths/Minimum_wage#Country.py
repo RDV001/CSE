@@ -1,0 +1,1 @@
+[["Minimum_wage", "Austria", "Country"], ["Minimum_wage", "Germany", "Country"], ["Minimum_wage", "Latin_America", "Country"], ["Minimum_wage", "United_States", "Country"]]

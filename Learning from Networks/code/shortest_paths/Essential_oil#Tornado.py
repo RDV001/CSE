@@ -1,0 +1,1 @@
+[["Essential_oil", "Citrus", "Florida", "Tornado"], ["Essential_oil", "Lemon_balm", "Spring_%28season%29", "Tornado"], ["Essential_oil", "Water", "Bangladesh", "Tornado"], ["Essential_oil", "Water", "Cloud", "Tornado"], ["Essential_oil", "Water", "Earth", "Tornado"], ["Essential_oil", "Water", "Global_warming", "Tornado"]]

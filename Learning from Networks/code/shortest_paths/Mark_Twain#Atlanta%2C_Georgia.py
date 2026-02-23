@@ -1,0 +1,1 @@
+[["Mark_Twain", "American_Civil_War", "Atlanta%2C_Georgia"], ["Mark_Twain", "United_States", "Atlanta%2C_Georgia"]]

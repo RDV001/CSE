@@ -1,0 +1,1 @@
+[["Guinea", "Africa", "Elephant", "Hannibal_Barca"], ["Guinea", "Atlantic_Ocean", "Lisbon", "Hannibal_Barca"], ["Guinea", "Spain", "Barcelona", "Hannibal_Barca"]]

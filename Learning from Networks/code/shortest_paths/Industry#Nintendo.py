@@ -1,0 +1,1 @@
+[["Industry", "Automobile", "Japan", "Nintendo"], ["Industry", "Mining", "Japan", "Nintendo"], ["Industry", "Pollution", "Japan", "Nintendo"], ["Industry", "Computer", "Computer_and_video_games", "Nintendo"], ["Industry", "Technology", "Screw", "Nintendo"]]

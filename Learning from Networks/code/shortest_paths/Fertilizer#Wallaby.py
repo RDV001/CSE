@@ -1,0 +1,1 @@
+[["Fertilizer", "British_English", "Australia", "Kangaroo", "Wallaby"], ["Fertilizer", "Copper", "Australia", "Kangaroo", "Wallaby"], ["Fertilizer", "Nauru", "Australia", "Kangaroo", "Wallaby"], ["Fertilizer", "Sulfur", "Australia", "Kangaroo", "Wallaby"], ["Fertilizer", "Uranium", "Australia", "Kangaroo", "Wallaby"], ["Fertilizer", "Zinc", "Australia", "Kangaroo", "Wallaby"]]

@@ -1,0 +1,1 @@
+[["New_moon", "Moon", "Titanium", "Pigment", "Albinism", "Chromatophore"], ["New_moon", "Sun", "Photosynthesis", "Pigment", "Albinism", "Chromatophore"], ["New_moon", "Sun", "Sunlight", "Pigment", "Albinism", "Chromatophore"], ["New_moon", "Saudi_Arabia", "Africa", "Cheetah", "Albinism", "Chromatophore"]]

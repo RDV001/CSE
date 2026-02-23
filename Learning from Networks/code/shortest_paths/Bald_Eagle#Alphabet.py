@@ -1,0 +1,1 @@
+[["Bald_Eagle", "Bible", "Vowel", "Alphabet"], ["Bald_Eagle", "Eagle", "Ancient_Rome", "Alphabet"], ["Bald_Eagle", "English_language", "Latin_alphabet", "Alphabet"], ["Bald_Eagle", "Paris", "Bulgaria", "Alphabet"]]

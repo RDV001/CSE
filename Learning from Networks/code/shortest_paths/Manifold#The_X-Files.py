@@ -1,0 +1,1 @@
+[["Manifold", "Carl_Friedrich_Gauss", "United_States", "Baltimore%2C_Maryland", "The_X-Files"], ["Manifold", "German_language", "United_States", "Baltimore%2C_Maryland", "The_X-Files"], ["Manifold", "Linear_algebra", "United_States", "Baltimore%2C_Maryland", "The_X-Files"], ["Manifold", "Physics", "Superconductivity", "Stargate_SG-1", "The_X-Files"]]

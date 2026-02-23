@@ -1,0 +1,1 @@
+[["Thomas_Jefferson", "Europe", "Lithuania"], ["Thomas_Jefferson", "World_Heritage_Site", "Lithuania"]]

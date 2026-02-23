@@ -1,0 +1,1 @@
+[["Lion", "Africa", "Cape_Town", "African_Penguin"], ["Lion", "Cape_Lion", "Cape_Town", "African_Penguin"], ["Lion", "South_Africa", "Cape_Town", "African_Penguin"], ["Lion", "Animal", "Magellanic_Penguin", "African_Penguin"], ["Lion", "Carnivore", "Penguin", "African_Penguin"]]

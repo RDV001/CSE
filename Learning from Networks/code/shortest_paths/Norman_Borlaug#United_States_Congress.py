@@ -1,0 +1,1 @@
+[["Norman_Borlaug", "Baseball", "United_States_Congress"], ["Norman_Borlaug", "The_West_Wing_%28TV_series%29", "United_States_Congress"], ["Norman_Borlaug", "United_States", "United_States_Congress"], ["Norman_Borlaug", "Washington%2C_D.C.", "United_States_Congress"]]

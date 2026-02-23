@@ -1,0 +1,1 @@
+[["Opus_Dei", "Adolf_Hitler", "Coventry", "Benjamin_Britten"], ["Opus_Dei", "Adolf_Hitler", "Opera", "Benjamin_Britten"], ["Opus_Dei", "Adolf_Hitler", "United_Kingdom", "Benjamin_Britten"], ["Opus_Dei", "Pope_John_Paul_II", "United_Kingdom", "Benjamin_Britten"], ["Opus_Dei", "Spain", "United_Kingdom", "Benjamin_Britten"]]

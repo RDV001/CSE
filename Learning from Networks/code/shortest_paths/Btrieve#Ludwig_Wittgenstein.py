@@ -1,0 +1,1 @@
+[["Btrieve", "Linux", "Open_source", "Philosophy", "Ludwig_Wittgenstein"], ["Btrieve", "Windows_XP", "Bluetooth", "University_of_Cambridge", "Ludwig_Wittgenstein"], ["Btrieve", "Windows_XP", "European_Union", "Austria", "Ludwig_Wittgenstein"], ["Btrieve", "Windows_XP", "Language", "Communication", "Ludwig_Wittgenstein"]]

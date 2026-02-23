@@ -1,0 +1,1 @@
+[["Goa", "British_Empire", "Race", "Cystic_fibrosis"], ["Goa", "Roman_Catholic_Church", "Genetics", "Cystic_fibrosis"]]

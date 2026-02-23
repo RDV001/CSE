@@ -1,0 +1,1 @@
+[["Krypton", "Color", "Human", "Clothing"], ["Krypton", "Earth", "Human", "Clothing"], ["Krypton", "Energy", "Manufacturing", "Clothing"], ["Krypton", "Paris", "Manufacturing", "Clothing"], ["Krypton", "Energy", "Property", "Clothing"], ["Krypton", "Paris", "Jordan", "Clothing"]]

@@ -1,0 +1,1 @@
+[["Recycling", "Aluminium", "Manganese"], ["Recycling", "Chromium", "Manganese"], ["Recycling", "Glass", "Manganese"], ["Recycling", "Iron", "Manganese"], ["Recycling", "Steel", "Manganese"]]

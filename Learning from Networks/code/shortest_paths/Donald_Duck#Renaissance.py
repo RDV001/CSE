@@ -1,0 +1,1 @@
+[["Donald_Duck", "Belgium", "Renaissance"], ["Donald_Duck", "England", "Renaissance"], ["Donald_Duck", "Europe", "Renaissance"], ["Donald_Duck", "Hungary", "Renaissance"], ["Donald_Duck", "Italy", "Renaissance"], ["Donald_Duck", "Slovenia", "Renaissance"], ["Donald_Duck", "Spain", "Renaissance"]]

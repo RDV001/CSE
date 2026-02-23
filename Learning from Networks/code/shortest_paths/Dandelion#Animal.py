@@ -1,0 +1,1 @@
+[["Dandelion", "Egg_%28food%29", "Animal"], ["Dandelion", "Plant", "Animal"], ["Dandelion", "Scientific_classification", "Animal"]]

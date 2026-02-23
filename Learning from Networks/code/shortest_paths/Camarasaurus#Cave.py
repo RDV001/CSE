@@ -1,0 +1,1 @@
+[["Camarasaurus", "Dinosaur", "Landform", "Cave"], ["Camarasaurus", "Fossil", "Mineral", "Cave"], ["Camarasaurus", "Fossil_record", "Mineral", "Cave"], ["Camarasaurus", "Rocky_Mountains", "Mineral", "Cave"], ["Camarasaurus", "Jurassic", "Glacier", "Cave"], ["Camarasaurus", "London", "Glacier", "Cave"]]

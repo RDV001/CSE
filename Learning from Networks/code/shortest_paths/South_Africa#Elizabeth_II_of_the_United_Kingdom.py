@@ -1,0 +1,1 @@
+[["South_Africa", "List_of_countries_by_system_of_government", "Elizabeth_II_of_the_United_Kingdom"], ["South_Africa", "Nelson_Mandela", "Elizabeth_II_of_the_United_Kingdom"], ["South_Africa", "United_Kingdom", "Elizabeth_II_of_the_United_Kingdom"]]

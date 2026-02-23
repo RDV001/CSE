@@ -1,0 +1,1 @@
+[["Wood_fuel", "Coal", "Copper", "Copper%28I%29_chloride"], ["Wood_fuel", "Fertilizer", "Copper", "Copper%28I%29_chloride"], ["Wood_fuel", "Steel", "Copper", "Copper%28I%29_chloride"], ["Wood_fuel", "Sweden", "Copper", "Copper%28I%29_chloride"]]

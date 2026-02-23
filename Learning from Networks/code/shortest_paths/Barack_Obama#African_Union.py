@@ -1,0 +1,1 @@
+[["Barack_Obama", "Chad", "African_Union"], ["Barack_Obama", "Democratic_Republic_of_the_Congo", "African_Union"], ["Barack_Obama", "Djibouti", "African_Union"], ["Barack_Obama", "Ethiopia", "African_Union"], ["Barack_Obama", "Kenya", "African_Union"]]

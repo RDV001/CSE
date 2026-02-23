@@ -1,0 +1,1 @@
+[["Monaco_Grand_Prix", "Formula_One", "Russia", "Leon_Trotsky"], ["Monaco_Grand_Prix", "France", "Russia", "Leon_Trotsky"], ["Monaco_Grand_Prix", "Tennis", "Russia", "Leon_Trotsky"]]

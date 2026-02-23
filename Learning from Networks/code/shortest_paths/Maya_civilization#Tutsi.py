@@ -1,0 +1,1 @@
+[["Maya_civilization", "20th_century", "Africa", "Tutsi"], ["Maya_civilization", "Ancient_Egypt", "Africa", "Tutsi"], ["Maya_civilization", "Honduras", "Africa", "Tutsi"], ["Maya_civilization", "Invasion", "Africa", "Tutsi"], ["Maya_civilization", "Maize", "Africa", "Tutsi"]]

@@ -1,0 +1,1 @@
+[["Communism", "Asia", "Computer", "Cryptography"], ["Communism", "Asia", "Mathematics", "Cryptography"], ["Communism", "Leon_Trotsky", "Mathematics", "Cryptography"], ["Communism", "Che_Guevara", "DNA", "Cryptography"], ["Communism", "Human", "DNA", "Cryptography"]]

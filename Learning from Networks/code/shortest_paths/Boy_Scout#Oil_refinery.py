@@ -1,0 +1,1 @@
+[["Boy_Scout", "Europe", "Syria", "Oil_refinery"], ["Boy_Scout", "Fishing", "Kochi_%28India%29", "Oil_refinery"], ["Boy_Scout", "United_Kingdom", "Petroleum", "Oil_refinery"]]

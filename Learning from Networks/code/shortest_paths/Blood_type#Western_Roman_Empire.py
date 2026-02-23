@@ -1,0 +1,1 @@
+[["Blood_type", "ABO_blood_group_system", "France", "Western_Roman_Empire"], ["Blood_type", "Virus", "Latin", "Western_Roman_Empire"]]

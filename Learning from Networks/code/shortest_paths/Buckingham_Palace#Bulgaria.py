@@ -1,0 +1,1 @@
+[["Buckingham_Palace", "Germany", "Bulgaria"], ["Buckingham_Palace", "Rome", "Bulgaria"], ["Buckingham_Palace", "Russia", "Bulgaria"], ["Buckingham_Palace", "World_War_I", "Bulgaria"], ["Buckingham_Palace", "World_War_II", "Bulgaria"]]

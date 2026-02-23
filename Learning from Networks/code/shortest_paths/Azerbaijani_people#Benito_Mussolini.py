@@ -1,0 +1,1 @@
+[["Azerbaijani_people", "Nobel_Peace_Prize", "Benito_Mussolini"]]

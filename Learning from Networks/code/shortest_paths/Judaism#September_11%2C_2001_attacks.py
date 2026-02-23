@@ -1,0 +1,1 @@
+[["Judaism", "New_York_City", "September_11%2C_2001_attacks"], ["Judaism", "United_States", "September_11%2C_2001_attacks"]]

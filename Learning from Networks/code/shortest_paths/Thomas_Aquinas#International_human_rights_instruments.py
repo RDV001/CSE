@@ -1,0 +1,1 @@
+[["Thomas_Aquinas", "Ethics", "Human_rights", "International_human_rights_instruments"], ["Thomas_Aquinas", "Utilitarianism", "Human_rights", "International_human_rights_instruments"]]

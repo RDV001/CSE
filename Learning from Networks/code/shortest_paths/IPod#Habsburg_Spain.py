@@ -1,0 +1,1 @@
+[["IPod", "AIDS", "Belgium", "Habsburg_Spain"], ["IPod", "Euro", "Belgium", "Habsburg_Spain"], ["IPod", "ITunes", "Belgium", "Habsburg_Spain"], ["IPod", "Euro", "Spain", "Habsburg_Spain"], ["IPod", "ITunes", "Spain", "Habsburg_Spain"], ["IPod", "United_States", "Spain", "Habsburg_Spain"], ["IPod", "United_States", "Jamaica", "Habsburg_Spain"]]

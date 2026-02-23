@@ -1,0 +1,1 @@
+[["Shackleton_%28crater%29", "Earth", "United_States", "Elvis_Presley", "Muhammad_Ali"], ["Shackleton_%28crater%29", "Moon", "United_States", "Elvis_Presley", "Muhammad_Ali"], ["Shackleton_%28crater%29", "Sun", "United_States", "Elvis_Presley", "Muhammad_Ali"], ["Shackleton_%28crater%29", "Moon", "Neil_Armstrong", "Louisville%2C_Kentucky", "Muhammad_Ali"]]

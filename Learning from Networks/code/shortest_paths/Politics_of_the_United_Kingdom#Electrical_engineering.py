@@ -1,0 +1,1 @@
+[["Politics_of_the_United_Kingdom", "Brussels", "Albert_Einstein", "Electrical_engineering"], ["Politics_of_the_United_Kingdom", "Brussels", "Paul_Dirac", "Electrical_engineering"], ["Politics_of_the_United_Kingdom", "United_Kingdom", "Computer", "Electrical_engineering"], ["Politics_of_the_United_Kingdom", "World_War_I", "Woodrow_Wilson", "Electrical_engineering"]]

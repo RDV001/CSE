@@ -1,0 +1,1 @@
+[["George_I_of_Great_Britain", "English_language", "Japan"], ["George_I_of_Great_Britain", "France", "Japan"]]

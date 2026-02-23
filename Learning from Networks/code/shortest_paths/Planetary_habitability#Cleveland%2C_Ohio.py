@@ -1,0 +1,1 @@
+[["Planetary_habitability", "Carbon_dioxide", "Quartz", "Cleveland%2C_Ohio"], ["Planetary_habitability", "Geology", "Quartz", "Cleveland%2C_Ohio"], ["Planetary_habitability", "Silicon", "Quartz", "Cleveland%2C_Ohio"], ["Planetary_habitability", "Earth", "Russian_language", "Cleveland%2C_Ohio"]]

@@ -1,0 +1,1 @@
+[["John_F._Kennedy", "Japan", "Mario", "Super_Mario_Bros."], ["John_F._Kennedy", "Japan", "Nintendo", "Super_Mario_Bros."]]

@@ -1,0 +1,1 @@
+[["Malaysia", "Canada", "Skiing", "Lake_Tahoe"], ["Malaysia", "New_Zealand", "Skiing", "Lake_Tahoe"], ["Malaysia", "Thailand", "California", "Lake_Tahoe"], ["Malaysia", "Time_zone", "California", "Lake_Tahoe"], ["Malaysia", "United_States", "California", "Lake_Tahoe"]]

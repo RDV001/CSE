@@ -1,0 +1,1 @@
+[["Bob_Dylan", "John_F._Kennedy", "Louisville%2C_Kentucky", "Water_purification"], ["Bob_Dylan", "Minneapolis%2C_Minnesota", "Recycling", "Water_purification"], ["Bob_Dylan", "Minneapolis%2C_Minnesota", "Water", "Water_purification"], ["Bob_Dylan", "Vancouver", "Water", "Water_purification"]]

@@ -1,0 +1,1 @@
+[["Rabat", "Atlantic_Ocean", "United_States", "Las_Vegas%2C_Nevada"], ["Rabat", "Capital", "United_States", "Las_Vegas%2C_Nevada"], ["Rabat", "Morocco", "United_States", "Las_Vegas%2C_Nevada"], ["Rabat", "Spain", "United_States", "Las_Vegas%2C_Nevada"], ["Rabat", "Morocco", "Tourism", "Las_Vegas%2C_Nevada"], ["Rabat", "Spain", "Tourism", "Las_Vegas%2C_Nevada"]]

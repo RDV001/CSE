@@ -1,0 +1,1 @@
+[["Gender", "14th_century", "England"], ["Gender", "Charles_Dickens", "England"], ["Gender", "English_language", "England"], ["Gender", "Henry_James", "England"], ["Gender", "Screw", "England"]]

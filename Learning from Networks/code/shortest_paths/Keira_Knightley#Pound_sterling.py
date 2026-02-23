@@ -1,0 +1,1 @@
+[["Keira_Knightley", "England", "Pound_sterling"], ["Keira_Knightley", "United_Kingdom", "Pound_sterling"]]

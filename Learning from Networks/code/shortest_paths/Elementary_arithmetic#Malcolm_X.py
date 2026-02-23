@@ -1,0 +1,1 @@
+[["Elementary_arithmetic", "Algorithm", "Bertrand_Russell", "John_F._Kennedy", "Malcolm_X"]]

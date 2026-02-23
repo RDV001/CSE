@@ -1,0 +1,1 @@
+[["Eric_Clapton", "Birmingham", "Glass", "Germanium"], ["Eric_Clapton", "Jupiter", "Ammonia", "Germanium"], ["Eric_Clapton", "Jupiter", "Carbon", "Germanium"], ["Eric_Clapton", "Jupiter", "Helium", "Germanium"], ["Eric_Clapton", "Mars", "Argon", "Germanium"], ["Eric_Clapton", "Mars", "Carbon_dioxide", "Germanium"]]

@@ -1,0 +1,1 @@
+[["Baseball", "Cuba", "Fruit", "Avocado"], ["Baseball", "Cuba", "Peru", "Avocado"], ["Baseball", "South_America", "Peru", "Avocado"], ["Baseball", "United_States", "Peru", "Avocado"], ["Baseball", "Venezuela", "Peru", "Avocado"], ["Baseball", "Nicaragua", "Nahuatl_language", "Avocado"]]

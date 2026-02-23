@@ -1,0 +1,1 @@
+[["Jew", "Nazism", "Anarchism"], ["Jew", "Slavery", "Anarchism"], ["Jew", "Socialism", "Anarchism"]]

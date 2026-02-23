@@ -1,0 +1,1 @@
+[["Koryaksky", "United_Nations", "Afghanistan", "Osama_bin_Laden"], ["Koryaksky", "United_Nations", "Terrorism", "Osama_bin_Laden"]]

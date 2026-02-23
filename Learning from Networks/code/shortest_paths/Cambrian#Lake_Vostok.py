@@ -1,0 +1,1 @@
+[["Cambrian", "Continent", "Antarctica", "Lake_Vostok"], ["Cambrian", "Desert", "Antarctica", "Lake_Vostok"], ["Cambrian", "Permian", "Antarctica", "Lake_Vostok"], ["Cambrian", "Ice_age", "Snowball_Earth", "Lake_Vostok"]]

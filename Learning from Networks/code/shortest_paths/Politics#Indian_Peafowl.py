@@ -1,0 +1,1 @@
+[["Politics", "Karl_Marx", "Kerala", "Peafowl", "Indian_Peafowl"], ["Politics", "Marxism", "Kerala", "Peafowl", "Indian_Peafowl"]]

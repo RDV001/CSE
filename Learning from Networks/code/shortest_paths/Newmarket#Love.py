@@ -1,0 +1,1 @@
+[["Newmarket", "Animal", "Human", "Love"], ["Newmarket", "Bird", "Human", "Love"], ["Newmarket", "England", "William_Shakespeare", "Love"], ["Newmarket", "James_I_of_England", "William_Shakespeare", "Love"], ["Newmarket", "London", "William_Shakespeare", "Love"], ["Newmarket", "United_Kingdom", "William_Shakespeare", "Love"], ["Newmarket", "United_Kingdom", "Novel", "Love"]]

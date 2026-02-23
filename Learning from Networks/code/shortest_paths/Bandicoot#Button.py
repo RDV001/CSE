@@ -1,0 +1,1 @@
+[["Bandicoot", "Animal", "Human", "Clothing", "Button"], ["Bandicoot", "Mammal", "Human", "Clothing", "Button"], ["Bandicoot", "Scientific_classification", "Human", "Clothing", "Button"], ["Bandicoot", "Mammal", "Horse", "Clothing", "Button"]]

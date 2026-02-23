@@ -1,0 +1,1 @@
+[["Mona_Lisa", "John_F._Kennedy", "Dallas%2C_Texas"], ["Mona_Lisa", "Lyndon_B._Johnson", "Dallas%2C_Texas"], ["Mona_Lisa", "New_York_City", "Dallas%2C_Texas"], ["Mona_Lisa", "United_States", "Dallas%2C_Texas"]]

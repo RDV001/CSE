@@ -1,0 +1,1 @@
+[["Atheism", "Plato", "Oligarchy"], ["Atheism", "Socrates", "Oligarchy"]]

@@ -1,0 +1,1 @@
+[["Stephen_of_England", "Bristol", "Paul_Dirac", "Electrical_engineering", "Moon_landing"], ["Stephen_of_England", "Bristol", "York", "Electrical_engineering", "Moon_landing"], ["Stephen_of_England", "England", "York", "Electrical_engineering", "Moon_landing"], ["Stephen_of_England", "France", "United_States", "Apollo_11", "Moon_landing"]]

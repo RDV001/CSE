@@ -1,0 +1,1 @@
+[["Sigmund_Freud", "Atheism", "God"], ["Sigmund_Freud", "France", "God"], ["Sigmund_Freud", "Religion", "God"], ["Sigmund_Freud", "Ren%C3%A9_Descartes", "God"]]

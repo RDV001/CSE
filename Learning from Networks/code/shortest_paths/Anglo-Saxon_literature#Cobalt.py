@@ -1,0 +1,1 @@
+[["Anglo-Saxon_literature", "Roman_Britain", "Gold", "Cobalt"], ["Anglo-Saxon_literature", "Roman_Britain", "Iron", "Cobalt"], ["Anglo-Saxon_literature", "Sweden", "Iron", "Cobalt"], ["Anglo-Saxon_literature", "Saint_Helena", "Southern_Africa", "Cobalt"]]

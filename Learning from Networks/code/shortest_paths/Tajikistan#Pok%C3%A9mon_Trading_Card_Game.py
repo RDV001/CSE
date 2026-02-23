@@ -1,0 +1,1 @@
+[["Tajikistan", "Iranian_peoples", "Damascus", "Card_game", "Pok%C3%A9mon_Trading_Card_Game"], ["Tajikistan", "Mosque", "Damascus", "Card_game", "Pok%C3%A9mon_Trading_Card_Game"], ["Tajikistan", "Persian_Empire", "Damascus", "Card_game", "Pok%C3%A9mon_Trading_Card_Game"], ["Tajikistan", "Persian_Empire", "Royal_Navy", "Card_game", "Pok%C3%A9mon_Trading_Card_Game"]]

@@ -1,0 +1,1 @@
+[["Charlemagne", "Ethics", "Genetics", "Bioinformatics"], ["Charlemagne", "Genealogy", "DNA", "Bioinformatics"], ["Charlemagne", "Ireland", "DNA", "Bioinformatics"], ["Charlemagne", "Gold", "Chemistry", "Bioinformatics"], ["Charlemagne", "Religion", "Evolution", "Bioinformatics"]]

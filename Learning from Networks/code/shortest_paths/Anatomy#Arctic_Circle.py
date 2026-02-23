@@ -1,0 +1,1 @@
+[["Anatomy", "Biology", "Biosphere", "Arctic_Circle"], ["Anatomy", "Biology", "Earth", "Arctic_Circle"], ["Anatomy", "Human", "Earth", "Arctic_Circle"], ["Anatomy", "Human", "Arctic", "Arctic_Circle"], ["Anatomy", "Human", "Clothing", "Arctic_Circle"]]

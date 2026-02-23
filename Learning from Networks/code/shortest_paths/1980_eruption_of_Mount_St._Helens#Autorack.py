@@ -1,0 +1,1 @@
+[["1980_eruption_of_Mount_St._Helens", "California", "Amtrak", "Autorack"], ["1980_eruption_of_Mount_St._Helens", "Denver%2C_Colorado", "Amtrak", "Autorack"], ["1980_eruption_of_Mount_St._Helens", "Minnesota", "Amtrak", "Autorack"], ["1980_eruption_of_Mount_St._Helens", "United_States", "Amtrak", "Autorack"]]

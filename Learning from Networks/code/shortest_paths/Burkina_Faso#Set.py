@@ -1,0 +1,1 @@
+[["Burkina_Faso", "Copper", "Phase_%28matter%29", "Set"], ["Burkina_Faso", "Gold", "Phase_%28matter%29", "Set"], ["Burkina_Faso", "Iron", "Phase_%28matter%29", "Set"], ["Burkina_Faso", "Manganese", "Phase_%28matter%29", "Set"], ["Burkina_Faso", "Gold", "Chemistry", "Set"], ["Burkina_Faso", "Islam", "Algebra", "Set"], ["Burkina_Faso", "Islam", "Mathematics", "Set"]]

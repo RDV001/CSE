@@ -1,0 +1,1 @@
+[["Vanilla", "Belgium", "Parliamentary_system", "Senate_of_Canada"], ["Vanilla", "French_Polynesia", "Parliamentary_system", "Senate_of_Canada"], ["Vanilla", "Turkey", "Parliamentary_system", "Senate_of_Canada"]]

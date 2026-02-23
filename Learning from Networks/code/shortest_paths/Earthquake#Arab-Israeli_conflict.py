@@ -1,0 +1,1 @@
+[["Earthquake", "Netherlands", "21st_century", "Arab-Israeli_conflict"], ["Earthquake", "Netherlands", "Jew", "Arab-Israeli_conflict"], ["Earthquake", "Soviet_Union", "Jew", "Arab-Israeli_conflict"], ["Earthquake", "Zambia", "Jew", "Arab-Israeli_conflict"], ["Earthquake", "Nuclear_weapon", "Israel", "Arab-Israeli_conflict"]]

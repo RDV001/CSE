@@ -1,0 +1,1 @@
+[["Victor_Hugo", "19th_century", "Holy_Roman_Empire"], ["Victor_Hugo", "Italy", "Holy_Roman_Empire"], ["Victor_Hugo", "Napoleon_I_of_France", "Holy_Roman_Empire"], ["Victor_Hugo", "Roman_Catholic_Church", "Holy_Roman_Empire"]]

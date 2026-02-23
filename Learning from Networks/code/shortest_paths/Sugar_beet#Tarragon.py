@@ -1,0 +1,1 @@
+[["Sugar_beet", "Turkey", "Olive_oil", "Tarragon"]]

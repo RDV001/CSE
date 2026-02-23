@@ -1,0 +1,1 @@
+[["Common_Tern", "Animal", "Plant"], ["Common_Tern", "Binomial_nomenclature", "Plant"], ["Common_Tern", "Bird", "Plant"], ["Common_Tern", "Scientific_classification", "Plant"]]

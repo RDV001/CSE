@@ -1,0 +1,1 @@
+[["Muhammad_Iqbal", "Philosophy", "Ludwig_Wittgenstein"], ["Muhammad_Iqbal", "University_of_Cambridge", "Ludwig_Wittgenstein"]]

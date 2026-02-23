@@ -1,0 +1,1 @@
+[["Chaffinch", "Africa", "Earth", "Argon"], ["Chaffinch", "Asia", "Earth", "Argon"], ["Chaffinch", "Europe", "Earth", "Argon"], ["Chaffinch", "North_America", "Earth", "Argon"], ["Chaffinch", "Animal", "Carbon_dioxide", "Argon"], ["Chaffinch", "Sweden", "Copper", "Argon"], ["Chaffinch", "Sweden", "Iron", "Argon"]]

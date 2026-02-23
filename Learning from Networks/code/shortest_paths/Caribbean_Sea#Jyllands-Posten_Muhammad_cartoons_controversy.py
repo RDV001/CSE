@@ -1,0 +1,1 @@
+[["Caribbean_Sea", "Cuba", "Mosque", "Jyllands-Posten_Muhammad_cartoons_controversy"]]

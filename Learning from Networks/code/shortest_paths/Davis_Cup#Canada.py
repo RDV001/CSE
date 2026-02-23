@@ -1,0 +1,1 @@
+[["Davis_Cup", "Argentina", "Canada"], ["Davis_Cup", "Croatia", "Canada"], ["Davis_Cup", "Fed_Cup", "Canada"], ["Davis_Cup", "Germany", "Canada"], ["Davis_Cup", "Mexico", "Canada"], ["Davis_Cup", "New_Zealand", "Canada"], ["Davis_Cup", "Paris", "Canada"], ["Davis_Cup", "Russia", "Canada"], ["Davis_Cup", "Sweden", "Canada"], ["Davis_Cup", "United_States", "Canada"]]

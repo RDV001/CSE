@@ -1,0 +1,1 @@
+[["Tim_Berners-Lee", "Euro", "French_Guiana"]]

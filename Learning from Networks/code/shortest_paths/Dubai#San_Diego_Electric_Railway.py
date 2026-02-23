@@ -1,0 +1,1 @@
+[["Dubai", "Atlanta%2C_Georgia", "Amtrak", "Union_Station_%28San_Diego%29", "San_Diego_Electric_Railway"], ["Dubai", "Detroit%2C_Michigan", "Amtrak", "Union_Station_%28San_Diego%29", "San_Diego_Electric_Railway"]]

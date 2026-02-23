@@ -1,0 +1,1 @@
+[["Dingo", "Australia", "James_Cook", "Algebra"], ["Dingo", "Kangaroo", "James_Cook", "Algebra"], ["Dingo", "Sydney", "James_Cook", "Algebra"], ["Dingo", "Sydney", "Arabic_language", "Algebra"], ["Dingo", "Sydney", "Islam", "Algebra"], ["Dingo", "Vietnam", "Islam", "Algebra"]]

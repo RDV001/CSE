@@ -1,0 +1,1 @@
+[["Louisville%2C_Kentucky", "Australian_rules_football", "Television"], ["Louisville%2C_Kentucky", "Basketball", "Television"], ["Louisville%2C_Kentucky", "Film", "Television"], ["Louisville%2C_Kentucky", "Los_Angeles%2C_California", "Television"], ["Louisville%2C_Kentucky", "United_Kingdom", "Television"], ["Louisville%2C_Kentucky", "United_States", "Television"]]

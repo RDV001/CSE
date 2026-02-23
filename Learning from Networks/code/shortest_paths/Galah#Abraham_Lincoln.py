@@ -1,0 +1,1 @@
+[["Galah", "Australia", "United_States", "Abraham_Lincoln"], ["Galah", "Melbourne", "United_States", "Abraham_Lincoln"], ["Galah", "Bird", "19th_century", "Abraham_Lincoln"], ["Galah", "Melbourne", "19th_century", "Abraham_Lincoln"], ["Galah", "DNA", "Thomas_Jefferson", "Abraham_Lincoln"]]

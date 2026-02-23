@@ -1,0 +1,1 @@
+[["North_America", "Florida", "American_football"], ["North_America", "Mexico", "American_football"], ["North_America", "United_States", "American_football"], ["North_America", "Washington%2C_D.C.", "American_football"]]

@@ -1,0 +1,1 @@
+[["Peaceful_coexistence", "Capitalism", "19th_century", "Impressionism"], ["Peaceful_coexistence", "Middle_East", "20th_century", "Impressionism"], ["Peaceful_coexistence", "Pope_John_Paul_II", "20th_century", "Impressionism"], ["Peaceful_coexistence", "NATO", "Paris", "Impressionism"], ["Peaceful_coexistence", "NATO", "Slovenia", "Impressionism"]]

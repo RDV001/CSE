@@ -1,0 +1,1 @@
+[["Space_Shuttle_Challenger_disaster", "Senegal", "Currency", "Fertile_Crescent"]]

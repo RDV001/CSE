@@ -1,0 +1,1 @@
+[["Canada_Goose", "Bird_migration", "India", "Taj_Mahal"], ["Canada_Goose", "United_States", "India", "Taj_Mahal"], ["Canada_Goose", "Canada", "Islam", "Taj_Mahal"], ["Canada_Goose", "China", "Islam", "Taj_Mahal"], ["Canada_Goose", "Japan", "Islam", "Taj_Mahal"], ["Canada_Goose", "United_States", "Islam", "Taj_Mahal"], ["Canada_Goose", "United_States", "Tourism", "Taj_Mahal"]]

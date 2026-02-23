@@ -1,0 +1,1 @@
+[["Cotswolds", "England", "Leicester", "Coronation_Street"], ["Cotswolds", "England", "Manchester", "Coronation_Street"], ["Cotswolds", "House_of_Lords", "Manchester", "Coronation_Street"], ["Cotswolds", "Middle_Ages", "Glasses", "Coronation_Street"]]

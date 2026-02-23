@@ -1,0 +1,1 @@
+[["Insect", "Human", "Caravaggio", "The_Last_Supper_%28Leonardo%29"], ["Insect", "Human", "Leonardo_da_Vinci", "The_Last_Supper_%28Leonardo%29"], ["Insect", "Nutrition", "Leonardo_da_Vinci", "The_Last_Supper_%28Leonardo%29"]]

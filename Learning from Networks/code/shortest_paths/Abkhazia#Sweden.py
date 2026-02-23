@@ -1,0 +1,1 @@
+[["Abkhazia", "European_Union", "Sweden"], ["Abkhazia", "Georgia_%28country%29", "Sweden"], ["Abkhazia", "Istanbul", "Sweden"], ["Abkhazia", "NATO", "Sweden"], ["Abkhazia", "Russia", "Sweden"], ["Abkhazia", "Time_zone", "Sweden"], ["Abkhazia", "Water", "Sweden"], ["Abkhazia", "Wine", "Sweden"]]

@@ -1,0 +1,1 @@
+[["Guyana", "Europe", "Copenhagen"]]

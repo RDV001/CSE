@@ -1,0 +1,1 @@
+[["Azerbaijan", "Afghanistan", "Jimmy_Carter", "Harley-Davidson"], ["Azerbaijan", "George_W._Bush", "Jimmy_Carter", "Harley-Davidson"], ["Azerbaijan", "Iran", "Jimmy_Carter", "Harley-Davidson"]]

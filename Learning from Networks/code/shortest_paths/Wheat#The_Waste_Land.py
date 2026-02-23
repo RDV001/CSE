@@ -1,0 +1,1 @@
+[["Wheat", "Germany", "Richard_Wagner", "The_Waste_Land"], ["Wheat", "Ireland", "Irish_poetry", "The_Waste_Land"], ["Wheat", "Ireland", "James_Joyce", "The_Waste_Land"]]

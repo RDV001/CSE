@@ -1,0 +1,1 @@
+[["Harry_Potter", "France", "Russia"], ["Harry_Potter", "London", "Russia"], ["Harry_Potter", "Manchester", "Russia"], ["Harry_Potter", "Oxford", "Russia"], ["Harry_Potter", "People%27s_Republic_of_China", "Russia"], ["Harry_Potter", "Pope_John_Paul_II", "Russia"], ["Harry_Potter", "Portugal", "Russia"], ["Harry_Potter", "United_States", "Russia"]]

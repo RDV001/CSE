@@ -1,0 +1,1 @@
+[["Civilization", "11th_century", "21st_century", "Harry_Potter"], ["Civilization", "5th_century", "21st_century", "Harry_Potter"], ["Civilization", "Monarchy", "21st_century", "Harry_Potter"], ["Civilization", "South_America", "21st_century", "Harry_Potter"], ["Civilization", "Athens", "Edinburgh", "Harry_Potter"], ["Civilization", "South_America", "Mestizo", "Harry_Potter"]]

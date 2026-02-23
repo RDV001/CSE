@@ -1,0 +1,1 @@
+[["Mother_Teresa", "Africa", "Gold", "Roentgenium"], ["Mother_Teresa", "Armenia", "Gold", "Roentgenium"], ["Mother_Teresa", "California", "Gold", "Roentgenium"], ["Mother_Teresa", "Papua_New_Guinea", "Gold", "Roentgenium"]]

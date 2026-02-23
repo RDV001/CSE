@@ -1,0 +1,1 @@
+[["Typewriter", "Latin_alphabet", "Africa", "Hutu"]]

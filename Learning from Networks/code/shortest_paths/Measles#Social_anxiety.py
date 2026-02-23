@@ -1,0 +1,1 @@
+[["Measles", "Autism", "Germany", "Franz_Kafka", "Social_anxiety"], ["Measles", "Brazil", "Germany", "Franz_Kafka", "Social_anxiety"], ["Measles", "Mexico", "Germany", "Franz_Kafka", "Social_anxiety"], ["Measles", "United_Kingdom", "Germany", "Franz_Kafka", "Social_anxiety"]]

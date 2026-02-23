@@ -1,0 +1,1 @@
+[["Light", "Albert_Einstein", "Capitalism", "1973_oil_crisis"], ["Light", "Middle_Ages", "Capitalism", "1973_oil_crisis"], ["Light", "Radio", "Detroit%2C_Michigan", "1973_oil_crisis"], ["Light", "Ren%C3%A9_Descartes", "Sweden", "1973_oil_crisis"], ["Light", "Richard_Feynman", "Cold_War", "1973_oil_crisis"]]

@@ -1,0 +1,1 @@
+[["Clothing", "Cotton", "Plant"]]

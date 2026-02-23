@@ -1,0 +1,1 @@
+[["Parsnip", "Potassium", "Glass", "Cobalt"], ["Parsnip", "Potassium", "List_of_elements_by_name", "Cobalt"], ["Parsnip", "Potassium", "Magnetism", "Cobalt"], ["Parsnip", "Potato", "Nutrition", "Cobalt"], ["Parsnip", "United_States", "Nuclear_weapon", "Cobalt"], ["Parsnip", "Vitamin", "Cyanocobalamin", "Cobalt"]]

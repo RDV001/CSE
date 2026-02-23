@@ -1,0 +1,1 @@
+[["Nazi_Germany", "Slovenia", "Martinique"], ["Nazi_Germany", "United_States", "Martinique"]]

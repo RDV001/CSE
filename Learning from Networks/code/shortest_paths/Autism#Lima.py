@@ -1,0 +1,1 @@
+[["Autism", "Literacy", "Latin_America", "Lima"], ["Autism", "United_States", "Latin_America", "Lima"], ["Autism", "United_Kingdom", "Argentina", "Lima"], ["Autism", "United_States", "Argentina", "Lima"], ["Autism", "United_States", "Peru", "Lima"], ["Autism", "World_War_II", "Beijing", "Lima"]]

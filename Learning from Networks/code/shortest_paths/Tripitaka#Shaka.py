@@ -1,0 +1,1 @@
+[["Tripitaka", "Chinese_language", "19th_century", "Shaka"]]

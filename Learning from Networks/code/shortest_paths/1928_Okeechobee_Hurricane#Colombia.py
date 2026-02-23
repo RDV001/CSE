@@ -1,0 +1,1 @@
+[["1928_Okeechobee_Hurricane", "Latin_America", "Colombia"], ["1928_Okeechobee_Hurricane", "Puerto_Rico", "Colombia"], ["1928_Okeechobee_Hurricane", "United_States", "Colombia"]]

@@ -1,0 +1,1 @@
+[["Tobacco_smoking", "Australia", "Sport"], ["Tobacco_smoking", "New_Zealand", "Sport"], ["Tobacco_smoking", "United_Kingdom", "Sport"], ["Tobacco_smoking", "United_States", "Sport"]]

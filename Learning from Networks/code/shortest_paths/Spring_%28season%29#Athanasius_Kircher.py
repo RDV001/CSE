@@ -1,0 +1,1 @@
+[["Spring_%28season%29", "Earth", "Volcano", "Athanasius_Kircher"], ["Spring_%28season%29", "Meteorology", "Volcano", "Athanasius_Kircher"], ["Spring_%28season%29", "United_States", "Volcano", "Athanasius_Kircher"]]

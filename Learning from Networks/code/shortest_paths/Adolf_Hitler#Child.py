@@ -1,0 +1,1 @@
+[["Adolf_Hitler", "German_language", "Education", "Child"], ["Adolf_Hitler", "Liberalism", "Education", "Child"], ["Adolf_Hitler", "London", "Education", "Child"], ["Adolf_Hitler", "Marxism", "Education", "Child"], ["Adolf_Hitler", "Nationalism", "Education", "Child"], ["Adolf_Hitler", "Propaganda", "Education", "Child"], ["Adolf_Hitler", "United_States", "Education", "Child"]]

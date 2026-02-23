@@ -1,0 +1,1 @@
+[["Fundamental_theorem_of_arithmetic", "Carl_Friedrich_Gauss", "Germany", "List_of_countries"], ["Fundamental_theorem_of_arithmetic", "Carl_Friedrich_Gauss", "United_States", "List_of_countries"], ["Fundamental_theorem_of_arithmetic", "Euclid", "Greece", "List_of_countries"]]

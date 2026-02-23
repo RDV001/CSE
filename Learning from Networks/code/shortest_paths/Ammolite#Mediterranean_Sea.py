@@ -1,0 +1,1 @@
+[["Ammolite", "Amber", "Mediterranean_Sea"], ["Ammolite", "Glass", "Mediterranean_Sea"], ["Ammolite", "Italy", "Mediterranean_Sea"]]

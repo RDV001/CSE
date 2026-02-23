@@ -1,0 +1,1 @@
+[["Elvis_Presley", "Adolf_Hitler", "Charlie_Chaplin"]]

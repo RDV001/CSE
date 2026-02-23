@@ -1,0 +1,1 @@
+[["Northern_Mariana_Islands", "Cattle", "Bronze_Age"], ["Northern_Mariana_Islands", "Currency", "Bronze_Age"]]

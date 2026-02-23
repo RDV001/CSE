@@ -1,0 +1,1 @@
+[["Pig", "Hinduism", "Swastika", "Giant_Panda"]]

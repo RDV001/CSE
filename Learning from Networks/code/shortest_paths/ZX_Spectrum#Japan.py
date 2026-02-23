@@ -1,0 +1,1 @@
+[["ZX_Spectrum", "Euro", "Japan"], ["ZX_Spectrum", "Floppy_disk", "Japan"], ["ZX_Spectrum", "Nintendo", "Japan"]]

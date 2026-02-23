@@ -1,0 +1,1 @@
+[["Metamorphic_rock", "Feldspar", "Potassium", "Vegetable"], ["Metamorphic_rock", "Igneous_rock", "Potassium", "Vegetable"], ["Metamorphic_rock", "Magma", "Potassium", "Vegetable"], ["Metamorphic_rock", "Sculpture", "Japan", "Vegetable"]]

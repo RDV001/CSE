@@ -1,0 +1,1 @@
+[["Evolutionarily_stable_strategy", "Charles_Darwin", "Cambridge", "George_V_of_the_United_Kingdom"]]

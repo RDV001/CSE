@@ -1,0 +1,1 @@
+[["Pinworm", "Animal", "Organism", "Glacier_National_Park_%28US%29", "Osprey"], ["Pinworm", "Scientific_classification", "Organism", "Glacier_National_Park_%28US%29", "Osprey"], ["Pinworm", "Scientific_classification", "Evolution", "Glacier_National_Park_%28US%29", "Osprey"]]

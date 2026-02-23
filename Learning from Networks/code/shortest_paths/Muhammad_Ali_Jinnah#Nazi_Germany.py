@@ -1,0 +1,1 @@
+[["Muhammad_Ali_Jinnah", "Mahatma_Gandhi", "Nazi_Germany"], ["Muhammad_Ali_Jinnah", "Poland", "Nazi_Germany"], ["Muhammad_Ali_Jinnah", "World_War_II", "Nazi_Germany"]]

@@ -1,0 +1,1 @@
+[["Karachi", "Hinduism", "Swastika", "Giant_Panda"], ["Karachi", "Indus_Valley_Civilization", "Swastika", "Giant_Panda"]]

@@ -1,0 +1,1 @@
+[["Belarus", "Communism", "Cuba"], ["Belarus", "Condoleezza_Rice", "Cuba"], ["Belarus", "List_of_countries_by_system_of_government", "Cuba"], ["Belarus", "Russia", "Cuba"], ["Belarus", "United_Nations", "Cuba"]]

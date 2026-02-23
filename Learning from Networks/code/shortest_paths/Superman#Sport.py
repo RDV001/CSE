@@ -1,0 +1,1 @@
+[["Superman", "Newspaper", "Sport"], ["Superman", "Scouting", "Sport"], ["Superman", "United_States", "Sport"]]

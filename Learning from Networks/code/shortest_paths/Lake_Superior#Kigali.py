@@ -1,0 +1,1 @@
+[["Lake_Superior", "Lake_Tanganyika", "Africa", "Kigali"], ["Lake_Superior", "Mediterranean_Sea", "Africa", "Kigali"], ["Lake_Superior", "North_America", "Africa", "Kigali"], ["Lake_Superior", "South_America", "Africa", "Kigali"]]

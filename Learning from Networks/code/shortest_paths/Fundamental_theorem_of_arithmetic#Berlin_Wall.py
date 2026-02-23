@@ -1,0 +1,1 @@
+[["Fundamental_theorem_of_arithmetic", "Carl_Friedrich_Gauss", "Berlin", "Berlin_Wall"], ["Fundamental_theorem_of_arithmetic", "Carl_Friedrich_Gauss", "Germany", "Berlin_Wall"], ["Fundamental_theorem_of_arithmetic", "Carl_Friedrich_Gauss", "Revolution", "Berlin_Wall"]]

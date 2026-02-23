@@ -1,0 +1,1 @@
+[["Lyme_disease", "China", "Musical_instrument", "Synthesizer"], ["Lyme_disease", "England", "Drum_and_bass", "Synthesizer"], ["Lyme_disease", "United_States", "Hip_hop_music", "Synthesizer"]]

@@ -1,0 +1,1 @@
+[["Stargate_SG-1", "Archaeology", "Plant", "Sundew", "Drosera_anglica", "Soil_pH"], ["Stargate_SG-1", "Costa_Rica", "Plant", "Sundew", "Drosera_anglica", "Soil_pH"], ["Stargate_SG-1", "South_Africa", "Plant", "Sundew", "Drosera_anglica", "Soil_pH"], ["Stargate_SG-1", "United_Kingdom", "Lake_District", "Sundew", "Drosera_anglica", "Soil_pH"]]

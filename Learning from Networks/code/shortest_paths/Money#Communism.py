@@ -1,0 +1,1 @@
+[["Money", "Art", "Communism"], ["Money", "El_Salvador", "Communism"], ["Money", "Gold", "Communism"]]

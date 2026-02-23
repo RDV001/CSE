@@ -1,0 +1,1 @@
+[["Popular_culture", "Art", "Ancient_Egypt"], ["Popular_culture", "Culture", "Ancient_Egypt"]]

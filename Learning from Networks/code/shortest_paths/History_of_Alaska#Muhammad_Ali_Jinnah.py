@@ -1,0 +1,1 @@
+[["History_of_Alaska", "Japan", "Pakistan", "Muhammad_Ali_Jinnah"], ["History_of_Alaska", "Time_zone", "Pakistan", "Muhammad_Ali_Jinnah"], ["History_of_Alaska", "World_War_II", "Pakistan", "Muhammad_Ali_Jinnah"]]

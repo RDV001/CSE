@@ -1,0 +1,1 @@
+[["Social_anxiety", "Brain", "Biology", "Carbon"], ["Social_anxiety", "Medicine", "Biology", "Carbon"], ["Social_anxiety", "Medicine", "Alcohol", "Carbon"], ["Social_anxiety", "Scotland", "Coal", "Carbon"], ["Social_anxiety", "Wales", "Coal", "Carbon"], ["Social_anxiety", "Wales", "Cambrian", "Carbon"], ["Social_anxiety", "Wales", "Iron", "Carbon"]]

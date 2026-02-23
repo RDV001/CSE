@@ -1,0 +1,1 @@
+[["Muhammad_Iqbal", "Europe", "Syria"], ["Muhammad_Iqbal", "Iran", "Syria"], ["Muhammad_Iqbal", "Islam", "Syria"], ["Muhammad_Iqbal", "Middle_East", "Syria"], ["Muhammad_Iqbal", "Turkey", "Syria"]]

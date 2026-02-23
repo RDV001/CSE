@@ -1,0 +1,1 @@
+[["Lake_Vostok", "Japan", "Vegetable"]]

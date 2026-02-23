@@ -1,0 +1,1 @@
+[["H.D.", "Ancient_Greece", "19th_century"], ["H.D.", "Film", "19th_century"], ["H.D.", "Homer", "19th_century"], ["H.D.", "Paris", "19th_century"], ["H.D.", "Religious_Society_of_Friends", "19th_century"]]

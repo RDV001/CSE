@@ -1,0 +1,1 @@
+[["Jamaica", "British_Empire", "Acts_of_Union_1707"], ["Jamaica", "Elizabeth_II_of_the_United_Kingdom", "Acts_of_Union_1707"], ["Jamaica", "English_language", "Acts_of_Union_1707"], ["Jamaica", "United_Kingdom", "Acts_of_Union_1707"]]

@@ -1,0 +1,1 @@
+[["Global_city", "Corporation", "Andrew_Carnegie"], ["Global_city", "Dallas%2C_Texas", "Andrew_Carnegie"], ["Global_city", "The_Hague", "Andrew_Carnegie"]]

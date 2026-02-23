@@ -1,0 +1,1 @@
+[["Battle_of_Smolensk_%281943%29", "Russia", "Mass_media", "Optical_fiber"]]

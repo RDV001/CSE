@@ -1,0 +1,1 @@
+[["The_Last_Supper_%28Leonardo%29", "Gerald_Ford", "Ronald_Reagan", "Batman"], ["The_Last_Supper_%28Leonardo%29", "The_Simpsons", "Doom", "Batman"], ["The_Last_Supper_%28Leonardo%29", "The_Simpsons", "Scooby-Doo", "Batman"], ["The_Last_Supper_%28Leonardo%29", "Windsor_Castle", "Buckingham_Palace", "Batman"]]

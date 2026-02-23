@@ -1,0 +1,1 @@
+[["Weasel", "Animal", "Bacteria", "Pneumonia", "Ascariasis"], ["Weasel", "Scientific_classification", "Bacteria", "Pneumonia", "Ascariasis"], ["Weasel", "Carolus_Linnaeus", "Stroke", "Pneumonia", "Ascariasis"]]

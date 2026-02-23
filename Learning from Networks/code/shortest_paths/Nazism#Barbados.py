@@ -1,0 +1,1 @@
+[["Nazism", "North_America", "Barbados"], ["Nazism", "United_States", "Barbados"]]

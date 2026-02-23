@@ -1,0 +1,1 @@
+[["Moore%27s_Law", "Election", "Statistics", "Florence_Nightingale"]]

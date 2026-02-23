@@ -1,0 +1,1 @@
+[["Philosophiae_Naturalis_Principia_Mathematica", "Apple", "Argentina", "Angola"], ["Philosophiae_Naturalis_Principia_Mathematica", "Apple", "New_Zealand", "Angola"], ["Philosophiae_Naturalis_Principia_Mathematica", "Latin", "Portugal", "Angola"], ["Philosophiae_Naturalis_Principia_Mathematica", "Latin", "Portuguese_language", "Angola"]]

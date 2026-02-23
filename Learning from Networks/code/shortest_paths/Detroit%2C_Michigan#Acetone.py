@@ -1,0 +1,1 @@
+[["Detroit%2C_Michigan", "Alcohol", "Acetone"]]

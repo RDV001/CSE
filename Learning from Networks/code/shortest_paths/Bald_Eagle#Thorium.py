@@ -1,0 +1,1 @@
+[["Bald_Eagle", "Animal", "Energy", "Thorium"], ["Bald_Eagle", "Earth", "Energy", "Thorium"], ["Bald_Eagle", "Earth", "Calcium", "Thorium"], ["Bald_Eagle", "Earth", "Moon", "Thorium"], ["Bald_Eagle", "United_States", "Moon", "Thorium"], ["Bald_Eagle", "Earth", "Thor", "Thorium"], ["Bald_Eagle", "United_States", "Coal", "Thorium"]]

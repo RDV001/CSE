@@ -1,0 +1,1 @@
+[["Adolf_Hitler", "France", "God"], ["Adolf_Hitler", "Genealogy", "God"], ["Adolf_Hitler", "Roman_Catholic_Church", "God"]]

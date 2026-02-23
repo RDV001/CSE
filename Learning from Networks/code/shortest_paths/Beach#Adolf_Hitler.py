@@ -1,0 +1,1 @@
+[["Beach", "Paris", "Adolf_Hitler"]]

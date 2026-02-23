@@ -1,0 +1,1 @@
+[["Bantu", "Africa", "Ancient_Rome", "House"], ["Bantu", "Sahara", "Ancient_Rome", "House"], ["Bantu", "Africa", "Civilization", "House"]]

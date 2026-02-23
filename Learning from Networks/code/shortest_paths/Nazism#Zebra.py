@@ -1,0 +1,1 @@
+[["Nazism", "Animal_rights", "Horse", "Zebra"], ["Nazism", "Europe", "Mammal", "Zebra"], ["Nazism", "Love", "Mammal", "Zebra"]]

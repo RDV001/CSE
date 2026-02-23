@@ -1,0 +1,1 @@
+[["Printmaking", "Andy_Warhol", "Myocardial_infarction", "Stroke"], ["Printmaking", "Rembrandt", "Brain", "Stroke"], ["Printmaking", "Water", "Ariel_Sharon", "Stroke"]]

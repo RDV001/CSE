@@ -1,0 +1,1 @@
+[["Alzheimer%27s_disease", "Aluminium", "Adolf_Hitler", "Pablo_Picasso"], ["Alzheimer%27s_disease", "Chess", "Art", "Pablo_Picasso"], ["Alzheimer%27s_disease", "Ronald_Reagan", "Ernest_Hemingway", "Pablo_Picasso"], ["Alzheimer%27s_disease", "Ronald_Reagan", "Moscow", "Pablo_Picasso"]]

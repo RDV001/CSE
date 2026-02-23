@@ -1,0 +1,1 @@
+[["Calculus", "Ancient_Greece", "19th_century", "Ulysses_S._Grant"], ["Calculus", "Biology", "19th_century", "Ulysses_S._Grant"], ["Calculus", "Mathematical_analysis", "19th_century", "Ulysses_S._Grant"], ["Calculus", "Physics", "19th_century", "Ulysses_S._Grant"], ["Calculus", "Statistics", "19th_century", "Ulysses_S._Grant"]]

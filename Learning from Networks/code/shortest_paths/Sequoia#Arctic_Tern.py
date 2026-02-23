@@ -1,0 +1,1 @@
+[["Sequoia", "California", "Bird_migration", "Arctic_Tern"], ["Sequoia", "Europe", "Svalbard", "Arctic_Tern"], ["Sequoia", "Insect", "Bird", "Arctic_Tern"], ["Sequoia", "Seed", "Bird", "Arctic_Tern"]]

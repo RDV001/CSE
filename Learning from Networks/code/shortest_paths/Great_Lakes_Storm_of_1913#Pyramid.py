@@ -1,0 +1,1 @@
+[["Great_Lakes_Storm_of_1913", "Chicago", "Ancient_Egypt", "Pyramid"], ["Great_Lakes_Storm_of_1913", "Meteorology", "Number", "Pyramid"]]

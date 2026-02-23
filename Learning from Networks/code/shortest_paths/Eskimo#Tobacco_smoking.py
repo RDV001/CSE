@@ -1,0 +1,1 @@
+[["Eskimo", "Russia", "People%27s_Republic_of_China", "Tobacco_smoking"], ["Eskimo", "University_of_Cambridge", "Science", "Tobacco_smoking"], ["Eskimo", "Whale", "Science", "Tobacco_smoking"]]

@@ -1,0 +1,1 @@
+[["Multiculturalism", "American_Civil_War", "Washington%2C_D.C."], ["Multiculturalism", "September_11%2C_2001_attacks", "Washington%2C_D.C."], ["Multiculturalism", "United_States", "Washington%2C_D.C."]]

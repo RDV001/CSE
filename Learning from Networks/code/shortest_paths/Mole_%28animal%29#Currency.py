@@ -1,0 +1,1 @@
+[["Mole_%28animal%29", "Australia", "Currency"], ["Mole_%28animal%29", "Germany", "Currency"], ["Mole_%28animal%29", "India", "Currency"]]

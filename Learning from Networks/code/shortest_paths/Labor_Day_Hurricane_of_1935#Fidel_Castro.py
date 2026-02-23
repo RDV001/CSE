@@ -1,0 +1,1 @@
+[["Labor_Day_Hurricane_of_1935", "Miami%2C_Florida", "Fidel_Castro"]]

@@ -1,0 +1,1 @@
+[["Literature", "Iran", "Human_rights", "Women%27s_rights"], ["Literature", "Japan", "Japanese_war_crimes", "Women%27s_rights"], ["Literature", "Nationalism", "Fascism", "Women%27s_rights"], ["Literature", "Philosophy", "Animal_rights", "Women%27s_rights"]]

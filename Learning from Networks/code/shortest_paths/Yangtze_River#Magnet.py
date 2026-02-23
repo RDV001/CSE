@@ -1,0 +1,1 @@
+[["Yangtze_River", "Africa", "Diamond", "Magnet"], ["Yangtze_River", "Ecology", "Chemistry", "Magnet"], ["Yangtze_River", "Ecology", "Matter", "Magnet"], ["Yangtze_River", "Electricity", "Matter", "Magnet"], ["Yangtze_River", "Ecology", "Physics", "Magnet"], ["Yangtze_River", "Electricity", "Physics", "Magnet"], ["Yangtze_River", "Electricity", "Magnetism", "Magnet"]]

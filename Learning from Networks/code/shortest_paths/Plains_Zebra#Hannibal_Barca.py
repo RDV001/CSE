@@ -1,0 +1,1 @@
+[["Plains_Zebra", "Mammal", "Elephant", "Hannibal_Barca"]]

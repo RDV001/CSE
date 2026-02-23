@@ -1,0 +1,1 @@
+[["Microsoft_Windows", "Macintosh", "George_W._Bush", "Hurricane_Katrina"]]

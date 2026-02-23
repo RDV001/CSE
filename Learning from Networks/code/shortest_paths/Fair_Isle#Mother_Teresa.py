@@ -1,0 +1,1 @@
+[["Fair_Isle", "Bird_migration", "India", "Kolkata", "Mother_Teresa"], ["Fair_Isle", "Scotland", "Oslo", "Nobel_Peace_Prize", "Mother_Teresa"], ["Fair_Isle", "Scotland", "United_Nations", "Nobel_Peace_Prize", "Mother_Teresa"], ["Fair_Isle", "Scotland", "United_States", "John_F._Kennedy", "Mother_Teresa"]]

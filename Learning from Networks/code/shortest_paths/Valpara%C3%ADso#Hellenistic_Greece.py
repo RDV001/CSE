@@ -1,0 +1,1 @@
+[["Valpara%C3%ADso", "19th_century", "Greek_War_of_Independence", "Hellenistic_Greece"], ["Valpara%C3%ADso", "Football", "Ancient_Greece", "Hellenistic_Greece"], ["Valpara%C3%ADso", "World_Heritage_Site", "Cyprus", "Hellenistic_Greece"]]

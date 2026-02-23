@@ -1,0 +1,1 @@
+[["Peru", "20th_century", "Israel"], ["Peru", "Asia", "Israel"], ["Peru", "Avocado", "Israel"], ["Peru", "List_of_countries_by_system_of_government", "Israel"], ["Peru", "Olympic_Games", "Israel"], ["Peru", "Slavery", "Israel"], ["Peru", "Spanish_language", "Israel"], ["Peru", "Tank", "Israel"], ["Peru", "World_War_II", "Israel"]]

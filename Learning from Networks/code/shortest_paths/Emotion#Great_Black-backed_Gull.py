@@ -1,0 +1,1 @@
+[["Emotion", "Animal", "Bird", "Gull", "Great_Black-backed_Gull"], ["Emotion", "Mammal", "Bird", "Gull", "Great_Black-backed_Gull"], ["Emotion", "Vertebrate", "Bird", "Gull", "Great_Black-backed_Gull"], ["Emotion", "Charles_Darwin", "Gal%C3%A1pagos_Islands", "Gull", "Great_Black-backed_Gull"], ["Emotion", "Human", "Carnivore", "Gull", "Great_Black-backed_Gull"]]

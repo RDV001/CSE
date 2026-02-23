@@ -1,0 +1,1 @@
+[["Tropical_Storm_Harvey_%282005%29", "2005_Atlantic_hurricane_season", "Europe", "Fox", "Island_Fox"], ["Tropical_Storm_Harvey_%282005%29", "Africa", "Europe", "Fox", "Island_Fox"], ["Tropical_Storm_Harvey_%282005%29", "Atlantic_Ocean", "Europe", "Fox", "Island_Fox"], ["Tropical_Storm_Harvey_%282005%29", "Tropical_cyclone", "Europe", "Fox", "Island_Fox"]]

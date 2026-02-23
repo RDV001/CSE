@@ -1,0 +1,1 @@
+[["3rd_century", "11th_century", "Portugal"], ["3rd_century", "12th_century", "Portugal"], ["3rd_century", "15th_century", "Portugal"], ["3rd_century", "16th_century", "Portugal"], ["3rd_century", "17th_century", "Portugal"], ["3rd_century", "Anno_Domini", "Portugal"], ["3rd_century", "India", "Portugal"], ["3rd_century", "Japan", "Portugal"]]

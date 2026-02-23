@@ -1,0 +1,1 @@
+[["Household_income_in_the_United_States", "California", "Film"], ["Household_income_in_the_United_States", "Minnesota", "Film"], ["Household_income_in_the_United_States", "United_States", "Film"]]

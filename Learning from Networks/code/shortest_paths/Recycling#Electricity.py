@@ -1,0 +1,1 @@
+[["Recycling", "Aluminium", "Electricity"], ["Recycling", "Arsenic", "Electricity"], ["Recycling", "Biofuel", "Electricity"], ["Recycling", "Computer", "Electricity"], ["Recycling", "Copper", "Electricity"], ["Recycling", "Energy", "Electricity"], ["Recycling", "Gold", "Electricity"], ["Recycling", "Waste_management", "Electricity"]]

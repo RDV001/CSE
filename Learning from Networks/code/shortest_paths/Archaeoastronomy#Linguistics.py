@@ -1,0 +1,1 @@
+[["Archaeoastronomy", "Anthropology", "Linguistics"], ["Archaeoastronomy", "Archaeology", "Linguistics"], ["Archaeoastronomy", "History", "Linguistics"], ["Archaeoastronomy", "Science", "Linguistics"]]

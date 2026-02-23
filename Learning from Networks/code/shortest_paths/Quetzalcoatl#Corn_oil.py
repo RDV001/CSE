@@ -1,0 +1,1 @@
+[["Quetzalcoatl", "Guatemala", "Banana", "Fatty_acid", "Corn_oil"], ["Quetzalcoatl", "Maize", "Bacteria", "Fatty_acid", "Corn_oil"], ["Quetzalcoatl", "Maize", "Genetics", "Fatty_acid", "Corn_oil"], ["Quetzalcoatl", "Maize", "Pea", "Fatty_acid", "Corn_oil"], ["Quetzalcoatl", "Maize", "Rice", "Fatty_acid", "Corn_oil"], ["Quetzalcoatl", "Mexico", "Wine", "Fatty_acid", "Corn_oil"]]

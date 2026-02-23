@@ -1,0 +1,1 @@
+[["Richard_Stallman", "Franklin_D._Roosevelt", "Liberalism", "Niccol%C3%B2_Machiavelli"], ["Richard_Stallman", "Open_source", "Philosophy", "Niccol%C3%B2_Machiavelli"]]

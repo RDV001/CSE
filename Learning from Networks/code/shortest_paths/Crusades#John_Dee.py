@@ -1,0 +1,1 @@
+[["Crusades", "England", "British_Empire", "John_Dee"], ["Crusades", "France", "British_Empire", "John_Dee"], ["Crusades", "Malta", "British_Empire", "John_Dee"], ["Crusades", "World_War_I", "British_Empire", "John_Dee"], ["Crusades", "England", "Christopher_Wren", "John_Dee"], ["Crusades", "Islam", "Alchemy", "John_Dee"]]

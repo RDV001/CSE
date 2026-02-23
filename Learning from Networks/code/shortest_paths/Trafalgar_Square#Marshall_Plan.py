@@ -1,0 +1,1 @@
+[["Trafalgar_Square", "Germany", "Marshall_Plan"], ["Trafalgar_Square", "Nazi_Germany", "Marshall_Plan"], ["Trafalgar_Square", "Winston_Churchill", "Marshall_Plan"], ["Trafalgar_Square", "World_War_II", "Marshall_Plan"]]

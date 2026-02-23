@@ -1,0 +1,1 @@
+[["Aircraft", "Airbus_A380", "Aluminium", "Recycling"], ["Aircraft", "Hydrogen", "Aluminium", "Recycling"], ["Aircraft", "Helium", "Amarillo%2C_Texas", "Recycling"], ["Aircraft", "Turkey", "European_Union", "Recycling"], ["Aircraft", "United_Kingdom", "European_Union", "Recycling"]]

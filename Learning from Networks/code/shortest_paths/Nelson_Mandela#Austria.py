@@ -1,0 +1,1 @@
+[["Nelson_Mandela", "Jew", "Austria"], ["Nelson_Mandela", "Netherlands", "Austria"], ["Nelson_Mandela", "Queen_%28band%29", "Austria"], ["Nelson_Mandela", "The_Holocaust", "Austria"], ["Nelson_Mandela", "Turkey", "Austria"], ["Nelson_Mandela", "World_War_II", "Austria"]]

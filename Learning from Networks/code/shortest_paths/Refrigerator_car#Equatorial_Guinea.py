@@ -1,0 +1,1 @@
+[["Refrigerator_car", "United_States", "Equatorial_Guinea"]]

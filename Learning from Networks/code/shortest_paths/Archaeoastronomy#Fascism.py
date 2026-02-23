@@ -1,0 +1,1 @@
+[["Archaeoastronomy", "20th_century", "Fascism"]]

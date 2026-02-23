@@ -1,0 +1,1 @@
+[["Anaconda", "Argentina", "Liberalism", "Community"], ["Anaconda", "Argentina", "Poverty", "Community"], ["Anaconda", "Brazil", "Poverty", "Community"], ["Anaconda", "Peru", "Poverty", "Community"]]

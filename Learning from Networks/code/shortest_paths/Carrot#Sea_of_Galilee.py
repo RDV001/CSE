@@ -1,0 +1,1 @@
+[["Carrot", "Celery", "Water", "Sea_of_Galilee"], ["Carrot", "European_Union", "Water", "Sea_of_Galilee"], ["Carrot", "Soup", "Water", "Sea_of_Galilee"], ["Carrot", "Germany", "Israel", "Sea_of_Galilee"]]

@@ -1,0 +1,1 @@
+[["Samarium", "France", "Antarctica", "Emperor_Penguin"]]

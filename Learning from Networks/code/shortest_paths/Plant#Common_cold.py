@@ -1,0 +1,1 @@
+[["Plant", "Flower", "Chicken", "Common_cold"], ["Plant", "Life", "Virus", "Common_cold"], ["Plant", "Lung_cancer", "Virus", "Common_cold"], ["Plant", "Organism", "Virus", "Common_cold"], ["Plant", "Potato", "Vitamin_C", "Common_cold"], ["Plant", "Sugar", "Smallpox", "Common_cold"]]

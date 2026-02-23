@@ -1,0 +1,1 @@
+[["California", "Mexico", "Baseball", "Jackie_Robinson", "Sandy_Koufax"], ["California", "Ronald_Reagan", "Baseball", "Jackie_Robinson", "Sandy_Koufax"], ["California", "San_Jose%2C_California", "Baseball", "Jackie_Robinson", "Sandy_Koufax"], ["California", "United_States", "Baseball", "Jackie_Robinson", "Sandy_Koufax"]]

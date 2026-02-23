@@ -1,0 +1,1 @@
+[["Derby", "18th_century", "President_of_the_United_States", "Chester_A._Arthur"], ["Derby", "Elizabeth_II_of_the_United_Kingdom", "President_of_the_United_States", "Chester_A._Arthur"]]

@@ -1,0 +1,1 @@
+[["Archaeopteryx", "Berlin", "German_language", "Amish"], ["Archaeopteryx", "Germany", "German_language", "Amish"], ["Archaeopteryx", "Munich", "German_language", "Amish"]]

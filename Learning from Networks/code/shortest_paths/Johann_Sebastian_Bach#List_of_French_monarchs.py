@@ -1,0 +1,1 @@
+[["Johann_Sebastian_Bach", "Germany", "Franks", "List_of_French_monarchs"], ["Johann_Sebastian_Bach", "Hungary", "Franks", "List_of_French_monarchs"], ["Johann_Sebastian_Bach", "Rococo", "Louis_XIV_of_France", "List_of_French_monarchs"]]

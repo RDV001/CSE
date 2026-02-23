@@ -1,0 +1,1 @@
+[["Milk", "Africa", "Ishango_bone", "Prime_number", "Perfect_number"], ["Milk", "Asia", "Mathematics", "Prime_number", "Perfect_number"], ["Milk", "China", "Mathematics", "Prime_number", "Perfect_number"], ["Milk", "Scotland", "Mathematics", "Prime_number", "Perfect_number"], ["Milk", "China", "Pi", "Prime_number", "Perfect_number"]]

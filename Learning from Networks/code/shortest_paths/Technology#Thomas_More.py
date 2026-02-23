@@ -1,0 +1,1 @@
+[["Technology", "Gold", "Thomas_More"]]

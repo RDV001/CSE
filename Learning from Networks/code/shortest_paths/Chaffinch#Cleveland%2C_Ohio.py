@@ -1,0 +1,1 @@
+[["Chaffinch", "Asia", "Taipei", "Cleveland%2C_Ohio"], ["Chaffinch", "Europe", "Bratislava", "Cleveland%2C_Ohio"], ["Chaffinch", "Sweden", "Tennis", "Cleveland%2C_Ohio"]]

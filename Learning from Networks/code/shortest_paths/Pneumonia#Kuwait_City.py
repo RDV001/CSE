@@ -1,0 +1,1 @@
+[["Pneumonia", "20th_century", "Asia", "Kuwait_City"], ["Pneumonia", "AIDS", "Asia", "Kuwait_City"], ["Pneumonia", "North_America", "Asia", "Kuwait_City"], ["Pneumonia", "H5N1", "Middle_East", "Kuwait_City"], ["Pneumonia", "United_States", "Middle_East", "Kuwait_City"]]

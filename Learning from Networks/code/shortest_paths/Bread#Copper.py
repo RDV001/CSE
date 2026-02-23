@@ -1,0 +1,1 @@
+[["Bread", "Money", "Copper"], ["Bread", "Nutrition", "Copper"], ["Bread", "Sesame", "Copper"], ["Bread", "Sumer", "Copper"]]

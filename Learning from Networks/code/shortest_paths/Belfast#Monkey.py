@@ -1,0 +1,1 @@
+[["Belfast", "Roman_Catholic_Church", "Leonardo_da_Vinci", "Monkey"], ["Belfast", "United_Kingdom", "Charles_Darwin", "Monkey"], ["Belfast", "United_Kingdom", "Gibraltar", "Monkey"], ["Belfast", "United_States", "Gibraltar", "Monkey"], ["Belfast", "World_War_II", "Gibraltar", "Monkey"], ["Belfast", "United_States", "Nicaragua", "Monkey"]]

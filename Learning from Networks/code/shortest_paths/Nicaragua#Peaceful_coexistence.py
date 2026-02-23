@@ -1,0 +1,1 @@
+[["Nicaragua", "World_War_II", "Winston_Churchill", "Peaceful_coexistence"]]

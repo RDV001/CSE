@@ -1,0 +1,1 @@
+[["Tony_Blair", "Human_rights", "Confucianism", "Qin_Shi_Huang"], ["Tony_Blair", "University", "Confucianism", "Qin_Shi_Huang"], ["Tony_Blair", "Middle_East", "Ancient_history", "Qin_Shi_Huang"], ["Tony_Blair", "September_11%2C_2001_attacks", "Mercury_%28element%29", "Qin_Shi_Huang"], ["Tony_Blair", "Singapore", "Taoism", "Qin_Shi_Huang"]]

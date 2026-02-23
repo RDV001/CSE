@@ -1,0 +1,1 @@
+[["Bald_Eagle", "Atlantic_Ocean", "Republic_of_Ireland"], ["Bald_Eagle", "English_language", "Republic_of_Ireland"], ["Bald_Eagle", "Ireland", "Republic_of_Ireland"], ["Bald_Eagle", "United_States", "Republic_of_Ireland"]]

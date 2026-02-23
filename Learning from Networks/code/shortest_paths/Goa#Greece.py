@@ -1,0 +1,1 @@
+[["Goa", "Architecture", "Greece"], ["Goa", "British_Empire", "Greece"], ["Goa", "Europe", "Greece"], ["Goa", "Law", "Greece"], ["Goa", "Netherlands", "Greece"], ["Goa", "Rail_transport", "Greece"], ["Goa", "University", "Greece"]]

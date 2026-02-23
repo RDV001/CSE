@@ -1,0 +1,1 @@
+[["Manufacturing", "Industry", "Automobile"], ["Manufacturing", "Petroleum", "Automobile"], ["Manufacturing", "Steel", "Automobile"]]

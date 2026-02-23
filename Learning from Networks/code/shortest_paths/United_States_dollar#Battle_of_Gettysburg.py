@@ -1,0 +1,1 @@
+[["United_States_dollar", "Abraham_Lincoln", "Battle_of_Gettysburg"], ["United_States_dollar", "American_Civil_War", "Battle_of_Gettysburg"], ["United_States_dollar", "Richard_Nixon", "Battle_of_Gettysburg"], ["United_States_dollar", "Ulysses_S._Grant", "Battle_of_Gettysburg"], ["United_States_dollar", "United_States", "Battle_of_Gettysburg"]]

@@ -1,0 +1,1 @@
+[["Absolute_zero", "Symmetry", "Swastika", "Giant_Panda"]]

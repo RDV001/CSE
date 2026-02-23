@@ -1,0 +1,1 @@
+[["H.D.", "Egypt", "Indian_Ocean", "Tamil_people"], ["H.D.", "Poetry", "Tamil_language", "Tamil_people"], ["H.D.", "United_States", "Guadeloupe", "Tamil_people"], ["H.D.", "United_States", "Malaysia", "Tamil_people"], ["H.D.", "United_States", "Singapore", "Tamil_people"], ["H.D.", "World_War_II", "Singapore", "Tamil_people"]]

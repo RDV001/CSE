@@ -1,0 +1,1 @@
+[["Canadian_Senate", "United_Kingdom", "Parliamentary_system", "Parliament_of_Malaysia", "United_Malays_National_Organisation"], ["Canadian_Senate", "United_States", "Malaysia", "Parliament_of_Malaysia", "United_Malays_National_Organisation"]]

@@ -1,0 +1,1 @@
+[["Corn_oil", "Maize", "15th_century", "Inca_Empire"], ["Corn_oil", "Maize", "Argentina", "Inca_Empire"], ["Corn_oil", "Soybean", "Argentina", "Inca_Empire"], ["Corn_oil", "Soybean", "Bolivia", "Inca_Empire"]]

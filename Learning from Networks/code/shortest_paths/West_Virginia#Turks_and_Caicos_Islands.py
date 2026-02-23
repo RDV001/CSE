@@ -1,0 +1,1 @@
+[["West_Virginia", "English_language", "Turks_and_Caicos_Islands"], ["West_Virginia", "United_States", "Turks_and_Caicos_Islands"]]

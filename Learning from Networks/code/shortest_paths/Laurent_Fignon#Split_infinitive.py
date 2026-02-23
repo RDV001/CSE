@@ -1,0 +1,1 @@
+[["Laurent_Fignon", "France", "Latin", "Split_infinitive"], ["Laurent_Fignon", "Paris", "Latin", "Split_infinitive"]]

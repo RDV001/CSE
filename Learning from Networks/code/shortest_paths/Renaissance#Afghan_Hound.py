@@ -1,0 +1,1 @@
+[["Renaissance", "Ancient_Greece", "Afghanistan", "Afghan_Hound"], ["Renaissance", "Germany", "Afghanistan", "Afghan_Hound"]]

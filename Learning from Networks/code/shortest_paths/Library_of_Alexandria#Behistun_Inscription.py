@@ -1,0 +1,1 @@
+[["Library_of_Alexandria", "4th_century", "Armenia", "Behistun_Inscription"], ["Library_of_Alexandria", "Mediterranean_Sea", "Armenia", "Behistun_Inscription"], ["Library_of_Alexandria", "Mark_Antony", "Propaganda", "Behistun_Inscription"]]

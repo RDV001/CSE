@@ -1,0 +1,1 @@
+[["Malaria", "Evolution", "Rain", "Cloud"], ["Malaria", "South_America", "Falkland_Islands", "Cloud"], ["Malaria", "Temperate", "Weather", "Cloud"], ["Malaria", "United_States", "Internet", "Cloud"], ["Malaria", "United_States_dollar", "Silver", "Cloud"]]

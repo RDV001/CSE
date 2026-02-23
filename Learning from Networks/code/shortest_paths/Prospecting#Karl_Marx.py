@@ -1,0 +1,1 @@
+[["Prospecting", "Gold", "19th_century", "Karl_Marx"], ["Prospecting", "Gold", "Communism", "Karl_Marx"], ["Prospecting", "Gold", "Thomas_More", "Karl_Marx"], ["Prospecting", "Silver", "World_War_I", "Karl_Marx"]]

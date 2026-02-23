@@ -1,0 +1,1 @@
+[["Algol", "Arabic_language", "Islam", "Mecca"], ["Algol", "Middle_Ages", "Islam", "Mecca"], ["Algol", "Arabic_language", "Qur%27an", "Mecca"], ["Algol", "Arabic_language", "Saudi_Arabia", "Mecca"], ["Algol", "Middle_Ages", "Black_Death", "Mecca"], ["Algol", "Middle_Ages", "Jerusalem", "Mecca"]]

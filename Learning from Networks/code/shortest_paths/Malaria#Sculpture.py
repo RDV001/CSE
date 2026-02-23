@@ -1,0 +1,1 @@
+[["Malaria", "Middle_Ages", "Sculpture"], ["Malaria", "Peru", "Sculpture"]]

@@ -1,0 +1,1 @@
+[["United_Arab_Emirates", "Dubai", "Armenia", "Behistun_Inscription"], ["United_Arab_Emirates", "List_of_countries_by_system_of_government", "Armenia", "Behistun_Inscription"], ["United_Arab_Emirates", "Saudi_Arabia", "Armenia", "Behistun_Inscription"]]

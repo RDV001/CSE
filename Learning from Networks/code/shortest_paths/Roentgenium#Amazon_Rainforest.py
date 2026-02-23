@@ -1,0 +1,1 @@
+[["Roentgenium", "Bismuth", "Peru", "Amazon_Rainforest"], ["Roentgenium", "Gold", "Peru", "Amazon_Rainforest"], ["Roentgenium", "Germany", "Democratic_Republic_of_the_Congo", "Amazon_Rainforest"]]

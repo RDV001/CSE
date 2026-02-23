@@ -1,0 +1,1 @@
+[["Chicago_and_North_Western_Railway", "United_States", "Turkey_%28bird%29", "Helmeted_Guineafowl"]]

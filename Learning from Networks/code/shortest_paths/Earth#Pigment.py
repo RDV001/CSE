@@ -1,0 +1,1 @@
+[["Earth", "Dead_Sea", "Pigment"], ["Earth", "Human", "Pigment"], ["Earth", "Photosynthesis", "Pigment"]]

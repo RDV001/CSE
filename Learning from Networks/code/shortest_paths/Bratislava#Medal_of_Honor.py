@@ -1,0 +1,1 @@
+[["Bratislava", "Germany", "Attack_on_Pearl_Harbor", "Medal_of_Honor"], ["Bratislava", "United_States", "Attack_on_Pearl_Harbor", "Medal_of_Honor"], ["Bratislava", "United_States", "Wake_Island", "Medal_of_Honor"], ["Bratislava", "Woodrow_Wilson", "Theodore_Roosevelt", "Medal_of_Honor"]]

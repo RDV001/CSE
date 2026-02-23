@@ -1,0 +1,1 @@
+[["Pope", "Israel", "Bahrain", "Tupac_Shakur"], ["Pope", "Israel", "Hip_hop_music", "Tupac_Shakur"], ["Pope", "Renaissance", "Niccol%C3%B2_Machiavelli", "Tupac_Shakur"]]

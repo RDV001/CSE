@@ -1,0 +1,1 @@
+[["Agriculture", "Global_warming", "Solar_System", "Phoenix_%28spacecraft%29", "Exploration_of_Mars"], ["Agriculture", "History_of_the_world", "Solar_System", "Phoenix_%28spacecraft%29", "Exploration_of_Mars"]]

@@ -1,0 +1,1 @@
+[["Baker_Island", "Pacific_Ocean", "18th_century", "Freetown"], ["Baker_Island", "Pacific_Ocean", "Africa", "Freetown"], ["Baker_Island", "United_States", "Sierra_Leone", "Freetown"]]

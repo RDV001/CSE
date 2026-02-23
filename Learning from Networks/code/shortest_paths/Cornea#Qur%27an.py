@@ -1,0 +1,1 @@
+[["Cornea", "Human", "Arabic_language", "Qur%27an"], ["Cornea", "Human", "Asia", "Qur%27an"], ["Cornea", "Human", "Islam", "Qur%27an"], ["Cornea", "Human", "Poetry", "Qur%27an"], ["Cornea", "Romania", "Literacy", "Qur%27an"], ["Cornea", "Romania", "Ottoman_Empire", "Qur%27an"], ["Cornea", "Romania", "Persian_Empire", "Qur%27an"]]

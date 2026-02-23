@@ -1,0 +1,1 @@
+[["MINI_%28BMW%29", "Aluminium", "New_Zealand", "Bird_of_prey"], ["MINI_%28BMW%29", "Europe", "Hawk", "Bird_of_prey"], ["MINI_%28BMW%29", "Europe", "Owl", "Bird_of_prey"], ["MINI_%28BMW%29", "United_States", "Bald_Eagle", "Bird_of_prey"], ["MINI_%28BMW%29", "United_States", "Minnesota", "Bird_of_prey"]]

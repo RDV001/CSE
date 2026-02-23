@@ -1,0 +1,1 @@
+[["Australian_English", "English_language", "Israel", "Yom_Kippur_War"], ["Australian_English", "World_War_II", "Israel", "Yom_Kippur_War"], ["Australian_English", "United_States", "Cold_War", "Yom_Kippur_War"], ["Australian_English", "World_War_II", "Cold_War", "Yom_Kippur_War"], ["Australian_English", "World_War_II", "Suez_Canal", "Yom_Kippur_War"]]

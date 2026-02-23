@@ -1,0 +1,1 @@
+[["Thrasybulus", "Athens", "Slovenia", "Crow", "Albinism", "Chromatophore"], ["Thrasybulus", "Democracy", "Africa", "Cheetah", "Albinism", "Chromatophore"]]

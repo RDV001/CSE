@@ -1,0 +1,1 @@
+[["Rhubarb", "Flower", "Chicken", "Common_cold"], ["Rhubarb", "Sorrel", "Soup", "Common_cold"], ["Rhubarb", "Sugar", "Smallpox", "Common_cold"], ["Rhubarb", "Vegetable", "Vitamin_C", "Common_cold"]]

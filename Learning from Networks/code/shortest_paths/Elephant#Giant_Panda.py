@@ -1,0 +1,1 @@
+[["Elephant", "Hinduism", "Swastika", "Giant_Panda"], ["Elephant", "Rudyard_Kipling", "Swastika", "Giant_Panda"]]

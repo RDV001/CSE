@@ -1,0 +1,1 @@
+[["Europium", "Calcium", "Animal", "Spider", "Trapdoor_spider"], ["Europium", "Europe", "Carnivore", "Spider", "Trapdoor_spider"]]

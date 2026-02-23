@@ -1,0 +1,1 @@
+[["Acceleration", "Albert_Einstein", "Africa", "Elephant"], ["Acceleration", "Earth", "Africa", "Elephant"], ["Acceleration", "Earth", "Human", "Elephant"], ["Acceleration", "Earth", "Mammal", "Elephant"], ["Acceleration", "Earth", "Southern_Africa", "Elephant"], ["Acceleration", "Time", "Ferdinand_Magellan", "Elephant"]]

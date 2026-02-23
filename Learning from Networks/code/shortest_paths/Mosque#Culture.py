@@ -1,0 +1,1 @@
+[["Mosque", "Egypt", "Culture"], ["Mosque", "Europe", "Culture"], ["Mosque", "Istanbul", "Culture"], ["Mosque", "London", "Culture"], ["Mosque", "New_York_City", "Culture"], ["Mosque", "Soviet_Union", "Culture"]]

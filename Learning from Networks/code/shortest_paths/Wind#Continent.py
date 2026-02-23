@@ -1,0 +1,1 @@
+[["Wind", "Antarctica", "Continent"], ["Wind", "Greenland", "Continent"]]

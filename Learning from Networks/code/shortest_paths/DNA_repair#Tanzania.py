@@ -1,0 +1,1 @@
+[["DNA_repair", "Bacteria", "Sub-Saharan_Africa", "Tanzania"], ["DNA_repair", "Cancer", "United_States", "Tanzania"], ["DNA_repair", "Evolution", "United_States", "Tanzania"], ["DNA_repair", "DNA", "Nature", "Tanzania"], ["DNA_repair", "Evolution", "Dinosaur", "Tanzania"], ["DNA_repair", "Fossil_record", "Dinosaur", "Tanzania"]]

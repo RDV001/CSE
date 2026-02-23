@@ -1,0 +1,1 @@
+[["Gaza_Strip", "Arabic_language", "Oman"], ["Gaza_Strip", "Israel", "Oman"], ["Gaza_Strip", "List_of_countries_by_system_of_government", "Oman"], ["Gaza_Strip", "Middle_East", "Oman"]]

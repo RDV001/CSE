@@ -1,0 +1,1 @@
+[["Guinea-Bissau", "19th_century", "Belgium"], ["Guinea-Bissau", "AIDS", "Belgium"], ["Guinea-Bissau", "Africa", "Belgium"], ["Guinea-Bissau", "Atlantic_Ocean", "Belgium"], ["Guinea-Bissau", "List_of_countries_by_system_of_government", "Belgium"], ["Guinea-Bissau", "Portuguese_language", "Belgium"]]

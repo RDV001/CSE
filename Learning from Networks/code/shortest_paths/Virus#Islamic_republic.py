@@ -1,0 +1,1 @@
+[["Virus", "Ottoman_Empire", "Muhammad", "Islamic_republic"]]

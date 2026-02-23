@@ -1,0 +1,1 @@
+[["Paraguay", "Argentina", "String_theory", "Electric_charge", "Isospin"]]

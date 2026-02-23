@@ -1,0 +1,1 @@
+[["14th_century", "Dark_Ages", "Romanticism", "Henry_David_Thoreau"], ["14th_century", "Hundred_Years%27_War", "Romanticism", "Henry_David_Thoreau"], ["14th_century", "Europe", "Owl", "Henry_David_Thoreau"], ["14th_century", "Poland", "Human_rights", "Henry_David_Thoreau"], ["14th_century", "Washington%2C_D.C.", "Thomas_Jefferson", "Henry_David_Thoreau"]]

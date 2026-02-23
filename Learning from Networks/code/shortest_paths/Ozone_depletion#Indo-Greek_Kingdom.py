@@ -1,0 +1,1 @@
+[["Ozone_depletion", "New_Zealand", "Buddhism", "Indo-Greek_Kingdom"], ["Ozone_depletion", "Rice", "Hellenistic_Greece", "Indo-Greek_Kingdom"], ["Ozone_depletion", "Rice", "Pakistan", "Indo-Greek_Kingdom"]]

@@ -1,0 +1,1 @@
+[["Perfect_number", "Leonhard_Euler", "Isaac_Newton", "University_of_Cambridge"], ["Perfect_number", "Prime_number", "United_Kingdom", "University_of_Cambridge"]]

@@ -1,0 +1,1 @@
+[["Capitalism", "Ronald_Reagan", "Nintendo_Entertainment_System", "Super_Mario_Bros."]]

@@ -1,0 +1,1 @@
+[["Tofu", "Asia", "Egypt", "Giza_pyramid_complex"], ["Tofu", "Cheese", "Egypt", "Giza_pyramid_complex"], ["Tofu", "Iron", "Egypt", "Giza_pyramid_complex"], ["Tofu", "Australia", "World_Heritage_Site", "Giza_pyramid_complex"], ["Tofu", "United_States", "World_Heritage_Site", "Giza_pyramid_complex"]]

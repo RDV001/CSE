@@ -1,0 +1,1 @@
+[["Swastika", "Canada", "National_Hockey_League"], ["Swastika", "Detroit%2C_Michigan", "National_Hockey_League"], ["Swastika", "Ice_hockey", "National_Hockey_League"], ["Swastika", "Minnesota", "National_Hockey_League"], ["Swastika", "New_York_City", "National_Hockey_League"], ["Swastika", "Toronto", "National_Hockey_League"]]

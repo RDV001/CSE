@@ -1,0 +1,1 @@
+[["Kurt_Cobain", "California", "Oregon", "Linus_Torvalds"], ["Kurt_Cobain", "United_States", "Oregon", "Linus_Torvalds"], ["Kurt_Cobain", "Germany", "Finland", "Linus_Torvalds"], ["Kurt_Cobain", "The_Beatles", "Finland", "Linus_Torvalds"]]

@@ -1,0 +1,1 @@
+[["Africa", "Asia", "Sun"], ["Africa", "Earth", "Sun"], ["Africa", "Gold", "Sun"], ["Africa", "Nile", "Sun"]]

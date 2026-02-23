@@ -1,0 +1,1 @@
+[["Commodore_64", "Computer_and_video_games", "Advertising", "IPod"], ["Commodore_64", "United_States", "Advertising", "IPod"], ["Commodore_64", "Computer_and_video_games", "Doom", "IPod"], ["Commodore_64", "Computer_and_video_games", "Pac-Man", "IPod"], ["Commodore_64", "Sinclair_Research_Ltd", "Macintosh", "IPod"], ["Commodore_64", "Synthesizer", "U2", "IPod"]]

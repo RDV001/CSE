@@ -1,0 +1,1 @@
+[["Lawrencium", "Color", "Fruit", "Barcelona"], ["Lawrencium", "List_of_elements_by_name", "Mercury_%28element%29", "Barcelona"], ["Lawrencium", "Periodic_table", "Mercury_%28element%29", "Barcelona"], ["Lawrencium", "Radon", "European_Union", "Barcelona"], ["Lawrencium", "Russia", "Europe", "Barcelona"], ["Lawrencium", "Russia", "Istanbul", "Barcelona"]]

@@ -1,0 +1,1 @@
+[["Uzbekistan", "Pakistan", "Kargil_War", "Economy_of_India"], ["Uzbekistan", "Time_zone", "Mumbai", "Economy_of_India"]]

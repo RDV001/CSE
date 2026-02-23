@@ -1,0 +1,1 @@
+[["Calligraphy", "Buddhism", "Taiwan"], ["Calligraphy", "China", "Taiwan"], ["Calligraphy", "Chinese_language", "Taiwan"]]

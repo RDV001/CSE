@@ -1,0 +1,1 @@
+[["Hanoi", "Agriculture", "Africa", "Funchal"], ["Hanoi", "France", "Atlantic_Ocean", "Funchal"], ["Hanoi", "Japan", "Portugal", "Funchal"], ["Hanoi", "Ming_Dynasty", "Portugal", "Funchal"], ["Hanoi", "Tourism", "Portugal", "Funchal"]]

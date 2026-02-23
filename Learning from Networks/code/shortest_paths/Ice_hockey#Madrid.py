@@ -1,0 +1,1 @@
+[["Ice_hockey", "New_York_City", "Madrid"]]

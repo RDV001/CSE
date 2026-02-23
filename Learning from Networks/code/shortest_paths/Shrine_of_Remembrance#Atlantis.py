@@ -1,0 +1,1 @@
+[["Shrine_of_Remembrance", "Ancient_Greece", "Minoan_civilization", "Atlantis"], ["Shrine_of_Remembrance", "Greece", "Santorini", "Atlantis"], ["Shrine_of_Remembrance", "Jew", "Nazism", "Atlantis"], ["Shrine_of_Remembrance", "World_War_I", "Nazism", "Atlantis"], ["Shrine_of_Remembrance", "World_War_II", "Nazism", "Atlantis"]]

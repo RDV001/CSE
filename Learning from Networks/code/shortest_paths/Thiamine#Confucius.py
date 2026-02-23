@@ -1,0 +1,1 @@
+[["Thiamine", "Japan", "Confucianism", "Confucius"], ["Thiamine", "Japan", "Taoism", "Confucius"], ["Thiamine", "Oxygen", "Philosophy", "Confucius"], ["Thiamine", "Water", "Philosophy", "Confucius"]]

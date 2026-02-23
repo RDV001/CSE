@@ -1,0 +1,1 @@
+[["Political_science", "Middle_Ages", "Ireland", "North_Sea_oil"]]

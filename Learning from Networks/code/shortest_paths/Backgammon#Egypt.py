@@ -1,0 +1,1 @@
+[["Backgammon", "16th_century", "Egypt"], ["Backgammon", "19th_century", "Egypt"], ["Backgammon", "Ancient_Egypt", "Egypt"], ["Backgammon", "Ancient_Rome", "Egypt"], ["Backgammon", "Arabic_language", "Egypt"], ["Backgammon", "Board_game", "Egypt"], ["Backgammon", "Byzantine_Empire", "Egypt"], ["Backgammon", "Iran", "Egypt"], ["Backgammon", "Mesopotamia", "Egypt"]]

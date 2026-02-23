@@ -1,0 +1,1 @@
+[["Pernicious_anemia", "Vitamin", "19th_century", "14th_century", "Ibn_Battuta"], ["Pernicious_anemia", "Vitamin", "20th_century", "14th_century", "Ibn_Battuta"], ["Pernicious_anemia", "Vitamin", "Rice", "Niger_River", "Ibn_Battuta"]]

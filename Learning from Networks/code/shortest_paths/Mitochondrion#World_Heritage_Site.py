@@ -1,0 +1,1 @@
+[["Mitochondrion", "Ammonia", "United_States", "World_Heritage_Site"], ["Mitochondrion", "Star_Wars", "Ancient_Rome", "World_Heritage_Site"], ["Mitochondrion", "Star_Wars", "Australia", "World_Heritage_Site"]]

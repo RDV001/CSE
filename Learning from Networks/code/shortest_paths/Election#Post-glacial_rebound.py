@@ -1,0 +1,1 @@
+[["Election", "Germany", "Finland", "Post-glacial_rebound"], ["Election", "Russia", "Finland", "Post-glacial_rebound"], ["Election", "Suffrage", "Finland", "Post-glacial_rebound"], ["Election", "Switzerland", "Glacier", "Post-glacial_rebound"]]

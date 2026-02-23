@@ -1,0 +1,1 @@
+[["Acid_rain", "Global_warming", "Drought"], ["Acid_rain", "People%27s_Republic_of_China", "Drought"], ["Acid_rain", "Rain", "Drought"]]

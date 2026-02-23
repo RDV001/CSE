@@ -1,0 +1,1 @@
+[["The_Beano", "United_Kingdom", "GlaxoSmithKline"]]

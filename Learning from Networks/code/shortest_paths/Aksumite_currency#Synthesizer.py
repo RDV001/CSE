@@ -1,0 +1,1 @@
+[["Aksumite_currency", "Africa", "Soukous", "Synthesizer"], ["Aksumite_currency", "Israel", "Hip_hop_music", "Synthesizer"]]

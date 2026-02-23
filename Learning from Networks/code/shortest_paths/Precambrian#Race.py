@@ -1,0 +1,1 @@
+[["Precambrian", "Animal", "Carolus_Linnaeus", "Race"], ["Precambrian", "Animal", "Human", "Race"], ["Precambrian", "Earth", "Human", "Race"], ["Precambrian", "History_of_Earth", "Human", "Race"], ["Precambrian", "Cambrian_explosion", "Charles_Darwin", "Race"], ["Precambrian", "Plate_tectonics", "Scotland", "Race"]]

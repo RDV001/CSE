@@ -1,0 +1,1 @@
+[["Euro", "Japan", "Space_exploration", "Space_Shuttle_Challenger"], ["Euro", "United_States", "Space_Shuttle_Columbia", "Space_Shuttle_Challenger"]]

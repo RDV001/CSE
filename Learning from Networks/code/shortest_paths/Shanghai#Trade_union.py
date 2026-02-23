@@ -1,0 +1,1 @@
+[["Shanghai", "Belgium", "Trade_union"], ["Shanghai", "Ireland", "Trade_union"], ["Shanghai", "Sweden", "Trade_union"]]

@@ -1,0 +1,1 @@
+[["North_Africa", "19th_century", "18th_century"], ["North_Africa", "20th_century", "18th_century"], ["North_Africa", "Europe", "18th_century"], ["North_Africa", "Spain", "18th_century"]]

@@ -1,0 +1,1 @@
+[["5th_century", "20th_century", "Nuclear_weapon"]]

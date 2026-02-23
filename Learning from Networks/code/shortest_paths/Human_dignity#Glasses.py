@@ -1,0 +1,1 @@
+[["Human_dignity", "Immanuel_Kant", "Political_science", "Middle_Ages", "Glasses"]]

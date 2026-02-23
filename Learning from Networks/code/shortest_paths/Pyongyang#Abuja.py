@@ -1,0 +1,1 @@
+[["Pyongyang", "Capital", "Abuja"]]

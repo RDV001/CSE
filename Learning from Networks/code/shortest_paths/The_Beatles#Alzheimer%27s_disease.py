@@ -1,0 +1,1 @@
+[["The_Beatles", "20th_century", "Alzheimer%27s_disease"], ["The_Beatles", "Harold_Wilson", "Alzheimer%27s_disease"]]

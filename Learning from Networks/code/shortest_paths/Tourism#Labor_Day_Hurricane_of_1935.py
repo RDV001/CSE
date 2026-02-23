@@ -1,0 +1,1 @@
+[["Tourism", "21st_century", "Florida", "Labor_Day_Hurricane_of_1935"], ["Tourism", "Cuba", "Florida", "Labor_Day_Hurricane_of_1935"], ["Tourism", "United_States", "Florida", "Labor_Day_Hurricane_of_1935"], ["Tourism", "21st_century", "Hurricane_Andrew", "Labor_Day_Hurricane_of_1935"], ["Tourism", "21st_century", "Hurricane_Ivan", "Labor_Day_Hurricane_of_1935"]]

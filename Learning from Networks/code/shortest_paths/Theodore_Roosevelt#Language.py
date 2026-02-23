@@ -1,0 +1,1 @@
+[["Theodore_Roosevelt", "Brazil", "Language"], ["Theodore_Roosevelt", "Portuguese_language", "Language"]]

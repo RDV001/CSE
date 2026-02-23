@@ -1,0 +1,1 @@
+[["Salvador_Dal%C3%AD", "Painting", "Johann_Wolfgang_Goethe", "Fencing"], ["Salvador_Dal%C3%AD", "United_States", "Olympic_Games", "Fencing"], ["Salvador_Dal%C3%AD", "World_War_II", "Winston_Churchill", "Fencing"]]

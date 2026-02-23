@@ -1,0 +1,1 @@
+[["African_slave_trade", "United_States", "Manifest_Destiny"]]

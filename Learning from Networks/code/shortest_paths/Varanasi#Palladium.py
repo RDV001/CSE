@@ -1,0 +1,1 @@
+[["Varanasi", "Astrology", "Metal", "Palladium"], ["Varanasi", "Ganges_River", "Chromium", "Palladium"], ["Varanasi", "Mark_Twain", "Silver", "Palladium"], ["Varanasi", "Sumer", "Silver", "Palladium"], ["Varanasi", "Sumer", "Gold", "Palladium"]]

@@ -1,0 +1,1 @@
+[["Guinea", "Atlantic_Ocean", "London", "M25_motorway"], ["Guinea", "United_Kingdom", "London", "M25_motorway"], ["Guinea", "Vancouver", "London", "M25_motorway"]]

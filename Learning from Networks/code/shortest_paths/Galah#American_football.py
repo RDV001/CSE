@@ -1,0 +1,1 @@
+[["Galah", "Australia", "United_States", "American_football"], ["Galah", "Melbourne", "United_States", "American_football"], ["Galah", "Binomial_nomenclature", "Sweden", "American_football"], ["Galah", "Bird", "Eagle", "American_football"], ["Galah", "Melbourne", "FIFA_World_Cup", "American_football"]]

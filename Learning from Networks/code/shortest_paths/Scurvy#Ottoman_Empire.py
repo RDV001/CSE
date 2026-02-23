@@ -1,0 +1,1 @@
+[["Scurvy", "19th_century", "Ottoman_Empire"], ["Scurvy", "Crusades", "Ottoman_Empire"], ["Scurvy", "Royal_Navy", "Ottoman_Empire"], ["Scurvy", "World_War_I", "Ottoman_Empire"]]

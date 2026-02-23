@@ -1,0 +1,1 @@
+[["Schr%C3%B6dinger_equation", "Physics", "Superconductivity", "Stargate_SG-1", "The_X-Files"], ["Schr%C3%B6dinger_equation", "Quantum_mechanics", "Superconductivity", "Stargate_SG-1", "The_X-Files"]]

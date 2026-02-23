@@ -1,0 +1,1 @@
+[["Grease_%28film%29", "Elvis_Presley", "New_York_City", "Newark%2C_New_Jersey"], ["Grease_%28film%29", "United_States", "New_York_City", "Newark%2C_New_Jersey"], ["Grease_%28film%29", "United_States", "Amtrak", "Newark%2C_New_Jersey"], ["Grease_%28film%29", "United_States", "U.S._state", "Newark%2C_New_Jersey"]]

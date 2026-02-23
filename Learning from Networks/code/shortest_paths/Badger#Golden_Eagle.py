@@ -1,0 +1,1 @@
+[["Badger", "English_language", "Ireland", "Golden_Eagle"], ["Badger", "Rabies", "Ireland", "Golden_Eagle"], ["Badger", "United_Kingdom", "Ireland", "Golden_Eagle"], ["Badger", "United_Kingdom", "Lake_District", "Golden_Eagle"]]

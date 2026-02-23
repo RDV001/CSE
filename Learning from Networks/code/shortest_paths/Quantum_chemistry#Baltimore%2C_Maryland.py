@@ -1,0 +1,1 @@
+[["Quantum_chemistry", "Linus_Pauling", "United_States", "Baltimore%2C_Maryland"], ["Quantum_chemistry", "Robert_Oppenheimer", "United_States", "Baltimore%2C_Maryland"]]

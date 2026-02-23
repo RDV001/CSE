@@ -1,0 +1,1 @@
+[["NATO", "Ronald_Reagan", "Coin"]]

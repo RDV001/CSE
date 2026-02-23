@@ -1,0 +1,1 @@
+[["Edgar_Allan_Poe", "Germany", "Asia"], ["Edgar_Allan_Poe", "Nintendo", "Asia"], ["Edgar_Allan_Poe", "Russia", "Asia"], ["Edgar_Allan_Poe", "Spanish_language", "Asia"]]

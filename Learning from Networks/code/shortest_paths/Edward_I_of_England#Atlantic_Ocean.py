@@ -1,0 +1,1 @@
+[["Edward_I_of_England", "England", "Atlantic_Ocean"], ["Edward_I_of_England", "France", "Atlantic_Ocean"], ["Edward_I_of_England", "Ireland", "Atlantic_Ocean"], ["Edward_I_of_England", "Scotland", "Atlantic_Ocean"]]

@@ -1,0 +1,1 @@
+[["Boundary_Waters_Canoe_Area_Wilderness", "Minnesota", "Volcano", "Colima_%28volcano%29"], ["Boundary_Waters_Canoe_Area_Wilderness", "United_States", "Volcano", "Colima_%28volcano%29"]]

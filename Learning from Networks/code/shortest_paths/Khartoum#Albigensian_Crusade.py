@@ -1,0 +1,1 @@
+[["Khartoum", "Chad", "Middle_Ages", "Albigensian_Crusade"]]

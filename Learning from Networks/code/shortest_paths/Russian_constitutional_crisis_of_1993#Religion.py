@@ -1,0 +1,1 @@
+[["Russian_constitutional_crisis_of_1993", "Food", "Religion"]]

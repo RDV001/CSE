@@ -1,0 +1,1 @@
+[["Logic", "18th_century", "Australia", "Brisbane"], ["Logic", "Law", "Australia", "Brisbane"], ["Logic", "Mathematics", "Australia", "Brisbane"]]

@@ -1,0 +1,1 @@
+[["Calvin_Coolidge", "World_War_II", "Vietnam"]]

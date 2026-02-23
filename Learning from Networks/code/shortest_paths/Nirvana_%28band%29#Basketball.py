@@ -1,0 +1,1 @@
+[["Nirvana_%28band%29", "Brazil", "Basketball"], ["Nirvana_%28band%29", "Chicago", "Basketball"], ["Nirvana_%28band%29", "Seattle%2C_Washington", "Basketball"], ["Nirvana_%28band%29", "United_States", "Basketball"], ["Nirvana_%28band%29", "Washington%2C_D.C.", "Basketball"]]

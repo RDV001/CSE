@@ -1,0 +1,1 @@
+[["Microsoft", "Bill_Gates"]]

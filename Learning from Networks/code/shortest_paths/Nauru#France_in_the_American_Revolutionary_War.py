@@ -1,0 +1,1 @@
+[["Nauru", "Capital", "American_Revolutionary_War", "France_in_the_American_Revolutionary_War"], ["Nauru", "United_States_dollar", "American_Revolutionary_War", "France_in_the_American_Revolutionary_War"]]

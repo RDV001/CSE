@@ -1,0 +1,1 @@
+[["Multiple_sequence_alignment", "Algorithm", "Gottfried_Leibniz", "Holy_Roman_Empire", "Medieval_music"], ["Multiple_sequence_alignment", "Evolution", "United_States", "Holy_Roman_Empire", "Medieval_music"], ["Multiple_sequence_alignment", "Yeast", "Switzerland", "Holy_Roman_Empire", "Medieval_music"]]

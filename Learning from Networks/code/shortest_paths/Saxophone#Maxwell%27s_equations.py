@@ -1,0 +1,1 @@
+[["Saxophone", "Gold", "Electricity", "Maxwell%27s_equations"], ["Saxophone", "Gold", "Magnetism", "Maxwell%27s_equations"], ["Saxophone", "Nickel", "Magnetism", "Maxwell%27s_equations"], ["Saxophone", "Silver", "Magnetism", "Maxwell%27s_equations"]]

@@ -1,0 +1,1 @@
+[["Acorn_Computers", "Belgium", "Saxophone", "Asthma"], ["Acorn_Computers", "England", "Gustav_Holst", "Asthma"], ["Acorn_Computers", "England", "John_Locke", "Asthma"], ["Acorn_Computers", "Pound_sterling", "John_Locke", "Asthma"], ["Acorn_Computers", "Industry", "Pollution", "Asthma"]]

@@ -1,0 +1,1 @@
+[["Coin", "Australia", "Melbourne"], ["Coin", "Nauru", "Melbourne"]]

@@ -1,0 +1,1 @@
+[["Genoa", "Spain", "Mosque", "Jyllands-Posten_Muhammad_cartoons_controversy"]]

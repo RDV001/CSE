@@ -1,0 +1,1 @@
+[["Jesus", "Jew", "Adolf_Hitler"], ["Jesus", "Martin_Luther", "Adolf_Hitler"], ["Jesus", "The_Holocaust", "Adolf_Hitler"]]

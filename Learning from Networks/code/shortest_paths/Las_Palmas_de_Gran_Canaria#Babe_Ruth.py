@@ -1,0 +1,1 @@
+[["Las_Palmas_de_Gran_Canaria", "Atlantic_Ocean", "Boston%2C_Massachusetts", "Babe_Ruth"]]

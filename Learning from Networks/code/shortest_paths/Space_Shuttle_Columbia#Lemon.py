@@ -1,0 +1,1 @@
+[["Space_Shuttle_Columbia", "California", "Wine", "Lemon"], ["Space_Shuttle_Columbia", "Florida", "Citrus", "Lemon"], ["Space_Shuttle_Columbia", "Florida", "Sugarcane", "Lemon"], ["Space_Shuttle_Columbia", "Israel", "Saudi_Arabia", "Lemon"], ["Space_Shuttle_Columbia", "September_11%2C_2001_attacks", "Saudi_Arabia", "Lemon"]]

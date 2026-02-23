@@ -1,0 +1,1 @@
+[["Jerusalem", "Babylonia", "Earth", "Thor"], ["Jerusalem", "Europe", "Earth", "Thor"], ["Jerusalem", "Europe", "Zeus", "Thor"]]

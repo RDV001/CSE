@@ -1,0 +1,1 @@
+[["Spain", "Africa", "Lesotho"], ["Spain", "List_of_countries_by_system_of_government", "Lesotho"], ["Spain", "Monarchy", "Lesotho"], ["Spain", "Scramble_for_Africa", "Lesotho"]]

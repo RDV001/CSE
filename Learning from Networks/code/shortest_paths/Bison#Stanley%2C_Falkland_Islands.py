@@ -1,0 +1,1 @@
+[["Bison", "Mammal", "South_America", "Stanley%2C_Falkland_Islands"], ["Bison", "North_America", "South_America", "Stanley%2C_Falkland_Islands"], ["Bison", "Water_Buffalo", "South_America", "Stanley%2C_Falkland_Islands"]]

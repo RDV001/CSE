@@ -1,0 +1,1 @@
+[["Libertarianism", "Police", "Firearm", "AK-47"], ["Libertarianism", "United_Nations", "Rwandan_Genocide", "AK-47"]]

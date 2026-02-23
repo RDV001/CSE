@@ -1,0 +1,1 @@
+[["Noam_Chomsky", "Socialism", "Egypt", "Hatshepsut"]]

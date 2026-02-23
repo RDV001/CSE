@@ -1,0 +1,1 @@
+[["Shrine_of_Remembrance", "Greece", "Africa", "Bamako"], ["Shrine_of_Remembrance", "Melbourne", "Africa", "Bamako"], ["Shrine_of_Remembrance", "World_War_I", "Africa", "Bamako"]]

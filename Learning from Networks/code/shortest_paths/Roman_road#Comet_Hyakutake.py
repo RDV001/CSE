@@ -1,0 +1,1 @@
+[["Roman_road", "Atlantic_Ocean", "Earth", "Comet", "Comet_Hyakutake"], ["Roman_road", "United_Kingdom", "Earth", "Comet", "Comet_Hyakutake"], ["Roman_road", "Germany", "Johannes_Kepler", "Comet", "Comet_Hyakutake"], ["Roman_road", "United_Kingdom", "Charles_II_of_England", "Comet", "Comet_Hyakutake"]]

@@ -1,0 +1,1 @@
+[["Halfbeak", "Animal", "Aristotle", "Socrates"], ["Halfbeak", "Scientific_classification", "Aristotle", "Socrates"], ["Halfbeak", "Asia", "Confucianism", "Socrates"], ["Halfbeak", "Asia", "Greece", "Socrates"], ["Halfbeak", "Indian_Ocean", "Greece", "Socrates"]]

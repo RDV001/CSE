@@ -1,0 +1,1 @@
+[["Africa", "Agriculture", "Potato"], ["Africa", "Cocoa", "Potato"], ["Africa", "Portuguese_language", "Potato"], ["Africa", "United_States", "Potato"]]

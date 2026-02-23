@@ -1,0 +1,1 @@
+[["Great_Comet_of_1882", "Cape_Town", "Winter", "Mosaic"], ["Great_Comet_of_1882", "South_Africa", "Vegetation", "Mosaic"]]

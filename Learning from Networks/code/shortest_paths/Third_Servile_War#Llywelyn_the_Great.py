@@ -1,0 +1,1 @@
+[["Third_Servile_War", "Ancient_Rome", "Law", "John_of_England", "Llywelyn_the_Great"], ["Third_Servile_War", "Ancient_Rome", "Oligarchy", "John_of_England", "Llywelyn_the_Great"], ["Third_Servile_War", "Mount_Vesuvius", "13th_century", "John_of_England", "Llywelyn_the_Great"]]

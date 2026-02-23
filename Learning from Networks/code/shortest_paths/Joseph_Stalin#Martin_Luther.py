@@ -1,0 +1,1 @@
+[["Joseph_Stalin", "Germany", "Martin_Luther"]]

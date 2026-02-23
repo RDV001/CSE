@@ -1,0 +1,1 @@
+[["Pony", "Horse", "Agriculture", "Arable_land"], ["Pony", "Horse", "Mongolia", "Arable_land"], ["Pony", "Ireland", "Northern_Ireland", "Arable_land"], ["Pony", "Ireland", "Wales", "Arable_land"]]

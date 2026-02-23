@@ -1,0 +1,1 @@
+[["Guatemala", "12th_century", "19th_century"], ["Guatemala", "Belize", "19th_century"], ["Guatemala", "Cochineal", "19th_century"], ["Guatemala", "Currency", "19th_century"], ["Guatemala", "Maya_civilization", "19th_century"], ["Guatemala", "Mestizo", "19th_century"], ["Guatemala", "Pacific_Ocean", "19th_century"]]

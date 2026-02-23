@@ -1,0 +1,1 @@
+[["Whale", "United_States", "Communism"]]

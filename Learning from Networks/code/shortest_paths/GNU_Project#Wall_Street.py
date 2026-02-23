@@ -1,0 +1,1 @@
+[["GNU_Project", "Richard_Stallman", "Franklin_D._Roosevelt", "Wall_Street"]]

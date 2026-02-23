@@ -1,0 +1,1 @@
+[["Hurricane_Georges", "United_States", "Buddhism"]]

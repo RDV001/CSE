@@ -1,0 +1,1 @@
+[["Ben_Nevis", "Edinburgh", "Mammal", "Bat", "Vampire_bat"], ["Ben_Nevis", "Edinburgh", "New_Zealand", "Bat", "Vampire_bat"], ["Ben_Nevis", "World_War_II", "New_Zealand", "Bat", "Vampire_bat"], ["Ben_Nevis", "Great_Britain", "Isle_of_Wight", "Bat", "Vampire_bat"]]

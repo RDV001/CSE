@@ -1,0 +1,1 @@
+[["Germany", "Adolf_Hitler"]]

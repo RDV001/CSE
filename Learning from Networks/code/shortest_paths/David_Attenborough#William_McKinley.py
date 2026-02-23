@@ -1,0 +1,1 @@
+[["David_Attenborough", "Elizabeth_II_of_the_United_Kingdom", "President_of_the_United_States", "William_McKinley"], ["David_Attenborough", "George_W._Bush", "President_of_the_United_States", "William_McKinley"], ["David_Attenborough", "George_W._Bush", "Benjamin_Harrison", "William_McKinley"], ["David_Attenborough", "George_W._Bush", "Bill_Clinton", "William_McKinley"]]

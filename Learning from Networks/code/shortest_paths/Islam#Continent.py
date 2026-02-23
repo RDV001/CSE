@@ -1,0 +1,1 @@
+[["Islam", "East_Africa", "Continent"], ["Islam", "Istanbul", "Continent"], ["Islam", "North_Africa", "Continent"]]

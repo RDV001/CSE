@@ -1,0 +1,1 @@
+[["Crustacean", "Animal", "Human", "Leonardo_da_Vinci"], ["Crustacean", "Insect", "Human", "Leonardo_da_Vinci"], ["Crustacean", "Scientific_classification", "Human", "Leonardo_da_Vinci"], ["Crustacean", "Thorax", "Human", "Leonardo_da_Vinci"], ["Crustacean", "Insect", "Nutrition", "Leonardo_da_Vinci"]]

@@ -1,0 +1,1 @@
+[["Barn_Owl", "Antarctica", "United_States", "Supreme_Court_of_the_United_States", "John_Marshall"], ["Barn_Owl", "Australia", "United_States", "Supreme_Court_of_the_United_States", "John_Marshall"], ["Barn_Owl", "Bird", "19th_century", "Andrew_Jackson", "John_Marshall"], ["Barn_Owl", "Europe", "Democracy", "John_Adams", "John_Marshall"]]

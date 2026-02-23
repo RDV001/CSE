@@ -1,0 +1,1 @@
+[["Manuel_I_Komnenos", "Greece", "Tourism", "Snowdonia"], ["Manuel_I_Komnenos", "Spain", "Tourism", "Snowdonia"], ["Manuel_I_Komnenos", "Henry_II_of_England", "Wales", "Snowdonia"]]

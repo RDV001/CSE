@@ -1,0 +1,1 @@
+[["Nationalism", "Anarchism", "Terrorism"], ["Nationalism", "China", "Terrorism"], ["Nationalism", "Globalization", "Terrorism"], ["Nationalism", "United_Nations", "Terrorism"], ["Nationalism", "United_States", "Terrorism"], ["Nationalism", "Western_Sahara", "Terrorism"], ["Nationalism", "Zionism", "Terrorism"]]

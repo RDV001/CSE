@@ -1,0 +1,1 @@
+[["Tank", "Blitzkrieg", "London", "Hampstead_Heath"], ["Tank", "Bridge", "London", "Hampstead_Heath"], ["Tank", "English_Channel", "London", "Hampstead_Heath"], ["Tank", "Winston_Churchill", "London", "Hampstead_Heath"]]

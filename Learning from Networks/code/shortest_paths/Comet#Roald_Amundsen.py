@@ -1,0 +1,1 @@
+[["Comet", "Earth", "Antarctica", "Roald_Amundsen"], ["Comet", "Edmond_Halley", "Antarctica", "Roald_Amundsen"], ["Comet", "France", "Antarctica", "Roald_Amundsen"], ["Comet", "Mercury_%28planet%29", "Antarctica", "Roald_Amundsen"], ["Comet", "Wind", "Antarctica", "Roald_Amundsen"]]

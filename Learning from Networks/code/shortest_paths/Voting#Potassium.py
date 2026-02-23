@@ -1,0 +1,1 @@
+[["Voting", "Argentina", "Banana", "Potassium"], ["Voting", "Argentina", "Milk", "Potassium"], ["Voting", "Argentina", "Sulfur", "Potassium"], ["Voting", "Argentina", "Uranium", "Potassium"]]

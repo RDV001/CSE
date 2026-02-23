@@ -1,0 +1,1 @@
+[["Flag_of_Mexico", "Mexico_City", "United_States_dollar"]]

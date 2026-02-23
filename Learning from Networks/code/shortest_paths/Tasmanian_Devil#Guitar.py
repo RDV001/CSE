@@ -1,0 +1,1 @@
+[["Tasmanian_Devil", "Dog", "Peru", "Guitar"], ["Tasmanian_Devil", "Mammal", "South_America", "Guitar"]]

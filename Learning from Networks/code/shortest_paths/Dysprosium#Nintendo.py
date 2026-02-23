@@ -1,0 +1,1 @@
+[["Dysprosium", "Chemical_element", "Alchemy", "Nintendo"], ["Dysprosium", "Nitrogen", "Alchemy", "Nintendo"], ["Dysprosium", "France", "Japan", "Nintendo"], ["Dysprosium", "Greece", "Japan", "Nintendo"], ["Dysprosium", "Paris", "Japan", "Nintendo"]]

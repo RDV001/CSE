@@ -1,0 +1,1 @@
+[["Bahrain", "Currency", "Gold"], ["Bahrain", "Mesopotamia", "Gold"]]

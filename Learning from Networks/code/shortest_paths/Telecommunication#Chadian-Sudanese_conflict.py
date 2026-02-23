@@ -1,0 +1,1 @@
+[["Telecommunication", "Africa", "African_Union", "Chadian-Sudanese_conflict"], ["Telecommunication", "Niger", "African_Union", "Chadian-Sudanese_conflict"]]

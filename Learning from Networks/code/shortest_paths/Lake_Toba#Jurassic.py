@@ -1,0 +1,1 @@
+[["Lake_Toba", "India", "Mammal", "Jurassic"], ["Lake_Toba", "Netherlands", "Rhine", "Jurassic"], ["Lake_Toba", "Oceanography", "Global_warming", "Jurassic"], ["Lake_Toba", "Volcano", "Coal", "Jurassic"], ["Lake_Toba", "Volcano", "Continental_crust", "Jurassic"], ["Lake_Toba", "Volcano", "Mediterranean_Sea", "Jurassic"]]

@@ -1,0 +1,1 @@
+[["Snowdonia", "Agriculture", "Milk", "Cheese"], ["Snowdonia", "England", "Netherlands", "Cheese"], ["Snowdonia", "English_language", "Netherlands", "Cheese"], ["Snowdonia", "English_language", "Isle_of_Man", "Cheese"]]

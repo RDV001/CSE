@@ -1,0 +1,1 @@
+[["African_Penguin", "Africa", "Diamond", "Semiconductor"], ["African_Penguin", "Cape_Town", "Diamond", "Semiconductor"], ["African_Penguin", "Namibia", "Diamond", "Semiconductor"], ["African_Penguin", "South_Africa", "Diamond", "Semiconductor"], ["African_Penguin", "Pacific_Ocean", "People%27s_Republic_of_China", "Semiconductor"]]

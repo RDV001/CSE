@@ -1,0 +1,1 @@
+[["Accountancy", "Civilization", "Bronze_Age"], ["Accountancy", "Mesopotamia", "Bronze_Age"]]

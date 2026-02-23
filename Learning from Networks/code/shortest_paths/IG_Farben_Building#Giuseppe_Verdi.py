@@ -1,0 +1,1 @@
+[["IG_Farben_Building", "Detroit%2C_Michigan", "19th_century", "Giuseppe_Verdi"], ["IG_Farben_Building", "Nazism", "Opera", "Giuseppe_Verdi"]]

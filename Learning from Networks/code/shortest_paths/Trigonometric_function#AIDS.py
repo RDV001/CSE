@@ -1,0 +1,1 @@
+[["Trigonometric_function", "British_English", "South_Africa", "AIDS"], ["Trigonometric_function", "India", "France", "AIDS"], ["Trigonometric_function", "Ptolemy", "France", "AIDS"], ["Trigonometric_function", "India", "People%27s_Republic_of_China", "AIDS"], ["Trigonometric_function", "Mathematical_analysis", "20th_century", "AIDS"]]

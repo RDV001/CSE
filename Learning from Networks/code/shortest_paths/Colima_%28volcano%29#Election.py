@@ -1,0 +1,1 @@
+[["Colima_%28volcano%29", "Mexico", "Liberalism", "Election"], ["Colima_%28volcano%29", "Pacific_Ocean", "Vanuatu", "Election"], ["Colima_%28volcano%29", "Pacific_Ocean", "World_War_II", "Election"]]

@@ -1,0 +1,1 @@
+[["Osama_bin_Laden", "Africa", "Earth"], ["Osama_bin_Laden", "Europe", "Earth"]]

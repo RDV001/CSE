@@ -1,0 +1,1 @@
+[["Munich", "Architecture", "Greece"], ["Munich", "Berlin", "Greece"], ["Munich", "Germany", "Greece"], ["Munich", "Israel", "Greece"], ["Munich", "Italy", "Greece"], ["Munich", "List_of_countries", "Greece"], ["Munich", "United_States", "Greece"], ["Munich", "World_War_I", "Greece"]]

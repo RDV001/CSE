@@ -1,0 +1,1 @@
+[["Jackal", "Africa", "United_States", "Attack_on_Pearl_Harbor"], ["Jackal", "God", "United_States", "Attack_on_Pearl_Harbor"], ["Jackal", "Africa", "World_War_II", "Attack_on_Pearl_Harbor"], ["Jackal", "Asia", "World_War_II", "Attack_on_Pearl_Harbor"], ["Jackal", "Namibia", "World_War_II", "Attack_on_Pearl_Harbor"], ["Jackal", "Asia", "Japan", "Attack_on_Pearl_Harbor"]]

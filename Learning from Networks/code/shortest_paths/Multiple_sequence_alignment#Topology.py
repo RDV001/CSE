@@ -1,0 +1,1 @@
+[["Multiple_sequence_alignment", "Algorithm", "Algebra", "Topology"], ["Multiple_sequence_alignment", "Algorithm", "Gottfried_Leibniz", "Topology"], ["Multiple_sequence_alignment", "Algorithm", "Mathematics", "Topology"], ["Multiple_sequence_alignment", "Evolution", "Science", "Topology"]]

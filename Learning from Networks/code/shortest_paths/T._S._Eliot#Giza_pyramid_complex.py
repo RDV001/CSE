@@ -1,0 +1,1 @@
+[["T._S._Eliot", "United_Kingdom", "World_Heritage_Site", "Giza_pyramid_complex"], ["T._S._Eliot", "United_States", "World_Heritage_Site", "Giza_pyramid_complex"], ["T._S._Eliot", "World_War_II", "Egypt", "Giza_pyramid_complex"]]

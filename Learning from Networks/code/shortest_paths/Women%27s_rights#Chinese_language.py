@@ -1,0 +1,1 @@
+[["Women%27s_rights", "Canada", "Chinese_language"], ["Women%27s_rights", "United_States", "Chinese_language"]]

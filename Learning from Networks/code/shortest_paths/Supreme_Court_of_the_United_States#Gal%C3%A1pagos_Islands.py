@@ -1,0 +1,1 @@
+[["Supreme_Court_of_the_United_States", "United_States", "Ecuador", "Gal%C3%A1pagos_Islands"]]

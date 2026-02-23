@@ -1,0 +1,1 @@
+[["Spanish_Armada", "Portugal", "Coffee", "Diabetes_mellitus"]]

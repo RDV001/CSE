@@ -1,0 +1,1 @@
+[["Byzantine_Empire", "Africa", "Lesotho"], ["Byzantine_Empire", "Ethiopia", "Lesotho"], ["Byzantine_Empire", "List_of_countries_by_system_of_government", "Lesotho"], ["Byzantine_Empire", "Monarchy", "Lesotho"]]

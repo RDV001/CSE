@@ -1,0 +1,1 @@
+[["Microsoft", "Corporation", "Canada", "John_Cabot"], ["Microsoft", "Employment", "Canada", "John_Cabot"], ["Microsoft", "United_States", "Canada", "John_Cabot"], ["Microsoft", "Industry", "North_America", "John_Cabot"], ["Microsoft", "United_States", "North_America", "John_Cabot"]]

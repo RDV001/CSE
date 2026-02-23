@@ -1,0 +1,1 @@
+[["Franklin_D._Roosevelt", "Theodore_Roosevelt", "Insect"]]

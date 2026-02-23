@@ -1,0 +1,1 @@
+[["Quartz", "Earth", "Africa", "S%C3%A3o_Tom%C3%A9"]]

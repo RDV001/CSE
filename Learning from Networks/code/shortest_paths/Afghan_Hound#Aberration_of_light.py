@@ -1,0 +1,1 @@
+[["Afghan_Hound", "20th_century", "17th_century", "Speed_of_light", "Aberration_of_light"], ["Afghan_Hound", "20th_century", "Physics", "Speed_of_light", "Aberration_of_light"], ["Afghan_Hound", "Cancer", "Sun", "Speed_of_light", "Aberration_of_light"]]

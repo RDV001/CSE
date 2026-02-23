@@ -1,0 +1,1 @@
+[["Capital", "European_Union", "Faroe_Islands", "Nineteen_Eighty-Four"], ["Capital", "Germany", "Faroe_Islands", "Nineteen_Eighty-Four"], ["Capital", "Netherlands", "Faroe_Islands", "Nineteen_Eighty-Four"], ["Capital", "Government", "Police_state", "Nineteen_Eighty-Four"], ["Capital", "Saint_Petersburg", "Propaganda", "Nineteen_Eighty-Four"]]

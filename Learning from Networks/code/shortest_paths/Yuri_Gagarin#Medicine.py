@@ -1,0 +1,1 @@
+[["Yuri_Gagarin", "Germany", "Medicine"]]

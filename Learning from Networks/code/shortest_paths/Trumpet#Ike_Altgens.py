@@ -1,0 +1,1 @@
+[["Trumpet", "Louis_Armstrong", "President_of_the_United_States", "John_F._Kennedy_assassination", "Ike_Altgens"]]

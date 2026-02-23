@@ -1,0 +1,1 @@
+[["Protactinium", "Democratic_Republic_of_the_Congo", "Brazil", "Bras%C3%ADlia"], ["Protactinium", "Democratic_Republic_of_the_Congo", "South_America", "Bras%C3%ADlia"], ["Protactinium", "Germany", "Capital", "Bras%C3%ADlia"]]

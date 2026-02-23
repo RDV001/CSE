@@ -1,0 +1,1 @@
+[["Berlin_Wall", "Lyndon_B._Johnson"]]

@@ -1,0 +1,1 @@
+[["Aarhus", "Europe", "Carnivore", "Gull", "Herring_Gull"], ["Aarhus", "Europe", "Svalbard", "Arctic_Tern", "Herring_Gull"], ["Aarhus", "Norway", "Svalbard", "Arctic_Tern", "Herring_Gull"]]

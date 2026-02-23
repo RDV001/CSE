@@ -1,0 +1,1 @@
+[["Bratislava", "Poland", "Pope_John_Paul_II"]]

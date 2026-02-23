@@ -1,0 +1,1 @@
+[["Code_of_Hammurabi", "Agriculture", "Fruit", "Morphine"], ["Code_of_Hammurabi", "Agriculture", "Nitrogen", "Morphine"], ["Code_of_Hammurabi", "God", "Sigmund_Freud", "Morphine"], ["Code_of_Hammurabi", "Iran", "Afghanistan", "Morphine"]]

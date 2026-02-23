@@ -1,0 +1,1 @@
+[["Montreal_Metro", "Canada", "United_States", "Elvis_Presley"], ["Montreal_Metro", "Capitalism", "United_States", "Elvis_Presley"], ["Montreal_Metro", "Montreal", "United_States", "Elvis_Presley"], ["Montreal_Metro", "Paris", "United_States", "Elvis_Presley"], ["Montreal_Metro", "Paris", "Mona_Lisa", "Elvis_Presley"]]

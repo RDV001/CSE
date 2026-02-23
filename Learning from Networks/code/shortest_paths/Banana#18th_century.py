@@ -1,0 +1,1 @@
+[["Banana", "15th_century", "18th_century"], ["Banana", "16th_century", "18th_century"], ["Banana", "20th_century", "18th_century"], ["Banana", "Rice", "18th_century"], ["Banana", "Spanish_language", "18th_century"]]

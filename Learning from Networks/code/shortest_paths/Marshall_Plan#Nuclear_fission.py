@@ -1,0 +1,1 @@
+[["Marshall_Plan", "Sweden", "Nuclear_fission"]]

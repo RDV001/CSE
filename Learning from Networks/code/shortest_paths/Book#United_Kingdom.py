@@ -1,0 +1,1 @@
+[["Book", "Andrew_Carnegie", "United_Kingdom"], ["Book", "China", "United_Kingdom"], ["Book", "Egypt", "United_Kingdom"], ["Book", "Library_of_Congress", "United_Kingdom"], ["Book", "Newspaper", "United_Kingdom"]]

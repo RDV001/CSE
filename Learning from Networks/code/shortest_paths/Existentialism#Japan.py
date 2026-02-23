@@ -1,0 +1,1 @@
+[["Existentialism", "20th_century", "Japan"], ["Existentialism", "Gautama_Buddha", "Japan"], ["Existentialism", "Germany", "Japan"], ["Existentialism", "Jack_Kerouac", "Japan"], ["Existentialism", "Paris", "Japan"], ["Existentialism", "Philosophy", "Japan"], ["Existentialism", "World_War_II", "Japan"]]

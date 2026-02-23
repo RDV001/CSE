@@ -1,0 +1,1 @@
+[["Lake_Tanganyika", "Africa", "United_States", "Rhode_Island"], ["Lake_Tanganyika", "Tanzania", "United_States", "Rhode_Island"], ["Lake_Tanganyika", "Burundi", "United_States_dollar", "Rhode_Island"], ["Lake_Tanganyika", "Lake_Baikal", "Great_Lakes", "Rhode_Island"]]

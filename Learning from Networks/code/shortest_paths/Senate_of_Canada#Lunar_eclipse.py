@@ -1,0 +1,1 @@
+[["Senate_of_Canada", "Roman_Catholic_Church", "Jesus", "Lunar_eclipse"], ["Senate_of_Canada", "United_Kingdom", "Earth", "Lunar_eclipse"], ["Senate_of_Canada", "United_States", "Christopher_Columbus", "Lunar_eclipse"], ["Senate_of_Canada", "United_States", "Moon", "Lunar_eclipse"]]

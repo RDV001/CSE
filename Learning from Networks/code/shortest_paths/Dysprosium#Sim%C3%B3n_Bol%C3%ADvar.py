@@ -1,0 +1,1 @@
+[["Dysprosium", "France", "South_America", "Sim%C3%B3n_Bol%C3%ADvar"], ["Dysprosium", "Greece", "Peru", "Sim%C3%B3n_Bol%C3%ADvar"]]

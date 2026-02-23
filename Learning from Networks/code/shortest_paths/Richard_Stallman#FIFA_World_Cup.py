@@ -1,0 +1,1 @@
+[["Richard_Stallman", "Sweden", "FIFA_World_Cup"]]

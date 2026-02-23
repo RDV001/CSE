@@ -1,0 +1,1 @@
+[["Diabetes_mellitus", "Middle_Ages", "Technology", "Screw"]]

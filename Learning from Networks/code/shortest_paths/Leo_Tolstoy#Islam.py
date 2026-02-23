@@ -1,0 +1,1 @@
+[["Leo_Tolstoy", "Canada", "Islam"], ["Leo_Tolstoy", "Christianity", "Islam"], ["Leo_Tolstoy", "Mahatma_Gandhi", "Islam"], ["Leo_Tolstoy", "Napoleon_I_of_France", "Islam"], ["Leo_Tolstoy", "Philosophy", "Islam"], ["Leo_Tolstoy", "Russia", "Islam"]]

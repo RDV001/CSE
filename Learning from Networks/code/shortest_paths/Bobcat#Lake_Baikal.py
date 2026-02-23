@@ -1,0 +1,1 @@
+[["Bobcat", "Canada", "Russia", "Lake_Baikal"], ["Bobcat", "Mexico", "Russia", "Lake_Baikal"], ["Bobcat", "United_States", "Russia", "Lake_Baikal"], ["Bobcat", "Minnesota", "Lake_Superior", "Lake_Baikal"]]

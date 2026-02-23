@@ -1,0 +1,1 @@
+[["Infrastructure", "City", "Rain", "Fungus"], ["Infrastructure", "France", "AIDS", "Fungus"], ["Infrastructure", "Transport", "Carbon_dioxide", "Fungus"], ["Infrastructure", "Waste_management", "Carbon_dioxide", "Fungus"]]

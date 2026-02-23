@@ -1,0 +1,1 @@
+[["Sputnik_2", "Australia", "Desert", "Sunflower"], ["Sputnik_2", "Earth", "Desert", "Sunflower"], ["Sputnik_2", "Dog", "Seed", "Sunflower"], ["Sputnik_2", "Earth", "Plant", "Sunflower"]]

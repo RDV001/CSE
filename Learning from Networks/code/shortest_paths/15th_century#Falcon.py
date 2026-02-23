@@ -1,0 +1,1 @@
+[["15th_century", "Europe", "Carnivore", "Falcon"], ["15th_century", "Europe", "Hawk", "Falcon"], ["15th_century", "Europe", "Owl", "Falcon"], ["15th_century", "Leonardo_da_Vinci", "Bird", "Falcon"]]

@@ -1,0 +1,1 @@
+[["Glaciology", "Anthropology", "Economics", "Gold_standard"], ["Glaciology", "Anthropology", "Globalization", "Gold_standard"], ["Glaciology", "Greenland", "Currency", "Gold_standard"]]

@@ -1,0 +1,1 @@
+[["J._K._Rowling", "United_States_dollar", "Palau"]]

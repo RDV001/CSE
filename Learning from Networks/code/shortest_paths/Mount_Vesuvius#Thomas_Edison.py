@@ -1,0 +1,1 @@
+[["Mount_Vesuvius", "18th_century", "James_Watt", "Thomas_Edison"], ["Mount_Vesuvius", "19th_century", "Nikola_Tesla", "Thomas_Edison"], ["Mount_Vesuvius", "19th_century", "Telephone", "Thomas_Edison"], ["Mount_Vesuvius", "Train", "Electricity", "Thomas_Edison"]]

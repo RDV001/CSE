@@ -1,0 +1,1 @@
+[["Pope_Pius_XII", "George_V_of_the_United_Kingdom", "Pneumonia", "Ascariasis"], ["Pope_Pius_XII", "Victoria_of_the_United_Kingdom", "Pneumonia", "Ascariasis"], ["Pope_Pius_XII", "World_War_I", "Pneumonia", "Ascariasis"]]

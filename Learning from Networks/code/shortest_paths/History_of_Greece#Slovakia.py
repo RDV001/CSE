@@ -1,0 +1,1 @@
+[["History_of_Greece", "Bulgaria", "Slovakia"], ["History_of_Greece", "Euro", "Slovakia"], ["History_of_Greece", "Europe", "Slovakia"], ["History_of_Greece", "European_Union", "Slovakia"], ["History_of_Greece", "Germany", "Slovakia"], ["History_of_Greece", "Greece", "Slovakia"], ["History_of_Greece", "Ottoman_Empire", "Slovakia"], ["History_of_Greece", "Turkey", "Slovakia"]]

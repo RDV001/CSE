@@ -1,0 +1,1 @@
+[["Tamil_people", "Religion", "Gravitation"], ["Tamil_people", "United_Kingdom", "Gravitation"]]

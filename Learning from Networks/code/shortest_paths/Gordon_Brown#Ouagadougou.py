@@ -1,0 +1,1 @@
+[["Gordon_Brown", "Communism", "Africa", "Ouagadougou"], ["Gordon_Brown", "United_Nations", "Africa", "Ouagadougou"]]

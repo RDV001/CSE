@@ -1,0 +1,1 @@
+[["Water_Buffalo", "Cheese", "German_language"], ["Water_Buffalo", "Italy", "German_language"], ["Water_Buffalo", "Middle_Ages", "German_language"], ["Water_Buffalo", "Middle_East", "German_language"], ["Water_Buffalo", "South_America", "German_language"]]

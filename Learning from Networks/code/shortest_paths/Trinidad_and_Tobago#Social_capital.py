@@ -1,0 +1,1 @@
+[["Trinidad_and_Tobago", "Liberal_democracy", "Civil_society", "Social_capital"], ["Trinidad_and_Tobago", "Trade_union", "Guild", "Social_capital"]]

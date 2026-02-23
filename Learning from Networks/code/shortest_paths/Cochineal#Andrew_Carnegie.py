@@ -1,0 +1,1 @@
+[["Cochineal", "Maya_civilization", "Book", "Andrew_Carnegie"], ["Cochineal", "South_America", "Georgetown%2C_Guyana", "Andrew_Carnegie"]]

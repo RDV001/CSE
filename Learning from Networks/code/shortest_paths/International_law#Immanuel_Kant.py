@@ -1,0 +1,1 @@
+[["International_law", "Law", "Immanuel_Kant"], ["International_law", "League_of_Nations", "Immanuel_Kant"]]

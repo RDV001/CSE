@@ -1,0 +1,1 @@
+[["George_III_of_the_United_Kingdom", "Industrial_Revolution", "Fossil_fuel"]]

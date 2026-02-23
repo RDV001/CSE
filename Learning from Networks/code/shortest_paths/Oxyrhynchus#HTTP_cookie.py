@@ -1,0 +1,1 @@
+[["Oxyrhynchus", "Alexander_the_Great", "English_language", "HTTP_cookie"], ["Oxyrhynchus", "Astrology", "English_language", "HTTP_cookie"], ["Oxyrhynchus", "Egypt", "English_language", "HTTP_cookie"]]

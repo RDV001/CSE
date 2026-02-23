@@ -1,0 +1,1 @@
+[["Isaac", "Arabic_language", "English_language", "Esperanto"], ["Isaac", "Egypt", "English_language", "Esperanto"], ["Isaac", "Hebrew_language", "English_language", "Esperanto"], ["Isaac", "Jew", "English_language", "Esperanto"], ["Isaac", "Qur%27an", "English_language", "Esperanto"]]

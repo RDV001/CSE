@@ -1,0 +1,1 @@
+[["Ichthyosaur", "Canada", "Islam", "Saladin"], ["Ichthyosaur", "China", "Islam", "Saladin"], ["Ichthyosaur", "Japan", "Islam", "Saladin"], ["Ichthyosaur", "Norway", "Islam", "Saladin"], ["Ichthyosaur", "Germany", "Iranian_peoples", "Saladin"], ["Ichthyosaur", "Tibet", "12th_century", "Saladin"]]

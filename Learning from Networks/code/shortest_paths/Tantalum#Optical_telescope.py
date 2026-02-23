@@ -1,0 +1,1 @@
+[["Tantalum", "Aluminium", "Telescope", "Optical_telescope"]]

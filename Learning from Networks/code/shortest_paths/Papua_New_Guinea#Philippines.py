@@ -1,0 +1,1 @@
+[["Papua_New_Guinea", "English_language", "Philippines"], ["Papua_New_Guinea", "List_of_countries_by_system_of_government", "Philippines"], ["Papua_New_Guinea", "Pacific_Ocean", "Philippines"], ["Papua_New_Guinea", "Pearl", "Philippines"], ["Papua_New_Guinea", "Tsunami", "Philippines"], ["Papua_New_Guinea", "Volcano", "Philippines"]]

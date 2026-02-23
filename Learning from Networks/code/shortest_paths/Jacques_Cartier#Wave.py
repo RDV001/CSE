@@ -1,0 +1,1 @@
+[["Jacques_Cartier", "Asia", "Maldives", "Wave"], ["Jacques_Cartier", "Asia", "Sun", "Wave"], ["Jacques_Cartier", "Gold", "Sun", "Wave"], ["Jacques_Cartier", "Gold", "Magnetism", "Wave"]]

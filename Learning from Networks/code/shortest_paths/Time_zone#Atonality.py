@@ -1,0 +1,1 @@
+[["Time_zone", "Detroit%2C_Michigan", "20th_century", "Atonality"], ["Time_zone", "Ireland", "20th_century", "Atonality"], ["Time_zone", "Washington%2C_D.C.", "20th_century", "Atonality"], ["Time_zone", "Sweden", "Opera", "Atonality"], ["Time_zone", "United_Kingdom", "Opera", "Atonality"]]

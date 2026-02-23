@@ -1,0 +1,1 @@
+[["Nostradamus", "Astrology", "Computer", "Python_%28programming_language%29"], ["Nostradamus", "Medicine", "Computer", "Python_%28programming_language%29"]]

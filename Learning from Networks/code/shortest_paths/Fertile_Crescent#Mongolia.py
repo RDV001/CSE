@@ -1,0 +1,1 @@
+[["Fertile_Crescent", "Horse", "Mongolia"], ["Fertile_Crescent", "Israel", "Mongolia"], ["Fertile_Crescent", "Lebanon", "Mongolia"], ["Fertile_Crescent", "Turkey", "Mongolia"]]

@@ -1,0 +1,1 @@
+[["Lebanon", "Tourism", "Brighton", "Monopoly_%28game%29"], ["Lebanon", "World_War_I", "Trench_warfare", "Monopoly_%28game%29"]]

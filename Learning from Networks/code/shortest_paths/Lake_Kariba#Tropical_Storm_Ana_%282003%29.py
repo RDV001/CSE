@@ -1,0 +1,1 @@
+[["Lake_Kariba", "Hippopotamus", "Tropics", "Spring_%28season%29", "Tropical_Storm_Ana_%282003%29"], ["Lake_Kariba", "Tourism", "Las_Vegas%2C_Nevada", "Spring_%28season%29", "Tropical_Storm_Ana_%282003%29"]]

@@ -1,0 +1,1 @@
+[["Liverpool", "German_language", "Bible"], ["Liverpool", "Jew", "Bible"], ["Liverpool", "Mosque", "Bible"], ["Liverpool", "Norwich", "Bible"]]

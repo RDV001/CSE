@@ -1,0 +1,1 @@
+[["Cheers", "Netherlands", "17th_century", "Armand_Jean_du_Plessis%2C_Cardinal_Richelieu"], ["Cheers", "Netherlands", "Ren%C3%A9_Descartes", "Armand_Jean_du_Plessis%2C_Cardinal_Richelieu"]]

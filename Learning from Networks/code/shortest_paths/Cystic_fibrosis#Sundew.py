@@ -1,0 +1,1 @@
+[["Cystic_fibrosis", "Bacteria", "Plant", "Sundew"], ["Cystic_fibrosis", "Cell_%28biology%29", "Plant", "Sundew"], ["Cystic_fibrosis", "Fungus", "Plant", "Sundew"], ["Cystic_fibrosis", "Oxygen", "Plant", "Sundew"]]

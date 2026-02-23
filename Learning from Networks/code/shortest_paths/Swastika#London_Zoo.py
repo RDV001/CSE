@@ -1,0 +1,1 @@
+[["Swastika", "Giant_Panda", "London_Zoo"]]

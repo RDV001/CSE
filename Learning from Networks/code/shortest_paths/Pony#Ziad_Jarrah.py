@@ -1,0 +1,1 @@
+[["Pony", "Horse", "Olympic_Games", "September_11%2C_2001_attacks", "Ziad_Jarrah"], ["Pony", "Horse", "United_States", "September_11%2C_2001_attacks", "Ziad_Jarrah"], ["Pony", "Ireland", "Natural_gas", "September_11%2C_2001_attacks", "Ziad_Jarrah"], ["Pony", "Ireland", "U2", "September_11%2C_2001_attacks", "Ziad_Jarrah"]]

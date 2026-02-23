@@ -1,0 +1,1 @@
+[["Canaletto", "George_III_of_the_United_Kingdom", "Tea", "Ming_Dynasty"]]

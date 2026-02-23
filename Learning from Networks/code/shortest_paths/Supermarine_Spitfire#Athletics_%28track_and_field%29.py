@@ -1,0 +1,1 @@
+[["Supermarine_Spitfire", "Birmingham", "Athletics_%28track_and_field%29"], ["Supermarine_Spitfire", "Israel", "Athletics_%28track_and_field%29"], ["Supermarine_Spitfire", "Sweden", "Athletics_%28track_and_field%29"]]

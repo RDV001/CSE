@@ -1,0 +1,1 @@
+[["Eukaryote", "Animal", "Mammal", "Bat", "Batman"], ["Eukaryote", "Scientific_classification", "Mammal", "Bat", "Batman"], ["Eukaryote", "Organism", "Glacier_National_Park_%28US%29", "Bat", "Batman"], ["Eukaryote", "DNA", "United_Kingdom", "Buckingham_Palace", "Batman"]]

@@ -1,0 +1,1 @@
+[["Spider", "Yemen", "Israel", "Arab-Israeli_conflict"], ["Spider", "Yemen", "Jordan", "Arab-Israeli_conflict"]]

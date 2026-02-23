@@ -1,0 +1,1 @@
+[["Panama", "Buddhism", "Sri_Lanka", "Rupee"], ["Panama", "English_language", "Sri_Lanka", "Rupee"], ["Panama", "Hinduism", "Sri_Lanka", "Rupee"], ["Panama", "List_of_countries_by_system_of_government", "Sri_Lanka", "Rupee"]]

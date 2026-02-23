@@ -1,0 +1,1 @@
+[["Marco_Polo", "Byzantine_Empire", "Africa", "African_Great_Lakes"], ["Marco_Polo", "China", "Africa", "African_Great_Lakes"], ["Marco_Polo", "Genoa", "Africa", "African_Great_Lakes"], ["Marco_Polo", "Ireland", "Africa", "African_Great_Lakes"], ["Marco_Polo", "Croatia", "Democratic_Republic_of_the_Congo", "African_Great_Lakes"]]

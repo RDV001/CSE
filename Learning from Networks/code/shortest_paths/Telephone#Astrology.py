@@ -1,0 +1,1 @@
+[["Telephone", "Great_Britain", "Ptolemy", "Astrology"], ["Telephone", "Japan", "Taoism", "Astrology"], ["Telephone", "United_States", "Coal", "Astrology"]]

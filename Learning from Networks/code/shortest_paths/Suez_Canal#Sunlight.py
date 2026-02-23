@@ -1,0 +1,1 @@
+[["Suez_Canal", "Asia", "Sun", "Sunlight"], ["Suez_Canal", "Ice_age", "Sun", "Sunlight"], ["Suez_Canal", "Nile", "Sun", "Sunlight"], ["Suez_Canal", "Pyramid", "Sun", "Sunlight"], ["Suez_Canal", "Austria", "City", "Sunlight"], ["Suez_Canal", "Europe", "Denmark", "Sunlight"], ["Suez_Canal", "United_States", "Denmark", "Sunlight"], ["Suez_Canal", "Granite", "Water", "Sunlight"]]

@@ -1,0 +1,1 @@
+[["Economics", "Ancient_Rome", "Iran"], ["Economics", "Law", "Iran"], ["Economics", "Philosophy", "Iran"], ["Economics", "United_States", "Iran"], ["Economics", "University_of_Chicago", "Iran"]]

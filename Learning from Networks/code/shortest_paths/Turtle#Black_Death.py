@@ -1,0 +1,1 @@
+[["Turtle", "Canada", "Chinese_language", "Black_Death"], ["Turtle", "Carolus_Linnaeus", "Stockholm", "Black_Death"], ["Turtle", "Carolus_Linnaeus", "Sweden", "Black_Death"], ["Turtle", "Gal%C3%A1pagos_Islands", "Genoa", "Black_Death"], ["Turtle", "Gal%C3%A1pagos_Islands", "Italy", "Black_Death"], ["Turtle", "South_America", "Italy", "Black_Death"]]

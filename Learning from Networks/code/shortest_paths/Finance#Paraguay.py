@@ -1,0 +1,1 @@
+[["Finance", "Mathematics", "German_language", "Paraguay"], ["Finance", "Statistics", "German_language", "Paraguay"], ["Finance", "Money", "List_of_circulating_currencies", "Paraguay"], ["Finance", "Money", "Water", "Paraguay"]]

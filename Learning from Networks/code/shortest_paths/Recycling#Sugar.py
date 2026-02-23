@@ -1,0 +1,1 @@
+[["Recycling", "Carbon_dioxide", "Sugar"], ["Recycling", "Chromium", "Sugar"]]

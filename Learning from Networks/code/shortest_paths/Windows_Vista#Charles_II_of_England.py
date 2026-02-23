@@ -1,0 +1,1 @@
+[["Windows_Vista", "Bill_Gates", "United_Kingdom", "Charles_II_of_England"], ["Windows_Vista", "European_Union", "United_Kingdom", "Charles_II_of_England"], ["Windows_Vista", "Phishing", "United_Kingdom", "Charles_II_of_England"], ["Windows_Vista", "European_Union", "Channel_Islands", "Charles_II_of_England"]]

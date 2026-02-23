@@ -1,0 +1,1 @@
+[["Michael_Ramsey", "20th_century", "Atonality", "Igor_Stravinsky"], ["Michael_Ramsey", "20th_century", "Music", "Igor_Stravinsky"], ["Michael_Ramsey", "20th_century", "Paris", "Igor_Stravinsky"], ["Michael_Ramsey", "Milan", "Paris", "Igor_Stravinsky"], ["Michael_Ramsey", "Milan", "Opera", "Igor_Stravinsky"], ["Michael_Ramsey", "Philosophy", "Aesthetics", "Igor_Stravinsky"]]

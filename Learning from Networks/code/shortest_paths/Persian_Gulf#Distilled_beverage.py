@@ -1,0 +1,1 @@
+[["Persian_Gulf", "Iraq", "League_of_Nations", "Distilled_beverage"], ["Persian_Gulf", "United_Nations", "League_of_Nations", "Distilled_beverage"], ["Persian_Gulf", "Petroleum", "Ethanol", "Distilled_beverage"]]

@@ -1,0 +1,1 @@
+[["HSBC", "Argentina", "Cancer", "Anemia"], ["HSBC", "Mark_Webber", "Cancer", "Anemia"], ["HSBC", "Egypt", "Ancient_Egypt", "Anemia"], ["HSBC", "Egypt", "Gaza_Strip", "Anemia"]]

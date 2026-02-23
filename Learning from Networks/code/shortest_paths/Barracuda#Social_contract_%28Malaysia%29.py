@@ -1,0 +1,1 @@
+[["Barracuda", "Brazil", "Parliamentary_system", "Parliament_of_Malaysia", "Social_contract_%28Malaysia%29"], ["Barracuda", "Thailand", "Malaysia", "Parliament_of_Malaysia", "Social_contract_%28Malaysia%29"]]

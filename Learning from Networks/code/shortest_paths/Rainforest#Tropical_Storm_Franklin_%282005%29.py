@@ -1,0 +1,1 @@
+[["Rainforest", "Belize", "Tropical_cyclone", "2005_Atlantic_hurricane_season", "Tropical_Storm_Franklin_%282005%29"], ["Rainforest", "Climate", "Tropical_cyclone", "2005_Atlantic_hurricane_season", "Tropical_Storm_Franklin_%282005%29"]]

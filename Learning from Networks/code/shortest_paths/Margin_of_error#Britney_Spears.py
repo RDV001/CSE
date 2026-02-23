@@ -1,0 +1,1 @@
+[["Margin_of_error", "George_W._Bush", "Latin_America", "Reggaeton", "Britney_Spears"], ["Margin_of_error", "Mass_media", "Art", "Mona_Lisa", "Britney_Spears"], ["Margin_of_error", "Mass_media", "IPod", "Napster", "Britney_Spears"]]

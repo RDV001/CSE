@@ -1,0 +1,1 @@
+[["Angkor", "Japan", "Capital", "Abuja"], ["Angkor", "World_Heritage_Site", "Africa", "Abuja"]]

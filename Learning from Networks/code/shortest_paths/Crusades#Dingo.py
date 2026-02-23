@@ -1,0 +1,1 @@
+[["Crusades", "Austria", "Australia", "Dingo"], ["Crusades", "France", "Australia", "Dingo"], ["Crusades", "Jew", "Australia", "Dingo"], ["Crusades", "Spain", "Australia", "Dingo"], ["Crusades", "Walter_Scott", "Australia", "Dingo"]]

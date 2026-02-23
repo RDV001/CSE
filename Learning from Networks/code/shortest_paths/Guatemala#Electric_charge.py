@@ -1,0 +1,1 @@
+[["Guatemala", "Honduras", "Electricity", "Electric_charge"], ["Guatemala", "Mexico", "Electricity", "Electric_charge"], ["Guatemala", "Maya_civilization", "Salt", "Electric_charge"], ["Guatemala", "Nobel_Peace_Prize", "Physics", "Electric_charge"], ["Guatemala", "Tropical_cyclone", "Energy", "Electric_charge"], ["Guatemala", "United_Kingdom", "Electron", "Electric_charge"]]

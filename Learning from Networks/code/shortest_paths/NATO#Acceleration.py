@@ -1,0 +1,1 @@
+[["NATO", "Cyprus", "Uranus", "Acceleration"], ["NATO", "Japan", "Tsunami", "Acceleration"]]

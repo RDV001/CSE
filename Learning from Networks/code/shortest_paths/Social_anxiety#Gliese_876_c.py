@@ -1,0 +1,1 @@
+[["Social_anxiety", "Medicine", "Religion", "Planet", "Gliese_876", "Gliese_876_c"], ["Social_anxiety", "Scotland", "Religion", "Planet", "Gliese_876", "Gliese_876_c"], ["Social_anxiety", "Wales", "Silver", "Planet", "Gliese_876", "Gliese_876_c"]]

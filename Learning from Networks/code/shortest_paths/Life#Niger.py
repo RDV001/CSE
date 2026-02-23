@@ -1,0 +1,1 @@
+[["Life", "Bacteria", "Sub-Saharan_Africa", "Niger"], ["Life", "Earth", "Africa", "Niger"], ["Life", "Earth", "French_language", "Niger"], ["Life", "Plant", "Rice", "Niger"], ["Life", "Virus", "Angola", "Niger"]]

@@ -1,0 +1,1 @@
+[["Poverty", "Fertilizer", "Chlorine"], ["Poverty", "Iodine", "Chlorine"]]

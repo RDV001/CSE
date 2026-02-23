@@ -1,0 +1,1 @@
+[["Johnston_Atoll", "Pacific_Ocean", "Africa", "African_Great_Lakes"], ["Johnston_Atoll", "United_States", "Peace", "African_Great_Lakes"], ["Johnston_Atoll", "United_States", "Tanzania", "African_Great_Lakes"]]

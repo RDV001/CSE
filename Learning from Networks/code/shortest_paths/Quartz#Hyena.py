@@ -1,0 +1,1 @@
+[["Quartz", "Earth", "Africa", "Hyena"], ["Quartz", "Gold", "South_Africa", "Hyena"], ["Quartz", "Granite", "South_Africa", "Hyena"]]

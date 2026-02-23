@@ -1,0 +1,1 @@
+[["Neoclassicism", "Architecture", "Geology", "Magma"], ["Neoclassicism", "Greece", "Santorini", "Magma"], ["Neoclassicism", "Ireland", "Metamorphic_rock", "Magma"], ["Neoclassicism", "Pompeii", "Earthquake", "Magma"], ["Neoclassicism", "Pompeii", "Mount_Vesuvius", "Magma"], ["Neoclassicism", "Pompeii", "Volcano", "Magma"], ["Neoclassicism", "Russia", "Volcano", "Magma"]]

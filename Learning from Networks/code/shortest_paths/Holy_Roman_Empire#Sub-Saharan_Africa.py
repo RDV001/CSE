@@ -1,0 +1,1 @@
+[["Holy_Roman_Empire", "France", "Sub-Saharan_Africa"], ["Holy_Roman_Empire", "Middle_Ages", "Sub-Saharan_Africa"]]

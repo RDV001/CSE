@@ -1,0 +1,1 @@
+[["Americium", "Color", "Bird", "Extinction"], ["Americium", "Glass", "Biology", "Extinction"], ["Americium", "Periodic_table", "Biology", "Extinction"], ["Americium", "Glass", "Stone_Age", "Extinction"], ["Americium", "Plutonium", "Earth", "Extinction"]]

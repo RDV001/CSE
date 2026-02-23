@@ -1,0 +1,1 @@
+[["16_Cygni_Bb", "Sun", "Albert_Einstein", "Attention-deficit_hyperactivity_disorder"]]

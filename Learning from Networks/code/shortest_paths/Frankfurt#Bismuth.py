@@ -1,0 +1,1 @@
+[["Frankfurt", "Charlemagne", "Gold", "Bismuth"], ["Frankfurt", "Silver", "Gold", "Bismuth"], ["Frankfurt", "Silver", "Antimony", "Bismuth"], ["Frankfurt", "Silver", "Lead", "Bismuth"], ["Frankfurt", "Silver", "List_of_elements_by_name", "Bismuth"]]

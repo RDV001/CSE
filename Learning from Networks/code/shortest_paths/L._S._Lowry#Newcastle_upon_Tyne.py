@@ -1,0 +1,1 @@
+[["L._S._Lowry", "BBC", "Newcastle_upon_Tyne"], ["L._S._Lowry", "England", "Newcastle_upon_Tyne"]]

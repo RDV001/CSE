@@ -1,0 +1,1 @@
+[["Iraq_War", "Albania", "Ancient_Rome"], ["Iraq_War", "Armenia", "Ancient_Rome"], ["Iraq_War", "Bosnia_and_Herzegovina", "Ancient_Rome"], ["Iraq_War", "Bulgaria", "Ancient_Rome"], ["Iraq_War", "Italy", "Ancient_Rome"], ["Iraq_War", "Portugal", "Ancient_Rome"], ["Iraq_War", "Romania", "Ancient_Rome"], ["Iraq_War", "Spain", "Ancient_Rome"], ["Iraq_War", "Syria", "Ancient_Rome"]]

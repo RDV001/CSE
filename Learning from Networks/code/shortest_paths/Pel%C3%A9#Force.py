@@ -1,0 +1,1 @@
+[["Pel%C3%A9", "Mexico", "Electricity", "Force"], ["Pel%C3%A9", "Thomas_Edison", "Electricity", "Force"], ["Pel%C3%A9", "Nazism", "Love", "Force"], ["Pel%C3%A9", "World_War_II", "Jet_engine", "Force"]]

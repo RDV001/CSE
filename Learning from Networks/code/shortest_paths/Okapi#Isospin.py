@@ -1,0 +1,1 @@
+[["Okapi", "Animal", "Energy", "Electric_charge", "Isospin"]]

@@ -1,0 +1,1 @@
+[["Qur%27an", "Afghanistan", "Copper", "Brain", "Kuru_%28disease%29"], ["Qur%27an", "Afghanistan", "Domestic_goat", "Brain", "Kuru_%28disease%29"], ["Qur%27an", "Afghanistan", "Zinc", "Brain", "Kuru_%28disease%29"], ["Qur%27an", "Europe", "Mammal", "Brain", "Kuru_%28disease%29"], ["Qur%27an", "Russia", "Vladimir_Lenin", "Brain", "Kuru_%28disease%29"]]

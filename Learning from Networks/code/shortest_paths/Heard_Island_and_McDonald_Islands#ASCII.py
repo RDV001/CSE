@@ -1,0 +1,1 @@
+[["Heard_Island_and_McDonald_Islands", "Internet", "Latin_alphabet", "ASCII"]]

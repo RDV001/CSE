@@ -1,0 +1,1 @@
+[["Clothing", "China", "Confucianism"], ["Clothing", "Culture", "Confucianism"], ["Clothing", "Japan", "Confucianism"], ["Clothing", "Republic_of_China", "Confucianism"]]

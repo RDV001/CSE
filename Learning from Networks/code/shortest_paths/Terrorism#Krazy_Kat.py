@@ -1,0 +1,1 @@
+[["Terrorism", "19th_century", "Literature", "E._E._Cummings", "Krazy_Kat"], ["Terrorism", "Nationalism", "Literature", "E._E._Cummings", "Krazy_Kat"], ["Terrorism", "Politics", "Thomas_Hobbes", "Calvin_and_Hobbes", "Krazy_Kat"]]

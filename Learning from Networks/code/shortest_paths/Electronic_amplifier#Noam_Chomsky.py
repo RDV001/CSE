@@ -1,0 +1,1 @@
+[["Electronic_amplifier", "Physics", "Philosophy", "Noam_Chomsky"]]

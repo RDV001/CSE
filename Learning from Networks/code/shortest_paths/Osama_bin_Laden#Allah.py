@@ -1,0 +1,1 @@
+[["Osama_bin_Laden", "Allah"]]

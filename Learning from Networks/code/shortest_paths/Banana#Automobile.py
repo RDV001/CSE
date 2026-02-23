@@ -1,0 +1,1 @@
+[["Banana", "20th_century", "Automobile"], ["Banana", "Asia", "Automobile"], ["Banana", "Spanish_language", "Automobile"]]

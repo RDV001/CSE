@@ -1,0 +1,1 @@
+[["Looney_Tunes", "Basketball", "Spain"], ["Looney_Tunes", "Donald_Duck", "Spain"], ["Looney_Tunes", "Germany", "Spain"], ["Looney_Tunes", "Jew", "Spain"], ["Looney_Tunes", "Mexico", "Spain"], ["Looney_Tunes", "United_Kingdom", "Spain"]]

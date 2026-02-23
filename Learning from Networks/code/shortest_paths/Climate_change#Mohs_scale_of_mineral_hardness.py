@@ -1,0 +1,1 @@
+[["Climate_change", "Beryllium", "Mohs_scale_of_mineral_hardness"]]

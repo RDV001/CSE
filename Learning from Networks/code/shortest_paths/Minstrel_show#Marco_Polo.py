@@ -1,0 +1,1 @@
+[["Minstrel_show", "Irish_people", "13th_century", "Marco_Polo"], ["Minstrel_show", "New_York_City", "Beijing", "Marco_Polo"], ["Minstrel_show", "United_States", "Petroleum", "Marco_Polo"], ["Minstrel_show", "Victoria_of_the_United_Kingdom", "Ottoman_Empire", "Marco_Polo"]]

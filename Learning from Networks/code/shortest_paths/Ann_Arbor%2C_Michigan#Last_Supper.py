@@ -1,0 +1,1 @@
+[["Ann_Arbor%2C_Michigan", "Asia", "Christianity", "Last_Supper"], ["Ann_Arbor%2C_Michigan", "Japan", "Christianity", "Last_Supper"], ["Ann_Arbor%2C_Michigan", "Senegal", "Christianity", "Last_Supper"], ["Ann_Arbor%2C_Michigan", "Germany", "Martin_Luther", "Last_Supper"]]

@@ -1,0 +1,1 @@
+[["Calcite", "Earth", "Gravitation", "Neptune"], ["Calcite", "Earth", "Planet", "Neptune"], ["Calcite", "Earth", "Pluto", "Neptune"], ["Calcite", "Earth", "Solar_System", "Neptune"], ["Calcite", "Earth", "Volcano", "Neptune"], ["Calcite", "Iceland", "Volcano", "Neptune"], ["Calcite", "Earth", "Weather", "Neptune"]]

@@ -1,0 +1,1 @@
+[["Super_14", "France", "Brazil", "Bras%C3%ADlia"], ["Super_14", "France", "South_America", "Bras%C3%ADlia"], ["Super_14", "Telecommunication", "South_America", "Bras%C3%ADlia"], ["Super_14", "Japan", "Capital", "Bras%C3%ADlia"]]

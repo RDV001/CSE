@@ -1,0 +1,1 @@
+[["Santa_Claus", "Bosnia_and_Herzegovina", "Adolf_Hitler"], ["Santa_Claus", "Germany", "Adolf_Hitler"], ["Santa_Claus", "Hungary", "Adolf_Hitler"], ["Santa_Claus", "Italy", "Adolf_Hitler"], ["Santa_Claus", "Spain", "Adolf_Hitler"]]

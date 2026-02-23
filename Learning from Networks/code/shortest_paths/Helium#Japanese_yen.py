@@ -1,0 +1,1 @@
+[["Helium", "Human", "Japanese_yen"]]

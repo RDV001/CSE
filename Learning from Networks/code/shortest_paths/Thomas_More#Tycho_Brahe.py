@@ -1,0 +1,1 @@
+[["Thomas_More", "Europe", "Prague", "Tycho_Brahe"], ["Thomas_More", "Paris", "Prague", "Tycho_Brahe"], ["Thomas_More", "Pope_John_Paul_II", "Prague", "Tycho_Brahe"], ["Thomas_More", "Humanism", "Galileo_Galilei", "Tycho_Brahe"], ["Thomas_More", "Pope_John_Paul_II", "Galileo_Galilei", "Tycho_Brahe"], ["Thomas_More", "Roman_Catholic_Church", "Galileo_Galilei", "Tycho_Brahe"]]

@@ -1,0 +1,1 @@
+[["21st_century", "AIDS", "Virus", "Common_cold"], ["21st_century", "Bill_Clinton", "William_Henry_Harrison", "Common_cold"], ["21st_century", "Iran", "Multiple_sclerosis", "Common_cold"], ["21st_century", "United_Nations", "Smallpox", "Common_cold"], ["21st_century", "World_Health_Organization", "Smallpox", "Common_cold"]]

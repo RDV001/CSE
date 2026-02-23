@@ -1,0 +1,1 @@
+[["Franklin_Pierce", "American_Revolutionary_War", "Rhode_Island"], ["Franklin_Pierce", "Boston%2C_Massachusetts", "Rhode_Island"], ["Franklin_Pierce", "John_Tyler", "Rhode_Island"], ["Franklin_Pierce", "United_States_House_of_Representatives", "Rhode_Island"], ["Franklin_Pierce", "Washington%2C_D.C.", "Rhode_Island"]]

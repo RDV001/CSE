@@ -1,0 +1,1 @@
+[["Scent_of_a_Woman", "United_States", "Manifest_Destiny", "Firearm"]]

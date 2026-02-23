@@ -1,0 +1,1 @@
+[["Clock", "20th_century", "Fascism"]]

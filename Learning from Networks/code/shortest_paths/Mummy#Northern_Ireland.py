@@ -1,0 +1,1 @@
+[["Mummy", "English_language", "Northern_Ireland"], ["Mummy", "London", "Northern_Ireland"], ["Mummy", "Republic_of_Ireland", "Northern_Ireland"], ["Mummy", "United_Kingdom", "Northern_Ireland"]]

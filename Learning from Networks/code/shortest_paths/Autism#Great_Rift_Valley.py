@@ -1,0 +1,1 @@
+[["Autism", "English_language", "Kenya", "Great_Rift_Valley"], ["Autism", "English_language", "Rwanda", "Great_Rift_Valley"], ["Autism", "Germany", "Democratic_Republic_of_the_Congo", "Great_Rift_Valley"], ["Autism", "Tony_Blair", "West_Bank", "Great_Rift_Valley"]]

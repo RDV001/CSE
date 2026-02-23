@@ -1,0 +1,1 @@
+[["Trinity", "Jesus", "Apollo"], ["Trinity", "Plato", "Apollo"]]

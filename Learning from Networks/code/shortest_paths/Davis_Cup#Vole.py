@@ -1,0 +1,1 @@
+[["Davis_Cup", "Belarus", "Winter", "Vole"], ["Davis_Cup", "Bucharest", "Winter", "Vole"], ["Davis_Cup", "England", "Winter", "Vole"], ["Davis_Cup", "Melbourne", "Winter", "Vole"], ["Davis_Cup", "Sydney", "Winter", "Vole"]]

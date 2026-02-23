@@ -1,0 +1,1 @@
+[["Alberto_Santos-Dumont", "Brazil", "Economic_inequality", "Social_capital"]]

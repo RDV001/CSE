@@ -1,0 +1,1 @@
+[["Soviet_Union", "Battle_of_Stalingrad", "Propaganda"], ["Soviet_Union", "Laika", "Propaganda"], ["Soviet_Union", "Leon_Trotsky", "Propaganda"]]

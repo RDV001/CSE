@@ -1,0 +1,1 @@
+[["Swaziland", "Education", "Organization"], ["Swaziland", "United_Nations", "Organization"]]

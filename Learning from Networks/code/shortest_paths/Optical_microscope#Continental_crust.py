@@ -1,0 +1,1 @@
+[["Optical_microscope", "Earth%27s_atmosphere", "Volcano", "Continental_crust"], ["Optical_microscope", "Mineral", "Crust_%28geology%29", "Continental_crust"], ["Optical_microscope", "Mineral", "Diamond", "Continental_crust"], ["Optical_microscope", "Mineral", "Quartz", "Continental_crust"]]

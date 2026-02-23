@@ -1,0 +1,1 @@
+[["Canada", "Great_Lakes", "Minnesota"], ["Canada", "Hudson_Bay", "Minnesota"], ["Canada", "Mississippi_River", "Minnesota"], ["Canada", "National_Hockey_League", "Minnesota"], ["Canada", "Niagara_Falls", "Minnesota"], ["Canada", "United_States", "Minnesota"]]

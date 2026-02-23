@@ -1,0 +1,1 @@
+[["Munich", "Albert_Einstein", "Africa", "Bamako"], ["Munich", "Communism", "Africa", "Bamako"], ["Munich", "Hamburg", "Africa", "Bamako"], ["Munich", "Israel", "Africa", "Bamako"], ["Munich", "World_War_I", "Africa", "Bamako"], ["Munich", "Zimbabwe", "Africa", "Bamako"], ["Munich", "List_of_countries", "Mali", "Bamako"], ["Munich", "Mosque", "Mali", "Bamako"]]

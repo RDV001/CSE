@@ -1,0 +1,1 @@
+[["Iran", "20th_century", "Quantum_mechanics"], ["Iran", "Mathematics", "Quantum_mechanics"]]

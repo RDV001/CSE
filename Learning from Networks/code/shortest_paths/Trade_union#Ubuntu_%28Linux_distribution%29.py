@@ -1,0 +1,1 @@
+[["Trade_union", "California", "Computer", "GNOME", "Ubuntu_%28Linux_distribution%29"], ["Trade_union", "California", "Computer", "Unix", "Ubuntu_%28Linux_distribution%29"]]

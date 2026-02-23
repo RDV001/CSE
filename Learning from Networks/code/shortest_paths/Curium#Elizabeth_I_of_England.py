@@ -1,0 +1,1 @@
+[["Curium", "Electron", "William_Gilbert", "Elizabeth_I_of_England"], ["Curium", "Metal", "Alchemy", "Elizabeth_I_of_England"], ["Curium", "Oxygen", "Alchemy", "Elizabeth_I_of_England"]]

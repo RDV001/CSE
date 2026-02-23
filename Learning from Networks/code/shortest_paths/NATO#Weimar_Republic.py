@@ -1,0 +1,1 @@
+[["NATO", "Stuttgart", "Weimar_Republic"]]

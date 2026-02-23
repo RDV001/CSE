@@ -1,0 +1,1 @@
+[["Politics", "18th_century", "Leonhard_Euler", "Trigonometric_function"]]

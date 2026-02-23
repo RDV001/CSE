@@ -1,0 +1,1 @@
+[["Chad", "Arable_land", "Calcium", "Calcium_chloride"], ["Chad", "Arable_land", "Sodium", "Calcium_chloride"], ["Chad", "Democratic_Republic_of_the_Congo", "Uranium", "Calcium_chloride"], ["Chad", "Kyrgyzstan", "Uranium", "Calcium_chloride"], ["Chad", "Mali", "Uranium", "Calcium_chloride"], ["Chad", "Namibia", "Uranium", "Calcium_chloride"]]

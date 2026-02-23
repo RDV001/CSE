@@ -1,0 +1,1 @@
+[["Papua_New_Guinea", "16th_century", "21st_century", "Star_Trek__Deep_Space_Nine", "Andrew_Robinson"], ["Papua_New_Guinea", "Art", "21st_century", "Star_Trek__Deep_Space_Nine", "Andrew_Robinson"]]

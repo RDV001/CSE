@@ -1,0 +1,1 @@
+[["HSBC", "Argentina", "Cattle", "Humour"], ["HSBC", "Isle_of_Man", "Cattle", "Humour"], ["HSBC", "Scotland", "Cattle", "Humour"], ["HSBC", "Wales", "Cattle", "Humour"], ["HSBC", "London", "Newspaper", "Humour"]]

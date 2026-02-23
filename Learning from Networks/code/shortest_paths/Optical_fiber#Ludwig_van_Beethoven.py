@@ -1,0 +1,1 @@
+[["Optical_fiber", "Art", "Music", "Ludwig_van_Beethoven"], ["Optical_fiber", "Art", "Romanticism", "Ludwig_van_Beethoven"], ["Optical_fiber", "Germanium", "Germany", "Ludwig_van_Beethoven"], ["Optical_fiber", "Titanium", "Germany", "Ludwig_van_Beethoven"], ["Optical_fiber", "Physics", "19th_century", "Ludwig_van_Beethoven"]]

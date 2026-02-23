@@ -1,0 +1,1 @@
+[["Indian_Standard_Time", "India", "Soviet_Union", "Arable_land"], ["Indian_Standard_Time", "Sri_Lanka", "Thailand", "Arable_land"], ["Indian_Standard_Time", "Washington%2C_D.C.", "Thailand", "Arable_land"], ["Indian_Standard_Time", "United_Kingdom", "Northern_Ireland", "Arable_land"], ["Indian_Standard_Time", "United_Kingdom", "Wales", "Arable_land"]]

@@ -1,0 +1,1 @@
+[["Boltysh_crater", "Cretaceous", "Aphid", "Coccinellidae"], ["Boltysh_crater", "Cretaceous", "Insect", "Coccinellidae"]]

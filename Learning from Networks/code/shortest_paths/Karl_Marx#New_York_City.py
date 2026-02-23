@@ -1,0 +1,1 @@
+[["Karl_Marx", "Budapest", "New_York_City"], ["Karl_Marx", "Che_Guevara", "New_York_City"], ["Karl_Marx", "Human", "New_York_City"], ["Karl_Marx", "Leon_Trotsky", "New_York_City"], ["Karl_Marx", "London", "New_York_City"], ["Karl_Marx", "Vietnam", "New_York_City"]]

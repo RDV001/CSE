@@ -1,0 +1,1 @@
+[["Lake_Baikal", "East_Africa", "British_monarchy", "Hundred_Years%27_War"], ["Lake_Baikal", "Russia", "Paris", "Hundred_Years%27_War"], ["Lake_Baikal", "World_Heritage_Site", "Paris", "Hundred_Years%27_War"]]

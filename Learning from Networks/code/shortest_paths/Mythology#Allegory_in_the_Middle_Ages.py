@@ -1,0 +1,1 @@
+[["Mythology", "Fiction", "Poetry", "Allegory_in_the_Middle_Ages"], ["Mythology", "Homer", "Poetry", "Allegory_in_the_Middle_Ages"], ["Mythology", "Literature", "Poetry", "Allegory_in_the_Middle_Ages"], ["Mythology", "J._R._R._Tolkien", "Anglo-Saxon_literature", "Allegory_in_the_Middle_Ages"]]

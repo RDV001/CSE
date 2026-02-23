@@ -1,0 +1,1 @@
+[["Pompeii", "Ancient_Rome", "Dark_Ages", "Popular_culture"], ["Pompeii", "Archaeology", "Culture", "Popular_culture"], ["Pompeii", "Italy", "Culture", "Popular_culture"], ["Pompeii", "BBC", "Doctor_Who", "Popular_culture"], ["Pompeii", "World_Heritage_Site", "Berlin", "Popular_culture"]]

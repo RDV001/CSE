@@ -1,0 +1,1 @@
+[["Cotopaxi", "Andes", "Roman_Empire", "Alexander_the_Great"], ["Cotopaxi", "Ecuador", "Banana", "Alexander_the_Great"], ["Cotopaxi", "Ecuador", "Democracy", "Alexander_the_Great"], ["Cotopaxi", "Ecuador", "Jew", "Alexander_the_Great"]]

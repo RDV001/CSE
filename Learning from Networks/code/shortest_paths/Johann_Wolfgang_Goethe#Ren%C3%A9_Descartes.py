@@ -1,0 +1,1 @@
+[["Johann_Wolfgang_Goethe", "Age_of_Enlightenment", "Ren%C3%A9_Descartes"], ["Johann_Wolfgang_Goethe", "Philosophy", "Ren%C3%A9_Descartes"]]

@@ -1,0 +1,1 @@
+[["Heliocentrism", "Latin", "Vulgar_Latin"]]

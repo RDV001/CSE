@@ -1,0 +1,1 @@
+[["Language", "Arabic_language", "Algebra"], ["Language", "Computer_science", "Algebra"], ["Language", "Mathematics", "Algebra"]]

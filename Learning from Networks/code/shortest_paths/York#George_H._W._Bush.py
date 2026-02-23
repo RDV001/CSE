@@ -1,0 +1,1 @@
+[["York", "City_status_in_the_United_Kingdom", "Elizabeth_II_of_the_United_Kingdom", "George_H._W._Bush"], ["York", "Germany", "George_W._Bush", "George_H._W._Bush"], ["York", "Germany", "Yugoslavia", "George_H._W._Bush"], ["York", "Tourism", "2004_Indian_Ocean_earthquake", "George_H._W._Bush"]]

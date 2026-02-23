@@ -1,0 +1,1 @@
+[["Charles_Sumner", "Ancient_Greece", "Italy", "Italian_Renaissance"], ["Charles_Sumner", "Ancient_Rome", "Italy", "Italian_Renaissance"], ["Charles_Sumner", "United_States", "Italy", "Italian_Renaissance"], ["Charles_Sumner", "Ancient_Greece", "Renaissance", "Italian_Renaissance"]]

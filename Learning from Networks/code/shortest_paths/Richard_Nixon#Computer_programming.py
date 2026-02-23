@@ -1,0 +1,1 @@
+[["Richard_Nixon", "California", "Computer", "Computer_programming"], ["Richard_Nixon", "Dallas%2C_Texas", "Computer", "Computer_programming"], ["Richard_Nixon", "Syria", "Computer", "Computer_programming"]]

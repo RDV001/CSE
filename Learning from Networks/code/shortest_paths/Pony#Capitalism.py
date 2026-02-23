@@ -1,0 +1,1 @@
+[["Pony", "Horse", "Family", "Capitalism"], ["Pony", "Horse", "United_Kingdom", "Capitalism"], ["Pony", "Ireland", "United_Kingdom", "Capitalism"], ["Pony", "Horse", "United_States", "Capitalism"], ["Pony", "Ireland", "Civil_rights", "Capitalism"], ["Pony", "Ireland", "Folk_music", "Capitalism"], ["Pony", "Ireland", "Middle_Ages", "Capitalism"]]

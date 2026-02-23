@@ -1,0 +1,1 @@
+[["Eldfell", "Irish_people", "Chile"], ["Eldfell", "Tourism", "Chile"]]

@@ -1,0 +1,1 @@
+[["Trafalgar_Square", "National_Gallery%2C_London", "Paul_C%C3%A9zanne"]]

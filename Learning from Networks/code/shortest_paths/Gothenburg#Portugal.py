@@ -1,0 +1,1 @@
+[["Gothenburg", "Europe", "Portugal"], ["Gothenburg", "German_language", "Portugal"], ["Gothenburg", "Jakarta", "Portugal"], ["Gothenburg", "Netherlands", "Portugal"], ["Gothenburg", "Scots_language", "Portugal"], ["Gothenburg", "South_Africa", "Portugal"], ["Gothenburg", "United_States", "Portugal"]]

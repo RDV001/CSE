@@ -1,0 +1,1 @@
+[["Dominican_Republic", "20th_century", "1st_century", "Boudica"], ["Dominican_Republic", "Christopher_Columbus", "London", "Boudica"], ["Dominican_Republic", "Jamaica", "London", "Boudica"], ["Dominican_Republic", "New_York_City", "London", "Boudica"], ["Dominican_Republic", "Spanish_language", "London", "Boudica"], ["Dominican_Republic", "Tourism", "London", "Boudica"]]

@@ -1,0 +1,1 @@
+[["Tamarind", "Fruit", "Halloween", "Bat"], ["Tamarind", "India", "Mammal", "Bat"], ["Tamarind", "Scientific_classification", "Mammal", "Bat"], ["Tamarind", "Seed", "Mammal", "Bat"], ["Tamarind", "Malaysia", "New_Zealand", "Bat"], ["Tamarind", "Tree", "Cactus", "Bat"], ["Tamarind", "Tree", "Durian", "Bat"]]

@@ -1,0 +1,1 @@
+[["Great_Red_Spot", "Earth", "Tropical_cyclone", "Hurricane_Dennis", "Hurricane_Alex_%282004%29"]]

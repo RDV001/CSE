@@ -1,0 +1,1 @@
+[["George_II_of_Great_Britain", "Great_Britain", "Wales", "Aberystwyth"], ["George_II_of_Great_Britain", "London", "City_status_in_the_United_Kingdom", "Aberystwyth"]]

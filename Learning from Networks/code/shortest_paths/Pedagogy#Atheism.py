@@ -1,0 +1,1 @@
+[["Pedagogy", "20th_century", "Cuba", "Atheism"], ["Pedagogy", "20th_century", "European_Union", "Atheism"], ["Pedagogy", "20th_century", "Germany", "Atheism"], ["Pedagogy", "Art", "Australia", "Atheism"], ["Pedagogy", "Art", "Philosophy", "Atheism"], ["Pedagogy", "Education", "Philosophy", "Atheism"], ["Pedagogy", "Science", "Philosophy", "Atheism"]]

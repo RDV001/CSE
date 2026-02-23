@@ -1,0 +1,1 @@
+[["Autumn", "16th_century", "Science", "Topology"], ["Autumn", "Alchemy", "Science", "Topology"], ["Autumn", "Latin", "Science", "Topology"], ["Autumn", "China", "Mathematics", "Topology"], ["Autumn", "Spring_%28season%29", "Sphere", "Topology"]]

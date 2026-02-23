@@ -1,0 +1,1 @@
+[["Ammolite", "Glass", "20th_century", "Existentialism"], ["Ammolite", "Gold", "20th_century", "Existentialism"], ["Ammolite", "Italy", "20th_century", "Existentialism"]]

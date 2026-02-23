@@ -1,0 +1,1 @@
+[["Esperanto", "Iran", "Astronomy", "Globular_cluster"], ["Esperanto", "Star_Trek", "Milky_Way", "Globular_cluster"]]

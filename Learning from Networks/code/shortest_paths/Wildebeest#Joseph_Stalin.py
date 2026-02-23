@@ -1,0 +1,1 @@
+[["Wildebeest", "Africa", "Cold_War", "Joseph_Stalin"], ["Wildebeest", "Africa", "Famine", "Joseph_Stalin"], ["Wildebeest", "Africa", "Soviet_Union", "Joseph_Stalin"], ["Wildebeest", "Africa", "World_War_II", "Joseph_Stalin"]]

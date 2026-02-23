@@ -1,0 +1,1 @@
+[["Hymenoptera", "Animal", "Bacteria", "Insulin"], ["Hymenoptera", "Scientific_classification", "Bacteria", "Insulin"], ["Hymenoptera", "Bee", "Protein", "Insulin"], ["Hymenoptera", "Insect", "Protein", "Insulin"], ["Hymenoptera", "Insect", "Nutrition", "Insulin"]]

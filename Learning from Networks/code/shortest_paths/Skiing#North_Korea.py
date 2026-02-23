@@ -1,0 +1,1 @@
+[["Skiing", "Asia", "North_Korea"], ["Skiing", "Russia", "North_Korea"], ["Skiing", "United_States", "North_Korea"], ["Skiing", "World_War_II", "North_Korea"]]

@@ -1,0 +1,1 @@
+[["Sputnik_program", "United_States", "Abraham_Lincoln"]]

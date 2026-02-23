@@ -1,0 +1,1 @@
+[["Race", "Germany", "Natural_gas"], ["Race", "United_Kingdom", "Natural_gas"], ["Race", "United_States", "Natural_gas"]]

@@ -1,0 +1,1 @@
+[["Windows_XP", "Asia", "Islam", "Anatomy"], ["Windows_XP", "European_Union", "Islam", "Anatomy"], ["Windows_XP", "South_America", "Islam", "Anatomy"], ["Windows_XP", "European_Union", "Belgium", "Anatomy"], ["Windows_XP", "European_Union", "Renaissance", "Anatomy"], ["Windows_XP", "Language", "Biology", "Anatomy"]]

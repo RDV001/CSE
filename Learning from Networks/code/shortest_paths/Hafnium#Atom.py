@@ -1,0 +1,1 @@
+[["Hafnium", "Carbon", "Atom"], ["Hafnium", "Chemical_element", "Atom"], ["Hafnium", "Corrosion", "Atom"], ["Hafnium", "Electron", "Atom"], ["Hafnium", "Magnetism", "Atom"], ["Hafnium", "Mineral", "Atom"], ["Hafnium", "Neutron", "Atom"], ["Hafnium", "Niels_Bohr", "Atom"], ["Hafnium", "Water", "Atom"]]

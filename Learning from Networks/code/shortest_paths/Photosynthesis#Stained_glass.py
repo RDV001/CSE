@@ -1,0 +1,1 @@
+[["Photosynthesis", "Carbon_dioxide", "Glass", "Stained_glass"], ["Photosynthesis", "Manganese", "Glass", "Stained_glass"], ["Photosynthesis", "Microscope", "Glass", "Stained_glass"], ["Photosynthesis", "Water", "Glass", "Stained_glass"]]

@@ -1,0 +1,1 @@
+[["North_Sea", "Atlantic_Ocean", "Herodotus", "Battle_of_Marathon"], ["North_Sea", "Baltic_Sea", "History_of_Greece", "Battle_of_Marathon"], ["North_Sea", "Europe", "Ancient_Greece", "Battle_of_Marathon"], ["North_Sea", "Great_Britain", "Ancient_Greece", "Battle_of_Marathon"], ["North_Sea", "Sweden", "War", "Battle_of_Marathon"]]

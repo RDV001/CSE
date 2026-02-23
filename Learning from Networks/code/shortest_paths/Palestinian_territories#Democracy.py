@@ -1,0 +1,1 @@
+[["Palestinian_territories", "Egypt", "Democracy"], ["Palestinian_territories", "Israel", "Democracy"], ["Palestinian_territories", "Middle_East", "Democracy"], ["Palestinian_territories", "United_Nations", "Democracy"], ["Palestinian_territories", "West_Bank", "Democracy"]]

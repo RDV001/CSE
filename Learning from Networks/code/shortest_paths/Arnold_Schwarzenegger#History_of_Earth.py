@@ -1,0 +1,1 @@
+[["Arnold_Schwarzenegger", "London", "Glacier", "History_of_Earth"], ["Arnold_Schwarzenegger", "Minnesota", "Precambrian", "History_of_Earth"]]

@@ -1,0 +1,1 @@
+[["Germany", "George_W._Bush", "Florida"], ["Germany", "German_language", "Florida"], ["Germany", "United_States", "Florida"]]

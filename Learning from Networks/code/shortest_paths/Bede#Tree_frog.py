@@ -1,0 +1,1 @@
+[["Bede", "England", "Winter", "Frog", "Tree_frog"], ["Bede", "Season", "Winter", "Frog", "Tree_frog"], ["Bede", "Season", "Animal", "Australian_Green_Tree_Frog", "Tree_frog"]]

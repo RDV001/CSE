@@ -1,0 +1,1 @@
+[["Berlin_Wall", "Berlin", "French_language"], ["Berlin_Wall", "France", "French_language"], ["Berlin_Wall", "German_language", "French_language"], ["Berlin_Wall", "Mathematics", "French_language"], ["Berlin_Wall", "United_Kingdom", "French_language"], ["Berlin_Wall", "United_States", "French_language"]]

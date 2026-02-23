@@ -1,0 +1,1 @@
+[["Platinum", "Alchemy", "History_of_science", "Voting"], ["Platinum", "Canada", "Canadian_Charter_of_Rights_and_Freedoms", "Voting"], ["Platinum", "United_States", "Martin_Luther_King%2C_Jr.", "Voting"]]

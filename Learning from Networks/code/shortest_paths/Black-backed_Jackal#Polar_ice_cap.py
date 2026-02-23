@@ -1,0 +1,1 @@
+[["Black-backed_Jackal", "Africa", "Glacier", "Polar_ice_cap"], ["Black-backed_Jackal", "Animal", "Water", "Polar_ice_cap"]]

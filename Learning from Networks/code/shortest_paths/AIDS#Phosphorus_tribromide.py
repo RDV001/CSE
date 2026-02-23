@@ -1,0 +1,1 @@
+[["AIDS", "Bacteria", "Ethanol", "Phosphorus_tribromide"], ["AIDS", "Cancer", "Alcohol", "Phosphorus_tribromide"], ["AIDS", "Fungus", "Phosphorus", "Phosphorus_tribromide"], ["AIDS", "Nutrition", "Phosphorus", "Phosphorus_tribromide"]]

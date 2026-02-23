@@ -1,0 +1,1 @@
+[["Johannesburg", "Boeing_747", "President_of_the_United_States", "Franklin_Pierce"], ["Johannesburg", "United_States", "President_of_the_United_States", "Franklin_Pierce"], ["Johannesburg", "Lesotho", "Bill_Clinton", "Franklin_Pierce"], ["Johannesburg", "United_States", "Manifest_Destiny", "Franklin_Pierce"]]

@@ -1,0 +1,1 @@
+[["Physical_paradox", "Big_Bang", "Hubble_Space_Telescope", "Spherical_aberration"], ["Physical_paradox", "Big_Bang", "Telescope", "Spherical_aberration"], ["Physical_paradox", "Physics", "Telescope", "Spherical_aberration"], ["Physical_paradox", "Speed_of_light", "Telescope", "Spherical_aberration"]]

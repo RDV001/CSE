@@ -1,0 +1,1 @@
+[["Cuckmere_Haven", "England", "Francis_Bacon", "Pneumonia", "Ascariasis"], ["Cuckmere_Haven", "England", "Stephen_Hawking", "Pneumonia", "Ascariasis"], ["Cuckmere_Haven", "England", "Victoria_of_the_United_Kingdom", "Pneumonia", "Ascariasis"], ["Cuckmere_Haven", "Luftwaffe", "World_War_I", "Pneumonia", "Ascariasis"]]

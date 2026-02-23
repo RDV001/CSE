@@ -1,0 +1,1 @@
+[["Richmond%2C_Virginia", "Global_city", "Gothenburg"]]

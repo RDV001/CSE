@@ -1,0 +1,1 @@
+[["Dorset", "Cheese", "Bacteria", "Lyme_disease"], ["Dorset", "Reptile", "Cell_%28biology%29", "Lyme_disease"]]

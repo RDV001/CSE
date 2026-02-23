@@ -1,0 +1,1 @@
+[["Capital", "Beijing", "Marco_Polo"], ["Capital", "Ottoman_Empire", "Marco_Polo"]]

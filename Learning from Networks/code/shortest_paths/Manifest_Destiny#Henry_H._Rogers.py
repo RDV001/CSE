@@ -1,0 +1,1 @@
+[["Manifest_Destiny", "19th_century", "Mark_Twain", "Henry_H._Rogers"], ["Manifest_Destiny", "Grover_Cleveland", "Mark_Twain", "Henry_H._Rogers"], ["Manifest_Destiny", "Mississippi_River", "Mark_Twain", "Henry_H._Rogers"], ["Manifest_Destiny", "Southern_United_States", "Mark_Twain", "Henry_H._Rogers"]]

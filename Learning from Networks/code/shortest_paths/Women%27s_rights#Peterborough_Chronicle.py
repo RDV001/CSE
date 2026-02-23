@@ -1,0 +1,1 @@
+[["Women%27s_rights", "United_Kingdom", "British_monarchy", "Stephen_of_England", "Peterborough_Chronicle"], ["Women%27s_rights", "United_Kingdom", "British_monarchy", "The_Anarchy", "Peterborough_Chronicle"], ["Women%27s_rights", "United_Kingdom", "J._R._R._Tolkien", "Anglo-Saxon_literature", "Peterborough_Chronicle"]]

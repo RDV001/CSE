@@ -1,0 +1,1 @@
+[["Mecca", "Islam", "Istanbul"]]

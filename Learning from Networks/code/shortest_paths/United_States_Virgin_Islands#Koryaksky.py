@@ -1,0 +1,1 @@
+[["United_States_Virgin_Islands", "Earthquake", "Volcano", "Koryaksky"], ["United_States_Virgin_Islands", "Tsunami", "Volcano", "Koryaksky"], ["United_States_Virgin_Islands", "United_States", "Volcano", "Koryaksky"]]

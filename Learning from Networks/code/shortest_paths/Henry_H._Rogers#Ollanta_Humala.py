@@ -1,0 +1,1 @@
+[["Henry_H._Rogers", "Atlantic_Ocean", "Peru", "Ollanta_Humala"], ["Henry_H._Rogers", "Copper", "Peru", "Ollanta_Humala"], ["Henry_H._Rogers", "Petroleum", "Peru", "Ollanta_Humala"], ["Henry_H._Rogers", "United_States", "Peru", "Ollanta_Humala"]]

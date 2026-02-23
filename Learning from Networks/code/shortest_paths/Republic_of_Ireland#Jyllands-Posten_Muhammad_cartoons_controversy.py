@@ -1,0 +1,1 @@
+[["Republic_of_Ireland", "Netherlands", "Ayaan_Hirsi_Ali", "Jyllands-Posten_Muhammad_cartoons_controversy"], ["Republic_of_Ireland", "Tourism", "Mosque", "Jyllands-Posten_Muhammad_cartoons_controversy"]]

@@ -1,0 +1,1 @@
+[["Christianity", "16th_century", "Heliocentrism", "Differential_equation"], ["Christianity", "Religion", "Heliocentrism", "Differential_equation"], ["Christianity", "Islam", "Algebra", "Differential_equation"], ["Christianity", "Islam", "Mathematics", "Differential_equation"], ["Christianity", "Religion", "Gravitation", "Differential_equation"]]

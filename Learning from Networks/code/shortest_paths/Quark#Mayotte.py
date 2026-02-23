@@ -1,0 +1,1 @@
+[["Quark", "James_Joyce", "French_language", "Mayotte"]]

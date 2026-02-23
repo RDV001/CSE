@@ -1,0 +1,1 @@
+[["Diabetes_mellitus", "Edinburgh", "Sweden"], ["Diabetes_mellitus", "Tobacco_smoking", "Sweden"], ["Diabetes_mellitus", "Water", "Sweden"], ["Diabetes_mellitus", "World_Health_Organization", "Sweden"]]

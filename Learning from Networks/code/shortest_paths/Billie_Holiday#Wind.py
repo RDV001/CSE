@@ -1,0 +1,1 @@
+[["Billie_Holiday", "Baltimore%2C_Maryland", "Rotterdam", "Wind"], ["Billie_Holiday", "Jew", "England", "Wind"], ["Billie_Holiday", "United_States", "Petroleum", "Wind"]]

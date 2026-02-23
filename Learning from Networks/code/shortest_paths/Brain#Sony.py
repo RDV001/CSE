@@ -1,0 +1,1 @@
+[["Brain", "Lyme_disease", "Japan", "Sony"], ["Brain", "Mexico", "Japan", "Sony"], ["Brain", "Philosophy", "Japan", "Sony"], ["Brain", "Schizophrenia", "Japan", "Sony"], ["Brain", "Southern_United_States", "Miami%2C_Florida", "Sony"]]

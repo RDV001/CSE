@@ -1,0 +1,1 @@
+[["Cotopaxi", "Pacific_Ocean", "San_Francisco%2C_California"]]

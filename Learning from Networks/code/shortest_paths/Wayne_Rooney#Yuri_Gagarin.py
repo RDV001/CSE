@@ -1,0 +1,1 @@
+[["Wayne_Rooney", "Argentina", "Russia", "Yuri_Gagarin"], ["Wayne_Rooney", "Portugal", "Russia", "Yuri_Gagarin"], ["Wayne_Rooney", "United_Nations", "Russia", "Yuri_Gagarin"], ["Wayne_Rooney", "United_Nations", "Soviet_Union", "Yuri_Gagarin"]]

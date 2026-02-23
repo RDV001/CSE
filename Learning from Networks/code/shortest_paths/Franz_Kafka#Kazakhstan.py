@@ -1,0 +1,1 @@
+[["Franz_Kafka", "Fyodor_Dostoevsky", "Kazakhstan"], ["Franz_Kafka", "German_language", "Kazakhstan"]]

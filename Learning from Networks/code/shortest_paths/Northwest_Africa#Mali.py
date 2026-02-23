@@ -1,0 +1,1 @@
+[["Northwest_Africa", "Africa", "Mali"], ["Northwest_Africa", "Algeria", "Mali"], ["Northwest_Africa", "Mauritania", "Mali"], ["Northwest_Africa", "Western_Sahara", "Mali"]]

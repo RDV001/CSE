@@ -1,0 +1,1 @@
+[["Buddha", "Japan", "Medicine", "Alzheimer%27s_disease"]]

@@ -1,0 +1,1 @@
+[["Meningitis", "Bacteria", "Human", "Dove"], ["Meningitis", "Protein", "Human", "Dove"], ["Meningitis", "Ethiopia", "Olympic_Games", "Dove"], ["Meningitis", "New_Zealand", "Olympic_Games", "Dove"], ["Meningitis", "United_States", "Olympic_Games", "Dove"]]

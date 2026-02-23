@@ -1,0 +1,1 @@
+[["William_McKinley", "Guam", "Earth", "Red_giant"]]

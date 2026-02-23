@@ -1,0 +1,1 @@
+[["Erbium", "20th_century", "Nationalism", "History_of_the_world"], ["Erbium", "Sweden", "Agriculture", "History_of_the_world"]]

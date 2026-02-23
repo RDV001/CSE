@@ -1,0 +1,1 @@
+[["Super_Mario_Bros.", "United_States", "Marshall_Islands", "Coconut"], ["Super_Mario_Bros.", "United_States", "Midway_Atoll", "Coconut"], ["Super_Mario_Bros.", "United_States", "Nigeria", "Coconut"], ["Super_Mario_Bros.", "United_States", "Northern_Mariana_Islands", "Coconut"], ["Super_Mario_Bros.", "United_States", "Palmyra_Atoll", "Coconut"]]

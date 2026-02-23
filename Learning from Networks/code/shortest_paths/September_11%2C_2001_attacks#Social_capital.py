@@ -1,0 +1,1 @@
+[["September_11%2C_2001_attacks", "Russia", "Civil_society", "Social_capital"]]

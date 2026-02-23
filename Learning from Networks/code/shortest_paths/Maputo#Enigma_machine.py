@@ -1,0 +1,1 @@
+[["Maputo", "China", "World_War_II", "Enigma_machine"], ["Maputo", "Coal", "World_War_II", "Enigma_machine"], ["Maputo", "Indian_Ocean", "World_War_II", "Enigma_machine"], ["Maputo", "Mozambique", "World_War_II", "Enigma_machine"], ["Maputo", "South_Africa", "World_War_II", "Enigma_machine"], ["Maputo", "Winston_Churchill", "World_War_II", "Enigma_machine"]]

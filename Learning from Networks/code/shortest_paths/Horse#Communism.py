@@ -1,0 +1,1 @@
+[["Horse", "Art", "Communism"], ["Horse", "Asia", "Communism"], ["Horse", "Europe", "Communism"], ["Horse", "Mongolia", "Communism"], ["Horse", "Olympic_Games", "Communism"], ["Horse", "Romania", "Communism"], ["Horse", "Russia", "Communism"], ["Horse", "United_States", "Communism"]]

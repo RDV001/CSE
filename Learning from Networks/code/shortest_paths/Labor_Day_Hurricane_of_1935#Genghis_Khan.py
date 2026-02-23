@@ -1,0 +1,1 @@
+[["Labor_Day_Hurricane_of_1935", "United_States", "Buddhism", "Genghis_Khan"], ["Labor_Day_Hurricane_of_1935", "United_States", "Islam", "Genghis_Khan"]]

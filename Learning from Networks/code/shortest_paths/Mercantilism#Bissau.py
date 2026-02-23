@@ -1,0 +1,1 @@
+[["Mercantilism", "British_Empire", "Africa", "Bissau"], ["Mercantilism", "British_Empire", "Atlantic_Ocean", "Bissau"], ["Mercantilism", "Germany", "Atlantic_Ocean", "Bissau"]]

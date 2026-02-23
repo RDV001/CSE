@@ -1,0 +1,1 @@
+[["History_of_New_Jersey", "Sweden", "Emanuel_Swedenborg"]]

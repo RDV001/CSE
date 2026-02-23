@@ -1,0 +1,1 @@
+[["Democracy", "Africa", "Military_dictatorship"], ["Democracy", "Autocracy", "Military_dictatorship"], ["Democracy", "Liberal_democracy", "Military_dictatorship"]]

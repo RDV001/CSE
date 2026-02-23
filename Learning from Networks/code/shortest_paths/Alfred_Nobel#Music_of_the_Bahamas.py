@@ -1,0 +1,1 @@
+[["Alfred_Nobel", "Esperanto", "Africa", "Reggae", "Music_of_the_Bahamas"], ["Alfred_Nobel", "Paris", "Africa", "Reggae", "Music_of_the_Bahamas"], ["Alfred_Nobel", "Stockholm", "Africa", "Reggae", "Music_of_the_Bahamas"], ["Alfred_Nobel", "Paris", "Lisbon", "Reggae", "Music_of_the_Bahamas"], ["Alfred_Nobel", "Nobel_Peace_Prize", "Nelson_Mandela", "Ska", "Music_of_the_Bahamas"]]

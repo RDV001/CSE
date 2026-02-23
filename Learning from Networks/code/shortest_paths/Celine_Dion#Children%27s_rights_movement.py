@@ -1,0 +1,1 @@
+[["Celine_Dion", "George_W._Bush", "Human_rights", "Children%27s_rights_movement"], ["Celine_Dion", "Iraq_War", "Human_rights", "Children%27s_rights_movement"], ["Celine_Dion", "President_of_the_United_States", "Human_rights", "Children%27s_rights_movement"], ["Celine_Dion", "September_11%2C_2001_attacks", "Civil_rights", "Children%27s_rights_movement"]]

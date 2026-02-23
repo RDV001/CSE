@@ -1,0 +1,1 @@
+[["Lyndon_B._Johnson", "Australia", "England", "National_parks_of_England_and_Wales", "Snowdonia_National_Park"], ["Lyndon_B._Johnson", "Macbeth", "England", "National_parks_of_England_and_Wales", "Snowdonia_National_Park"], ["Lyndon_B._Johnson", "Tobacco_smoking", "England", "National_parks_of_England_and_Wales", "Snowdonia_National_Park"]]

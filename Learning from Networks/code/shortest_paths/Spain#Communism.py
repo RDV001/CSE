@@ -1,0 +1,1 @@
+[["Spain", "Adolf_Hitler", "Communism"], ["Spain", "Asia", "Communism"], ["Spain", "Democracy", "Communism"], ["Spain", "Europe", "Communism"], ["Spain", "People%27s_Republic_of_China", "Communism"], ["Spain", "Russia", "Communism"], ["Spain", "Soviet_Union", "Communism"], ["Spain", "Turkmenistan", "Communism"], ["Spain", "United_States", "Communism"]]

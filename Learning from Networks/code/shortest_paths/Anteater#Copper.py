@@ -1,0 +1,1 @@
+[["Anteater", "South_America", "Copper"]]

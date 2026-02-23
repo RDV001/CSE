@@ -1,0 +1,1 @@
+[["Oliver_Cromwell", "Malaria", "Philippines", "Hello_Garci_scandal"]]

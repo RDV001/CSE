@@ -1,0 +1,1 @@
+[["Marie_Curie", "Paris", "Capital"], ["Marie_Curie", "Warsaw", "Capital"]]

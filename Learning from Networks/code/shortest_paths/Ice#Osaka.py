@@ -1,0 +1,1 @@
+[["Ice", "Australia", "Japan", "Osaka"], ["Ice", "Automobile", "Japan", "Osaka"], ["Ice", "Ice_hockey", "Japan", "Osaka"], ["Ice", "Iran", "Japan", "Osaka"], ["Ice", "Ice_hockey", "Finland", "Osaka"], ["Ice", "Snow", "Finland", "Osaka"]]

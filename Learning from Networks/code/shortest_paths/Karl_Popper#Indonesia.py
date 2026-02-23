@@ -1,0 +1,1 @@
+[["Karl_Popper", "New_Zealand", "Indonesia"]]

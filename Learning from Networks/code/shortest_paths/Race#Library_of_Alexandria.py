@@ -1,0 +1,1 @@
+[["Race", "Federal_Bureau_of_Investigation", "Library", "Library_of_Alexandria"], ["Race", "Stephen_Jay_Gould", "History_of_science", "Library_of_Alexandria"]]

@@ -1,0 +1,1 @@
+[["Bicycle", "Bogot%C3%A1", "Taj_Mahal", "Rupee"], ["Bicycle", "India", "Taj_Mahal", "Rupee"], ["Bicycle", "India", "Sri_Lanka", "Rupee"], ["Bicycle", "Second_Boer_War", "Sri_Lanka", "Rupee"], ["Bicycle", "Steel", "Sri_Lanka", "Rupee"]]

@@ -1,0 +1,1 @@
+[["Anne_Frank", "God", "Volcano", "Continental_crust"], ["Anne_Frank", "United_States", "Volcano", "Continental_crust"], ["Anne_Frank", "India", "Plate_tectonics", "Continental_crust"], ["Anne_Frank", "Johannesburg", "Diamond", "Continental_crust"]]

@@ -1,0 +1,1 @@
+[["Woodrow_Wilson", "France", "Roman_Empire"], ["Woodrow_Wilson", "Germany", "Roman_Empire"], ["Woodrow_Wilson", "Latin_America", "Roman_Empire"], ["Woodrow_Wilson", "London", "Roman_Empire"]]

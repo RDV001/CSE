@@ -1,0 +1,1 @@
+[["Europe", "Belarus", "Winter", "Vole"], ["Europe", "Bucharest", "Winter", "Vole"], ["Europe", "Copenhagen", "Winter", "Vole"], ["Europe", "England", "Winter", "Vole"], ["Europe", "Ireland", "Badger", "Vole"], ["Europe", "Owl", "Barn_Owl", "Vole"]]

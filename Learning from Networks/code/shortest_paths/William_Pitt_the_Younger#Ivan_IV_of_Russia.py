@@ -1,0 +1,1 @@
+[["William_Pitt_the_Younger", "Ottoman_Empire", "16th_century", "Ivan_IV_of_Russia"], ["William_Pitt_the_Younger", "Ottoman_Empire", "Byzantine_Empire", "Ivan_IV_of_Russia"]]

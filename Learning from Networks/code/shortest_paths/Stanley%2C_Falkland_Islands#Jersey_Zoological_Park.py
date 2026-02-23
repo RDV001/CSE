@@ -1,0 +1,1 @@
+[["Stanley%2C_Falkland_Islands", "United_Kingdom", "Jersey", "Gerald_Durrell", "Jersey_Zoological_Park"]]

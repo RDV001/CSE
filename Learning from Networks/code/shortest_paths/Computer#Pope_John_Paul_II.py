@@ -1,0 +1,1 @@
+[["Computer", "Middle_Ages", "East-West_Schism", "Pope_John_Paul_II"], ["Computer", "Middle_Ages", "Pope", "Pope_John_Paul_II"], ["Computer", "Middle_Ages", "Roman_Catholic_Church", "Pope_John_Paul_II"]]

@@ -1,0 +1,1 @@
+[["Russian_Revolution_of_1917", "Russia", "Earth", "Dinosaur", "Giganotosaurus"]]

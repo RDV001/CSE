@@ -1,0 +1,1 @@
+[["Faroe_Islands", "9th_century", "Alchemy", "Nintendo"], ["Faroe_Islands", "9th_century", "Japan", "Nintendo"], ["Faroe_Islands", "List_of_countries_by_system_of_government", "Japan", "Nintendo"], ["Faroe_Islands", "NATO", "Japan", "Nintendo"], ["Faroe_Islands", "Nineteen_Eighty-Four", "Japan", "Nintendo"], ["Faroe_Islands", "Time_zone", "Japan", "Nintendo"]]

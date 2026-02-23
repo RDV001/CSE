@@ -1,0 +1,1 @@
+[["Palazzo_Pitti", "Baroque", "Portuguese_language", "Atlantic_slave_trade"], ["Palazzo_Pitti", "Louis_XIV_of_France", "Africa", "Atlantic_slave_trade"], ["Palazzo_Pitti", "Malaria", "Africa", "Atlantic_slave_trade"], ["Palazzo_Pitti", "Paris", "Africa", "Atlantic_slave_trade"], ["Palazzo_Pitti", "World_War_II", "Slavery", "Atlantic_slave_trade"]]

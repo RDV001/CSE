@@ -1,0 +1,1 @@
+[["Ouagadougou", "15th_century", "Timur", "Elephant"], ["Ouagadougou", "Abidjan", "Africa", "Elephant"], ["Ouagadougou", "French_language", "Africa", "Elephant"], ["Ouagadougou", "Basketball", "Theodore_Roosevelt", "Elephant"], ["Ouagadougou", "France", "Kenya", "Elephant"]]

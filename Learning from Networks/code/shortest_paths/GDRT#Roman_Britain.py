@@ -1,0 +1,1 @@
+[["GDRT", "Ethiopia", "United_Kingdom", "Roman_Britain"], ["GDRT", "Saudi_Arabia", "United_Kingdom", "Roman_Britain"], ["GDRT", "Yemen", "United_Kingdom", "Roman_Britain"], ["GDRT", "Horn_of_Africa", "Roman_Empire", "Roman_Britain"]]

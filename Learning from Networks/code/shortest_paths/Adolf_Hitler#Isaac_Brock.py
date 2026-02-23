@@ -1,0 +1,1 @@
+[["Adolf_Hitler", "London", "St_Paul%27s_Cathedral", "Isaac_Brock"], ["Adolf_Hitler", "Winston_Churchill", "St_Paul%27s_Cathedral", "Isaac_Brock"], ["Adolf_Hitler", "United_Kingdom", "Guernsey", "Isaac_Brock"], ["Adolf_Hitler", "United_States", "Guernsey", "Isaac_Brock"]]

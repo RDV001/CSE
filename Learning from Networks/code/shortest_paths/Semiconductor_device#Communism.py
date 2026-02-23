@@ -1,0 +1,1 @@
+[["Semiconductor_device", "Europe", "Communism"], ["Semiconductor_device", "United_States", "Communism"]]

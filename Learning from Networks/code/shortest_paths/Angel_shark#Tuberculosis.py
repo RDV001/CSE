@@ -1,0 +1,1 @@
+[["Angel_shark", "Animal", "Bacteria", "Tuberculosis"], ["Angel_shark", "Scientific_classification", "Bacteria", "Tuberculosis"], ["Angel_shark", "Animal", "Bird", "Tuberculosis"], ["Angel_shark", "Shark", "Cancer", "Tuberculosis"]]

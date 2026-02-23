@@ -1,0 +1,1 @@
+[["Iceland_hotspot", "Iceland", "Poland", "Polish-Lithuanian_Commonwealth", "Constitution_of_May_3%2C_1791"], ["Iceland_hotspot", "Water", "Poland", "Polish-Lithuanian_Commonwealth", "Constitution_of_May_3%2C_1791"], ["Iceland_hotspot", "Water", "Turkey", "Polish-Lithuanian_Commonwealth", "Constitution_of_May_3%2C_1791"]]

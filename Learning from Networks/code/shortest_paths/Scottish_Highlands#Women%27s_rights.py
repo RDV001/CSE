@@ -1,0 +1,1 @@
+[["Scottish_Highlands", "Argentina", "Human_rights", "Women%27s_rights"], ["Scottish_Highlands", "Argentina", "Poverty", "Women%27s_rights"], ["Scottish_Highlands", "Ireland", "Civil_rights", "Women%27s_rights"], ["Scottish_Highlands", "Norway", "Animal_rights", "Women%27s_rights"]]

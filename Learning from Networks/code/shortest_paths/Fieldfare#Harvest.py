@@ -1,0 +1,1 @@
+[["Fieldfare", "Bird_migration", "Norway", "Harvest"], ["Fieldfare", "Europe", "Norway", "Harvest"]]

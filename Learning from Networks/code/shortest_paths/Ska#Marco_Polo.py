@@ -1,0 +1,1 @@
+[["Ska", "Argentina", "Ottoman_Empire", "Marco_Polo"], ["Ska", "Argentina", "Petroleum", "Marco_Polo"], ["Ska", "United_Kingdom", "Petroleum", "Marco_Polo"], ["Ska", "United_States", "Petroleum", "Marco_Polo"], ["Ska", "World_War_II", "Beijing", "Marco_Polo"]]

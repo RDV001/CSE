@@ -1,0 +1,1 @@
+[["Ernest_Hemingway", "Africa", "Cheetah", "Albinism"]]

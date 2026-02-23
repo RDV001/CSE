@@ -1,0 +1,1 @@
+[["Fine_art", "Football_%28soccer%29", "Japan"], ["Fine_art", "Literature", "Japan"], ["Fine_art", "Philosophy", "Japan"], ["Fine_art", "Sculpture", "Japan"]]

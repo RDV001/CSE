@@ -1,0 +1,1 @@
+[["Swallow", "Animal", "Energy", "Universe"], ["Swallow", "Animal", "Human", "Universe"], ["Swallow", "Bird", "Human", "Universe"], ["Swallow", "Scientific_classification", "Human", "Universe"]]

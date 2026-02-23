@@ -1,0 +1,1 @@
+[["David_Cameron", "Cold_War", "Adolf_Hitler"], ["David_Cameron", "Czech_Republic", "Adolf_Hitler"], ["David_Cameron", "Germany", "Adolf_Hitler"], ["David_Cameron", "Winston_Churchill", "Adolf_Hitler"], ["David_Cameron", "World_War_II", "Adolf_Hitler"]]

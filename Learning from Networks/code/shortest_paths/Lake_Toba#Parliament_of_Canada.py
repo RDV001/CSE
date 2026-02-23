@@ -1,0 +1,1 @@
+[["Lake_Toba", "India", "Liberal_democracy", "Parliament_of_Canada"], ["Lake_Toba", "Malaysia", "Canada", "Parliament_of_Canada"], ["Lake_Toba", "Malaysia", "Parliamentary_system", "Parliament_of_Canada"], ["Lake_Toba", "Netherlands", "Parliamentary_system", "Parliament_of_Canada"], ["Lake_Toba", "Netherlands", "French_language", "Parliament_of_Canada"]]

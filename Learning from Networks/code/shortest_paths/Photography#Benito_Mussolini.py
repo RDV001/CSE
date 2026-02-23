@@ -1,0 +1,1 @@
+[["Photography", "France", "Italy", "Benito_Mussolini"], ["Photography", "United_States", "Italy", "Benito_Mussolini"], ["Photography", "France", "World_War_II", "Benito_Mussolini"], ["Photography", "United_States", "World_War_II", "Benito_Mussolini"]]

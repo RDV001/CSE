@@ -1,0 +1,1 @@
+[["Congo_River", "Atlantic_Ocean", "Ireland", "William_Butler_Yeats"], ["Congo_River", "Europe", "Ireland", "William_Butler_Yeats"], ["Congo_River", "Europe", "Dublin", "William_Butler_Yeats"], ["Congo_River", "River", "James_Joyce", "William_Butler_Yeats"]]

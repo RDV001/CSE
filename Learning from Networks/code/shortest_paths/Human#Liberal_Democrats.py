@@ -1,0 +1,1 @@
+[["Human", "Pound_sterling", "Liberal_Democrats"]]

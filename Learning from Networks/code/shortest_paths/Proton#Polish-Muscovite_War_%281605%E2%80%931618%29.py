@@ -1,0 +1,1 @@
+[["Proton", "Electric_charge", "18th_century", "Polish-Lithuanian_Commonwealth", "Polish-Muscovite_War_%281605%E2%80%931618%29"], ["Proton", "Physics", "18th_century", "Polish-Lithuanian_Commonwealth", "Polish-Muscovite_War_%281605%E2%80%931618%29"]]

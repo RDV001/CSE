@@ -1,0 +1,1 @@
+[["Panama_Canal", "Charles_V%2C_Holy_Roman_Emperor", "England", "National_parks_of_England_and_Wales"], ["Panama_Canal", "Hong_Kong", "England", "National_parks_of_England_and_Wales"], ["Panama_Canal", "Mexico", "England", "National_parks_of_England_and_Wales"], ["Panama_Canal", "New_York_City", "England", "National_parks_of_England_and_Wales"]]

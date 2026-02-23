@@ -1,0 +1,1 @@
+[["Sucre", "Argentina", "Petroleum", "Euphrates"], ["Sucre", "Bolivia", "Petroleum", "Euphrates"], ["Sucre", "Argentina", "Syria", "Euphrates"], ["Sucre", "Bolivia", "Middle_East", "Euphrates"], ["Sucre", "Spain", "Middle_East", "Euphrates"], ["Sucre", "Capital", "Byzantine_Empire", "Euphrates"], ["Sucre", "Chile", "Turkey", "Euphrates"]]

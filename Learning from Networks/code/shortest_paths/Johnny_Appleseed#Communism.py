@@ -1,0 +1,1 @@
+[["Johnny_Appleseed", "Art", "Communism"], ["Johnny_Appleseed", "United_States", "Communism"], ["Johnny_Appleseed", "Walt_Disney", "Communism"]]

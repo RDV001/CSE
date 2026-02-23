@@ -1,0 +1,1 @@
+[["Aphid", "New_Zealand", "London", "Arsenal_F.C."], ["Aphid", "New_Zealand", "United_Kingdom", "Arsenal_F.C."]]

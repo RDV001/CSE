@@ -1,0 +1,1 @@
+[["Ollanta_Humala", "Nationalism", "19th_century", "Shaka"], ["Ollanta_Humala", "Peru", "19th_century", "Shaka"], ["Ollanta_Humala", "Venezuela", "19th_century", "Shaka"]]

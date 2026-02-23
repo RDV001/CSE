@@ -1,0 +1,1 @@
+[["Afrikaans", "19th_century", "Science", "Thomas_Samuel_Kuhn"], ["Afrikaans", "Scotland", "Science", "Thomas_Samuel_Kuhn"]]

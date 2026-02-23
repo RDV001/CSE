@@ -1,0 +1,1 @@
+[["Kuwait", "Iran", "Astronomy", "Planetary_nebula"], ["Kuwait", "Petroleum", "Sun", "Planetary_nebula"]]

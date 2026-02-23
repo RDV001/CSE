@@ -1,0 +1,1 @@
+[["Syria", "Archaeology", "Humanities", "Thomas_Samuel_Kuhn"], ["Syria", "Lebanon", "Humanities", "Thomas_Samuel_Kuhn"], ["Syria", "Archaeology", "Science", "Thomas_Samuel_Kuhn"], ["Syria", "Iraq", "Science", "Thomas_Samuel_Kuhn"], ["Syria", "Israel", "Science", "Thomas_Samuel_Kuhn"]]

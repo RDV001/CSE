@@ -1,0 +1,1 @@
+[["Trichinosis", "United_States", "Education", "Arithmetic"], ["Trichinosis", "United_States", "Education_in_the_United_States", "Arithmetic"]]

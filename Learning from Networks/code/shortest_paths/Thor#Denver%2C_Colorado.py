@@ -1,0 +1,1 @@
+[["Thor", "English_language", "United_States", "Denver%2C_Colorado"], ["Thor", "Germany", "United_States", "Denver%2C_Colorado"], ["Thor", "God", "United_States", "Denver%2C_Colorado"], ["Thor", "Sheffield", "United_States", "Denver%2C_Colorado"]]

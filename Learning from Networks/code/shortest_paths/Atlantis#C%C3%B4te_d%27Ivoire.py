@@ -1,0 +1,1 @@
+[["Atlantis", "Africa", "C%C3%B4te_d%27Ivoire"], ["Atlantis", "Atlantic_Ocean", "C%C3%B4te_d%27Ivoire"], ["Atlantis", "Turkey", "C%C3%B4te_d%27Ivoire"]]

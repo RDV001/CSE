@@ -1,0 +1,1 @@
+[["Great_Wall_of_China", "17th_century", "Hungary"], ["Great_Wall_of_China", "Kitsch", "Hungary"], ["Great_Wall_of_China", "World_Heritage_Site", "Hungary"]]

@@ -1,0 +1,1 @@
+[["Styracosaurus", "Cretaceous", "Coal", "Pyrite"], ["Styracosaurus", "Fossil", "Mineral", "Pyrite"]]

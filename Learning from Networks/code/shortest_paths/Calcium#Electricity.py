@@ -1,0 +1,1 @@
+[["Calcium", "Aluminium", "Electricity"], ["Calcium", "Copper", "Electricity"], ["Calcium", "Electron", "Electricity"], ["Calcium", "Magnetism", "Electricity"], ["Calcium", "Metal", "Electricity"], ["Calcium", "Titanium", "Electricity"]]

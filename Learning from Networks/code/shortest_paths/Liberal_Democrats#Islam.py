@@ -1,0 +1,1 @@
+[["Liberal_Democrats", "European_Union", "Islam"], ["Liberal_Democrats", "Scotland", "Islam"], ["Liberal_Democrats", "United_Kingdom", "Islam"]]

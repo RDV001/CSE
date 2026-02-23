@@ -1,0 +1,1 @@
+[["War", "Human_rights"]]

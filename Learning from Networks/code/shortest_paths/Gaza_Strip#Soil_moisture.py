@@ -1,0 +1,1 @@
+[["Gaza_Strip", "Drought", "Hydrology", "Soil_moisture"]]

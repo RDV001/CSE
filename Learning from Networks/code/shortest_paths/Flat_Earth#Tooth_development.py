@@ -1,0 +1,1 @@
+[["Flat_Earth", "Africa", "Elephant", "Tooth_development"], ["Flat_Earth", "Ferdinand_Magellan", "Elephant", "Tooth_development"], ["Flat_Earth", "Rudyard_Kipling", "Elephant", "Tooth_development"]]

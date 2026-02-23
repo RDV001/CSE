@@ -1,0 +1,1 @@
+[["Haemophilia", "12th_century", "England", "Winter", "Vole"], ["Haemophilia", "Jew", "England", "Winter", "Vole"], ["Haemophilia", "Victoria_of_the_United_Kingdom", "England", "Winter", "Vole"], ["Haemophilia", "Victoria_of_the_United_Kingdom", "Sydney", "Winter", "Vole"], ["Haemophilia", "12th_century", "Ireland", "Badger", "Vole"]]

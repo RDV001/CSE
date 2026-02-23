@@ -1,0 +1,1 @@
+[["Parliamentary_system", "Bill_Clinton", "Grover_Cleveland"], ["Parliamentary_system", "President_of_the_United_States", "Grover_Cleveland"]]

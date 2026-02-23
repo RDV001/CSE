@@ -1,0 +1,1 @@
+[["Wright_brothers", "Alberto_Santos-Dumont", "Multiple_sclerosis", "Eye", "Eyelid"], ["Wright_brothers", "Leonardo_da_Vinci", "Brain", "Eye", "Eyelid"], ["Wright_brothers", "Leonardo_da_Vinci", "Sigmund_Freud", "Eye", "Eyelid"], ["Wright_brothers", "Myocardial_infarction", "AIDS", "Eye", "Eyelid"], ["Wright_brothers", "Myocardial_infarction", "Morphine", "Eye", "Eyelid"]]

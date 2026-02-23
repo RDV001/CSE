@@ -1,0 +1,1 @@
+[["Italo_disco", "English_language", "World_War_II", "Naval_Battle_of_Guadalcanal", "Battle_of_Rennell_Island"], ["Italo_disco", "Europe", "World_War_II", "Naval_Battle_of_Guadalcanal", "Battle_of_Rennell_Island"], ["Italo_disco", "Germany", "World_War_II", "Naval_Battle_of_Guadalcanal", "Battle_of_Rennell_Island"]]

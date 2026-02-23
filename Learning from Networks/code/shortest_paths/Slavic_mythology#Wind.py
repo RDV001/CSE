@@ -1,0 +1,1 @@
+[["Slavic_mythology", "Australia", "England", "Wind"], ["Slavic_mythology", "Halloween", "England", "Wind"], ["Slavic_mythology", "Australia", "Norfolk_Island", "Wind"], ["Slavic_mythology", "Melbourne", "Garden", "Wind"]]

@@ -1,0 +1,1 @@
+[["Quark", "Richard_Feynman", "Los_Angeles%2C_California", "Mormon"]]

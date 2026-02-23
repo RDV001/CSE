@@ -1,0 +1,1 @@
+[["Tripitaka", "Buddhism", "Jew", "Heraclius"], ["Tripitaka", "History_of_Buddhism", "Jew", "Heraclius"], ["Tripitaka", "Buddhism", "Sassanid_Empire", "Heraclius"], ["Tripitaka", "Chinese_language", "7th_century", "Heraclius"]]

@@ -1,0 +1,1 @@
+[["Great_Lakes", "Canada", "Stephen_Harper"]]

@@ -1,0 +1,1 @@
+[["Robinson_Crusoe", "Brazil", "Time_zone"], ["Robinson_Crusoe", "Chile", "Time_zone"], ["Robinson_Crusoe", "England", "Time_zone"], ["Robinson_Crusoe", "France", "Time_zone"], ["Robinson_Crusoe", "Portugal", "Time_zone"], ["Robinson_Crusoe", "Scotland", "Time_zone"], ["Robinson_Crusoe", "Spain", "Time_zone"]]

@@ -1,0 +1,1 @@
+[["Giza_pyramid_complex", "Archaeology", "New_York_City", "Newark%2C_New_Jersey"], ["Giza_pyramid_complex", "Cairo", "New_York_City", "Newark%2C_New_Jersey"]]

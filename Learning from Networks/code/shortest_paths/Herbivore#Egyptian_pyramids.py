@@ -1,0 +1,1 @@
+[["Herbivore", "Africa", "Ancient_Egypt", "Egyptian_pyramids"], ["Herbivore", "Seed", "Ancient_Egypt", "Egyptian_pyramids"], ["Herbivore", "Africa", "Egypt", "Egyptian_pyramids"]]

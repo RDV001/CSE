@@ -1,0 +1,1 @@
+[["Brunei", "Arabic_language", "Alchemy", "Tycho_Brahe"], ["Brunei", "Islam", "Alchemy", "Tycho_Brahe"], ["Brunei", "Europe", "Prague", "Tycho_Brahe"], ["Brunei", "Religion", "Astrology", "Tycho_Brahe"]]

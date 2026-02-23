@@ -1,0 +1,1 @@
+[["Andrew_Jackson", "American_Revolutionary_War", "British_Empire", "Mercantilism"], ["Andrew_Jackson", "Great_Britain", "Ancient_Rome", "Mercantilism"], ["Andrew_Jackson", "Spain", "Ancient_Rome", "Mercantilism"], ["Andrew_Jackson", "Spain", "Scramble_for_Africa", "Mercantilism"], ["Andrew_Jackson", "Washington%2C_D.C.", "Economics", "Mercantilism"]]

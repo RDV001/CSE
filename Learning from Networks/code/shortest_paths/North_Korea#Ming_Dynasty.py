@@ -1,0 +1,1 @@
+[["North_Korea", "China", "Ming_Dynasty"], ["North_Korea", "Japan", "Ming_Dynasty"], ["North_Korea", "Korea", "Ming_Dynasty"]]

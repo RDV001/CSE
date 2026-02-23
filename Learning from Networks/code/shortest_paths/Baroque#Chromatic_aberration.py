@@ -1,0 +1,1 @@
+[["Baroque", "Painting", "Glass", "Chromatic_aberration"]]

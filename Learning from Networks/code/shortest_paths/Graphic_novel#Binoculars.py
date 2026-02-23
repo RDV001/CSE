@@ -1,0 +1,1 @@
+[["Graphic_novel", "The_Adventures_of_Tintin", "Yeti", "Binoculars"], ["Graphic_novel", "World_War_II", "Battle_of_Moscow", "Binoculars"]]

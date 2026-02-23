@@ -1,0 +1,1 @@
+[["Myers-Briggs_Type_Indicator", "World_War_II", "Egypt"]]

@@ -1,0 +1,1 @@
+[["U.S._state", "Detroit%2C_Michigan", "United_Arab_Emirates"], ["U.S._state", "Georgia_%28country%29", "United_Arab_Emirates"]]

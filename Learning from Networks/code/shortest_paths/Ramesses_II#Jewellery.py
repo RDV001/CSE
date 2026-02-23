@@ -1,0 +1,1 @@
+[["Ramesses_II", "Ancient_Egypt", "Ancient_Greece", "Jewellery"], ["Ramesses_II", "Mediterranean_Sea", "Ancient_Greece", "Jewellery"], ["Ramesses_II", "Slavery", "Ancient_Greece", "Jewellery"], ["Ramesses_II", "Ancient_Egypt", "Turquoise", "Jewellery"]]

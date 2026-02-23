@@ -1,0 +1,1 @@
+[["Bah%C3%A1%27%C3%AD_Faith", "Baghdad", "Electricity", "Alternating_current"], ["Bah%C3%A1%27%C3%AD_Faith", "Geneva", "Electricity", "Alternating_current"], ["Bah%C3%A1%27%C3%AD_Faith", "Bangkok", "Ozone", "Alternating_current"], ["Bah%C3%A1%27%C3%AD_Faith", "Tehran", "Ozone", "Alternating_current"]]

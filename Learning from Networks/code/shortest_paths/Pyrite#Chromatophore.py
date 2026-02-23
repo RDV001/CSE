@@ -1,0 +1,1 @@
+[["Pyrite", "Mining", "Pigment", "Albinism", "Chromatophore"]]

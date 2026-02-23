@@ -1,0 +1,1 @@
+[["Church_of_England", "Ireland", "Natural_gas"]]

@@ -1,0 +1,1 @@
+[["Minnesota", "Gulf_of_Mexico", "Cuba"], ["Minnesota", "Mississippi_River", "Cuba"], ["Minnesota", "North_America", "Cuba"], ["Minnesota", "United_States", "Cuba"]]

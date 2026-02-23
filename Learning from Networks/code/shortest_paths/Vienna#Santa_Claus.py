@@ -1,0 +1,1 @@
+[["Vienna", "Germany", "Coal", "Santa_Claus"], ["Vienna", "Industry", "Coal", "Santa_Claus"], ["Vienna", "Israel", "Coal", "Santa_Claus"], ["Vienna", "Poland", "Coal", "Santa_Claus"]]

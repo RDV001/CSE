@@ -1,0 +1,1 @@
+[["Lebanon", "Africa", "Poverty"], ["Lebanon", "Argentina", "Poverty"], ["Lebanon", "Brazil", "Poverty"], ["Lebanon", "Dominica", "Poverty"], ["Lebanon", "Human_rights", "Poverty"], ["Lebanon", "Libya", "Poverty"], ["Lebanon", "Madagascar", "Poverty"], ["Lebanon", "Turkmenistan", "Poverty"], ["Lebanon", "United_Nations", "Poverty"]]

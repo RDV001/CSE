@@ -1,0 +1,1 @@
+[["Supply_and_demand", "United_States", "Moon", "Titanium"]]

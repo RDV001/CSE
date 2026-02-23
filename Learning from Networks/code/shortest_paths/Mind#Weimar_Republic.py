@@ -1,0 +1,1 @@
+[["Mind", "Charles_Darwin", "Nazi_Germany", "Weimar_Republic"], ["Mind", "Sigmund_Freud", "Nazi_Germany", "Weimar_Republic"]]

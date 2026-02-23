@@ -1,0 +1,1 @@
+[["Wave", "Quantum_mechanics", "Latin", "Western_Roman_Empire"], ["Wave", "Speed_of_light", "Latin", "Western_Roman_Empire"], ["Wave", "Ultraviolet", "Latin", "Western_Roman_Empire"]]

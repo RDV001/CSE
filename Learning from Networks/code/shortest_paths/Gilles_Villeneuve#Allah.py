@@ -1,0 +1,1 @@
+[["Gilles_Villeneuve", "Canada", "Islam", "Allah"], ["Gilles_Villeneuve", "Montreal", "Islam", "Allah"], ["Gilles_Villeneuve", "Toronto", "Islam", "Allah"], ["Gilles_Villeneuve", "Formula_One", "Indonesian_language", "Allah"], ["Gilles_Villeneuve", "French_language", "Arabic_language", "Allah"]]

@@ -1,0 +1,1 @@
+[["Syria", "Geneva", "United_States_dollar"], ["Syria", "United_Kingdom", "United_States_dollar"]]

@@ -1,0 +1,1 @@
+[["Galaxy", "Black_hole", "Stephen_Hawking"], ["Galaxy", "Galileo_Galilei", "Stephen_Hawking"]]

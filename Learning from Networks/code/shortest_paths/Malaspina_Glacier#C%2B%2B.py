@@ -1,0 +1,1 @@
+[["Malaspina_Glacier", "North_America", "Asia", "Computer", "C%2B%2B"], ["Malaspina_Glacier", "North_America", "California", "Computer", "C%2B%2B"], ["Malaspina_Glacier", "North_America", "United_Kingdom", "Computer", "C%2B%2B"], ["Malaspina_Glacier", "North_America", "United_States", "Computer", "C%2B%2B"]]

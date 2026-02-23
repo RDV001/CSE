@@ -1,0 +1,1 @@
+[["Mikhail_Gorbachev", "United_Kingdom", "Guernsey"], ["Mikhail_Gorbachev", "United_States", "Guernsey"]]

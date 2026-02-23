@@ -1,0 +1,1 @@
+[["Pac-Man", "Japan", "Portugal", "Christian_monasticism"], ["Pac-Man", "United_States", "Portugal", "Christian_monasticism"]]

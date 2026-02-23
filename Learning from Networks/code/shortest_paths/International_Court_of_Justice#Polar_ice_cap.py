@@ -1,0 +1,1 @@
+[["International_Court_of_Justice", "Netherlands", "Glacier", "Polar_ice_cap"], ["International_Court_of_Justice", "Switzerland", "Glacier", "Polar_ice_cap"], ["International_Court_of_Justice", "Nicaragua", "Water", "Polar_ice_cap"]]

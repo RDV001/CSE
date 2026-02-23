@@ -1,0 +1,1 @@
+[["16_Cygni_Bb", "Day", "United_States", "United_States_Constitution"], ["16_Cygni_Bb", "Earth", "United_States", "United_States_Constitution"], ["16_Cygni_Bb", "Season", "United_States", "United_States_Constitution"], ["16_Cygni_Bb", "Sun", "United_States", "United_States_Constitution"], ["16_Cygni_Bb", "Water", "United_States", "United_States_Constitution"]]

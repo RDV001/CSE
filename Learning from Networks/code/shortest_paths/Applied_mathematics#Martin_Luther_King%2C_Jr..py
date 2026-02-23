@@ -1,0 +1,1 @@
+[["Applied_mathematics", "Cryptography", "Federal_Bureau_of_Investigation", "Martin_Luther_King%2C_Jr."], ["Applied_mathematics", "Cryptography", "United_States", "Martin_Luther_King%2C_Jr."], ["Applied_mathematics", "Republic_of_Ireland", "United_States", "Martin_Luther_King%2C_Jr."], ["Applied_mathematics", "Republic_of_Ireland", "U2", "Martin_Luther_King%2C_Jr."]]

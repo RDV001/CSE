@@ -1,0 +1,1 @@
+[["Hurricane_Gloria", "Atlantic_Ocean", "New_York_City", "Grand_Central_Terminal"], ["Hurricane_Gloria", "Ronald_Reagan", "New_York_City", "Grand_Central_Terminal"], ["Hurricane_Gloria", "Tropical_cyclone", "New_York_City", "Grand_Central_Terminal"]]

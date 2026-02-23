@@ -1,0 +1,1 @@
+[["Kochi_%28India%29", "Islam", "Poverty", "Working_poor"]]

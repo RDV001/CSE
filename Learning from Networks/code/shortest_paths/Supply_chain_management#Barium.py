@@ -1,0 +1,1 @@
+[["Supply_chain_management", "Supply_and_demand", "Japanese_yen", "Copper", "Barium"], ["Supply_chain_management", "Supply_and_demand", "United_States", "Coal", "Barium"]]

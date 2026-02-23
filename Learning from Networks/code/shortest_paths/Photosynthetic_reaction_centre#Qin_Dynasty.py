@@ -1,0 +1,1 @@
+[["Photosynthetic_reaction_centre", "Copper", "China", "Qin_Dynasty"], ["Photosynthetic_reaction_centre", "Water", "China", "Qin_Dynasty"]]

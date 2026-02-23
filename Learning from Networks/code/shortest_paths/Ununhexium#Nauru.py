@@ -1,0 +1,1 @@
+[["Ununhexium", "Russia", "List_of_countries_by_system_of_government", "Nauru"], ["Ununhexium", "Russia", "Pacific_Ocean", "Nauru"]]

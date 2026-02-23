@@ -1,0 +1,1 @@
+[["Scurvy", "Lemon", "Water", "Water_purification"], ["Scurvy", "Sulfuric_acid", "Water", "Water_purification"], ["Scurvy", "Sulfuric_acid", "Aluminium", "Water_purification"], ["Scurvy", "World_War_I", "Chlorine", "Water_purification"]]

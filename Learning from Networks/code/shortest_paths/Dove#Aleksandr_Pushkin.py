@@ -1,0 +1,1 @@
+[["Dove", "Bird", "19th_century", "Aleksandr_Pushkin"], ["Dove", "Iran", "Poetry", "Aleksandr_Pushkin"], ["Dove", "Jew", "Russian_language", "Aleksandr_Pushkin"], ["Dove", "Poland", "Black_Death", "Aleksandr_Pushkin"]]

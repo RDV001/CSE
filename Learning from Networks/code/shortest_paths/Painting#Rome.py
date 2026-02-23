@@ -1,0 +1,1 @@
+[["Painting", "Architecture", "Rome"], ["Painting", "Aristotle", "Rome"], ["Painting", "Baroque", "Rome"], ["Painting", "Caravaggio", "Rome"], ["Painting", "Mona_Lisa", "Rome"], ["Painting", "Rabindranath_Tagore", "Rome"], ["Painting", "Raphael", "Rome"]]

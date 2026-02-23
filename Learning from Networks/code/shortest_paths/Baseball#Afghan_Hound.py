@@ -1,0 +1,1 @@
+[["Baseball", "Israel", "Afghanistan", "Afghan_Hound"], ["Baseball", "September_11%2C_2001_attacks", "Afghanistan", "Afghan_Hound"]]

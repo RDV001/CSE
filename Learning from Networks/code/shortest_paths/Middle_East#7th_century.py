@@ -1,0 +1,1 @@
+[["Middle_East", "20th_century", "7th_century"], ["Middle_East", "Iraq", "7th_century"], ["Middle_East", "Islam", "7th_century"], ["Middle_East", "Yemen", "7th_century"]]

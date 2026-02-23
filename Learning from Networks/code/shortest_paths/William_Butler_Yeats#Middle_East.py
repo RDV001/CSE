@@ -1,0 +1,1 @@
+[["William_Butler_Yeats", "Astrology", "Middle_East"], ["William_Butler_Yeats", "Philosophy", "Middle_East"]]

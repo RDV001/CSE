@@ -1,0 +1,1 @@
+[["Shanghai", "Europe", "Prague"], ["Shanghai", "German_language", "Prague"], ["Shanghai", "Hamburg", "Prague"], ["Shanghai", "Istanbul", "Prague"]]

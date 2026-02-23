@@ -1,0 +1,1 @@
+[["Thorax", "Animal", "Vertebrate", "Eye"], ["Thorax", "Human", "AIDS", "Eye"], ["Thorax", "Human", "Brain", "Eye"], ["Thorax", "Human", "Elephant", "Eye"], ["Thorax", "Human", "Pigment", "Eye"], ["Thorax", "Human", "Sigmund_Freud", "Eye"], ["Thorax", "Human", "Ultraviolet", "Eye"], ["Thorax", "Insect", "Ultraviolet", "Eye"]]

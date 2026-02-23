@@ -1,0 +1,1 @@
+[["Clock", "Caesium", "Electron", "Electron_beam_welding"], ["Clock", "Electronics", "Electron", "Electron_beam_welding"], ["Clock", "Hydrogen", "Electron", "Electron_beam_welding"], ["Clock", "Mercury_%28element%29", "Electron", "Electron_beam_welding"], ["Clock", "Rubidium", "Electron", "Electron_beam_welding"], ["Clock", "Hydrogen", "Welding", "Electron_beam_welding"]]

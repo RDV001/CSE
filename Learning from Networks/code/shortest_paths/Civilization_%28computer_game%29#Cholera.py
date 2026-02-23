@@ -1,0 +1,1 @@
+[["Civilization_%28computer_game%29", "Joseph_Stalin", "Cholera"], ["Civilization_%28computer_game%29", "Slavery", "Cholera"]]

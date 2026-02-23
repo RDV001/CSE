@@ -1,0 +1,1 @@
+[["Hanoi", "Australia", "Asia", "Abu_Dhabi"], ["Hanoi", "Confucius", "Asia", "Abu_Dhabi"], ["Hanoi", "Japan", "Asia", "Abu_Dhabi"], ["Hanoi", "Tokyo", "Global_city", "Abu_Dhabi"], ["Hanoi", "Tourism", "Dubai", "Abu_Dhabi"], ["Hanoi", "Vladimir_Lenin", "Manchester", "Abu_Dhabi"]]

@@ -1,0 +1,1 @@
+[["Currency", "19th_century", "Puerto_Rico", "Eocene"], ["Currency", "19th_century", "Red_Sea", "Eocene"], ["Currency", "Ancient_Egypt", "Red_Sea", "Eocene"], ["Currency", "Fertile_Crescent", "Horse", "Eocene"], ["Currency", "Numismatics", "Horse", "Eocene"], ["Currency", "List_of_circulating_currencies", "Trinidad_and_Tobago", "Eocene"]]

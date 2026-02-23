@@ -1,0 +1,1 @@
+[["Milan", "Global_city", "Beijing"], ["Milan", "London", "Beijing"], ["Milan", "New_York_City", "Beijing"], ["Milan", "Paris", "Beijing"], ["Milan", "Rome", "Beijing"], ["Milan", "Tokyo", "Beijing"], ["Milan", "World_War_II", "Beijing"]]

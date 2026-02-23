@@ -1,0 +1,1 @@
+[["World_War_II", "Hong_Kong", "Bridge", "Tay_Rail_Bridge"], ["World_War_II", "Marshall_Plan", "Bridge", "Tay_Rail_Bridge"], ["World_War_II", "Rhine", "Bridge", "Tay_Rail_Bridge"], ["World_War_II", "Tank", "Bridge", "Tay_Rail_Bridge"], ["World_War_II", "Moscow", "Photography", "Tay_Rail_Bridge"], ["World_War_II", "Winston_Churchill", "Dundee", "Tay_Rail_Bridge"]]

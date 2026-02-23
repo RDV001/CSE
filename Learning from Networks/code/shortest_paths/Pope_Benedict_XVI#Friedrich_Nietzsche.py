@@ -1,0 +1,1 @@
+[["Pope_Benedict_XVI", "Augustine_of_Hippo", "Friedrich_Nietzsche"], ["Pope_Benedict_XVI", "Germany", "Friedrich_Nietzsche"], ["Pope_Benedict_XVI", "Nazism", "Friedrich_Nietzsche"]]

@@ -1,0 +1,1 @@
+[["Economics", "Money", "Bob_Dylan", "Bruce_Springsteen"], ["Economics", "United_States", "American_popular_music", "Bruce_Springsteen"], ["Economics", "United_States", "Music_of_the_United_States", "Bruce_Springsteen"], ["Economics", "University_of_Chicago", "U2", "Bruce_Springsteen"]]

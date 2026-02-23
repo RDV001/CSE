@@ -1,0 +1,1 @@
+[["F-35_Lightning_II", "Turkey", "Olive_oil", "Sichuan_Pepper"]]

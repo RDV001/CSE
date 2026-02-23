@@ -1,0 +1,1 @@
+[["The_Lion_King", "United_States", "Ecuador"], ["The_Lion_King", "United_States_dollar", "Ecuador"]]

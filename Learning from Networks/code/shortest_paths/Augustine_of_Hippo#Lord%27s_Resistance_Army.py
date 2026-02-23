@@ -1,0 +1,1 @@
+[["Augustine_of_Hippo", "Algeria", "Sudan", "Lord%27s_Resistance_Army"], ["Augustine_of_Hippo", "North_Africa", "Sudan", "Lord%27s_Resistance_Army"], ["Augustine_of_Hippo", "Roman_Catholic_Church", "Uganda", "Lord%27s_Resistance_Army"]]

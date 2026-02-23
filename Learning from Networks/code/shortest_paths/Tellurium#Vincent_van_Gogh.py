@@ -1,0 +1,1 @@
+[["Tellurium", "Color", "Vincent_van_Gogh"]]

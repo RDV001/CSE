@@ -1,0 +1,1 @@
+[["Horse", "England", "Newcastle_upon_Tyne", "Durham"], ["Horse", "United_Kingdom", "City_status_in_the_United_Kingdom", "Durham"], ["Horse", "United_Kingdom", "Tony_Blair", "Durham"]]

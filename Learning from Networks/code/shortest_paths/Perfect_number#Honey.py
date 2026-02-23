@@ -1,0 +1,1 @@
+[["Perfect_number", "Ancient_Greece", "Alexander_the_Great", "Honey"], ["Perfect_number", "Ancient_Greece", "Bread", "Honey"], ["Perfect_number", "Ancient_Greece", "Hippocrates", "Honey"], ["Perfect_number", "Ancient_Greece", "Wine", "Honey"]]

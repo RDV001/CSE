@@ -1,0 +1,1 @@
+[["David_Heymann", "Architecture", "Ancient_Greece", "Socrates"], ["David_Heymann", "Architecture", "Greece", "Socrates"], ["David_Heymann", "United_States", "Greece", "Socrates"], ["David_Heymann", "Architecture", "Philosophy", "Socrates"], ["David_Heymann", "George_W._Bush", "Philosophy", "Socrates"]]

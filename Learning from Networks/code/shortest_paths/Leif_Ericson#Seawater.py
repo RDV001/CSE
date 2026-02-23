@@ -1,0 +1,1 @@
+[["Leif_Ericson", "Great_Lakes", "Fresh_water", "Seawater"], ["Leif_Ericson", "Minnesota", "Norman_Borlaug", "Seawater"], ["Leif_Ericson", "Minnesota", "Ocean", "Seawater"], ["Leif_Ericson", "President_of_the_United_States", "2004_Indian_Ocean_earthquake", "Seawater"], ["Leif_Ericson", "United_States", "Property", "Seawater"], ["Leif_Ericson", "Winter", "Water", "Seawater"]]

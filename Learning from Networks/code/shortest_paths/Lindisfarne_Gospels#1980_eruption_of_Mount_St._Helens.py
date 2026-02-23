@@ -1,0 +1,1 @@
+[["Lindisfarne_Gospels", "10th_century", "Philippines", "Mount_Pinatubo", "1980_eruption_of_Mount_St._Helens"], ["Lindisfarne_Gospels", "English_language", "Philippines", "Mount_Pinatubo", "1980_eruption_of_Mount_St._Helens"]]

@@ -1,0 +1,1 @@
+[["Wasp", "Animal", "Carbon_dioxide", "Photon"], ["Wasp", "Ant", "Carbon_dioxide", "Photon"], ["Wasp", "Animal", "Energy", "Photon"], ["Wasp", "Animal", "Photosynthesis", "Photon"], ["Wasp", "Ant", "Sun", "Photon"], ["Wasp", "Scientific_classification", "Drosophila_melanogaster", "Photon"]]

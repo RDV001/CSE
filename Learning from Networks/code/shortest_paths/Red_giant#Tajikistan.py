@@ -1,0 +1,1 @@
+[["Red_giant", "Earth", "Asia", "Tajikistan"], ["Red_giant", "Earth", "German_language", "Tajikistan"], ["Red_giant", "Universe", "German_language", "Tajikistan"], ["Red_giant", "Earth", "Russian_language", "Tajikistan"], ["Red_giant", "Hydrogen", "Mercury_%28element%29", "Tajikistan"], ["Red_giant", "Superman", "Scouting", "Tajikistan"]]

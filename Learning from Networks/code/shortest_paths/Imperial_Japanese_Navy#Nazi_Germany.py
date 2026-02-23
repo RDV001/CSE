@@ -1,0 +1,1 @@
+[["Imperial_Japanese_Navy", "Attack_on_Pearl_Harbor", "Nazi_Germany"], ["Imperial_Japanese_Navy", "Japan", "Nazi_Germany"], ["Imperial_Japanese_Navy", "League_of_Nations", "Nazi_Germany"], ["Imperial_Japanese_Navy", "Netherlands", "Nazi_Germany"], ["Imperial_Japanese_Navy", "Russia", "Nazi_Germany"], ["Imperial_Japanese_Navy", "World_War_II", "Nazi_Germany"]]

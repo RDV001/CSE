@@ -1,0 +1,1 @@
+[["Windows_XP", "European_Union", "Republic_of_Ireland", "U2"], ["Windows_XP", "Internet_Explorer", "Bill_Gates", "U2"], ["Windows_XP", "Microsoft", "Bill_Gates", "U2"], ["Windows_XP", "Windows_Vista", "Bill_Gates", "U2"], ["Windows_XP", "New_Zealand", "Irish_people", "U2"], ["Windows_XP", "South_America", "21st_century", "U2"]]

@@ -1,0 +1,1 @@
+[["Mancala", "Africa", "Zambia", "Lake_Kariba"], ["Mancala", "Eritrea", "Zambia", "Lake_Kariba"], ["Mancala", "Ethiopia", "Zambia", "Lake_Kariba"]]

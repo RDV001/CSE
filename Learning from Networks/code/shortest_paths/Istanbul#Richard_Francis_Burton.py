@@ -1,0 +1,1 @@
+[["Istanbul", "Africa", "Richard_Francis_Burton"]]

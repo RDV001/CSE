@@ -1,0 +1,1 @@
+[["Swan", "Australia", "James_Cook", "Walrus"], ["Swan", "New_Zealand", "James_Cook", "Walrus"], ["Swan", "Europe", "Arctic_Ocean", "Walrus"], ["Swan", "North_America", "Arctic_Ocean", "Walrus"], ["Swan", "Russia", "Arctic_Ocean", "Walrus"], ["Swan", "Europe", "Carnivore", "Walrus"]]

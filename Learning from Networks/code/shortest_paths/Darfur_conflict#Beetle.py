@@ -1,0 +1,1 @@
+[["Darfur_conflict", "Famine", "Desert_locust", "Beetle"], ["Darfur_conflict", "World_Health_Organization", "Tobacco", "Beetle"]]

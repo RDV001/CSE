@@ -1,0 +1,1 @@
+[["Voltaire", "Gottfried_Leibniz"]]

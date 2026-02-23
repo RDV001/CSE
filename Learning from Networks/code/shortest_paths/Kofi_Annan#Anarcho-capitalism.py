@@ -1,0 +1,1 @@
+[["Kofi_Annan", "Africa", "Mogadishu", "Anarcho-capitalism"], ["Kofi_Annan", "Belgium", "Liberalism", "Anarcho-capitalism"], ["Kofi_Annan", "Egypt", "Liberalism", "Anarcho-capitalism"], ["Kofi_Annan", "Human_rights", "Liberalism", "Anarcho-capitalism"], ["Kofi_Annan", "Middle_East", "Politics", "Anarcho-capitalism"]]

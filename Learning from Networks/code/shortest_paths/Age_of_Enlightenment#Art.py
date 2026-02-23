@@ -1,0 +1,1 @@
+[["Age_of_Enlightenment", "Aesthetics", "Art"], ["Age_of_Enlightenment", "Liberalism", "Art"], ["Age_of_Enlightenment", "Poland", "Art"], ["Age_of_Enlightenment", "Renaissance", "Art"]]

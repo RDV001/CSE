@@ -1,0 +1,1 @@
+[["Lake_Baikal", "Bear", "Mammal", "Dimetrodon"], ["Lake_Baikal", "Nature", "Mammal", "Dimetrodon"], ["Lake_Baikal", "Evolution", "Dinosaur", "Dimetrodon"], ["Lake_Baikal", "Nature", "Dinosaur", "Dimetrodon"]]

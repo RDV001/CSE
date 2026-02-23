@@ -1,0 +1,1 @@
+[["Roman_Empire", "Africa", "Crocodile", "Vertebrate"], ["Roman_Empire", "Africa", "Elephant", "Vertebrate"], ["Roman_Empire", "Africa", "Fossil", "Vertebrate"], ["Roman_Empire", "Europe", "Fish", "Vertebrate"], ["Roman_Empire", "Europe", "Mammal", "Vertebrate"], ["Roman_Empire", "Rhine", "Oligocene", "Vertebrate"], ["Roman_Empire", "Sculpture", "Anatomy", "Vertebrate"]]

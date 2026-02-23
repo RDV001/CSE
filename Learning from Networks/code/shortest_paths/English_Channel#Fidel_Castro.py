@@ -1,0 +1,1 @@
+[["English_Channel", "Napoleon_I_of_France", "Propaganda", "Fidel_Castro"], ["English_Channel", "Nazi_Germany", "Cold_War", "Fidel_Castro"], ["English_Channel", "World_War_II", "Cold_War", "Fidel_Castro"], ["English_Channel", "Ramsgate", "Karl_Marx", "Fidel_Castro"]]

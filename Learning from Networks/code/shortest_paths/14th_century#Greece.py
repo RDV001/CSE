@@ -1,0 +1,1 @@
+[["14th_century", "England", "Greece"], ["14th_century", "Europe", "Greece"], ["14th_century", "Italy", "Greece"], ["14th_century", "Ottoman_Empire", "Greece"], ["14th_century", "Time", "Greece"], ["14th_century", "Washington%2C_D.C.", "Greece"]]

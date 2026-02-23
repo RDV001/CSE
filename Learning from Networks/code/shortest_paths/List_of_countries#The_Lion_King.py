@@ -1,0 +1,1 @@
+[["List_of_countries", "Japan", "Animation", "The_Lion_King"], ["List_of_countries", "South_Africa", "Hyena", "The_Lion_King"], ["List_of_countries", "Tanzania", "Mount_Kilimanjaro", "The_Lion_King"]]

@@ -1,0 +1,1 @@
+[["Republic_of_Ireland", "Dublin", "Budapest", "Edward_Teller"], ["Republic_of_Ireland", "Europe", "Budapest", "Edward_Teller"], ["Republic_of_Ireland", "European_Union", "Budapest", "Edward_Teller"], ["Republic_of_Ireland", "Germany", "Albert_Einstein", "Edward_Teller"]]

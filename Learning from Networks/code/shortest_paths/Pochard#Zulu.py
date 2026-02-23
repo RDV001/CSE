@@ -1,0 +1,1 @@
+[["Pochard", "Asia", "Africa", "Zulu"], ["Pochard", "Bird_migration", "Africa", "Zulu"], ["Pochard", "Europe", "Africa", "Zulu"], ["Pochard", "North_America", "Africa", "Zulu"], ["Pochard", "Bird", "19th_century", "Zulu"], ["Pochard", "England", "19th_century", "Zulu"], ["Pochard", "Carolus_Linnaeus", "South_Africa", "Zulu"]]

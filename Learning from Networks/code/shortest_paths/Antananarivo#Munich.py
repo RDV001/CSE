@@ -1,0 +1,1 @@
+[["Antananarivo", "Mosque", "Munich"], ["Antananarivo", "Park", "Munich"]]

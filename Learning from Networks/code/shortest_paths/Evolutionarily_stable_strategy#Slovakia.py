@@ -1,0 +1,1 @@
+[["Evolutionarily_stable_strategy", "Charles_Darwin", "Germany", "Slovakia"]]

@@ -1,0 +1,1 @@
+[["Apple", "Cambridge", "Douglas_Adams", "Macintosh"], ["Apple", "Cambridge", "Sinclair_Research_Ltd", "Macintosh"], ["Apple", "Cornell_University", "IPod", "Macintosh"], ["Apple", "Cornell_University", "Mars_Exploration_Rover", "Macintosh"]]

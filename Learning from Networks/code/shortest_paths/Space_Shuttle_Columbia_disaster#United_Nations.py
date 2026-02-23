@@ -1,0 +1,1 @@
+[["Space_Shuttle_Columbia_disaster", "George_W._Bush", "United_Nations"], ["Space_Shuttle_Columbia_disaster", "India", "United_Nations"], ["Space_Shuttle_Columbia_disaster", "Israel", "United_Nations"], ["Space_Shuttle_Columbia_disaster", "Russia", "United_Nations"]]

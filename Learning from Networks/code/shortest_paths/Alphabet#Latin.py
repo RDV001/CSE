@@ -1,0 +1,1 @@
+[["Alphabet", "Egypt", "Latin"], ["Alphabet", "English_language", "Latin"], ["Alphabet", "French_language", "Latin"], ["Alphabet", "Latin_alphabet", "Latin"], ["Alphabet", "Old_English_language", "Latin"], ["Alphabet", "Sanskrit", "Latin"], ["Alphabet", "Science", "Latin"]]

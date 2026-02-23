@@ -1,0 +1,1 @@
+[["Nuclear_power", "Belarus", "Poetry"], ["Nuclear_power", "Iran", "Poetry"]]

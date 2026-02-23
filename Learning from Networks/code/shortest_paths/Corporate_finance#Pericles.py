@@ -1,0 +1,1 @@
+[["Corporate_finance", "Accountancy", "Ancient_Greece", "Pericles"], ["Corporate_finance", "Gold", "Sun", "Pericles"]]

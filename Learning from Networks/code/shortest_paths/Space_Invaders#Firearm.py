@@ -1,0 +1,1 @@
+[["Space_Invaders", "United_States", "Manifest_Destiny", "Firearm"]]

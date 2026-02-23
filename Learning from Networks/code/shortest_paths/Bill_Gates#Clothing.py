@@ -1,0 +1,1 @@
+[["Bill_Gates", "Popular_culture", "Clothing"]]

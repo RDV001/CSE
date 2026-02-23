@@ -1,0 +1,1 @@
+[["Tobacco_smoking", "Italy", "Ancient_Greece", "Demosthenes"], ["Tobacco_smoking", "Maya_civilization", "Ancient_Greece", "Demosthenes"]]

@@ -1,0 +1,1 @@
+[["Glaciology", "Antarctica", "Soil", "Gardening"], ["Glaciology", "Ecology", "Soil", "Gardening"], ["Glaciology", "Ice", "Soil", "Gardening"], ["Glaciology", "Biology", "Botany", "Gardening"], ["Glaciology", "Ecology", "Botany", "Gardening"], ["Glaciology", "Biology", "Plant", "Gardening"]]

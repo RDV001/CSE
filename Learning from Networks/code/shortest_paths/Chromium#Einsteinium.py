@@ -1,0 +1,1 @@
+[["Chromium", "List_of_elements_by_name", "Einsteinium"], ["Chromium", "Periodic_table", "Einsteinium"]]

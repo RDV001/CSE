@@ -1,0 +1,1 @@
+[["Ammosaurus", "Canada", "Russia", "Leon_Trotsky"], ["Ammosaurus", "United_States", "Russia", "Leon_Trotsky"], ["Ammosaurus", "North_America", "Mexico_City", "Leon_Trotsky"], ["Ammosaurus", "United_States", "Capitalism", "Leon_Trotsky"], ["Ammosaurus", "United_States", "Communism", "Leon_Trotsky"], ["Ammosaurus", "United_States", "Soviet_Union", "Leon_Trotsky"]]

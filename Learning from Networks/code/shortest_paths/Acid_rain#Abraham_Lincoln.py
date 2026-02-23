@@ -1,0 +1,1 @@
+[["Acid_rain", "Manchester", "Abraham_Lincoln"]]

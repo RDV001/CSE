@@ -1,0 +1,1 @@
+[["Northern_Ireland", "French_language", "Haiti"], ["Northern_Ireland", "List_of_countries_by_system_of_government", "Haiti"], ["Northern_Ireland", "North_America", "Haiti"]]

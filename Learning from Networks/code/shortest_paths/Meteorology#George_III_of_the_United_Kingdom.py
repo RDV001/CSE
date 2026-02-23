@@ -1,0 +1,1 @@
+[["Meteorology", "Benjamin_Franklin", "George_III_of_the_United_Kingdom"]]

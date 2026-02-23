@@ -1,0 +1,1 @@
+[["Smog", "Edward_I_of_England", "Adolf_Hitler"]]

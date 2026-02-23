@@ -1,0 +1,1 @@
+[["The_Country_Wife", "Charles_II_of_England", "Church_of_Ireland", "U2"], ["The_Country_Wife", "Charles_II_of_England", "Ireland", "U2"], ["The_Country_Wife", "Neoclassicism", "Ireland", "U2"], ["The_Country_Wife", "Oliver_Cromwell", "Ireland", "U2"], ["The_Country_Wife", "France", "Republic_of_Ireland", "U2"], ["The_Country_Wife", "London", "Queen_%28band%29", "U2"]]

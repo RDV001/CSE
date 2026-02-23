@@ -1,0 +1,1 @@
+[["Avon_Gorge", "Bristol", "Concorde", "1973_oil_crisis"], ["Avon_Gorge", "Clifton_Suspension_Bridge", "Concorde", "1973_oil_crisis"], ["Avon_Gorge", "Iron", "Sweden", "1973_oil_crisis"], ["Avon_Gorge", "Middle_Ages", "Capitalism", "1973_oil_crisis"], ["Avon_Gorge", "River", "Belgium", "1973_oil_crisis"]]

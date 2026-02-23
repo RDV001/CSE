@@ -1,0 +1,1 @@
+[["Chicken", "Agriculture", "Botany", "Barbara_McClintock"], ["Chicken", "Agriculture", "Maize", "Barbara_McClintock"], ["Chicken", "Cereal", "Maize", "Barbara_McClintock"], ["Chicken", "United_States", "Maize", "Barbara_McClintock"], ["Chicken", "Scientific_classification", "Genetics", "Barbara_McClintock"]]

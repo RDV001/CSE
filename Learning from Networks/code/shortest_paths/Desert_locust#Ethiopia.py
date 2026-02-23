@@ -1,0 +1,1 @@
+[["Desert_locust", "Africa", "Ethiopia"], ["Desert_locust", "Chad", "Ethiopia"], ["Desert_locust", "Egypt", "Ethiopia"], ["Desert_locust", "Saudi_Arabia", "Ethiopia"], ["Desert_locust", "Sorghum", "Ethiopia"], ["Desert_locust", "Sudan", "Ethiopia"], ["Desert_locust", "Weather", "Ethiopia"], ["Desert_locust", "Yemen", "Ethiopia"]]

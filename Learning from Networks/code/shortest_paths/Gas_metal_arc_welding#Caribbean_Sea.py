@@ -1,0 +1,1 @@
+[["Gas_metal_arc_welding", "North_America", "Caribbean_Sea"]]

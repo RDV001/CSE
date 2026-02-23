@@ -1,0 +1,1 @@
+[["Lake_Kivu", "Africa", "French_language"], ["Lake_Kivu", "Democratic_Republic_of_the_Congo", "French_language"], ["Lake_Kivu", "Europe", "French_language"], ["Lake_Kivu", "Germany", "French_language"], ["Lake_Kivu", "Rwanda", "French_language"], ["Lake_Kivu", "Rwandan_Genocide", "French_language"]]

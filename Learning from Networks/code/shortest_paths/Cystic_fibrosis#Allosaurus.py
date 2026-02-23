@@ -1,0 +1,1 @@
+[["Cystic_fibrosis", "Bacteria", "Evolution", "Allosaurus"], ["Cystic_fibrosis", "Protein", "Evolution", "Allosaurus"]]

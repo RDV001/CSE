@@ -1,0 +1,1 @@
+[["Shielded_metal_arc_welding", "Austria", "Baroque", "Christopher_Wren"], ["Shielded_metal_arc_welding", "Humphry_Davy", "United_Kingdom", "Christopher_Wren"], ["Shielded_metal_arc_welding", "Japan", "United_Kingdom", "Christopher_Wren"], ["Shielded_metal_arc_welding", "Steel", "England", "Christopher_Wren"]]

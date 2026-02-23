@@ -1,0 +1,1 @@
+[["Newspaper", "India", "United_States_dollar"], ["Newspaper", "London", "United_States_dollar"], ["Newspaper", "United_Kingdom", "United_States_dollar"], ["Newspaper", "United_States", "United_States_dollar"]]

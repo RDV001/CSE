@@ -1,0 +1,1 @@
+[["Cryptography", "Ancient_Greece", "Afghanistan", "Morphine"], ["Cryptography", "Germany", "Afghanistan", "Morphine"], ["Cryptography", "Pakistan", "Afghanistan", "Morphine"], ["Cryptography", "People%27s_Republic_of_China", "Afghanistan", "Morphine"], ["Cryptography", "Bill_Clinton", "Myocardial_infarction", "Morphine"]]

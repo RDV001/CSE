@@ -1,0 +1,1 @@
+[["Palazzo_Pitti", "Italy", "Japan"], ["Palazzo_Pitti", "Paris", "Japan"], ["Palazzo_Pitti", "Turin", "Japan"], ["Palazzo_Pitti", "World_War_II", "Japan"]]

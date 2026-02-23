@@ -1,0 +1,1 @@
+[["Wood_fuel", "Carbon_dioxide", "Antarctica", "Emperor_Penguin"], ["Wood_fuel", "United_States", "Antarctica", "Emperor_Penguin"]]

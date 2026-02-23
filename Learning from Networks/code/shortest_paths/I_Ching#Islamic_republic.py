@@ -1,0 +1,1 @@
+[["I_Ching", "Philosophy", "Iran", "Islamic_republic"]]

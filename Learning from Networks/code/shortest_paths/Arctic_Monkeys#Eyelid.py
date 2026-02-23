@@ -1,0 +1,1 @@
+[["Arctic_Monkeys", "Japan", "Medicine", "Eye", "Eyelid"], ["Arctic_Monkeys", "United_States", "Medicine", "Eye", "Eyelid"], ["Arctic_Monkeys", "McFly_%28band%29", "AIDS", "Eye", "Eyelid"], ["Arctic_Monkeys", "Oasis_%28band%29", "AIDS", "Eye", "Eyelid"]]

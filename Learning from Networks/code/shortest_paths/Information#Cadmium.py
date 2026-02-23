@@ -1,0 +1,1 @@
+[["Information", "Energy", "Coal", "Cadmium"], ["Information", "Energy", "Uranium", "Cadmium"], ["Information", "Painting", "Glass", "Cadmium"]]

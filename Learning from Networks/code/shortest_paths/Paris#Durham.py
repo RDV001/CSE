@@ -1,0 +1,1 @@
+[["Paris", "England", "Newcastle_upon_Tyne", "Durham"], ["Paris", "London", "City_status_in_the_United_Kingdom", "Durham"], ["Paris", "United_Kingdom", "City_status_in_the_United_Kingdom", "Durham"], ["Paris", "United_Kingdom", "Tony_Blair", "Durham"]]

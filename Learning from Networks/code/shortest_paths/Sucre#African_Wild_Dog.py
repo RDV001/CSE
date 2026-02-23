@@ -1,0 +1,1 @@
+[["Sucre", "Argentina", "South_Africa", "Giraffe", "African_Wild_Dog"], ["Sucre", "Capital", "South_Africa", "Giraffe", "African_Wild_Dog"], ["Sucre", "Philip_II_of_Spain", "Africa", "Giraffe", "African_Wild_Dog"], ["Sucre", "Spain", "Africa", "Giraffe", "African_Wild_Dog"]]

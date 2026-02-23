@@ -1,0 +1,1 @@
+[["Life", "Energy", "Star", "Pleiades_%28star_cluster%29"]]

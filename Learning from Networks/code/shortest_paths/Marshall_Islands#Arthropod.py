@@ -1,0 +1,1 @@
+[["Marshall_Islands", "Coconut", "Scientific_classification", "Arthropod"], ["Marshall_Islands", "Europe", "Crustacean", "Arthropod"], ["Marshall_Islands", "Europe", "Herbivore", "Arthropod"], ["Marshall_Islands", "Kiribati", "Drinking_water", "Arthropod"]]

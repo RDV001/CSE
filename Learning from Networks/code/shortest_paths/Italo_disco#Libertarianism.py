@@ -1,0 +1,1 @@
+[["Italo_disco", "English_language", "Malta", "Libertarianism"], ["Italo_disco", "Europe", "Malta", "Libertarianism"], ["Italo_disco", "Germany", "Malta", "Libertarianism"], ["Italo_disco", "Germany", "Capitalism", "Libertarianism"], ["Italo_disco", "Italy", "Capitalism", "Libertarianism"], ["Italo_disco", "Germany", "Government", "Libertarianism"]]

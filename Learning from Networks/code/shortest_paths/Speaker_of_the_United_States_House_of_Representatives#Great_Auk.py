@@ -1,0 +1,1 @@
+[["Speaker_of_the_United_States_House_of_Representatives", "United_States_Congress", "Cape_Verde", "Bird", "Great_Auk"], ["Speaker_of_the_United_States_House_of_Representatives", "United_States_Congress", "Puerto_Rico", "Bird", "Great_Auk"], ["Speaker_of_the_United_States_House_of_Representatives", "United_States_House_of_Representatives", "Puerto_Rico", "Bird", "Great_Auk"]]

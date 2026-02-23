@@ -1,0 +1,1 @@
+[["Sumo", "Alcohol", "Hydrochloric_acid"]]

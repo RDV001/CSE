@@ -1,0 +1,1 @@
+[["Khartoum", "Osama_bin_Laden", "Bill_Clinton"]]

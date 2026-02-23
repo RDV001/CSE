@@ -1,0 +1,1 @@
+[["East_Timor", "Climate", "Climate_change"], ["East_Timor", "Netherlands", "Climate_change"], ["East_Timor", "Petroleum", "Climate_change"]]

@@ -1,0 +1,1 @@
+[["Indo-Greek_Kingdom", "Ptolemy", "Race", "Cystic_fibrosis"], ["Indo-Greek_Kingdom", "Tamil_people", "Genetics", "Cystic_fibrosis"]]

@@ -1,0 +1,1 @@
+[["Tennis", "France", "Airbus_A380", "Fiberglass"], ["Tennis", "Olympic_Games", "Ice_hockey", "Fiberglass"], ["Tennis", "Sweden", "Ice_hockey", "Fiberglass"], ["Tennis", "United_States", "Ice_hockey", "Fiberglass"], ["Tennis", "Wales", "Ice_hockey", "Fiberglass"]]

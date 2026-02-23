@@ -1,0 +1,1 @@
+[["African_clawed_frog", "Animal", "Human", "Family"], ["African_clawed_frog", "Scientific_classification", "Human", "Family"], ["African_clawed_frog", "South_Africa", "Human", "Family"], ["African_clawed_frog", "South_Africa", "Germany", "Family"]]

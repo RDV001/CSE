@@ -1,0 +1,1 @@
+[["Colima_%28volcano%29", "Mexico", "Judaism", "Olive_oil", "Sichuan_Pepper"], ["Colima_%28volcano%29", "Volcano", "Fire", "Fennel", "Sichuan_Pepper"]]

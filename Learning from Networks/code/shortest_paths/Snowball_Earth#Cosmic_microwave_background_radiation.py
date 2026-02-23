@@ -1,0 +1,1 @@
+[["Snowball_Earth", "Antarctica", "Cosmic_microwave_background_radiation"]]

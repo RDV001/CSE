@@ -1,0 +1,1 @@
+[["Edward_the_Confessor", "Charles_II_of_England", "Christopher_Wren", "Archimedes"], ["Edward_the_Confessor", "England", "Christopher_Wren", "Archimedes"], ["Edward_the_Confessor", "Denmark", "Currency", "Archimedes"], ["Edward_the_Confessor", "England", "Currency", "Archimedes"], ["Edward_the_Confessor", "Wales", "Currency", "Archimedes"]]

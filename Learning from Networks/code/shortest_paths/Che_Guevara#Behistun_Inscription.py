@@ -1,0 +1,1 @@
+[["Che_Guevara", "Chess", "Armenia", "Behistun_Inscription"], ["Che_Guevara", "Democratic_Republic_of_the_Congo", "Armenia", "Behistun_Inscription"], ["Che_Guevara", "Paris", "Armenia", "Behistun_Inscription"], ["Che_Guevara", "Sigmund_Freud", "Propaganda", "Behistun_Inscription"]]

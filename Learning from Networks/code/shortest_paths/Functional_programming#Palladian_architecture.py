@@ -1,0 +1,1 @@
+[["Functional_programming", "Calculus", "Ancient_Greece", "Neoclassicism", "Palladian_architecture"]]

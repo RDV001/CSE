@@ -1,0 +1,1 @@
+[["Carbon", "Arctic", "Denmark"], ["Carbon", "Calcite", "Denmark"], ["Carbon", "Comet", "Denmark"], ["Carbon", "German_language", "Denmark"], ["Carbon", "Greenland", "Denmark"], ["Carbon", "Russia", "Denmark"], ["Carbon", "United_States", "Denmark"]]

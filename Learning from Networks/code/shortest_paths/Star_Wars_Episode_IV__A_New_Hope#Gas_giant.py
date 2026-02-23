@@ -1,0 +1,1 @@
+[["Star_Wars_Episode_IV__A_New_Hope", "Clone_Wars_%28Star_Wars%29", "Solar_System", "Gas_giant"], ["Star_Wars_Episode_IV__A_New_Hope", "J._R._R._Tolkien", "Asteroid", "Gas_giant"], ["Star_Wars_Episode_IV__A_New_Hope", "Space_station", "Asteroid", "Gas_giant"]]

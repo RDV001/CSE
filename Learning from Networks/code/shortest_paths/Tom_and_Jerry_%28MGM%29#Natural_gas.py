@@ -1,0 +1,1 @@
+[["Tom_and_Jerry_%28MGM%29", "Germany", "Natural_gas"], ["Tom_and_Jerry_%28MGM%29", "Japan", "Natural_gas"], ["Tom_and_Jerry_%28MGM%29", "United_Kingdom", "Natural_gas"], ["Tom_and_Jerry_%28MGM%29", "United_States", "Natural_gas"]]

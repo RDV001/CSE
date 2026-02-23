@@ -1,0 +1,1 @@
+[["Nintendo", "Germany", "Coal"], ["Nintendo", "Industry", "Coal"], ["Nintendo", "United_States", "Coal"]]

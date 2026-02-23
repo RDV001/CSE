@@ -1,0 +1,1 @@
+[["Battle_of_Tours", "Cereal", "Calcium", "Mohs_scale_of_mineral_hardness"], ["Battle_of_Tours", "Cereal", "Iron", "Mohs_scale_of_mineral_hardness"], ["Battle_of_Tours", "Charlemagne", "Gold", "Mohs_scale_of_mineral_hardness"], ["Battle_of_Tours", "Charlemagne", "Silver", "Mohs_scale_of_mineral_hardness"]]

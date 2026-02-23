@@ -1,0 +1,1 @@
+[["Human", "Civilization", "American_Revolutionary_War"], ["Human", "New_York_City", "American_Revolutionary_War"], ["Human", "United_States_dollar", "American_Revolutionary_War"]]

@@ -1,0 +1,1 @@
+[["Rio_Tinto_Group", "Roman_Empire", "Jerusalem", "Eurovision_Song_Contest"], ["Rio_Tinto_Group", "Uranium", "Birmingham", "Eurovision_Song_Contest"], ["Rio_Tinto_Group", "Zinc", "Ireland", "Eurovision_Song_Contest"]]

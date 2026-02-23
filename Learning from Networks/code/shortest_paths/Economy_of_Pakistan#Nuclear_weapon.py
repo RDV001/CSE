@@ -1,0 +1,1 @@
+[["Economy_of_Pakistan", "Engineering", "Nuclear_weapon"], ["Economy_of_Pakistan", "Gold", "Nuclear_weapon"], ["Economy_of_Pakistan", "United_States", "Nuclear_weapon"]]

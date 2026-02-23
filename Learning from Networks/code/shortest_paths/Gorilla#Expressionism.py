@@ -1,0 +1,1 @@
+[["Gorilla", "Africa", "Belgium", "Expressionism"], ["Gorilla", "Chimpanzee", "20th_century", "Expressionism"], ["Gorilla", "Mammal", "20th_century", "Expressionism"], ["Gorilla", "Human", "Art", "Expressionism"]]

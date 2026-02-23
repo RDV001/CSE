@@ -1,0 +1,1 @@
+[["Hurricane_Charley", "Africa", "Earth", "Thor"], ["Hurricane_Charley", "Atlantic_Ocean", "Earth", "Thor"], ["Hurricane_Charley", "Tropical_cyclone", "Earth", "Thor"]]

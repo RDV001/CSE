@@ -1,0 +1,1 @@
+[["Anne_Frank", "Adolf_Hitler"]]

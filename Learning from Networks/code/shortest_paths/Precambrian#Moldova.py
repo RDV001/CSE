@@ -1,0 +1,1 @@
+[["Precambrian", "Earth", "Europe", "Moldova"], ["Precambrian", "Plate_tectonics", "Europe", "Moldova"], ["Precambrian", "Earth", "Russian_language", "Moldova"], ["Precambrian", "Plate_tectonics", "Turkey", "Moldova"]]

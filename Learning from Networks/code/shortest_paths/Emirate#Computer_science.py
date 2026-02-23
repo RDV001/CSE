@@ -1,0 +1,1 @@
+[["Emirate", "Qatar", "Education", "Computer_science"], ["Emirate", "Qatar", "Technology", "Computer_science"]]

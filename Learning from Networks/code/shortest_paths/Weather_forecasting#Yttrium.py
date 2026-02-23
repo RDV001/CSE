@@ -1,0 +1,1 @@
+[["Weather_forecasting", "Earth%27s_atmosphere", "Chemical_element", "Yttrium"], ["Weather_forecasting", "Physics", "Superconductivity", "Yttrium"]]

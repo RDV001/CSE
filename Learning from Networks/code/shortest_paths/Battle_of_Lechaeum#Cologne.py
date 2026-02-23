@@ -1,0 +1,1 @@
+[["Battle_of_Lechaeum", "Athens", "Barcelona", "Cologne"], ["Battle_of_Lechaeum", "Athens", "Berlin", "Cologne"], ["Battle_of_Lechaeum", "Athens", "European_Union", "Cologne"], ["Battle_of_Lechaeum", "Athens", "Germany", "Cologne"], ["Battle_of_Lechaeum", "Athens", "Istanbul", "Cologne"]]

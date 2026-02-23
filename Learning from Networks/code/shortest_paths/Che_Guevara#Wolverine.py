@@ -1,0 +1,1 @@
+[["Che_Guevara", "Soviet_Union", "Arctic", "Wolverine"], ["Che_Guevara", "Sub-Saharan_Africa", "Arctic", "Wolverine"]]

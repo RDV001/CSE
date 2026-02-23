@@ -1,0 +1,1 @@
+[["Mineral", "Cave", "United_Kingdom", "Kylie_Minogue"], ["Mineral", "Sulfur", "United_Kingdom", "Kylie_Minogue"]]

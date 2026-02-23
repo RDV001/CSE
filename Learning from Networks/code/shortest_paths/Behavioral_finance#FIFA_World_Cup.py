@@ -1,0 +1,1 @@
+[["Behavioral_finance", "Adam_Smith", "England", "FIFA_World_Cup"], ["Behavioral_finance", "Adam_Smith", "Scotland", "FIFA_World_Cup"]]

@@ -1,0 +1,1 @@
+[["University", "Human_rights", "18th_century"], ["University", "Latin", "18th_century"], ["University", "Logic", "18th_century"]]

@@ -1,0 +1,1 @@
+[["Pok%C3%A9mon_Trading_Card_Game", "Japan", "World_War_I", "Pneumonia"], ["Pok%C3%A9mon_Trading_Card_Game", "Norwich", "World_War_I", "Pneumonia"], ["Pok%C3%A9mon_Trading_Card_Game", "London", "Arsenal_F.C.", "Pneumonia"], ["Pok%C3%A9mon_Trading_Card_Game", "London", "Laurence_Olivier", "Pneumonia"]]

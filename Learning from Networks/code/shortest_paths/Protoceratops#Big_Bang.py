@@ -1,0 +1,1 @@
+[["Protoceratops", "Animal", "Energy", "Big_Bang"], ["Protoceratops", "China", "God", "Big_Bang"], ["Protoceratops", "Dinosaur", "Belgium", "Big_Bang"], ["Protoceratops", "Dinosaur", "Creationism", "Big_Bang"], ["Protoceratops", "Dinosaur", "Physics", "Big_Bang"]]

@@ -1,0 +1,1 @@
+[["Mass_Rapid_Transit_%28Singapore%29", "France", "Russia", "Sputnik_1", "Project_Vanguard"]]

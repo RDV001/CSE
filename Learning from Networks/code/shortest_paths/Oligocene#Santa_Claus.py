@@ -1,0 +1,1 @@
+[["Oligocene", "Antarctica", "Coal", "Santa_Claus"], ["Oligocene", "Fern", "Coal", "Santa_Claus"], ["Oligocene", "Bear", "Pope_Benedict_XVI", "Santa_Claus"]]

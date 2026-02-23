@@ -1,0 +1,1 @@
+[["Pony", "Horse", "Spain", "Adolf_Hitler"], ["Pony", "Ireland", "Czech_Republic", "Adolf_Hitler"], ["Pony", "Ireland", "Luftwaffe", "Adolf_Hitler"], ["Pony", "Ireland", "World_War_II", "Adolf_Hitler"]]

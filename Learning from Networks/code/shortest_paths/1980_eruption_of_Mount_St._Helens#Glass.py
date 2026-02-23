@@ -1,0 +1,1 @@
+[["1980_eruption_of_Mount_St._Helens", "Carbon_dioxide", "Glass"], ["1980_eruption_of_Mount_St._Helens", "Water", "Glass"]]

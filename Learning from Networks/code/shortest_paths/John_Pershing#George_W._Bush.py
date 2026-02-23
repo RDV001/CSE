@@ -1,0 +1,1 @@
+[["John_Pershing", "Gerald_Ford", "George_W._Bush"], ["John_Pershing", "Germany", "George_W._Bush"], ["John_Pershing", "Guam", "George_W._Bush"], ["John_Pershing", "Japan", "George_W._Bush"], ["John_Pershing", "President_of_the_United_States", "George_W._Bush"], ["John_Pershing", "Puerto_Rico", "George_W._Bush"], ["John_Pershing", "United_States_Congress", "George_W._Bush"]]

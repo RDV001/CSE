@@ -1,0 +1,1 @@
+[["Bill_Clinton", "Dwight_D._Eisenhower", "Denver%2C_Colorado"], ["Bill_Clinton", "United_States", "Denver%2C_Colorado"]]

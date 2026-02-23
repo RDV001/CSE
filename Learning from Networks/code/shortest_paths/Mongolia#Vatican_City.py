@@ -1,0 +1,1 @@
+[["Mongolia", "Germany", "Vatican_City"], ["Mongolia", "List_of_countries_by_system_of_government", "Vatican_City"]]

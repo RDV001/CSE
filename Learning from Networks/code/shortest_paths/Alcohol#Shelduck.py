@@ -1,0 +1,1 @@
+[["Alcohol", "Europe", "Greek_mythology", "Swan", "Shelduck"], ["Alcohol", "United_States", "Bald_Eagle", "Swan", "Shelduck"], ["Alcohol", "Formic_acid", "Poultry", "Goose", "Shelduck"], ["Alcohol", "Sodium_hydroxide", "Poultry", "Goose", "Shelduck"]]

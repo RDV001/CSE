@@ -1,0 +1,1 @@
+[["Arab-Israeli_conflict", "Jimmy_Carter", "Battle_of_Gettysburg"], ["Arab-Israeli_conflict", "United_States", "Battle_of_Gettysburg"]]

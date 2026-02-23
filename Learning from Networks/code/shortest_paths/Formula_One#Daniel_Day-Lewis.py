@@ -1,0 +1,1 @@
+[["Formula_One", "Canada", "Irish_people", "Daniel_Day-Lewis"], ["Formula_One", "Chile", "Irish_people", "Daniel_Day-Lewis"], ["Formula_One", "Mexico", "Irish_people", "Daniel_Day-Lewis"], ["Formula_One", "New_Zealand", "Irish_people", "Daniel_Day-Lewis"], ["Formula_One", "United_States", "Irish_people", "Daniel_Day-Lewis"]]

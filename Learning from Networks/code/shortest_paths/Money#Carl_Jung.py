@@ -1,0 +1,1 @@
+[["Money", "Art", "Alchemy", "Carl_Jung"], ["Money", "Copper", "Alchemy", "Carl_Jung"], ["Money", "Gold", "Alchemy", "Carl_Jung"], ["Money", "Silver", "Alchemy", "Carl_Jung"], ["Money", "Water", "Greek_mythology", "Carl_Jung"]]

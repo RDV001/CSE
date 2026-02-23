@@ -1,0 +1,1 @@
+[["Boston_RFC", "Australia", "Commonwealth_Games", "Fencing"], ["Boston_RFC", "New_Zealand", "Commonwealth_Games", "Fencing"], ["Boston_RFC", "Australia", "Olympic_Games", "Fencing"], ["Boston_RFC", "Great_Britain", "Olympic_Games", "Fencing"], ["Boston_RFC", "New_Zealand", "Olympic_Games", "Fencing"], ["Boston_RFC", "United_States", "Olympic_Games", "Fencing"]]

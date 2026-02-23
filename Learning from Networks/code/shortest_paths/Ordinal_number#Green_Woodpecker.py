@@ -1,0 +1,1 @@
+[["Ordinal_number", "Georg_Cantor", "Austria", "Slovenia", "Woodpecker", "Green_Woodpecker"], ["Ordinal_number", "Georg_Cantor", "Germany", "Slovenia", "Woodpecker", "Green_Woodpecker"], ["Ordinal_number", "John_von_Neumann", "Germany", "Slovenia", "Woodpecker", "Green_Woodpecker"], ["Ordinal_number", "John_von_Neumann", "Hungary", "Slovenia", "Woodpecker", "Green_Woodpecker"]]

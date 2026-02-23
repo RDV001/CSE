@@ -1,0 +1,1 @@
+[["Glastonbury_Festival", "BBC", "Africa", "Harare"], ["Glastonbury_Festival", "Stonehenge", "Africa", "Harare"], ["Glastonbury_Festival", "England", "Nottingham", "Harare"], ["Glastonbury_Festival", "Oasis_%28band%29", "Munich", "Harare"]]

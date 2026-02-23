@@ -1,0 +1,1 @@
+[["Niagara_Falls", "North_America", "Dominican_Republic"], ["Niagara_Falls", "United_States", "Dominican_Republic"]]

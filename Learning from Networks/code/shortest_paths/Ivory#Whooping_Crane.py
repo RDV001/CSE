@@ -1,0 +1,1 @@
+[["Ivory", "Mammoth", "California", "Bird_migration", "Whooping_Crane"], ["Ivory", "Rainforest", "Bird", "Bird_migration", "Whooping_Crane"], ["Ivory", "Seed", "Bird", "Bird_migration", "Whooping_Crane"]]

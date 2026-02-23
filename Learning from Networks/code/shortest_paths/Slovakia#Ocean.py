@@ -1,0 +1,1 @@
+[["Slovakia", "Climate", "Ocean"]]

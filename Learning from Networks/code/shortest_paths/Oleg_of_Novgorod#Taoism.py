@@ -1,0 +1,1 @@
+[["Oleg_of_Novgorod", "Jew", "Asia", "Taoism"], ["Oleg_of_Novgorod", "Jew", "China", "Taoism"], ["Oleg_of_Novgorod", "Khazars", "China", "Taoism"], ["Oleg_of_Novgorod", "Jew", "Culture", "Taoism"], ["Oleg_of_Novgorod", "Khazars", "7th_century", "Taoism"], ["Oleg_of_Novgorod", "Khazars", "God", "Taoism"]]

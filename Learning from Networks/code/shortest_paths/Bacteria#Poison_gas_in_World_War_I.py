@@ -1,0 +1,1 @@
+[["Bacteria", "Ammonia", "World_War_I", "Poison_gas_in_World_War_I"], ["Bacteria", "Insulin", "World_War_I", "Poison_gas_in_World_War_I"], ["Bacteria", "Petroleum", "World_War_I", "Poison_gas_in_World_War_I"]]

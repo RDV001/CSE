@@ -1,0 +1,1 @@
+[["Bridge", "19th_century", "Aleksandr_Pushkin"]]

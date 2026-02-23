@@ -1,0 +1,1 @@
+[["Firearm", "World_War_I", "John_Pershing", "General_Pershing_Zephyr"]]

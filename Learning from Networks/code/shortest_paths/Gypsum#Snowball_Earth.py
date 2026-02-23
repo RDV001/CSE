@@ -1,0 +1,1 @@
+[["Gypsum", "Asia", "Earth", "Snowball_Earth"], ["Gypsum", "Calcium", "Earth", "Snowball_Earth"], ["Gypsum", "Permian", "Earth", "Snowball_Earth"], ["Gypsum", "Volcano", "Earth", "Snowball_Earth"], ["Gypsum", "Ireland", "Ice_age", "Snowball_Earth"], ["Gypsum", "Sulfur", "Nature", "Snowball_Earth"]]

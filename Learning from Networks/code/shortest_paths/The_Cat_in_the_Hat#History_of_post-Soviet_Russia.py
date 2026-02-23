@@ -1,0 +1,1 @@
+[["The_Cat_in_the_Hat", "Dr._Seuss", "Communism", "Russian_Revolution_of_1917", "History_of_post-Soviet_Russia"], ["The_Cat_in_the_Hat", "Dr._Seuss", "Fascism", "Russian_Revolution_of_1917", "History_of_post-Soviet_Russia"], ["The_Cat_in_the_Hat", "Latin", "Byzantine_Empire", "Russian_Revolution_of_1917", "History_of_post-Soviet_Russia"]]

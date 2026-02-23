@@ -1,0 +1,1 @@
+[["Civilization_%28computer_game%29", "United_Kingdom", "Capitalism", "Manorialism"], ["Civilization_%28computer_game%29", "United_States", "Capitalism", "Manorialism"]]

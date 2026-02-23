@@ -1,0 +1,1 @@
+[["Drosophila_melanogaster", "Human", "Art", "Theatre", "Stage_%28theatre%29"], ["Drosophila_melanogaster", "Human", "Literature", "Theatre", "Stage_%28theatre%29"]]

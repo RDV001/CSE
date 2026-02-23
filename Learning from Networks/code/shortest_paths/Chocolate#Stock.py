@@ -1,0 +1,1 @@
+[["Chocolate", "C%C3%B4te_d%27Ivoire", "Currency", "Stock"], ["Chocolate", "European_Union", "Currency", "Stock"], ["Chocolate", "Mexico", "Currency", "Stock"], ["Chocolate", "European_Union", "Margaret_Thatcher", "Stock"], ["Chocolate", "Industry", "Capitalism", "Stock"]]

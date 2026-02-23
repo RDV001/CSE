@@ -1,0 +1,1 @@
+[["Max_Planck", "20th_century", "Africa", "Reggae", "Music_of_the_Bahamas"], ["Max_Planck", "Albert_Einstein", "Africa", "Reggae", "Music_of_the_Bahamas"], ["Max_Planck", "Adolf_Hitler", "Coventry", "Ska", "Music_of_the_Bahamas"], ["Max_Planck", "New_York_City", "Boston%2C_Massachusetts", "Ska", "Music_of_the_Bahamas"]]

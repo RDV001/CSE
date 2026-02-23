@@ -1,0 +1,1 @@
+[["Thiamine", "Carbon", "Coal"], ["Thiamine", "Fern", "Coal"], ["Thiamine", "Sulfur", "Coal"]]

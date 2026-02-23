@@ -1,0 +1,1 @@
+[["French_Polynesia", "List_of_countries_by_system_of_government", "Republic_of_China"], ["French_Polynesia", "Pacific_Ocean", "Republic_of_China"]]

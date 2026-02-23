@@ -1,0 +1,1 @@
+[["War", "Falkland_Islands", "Latin_America", "Mormon"], ["War", "Military_dictatorship", "Latin_America", "Mormon"], ["War", "Military_dictatorship", "Colombia", "Mormon"]]

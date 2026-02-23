@@ -1,0 +1,1 @@
+[["Brain", "Southern_United_States", "Dallas%2C_Texas", "John_F._Kennedy_assassination"], ["Brain", "Southern_United_States", "Lyndon_B._Johnson", "John_F._Kennedy_assassination"], ["Brain", "Southern_United_States", "President_of_the_United_States", "John_F._Kennedy_assassination"]]

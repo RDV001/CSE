@@ -1,0 +1,1 @@
+[["Hubble_Space_Telescope", "Baltimore%2C_Maryland", "Great_Lakes"], ["Hubble_Space_Telescope", "United_States", "Great_Lakes"]]

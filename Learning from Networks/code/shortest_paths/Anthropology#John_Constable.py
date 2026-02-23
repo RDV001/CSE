@@ -1,0 +1,1 @@
+[["Anthropology", "Romanticism", "John_Constable"]]

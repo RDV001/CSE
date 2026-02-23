@@ -1,0 +1,1 @@
+[["Tropical_cyclone", "Africa", "Algeria"], ["Tropical_cyclone", "Arabic_language", "Algeria"], ["Tropical_cyclone", "French_language", "Algeria"], ["Tropical_cyclone", "Kenya", "Algeria"], ["Tropical_cyclone", "Madagascar", "Algeria"], ["Tropical_cyclone", "Mozambique", "Algeria"], ["Tropical_cyclone", "Spain", "Algeria"], ["Tropical_cyclone", "Tanzania", "Algeria"]]

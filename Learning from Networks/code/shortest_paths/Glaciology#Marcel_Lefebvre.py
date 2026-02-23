@@ -1,0 +1,1 @@
+[["Glaciology", "Greenland", "15th_century", "Joan_of_Arc", "Marcel_Lefebvre"], ["Glaciology", "Latin", "Roman_Catholic_Church", "Pope_John_Paul_II", "Marcel_Lefebvre"], ["Glaciology", "Meteorology", "Galileo_Galilei", "Pope_John_Paul_II", "Marcel_Lefebvre"]]

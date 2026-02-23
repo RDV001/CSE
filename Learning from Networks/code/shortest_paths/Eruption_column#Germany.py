@@ -1,0 +1,1 @@
+[["Eruption_column", "Jakarta", "Germany"]]

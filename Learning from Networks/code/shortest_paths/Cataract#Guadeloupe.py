@@ -1,0 +1,1 @@
+[["Cataract", "Hindi", "French_language", "Guadeloupe"], ["Cataract", "Latin", "French_language", "Guadeloupe"], ["Cataract", "Hindi", "United_States", "Guadeloupe"], ["Cataract", "Latin", "United_States", "Guadeloupe"]]

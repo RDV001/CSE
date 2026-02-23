@@ -1,0 +1,1 @@
+[["Police_state", "Nazi_Germany", "Albert_Einstein", "Wave"], ["Police_state", "Thomas_Hobbes", "Physics", "Wave"], ["Police_state", "United_Kingdom", "James_Clerk_Maxwell", "Wave"], ["Police_state", "Voltaire", "Isaac_Newton", "Wave"]]

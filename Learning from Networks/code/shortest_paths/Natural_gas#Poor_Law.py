@@ -1,0 +1,1 @@
+[["Natural_gas", "Africa", "Famine", "Poor_Law"]]

@@ -1,0 +1,1 @@
+[["Harley-Davidson", "Asia", "Tehran", "Asthma"], ["Harley-Davidson", "England", "Gustav_Holst", "Asthma"], ["Harley-Davidson", "England", "John_Locke", "Asthma"], ["Harley-Davidson", "Industry", "Pollution", "Asthma"]]

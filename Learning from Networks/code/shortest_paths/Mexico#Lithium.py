@@ -1,0 +1,1 @@
+[["Mexico", "Education", "Chemistry", "Lithium"], ["Mexico", "Electricity", "Atom", "Lithium"], ["Mexico", "Natural_gas", "Helium", "Lithium"], ["Mexico", "Natural_gas", "Hydrogen", "Lithium"], ["Mexico", "Petroleum", "Hydrogen", "Lithium"]]

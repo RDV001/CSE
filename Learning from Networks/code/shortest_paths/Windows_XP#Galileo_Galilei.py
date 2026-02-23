@@ -1,0 +1,1 @@
+[["Windows_XP", "European_Union", "Age_of_Enlightenment", "Galileo_Galilei"], ["Windows_XP", "South_America", "Roman_Catholic_Church", "Galileo_Galilei"]]

@@ -1,0 +1,1 @@
+[["Oman", "Afghanistan", "Cold_War"], ["Oman", "India", "Cold_War"], ["Oman", "Persian_Empire", "Cold_War"]]

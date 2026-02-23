@@ -1,0 +1,1 @@
+[["Anton%C3%ADn_Dvo%C5%99%C3%A1k", "England", "Tennis", "Boris_Becker", "Hopman_Cup"], ["Anton%C3%ADn_Dvo%C5%99%C3%A1k", "London", "The_Championships%2C_Wimbledon", "Boris_Becker", "Hopman_Cup"], ["Anton%C3%ADn_Dvo%C5%99%C3%A1k", "England", "Tennis", "Hawk-Eye", "Hopman_Cup"], ["Anton%C3%ADn_Dvo%C5%99%C3%A1k", "New_York_City", "U.S._Open_%28tennis%29", "Hawk-Eye", "Hopman_Cup"]]

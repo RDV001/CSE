@@ -1,0 +1,1 @@
+[["Mauna_Loa", "Earthquake", "United_Kingdom", "Grand_Slam_%28tennis%29", "Tiger_Woods"], ["Mauna_Loa", "Global_warming", "United_Kingdom", "Grand_Slam_%28tennis%29", "Tiger_Woods"], ["Mauna_Loa", "Volcano", "New_Zealand", "All_Blacks", "Tiger_Woods"]]

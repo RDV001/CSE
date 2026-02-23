@@ -1,0 +1,1 @@
+[["Greek_mythology", "Germany", "Great_Britain", "Antelope"], ["Greek_mythology", "Italy", "Great_Britain", "Antelope"], ["Greek_mythology", "Leonardo_da_Vinci", "Lion", "Antelope"], ["Greek_mythology", "Swan", "Pliocene", "Antelope"]]

@@ -1,0 +1,1 @@
+[["Ramsgate", "16th_century", "Sun", "Pericles"], ["Ramsgate", "Ancient_Rome", "Ancient_Greece", "Pericles"], ["Ramsgate", "Barcelona", "Ancient_Greece", "Pericles"]]

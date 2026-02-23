@@ -1,0 +1,1 @@
+[["Sistine_Chapel_ceiling", "Asia", "Cyprus", "Cat_Stevens"], ["Sistine_Chapel_ceiling", "Greece", "Cyprus", "Cat_Stevens"]]

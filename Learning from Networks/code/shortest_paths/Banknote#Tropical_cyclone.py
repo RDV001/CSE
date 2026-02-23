@@ -1,0 +1,1 @@
+[["Banknote", "Japan", "Tropical_cyclone"]]

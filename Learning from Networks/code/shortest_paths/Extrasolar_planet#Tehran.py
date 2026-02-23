@@ -1,0 +1,1 @@
+[["Extrasolar_planet", "Earth", "Asia", "Tehran"], ["Extrasolar_planet", "Earth", "Middle_East", "Tehran"], ["Extrasolar_planet", "Earth", "United_Nations", "Tehran"], ["Extrasolar_planet", "Poland", "United_Nations", "Tehran"], ["Extrasolar_planet", "University_of_Chicago", "Iran", "Tehran"]]

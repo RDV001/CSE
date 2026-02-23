@@ -1,0 +1,1 @@
+[["Honey_bee", "Africa", "Cairo", "Actor"], ["Honey_bee", "Asia", "Cairo", "Actor"], ["Honey_bee", "Asia", "Drama", "Actor"], ["Honey_bee", "California", "Arnold_Schwarzenegger", "Actor"], ["Honey_bee", "California", "Film", "Actor"]]

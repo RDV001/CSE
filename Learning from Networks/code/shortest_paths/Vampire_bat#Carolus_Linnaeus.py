@@ -1,0 +1,1 @@
+[["Vampire_bat", "Animal", "Carolus_Linnaeus"], ["Vampire_bat", "Mammal", "Carolus_Linnaeus"], ["Vampire_bat", "Scientific_classification", "Carolus_Linnaeus"]]

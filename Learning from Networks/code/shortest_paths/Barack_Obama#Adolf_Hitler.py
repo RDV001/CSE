@@ -1,0 +1,1 @@
+[["Barack_Obama", "Azerbaijan", "Adolf_Hitler"], ["Barack_Obama", "Franklin_D._Roosevelt", "Adolf_Hitler"], ["Barack_Obama", "Jew", "Adolf_Hitler"], ["Barack_Obama", "World_War_II", "Adolf_Hitler"]]

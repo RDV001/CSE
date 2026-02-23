@@ -1,0 +1,1 @@
+[["Archaeology", "Israel", "South_Korea"], ["Archaeology", "Peru", "South_Korea"], ["Archaeology", "United_States", "South_Korea"]]

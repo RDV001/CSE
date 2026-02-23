@@ -1,0 +1,1 @@
+[["Yellowstone_National_Park", "Earth", "Pi", "Trigonometric_function"]]

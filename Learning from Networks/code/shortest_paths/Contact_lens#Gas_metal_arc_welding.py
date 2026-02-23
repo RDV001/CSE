@@ -1,0 +1,1 @@
+[["Contact_lens", "Glasses", "Welding", "Gas_metal_arc_welding"], ["Contact_lens", "Oxygen", "Welding", "Gas_metal_arc_welding"]]

@@ -1,0 +1,1 @@
+[["Globular_cluster", "Carbon", "Fruit", "Mango"], ["Globular_cluster", "Carbon", "India", "Mango"], ["Globular_cluster", "Gravitation", "India", "Mango"], ["Globular_cluster", "Helium", "India", "Mango"], ["Globular_cluster", "Milky_Way", "India", "Mango"]]

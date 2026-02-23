@@ -1,0 +1,1 @@
+[["Costa_Rica", "Germany", "Albert_Einstein", "Asperger_syndrome"]]

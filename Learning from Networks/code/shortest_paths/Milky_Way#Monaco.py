@@ -1,0 +1,1 @@
+[["Milky_Way", "Armenia", "Monaco"], ["Milky_Way", "Heracles", "Monaco"], ["Milky_Way", "Human", "Monaco"]]

@@ -1,0 +1,1 @@
+[["Libya", "Roman_Catholic_Church", "Michelangelo"]]

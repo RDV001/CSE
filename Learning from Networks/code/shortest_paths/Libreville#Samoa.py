@@ -1,0 +1,1 @@
+[["Libreville", "France", "List_of_countries_by_system_of_government", "Samoa"], ["Libreville", "Gabon", "List_of_countries_by_system_of_government", "Samoa"], ["Libreville", "France", "Pacific_Ocean", "Samoa"], ["Libreville", "French_language", "English_language", "Samoa"], ["Libreville", "French_language", "World_Trade_Organization", "Samoa"]]

@@ -1,0 +1,1 @@
+[["Allah", "Arabic_language", "African_Union", "Abuja"], ["Allah", "English_language", "Nigeria", "Abuja"]]

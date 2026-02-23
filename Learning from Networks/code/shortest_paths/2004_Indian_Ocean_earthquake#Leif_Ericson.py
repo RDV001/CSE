@@ -1,0 +1,1 @@
+[["2004_Indian_Ocean_earthquake", "Atlantic_Ocean", "Viking", "Leif_Ericson"], ["2004_Indian_Ocean_earthquake", "Canada", "Viking", "Leif_Ericson"], ["2004_Indian_Ocean_earthquake", "Royal_Navy", "Viking", "Leif_Ericson"], ["2004_Indian_Ocean_earthquake", "Sweden", "Viking", "Leif_Ericson"], ["2004_Indian_Ocean_earthquake", "New_Zealand", "11th_century", "Leif_Ericson"]]

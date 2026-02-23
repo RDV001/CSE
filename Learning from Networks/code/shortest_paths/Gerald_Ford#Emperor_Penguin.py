@@ -1,0 +1,1 @@
+[["Gerald_Ford", "The_Simpsons", "Antarctica", "Emperor_Penguin"]]

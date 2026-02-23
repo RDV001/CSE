@@ -1,0 +1,1 @@
+[["Fertilizer", "Iron", "Solar_System"], ["Fertilizer", "Magnesium", "Solar_System"], ["Fertilizer", "Manganese", "Solar_System"]]

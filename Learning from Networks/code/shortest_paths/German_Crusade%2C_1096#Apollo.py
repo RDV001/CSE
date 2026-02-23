@@ -1,0 +1,1 @@
+[["German_Crusade%2C_1096", "Children%27s_Crusade", "Jesus", "Apollo"], ["German_Crusade%2C_1096", "Crusades", "Trojan_War", "Apollo"], ["German_Crusade%2C_1096", "Jew", "Zeus", "Apollo"]]

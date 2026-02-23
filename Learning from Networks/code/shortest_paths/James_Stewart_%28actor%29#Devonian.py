@@ -1,0 +1,1 @@
+[["James_Stewart_%28actor%29", "England", "British_Isles", "Devonian"], ["James_Stewart_%28actor%29", "India", "Mammal", "Devonian"], ["James_Stewart_%28actor%29", "United_States", "Plymouth", "Devonian"]]

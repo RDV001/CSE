@@ -1,0 +1,1 @@
+[["Economy_of_Pakistan", "Engineering", "Chemistry", "Quantum_chemistry"], ["Economy_of_Pakistan", "Gold", "Chemistry", "Quantum_chemistry"], ["Economy_of_Pakistan", "Engineering", "Physics", "Quantum_chemistry"]]

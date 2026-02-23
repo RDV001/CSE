@@ -1,0 +1,1 @@
+[["Animal_law", "Animal_rights", "Aristotle", "Aesthetics", "Symmetry"], ["Animal_law", "Animal_rights", "Immanuel_Kant", "Aesthetics", "Symmetry"], ["Animal_law", "Animal_rights", "Nazi_Germany", "Swastika", "Symmetry"]]

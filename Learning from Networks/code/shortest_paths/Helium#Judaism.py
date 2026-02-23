@@ -1,0 +1,1 @@
+[["Helium", "Algeria", "Judaism"], ["Helium", "Big_Bang", "Judaism"], ["Helium", "Russia", "Judaism"], ["Helium", "United_States", "Judaism"], ["Helium", "Water", "Judaism"]]

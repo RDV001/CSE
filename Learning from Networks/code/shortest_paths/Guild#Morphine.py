@@ -1,0 +1,1 @@
+[["Guild", "Germany", "Afghanistan", "Morphine"], ["Guild", "Karl_Marx", "Afghanistan", "Morphine"], ["Guild", "Mosque", "Afghanistan", "Morphine"], ["Guild", "Propaganda", "Sigmund_Freud", "Morphine"]]

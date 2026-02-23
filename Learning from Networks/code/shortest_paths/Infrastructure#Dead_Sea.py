@@ -1,0 +1,1 @@
+[["Infrastructure", "19th_century", "Zionism", "Dead_Sea"], ["Infrastructure", "Earthquake", "Earth", "Dead_Sea"], ["Infrastructure", "Waste_management", "Israel", "Dead_Sea"]]

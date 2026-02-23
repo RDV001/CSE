@@ -1,0 +1,1 @@
+[["Mount_Rushmore", "Colossus_of_Rhodes", "Earthquake"], ["Mount_Rushmore", "Plate_tectonics", "Earthquake"]]

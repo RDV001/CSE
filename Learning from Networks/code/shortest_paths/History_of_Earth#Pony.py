@@ -1,0 +1,1 @@
+[["History_of_Earth", "Agriculture", "Horse", "Pony"], ["History_of_Earth", "Fertile_Crescent", "Horse", "Pony"], ["History_of_Earth", "Leonardo_da_Vinci", "Horse", "Pony"], ["History_of_Earth", "Mammal", "Horse", "Pony"]]

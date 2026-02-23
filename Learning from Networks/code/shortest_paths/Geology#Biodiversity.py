@@ -1,0 +1,1 @@
+[["Geology", "Evolution", "Biodiversity"], ["Geology", "Mining", "Biodiversity"], ["Geology", "Paleontology", "Biodiversity"]]

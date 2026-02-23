@@ -1,0 +1,1 @@
+[["Hymenoptera", "Animal", "Aristotle", "Mathematics"], ["Hymenoptera", "Scientific_classification", "Aristotle", "Mathematics"], ["Hymenoptera", "Carolus_Linnaeus", "Biology", "Mathematics"], ["Hymenoptera", "Cretaceous", "China", "Mathematics"], ["Hymenoptera", "Scientific_classification", "Charles_Darwin", "Mathematics"]]

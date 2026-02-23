@@ -1,0 +1,1 @@
+[["Columbia_River", "London", "National_Gallery%2C_London", "Michelangelo", "Sistine_Chapel_ceiling"], ["Columbia_River", "River", "Greek_mythology", "Michelangelo", "Sistine_Chapel_ceiling"], ["Columbia_River", "River", "Rome", "Michelangelo", "Sistine_Chapel_ceiling"], ["Columbia_River", "Spain", "Renaissance", "Michelangelo", "Sistine_Chapel_ceiling"]]

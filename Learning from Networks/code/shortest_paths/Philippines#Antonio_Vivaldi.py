@@ -1,0 +1,1 @@
+[["Philippines", "Currency", "18th_century", "Antonio_Vivaldi"], ["Philippines", "Paleontology", "18th_century", "Antonio_Vivaldi"], ["Philippines", "Spain", "18th_century", "Antonio_Vivaldi"], ["Philippines", "Spanish_language", "18th_century", "Antonio_Vivaldi"], ["Philippines", "Vietnam", "18th_century", "Antonio_Vivaldi"]]

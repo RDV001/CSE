@@ -1,0 +1,1 @@
+[["Tamil_people", "Tea", "Winter", "Weasel"]]

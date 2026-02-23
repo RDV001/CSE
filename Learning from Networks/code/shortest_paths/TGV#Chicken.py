@@ -1,0 +1,1 @@
+[["TGV", "1973_oil_crisis", "Saudi_Arabia", "Chicken"], ["TGV", "Coupling_%28railway%29", "Saudi_Arabia", "Chicken"], ["TGV", "Paris", "Saudi_Arabia", "Chicken"], ["TGV", "Petroleum", "Saudi_Arabia", "Chicken"], ["TGV", "Beet", "Flower", "Chicken"], ["TGV", "Osaka", "Flower", "Chicken"], ["TGV", "Steel", "Vanadium", "Chicken"], ["TGV", "Uranium", "Vanadium", "Chicken"]]

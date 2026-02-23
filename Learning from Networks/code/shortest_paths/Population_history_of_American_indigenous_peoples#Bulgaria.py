@@ -1,0 +1,1 @@
+[["Population_history_of_American_indigenous_peoples", "Europe", "Bulgaria"], ["Population_history_of_American_indigenous_peoples", "The_Holocaust", "Bulgaria"], ["Population_history_of_American_indigenous_peoples", "World_War_II", "Bulgaria"]]

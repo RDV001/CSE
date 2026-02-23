@@ -1,0 +1,1 @@
+[["Ghost_Dance", "Oregon", "River", "Hydrology", "Soil_moisture"], ["Ghost_Dance", "Society", "Geography", "Hydrology", "Soil_moisture"]]

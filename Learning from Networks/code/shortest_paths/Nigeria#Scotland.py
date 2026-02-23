@@ -1,0 +1,1 @@
+[["Nigeria", "British_Empire", "Scotland"], ["Nigeria", "Coal", "Scotland"], ["Nigeria", "Country", "Scotland"], ["Nigeria", "English_language", "Scotland"], ["Nigeria", "List_of_countries_by_system_of_government", "Scotland"], ["Nigeria", "Petroleum", "Scotland"], ["Nigeria", "Rainforest", "Scotland"], ["Nigeria", "United_Kingdom", "Scotland"]]

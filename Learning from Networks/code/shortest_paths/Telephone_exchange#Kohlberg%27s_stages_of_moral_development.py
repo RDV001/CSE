@@ -1,0 +1,1 @@
+[["Telephone_exchange", "United_States", "Education", "Educational_psychology", "Kohlberg%27s_stages_of_moral_development"], ["Telephone_exchange", "United_States", "Education", "Ethics", "Kohlberg%27s_stages_of_moral_development"], ["Telephone_exchange", "United_States", "Medicine", "Ethics", "Kohlberg%27s_stages_of_moral_development"]]

@@ -1,0 +1,1 @@
+[["London", "Culture", "Buddhism", "Abhidhamma_Pitaka"], ["London", "Europe", "Buddhism", "Abhidhamma_Pitaka"], ["London", "European_Union", "Buddhism", "Abhidhamma_Pitaka"], ["London", "France", "Buddhism", "Abhidhamma_Pitaka"], ["London", "Japan", "Buddhism", "Abhidhamma_Pitaka"], ["London", "Russia", "Buddhism", "Abhidhamma_Pitaka"]]

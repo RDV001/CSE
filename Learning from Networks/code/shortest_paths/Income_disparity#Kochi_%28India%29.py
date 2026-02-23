@@ -1,0 +1,1 @@
+[["Income_disparity", "Malaysia", "Kerala", "Kochi_%28India%29"], ["Income_disparity", "Singapore", "Fishing", "Kochi_%28India%29"]]

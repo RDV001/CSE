@@ -1,0 +1,1 @@
+[["Minstrel_show", "Folk_music", "Mass_media", "Alexander_Graham_Bell"], ["Minstrel_show", "New_York_City", "Mass_media", "Alexander_Graham_Bell"]]

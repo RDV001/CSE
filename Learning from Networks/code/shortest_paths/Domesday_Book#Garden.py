@@ -1,0 +1,1 @@
+[["Domesday_Book", "12th_century", "Paris", "Garden"], ["Domesday_Book", "London", "Paris", "Garden"], ["Domesday_Book", "Dorset", "Tourism", "Garden"], ["Domesday_Book", "England", "Tourism", "Garden"], ["Domesday_Book", "Hampshire", "Tourism", "Garden"], ["Domesday_Book", "Scotland", "Aberdeen", "Garden"]]

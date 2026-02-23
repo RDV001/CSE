@@ -1,0 +1,1 @@
+[["Sermon_on_the_Mount", "Jesus", "Jordan", "Manufacturing"], ["Sermon_on_the_Mount", "Sea_of_Galilee", "Jordan", "Manufacturing"], ["Sermon_on_the_Mount", "Mahatma_Gandhi", "Pakistan", "Manufacturing"], ["Sermon_on_the_Mount", "Roman_Catholic_Church", "Industrial_Revolution", "Manufacturing"], ["Sermon_on_the_Mount", "The_Brothers_Karamazov", "Business", "Manufacturing"]]

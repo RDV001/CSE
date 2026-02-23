@@ -1,0 +1,1 @@
+[["Wallis_and_Futuna", "Capital", "Cairo"], ["Wallis_and_Futuna", "Time_zone", "Cairo"]]

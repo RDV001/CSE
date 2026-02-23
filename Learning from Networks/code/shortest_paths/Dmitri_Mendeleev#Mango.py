@@ -1,0 +1,1 @@
+[["Dmitri_Mendeleev", "Europe", "India", "Mango"], ["Dmitri_Mendeleev", "Saint_Petersburg", "India", "Mango"], ["Dmitri_Mendeleev", "Tuberculosis", "India", "Mango"]]

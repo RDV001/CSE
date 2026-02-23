@@ -1,0 +1,1 @@
+[["Pearl", "Australia", "English_language", "Canadian_English"], ["Pearl", "China", "English_language", "Canadian_English"], ["Pearl", "Fiji", "English_language", "Canadian_English"], ["Pearl", "Japan", "English_language", "Canadian_English"], ["Pearl", "Philippines", "English_language", "Canadian_English"], ["Pearl", "Pacific_Ocean", "Canada", "Canadian_English"]]

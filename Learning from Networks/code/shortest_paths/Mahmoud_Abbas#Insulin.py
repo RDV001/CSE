@@ -1,0 +1,1 @@
+[["Mahmoud_Abbas", "Ariel_Sharon", "Cancer", "Insulin"], ["Mahmoud_Abbas", "The_Holocaust", "Cancer", "Insulin"], ["Mahmoud_Abbas", "Munich", "Biotechnology", "Insulin"]]

@@ -1,0 +1,1 @@
+[["Shoe_polish", "France", "South_America", "La_Paz"], ["Shoe_polish", "India", "South_America", "La_Paz"], ["Shoe_polish", "Spain", "South_America", "La_Paz"], ["Shoe_polish", "Sub-Saharan_Africa", "South_America", "La_Paz"], ["Shoe_polish", "Water", "Bolivia", "La_Paz"]]

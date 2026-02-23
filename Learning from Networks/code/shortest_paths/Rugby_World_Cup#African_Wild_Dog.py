@@ -1,0 +1,1 @@
+[["Rugby_World_Cup", "Africa", "Giraffe", "African_Wild_Dog"], ["Rugby_World_Cup", "South_Africa", "Giraffe", "African_Wild_Dog"]]

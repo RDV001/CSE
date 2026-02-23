@@ -1,0 +1,1 @@
+[["Gas", "Dutch_language", "Evolution", "Organism"], ["Gas", "Natural_gas", "Hydrogen", "Organism"], ["Gas", "Natural_gas", "Ocean", "Organism"], ["Gas", "Phase_%28matter%29", "Iron", "Organism"], ["Gas", "Plasma_%28physics%29", "Chemistry", "Organism"], ["Gas", "Plasma_%28physics%29", "Earth", "Organism"]]

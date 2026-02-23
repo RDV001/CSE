@@ -1,0 +1,1 @@
+[["Down_syndrome", "Nazi_Germany", "Swastika", "Giant_Panda"]]

@@ -1,0 +1,1 @@
+[["Civilization_%28computer_game%29", "Ferdinand_Magellan", "Elephant", "Hannibal_Barca"]]

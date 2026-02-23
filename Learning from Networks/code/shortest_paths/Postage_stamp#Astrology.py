@@ -1,0 +1,1 @@
+[["Postage_stamp", "Gold", "Astrology"]]

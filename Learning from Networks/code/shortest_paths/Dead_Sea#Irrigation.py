@@ -1,0 +1,1 @@
+[["Dead_Sea", "Ancient_Egypt", "Irrigation"], ["Dead_Sea", "Islam", "Irrigation"], ["Dead_Sea", "Water", "Irrigation"]]

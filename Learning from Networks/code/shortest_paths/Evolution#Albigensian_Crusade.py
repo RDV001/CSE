@@ -1,0 +1,1 @@
+[["Evolution", "Agriculture", "Middle_Ages", "Albigensian_Crusade"], ["Evolution", "Computer", "Middle_Ages", "Albigensian_Crusade"], ["Evolution", "Malaria", "Middle_Ages", "Albigensian_Crusade"], ["Evolution", "Pea", "Middle_Ages", "Albigensian_Crusade"], ["Evolution", "Science", "Middle_Ages", "Albigensian_Crusade"]]

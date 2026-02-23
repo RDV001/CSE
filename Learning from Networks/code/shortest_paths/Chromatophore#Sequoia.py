@@ -1,0 +1,1 @@
+[["Chromatophore", "Animal", "Sunlight", "Sequoia"]]

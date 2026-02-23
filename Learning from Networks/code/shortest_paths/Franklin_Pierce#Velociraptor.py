@@ -1,0 +1,1 @@
+[["Franklin_Pierce", "Cuba", "Gulf_of_Mexico", "Dinosaur", "Velociraptor"], ["Franklin_Pierce", "United_Kingdom", "Earth", "Dinosaur", "Velociraptor"], ["Franklin_Pierce", "United_Kingdom", "J._K._Rowling", "Dinosaur", "Velociraptor"]]

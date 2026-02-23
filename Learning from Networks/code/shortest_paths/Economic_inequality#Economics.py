@@ -1,0 +1,1 @@
+[["Economic_inequality", "Adam_Smith", "Economics"], ["Economic_inequality", "Capitalism", "Economics"], ["Economic_inequality", "Slovakia", "Economics"], ["Economic_inequality", "Supply_and_demand", "Economics"]]

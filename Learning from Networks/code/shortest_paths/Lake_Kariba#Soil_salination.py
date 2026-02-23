@@ -1,0 +1,1 @@
+[["Lake_Kariba", "Dam", "Soil", "Soil_salination"], ["Lake_Kariba", "Ecology", "Soil", "Soil_salination"], ["Lake_Kariba", "Ecology", "Agriculture", "Soil_salination"], ["Lake_Kariba", "Zambezi", "Agriculture", "Soil_salination"], ["Lake_Kariba", "Zimbabwe", "Agriculture", "Soil_salination"]]

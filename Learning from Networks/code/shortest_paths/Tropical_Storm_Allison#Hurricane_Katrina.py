@@ -1,0 +1,1 @@
+[["Tropical_Storm_Allison", "Florida", "Hurricane_Katrina"], ["Tropical_Storm_Allison", "George_W._Bush", "Hurricane_Katrina"], ["Tropical_Storm_Allison", "Gulf_of_Mexico", "Hurricane_Katrina"], ["Tropical_Storm_Allison", "Houston%2C_Texas", "Hurricane_Katrina"], ["Tropical_Storm_Allison", "President_of_the_United_States", "Hurricane_Katrina"]]

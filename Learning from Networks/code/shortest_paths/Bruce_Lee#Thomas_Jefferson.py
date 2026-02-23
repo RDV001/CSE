@@ -1,0 +1,1 @@
+[["Bruce_Lee", "United_States", "Thomas_Jefferson"], ["Bruce_Lee", "United_States_dollar", "Thomas_Jefferson"]]

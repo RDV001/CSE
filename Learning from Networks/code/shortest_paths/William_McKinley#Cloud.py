@@ -1,0 +1,1 @@
+[["William_McKinley", "California", "Snow", "Cloud"], ["William_McKinley", "Caribbean_Sea", "Tropical_cyclone", "Cloud"], ["William_McKinley", "Cuba", "Tropical_cyclone", "Cloud"]]

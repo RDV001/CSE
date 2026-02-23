@@ -1,0 +1,1 @@
+[["History_of_slavery", "American_Civil_War", "Ku_Klux_Klan"], ["History_of_slavery", "Frederick_Douglass", "Ku_Klux_Klan"]]

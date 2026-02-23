@@ -1,0 +1,1 @@
+[["Windows_XP", "Asia", "Korea"]]

@@ -1,0 +1,1 @@
+[["Transport", "Carbon", "Star", "Binary_star"], ["Transport", "Energy", "Star", "Binary_star"], ["Transport", "Hydrogen", "Star", "Binary_star"], ["Transport", "Hydrogen", "Gas_giant", "Binary_star"], ["Transport", "Hydrogen", "Redshift", "Binary_star"]]

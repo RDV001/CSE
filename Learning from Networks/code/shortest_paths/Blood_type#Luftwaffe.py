@@ -1,0 +1,1 @@
+[["Blood_type", "ABO_blood_group_system", "Germany", "Luftwaffe"], ["Blood_type", "ABO_blood_group_system", "Ireland", "Luftwaffe"]]

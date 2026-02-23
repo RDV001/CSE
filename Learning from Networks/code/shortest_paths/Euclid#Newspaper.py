@@ -1,0 +1,1 @@
+[["Euclid", "19th_century", "Henry_James", "Newspaper"], ["Euclid", "19th_century", "Honduras", "Newspaper"], ["Euclid", "Asteroid", "Film", "Newspaper"]]

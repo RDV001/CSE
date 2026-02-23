@@ -1,0 +1,1 @@
+[["Batman", "Earthquake", "Japan", "Sony"], ["Batman", "Superman", "Computer_and_video_games", "Sony"], ["Batman", "Superman", "Radio", "Sony"]]

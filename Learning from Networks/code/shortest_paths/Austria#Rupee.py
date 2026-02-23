@@ -1,0 +1,1 @@
+[["Austria", "English_language", "Sri_Lanka", "Rupee"], ["Austria", "List_of_countries_by_system_of_government", "Sri_Lanka", "Rupee"], ["Austria", "Turkey", "Sri_Lanka", "Rupee"], ["Austria", "Islam", "Taj_Mahal", "Rupee"]]

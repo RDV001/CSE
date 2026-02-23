@@ -1,0 +1,1 @@
+[["Ascariasis", "United_States", "Chicago", "Chicago_Bears"]]

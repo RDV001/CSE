@@ -1,0 +1,1 @@
+[["Fern", "Asparagus", "United_States", "Space_Shuttle_Columbia"], ["Fern", "Coal", "United_States", "Space_Shuttle_Columbia"], ["Fern", "Finland", "United_States", "Space_Shuttle_Columbia"], ["Fern", "Invasive_species", "United_States", "Space_Shuttle_Columbia"], ["Fern", "New_Zealand", "United_States", "Space_Shuttle_Columbia"]]

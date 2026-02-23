@@ -1,0 +1,1 @@
+[["Elementary_algebra", "Algebra", "Babylonia", "Euphrates"], ["Elementary_algebra", "Mathematics", "Mesopotamia", "Euphrates"], ["Elementary_algebra", "Number", "Byzantine_Empire", "Euphrates"]]

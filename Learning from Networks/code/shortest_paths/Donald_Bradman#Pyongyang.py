@@ -1,0 +1,1 @@
+[["Donald_Bradman", "Australia", "Asia", "Pyongyang"], ["Donald_Bradman", "New_Zealand", "Asia", "Pyongyang"], ["Donald_Bradman", "Sydney", "Asia", "Pyongyang"], ["Donald_Bradman", "Australia", "South_Korea", "Pyongyang"], ["Donald_Bradman", "Baseball", "South_Korea", "Pyongyang"], ["Donald_Bradman", "Pel%C3%A9", "Rio_de_Janeiro", "Pyongyang"]]

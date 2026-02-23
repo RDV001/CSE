@@ -1,0 +1,1 @@
+[["Richard_Francis_Burton", "France", "Australia", "Emu"], ["Richard_Francis_Burton", "Italy", "Australia", "Emu"], ["Richard_Francis_Burton", "Jew", "Australia", "Emu"], ["Richard_Francis_Burton", "Somalia", "Australia", "Emu"], ["Richard_Francis_Burton", "Victoria_of_the_United_Kingdom", "Australia", "Emu"]]

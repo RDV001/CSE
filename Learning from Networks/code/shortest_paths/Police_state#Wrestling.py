@@ -1,0 +1,1 @@
+[["Police_state", "Computer_and_video_games", "South_Korea", "Wrestling"], ["Police_state", "United_States", "South_Korea", "Wrestling"], ["Police_state", "Thomas_Hobbes", "Plato", "Wrestling"], ["Police_state", "War", "Ancient_Rome", "Wrestling"]]

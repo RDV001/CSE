@@ -1,0 +1,1 @@
+[["Katana", "English_language", "Boston%2C_Massachusetts", "Amtrak"], ["Katana", "English_language", "United_States", "Amtrak"], ["Katana", "Firearm", "United_States", "Amtrak"], ["Katana", "Japan", "United_States", "Amtrak"], ["Katana", "World_War_II", "United_States", "Amtrak"], ["Katana", "World_War_II", "San_Francisco%2C_California", "Amtrak"]]

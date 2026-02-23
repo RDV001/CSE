@@ -1,0 +1,1 @@
+[["Gorilla", "Africa", "Ethiopia", "Tony_Blair"], ["Gorilla", "Africa", "United_Kingdom", "Tony_Blair"], ["Gorilla", "DNA", "United_Kingdom", "Tony_Blair"], ["Gorilla", "Liberia", "United_Kingdom", "Tony_Blair"], ["Gorilla", "Otter", "United_Kingdom", "Tony_Blair"], ["Gorilla", "Sierra_Leone", "United_Kingdom", "Tony_Blair"], ["Gorilla", "Human", "Government", "Tony_Blair"]]

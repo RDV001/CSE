@@ -1,0 +1,1 @@
+[["Mandan", "19th_century", "Evolution", "History_of_Earth"], ["Mandan", "Horse", "Evolution", "History_of_Earth"], ["Mandan", "Wales", "Ordovician", "History_of_Earth"]]

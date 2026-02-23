@@ -1,0 +1,1 @@
+[["England_expects_that_every_man_will_do_his_duty", "England", "Thomas_Hobbes", "Calvin_and_Hobbes", "Krazy_Kat"]]

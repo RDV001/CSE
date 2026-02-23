@@ -1,0 +1,1 @@
+[["Nash_equilibrium", "Economics", "Crime", "Police"], ["Nash_equilibrium", "Economics", "Law", "Police"]]

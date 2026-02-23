@@ -1,0 +1,1 @@
+[["18th_century", "21st_century", "Fidel_Castro", "Malcolm_X"], ["18th_century", "President_of_the_United_States", "John_F._Kennedy", "Malcolm_X"], ["18th_century", "United_States", "John_F._Kennedy", "Malcolm_X"], ["18th_century", "South_Africa", "Nelson_Mandela", "Malcolm_X"], ["18th_century", "United_States", "Martin_Luther_King%2C_Jr.", "Malcolm_X"]]

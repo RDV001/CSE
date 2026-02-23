@@ -1,0 +1,1 @@
+[["Armadillo", "South_America", "Africa", "Dakar"], ["Armadillo", "South_America", "Atlantic_Ocean", "Dakar"], ["Armadillo", "United_States", "Atlantic_Ocean", "Dakar"], ["Armadillo", "United_States", "Senegal", "Dakar"], ["Armadillo", "United_States", "Washington%2C_D.C.", "Dakar"]]

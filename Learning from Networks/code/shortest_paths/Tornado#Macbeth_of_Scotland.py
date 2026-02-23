@@ -1,0 +1,1 @@
+[["Tornado", "Bangladesh", "British_monarchy", "Macbeth_of_Scotland"], ["Tornado", "United_Kingdom", "British_monarchy", "Macbeth_of_Scotland"], ["Tornado", "New_Zealand", "11th_century", "Macbeth_of_Scotland"]]

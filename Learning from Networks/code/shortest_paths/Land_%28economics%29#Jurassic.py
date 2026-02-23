@@ -1,0 +1,1 @@
+[["Land_%28economics%29", "Africa", "Fossil", "Jurassic"], ["Land_%28economics%29", "Africa", "Mediterranean_Sea", "Jurassic"]]

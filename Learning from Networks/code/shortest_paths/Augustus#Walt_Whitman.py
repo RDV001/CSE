@@ -1,0 +1,1 @@
+[["Augustus", "Egypt", "United_States", "Walt_Whitman"], ["Augustus", "Germany", "United_States", "Walt_Whitman"], ["Augustus", "Latin", "United_States", "Walt_Whitman"], ["Augustus", "Propaganda", "United_States", "Walt_Whitman"], ["Augustus", "Roman_Empire", "United_States", "Walt_Whitman"], ["Augustus", "Rome", "19th_century", "Walt_Whitman"]]

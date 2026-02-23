@@ -1,0 +1,1 @@
+[["Airbus_A380", "South_Africa", "Poverty"]]

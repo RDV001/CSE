@@ -1,0 +1,1 @@
+[["Paris", "Berlin", "American_football"], ["Paris", "Ernest_Hemingway", "American_football"], ["Paris", "FIFA_World_Cup", "American_football"], ["Paris", "Mexico", "American_football"], ["Paris", "New_York_City", "American_football"], ["Paris", "United_States", "American_football"], ["Paris", "Washington%2C_D.C.", "American_football"]]

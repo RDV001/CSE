@@ -1,0 +1,1 @@
+[["Battle_of_Normandy", "Electricity", "Nikola_Tesla"]]

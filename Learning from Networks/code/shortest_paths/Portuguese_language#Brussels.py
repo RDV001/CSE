@@ -1,0 +1,1 @@
+[["Portuguese_language", "Belgium", "Brussels"], ["Portuguese_language", "European_Union", "Brussels"], ["Portuguese_language", "France", "Brussels"], ["Portuguese_language", "Switzerland", "Brussels"]]

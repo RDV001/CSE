@@ -1,0 +1,1 @@
+[["Pac-Man", "Fruit", "Banana", "Honey"], ["Pac-Man", "Fruit", "Flower", "Honey"], ["Pac-Man", "Fruit", "Wine", "Honey"], ["Pac-Man", "Japan", "Agriculture", "Honey"], ["Pac-Man", "United_States", "Agriculture", "Honey"]]

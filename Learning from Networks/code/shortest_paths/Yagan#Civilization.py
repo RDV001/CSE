@@ -1,0 +1,1 @@
+[["Yagan", "Ancient_Egypt", "Civilization"], ["Yagan", "Anthropology", "Civilization"], ["Yagan", "Archaeology", "Civilization"]]

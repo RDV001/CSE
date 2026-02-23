@@ -1,0 +1,1 @@
+[["Mandan", "19th_century", "Henrik_Ibsen"]]

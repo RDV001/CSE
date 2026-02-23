@@ -1,0 +1,1 @@
+[["Tel_Aviv", "City", "Africa", "Cheetah"], ["Tel_Aviv", "Israel", "Africa", "Cheetah"], ["Tel_Aviv", "Mediterranean_Sea", "Africa", "Cheetah"], ["Tel_Aviv", "S%C3%A3o_Paulo", "Africa", "Cheetah"], ["Tel_Aviv", "World_Heritage_Site", "Africa", "Cheetah"]]

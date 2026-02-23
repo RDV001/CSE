@@ -1,0 +1,1 @@
+[["Barack_Obama", "Terrorism", "Osama_bin_Laden"]]

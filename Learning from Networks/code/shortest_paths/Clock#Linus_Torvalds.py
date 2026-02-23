@@ -1,0 +1,1 @@
+[["Clock", "15th_century", "21st_century", "Linus_Torvalds"], ["Clock", "17th_century", "21st_century", "Linus_Torvalds"], ["Clock", "20th_century", "21st_century", "Linus_Torvalds"], ["Clock", "Computer", "GNU", "Linus_Torvalds"], ["Clock", "Computer", "Linux", "Linus_Torvalds"]]

@@ -1,0 +1,1 @@
+[["4-6-0", "Petroleum", "Carbon", "Silicon"], ["4-6-0", "Petroleum", "Carbon_dioxide", "Silicon"], ["4-6-0", "Petroleum", "Earth", "Silicon"], ["4-6-0", "Petroleum", "Sun", "Silicon"], ["4-6-0", "United_States", "Moon", "Silicon"]]

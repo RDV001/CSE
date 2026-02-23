@@ -1,0 +1,1 @@
+[["Gulf_of_Mexico", "Cuba", "Pope_John_Paul_II", "John_Calvin"], ["Gulf_of_Mexico", "Florida", "Christianity", "John_Calvin"], ["Gulf_of_Mexico", "United_Kingdom", "Christianity", "John_Calvin"], ["Gulf_of_Mexico", "Spain", "16th_century", "John_Calvin"], ["Gulf_of_Mexico", "Spain", "Renaissance", "John_Calvin"]]

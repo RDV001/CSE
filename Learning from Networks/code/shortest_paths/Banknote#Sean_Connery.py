@@ -1,0 +1,1 @@
+[["Banknote", "Scotland", "Edinburgh", "Sean_Connery"], ["Banknote", "United_Kingdom", "Edinburgh", "Sean_Connery"]]

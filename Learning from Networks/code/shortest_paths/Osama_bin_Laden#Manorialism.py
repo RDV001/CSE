@@ -1,0 +1,1 @@
+[["Osama_bin_Laden", "Economics", "Capitalism", "Manorialism"], ["Osama_bin_Laden", "United_States", "Capitalism", "Manorialism"], ["Osama_bin_Laden", "World_War_I", "Capitalism", "Manorialism"], ["Osama_bin_Laden", "Egypt", "French_Revolution", "Manorialism"], ["Osama_bin_Laden", "Europe", "French_Revolution", "Manorialism"]]

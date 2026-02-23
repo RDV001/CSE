@@ -1,0 +1,1 @@
+[["Habsburg_Spain", "Europe", "Gibraltar"], ["Habsburg_Spain", "Malta", "Gibraltar"], ["Habsburg_Spain", "Mediterranean_Sea", "Gibraltar"], ["Habsburg_Spain", "Spain", "Gibraltar"], ["Habsburg_Spain", "War_of_the_Spanish_Succession", "Gibraltar"]]

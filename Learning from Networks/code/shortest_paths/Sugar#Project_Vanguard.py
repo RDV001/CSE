@@ -1,0 +1,1 @@
+[["Sugar", "Soviet_Union", "Sputnik_1", "Project_Vanguard"]]

@@ -1,0 +1,1 @@
+[["Color", "Aristotle", "Ancient_Greece", "Battle_of_Marathon"], ["Color", "Art", "Ancient_Greece", "Battle_of_Marathon"], ["Color", "Physics", "Ancient_Greece", "Battle_of_Marathon"]]

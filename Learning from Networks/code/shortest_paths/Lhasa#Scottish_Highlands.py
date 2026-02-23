@@ -1,0 +1,1 @@
+[["Lhasa", "Bolivia", "Folk_music", "Scottish_Highlands"], ["Lhasa", "China", "United_Kingdom", "Scottish_Highlands"], ["Lhasa", "Himalayas", "United_Kingdom", "Scottish_Highlands"], ["Lhasa", "World_Heritage_Site", "United_Kingdom", "Scottish_Highlands"]]

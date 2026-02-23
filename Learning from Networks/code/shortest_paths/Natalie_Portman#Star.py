@@ -1,0 +1,1 @@
+[["Natalie_Portman", "Boston%2C_Massachusetts", "Solar_System", "Star"], ["Natalie_Portman", "Hebrew_language", "Babylonia", "Star"], ["Natalie_Portman", "Israel", "Babylonia", "Star"], ["Natalie_Portman", "Jerusalem", "Babylonia", "Star"]]

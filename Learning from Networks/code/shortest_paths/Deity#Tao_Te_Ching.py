@@ -1,0 +1,1 @@
+[["Deity", "Buddhism", "Tao_Te_Ching"]]

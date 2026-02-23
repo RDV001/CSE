@@ -1,0 +1,1 @@
+[["Vulture", "Africa", "Liberal_democracy", "Civil_society"], ["Vulture", "India", "Liberal_democracy", "Civil_society"], ["Vulture", "Antarctica", "Russia", "Civil_society"], ["Vulture", "Asia", "Russia", "Civil_society"], ["Vulture", "Europe", "Russia", "Civil_society"]]

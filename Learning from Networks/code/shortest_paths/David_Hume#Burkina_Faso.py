@@ -1,0 +1,1 @@
+[["David_Hume", "French_language", "Burkina_Faso"]]

@@ -1,0 +1,1 @@
+[["Tropical_cyclone", "Earth", "Pollution"], ["Tropical_cyclone", "Guam", "Pollution"], ["Tropical_cyclone", "Indian_Ocean", "Pollution"], ["Tropical_cyclone", "People%27s_Republic_of_China", "Pollution"]]

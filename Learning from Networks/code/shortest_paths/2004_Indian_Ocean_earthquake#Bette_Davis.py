@@ -1,0 +1,1 @@
+[["2004_Indian_Ocean_earthquake", "Modern_history", "Elizabeth_I_of_England", "Bette_Davis"], ["2004_Indian_Ocean_earthquake", "Royal_Navy", "Elizabeth_I_of_England", "Bette_Davis"]]

@@ -1,0 +1,1 @@
+[["Finance", "Business", "Capital", "Bolivia"], ["Finance", "Mathematics", "Inca_Empire", "Bolivia"], ["Finance", "Money", "List_of_circulating_currencies", "Bolivia"], ["Finance", "Money", "Water", "Bolivia"], ["Finance", "Statistics", "19th_century", "Bolivia"]]

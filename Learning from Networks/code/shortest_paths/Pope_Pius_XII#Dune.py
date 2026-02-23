@@ -1,0 +1,1 @@
+[["Pope_Pius_XII", "Argentina", "Sand", "Dune"], ["Pope_Pius_XII", "Israel", "Gaza_Strip", "Dune"], ["Pope_Pius_XII", "Zionism", "Gaza_Strip", "Dune"]]

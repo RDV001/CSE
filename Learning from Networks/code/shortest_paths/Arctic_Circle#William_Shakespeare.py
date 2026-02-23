@@ -1,0 +1,1 @@
+[["Arctic_Circle", "Denmark", "William_Shakespeare"]]

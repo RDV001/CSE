@@ -1,0 +1,1 @@
+[["Egg_%28food%29", "Calcium", "Copper", "Barnacle"], ["Egg_%28food%29", "Iron", "Copper", "Barnacle"], ["Egg_%28food%29", "Pigment", "Copper", "Barnacle"], ["Egg_%28food%29", "Sulfur", "Copper", "Barnacle"]]

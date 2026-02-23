@@ -1,0 +1,1 @@
+[["Barack_Obama", "Jew", "Spanish_Inquisition", "Monty_Python", "Yes_Minister"], ["Barack_Obama", "Religion", "Spanish_Inquisition", "Monty_Python", "Yes_Minister"]]

@@ -1,0 +1,1 @@
+[["Akkadian_Empire", "Egypt", "Fishing", "Shark"], ["Akkadian_Empire", "Europe", "Carnivore", "Shark"]]

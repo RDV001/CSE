@@ -1,0 +1,1 @@
+[["Cholera", "London", "Regent%27s_Park", "London_Zoo"], ["Cholera", "London", "Tower_of_London", "London_Zoo"]]

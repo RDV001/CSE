@@ -1,0 +1,1 @@
+[["Political_science", "Anthropology", "Human", "Pigment", "Albinism"], ["Political_science", "History", "Human", "Pigment", "Albinism"], ["Political_science", "Sociology", "Human", "Pigment", "Albinism"], ["Political_science", "Middle_Ages", "Africa", "Cheetah", "Albinism"], ["Political_science", "Philosophy", "Africa", "Cheetah", "Albinism"]]

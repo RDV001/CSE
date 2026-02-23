@@ -1,0 +1,1 @@
+[["Zirconium", "Arabic_language", "Islam", "Timur"], ["Zirconium", "Brazil", "Islam", "Timur"], ["Zirconium", "Russia", "Islam", "Timur"], ["Zirconium", "United_States", "Islam", "Timur"], ["Zirconium", "Arabic_language", "Qur%27an", "Timur"], ["Zirconium", "Russia", "Saint_Petersburg", "Timur"]]

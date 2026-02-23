@@ -1,0 +1,1 @@
+[["Barack_Obama", "Israel", "Nazism"], ["Barack_Obama", "Jew", "Nazism"], ["Barack_Obama", "Mahmoud_Abbas", "Nazism"], ["Barack_Obama", "Margaret_Thatcher", "Nazism"], ["Barack_Obama", "World_War_II", "Nazism"]]

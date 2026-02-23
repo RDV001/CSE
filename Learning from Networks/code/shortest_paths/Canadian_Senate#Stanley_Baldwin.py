@@ -1,0 +1,1 @@
+[["Canadian_Senate", "British_House_of_Commons", "Harold_Macmillan", "Stanley_Baldwin"], ["Canadian_Senate", "House_of_Lords", "Tony_Blair", "Stanley_Baldwin"], ["Canadian_Senate", "United_Kingdom", "Tony_Blair", "Stanley_Baldwin"], ["Canadian_Senate", "Palace_of_Westminster", "Winston_Churchill", "Stanley_Baldwin"]]

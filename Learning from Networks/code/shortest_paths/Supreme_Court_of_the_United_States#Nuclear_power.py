@@ -1,0 +1,1 @@
+[["Supreme_Court_of_the_United_States", "George_W._Bush", "Nuclear_power"], ["Supreme_Court_of_the_United_States", "United_States", "Nuclear_power"]]

@@ -1,0 +1,1 @@
+[["Brunei", "Buddhism", "Afghanistan", "Pashtun_people"], ["Brunei", "List_of_countries_by_system_of_government", "Afghanistan", "Pashtun_people"], ["Brunei", "Time_zone", "Afghanistan", "Pashtun_people"]]

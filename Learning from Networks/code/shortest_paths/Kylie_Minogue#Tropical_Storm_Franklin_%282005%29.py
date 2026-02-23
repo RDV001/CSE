@@ -1,0 +1,1 @@
+[["Kylie_Minogue", "Canada", "Hurricane_Katrina", "2005_Atlantic_hurricane_season", "Tropical_Storm_Franklin_%282005%29"], ["Kylie_Minogue", "U2", "Hurricane_Katrina", "2005_Atlantic_hurricane_season", "Tropical_Storm_Franklin_%282005%29"], ["Kylie_Minogue", "Japan", "Tropical_cyclone", "2005_Atlantic_hurricane_season", "Tropical_Storm_Franklin_%282005%29"]]

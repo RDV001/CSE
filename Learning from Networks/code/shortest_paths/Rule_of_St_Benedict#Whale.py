@@ -1,0 +1,1 @@
+[["Rule_of_St_Benedict", "Democracy", "Iceland", "Whale"], ["Rule_of_St_Benedict", "Egypt", "Indian_Ocean", "Whale"]]

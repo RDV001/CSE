@@ -1,0 +1,1 @@
+[["Heat", "Copper", "Peru", "Lima"], ["Heat", "Sun", "South_America", "Lima"], ["Heat", "Water", "Argentina", "Lima"], ["Heat", "Water", "Bolivia", "Lima"]]

@@ -1,0 +1,1 @@
+[["Pottery", "Nepal", "Mount_Everest", "Avalanche"]]

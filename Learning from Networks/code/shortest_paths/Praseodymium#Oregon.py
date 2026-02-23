@@ -1,0 +1,1 @@
+[["Praseodymium", "Day", "United_States", "Oregon"], ["Praseodymium", "Greece", "United_States", "Oregon"], ["Praseodymium", "Greece", "Ghana", "Oregon"]]

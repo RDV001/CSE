@@ -1,0 +1,1 @@
+[["Stephen_Jay_Gould", "History_of_science", "Noam_Chomsky"], ["Stephen_Jay_Gould", "Psychology", "Noam_Chomsky"]]

@@ -1,0 +1,1 @@
+[["Thermodynamics", "19th_century", "Atlantic_Ocean", "Libreville"], ["Thermodynamics", "20th_century", "Africa", "Libreville"], ["Thermodynamics", "Albert_Einstein", "Africa", "Libreville"]]

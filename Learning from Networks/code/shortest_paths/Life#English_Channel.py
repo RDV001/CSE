@@ -1,0 +1,1 @@
+[["Life", "DNA", "United_Kingdom", "English_Channel"], ["Life", "Genetics", "United_Kingdom", "English_Channel"], ["Life", "Earth", "Atlantic_Ocean", "English_Channel"], ["Life", "Earth", "Tsunami", "English_Channel"], ["Life", "Energy", "Tsunami", "English_Channel"]]

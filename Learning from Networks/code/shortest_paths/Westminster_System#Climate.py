@@ -1,0 +1,1 @@
+[["Westminster_System", "Malaysia", "Climate"], ["Westminster_System", "Malta", "Climate"], ["Westminster_System", "New_Zealand", "Climate"]]

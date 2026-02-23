@@ -1,0 +1,1 @@
+[["Augustine_of_Hippo", "Algeria", "Russia", "Sputnik_1"], ["Augustine_of_Hippo", "Bob_Dylan", "Russia", "Sputnik_1"], ["Augustine_of_Hippo", "Europe", "Russia", "Sputnik_1"], ["Augustine_of_Hippo", "Algeria", "Soviet_Union", "Sputnik_1"], ["Augustine_of_Hippo", "Europe", "Soviet_Union", "Sputnik_1"]]

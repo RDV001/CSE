@@ -1,0 +1,1 @@
+[["Permian", "Antarctica", "Atlantic_Ocean", "RMS_Titanic"], ["Permian", "Earth", "Atlantic_Ocean", "RMS_Titanic"], ["Permian", "United_States", "Atlantic_Ocean", "RMS_Titanic"], ["Permian", "United_States", "Irish_people", "RMS_Titanic"], ["Permian", "United_States", "Plymouth", "RMS_Titanic"]]

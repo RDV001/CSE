@@ -1,0 +1,1 @@
+[["Yellowstone_National_Park", "Atlantic_Ocean", "Black_Sea"], ["Yellowstone_National_Park", "Continent", "Black_Sea"], ["Yellowstone_National_Park", "Europe", "Black_Sea"]]

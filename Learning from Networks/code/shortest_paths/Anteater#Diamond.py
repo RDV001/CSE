@@ -1,0 +1,1 @@
+[["Anteater", "Aardvark", "Africa", "Diamond"], ["Anteater", "Ant", "Africa", "Diamond"], ["Anteater", "South_America", "Africa", "Diamond"], ["Anteater", "Ant", "South_Africa", "Diamond"], ["Anteater", "South_America", "Georgetown%2C_Guyana", "Diamond"]]

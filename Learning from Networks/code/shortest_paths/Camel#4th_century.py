@@ -1,0 +1,1 @@
+[["Camel", "19th_century", "4th_century"], ["Camel", "20th_century", "4th_century"], ["Camel", "Ethiopia", "4th_century"], ["Camel", "Iran", "4th_century"], ["Camel", "Kazakhstan", "4th_century"]]

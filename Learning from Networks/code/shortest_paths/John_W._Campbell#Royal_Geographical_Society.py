@@ -1,0 +1,1 @@
+[["John_W._Campbell", "Isaac_Asimov", "Jew", "Geography", "Royal_Geographical_Society"], ["John_W._Campbell", "Newark%2C_New_Jersey", "Jew", "Geography", "Royal_Geographical_Society"], ["John_W._Campbell", "United_Kingdom", "Earth", "Geography", "Royal_Geographical_Society"], ["John_W._Campbell", "United_Kingdom", "Scottish_Highlands", "Geography", "Royal_Geographical_Society"]]

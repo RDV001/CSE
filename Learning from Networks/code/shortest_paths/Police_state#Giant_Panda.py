@@ -1,0 +1,1 @@
+[["Police_state", "Nazi_Germany", "Swastika", "Giant_Panda"]]

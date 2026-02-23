@@ -1,0 +1,1 @@
+[["Mahjong", "Asia", "Singapore"], ["Mahjong", "Beijing", "Singapore"], ["Mahjong", "Chinese_language", "Singapore"], ["Mahjong", "Confucius", "Singapore"], ["Mahjong", "Hong_Kong", "Singapore"], ["Mahjong", "Shanghai", "Singapore"]]

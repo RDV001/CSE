@@ -1,0 +1,1 @@
+[["Planetary_habitability", "Philosophy", "Communism"]]

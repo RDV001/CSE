@@ -1,0 +1,1 @@
+[["Mancala", "Europe", "Czech_Republic"], ["Mancala", "Lebanon", "Czech_Republic"]]

@@ -1,0 +1,1 @@
+[["Thomas_Malthus", "Agriculture", "Africa", "Cheetah"], ["Thomas_Malthus", "Communism", "Africa", "Cheetah"], ["Thomas_Malthus", "Earth", "Africa", "Cheetah"], ["Thomas_Malthus", "Human", "Africa", "Cheetah"], ["Thomas_Malthus", "Madagascar", "Africa", "Cheetah"], ["Thomas_Malthus", "Mauritius", "Africa", "Cheetah"], ["Thomas_Malthus", "United_Nations", "Africa", "Cheetah"]]

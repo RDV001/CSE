@@ -1,0 +1,1 @@
+[["Liverpool_F.C.", "Istanbul", "Fruit", "Avocado"]]

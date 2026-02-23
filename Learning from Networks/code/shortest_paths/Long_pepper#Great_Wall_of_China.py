@@ -1,0 +1,1 @@
+[["Long_pepper", "Black_pepper", "China", "Great_Wall_of_China"], ["Long_pepper", "Indonesia", "China", "Great_Wall_of_China"], ["Long_pepper", "Malaysia", "China", "Great_Wall_of_China"], ["Long_pepper", "Sanskrit", "China", "Great_Wall_of_China"], ["Long_pepper", "Black_pepper", "Marco_Polo", "Great_Wall_of_China"]]

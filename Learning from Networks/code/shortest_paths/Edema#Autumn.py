@@ -1,0 +1,1 @@
+[["Edema", "American_English", "Autumn"]]

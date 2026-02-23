@@ -1,0 +1,1 @@
+[["Tuberculosis", "Ancient_history", "1st_century_BC"]]

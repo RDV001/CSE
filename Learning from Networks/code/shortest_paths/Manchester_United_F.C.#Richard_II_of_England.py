@@ -1,0 +1,1 @@
+[["Manchester_United_F.C.", "Chelsea_F.C.", "Westminster_Abbey", "Richard_II_of_England"], ["Manchester_United_F.C.", "England", "Westminster_Abbey", "Richard_II_of_England"], ["Manchester_United_F.C.", "England", "Palace_of_Westminster", "Richard_II_of_England"], ["Manchester_United_F.C.", "England", "Wars_of_the_Roses", "Richard_II_of_England"]]

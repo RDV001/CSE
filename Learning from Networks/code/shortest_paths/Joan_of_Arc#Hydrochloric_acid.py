@@ -1,0 +1,1 @@
+[["Joan_of_Arc", "Black_Death", "Alchemy", "Hydrochloric_acid"], ["Joan_of_Arc", "Hundred_Years%27_War", "Salt", "Hydrochloric_acid"]]

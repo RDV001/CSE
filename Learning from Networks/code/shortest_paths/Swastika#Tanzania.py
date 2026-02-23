@@ -1,0 +1,1 @@
+[["Swastika", "Africa", "Tanzania"], ["Swastika", "English_language", "Tanzania"], ["Swastika", "United_States", "Tanzania"]]

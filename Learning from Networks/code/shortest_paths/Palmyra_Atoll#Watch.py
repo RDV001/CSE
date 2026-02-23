@@ -1,0 +1,1 @@
+[["Palmyra_Atoll", "California", "Computer", "Watch"], ["Palmyra_Atoll", "United_Kingdom", "Computer", "Watch"], ["Palmyra_Atoll", "United_States", "Computer", "Watch"], ["Palmyra_Atoll", "Pacific_Ocean", "16th_century", "Watch"]]

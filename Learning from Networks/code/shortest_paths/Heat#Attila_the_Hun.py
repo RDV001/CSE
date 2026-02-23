@@ -1,0 +1,1 @@
+[["Heat", "Hippocrates", "Byzantine_Empire", "Attila_the_Hun"], ["Heat", "Latin", "Byzantine_Empire", "Attila_the_Hun"], ["Heat", "Latin", "Western_Roman_Empire", "Attila_the_Hun"]]

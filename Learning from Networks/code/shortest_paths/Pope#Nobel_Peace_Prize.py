@@ -1,0 +1,1 @@
+[["Pope", "Pope_John_Paul_II", "Nobel_Peace_Prize"]]

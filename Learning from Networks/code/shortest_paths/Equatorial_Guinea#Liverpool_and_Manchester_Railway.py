@@ -1,0 +1,1 @@
+[["Equatorial_Guinea", "BBC", "Manchester", "Liverpool_and_Manchester_Railway"], ["Equatorial_Guinea", "The_Illuminatus%21_Trilogy", "Liverpool", "Liverpool_and_Manchester_Railway"], ["Equatorial_Guinea", "Time_zone", "Rail_transport", "Liverpool_and_Manchester_Railway"], ["Equatorial_Guinea", "United_Kingdom", "Industrial_Revolution", "Liverpool_and_Manchester_Railway"]]

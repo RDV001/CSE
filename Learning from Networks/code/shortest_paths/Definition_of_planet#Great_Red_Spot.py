@@ -1,0 +1,1 @@
+[["Definition_of_planet", "Jupiter", "Great_Red_Spot"], ["Definition_of_planet", "Neptune", "Great_Red_Spot"], ["Definition_of_planet", "Saturn", "Great_Red_Spot"], ["Definition_of_planet", "Solar_System", "Great_Red_Spot"]]

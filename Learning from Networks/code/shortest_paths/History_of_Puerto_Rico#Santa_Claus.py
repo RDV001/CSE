@@ -1,0 +1,1 @@
+[["History_of_Puerto_Rico", "Roman_Catholic_Church", "Pope_Benedict_XVI", "Santa_Claus"], ["History_of_Puerto_Rico", "United_States", "Coal", "Santa_Claus"]]

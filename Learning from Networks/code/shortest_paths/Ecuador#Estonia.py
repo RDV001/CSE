@@ -1,0 +1,1 @@
+[["Ecuador", "Europe", "Estonia"], ["Ecuador", "Germany", "Estonia"], ["Ecuador", "List_of_countries_by_system_of_government", "Estonia"], ["Ecuador", "World_War_II", "Estonia"]]

@@ -1,0 +1,1 @@
+[["Tribe", "India", "Jew", "Isaac"], ["Tribe", "United_States", "Judaism", "Isaac"]]

@@ -1,0 +1,1 @@
+[["Fire", "War", "Adolf_Hitler"], ["Fire", "World_War_II", "Adolf_Hitler"]]

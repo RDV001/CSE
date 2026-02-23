@@ -1,0 +1,1 @@
+[["Namibia", "19th_century", "North_America"], ["Namibia", "Cuba", "North_America"], ["Namibia", "Diamond", "North_America"], ["Namibia", "Europe", "North_America"], ["Namibia", "Marxism", "North_America"], ["Namibia", "Mining", "North_America"], ["Namibia", "South_Africa", "North_America"], ["Namibia", "Southern_Africa", "North_America"]]

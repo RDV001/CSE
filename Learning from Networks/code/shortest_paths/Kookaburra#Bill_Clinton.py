@@ -1,0 +1,1 @@
+[["Kookaburra", "Australia", "East_Timor", "Bill_Clinton"], ["Kookaburra", "Australia", "Parliamentary_system", "Bill_Clinton"], ["Kookaburra", "Platypus", "Argentina", "Bill_Clinton"]]

@@ -1,0 +1,1 @@
+[["Lake_Titicaca", "Bolivia", "Ethiopia", "Soddo_language"]]

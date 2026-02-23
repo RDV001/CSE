@@ -1,0 +1,1 @@
+[["Henry_IV_of_England", "Denmark", "European_Union", "Waste_management"], ["Henry_IV_of_England", "Lithuania", "European_Union", "Waste_management"], ["Henry_IV_of_England", "Norway", "European_Union", "Waste_management"], ["Henry_IV_of_England", "Sweden", "European_Union", "Waste_management"], ["Henry_IV_of_England", "Sweden", "Biofuel", "Waste_management"]]

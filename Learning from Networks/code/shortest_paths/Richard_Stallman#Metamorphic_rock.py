@@ -1,0 +1,1 @@
+[["Richard_Stallman", "English_language", "Ireland", "Metamorphic_rock"], ["Richard_Stallman", "Folk_music", "Ireland", "Metamorphic_rock"], ["Richard_Stallman", "Penguin", "Antarctica", "Metamorphic_rock"], ["Richard_Stallman", "Spanish_language", "Antarctica", "Metamorphic_rock"]]

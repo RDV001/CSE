@@ -1,0 +1,1 @@
+[["Archaeopteryx", "Berlin", "France"], ["Archaeopteryx", "Compsognathus", "France"], ["Archaeopteryx", "Germany", "France"], ["Archaeopteryx", "Jurassic", "France"], ["Archaeopteryx", "London", "France"], ["Archaeopteryx", "Munich", "France"]]

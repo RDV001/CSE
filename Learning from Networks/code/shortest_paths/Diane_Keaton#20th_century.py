@@ -1,0 +1,1 @@
+[["Diane_Keaton", "Cinema_of_the_United_States", "20th_century"], ["Diane_Keaton", "Frank_Lloyd_Wright", "20th_century"], ["Diane_Keaton", "Necktie", "20th_century"]]

@@ -1,0 +1,1 @@
+[["Number", "17th_century", "Speed_of_light", "Redshift"], ["Number", "Measurement", "Speed_of_light", "Redshift"], ["Number", "17th_century", "Telescope", "Redshift"], ["Number", "Measurement", "Milky_Way", "Redshift"]]

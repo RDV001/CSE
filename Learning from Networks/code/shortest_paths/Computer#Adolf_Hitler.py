@@ -1,0 +1,1 @@
+[["Computer", "John_von_Neumann", "Adolf_Hitler"]]

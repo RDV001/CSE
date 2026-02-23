@@ -1,0 +1,1 @@
+[["Unix", "Dennis_Ritchie", "Physics", "Isaac_Newton"], ["Unix", "TeX", "Physics", "Isaac_Newton"], ["Unix", "Fedora_Core", "Cambridge", "Isaac_Newton"], ["Unix", "Open_source", "Philosophy", "Isaac_Newton"], ["Unix", "TeX", "Johann_Sebastian_Bach", "Isaac_Newton"], ["Unix", "TeX", "Mathematics", "Isaac_Newton"], ["Unix", "TeX", "Pi", "Isaac_Newton"]]

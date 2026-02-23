@@ -1,0 +1,1 @@
+[["Felice_Beato", "England", "Great_Britain"], ["Felice_Beato", "Myanmar", "Great_Britain"], ["Felice_Beato", "North_America", "Great_Britain"]]

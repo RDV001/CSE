@@ -1,0 +1,1 @@
+[["Semiconductor_device", "United_States", "Interpol"]]

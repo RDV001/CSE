@@ -1,0 +1,1 @@
+[["AK-47", "Iraq", "California"], ["AK-47", "Mexico", "California"]]

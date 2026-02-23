@@ -1,0 +1,1 @@
+[["Communism", "World_War_I", "Weimar_Republic"]]

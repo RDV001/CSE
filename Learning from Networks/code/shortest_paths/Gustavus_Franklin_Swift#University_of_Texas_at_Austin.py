@@ -1,0 +1,1 @@
+[["Gustavus_Franklin_Swift", "Supreme_Court_of_the_United_States", "George_W._Bush", "University_of_Texas_at_Austin"], ["Gustavus_Franklin_Swift", "United_States", "George_W._Bush", "University_of_Texas_at_Austin"], ["Gustavus_Franklin_Swift", "United_States", "Dallas%2C_Texas", "University_of_Texas_at_Austin"]]

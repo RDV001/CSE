@@ -1,0 +1,1 @@
+[["Mineral", "Antimony", "Bismuth"], ["Mineral", "Atom", "Bismuth"], ["Mineral", "Crystal", "Bismuth"], ["Mineral", "Lead", "Bismuth"]]

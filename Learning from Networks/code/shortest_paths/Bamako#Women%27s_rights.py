@@ -1,0 +1,1 @@
+[["Bamako", "Brazil", "Poverty", "Women%27s_rights"], ["Bamako", "United_States", "Multiculturalism", "Women%27s_rights"]]

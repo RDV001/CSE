@@ -1,0 +1,1 @@
+[["Tutsi", "Africa", "Zambia", "Lake_Kariba"], ["Tutsi", "Bantu", "Zambia", "Lake_Kariba"], ["Tutsi", "Ethiopia", "Zambia", "Lake_Kariba"], ["Tutsi", "Rwanda", "Zambia", "Lake_Kariba"], ["Tutsi", "Bantu", "Zambezi", "Lake_Kariba"]]

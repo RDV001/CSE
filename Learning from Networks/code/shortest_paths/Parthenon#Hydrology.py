@@ -1,0 +1,1 @@
+[["Parthenon", "Acid_rain", "River", "Hydrology"], ["Parthenon", "France", "River", "Hydrology"], ["Parthenon", "Iron", "Sulfur", "Hydrology"], ["Parthenon", "Roman_Catholic_Church", "Meteorology", "Hydrology"]]

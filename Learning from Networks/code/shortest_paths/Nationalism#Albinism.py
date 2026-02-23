@@ -1,0 +1,1 @@
+[["Nationalism", "Africa", "Cheetah", "Albinism"], ["Nationalism", "Human", "Pigment", "Albinism"]]

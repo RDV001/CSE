@@ -1,0 +1,1 @@
+[["DNA", "Anthropology", "Pacific_Ocean", "Tuvalu"], ["DNA", "Sugar", "World_Trade_Organization", "Tuvalu"], ["DNA", "United_Kingdom", "Elizabeth_II_of_the_United_Kingdom", "Tuvalu"], ["DNA", "United_Kingdom", "List_of_countries_by_system_of_government", "Tuvalu"], ["DNA", "United_Kingdom", "Monarchy", "Tuvalu"]]

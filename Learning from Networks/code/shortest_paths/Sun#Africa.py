@@ -1,0 +1,1 @@
+[["Sun", "Albert_Einstein", "Africa"], ["Sun", "Astrology", "Africa"], ["Sun", "Carbon", "Africa"], ["Sun", "Earth", "Africa"], ["Sun", "Earthquake", "Africa"], ["Sun", "Egypt", "Africa"], ["Sun", "Philosophy", "Africa"], ["Sun", "South_America", "Africa"], ["Sun", "Stonehenge", "Africa"]]

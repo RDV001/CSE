@@ -1,0 +1,1 @@
+[["Laika", "Organism", "Human"], ["Laika", "Space_Race", "Human"]]

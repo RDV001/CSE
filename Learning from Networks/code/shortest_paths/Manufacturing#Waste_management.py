@@ -1,0 +1,1 @@
+[["Manufacturing", "Infrastructure", "Waste_management"]]

@@ -1,0 +1,1 @@
+[["Aksumite_currency", "Horn_of_Africa", "Bird", "Redwing", "Song_Thrush"]]

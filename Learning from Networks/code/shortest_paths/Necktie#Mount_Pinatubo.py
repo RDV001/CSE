@@ -1,0 +1,1 @@
+[["Necktie", "19th_century", "Philippines", "Mount_Pinatubo"], ["Necktie", "20th_century", "Philippines", "Mount_Pinatubo"]]

@@ -1,0 +1,1 @@
+[["Globe_Theatre", "Dallas%2C_Texas", "Petroleum", "Biodiesel", "List_of_vegetable_oils", "Grape_seed_oil"], ["Globe_Theatre", "Dallas%2C_Texas", "Transport", "Biodiesel", "List_of_vegetable_oils", "Grape_seed_oil"], ["Globe_Theatre", "Tokyo", "Transport", "Biodiesel", "List_of_vegetable_oils", "Grape_seed_oil"]]

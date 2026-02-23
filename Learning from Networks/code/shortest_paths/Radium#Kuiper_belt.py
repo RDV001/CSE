@@ -1,0 +1,1 @@
+[["Radium", "Iodine", "Solar_System", "Kuiper_belt"], ["Radium", "Physics", "Solar_System", "Kuiper_belt"], ["Radium", "Water", "Solar_System", "Kuiper_belt"], ["Radium", "Physics", "Planet", "Kuiper_belt"]]

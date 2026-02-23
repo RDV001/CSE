@@ -1,0 +1,1 @@
+[["Nash_equilibrium", "Economics", "Ancient_Rome", "Fishing", "Shark"], ["Nash_equilibrium", "Economics", "Gold", "Mercury_%28element%29", "Shark"], ["Nash_equilibrium", "Economics", "Health", "Mercury_%28element%29", "Shark"], ["Nash_equilibrium", "John_von_Neumann", "Earth", "Devonian", "Shark"], ["Nash_equilibrium", "PONG", "Europe", "Carnivore", "Shark"]]

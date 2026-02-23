@@ -1,0 +1,1 @@
+[["Battle_of_Rennell_Island", "Australia", "Pacific_Ocean"], ["Battle_of_Rennell_Island", "Battle_of_the_Eastern_Solomons", "Pacific_Ocean"], ["Battle_of_Rennell_Island", "Japan", "Pacific_Ocean"], ["Battle_of_Rennell_Island", "United_States", "Pacific_Ocean"], ["Battle_of_Rennell_Island", "Vanuatu", "Pacific_Ocean"]]

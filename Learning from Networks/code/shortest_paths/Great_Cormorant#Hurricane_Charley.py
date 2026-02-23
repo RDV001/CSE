@@ -1,0 +1,1 @@
+[["Great_Cormorant", "Bird_migration", "Florida", "Hurricane_Charley"], ["Great_Cormorant", "North_America", "Florida", "Hurricane_Charley"]]

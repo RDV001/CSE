@@ -1,0 +1,1 @@
+[["Herring_Gull", "Europe", "Anglicanism", "Thomas_Cranmer"]]

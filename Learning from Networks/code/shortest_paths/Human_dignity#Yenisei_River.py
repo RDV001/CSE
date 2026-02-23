@@ -1,0 +1,1 @@
+[["Human_dignity", "Immanuel_Kant", "Germany", "River", "Yenisei_River"], ["Human_dignity", "Immanuel_Kant", "Nature", "River", "Yenisei_River"], ["Human_dignity", "Immanuel_Kant", "Russia", "Lake_Baikal", "Yenisei_River"]]

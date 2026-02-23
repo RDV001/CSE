@@ -1,0 +1,1 @@
+[["Iron", "Ammonia", "Alchemy"], ["Iron", "Chemical_element", "Alchemy"], ["Iron", "Copper", "Alchemy"], ["Iron", "Gold", "Alchemy"], ["Iron", "Metal", "Alchemy"], ["Iron", "Nitrogen", "Alchemy"], ["Iron", "Oxygen", "Alchemy"], ["Iron", "Phosphorus", "Alchemy"], ["Iron", "Sulfur", "Alchemy"], ["Iron", "Tin", "Alchemy"]]

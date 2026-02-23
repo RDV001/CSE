@@ -1,0 +1,1 @@
+[["Bicycle", "Hungary", "Civil_rights", "Women%27s_rights"], ["Bicycle", "Japan", "Japanese_war_crimes", "Women%27s_rights"], ["Bicycle", "World_War_II", "Japanese_war_crimes", "Women%27s_rights"], ["Bicycle", "Mumbai", "Poverty", "Women%27s_rights"], ["Bicycle", "United_States", "Multiculturalism", "Women%27s_rights"], ["Bicycle", "World_War_I", "Fascism", "Women%27s_rights"]]

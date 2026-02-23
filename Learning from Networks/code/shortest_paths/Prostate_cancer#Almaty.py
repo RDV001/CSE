@@ -1,0 +1,1 @@
+[["Prostate_cancer", "Europe", "Kazakhstan", "Almaty"], ["Prostate_cancer", "Shanghai", "Istanbul", "Almaty"]]

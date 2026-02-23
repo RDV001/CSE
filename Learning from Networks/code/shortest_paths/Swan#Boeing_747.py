@@ -1,0 +1,1 @@
+[["Swan", "Asia", "Iran", "Boeing_747"], ["Swan", "Europe", "Iran", "Boeing_747"], ["Swan", "New_Zealand", "Iran", "Boeing_747"], ["Swan", "Russia", "Iran", "Boeing_747"], ["Swan", "Japan", "President_of_the_United_States", "Boeing_747"], ["Swan", "Japan", "Space_exploration", "Boeing_747"], ["Swan", "Sanskrit", "Aircraft", "Boeing_747"]]

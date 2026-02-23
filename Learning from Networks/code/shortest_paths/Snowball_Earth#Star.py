@@ -1,0 +1,1 @@
+[["Snowball_Earth", "Iron", "Star"], ["Snowball_Earth", "Sun", "Star"]]

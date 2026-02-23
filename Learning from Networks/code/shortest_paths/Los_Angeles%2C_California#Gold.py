@@ -1,0 +1,1 @@
+[["Los_Angeles%2C_California", "Africa", "Gold"], ["Los_Angeles%2C_California", "Armenia", "Gold"], ["Los_Angeles%2C_California", "California", "Gold"], ["Los_Angeles%2C_California", "Indonesia", "Gold"], ["Los_Angeles%2C_California", "New_Zealand", "Gold"], ["Los_Angeles%2C_California", "Olympic_Games", "Gold"], ["Los_Angeles%2C_California", "Technology", "Gold"]]

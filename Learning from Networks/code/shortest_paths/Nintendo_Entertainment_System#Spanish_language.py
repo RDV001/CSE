@@ -1,0 +1,1 @@
+[["Nintendo_Entertainment_System", "Brazil", "Spanish_language"], ["Nintendo_Entertainment_System", "North_America", "Spanish_language"], ["Nintendo_Entertainment_System", "United_States", "Spanish_language"]]

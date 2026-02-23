@@ -1,0 +1,1 @@
+[["Kuwait", "Petroleum", "Earth", "Pluto"], ["Kuwait", "Time_zone", "Earth", "Pluto"], ["Kuwait", "United_Kingdom", "Earth", "Pluto"], ["Kuwait", "Petroleum", "Planet", "Pluto"], ["Kuwait", "Petroleum", "Sun", "Pluto"]]

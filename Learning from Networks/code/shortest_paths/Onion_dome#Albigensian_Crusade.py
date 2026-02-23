@@ -1,0 +1,1 @@
+[["Onion_dome", "Jerusalem", "Crusades", "Albigensian_Crusade"], ["Onion_dome", "Jerusalem", "First_Crusade", "Albigensian_Crusade"], ["Onion_dome", "Kiev", "Middle_Ages", "Albigensian_Crusade"]]

@@ -1,0 +1,1 @@
+[["Northern_Ireland", "Israel", "East_Timor"], ["Northern_Ireland", "List_of_countries_by_system_of_government", "East_Timor"]]

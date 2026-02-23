@@ -1,0 +1,1 @@
+[["Stag_beetle", "Carolus_Linnaeus", "DNA", "Linus_Pauling"], ["Stag_beetle", "Cat", "Protein", "Linus_Pauling"], ["Stag_beetle", "Chicken", "Protein", "Linus_Pauling"], ["Stag_beetle", "Insect", "Protein", "Linus_Pauling"], ["Stag_beetle", "Chicken", "Common_cold", "Linus_Pauling"]]

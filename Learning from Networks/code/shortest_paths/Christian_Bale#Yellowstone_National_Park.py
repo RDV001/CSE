@@ -1,0 +1,1 @@
+[["Christian_Bale", "United_States", "Yellowstone_National_Park"]]

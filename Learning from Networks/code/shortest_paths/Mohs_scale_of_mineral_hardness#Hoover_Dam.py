@@ -1,0 +1,1 @@
+[["Mohs_scale_of_mineral_hardness", "Gypsum", "Herbert_Hoover", "Hoover_Dam"]]

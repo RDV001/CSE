@@ -1,0 +1,1 @@
+[["Azerbaijani_people", "Armenia", "Coal", "Radium"], ["Azerbaijani_people", "Germany", "Coal", "Radium"], ["Azerbaijani_people", "Kyrgyzstan", "Coal", "Radium"], ["Azerbaijani_people", "United_States", "Coal", "Radium"]]

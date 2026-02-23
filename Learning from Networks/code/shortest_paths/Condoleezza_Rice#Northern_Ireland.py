@@ -1,0 +1,1 @@
+[["Condoleezza_Rice", "England", "Northern_Ireland"], ["Condoleezza_Rice", "English_language", "Northern_Ireland"], ["Condoleezza_Rice", "George_W._Bush", "Northern_Ireland"], ["Condoleezza_Rice", "Terrorism", "Northern_Ireland"], ["Condoleezza_Rice", "United_Kingdom", "Northern_Ireland"]]

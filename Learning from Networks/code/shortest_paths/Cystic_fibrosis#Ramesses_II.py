@@ -1,0 +1,1 @@
+[["Cystic_fibrosis", "Europe", "Suez_Canal", "Ramesses_II"], ["Cystic_fibrosis", "Tuberculosis", "Egypt", "Ramesses_II"], ["Cystic_fibrosis", "Tuberculosis", "Mummy", "Ramesses_II"]]

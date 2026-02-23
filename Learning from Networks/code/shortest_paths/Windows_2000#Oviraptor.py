@@ -1,0 +1,1 @@
+[["Windows_2000", "English_language", "Kenya", "Dinosaur", "Oviraptor"], ["Windows_2000", "North_America", "Earth", "Dinosaur", "Oviraptor"], ["Windows_2000", "North_America", "Gulf_of_Mexico", "Dinosaur", "Oviraptor"]]

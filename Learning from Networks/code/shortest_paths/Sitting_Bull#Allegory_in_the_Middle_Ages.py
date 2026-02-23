@@ -1,0 +1,1 @@
+[["Sitting_Bull", "English_language", "Poetry", "Allegory_in_the_Middle_Ages"]]

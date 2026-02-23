@@ -1,0 +1,1 @@
+[["Fresh_water", "Earth", "Europe", "Owl", "Eurasian_Eagle_Owl"], ["Fresh_water", "Glacier", "Europe", "Owl", "Eurasian_Eagle_Owl"], ["Fresh_water", "River", "Europe", "Owl", "Eurasian_Eagle_Owl"], ["Fresh_water", "Water_resources", "Europe", "Owl", "Eurasian_Eagle_Owl"], ["Fresh_water", "Salt", "Greece", "Owl", "Eurasian_Eagle_Owl"]]

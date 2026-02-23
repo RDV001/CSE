@@ -1,0 +1,1 @@
+[["Miami%2C_Florida", "Detroit%2C_Michigan", "Halloween"]]

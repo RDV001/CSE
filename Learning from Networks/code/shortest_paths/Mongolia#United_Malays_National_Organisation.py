@@ -1,0 +1,1 @@
+[["Mongolia", "Parliamentary_system", "Parliament_of_Malaysia", "United_Malays_National_Organisation"]]

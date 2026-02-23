@@ -1,0 +1,1 @@
+[["The_Temptations", "Cleveland%2C_Ohio", "United_States_Senate"], ["The_Temptations", "United_States", "United_States_Senate"], ["The_Temptations", "Washington%2C_D.C.", "United_States_Senate"]]

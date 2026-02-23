@@ -1,0 +1,1 @@
+[["The_Bahamas", "Atlantic_Ocean", "Newcastle_upon_Tyne", "Durham"], ["The_Bahamas", "Elizabeth_II_of_the_United_Kingdom", "Tony_Blair", "Durham"], ["The_Bahamas", "Government", "Tony_Blair", "Durham"]]

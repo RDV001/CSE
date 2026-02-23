@@ -1,0 +1,1 @@
+[["Coventry", "20th_century", "Nuclear_weapon"], ["Coventry", "Luftwaffe", "Nuclear_weapon"], ["Coventry", "Russia", "Nuclear_weapon"], ["Coventry", "United_States", "Nuclear_weapon"], ["Coventry", "World_War_II", "Nuclear_weapon"]]

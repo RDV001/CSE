@@ -1,0 +1,1 @@
+[["Triceratops", "Plant", "Coffee", "Diabetes_mellitus"]]

@@ -1,0 +1,1 @@
+[["Compsognathus", "Dinosaur", "Chemistry", "Periodic_table"], ["Compsognathus", "Dinosaur", "Iridium", "Periodic_table"], ["Compsognathus", "Reptile", "Calcium", "Periodic_table"], ["Compsognathus", "Reptile", "Nitrogen", "Periodic_table"]]

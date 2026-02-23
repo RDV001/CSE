@@ -1,0 +1,1 @@
+[["Catholic_social_teaching", "United_Nations", "Lebanon"], ["Catholic_social_teaching", "World_War_II", "Lebanon"]]

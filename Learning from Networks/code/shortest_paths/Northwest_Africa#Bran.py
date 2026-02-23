@@ -1,0 +1,1 @@
+[["Northwest_Africa", "Africa", "Rice", "Bran"], ["Northwest_Africa", "Algeria", "Barley", "Bran"], ["Northwest_Africa", "Algeria", "Oat", "Bran"], ["Northwest_Africa", "Algeria", "Wheat", "Bran"]]

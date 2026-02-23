@@ -1,0 +1,1 @@
+[["Malcolm_X", "France", "Antarctica", "Full_moon"], ["Malcolm_X", "United_States", "Antarctica", "Full_moon"], ["Malcolm_X", "Tanzania", "Blue_Wildebeest", "Full_moon"], ["Malcolm_X", "United_States", "Moon", "Full_moon"]]

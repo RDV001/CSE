@@ -1,0 +1,1 @@
+[["Mount_Vesuvius", "Earth", "Africa", "Kigali"], ["Mount_Vesuvius", "Earthquake", "Africa", "Kigali"], ["Mount_Vesuvius", "Europe", "Africa", "Kigali"], ["Mount_Vesuvius", "Istanbul", "Africa", "Kigali"], ["Mount_Vesuvius", "Plate_tectonics", "Africa", "Kigali"], ["Mount_Vesuvius", "Tsunami", "Africa", "Kigali"]]

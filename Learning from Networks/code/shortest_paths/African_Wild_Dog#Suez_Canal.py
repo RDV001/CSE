@@ -1,0 +1,1 @@
+[["African_Wild_Dog", "Africa", "Suez_Canal"]]

@@ -1,0 +1,1 @@
+[["Fermi_paradox", "Asteroid", "Dinosaur", "Triceratops"], ["Fermi_paradox", "Earth", "Dinosaur", "Triceratops"], ["Fermi_paradox", "Ecology", "Cretaceous-Tertiary_extinction_event", "Triceratops"]]

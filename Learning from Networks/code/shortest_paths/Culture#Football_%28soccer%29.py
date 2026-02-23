@@ -1,0 +1,1 @@
+[["Culture", "Israel", "Football_%28soccer%29"], ["Culture", "United_States", "Football_%28soccer%29"], ["Culture", "Vietnam", "Football_%28soccer%29"]]

@@ -1,0 +1,1 @@
+[["Pyramid", "Ancient_Egypt", "North_Africa", "Northwest_Africa"], ["Pyramid", "Earth", "North_Africa", "Northwest_Africa"], ["Pyramid", "Egypt", "North_Africa", "Northwest_Africa"], ["Pyramid", "United_States", "North_Africa", "Northwest_Africa"]]

@@ -1,0 +1,1 @@
+[["Evolution", "Ape", "God"], ["Evolution", "Creation-evolution_controversy", "God"], ["Evolution", "Creationism", "God"], ["Evolution", "Judaism", "God"], ["Evolution", "The_Origin_of_Species", "God"], ["Evolution", "Vestigial_structure", "God"]]

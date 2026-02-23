@@ -1,0 +1,1 @@
+[["Brush", "Camel", "Iran", "Zoroaster"], ["Brush", "Domestic_goat", "Iran", "Zoroaster"], ["Brush", "Painting", "Plato", "Zoroaster"]]

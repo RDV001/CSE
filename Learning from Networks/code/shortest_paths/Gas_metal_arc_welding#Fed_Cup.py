@@ -1,0 +1,1 @@
+[["Gas_metal_arc_welding", "Cornea", "Romania", "Davis_Cup", "Fed_Cup"], ["Gas_metal_arc_welding", "Europe", "Romania", "Davis_Cup", "Fed_Cup"], ["Gas_metal_arc_welding", "Europe", "Bucharest", "Davis_Cup", "Fed_Cup"]]

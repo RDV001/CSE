@@ -1,0 +1,1 @@
+[["Elephant_bird", "Extinction", "Pollution", "Smog"], ["Elephant_bird", "Marco_Polo", "Beijing", "Smog"]]

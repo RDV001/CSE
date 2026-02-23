@@ -1,0 +1,1 @@
+[["Foie_gras", "Onion", "Eye", "Color_blindness"], ["Foie_gras", "Spanish_language", "Federated_States_of_Micronesia", "Color_blindness"], ["Foie_gras", "United_States", "Federated_States_of_Micronesia", "Color_blindness"]]

@@ -1,0 +1,1 @@
+[["Propaganda", "Information", "Organism", "Arthropod"], ["Propaganda", "Mass_media", "Copper", "Arthropod"], ["Propaganda", "Religion", "Evolution", "Arthropod"], ["Propaganda", "Sigmund_Freud", "Eye", "Arthropod"], ["Propaganda", "Vladimir_Lenin", "Brain", "Arthropod"]]

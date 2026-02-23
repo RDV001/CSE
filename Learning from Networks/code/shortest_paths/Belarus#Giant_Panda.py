@@ -1,0 +1,1 @@
+[["Belarus", "Nazi_Germany", "Swastika", "Giant_Panda"], ["Belarus", "Winter", "Bear", "Giant_Panda"]]

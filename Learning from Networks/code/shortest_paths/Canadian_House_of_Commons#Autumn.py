@@ -1,0 +1,1 @@
+[["Canadian_House_of_Commons", "Ottawa", "Montreal", "Autumn"], ["Canadian_House_of_Commons", "Parliament_of_Canada", "Montreal", "Autumn"], ["Canadian_House_of_Commons", "Stephen_Harper", "Montreal", "Autumn"]]

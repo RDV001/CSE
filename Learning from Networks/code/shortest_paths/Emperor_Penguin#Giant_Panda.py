@@ -1,0 +1,1 @@
+[["Emperor_Penguin", "Antarctica", "Symmetry", "Swastika", "Giant_Panda"], ["Emperor_Penguin", "Orca", "Pliocene", "Bear", "Giant_Panda"], ["Emperor_Penguin", "Penguin", "Oligocene", "Bear", "Giant_Panda"]]

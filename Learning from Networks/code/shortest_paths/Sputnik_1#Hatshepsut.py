@@ -1,0 +1,1 @@
+[["Sputnik_1", "New_York_City", "Egypt", "Hatshepsut"], ["Sputnik_1", "Soviet_Union", "Egypt", "Hatshepsut"], ["Sputnik_1", "United_Nations", "Egypt", "Hatshepsut"]]

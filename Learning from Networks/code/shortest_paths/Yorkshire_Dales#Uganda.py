@@ -1,0 +1,1 @@
+[["Yorkshire_Dales", "Cattle", "Africa", "Uganda"], ["Yorkshire_Dales", "England", "British_Empire", "Uganda"], ["Yorkshire_Dales", "England", "Commonwealth_Games", "Uganda"], ["Yorkshire_Dales", "England", "English_language", "Uganda"], ["Yorkshire_Dales", "England", "Leicester", "Uganda"]]

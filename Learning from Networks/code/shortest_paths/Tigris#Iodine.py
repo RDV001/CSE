@@ -1,0 +1,1 @@
+[["Tigris", "Mesopotamia", "Gold", "Iodine"], ["Tigris", "United_States", "Nuclear_power", "Iodine"]]

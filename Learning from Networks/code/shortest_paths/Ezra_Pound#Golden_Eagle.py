@@ -1,0 +1,1 @@
+[["Ezra_Pound", "Europe", "Ireland", "Golden_Eagle"], ["Ezra_Pound", "Imagism", "Ireland", "Golden_Eagle"], ["Ezra_Pound", "James_Joyce", "Ireland", "Golden_Eagle"], ["Ezra_Pound", "Norway", "Ireland", "Golden_Eagle"], ["Ezra_Pound", "Rabindranath_Tagore", "Ireland", "Golden_Eagle"], ["Ezra_Pound", "United_States", "Bald_Eagle", "Golden_Eagle"]]

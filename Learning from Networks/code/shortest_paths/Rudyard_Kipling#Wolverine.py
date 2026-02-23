@@ -1,0 +1,1 @@
+[["Rudyard_Kipling", "Canada", "Arctic", "Wolverine"], ["Rudyard_Kipling", "Vancouver", "Arctic", "Wolverine"], ["Rudyard_Kipling", "Canada", "Beaver", "Wolverine"]]

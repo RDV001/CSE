@@ -1,0 +1,1 @@
+[["Optical_fiber", "Titanium", "Moscow"]]

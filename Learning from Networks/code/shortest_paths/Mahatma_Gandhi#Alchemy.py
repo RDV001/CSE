@@ -1,0 +1,1 @@
+[["Mahatma_Gandhi", "Islam", "Alchemy"]]

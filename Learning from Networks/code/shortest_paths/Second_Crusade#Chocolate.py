@@ -1,0 +1,1 @@
+[["Second_Crusade", "Cologne", "Turin", "Chocolate"], ["Second_Crusade", "Frankfurt", "Silver", "Chocolate"], ["Second_Crusade", "Islam", "Sugar", "Chocolate"], ["Second_Crusade", "Marseille", "Sugar", "Chocolate"], ["Second_Crusade", "Jew", "Venezuela", "Chocolate"]]

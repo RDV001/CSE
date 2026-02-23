@@ -1,0 +1,1 @@
+[["Athanasius_Kircher", "France", "Euro"], ["Athanasius_Kircher", "Germany", "Euro"], ["Athanasius_Kircher", "Human", "Euro"]]

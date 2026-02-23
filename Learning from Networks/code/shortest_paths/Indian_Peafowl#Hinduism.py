@@ -1,0 +1,1 @@
+[["Indian_Peafowl", "India", "Hinduism"], ["Indian_Peafowl", "Mexico", "Hinduism"], ["Indian_Peafowl", "Sri_Lanka", "Hinduism"]]

@@ -1,0 +1,1 @@
+[["Entropy", "John_von_Neumann", "Princeton_University", "Woodrow_Wilson"], ["Entropy", "Sociology", "Poland", "Woodrow_Wilson"]]

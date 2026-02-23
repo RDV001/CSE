@@ -1,0 +1,1 @@
+[["Germany", "Baltic_Sea", "Silver"], ["Germany", "Charlemagne", "Silver"], ["Germany", "Frankfurt", "Silver"], ["Germany", "Republic_of_Ireland", "Silver"]]

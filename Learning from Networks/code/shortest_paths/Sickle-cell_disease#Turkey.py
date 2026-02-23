@@ -1,0 +1,1 @@
+[["Sickle-cell_disease", "Mediterranean_Sea", "Turkey"], ["Sickle-cell_disease", "Middle_East", "Turkey"]]

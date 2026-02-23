@@ -1,0 +1,1 @@
+[["Mahatma_Gandhi", "Nobel_Peace_Prize", "Woodrow_Wilson"], ["Mahatma_Gandhi", "Poland", "Woodrow_Wilson"], ["Mahatma_Gandhi", "World_War_I", "Woodrow_Wilson"], ["Mahatma_Gandhi", "Zionism", "Woodrow_Wilson"]]

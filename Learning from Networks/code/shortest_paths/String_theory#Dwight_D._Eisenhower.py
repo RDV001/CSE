@@ -1,0 +1,1 @@
+[["String_theory", "Albert_Einstein", "Franklin_D._Roosevelt", "Dwight_D._Eisenhower"], ["String_theory", "Black_hole", "Robert_Oppenheimer", "Dwight_D._Eisenhower"], ["String_theory", "Karl_Popper", "Elizabeth_II_of_the_United_Kingdom", "Dwight_D._Eisenhower"]]

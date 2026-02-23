@@ -1,0 +1,1 @@
+[["Budapest", "Computer_science", "Programming_language", "Functional_programming"], ["Budapest", "Hungary", "Programming_language", "Functional_programming"], ["Budapest", "Rubik%27s_Cube", "Algorithm", "Functional_programming"]]

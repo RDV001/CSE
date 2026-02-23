@@ -1,0 +1,1 @@
+[["Taj_Mahal", "Garden", "Bird", "Arctic_Tern", "Common_Tern"], ["Taj_Mahal", "Jewellery", "Bird", "Arctic_Tern", "Common_Tern"]]

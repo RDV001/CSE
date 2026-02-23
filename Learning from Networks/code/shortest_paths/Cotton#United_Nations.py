@@ -1,0 +1,1 @@
+[["Cotton", "20th_century", "United_Nations"], ["Cotton", "China", "United_Nations"], ["Cotton", "Egypt", "United_Nations"], ["Cotton", "Europe", "United_Nations"], ["Cotton", "France", "United_Nations"], ["Cotton", "Hong_Kong", "United_Nations"], ["Cotton", "India", "United_Nations"], ["Cotton", "United_States", "United_Nations"]]

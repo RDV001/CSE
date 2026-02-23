@@ -1,0 +1,1 @@
+[["Industry", "Capitalism", "1973_oil_crisis", "Wood_fuel"]]

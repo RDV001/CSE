@@ -1,0 +1,1 @@
+[["Golden_Gate_Highlands_National_Park", "Johannesburg", "Metal", "Potassium", "Parsnip"], ["Golden_Gate_Highlands_National_Park", "South_Africa", "Fire", "Potassium", "Parsnip"], ["Golden_Gate_Highlands_National_Park", "Southern_Africa", "Titanium", "Potassium", "Parsnip"], ["Golden_Gate_Highlands_National_Park", "Southern_Africa", "Uranium", "Potassium", "Parsnip"]]

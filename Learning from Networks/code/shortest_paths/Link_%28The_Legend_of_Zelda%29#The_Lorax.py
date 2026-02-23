@@ -1,0 +1,1 @@
+[["Link_%28The_Legend_of_Zelda%29", "Japan", "English_language", "Poetry", "Dr._Seuss", "The_Lorax"], ["Link_%28The_Legend_of_Zelda%29", "Nintendo", "Seattle%2C_Washington", "Poetry", "Dr._Seuss", "The_Lorax"], ["Link_%28The_Legend_of_Zelda%29", "Owl", "Ancient_Rome", "Poetry", "Dr._Seuss", "The_Lorax"]]

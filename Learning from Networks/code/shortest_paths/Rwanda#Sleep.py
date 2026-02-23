@@ -1,0 +1,1 @@
+[["Rwanda", "Africa", "Human", "Sleep"], ["Rwanda", "China", "Human", "Sleep"], ["Rwanda", "Democratic_Republic_of_the_Congo", "Human", "Sleep"], ["Rwanda", "Kenya", "Human", "Sleep"], ["Rwanda", "South_Africa", "Human", "Sleep"]]

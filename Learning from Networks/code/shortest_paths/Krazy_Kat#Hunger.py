@@ -1,0 +1,1 @@
+[["Krazy_Kat", "E._E._Cummings", "Love", "Hunger"], ["Krazy_Kat", "Italy", "Black_Death", "Hunger"]]

@@ -1,0 +1,1 @@
+[["Organization", "Corporation", "Andrew_Carnegie", "Jurassic"], ["Organization", "Ecology", "Global_warming", "Jurassic"], ["Organization", "Ecology", "Mammal", "Jurassic"], ["Organization", "Human", "Mammal", "Jurassic"]]

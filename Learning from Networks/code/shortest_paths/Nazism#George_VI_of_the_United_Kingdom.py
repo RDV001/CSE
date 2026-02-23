@@ -1,0 +1,1 @@
+[["Nazism", "Bertrand_Russell", "T._S._Eliot", "George_VI_of_the_United_Kingdom"], ["Nazism", "Richard_Wagner", "T._S._Eliot", "George_VI_of_the_United_Kingdom"], ["Nazism", "Cold_War", "Jimmy_Carter", "George_VI_of_the_United_Kingdom"], ["Nazism", "Iran", "Jimmy_Carter", "George_VI_of_the_United_Kingdom"]]

@@ -1,0 +1,1 @@
+[["Libya", "Capitalism", "1973_oil_crisis"], ["Libya", "Socialism", "1973_oil_crisis"]]

@@ -1,0 +1,1 @@
+[["John_Pershing", "George_Washington", "Pneumonia", "Ascariasis"], ["John_Pershing", "Gerald_Ford", "Pneumonia", "Ascariasis"], ["John_Pershing", "Warren_G._Harding", "Pneumonia", "Ascariasis"], ["John_Pershing", "World_War_I", "Pneumonia", "Ascariasis"]]

@@ -1,0 +1,1 @@
+[["Anemia", "American_English", "Thomas_Jefferson", "Theodore_Roosevelt"]]

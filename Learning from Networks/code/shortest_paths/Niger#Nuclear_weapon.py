@@ -1,0 +1,1 @@
+[["Niger", "Gold", "Nuclear_weapon"], ["Niger", "United_Nations", "Nuclear_weapon"], ["Niger", "United_States", "Nuclear_weapon"]]

@@ -1,0 +1,1 @@
+[["List_of_sovereign_states", "Russia", "Earth"], ["List_of_sovereign_states", "South_Africa", "Earth"], ["List_of_sovereign_states", "Time_zone", "Earth"], ["List_of_sovereign_states", "United_Kingdom", "Earth"]]

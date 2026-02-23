@@ -1,0 +1,1 @@
+[["Egg_%28food%29", "Chicken", "Bible"], ["Egg_%28food%29", "Sulfur", "Bible"]]

@@ -1,0 +1,1 @@
+[["Natural_disaster", "Cameroon", "Jamaica"], ["Natural_disaster", "United_States", "Jamaica"]]

@@ -1,0 +1,1 @@
+[["Ancient_Egypt", "Africa", "Richard_Francis_Burton", "Royal_Geographical_Society"], ["Ancient_Egypt", "Archaeology", "Geography", "Royal_Geographical_Society"], ["Ancient_Egypt", "East_Africa", "Geography", "Royal_Geographical_Society"], ["Ancient_Egypt", "Society", "Geography", "Royal_Geographical_Society"]]

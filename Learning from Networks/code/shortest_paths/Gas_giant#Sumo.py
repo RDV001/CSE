@@ -1,0 +1,1 @@
+[["Gas_giant", "Jupiter", "Japan", "Sumo"], ["Gas_giant", "Planet", "Japan", "Sumo"], ["Gas_giant", "Sun", "Japan", "Sumo"], ["Gas_giant", "Water", "Shinto", "Sumo"]]

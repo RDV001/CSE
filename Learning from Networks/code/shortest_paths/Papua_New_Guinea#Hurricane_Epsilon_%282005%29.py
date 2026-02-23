@@ -1,0 +1,1 @@
+[["Papua_New_Guinea", "Cricket", "Tropical_cyclone", "Hurricane_Epsilon_%282005%29"], ["Papua_New_Guinea", "Pacific_Ocean", "Tropical_cyclone", "Hurricane_Epsilon_%282005%29"]]

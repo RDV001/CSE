@@ -1,0 +1,1 @@
+[["Samuel_Beckett", "Cricket", "Tropical_cyclone", "Hurricane_Mitch"], ["Samuel_Beckett", "Miami%2C_Florida", "Honduras", "Hurricane_Mitch"], ["Samuel_Beckett", "United_States", "Honduras", "Hurricane_Mitch"], ["Samuel_Beckett", "United_States", "El_Salvador", "Hurricane_Mitch"], ["Samuel_Beckett", "United_States", "Guatemala", "Hurricane_Mitch"]]

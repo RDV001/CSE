@@ -1,0 +1,1 @@
+[["Symmetry", "United_States", "Wall_Street"]]

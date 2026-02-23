@@ -1,0 +1,1 @@
+[["Battle_of_Amiens", "United_States", "George_W._Bush"]]

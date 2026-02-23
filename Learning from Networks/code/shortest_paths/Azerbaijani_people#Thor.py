@@ -1,0 +1,1 @@
+[["Azerbaijani_people", "Alexander_the_Great", "Zeus", "Thor"], ["Azerbaijani_people", "Atheism", "Zeus", "Thor"], ["Azerbaijani_people", "Russia", "Earth", "Thor"]]

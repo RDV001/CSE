@@ -1,0 +1,1 @@
+[["Typewriter", "Thomas_Edison", "Florida", "Labor_Day_Hurricane_of_1935"]]

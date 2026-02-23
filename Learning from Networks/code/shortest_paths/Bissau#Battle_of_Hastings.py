@@ -1,0 +1,1 @@
+[["Bissau", "Atlantic_Ocean", "London", "Battle_of_Hastings"], ["Bissau", "Capital", "London", "Battle_of_Hastings"]]

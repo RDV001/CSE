@@ -1,0 +1,1 @@
+[["Monarchy", "Agriculture", "Food"], ["Monarchy", "Andorra", "Food"], ["Monarchy", "South_Africa", "Food"]]

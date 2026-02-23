@@ -1,0 +1,1 @@
+[["Thor", "English_language", "People%27s_Republic_of_China", "Renminbi"], ["Thor", "Germany", "People%27s_Republic_of_China", "Renminbi"]]

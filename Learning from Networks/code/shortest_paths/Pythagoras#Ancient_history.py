@@ -1,0 +1,1 @@
+[["Pythagoras", "Middle_East", "Ancient_history"]]

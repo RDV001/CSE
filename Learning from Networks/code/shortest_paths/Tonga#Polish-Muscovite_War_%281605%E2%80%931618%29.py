@@ -1,0 +1,1 @@
+[["Tonga", "Constitutional_monarchy", "Polish-Lithuanian_Commonwealth", "Polish-Muscovite_War_%281605%E2%80%931618%29"], ["Tonga", "Democracy", "Polish-Lithuanian_Commonwealth", "Polish-Muscovite_War_%281605%E2%80%931618%29"]]

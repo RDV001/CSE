@@ -1,0 +1,1 @@
+[["Mercury_%28element%29", "Aluminium", "Telescope"], ["Mercury_%28element%29", "Mercury_%28planet%29", "Telescope"]]

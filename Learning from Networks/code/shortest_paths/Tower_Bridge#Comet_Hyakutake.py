@@ -1,0 +1,1 @@
+[["Tower_Bridge", "Granite", "Earth", "Comet", "Comet_Hyakutake"], ["Tower_Bridge", "London_Bridge", "Charles_II_of_England", "Comet", "Comet_Hyakutake"], ["Tower_Bridge", "Tower_of_London", "Charles_II_of_England", "Comet", "Comet_Hyakutake"]]

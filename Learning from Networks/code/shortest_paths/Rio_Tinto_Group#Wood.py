@@ -1,0 +1,1 @@
+[["Rio_Tinto_Group", "Technology", "Wood"]]

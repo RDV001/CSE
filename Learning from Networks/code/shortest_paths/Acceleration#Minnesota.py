@@ -1,0 +1,1 @@
+[["Acceleration", "Albert_Einstein", "United_States", "Minnesota"], ["Acceleration", "Earth", "United_States", "Minnesota"], ["Acceleration", "Earth", "Flood", "Minnesota"], ["Acceleration", "Earth", "Glacier", "Minnesota"], ["Acceleration", "Earth", "Ice_age", "Minnesota"], ["Acceleration", "Sea", "Great_Lakes", "Minnesota"], ["Acceleration", "Sea", "Hudson_Bay", "Minnesota"]]

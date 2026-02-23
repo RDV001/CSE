@@ -1,0 +1,1 @@
+[["Hymenoptera", "Ant", "South_America", "Tin"], ["Hymenoptera", "Cretaceous", "South_America", "Tin"], ["Hymenoptera", "Ant", "Thailand", "Tin"], ["Hymenoptera", "Arthropod", "Copper", "Tin"]]

@@ -1,0 +1,1 @@
+[["Canadian_Senate", "United_States", "California", "Colorado_River", "Lake_Powell"], ["Canadian_Senate", "United_States", "Education_in_the_United_States", "Colorado_River", "Lake_Powell"], ["Canadian_Senate", "United_States", "Grand_Canyon", "Colorado_River", "Lake_Powell"], ["Canadian_Senate", "United_States", "List_of_rivers_by_length", "Colorado_River", "Lake_Powell"]]

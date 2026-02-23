@@ -1,0 +1,1 @@
+[["Sociology", "Education", "Computer", "Microsoft_Windows"], ["Sociology", "Physics", "Computer", "Microsoft_Windows"], ["Sociology", "Internet", "Linux", "Microsoft_Windows"], ["Sociology", "Internet", "Microsoft", "Microsoft_Windows"], ["Sociology", "Internet", "OpenOffice.org", "Microsoft_Windows"]]

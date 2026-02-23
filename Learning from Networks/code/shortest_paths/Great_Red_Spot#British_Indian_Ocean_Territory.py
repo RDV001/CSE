@@ -1,0 +1,1 @@
+[["Great_Red_Spot", "Day", "English_language", "British_Indian_Ocean_Territory"]]

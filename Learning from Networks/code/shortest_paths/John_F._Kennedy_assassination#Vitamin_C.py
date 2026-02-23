@@ -1,0 +1,1 @@
+[["John_F._Kennedy_assassination", "Ronald_Reagan", "Alzheimer%27s_disease", "Vitamin_C"], ["John_F._Kennedy_assassination", "United_States", "Potato", "Vitamin_C"], ["John_F._Kennedy_assassination", "William_Henry_Harrison", "Common_cold", "Vitamin_C"]]

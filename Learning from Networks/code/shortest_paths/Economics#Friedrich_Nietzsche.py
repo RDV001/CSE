@@ -1,0 +1,1 @@
+[["Economics", "Law", "Friedrich_Nietzsche"], ["Economics", "Philosophy", "Friedrich_Nietzsche"]]

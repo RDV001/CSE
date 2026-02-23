@@ -1,0 +1,1 @@
+[["Anna_Karenina", "Europe", "Portugal"], ["Anna_Karenina", "Germany", "Portugal"], ["Anna_Karenina", "Indonesia", "Portugal"], ["Anna_Karenina", "Serbia", "Portugal"], ["Anna_Karenina", "Turkey", "Portugal"]]

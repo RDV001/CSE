@@ -1,0 +1,1 @@
+[["Osama_bin_Laden", "Africa", "Ancient_Rome"], ["Osama_bin_Laden", "Economics", "Ancient_Rome"], ["Osama_bin_Laden", "Jordan", "Ancient_Rome"], ["Osama_bin_Laden", "Syria", "Ancient_Rome"], ["Osama_bin_Laden", "Yemen", "Ancient_Rome"]]

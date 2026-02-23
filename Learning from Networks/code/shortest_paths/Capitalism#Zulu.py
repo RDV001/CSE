@@ -1,0 +1,1 @@
+[["Capitalism", "19th_century", "Zulu"]]

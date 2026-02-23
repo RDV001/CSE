@@ -1,0 +1,1 @@
+[["Frederick_II_of_Prussia", "Germany", "Roman_law"], ["Frederick_II_of_Prussia", "Roman_Empire", "Roman_law"]]

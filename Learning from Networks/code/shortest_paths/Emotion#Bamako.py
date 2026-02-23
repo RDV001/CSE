@@ -1,0 +1,1 @@
+[["Emotion", "Human", "Africa", "Bamako"]]

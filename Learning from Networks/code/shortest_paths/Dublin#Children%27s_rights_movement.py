@@ -1,0 +1,1 @@
+[["Dublin", "Hungary", "Civil_rights", "Children%27s_rights_movement"], ["Dublin", "New_Zealand", "Human_rights", "Children%27s_rights_movement"], ["Dublin", "People%27s_Republic_of_China", "Human_rights", "Children%27s_rights_movement"], ["Dublin", "Poland", "Human_rights", "Children%27s_rights_movement"], ["Dublin", "Russia", "Human_rights", "Children%27s_rights_movement"]]

@@ -1,0 +1,1 @@
+[["Celine_Dion", "George_W._Bush", "Minnesota", "Brown_trout"], ["Celine_Dion", "United_States", "Minnesota", "Brown_trout"]]

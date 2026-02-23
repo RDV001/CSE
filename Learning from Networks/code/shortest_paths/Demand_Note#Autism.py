@@ -1,0 +1,1 @@
+[["Demand_Note", "Gold", "Mercury_%28element%29", "Autism"], ["Demand_Note", "Silver", "Mercury_%28element%29", "Autism"], ["Demand_Note", "United_States", "Education_in_the_United_States", "Autism"]]

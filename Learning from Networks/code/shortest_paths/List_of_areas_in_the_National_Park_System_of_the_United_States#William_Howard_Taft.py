@@ -1,0 +1,1 @@
+[["List_of_areas_in_the_National_Park_System_of_the_United_States", "Glacier_National_Park_%28US%29", "William_Howard_Taft"], ["List_of_areas_in_the_National_Park_System_of_the_United_States", "Zion_National_Park", "William_Howard_Taft"]]

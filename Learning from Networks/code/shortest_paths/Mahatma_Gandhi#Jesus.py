@@ -1,0 +1,1 @@
+[["Mahatma_Gandhi", "Bible", "Jesus"], ["Mahatma_Gandhi", "China", "Jesus"], ["Mahatma_Gandhi", "Christianity", "Jesus"], ["Mahatma_Gandhi", "Desmond_Tutu", "Jesus"], ["Mahatma_Gandhi", "God", "Jesus"], ["Mahatma_Gandhi", "Hinduism", "Jesus"], ["Mahatma_Gandhi", "Muhammad", "Jesus"], ["Mahatma_Gandhi", "Qur%27an", "Jesus"], ["Mahatma_Gandhi", "Religion", "Jesus"]]

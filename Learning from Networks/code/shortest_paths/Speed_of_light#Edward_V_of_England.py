@@ -1,0 +1,1 @@
+[["Speed_of_light", "Isaac_Newton", "Westminster_Abbey", "Edward_V_of_England"], ["Speed_of_light", "Rainbow", "Richard_III_of_England", "Edward_V_of_England"]]

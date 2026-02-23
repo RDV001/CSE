@@ -1,0 +1,1 @@
+[["Great_comet", "Comet_Halley", "Japan", "Nintendo"], ["Great_comet", "Comet_Hyakutake", "Japan", "Nintendo"]]

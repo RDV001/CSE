@@ -1,0 +1,1 @@
+[["Super_14", "Australia", "People%27s_Republic_of_China", "Shenzhou_6"], ["Super_14", "Japan", "People%27s_Republic_of_China", "Shenzhou_6"], ["Super_14", "New_Zealand", "People%27s_Republic_of_China", "Shenzhou_6"], ["Super_14", "United_States_dollar", "People%27s_Republic_of_China", "Shenzhou_6"]]

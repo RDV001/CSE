@@ -1,0 +1,1 @@
+[["Season", "Meteorology", "Benjamin_Franklin", "Walt_Disney"]]

@@ -1,0 +1,1 @@
+[["Sucre", "Argentina", "Liberalism", "Voltaire"], ["Sucre", "Peru", "18th_century", "Voltaire"], ["Sucre", "Spain", "18th_century", "Voltaire"], ["Sucre", "Philip_II_of_Spain", "Lisbon", "Voltaire"], ["Sucre", "Spain", "Dark_Ages", "Voltaire"], ["Sucre", "Spain", "Spanish_Inquisition", "Voltaire"]]

@@ -1,0 +1,1 @@
+[["Cook_Islands", "Currency", "Gold", "Periodic_table"], ["Cook_Islands", "New_Zealand", "Gold", "Periodic_table"], ["Cook_Islands", "United_Kingdom", "Electron", "Periodic_table"], ["Cook_Islands", "United_Kingdom", "Hydrogen", "Periodic_table"]]

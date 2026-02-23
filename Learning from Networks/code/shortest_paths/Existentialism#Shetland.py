@@ -1,0 +1,1 @@
+[["Existentialism", "Germany", "Faroe_Islands", "Shetland"], ["Existentialism", "Germany", "Great_Britain", "Shetland"], ["Existentialism", "World_War_II", "Great_Britain", "Shetland"], ["Existentialism", "Germany", "Scotland", "Shetland"], ["Existentialism", "John_Locke", "Scotland", "Shetland"], ["Existentialism", "Paris", "Viking", "Shetland"]]

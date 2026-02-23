@@ -1,0 +1,1 @@
+[["Atom", "Carbon", "Germanium"], ["Atom", "Helium", "Germanium"], ["Atom", "Periodic_table", "Germanium"], ["Atom", "Tin", "Germanium"]]

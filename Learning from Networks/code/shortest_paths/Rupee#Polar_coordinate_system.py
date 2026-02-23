@@ -1,0 +1,1 @@
+[["Rupee", "Currency", "Archimedes", "Calculus", "Polar_coordinate_system"], ["Rupee", "Pakistan", "Age_of_Enlightenment", "Calculus", "Polar_coordinate_system"], ["Rupee", "Pound_sterling", "Isaac_Newton", "Calculus", "Polar_coordinate_system"], ["Rupee", "Sanskrit", "Education", "Calculus", "Polar_coordinate_system"]]

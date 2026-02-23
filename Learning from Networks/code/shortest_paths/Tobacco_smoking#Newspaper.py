@@ -1,0 +1,1 @@
+[["Tobacco_smoking", "Bertrand_Russell", "Newspaper"], ["Tobacco_smoking", "Honduras", "Newspaper"]]

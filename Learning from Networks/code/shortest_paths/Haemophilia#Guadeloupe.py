@@ -1,0 +1,1 @@
+[["Haemophilia", "12th_century", "Croatia", "Guadeloupe"], ["Haemophilia", "12th_century", "Serbia", "Guadeloupe"], ["Haemophilia", "HIV", "United_States", "Guadeloupe"], ["Haemophilia", "Jew", "United_States", "Guadeloupe"], ["Haemophilia", "Jew", "French_language", "Guadeloupe"], ["Haemophilia", "Jew", "Slavery", "Guadeloupe"]]

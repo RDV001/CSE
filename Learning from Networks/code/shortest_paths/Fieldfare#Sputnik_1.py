@@ -1,0 +1,1 @@
+[["Fieldfare", "Asia", "Russia", "Sputnik_1"], ["Fieldfare", "Europe", "Russia", "Sputnik_1"], ["Fieldfare", "Europe", "Soviet_Union", "Sputnik_1"]]

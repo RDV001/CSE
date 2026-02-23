@@ -1,0 +1,1 @@
+[["History_of_Central_Asia", "Civilization", "Dark_Ages"], ["History_of_Central_Asia", "Europe", "Dark_Ages"]]

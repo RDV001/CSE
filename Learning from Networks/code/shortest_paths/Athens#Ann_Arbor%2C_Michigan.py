@@ -1,0 +1,1 @@
+[["Athens", "Atlanta%2C_Georgia", "Detroit%2C_Michigan", "Ann_Arbor%2C_Michigan"], ["Athens", "United_States", "Detroit%2C_Michigan", "Ann_Arbor%2C_Michigan"], ["Athens", "Olympic_Games", "Jesse_Owens", "Ann_Arbor%2C_Michigan"]]

@@ -1,0 +1,1 @@
+[["Tornado", "South_Africa", "Madagascar"], ["Tornado", "Southern_Africa", "Madagascar"], ["Tornado", "Tropical_cyclone", "Madagascar"]]

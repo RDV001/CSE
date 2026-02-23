@@ -1,0 +1,1 @@
+[["Paleontology", "18th_century", "19th_century", "J._M._W._Turner"], ["Paleontology", "Biology", "19th_century", "J._M._W._Turner"], ["Paleontology", "Bird", "19th_century", "J._M._W._Turner"], ["Paleontology", "Petroleum", "United_Kingdom", "J._M._W._Turner"], ["Paleontology", "Stephen_Jay_Gould", "United_Kingdom", "J._M._W._Turner"]]

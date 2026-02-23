@@ -1,0 +1,1 @@
+[["Qin_Dynasty", "China", "Maya_civilization", "Telescope"], ["Qin_Dynasty", "Chinese_language", "17th_century", "Telescope"], ["Qin_Dynasty", "Great_Wall_of_China", "17th_century", "Telescope"], ["Qin_Dynasty", "Great_Wall_of_China", "Mars", "Telescope"], ["Qin_Dynasty", "Great_Wall_of_China", "Moon", "Telescope"]]

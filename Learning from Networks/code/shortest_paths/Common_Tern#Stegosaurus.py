@@ -1,0 +1,1 @@
+[["Common_Tern", "Bird", "Ornithischia", "Stegosaurus"]]

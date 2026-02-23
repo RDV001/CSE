@@ -1,0 +1,1 @@
+[["Effects_of_nuclear_explosions", "History_of_nuclear_weapons", "Nazism"], ["Effects_of_nuclear_explosions", "Nuclear_fission", "Nazism"], ["Effects_of_nuclear_explosions", "World_War_II", "Nazism"]]

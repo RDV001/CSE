@@ -1,0 +1,1 @@
+[["Otto_von_Bismarck", "Frankfurt", "IG_Farben_Building"]]

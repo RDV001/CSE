@@ -1,0 +1,1 @@
+[["Landform", "Beach", "Paris", "Auguste_Rodin"], ["Landform", "Biology", "Human", "Auguste_Rodin"], ["Landform", "Earth", "Human", "Auguste_Rodin"]]

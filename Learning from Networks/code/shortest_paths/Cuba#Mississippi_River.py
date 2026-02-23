@@ -1,0 +1,1 @@
+[["Cuba", "American_Civil_War", "Mississippi_River"], ["Cuba", "Canada", "Mississippi_River"], ["Cuba", "Gulf_of_Mexico", "Mississippi_River"], ["Cuba", "United_States", "Mississippi_River"]]

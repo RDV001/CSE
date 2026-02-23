@@ -1,0 +1,1 @@
+[["Australian_English", "United_States", "Mining"]]

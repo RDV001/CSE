@@ -1,0 +1,1 @@
+[["Afrikaans", "Auckland", "Mexico_City"], ["Afrikaans", "German_language", "Mexico_City"], ["Afrikaans", "Toronto", "Mexico_City"]]

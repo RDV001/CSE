@@ -1,0 +1,1 @@
+[["Indonesian_language", "Art", "Architecture", "Frank_Lloyd_Wright"], ["Indonesian_language", "Art", "Cubism", "Frank_Lloyd_Wright"]]

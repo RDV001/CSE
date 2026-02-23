@@ -1,0 +1,1 @@
+[["Mars_Reconnaissance_Orbiter", "Phoenix_%28spacecraft%29", "Denver%2C_Colorado", "Detroit%2C_Michigan"], ["Mars_Reconnaissance_Orbiter", "Weather", "Radio", "Detroit%2C_Michigan"]]

@@ -1,0 +1,1 @@
+[["Space_Shuttle_Challenger_disaster", "Neil_Armstrong", "South_America", "Guitar"], ["Space_Shuttle_Challenger_disaster", "Ronald_Reagan", "South_America", "Guitar"]]

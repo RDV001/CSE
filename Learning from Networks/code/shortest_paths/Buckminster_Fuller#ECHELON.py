@@ -1,0 +1,1 @@
+[["Buckminster_Fuller", "United_States", "NATO", "ECHELON"]]

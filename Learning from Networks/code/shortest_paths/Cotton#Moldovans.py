@@ -1,0 +1,1 @@
+[["Cotton", "Ancient_Greece", "Ukraine", "Moldovans"], ["Cotton", "Europe", "Ukraine", "Moldovans"], ["Cotton", "German_language", "Ukraine", "Moldovans"], ["Cotton", "Herodotus", "Ukraine", "Moldovans"], ["Cotton", "Mexico", "Ukraine", "Moldovans"], ["Cotton", "Europe", "Kiev", "Moldovans"], ["Cotton", "Europe", "Moldova", "Moldovans"]]

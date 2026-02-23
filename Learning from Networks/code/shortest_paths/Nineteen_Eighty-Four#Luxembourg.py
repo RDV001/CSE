@@ -1,0 +1,1 @@
+[["Nineteen_Eighty-Four", "Adolf_Hitler", "Luxembourg"], ["Nineteen_Eighty-Four", "Europe", "Luxembourg"], ["Nineteen_Eighty-Four", "World_War_II", "Luxembourg"]]

@@ -1,0 +1,1 @@
+[["Planetary_nebula", "Helium", "Fluorine"], ["Planetary_nebula", "Hydrogen", "Fluorine"], ["Planetary_nebula", "Oxygen", "Fluorine"]]

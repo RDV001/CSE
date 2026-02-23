@@ -1,0 +1,1 @@
+[["Frederick_II_of_Prussia", "French_language", "Andorra"], ["Frederick_II_of_Prussia", "Germany", "Andorra"]]

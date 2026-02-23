@@ -1,0 +1,1 @@
+[["Midway_Atoll", "Richard_Nixon"]]

@@ -1,0 +1,1 @@
+[["Labor_Day_Hurricane_of_1935", "2005_Atlantic_hurricane_season", "Houston%2C_Texas"], ["Labor_Day_Hurricane_of_1935", "Atlantic_Ocean", "Houston%2C_Texas"], ["Labor_Day_Hurricane_of_1935", "Florida", "Houston%2C_Texas"], ["Labor_Day_Hurricane_of_1935", "Hurricane_Katrina", "Houston%2C_Texas"], ["Labor_Day_Hurricane_of_1935", "United_States", "Houston%2C_Texas"]]

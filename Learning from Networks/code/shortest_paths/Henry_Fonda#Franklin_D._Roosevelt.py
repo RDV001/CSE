@@ -1,0 +1,1 @@
+[["Henry_Fonda", "World_War_II", "Franklin_D._Roosevelt"]]

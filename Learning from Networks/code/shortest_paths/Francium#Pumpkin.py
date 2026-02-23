@@ -1,0 +1,1 @@
+[["Francium", "Color", "Fruit", "Pumpkin"], ["Francium", "Potassium", "Fruit", "Pumpkin"], ["Francium", "Potassium", "Vegetable", "Pumpkin"]]

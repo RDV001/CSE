@@ -1,0 +1,1 @@
+[["Llandudno", "Bronze_Age", "Mesopotamia", "Jupiter"], ["Llandudno", "Iron_Age", "Mesopotamia", "Jupiter"], ["Llandudno", "Roman_Catholic_Church", "Astronomy", "Jupiter"]]

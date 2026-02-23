@@ -1,0 +1,1 @@
+[["Mestizo", "Japan", "Tsunami", "July_2006_Java_earthquake"], ["Mestizo", "Puerto_Rico", "Tsunami", "July_2006_Java_earthquake"]]

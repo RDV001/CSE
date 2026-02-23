@@ -1,0 +1,1 @@
+[["Lusaka", "Europe", "Iran", "Multiple_sclerosis"]]

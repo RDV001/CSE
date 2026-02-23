@@ -1,0 +1,1 @@
+[["Common_Tern", "Animal", "Carbon_dioxide"]]

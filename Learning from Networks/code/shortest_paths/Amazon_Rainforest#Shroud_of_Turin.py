@@ -1,0 +1,1 @@
+[["Amazon_Rainforest", "Ecuador", "Roman_Catholic_Church", "Shroud_of_Turin"], ["Amazon_Rainforest", "South_America", "Roman_Catholic_Church", "Shroud_of_Turin"], ["Amazon_Rainforest", "Venezuela", "Jesus", "Shroud_of_Turin"]]

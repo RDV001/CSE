@@ -1,0 +1,1 @@
+[["Social_contract_%28Malaysia%29", "Automobile", "Paris", "Tour_de_France", "Greg_LeMond"], ["Social_contract_%28Malaysia%29", "Islam", "Pakistan", "Tour_de_France", "Greg_LeMond"]]

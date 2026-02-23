@@ -1,0 +1,1 @@
+[["Abstract_art", "20th_century", "12th_century", "Second_Crusade"]]

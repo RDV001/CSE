@@ -1,0 +1,1 @@
+[["Hurricane_Philippe_%282005%29", "Africa", "Carnivore", "Bear", "Giant_Panda"], ["Hurricane_Philippe_%282005%29", "Bermuda", "Olympic_Games", "Bear", "Giant_Panda"], ["Hurricane_Philippe_%282005%29", "Barbados", "Hinduism", "Swastika", "Giant_Panda"]]

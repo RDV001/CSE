@@ -1,0 +1,1 @@
+[["John_Seigenthaler%2C_Sr.", "Martin_Luther_King%2C_Jr.", "United_Kingdom", "Local_government_in_the_United_Kingdom"], ["John_Seigenthaler%2C_Sr.", "Nashville%2C_Tennessee", "United_Kingdom", "Local_government_in_the_United_Kingdom"], ["John_Seigenthaler%2C_Sr.", "Washington%2C_D.C.", "United_Kingdom", "Local_government_in_the_United_Kingdom"]]

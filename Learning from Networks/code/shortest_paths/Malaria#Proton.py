@@ -1,0 +1,1 @@
+[["Malaria", "Agriculture", "Ammonia", "Proton"], ["Malaria", "Protein", "Atom", "Proton"], ["Malaria", "Protein", "Nickel", "Proton"], ["Malaria", "Protein", "Quantum_mechanics", "Proton"]]

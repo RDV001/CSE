@@ -1,0 +1,1 @@
+[["Lebanon", "Human_rights", "United_States_Bill_of_Rights"], ["Lebanon", "Law", "United_States_Bill_of_Rights"], ["Lebanon", "United_States", "United_States_Bill_of_Rights"]]

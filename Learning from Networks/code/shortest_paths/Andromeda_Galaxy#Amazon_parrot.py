@@ -1,0 +1,1 @@
+[["Andromeda_Galaxy", "Ultraviolet", "Bird", "Parrot", "Amazon_parrot"]]

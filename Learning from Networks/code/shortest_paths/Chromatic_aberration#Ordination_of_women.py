@@ -1,0 +1,1 @@
+[["Chromatic_aberration", "Light", "Galileo_Galilei", "Pope_John_Paul_II", "Ordination_of_women"]]

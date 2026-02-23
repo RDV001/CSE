@@ -1,0 +1,1 @@
+[["Dog", "Africa", "Human"], ["Dog", "Animal", "Human"], ["Dog", "Bonobo", "Human"], ["Dog", "Cancer", "Human"], ["Dog", "Cereal", "Human"], ["Dog", "Fruit", "Human"], ["Dog", "Insect", "Human"], ["Dog", "Mammal", "Human"], ["Dog", "Meat", "Human"], ["Dog", "Scientific_classification", "Human"], ["Dog", "Vegetable", "Human"]]

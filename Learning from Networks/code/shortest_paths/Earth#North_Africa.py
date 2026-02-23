@@ -1,0 +1,1 @@
+[["Earth", "North_Africa"]]

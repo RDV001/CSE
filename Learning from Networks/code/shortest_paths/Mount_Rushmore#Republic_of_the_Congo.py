@@ -1,0 +1,1 @@
+[["Mount_Rushmore", "United_States", "Republic_of_the_Congo"]]

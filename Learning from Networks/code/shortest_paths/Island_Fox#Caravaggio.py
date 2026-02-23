@@ -1,0 +1,1 @@
+[["Island_Fox", "Animal", "Human", "Caravaggio"], ["Island_Fox", "Genetics", "Human", "Caravaggio"], ["Island_Fox", "Mammal", "Human", "Caravaggio"], ["Island_Fox", "Scientific_classification", "Human", "Caravaggio"]]

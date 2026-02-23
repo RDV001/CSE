@@ -1,0 +1,1 @@
+[["Daniel_Ellsberg", "Iran", "Japan", "Space_exploration"], ["Daniel_Ellsberg", "Iraq_War", "Japan", "Space_exploration"], ["Daniel_Ellsberg", "John_F._Kennedy", "Japan", "Space_exploration"], ["Daniel_Ellsberg", "Vietnam_War", "Japan", "Space_exploration"], ["Daniel_Ellsberg", "John_F._Kennedy", "Space_Race", "Space_exploration"]]

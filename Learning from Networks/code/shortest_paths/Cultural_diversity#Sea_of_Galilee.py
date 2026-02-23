@@ -1,0 +1,1 @@
+[["Cultural_diversity", "Culture", "Israel", "Sea_of_Galilee"]]

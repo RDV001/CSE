@@ -1,0 +1,1 @@
+[["Afrikaans", "English_language", "Nauru"]]

@@ -1,0 +1,1 @@
+[["Capitalism", "Karl_Marx", "Analytical_Marxism"], ["Capitalism", "Libertarianism", "Analytical_Marxism"], ["Capitalism", "Marxism", "Analytical_Marxism"]]

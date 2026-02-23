@@ -1,0 +1,1 @@
+[["I_Ching", "Archaeology", "Ancient_Rome", "Olive_oil", "Turmeric"], ["I_Ching", "Confucianism", "Judaism", "Olive_oil", "Turmeric"], ["I_Ching", "Philosophy", "Mahabharata", "Ganesha", "Turmeric"]]

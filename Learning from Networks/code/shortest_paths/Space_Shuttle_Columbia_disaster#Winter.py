@@ -1,0 +1,1 @@
+[["Space_Shuttle_Columbia_disaster", "Amarillo%2C_Texas", "Winter"]]

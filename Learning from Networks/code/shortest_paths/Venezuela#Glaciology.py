@@ -1,0 +1,1 @@
+[["Venezuela", "Biodiversity", "Geology", "Glaciology"], ["Venezuela", "Europe", "Geology", "Glaciology"], ["Venezuela", "Petroleum", "Geology", "Glaciology"], ["Venezuela", "Europe", "Ice_age", "Glaciology"]]

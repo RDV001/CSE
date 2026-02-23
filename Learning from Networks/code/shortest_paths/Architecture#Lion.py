@@ -1,0 +1,1 @@
+[["Architecture", "Leonardo_da_Vinci", "Lion"]]

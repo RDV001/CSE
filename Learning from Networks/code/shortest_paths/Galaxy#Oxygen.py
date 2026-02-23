@@ -1,0 +1,1 @@
+[["Galaxy", "Hydrogen", "Oxygen"], ["Galaxy", "Planet", "Oxygen"], ["Galaxy", "Star", "Oxygen"], ["Galaxy", "Sun", "Oxygen"]]

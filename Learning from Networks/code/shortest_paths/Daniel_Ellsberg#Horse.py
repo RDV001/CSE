@@ -1,0 +1,1 @@
+[["Daniel_Ellsberg", "Economics", "Ancient_Rome", "Horse"], ["Daniel_Ellsberg", "Iran", "Agriculture", "Horse"], ["Daniel_Ellsberg", "Vietnam", "Tobacco", "Horse"]]

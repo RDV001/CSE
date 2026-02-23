@@ -1,0 +1,1 @@
+[["Autumn", "China", "Hong_Kong"], ["Autumn", "English_language", "Hong_Kong"], ["Autumn", "Japan", "Hong_Kong"], ["Autumn", "United_States", "Hong_Kong"]]

@@ -1,0 +1,1 @@
+[["Christina_Aguilera", "Ecuador"]]

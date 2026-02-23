@@ -1,0 +1,1 @@
+[["Shaka", "19th_century", "Friedrich_Nietzsche", "Pneumonia"], ["Shaka", "19th_century", "Pyotr_Ilyich_Tchaikovsky", "Pneumonia"], ["Shaka", "19th_century", "Victoria_of_the_United_Kingdom", "Pneumonia"], ["Shaka", "19th_century", "World_War_I", "Pneumonia"]]

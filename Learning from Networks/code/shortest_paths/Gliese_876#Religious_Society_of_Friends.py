@@ -1,0 +1,1 @@
+[["Gliese_876", "Day", "United_States", "Religious_Society_of_Friends"], ["Gliese_876", "Earth", "United_States", "Religious_Society_of_Friends"], ["Gliese_876", "Gravitation", "England", "Religious_Society_of_Friends"]]

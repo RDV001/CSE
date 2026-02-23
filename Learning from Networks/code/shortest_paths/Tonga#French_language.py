@@ -1,0 +1,1 @@
+[["Tonga", "Elizabeth_II_of_the_United_Kingdom", "French_language"], ["Tonga", "English_language", "French_language"], ["Tonga", "Netherlands", "French_language"], ["Tonga", "United_Kingdom", "French_language"], ["Tonga", "United_Nations", "French_language"], ["Tonga", "United_States", "French_language"], ["Tonga", "World_Trade_Organization", "French_language"]]

@@ -1,0 +1,1 @@
+[["Ebony", "16th_century", "Florida", "George_H._W._Bush"], ["Ebony", "Sri_Lanka", "2004_Indian_Ocean_earthquake", "George_H._W._Bush"]]

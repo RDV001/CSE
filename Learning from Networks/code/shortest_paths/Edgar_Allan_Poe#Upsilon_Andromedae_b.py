@@ -1,0 +1,1 @@
+[["Edgar_Allan_Poe", "Boston%2C_Massachusetts", "Solar_System", "Extrasolar_planet", "Upsilon_Andromedae", "Upsilon_Andromedae_b"], ["Edgar_Allan_Poe", "Philosophy", "Astronomy", "Extrasolar_planet", "Upsilon_Andromedae", "Upsilon_Andromedae_b"]]

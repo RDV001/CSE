@@ -1,0 +1,1 @@
+[["Red_giant", "Helium", "Copper", "Steam_engine"], ["Red_giant", "Helium", "Heat", "Steam_engine"], ["Red_giant", "Sun", "Heat", "Steam_engine"]]

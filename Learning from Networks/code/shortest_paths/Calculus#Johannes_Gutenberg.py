@@ -1,0 +1,1 @@
+[["Calculus", "10th_century", "Germany", "Johannes_Gutenberg"], ["Calculus", "Albert_Einstein", "Germany", "Johannes_Gutenberg"], ["Calculus", "Europe", "Germany", "Johannes_Gutenberg"], ["Calculus", "Gottfried_Leibniz", "Germany", "Johannes_Gutenberg"], ["Calculus", "Medicine", "Germany", "Johannes_Gutenberg"], ["Calculus", "Europe", "Ottoman_Empire", "Johannes_Gutenberg"]]

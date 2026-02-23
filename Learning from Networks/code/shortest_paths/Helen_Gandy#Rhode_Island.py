@@ -1,0 +1,1 @@
+[["Helen_Gandy", "United_States", "Rhode_Island"], ["Helen_Gandy", "United_States_House_of_Representatives", "Rhode_Island"], ["Helen_Gandy", "Washington%2C_D.C.", "Rhode_Island"]]

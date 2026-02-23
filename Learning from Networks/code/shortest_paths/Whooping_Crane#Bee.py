@@ -1,0 +1,1 @@
+[["Whooping_Crane", "Animal", "Insect", "Bee"], ["Whooping_Crane", "Scientific_classification", "Insect", "Bee"], ["Whooping_Crane", "Animal", "Spider", "Bee"], ["Whooping_Crane", "Carolus_Linnaeus", "Ecology", "Bee"], ["Whooping_Crane", "Scientific_classification", "Flower", "Bee"]]

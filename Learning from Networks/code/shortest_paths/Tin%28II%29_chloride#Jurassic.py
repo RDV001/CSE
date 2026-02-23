@@ -1,0 +1,1 @@
+[["Tin%28II%29_chloride", "Lithium", "Plant", "Jurassic"], ["Tin%28II%29_chloride", "Oxygen", "Plant", "Jurassic"], ["Tin%28II%29_chloride", "Mercury_%28element%29", "Coal", "Jurassic"], ["Tin%28II%29_chloride", "Tin", "Coal", "Jurassic"], ["Tin%28II%29_chloride", "Tin", "Mediterranean_Sea", "Jurassic"]]

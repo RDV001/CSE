@@ -1,0 +1,1 @@
+[["Logistics", "Arthur_Wellesley%2C_1st_Duke_of_Wellington", "Royal_Navy", "William_I_of_England"], ["Logistics", "World_War_II", "Royal_Navy", "William_I_of_England"], ["Logistics", "Engineering", "Latin", "William_I_of_England"], ["Logistics", "Transport", "Latin", "William_I_of_England"]]

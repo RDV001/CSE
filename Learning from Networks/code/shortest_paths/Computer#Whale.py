@@ -1,0 +1,1 @@
+[["Computer", "Electrical_engineering", "Taiwan", "Whale"], ["Computer", "Television", "Iceland", "Whale"], ["Computer", "Toy", "Mammal", "Whale"]]

@@ -1,0 +1,1 @@
+[["Thailand", "Buddhism", "Sikkim", "Pigeon"], ["Thailand", "Time_zone", "Sikkim", "Pigeon"]]

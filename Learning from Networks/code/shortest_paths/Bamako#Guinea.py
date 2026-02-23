@@ -1,0 +1,1 @@
+[["Bamako", "Brazil", "Guinea"], ["Bamako", "Mali", "Guinea"], ["Bamako", "Niger_River", "Guinea"], ["Bamako", "Senegal", "Guinea"], ["Bamako", "Sub-Saharan_Africa", "Guinea"], ["Bamako", "United_States", "Guinea"]]

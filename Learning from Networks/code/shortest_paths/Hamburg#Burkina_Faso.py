@@ -1,0 +1,1 @@
+[["Hamburg", "Africa", "Burkina_Faso"], ["Hamburg", "Berber_languages", "Burkina_Faso"], ["Hamburg", "List_of_countries", "Burkina_Faso"]]

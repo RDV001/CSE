@@ -1,0 +1,1 @@
+[["Batman", "Earthquake", "Natural_gas", "Fertilizer"], ["Batman", "Scotland", "Agriculture", "Fertilizer"]]

@@ -1,0 +1,1 @@
+[["Sirius", "Astrology", "Pluto"], ["Sirius", "Earth", "Pluto"], ["Sirius", "Hubble_Space_Telescope", "Pluto"], ["Sirius", "Sun", "Pluto"]]

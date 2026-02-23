@@ -1,0 +1,1 @@
+[["Arsenic", "Antimony", "Crystal"], ["Arsenic", "Argon", "Crystal"], ["Arsenic", "Germanium", "Crystal"], ["Arsenic", "Integrated_circuit", "Crystal"], ["Arsenic", "Mineral", "Crystal"], ["Arsenic", "Phase_%28matter%29", "Crystal"], ["Arsenic", "Silicon", "Crystal"]]

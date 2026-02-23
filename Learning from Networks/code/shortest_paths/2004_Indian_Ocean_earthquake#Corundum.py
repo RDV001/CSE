@@ -1,0 +1,1 @@
+[["2004_Indian_Ocean_earthquake", "Africa", "Diamond", "Corundum"], ["2004_Indian_Ocean_earthquake", "South_Africa", "Diamond", "Corundum"], ["2004_Indian_Ocean_earthquake", "Antarctica", "Mineral", "Corundum"], ["2004_Indian_Ocean_earthquake", "Indian_Ocean", "Mineral", "Corundum"], ["2004_Indian_Ocean_earthquake", "Moon", "Aluminium", "Corundum"]]

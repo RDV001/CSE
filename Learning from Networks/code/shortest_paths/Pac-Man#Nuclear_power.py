@@ -1,0 +1,1 @@
+[["Pac-Man", "United_States", "Nuclear_power"]]

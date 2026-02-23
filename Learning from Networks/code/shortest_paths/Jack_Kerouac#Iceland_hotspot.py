@@ -1,0 +1,1 @@
+[["Jack_Kerouac", "United_States", "Iceland", "Eldfell", "Iceland_hotspot"]]

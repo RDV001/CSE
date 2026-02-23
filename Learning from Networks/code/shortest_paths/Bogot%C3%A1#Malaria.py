@@ -1,0 +1,1 @@
+[["Bogot%C3%A1", "Basketball", "Theodore_Roosevelt", "Malaria"], ["Bogot%C3%A1", "Spain", "Scramble_for_Africa", "Malaria"], ["Bogot%C3%A1", "Venezuela", "Nigeria", "Malaria"]]

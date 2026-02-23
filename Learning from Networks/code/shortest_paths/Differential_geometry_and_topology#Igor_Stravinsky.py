@@ -1,0 +1,1 @@
+[["Differential_geometry_and_topology", "Mathematics", "Aesthetics", "Igor_Stravinsky"]]

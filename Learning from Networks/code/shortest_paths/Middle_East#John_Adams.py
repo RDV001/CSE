@@ -1,0 +1,1 @@
+[["Middle_East", "Democracy", "John_Adams"]]

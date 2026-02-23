@@ -1,0 +1,1 @@
+[["Superman", "Communism", "Joseph_Stalin"], ["Superman", "Soviet_Union", "Joseph_Stalin"], ["Superman", "World_War_II", "Joseph_Stalin"]]

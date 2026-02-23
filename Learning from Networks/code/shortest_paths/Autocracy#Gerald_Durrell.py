@@ -1,0 +1,1 @@
+[["Autocracy", "Monarchy", "Jersey", "Gerald_Durrell"]]

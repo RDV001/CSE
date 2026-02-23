@@ -1,0 +1,1 @@
+[["Vatican_City", "Currency", "Ancient_Egypt"]]

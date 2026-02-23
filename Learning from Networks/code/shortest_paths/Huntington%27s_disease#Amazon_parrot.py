@@ -1,0 +1,1 @@
+[["Huntington%27s_disease", "Vertebrate", "Bird", "Parrot", "Amazon_parrot"]]

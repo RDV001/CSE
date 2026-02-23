@@ -1,0 +1,1 @@
+[["HIV", "Chimpanzee", "Mammal", "Permian"], ["HIV", "Human", "Mammal", "Permian"], ["HIV", "Tuberculosis", "Mammal", "Permian"], ["HIV", "DNA", "Plant", "Permian"], ["HIV", "United_States", "Coal", "Permian"], ["HIV", "United_States", "List_of_rivers_by_length", "Permian"]]

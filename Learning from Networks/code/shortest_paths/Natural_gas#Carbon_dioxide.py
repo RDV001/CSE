@@ -1,0 +1,1 @@
+[["Natural_gas", "Carbon_dioxide"]]

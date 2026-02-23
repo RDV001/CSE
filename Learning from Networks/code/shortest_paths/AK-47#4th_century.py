@@ -1,0 +1,1 @@
+[["AK-47", "Ethiopia", "4th_century"], ["AK-47", "Mozambique", "4th_century"]]

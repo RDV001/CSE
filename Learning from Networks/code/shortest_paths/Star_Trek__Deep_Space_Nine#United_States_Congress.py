@@ -1,0 +1,1 @@
+[["Star_Trek__Deep_Space_Nine", "Baseball", "United_States_Congress"], ["Star_Trek__Deep_Space_Nine", "United_States", "United_States_Congress"]]

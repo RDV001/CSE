@@ -1,0 +1,1 @@
+[["Thomas_Gainsborough", "Bath%2C_Somerset", "Bristol", "Daniel_Day-Lewis"], ["Thomas_Gainsborough", "England", "Bristol", "Daniel_Day-Lewis"], ["Thomas_Gainsborough", "William_Hogarth", "Bristol", "Daniel_Day-Lewis"]]

@@ -1,0 +1,1 @@
+[["Rabies", "Australia", "Platypus", "Humour"], ["Rabies", "Brain", "Cattle", "Humour"], ["Rabies", "Horse", "Cattle", "Humour"], ["Rabies", "Louis_Pasteur", "Cattle", "Humour"]]

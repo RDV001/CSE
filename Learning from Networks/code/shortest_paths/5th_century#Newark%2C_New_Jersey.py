@@ -1,0 +1,1 @@
+[["5th_century", "17th_century", "New_York_City", "Newark%2C_New_Jersey"], ["5th_century", "20th_century", "New_York_City", "Newark%2C_New_Jersey"], ["5th_century", "Rome", "New_York_City", "Newark%2C_New_Jersey"], ["5th_century", "Africa", "Portuguese_language", "Newark%2C_New_Jersey"], ["5th_century", "England", "Portuguese_language", "Newark%2C_New_Jersey"]]

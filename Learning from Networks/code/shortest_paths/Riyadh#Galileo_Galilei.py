@@ -1,0 +1,1 @@
+[["Riyadh", "Arabic_language", "Alchemy", "Galileo_Galilei"], ["Riyadh", "Garden", "Light", "Galileo_Galilei"]]

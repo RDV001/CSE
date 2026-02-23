@@ -1,0 +1,1 @@
+[["Tower_of_London", "Canada", "Constitutional_monarchy"], ["Tower_of_London", "Monarchy", "Constitutional_monarchy"], ["Tower_of_London", "Netherlands", "Constitutional_monarchy"]]

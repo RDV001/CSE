@@ -1,0 +1,1 @@
+[["Angkor_Wat", "Architecture", "Sculpture"]]

@@ -1,0 +1,1 @@
+[["Anguilla", "Christopher_Columbus", "Japan", "Wasabi"], ["Anguilla", "English_language", "Japan", "Wasabi"], ["Anguilla", "Parliamentary_system", "Japan", "Wasabi"], ["Anguilla", "Time_zone", "Japan", "Wasabi"], ["Anguilla", "United_Nations", "Japan", "Wasabi"]]

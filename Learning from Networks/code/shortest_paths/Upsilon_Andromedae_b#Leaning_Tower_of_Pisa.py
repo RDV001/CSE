@@ -1,0 +1,1 @@
+[["Upsilon_Andromedae_b", "Gravitation", "Galileo_Galilei", "Leaning_Tower_of_Pisa"], ["Upsilon_Andromedae_b", "Jupiter", "Galileo_Galilei", "Leaning_Tower_of_Pisa"]]

@@ -1,0 +1,1 @@
+[["Peter_I_of_Russia", "Dutch_language", "God", "Gautama_Buddha"], ["Peter_I_of_Russia", "Estonia", "Atheism", "Gautama_Buddha"], ["Peter_I_of_Russia", "Estonia", "Buddhism", "Gautama_Buddha"], ["Peter_I_of_Russia", "Moscow", "India", "Gautama_Buddha"], ["Peter_I_of_Russia", "Saint_Petersburg", "India", "Gautama_Buddha"]]

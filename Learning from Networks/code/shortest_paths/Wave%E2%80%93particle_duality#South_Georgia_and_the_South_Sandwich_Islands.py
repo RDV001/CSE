@@ -1,0 +1,1 @@
+[["Wave%E2%80%93particle_duality", "19th_century", "Atlantic_Ocean", "South_Georgia_and_the_South_Sandwich_Islands"], ["Wave%E2%80%93particle_duality", "Property", "Antarctica", "South_Georgia_and_the_South_Sandwich_Islands"], ["Wave%E2%80%93particle_duality", "Property", "Monarchy", "South_Georgia_and_the_South_Sandwich_Islands"]]

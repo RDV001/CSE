@@ -1,0 +1,1 @@
+[["Star_Trek", "United_States", "Las_Vegas%2C_Nevada", "Salt_Lake_City%2C_Utah"], ["Star_Trek", "United_States", "Rocky_Mountains", "Salt_Lake_City%2C_Utah"], ["Star_Trek", "United_States", "U.S._state", "Salt_Lake_City%2C_Utah"]]

@@ -1,0 +1,1 @@
+[["Cambodia", "Angkor_Wat", "Ancient_Rome"], ["Cambodia", "Football_%28soccer%29", "Ancient_Rome"]]

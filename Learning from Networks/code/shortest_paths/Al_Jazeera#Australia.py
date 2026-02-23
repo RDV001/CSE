@@ -1,0 +1,1 @@
+[["Al_Jazeera", "English_language", "Australia"], ["Al_Jazeera", "Israel", "Australia"], ["Al_Jazeera", "Saudi_Arabia", "Australia"], ["Al_Jazeera", "September_11%2C_2001_attacks", "Australia"], ["Al_Jazeera", "Spain", "Australia"], ["Al_Jazeera", "Sudan", "Australia"]]

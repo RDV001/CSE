@@ -1,0 +1,1 @@
+[["Supply_and_demand", "Europe", "Fox", "Dog"], ["Supply_and_demand", "Europe", "Zeus", "Dog"]]

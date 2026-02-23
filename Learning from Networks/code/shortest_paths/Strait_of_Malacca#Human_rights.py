@@ -1,0 +1,1 @@
+[["Strait_of_Malacca", "Iran", "Human_rights"]]

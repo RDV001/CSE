@@ -1,0 +1,1 @@
+[["London_Underground", "Derby", "Nottingham", "Theatre"], ["London_Underground", "The_Blitz", "Nottingham", "Theatre"], ["London_Underground", "Double-decker_bus", "Hong_Kong", "Theatre"], ["London_Underground", "World_War_II", "Hong_Kong", "Theatre"], ["London_Underground", "Tobacco_smoking", "Australia", "Theatre"], ["London_Underground", "World_War_II", "Libya", "Theatre"]]

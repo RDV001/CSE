@@ -1,0 +1,1 @@
+[["Hunger", "Animal", "Fungus", "Weed"], ["Hunger", "Animal", "Plant", "Weed"], ["Hunger", "Famine", "Agriculture", "Weed"], ["Hunger", "Poverty", "Agriculture", "Weed"]]

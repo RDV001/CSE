@@ -1,0 +1,1 @@
+[["Blitzkrieg", "Battle_of_France", "Rhine", "Pliocene"], ["Blitzkrieg", "Battle_of_the_Bulge", "Rhine", "Pliocene"], ["Blitzkrieg", "English_Channel", "Rhine", "Pliocene"], ["Blitzkrieg", "France", "Rhine", "Pliocene"], ["Blitzkrieg", "Germany", "Rhine", "Pliocene"], ["Blitzkrieg", "World_War_II", "Rhine", "Pliocene"], ["Blitzkrieg", "English_Channel", "Ice_sheet", "Pliocene"]]

@@ -1,0 +1,1 @@
+[["Carl_Friedrich_Gauss", "Ancient_Greece", "Olive_oil", "Sichuan_Pepper"]]

@@ -1,0 +1,1 @@
+[["I_Ching", "Archaeology", "North_America", "Costa_Rica"], ["I_Ching", "Archaeology", "United_States", "Costa_Rica"], ["I_Ching", "Philosophy", "United_States", "Costa_Rica"], ["I_Ching", "Carl_Jung", "Stargate_SG-1", "Costa_Rica"], ["I_Ching", "Confucianism", "19th_century", "Costa_Rica"], ["I_Ching", "Ethics", "Human_rights", "Costa_Rica"]]

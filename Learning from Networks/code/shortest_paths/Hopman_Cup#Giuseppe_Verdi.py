@@ -1,0 +1,1 @@
+[["Hopman_Cup", "Australia", "Opera", "Giuseppe_Verdi"], ["Hopman_Cup", "Netherlands", "19th_century", "Giuseppe_Verdi"], ["Hopman_Cup", "Spain", "Spanish_Inquisition", "Giuseppe_Verdi"]]

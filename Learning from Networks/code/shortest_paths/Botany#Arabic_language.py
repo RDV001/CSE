@@ -1,0 +1,1 @@
+[["Botany", "Rice", "Arabic_language"], ["Botany", "Tea", "Arabic_language"], ["Botany", "Tobacco", "Arabic_language"]]

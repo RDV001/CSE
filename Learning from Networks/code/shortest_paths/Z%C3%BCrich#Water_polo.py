@@ -1,0 +1,1 @@
+[["Z%C3%BCrich", "Austria", "Hungary", "Water_polo"], ["Z%C3%BCrich", "Charlemagne", "Hungary", "Water_polo"], ["Z%C3%BCrich", "German_language", "Hungary", "Water_polo"], ["Z%C3%BCrich", "Roman_Empire", "Hungary", "Water_polo"], ["Z%C3%BCrich", "Global_city", "Bucharest", "Water_polo"]]

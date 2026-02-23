@@ -1,0 +1,1 @@
+[["Brisbane", "Melbourne", "Winter", "Vole"], ["Brisbane", "Spring_%28season%29", "Winter", "Vole"], ["Brisbane", "Sydney", "Winter", "Vole"]]

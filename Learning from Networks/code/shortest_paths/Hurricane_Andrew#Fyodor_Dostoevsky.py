@@ -1,0 +1,1 @@
+[["Hurricane_Andrew", "20th_century", "19th_century", "Fyodor_Dostoevsky"], ["Hurricane_Andrew", "20th_century", "Existentialism", "Fyodor_Dostoevsky"], ["Hurricane_Andrew", "Labor_Day_Hurricane_of_1935", "Ernest_Hemingway", "Fyodor_Dostoevsky"]]

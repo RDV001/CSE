@@ -1,0 +1,1 @@
+[["Lunar_eclipse", "History_of_Greece", "Latin", "The_Cat_in_the_Hat"], ["Lunar_eclipse", "Ptolemy", "Latin", "The_Cat_in_the_Hat"], ["Lunar_eclipse", "Sun", "Latin", "The_Cat_in_the_Hat"]]

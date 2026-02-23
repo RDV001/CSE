@@ -1,0 +1,1 @@
+[["Seoul", "Mongolia", "Tungsten", "Gas_tungsten_arc_welding"], ["Seoul", "Thailand", "Tungsten", "Gas_tungsten_arc_welding"]]

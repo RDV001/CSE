@@ -1,0 +1,1 @@
+[["Pollution", "Egypt", "Hebrew_language"], ["Pollution", "England", "Hebrew_language"]]

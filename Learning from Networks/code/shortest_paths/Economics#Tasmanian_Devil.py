@@ -1,0 +1,1 @@
+[["Economics", "Gold", "Australia", "Platypus", "Tasmanian_Devil"], ["Economics", "Law", "Australia", "Platypus", "Tasmanian_Devil"], ["Economics", "Mathematics", "Australia", "Platypus", "Tasmanian_Devil"], ["Economics", "Spain", "Australia", "Platypus", "Tasmanian_Devil"], ["Economics", "United_Kingdom", "Charles_Darwin", "Platypus", "Tasmanian_Devil"]]

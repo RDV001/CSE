@@ -1,0 +1,1 @@
+[["Dog", "Ammonia", "Sulfuric_acid", "Venus"], ["Dog", "Onion", "Sulfuric_acid", "Venus"], ["Dog", "Chocolate", "Maya_civilization", "Venus"], ["Dog", "Cocoa", "Maya_civilization", "Venus"], ["Dog", "DNA", "Nature", "Venus"], ["Dog", "Germany", "Greenhouse_effect", "Venus"]]

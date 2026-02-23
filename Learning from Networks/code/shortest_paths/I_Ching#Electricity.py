@@ -1,0 +1,1 @@
+[["I_Ching", "Archaeology", "Radar", "Electricity"], ["I_Ching", "Carl_Jung", "Munich", "Electricity"], ["I_Ching", "Confucianism", "Physics", "Electricity"], ["I_Ching", "Gottfried_Leibniz", "Physics", "Electricity"], ["I_Ching", "Gottfried_Leibniz", "Electron", "Electricity"], ["I_Ching", "Philosophy", "Baghdad", "Electricity"]]

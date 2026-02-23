@@ -1,0 +1,1 @@
+[["Delhi", "Agriculture", "Global_warming"], ["Delhi", "Climate", "Global_warming"]]

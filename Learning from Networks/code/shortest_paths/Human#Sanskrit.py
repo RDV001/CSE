@@ -1,0 +1,1 @@
+[["Human", "Buddhism", "Sanskrit"], ["Human", "Earth", "Sanskrit"], ["Human", "Hindi", "Sanskrit"], ["Human", "Hinduism", "Sanskrit"], ["Human", "India", "Sanskrit"], ["Human", "Linguistics", "Sanskrit"], ["Human", "Science", "Sanskrit"]]

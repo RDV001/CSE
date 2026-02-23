@@ -1,0 +1,1 @@
+[["Economy_of_Africa", "Asia", "Japanese_yen"], ["Economy_of_Africa", "Japan", "Japanese_yen"]]

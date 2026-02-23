@@ -1,0 +1,1 @@
+[["Great_Salt_Lake", "Horse", "Cattle", "Humour"]]

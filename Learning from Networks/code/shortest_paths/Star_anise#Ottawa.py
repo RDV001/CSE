@@ -1,0 +1,1 @@
+[["Star_anise", "China", "Beijing", "Ottawa"], ["Star_anise", "Chinese_language", "Beijing", "Ottawa"], ["Star_anise", "Chinese_language", "French_language", "Ottawa"], ["Star_anise", "Japan", "Archaeology", "Ottawa"], ["Star_anise", "Japan", "Capital", "Ottawa"], ["Star_anise", "Japan", "North_America", "Ottawa"]]

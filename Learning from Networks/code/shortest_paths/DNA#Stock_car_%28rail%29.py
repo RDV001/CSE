@@ -1,0 +1,1 @@
+[["DNA", "Linus_Pauling", "Steel", "Train", "Refrigerator_car", "Stock_car_%28rail%29"], ["DNA", "United_Kingdom", "Steel", "Train", "Refrigerator_car", "Stock_car_%28rail%29"], ["DNA", "Nature", "Tornado", "Train", "Refrigerator_car", "Stock_car_%28rail%29"], ["DNA", "United_Kingdom", "Republic_of_Ireland", "Train", "Refrigerator_car", "Stock_car_%28rail%29"]]

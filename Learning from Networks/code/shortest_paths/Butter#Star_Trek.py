@@ -1,0 +1,1 @@
+[["Butter", "Distilled_beverage", "Alchemy", "Star_Trek"], ["Butter", "Nitrogen", "Alchemy", "Star_Trek"], ["Butter", "English_language", "Esperanto", "Star_Trek"], ["Butter", "Tea", "Esperanto", "Star_Trek"], ["Butter", "France", "Interpol", "Star_Trek"], ["Butter", "Latin", "Split_infinitive", "Star_Trek"], ["Butter", "Water", "Mythology", "Star_Trek"]]

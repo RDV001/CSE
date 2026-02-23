@@ -1,0 +1,1 @@
+[["Architecture", "France", "Portuguese_language"]]

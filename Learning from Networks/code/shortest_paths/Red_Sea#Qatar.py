@@ -1,0 +1,1 @@
+[["Red_Sea", "Arabic_language", "Qatar"], ["Red_Sea", "Asia", "Qatar"], ["Red_Sea", "Djibouti", "Qatar"], ["Red_Sea", "Israel", "Qatar"], ["Red_Sea", "Saudi_Arabia", "Qatar"], ["Red_Sea", "Somalia", "Qatar"], ["Red_Sea", "Sudan", "Qatar"], ["Red_Sea", "Yemen", "Qatar"]]

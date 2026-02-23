@@ -1,0 +1,1 @@
+[["Antimony", "Alchemy", "Art", "Canberra"], ["Antimony", "Color", "Art", "Canberra"], ["Antimony", "Medicine", "Art", "Canberra"], ["Antimony", "Pottery", "Art", "Canberra"], ["Antimony", "Copper", "Australia", "Canberra"], ["Antimony", "Earth", "Australia", "Canberra"], ["Antimony", "Silver", "Australia", "Canberra"], ["Antimony", "Sulfur", "Australia", "Canberra"]]

@@ -1,0 +1,1 @@
+[["Autumn", "South_America", "Ecuador", "Gal%C3%A1pagos_Islands"], ["Autumn", "United_States", "Ecuador", "Gal%C3%A1pagos_Islands"]]

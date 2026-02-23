@@ -1,0 +1,1 @@
+[["Uruguay", "Europe", "Luxembourg"], ["Uruguay", "List_of_countries_by_system_of_government", "Luxembourg"], ["Uruguay", "Spain", "Luxembourg"]]

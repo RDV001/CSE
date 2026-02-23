@@ -1,0 +1,1 @@
+[["Lake_Kivu", "Africa", "United_States", "Sequoia"], ["Lake_Kivu", "Germany", "United_States", "Sequoia"], ["Lake_Kivu", "Rwandan_Genocide", "United_States", "Sequoia"], ["Lake_Kivu", "Tsunami", "United_States", "Sequoia"], ["Lake_Kivu", "Tsunami", "California", "Sequoia"]]

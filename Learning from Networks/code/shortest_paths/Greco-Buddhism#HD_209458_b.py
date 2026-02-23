@@ -1,0 +1,1 @@
+[["Greco-Buddhism", "Islam", "Astronomy", "Extrasolar_planet", "HD_209458_b"], ["Greco-Buddhism", "Ptolemy", "Solar_System", "Extrasolar_planet", "HD_209458_b"], ["Greco-Buddhism", "Zoroaster", "Star", "Extrasolar_planet", "HD_209458_b"]]

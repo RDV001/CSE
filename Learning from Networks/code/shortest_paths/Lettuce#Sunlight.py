@@ -1,0 +1,1 @@
+[["Lettuce", "Plant", "Sunlight"], ["Lettuce", "Water", "Sunlight"]]

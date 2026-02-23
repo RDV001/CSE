@@ -1,0 +1,1 @@
+[["Bantu", "Ethnic_group", "Iran", "Islamic_republic"], ["Bantu", "Madagascar", "Iran", "Islamic_republic"], ["Bantu", "Tanzania", "Iran", "Islamic_republic"]]

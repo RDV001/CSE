@@ -1,0 +1,1 @@
+[["Canute_the_Great", "London", "Beijing", "Marco_Polo"], ["Canute_the_Great", "Rome", "Beijing", "Marco_Polo"], ["Canute_the_Great", "Malcolm_III_of_Scotland", "13th_century", "Marco_Polo"], ["Canute_the_Great", "Pope", "13th_century", "Marco_Polo"], ["Canute_the_Great", "Viking", "13th_century", "Marco_Polo"], ["Canute_the_Great", "Norway", "Petroleum", "Marco_Polo"]]

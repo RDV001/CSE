@@ -1,0 +1,1 @@
+[["Ringed_Plover", "Africa", "Middle_Ages"], ["Ringed_Plover", "Europe", "Middle_Ages"], ["Ringed_Plover", "France", "Middle_Ages"]]

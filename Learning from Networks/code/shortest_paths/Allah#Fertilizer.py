@@ -1,0 +1,1 @@
+[["Allah", "English_language", "Pakistan", "Fertilizer"], ["Allah", "Islam", "Pakistan", "Fertilizer"], ["Allah", "Muhammad", "Pakistan", "Fertilizer"], ["Allah", "Islam", "Petroleum", "Fertilizer"], ["Allah", "Islam", "Poverty", "Fertilizer"]]

@@ -1,0 +1,1 @@
+[["Cattle", "Carolus_Linnaeus", "DNA", "Sequence_alignment"], ["Cattle", "Horse", "DNA", "Sequence_alignment"], ["Cattle", "Meat", "Protein", "Sequence_alignment"], ["Cattle", "Milk", "Protein", "Sequence_alignment"]]

@@ -1,0 +1,1 @@
+[["Contact_lens", "Germany", "World_War_II"], ["Contact_lens", "Japan", "World_War_II"], ["Contact_lens", "Netherlands", "World_War_II"], ["Contact_lens", "Protein", "World_War_II"], ["Contact_lens", "United_States", "World_War_II"]]

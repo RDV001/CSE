@@ -1,0 +1,1 @@
+[["Gyeongju", "Japan", "President_of_the_United_States", "Mount_Rushmore"], ["Gyeongju", "United_States", "President_of_the_United_States", "Mount_Rushmore"], ["Gyeongju", "United_States", "George_Washington", "Mount_Rushmore"], ["Gyeongju", "United_States", "Thomas_Jefferson", "Mount_Rushmore"]]

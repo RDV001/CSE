@@ -1,0 +1,1 @@
+[["Behavioral_finance", "John_Maynard_Keynes", "Gold", "Second_Boer_War"]]

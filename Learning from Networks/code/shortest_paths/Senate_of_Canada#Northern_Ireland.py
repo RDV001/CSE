@@ -1,0 +1,1 @@
+[["Senate_of_Canada", "British_House_of_Commons", "Northern_Ireland"], ["Senate_of_Canada", "House_of_Lords", "Northern_Ireland"], ["Senate_of_Canada", "Parliament_of_the_United_Kingdom", "Northern_Ireland"], ["Senate_of_Canada", "United_Kingdom", "Northern_Ireland"]]

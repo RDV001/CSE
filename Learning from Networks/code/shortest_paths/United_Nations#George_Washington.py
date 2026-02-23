@@ -1,0 +1,1 @@
+[["United_Nations", "Franklin_D._Roosevelt", "George_Washington"], ["United_Nations", "Smallpox", "George_Washington"], ["United_Nations", "United_States", "George_Washington"]]

@@ -1,0 +1,1 @@
+[["United_States_Congress", "20th_century", "Film"], ["United_States_Congress", "Franklin_D._Roosevelt", "Film"], ["United_States_Congress", "Library_of_Congress", "Film"], ["United_States_Congress", "Mass_media", "Film"]]

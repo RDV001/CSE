@@ -1,0 +1,1 @@
+[["The_Last_Supper_%28Leonardo%29", "18th_century", "North_America"], ["The_Last_Supper_%28Leonardo%29", "19th_century", "North_America"], ["The_Last_Supper_%28Leonardo%29", "France", "North_America"], ["The_Last_Supper_%28Leonardo%29", "The_Simpsons", "North_America"]]

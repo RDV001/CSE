@@ -1,0 +1,1 @@
+[["Yeti", "Ape", "God", "Allah"], ["Yeti", "India", "Ramayana", "Allah"], ["Yeti", "Mythology", "Deity", "Allah"], ["Yeti", "Nepal", "Islam", "Allah"], ["Yeti", "United_States", "Islam", "Allah"], ["Yeti", "Tibet", "Arabic_language", "Allah"]]

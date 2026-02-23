@@ -1,0 +1,1 @@
+[["Meat", "Egg_%28food%29", "United_Kingdom", "Church_of_Ireland"], ["Meat", "Islam", "United_Kingdom", "Church_of_Ireland"], ["Meat", "Judaism", "United_Kingdom", "Church_of_Ireland"], ["Meat", "United_States", "United_Kingdom", "Church_of_Ireland"], ["Meat", "United_States", "Republic_of_Ireland", "Church_of_Ireland"]]

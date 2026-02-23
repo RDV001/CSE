@@ -1,0 +1,1 @@
+[["Ivory", "Chad", "Uganda", "Lake_Edward"], ["Ivory", "Hippopotamus", "Uganda", "Lake_Edward"], ["Ivory", "Kenya", "Uganda", "Lake_Edward"], ["Ivory", "Hippopotamus", "Nile", "Lake_Edward"], ["Ivory", "Hippopotamus", "Second_Congo_War", "Lake_Edward"], ["Ivory", "United_Nations", "Second_Congo_War", "Lake_Edward"]]

@@ -1,0 +1,1 @@
+[["Tour_de_France", "France", "AIDS"], ["Tour_de_France", "Queen_%28band%29", "AIDS"]]

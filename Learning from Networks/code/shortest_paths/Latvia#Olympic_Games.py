@@ -1,0 +1,1 @@
+[["Latvia", "Estonia", "Olympic_Games"], ["Latvia", "Greece", "Olympic_Games"], ["Latvia", "United_Kingdom", "Olympic_Games"]]

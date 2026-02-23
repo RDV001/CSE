@@ -1,0 +1,1 @@
+[["Issyk_Kul", "14th_century", "England", "Winter"], ["Issyk_Kul", "Armenia", "Belarus", "Winter"], ["Issyk_Kul", "Russia", "Belarus", "Winter"], ["Issyk_Kul", "Soviet_Union", "Belarus", "Winter"], ["Issyk_Kul", "Armenia", "Bhutan", "Winter"], ["Issyk_Kul", "Glacier", "Bhutan", "Winter"], ["Issyk_Kul", "Glacier", "Minnesota", "Winter"], ["Issyk_Kul", "Mosque", "Delhi", "Winter"]]

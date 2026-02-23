@@ -1,0 +1,1 @@
+[["Magpie", "Bird", "19th_century", "Costa_Rica"], ["Magpie", "Blue_Jay", "North_America", "Costa_Rica"], ["Magpie", "Crow", "North_America", "Costa_Rica"], ["Magpie", "Evolution", "United_States", "Costa_Rica"], ["Magpie", "Korea", "United_States", "Costa_Rica"]]

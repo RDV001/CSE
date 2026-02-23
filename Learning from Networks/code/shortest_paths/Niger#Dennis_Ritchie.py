@@ -1,0 +1,1 @@
+[["Niger", "Gold", "Computer", "Unix", "Dennis_Ritchie"], ["Niger", "United_States", "Computer", "Unix", "Dennis_Ritchie"], ["Niger", "Islam", "Algorithm", "Imperative_programming", "Dennis_Ritchie"]]

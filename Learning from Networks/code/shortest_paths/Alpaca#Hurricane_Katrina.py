@@ -1,0 +1,1 @@
+[["Alpaca", "Germany", "Canada", "Hurricane_Katrina"], ["Alpaca", "Germany", "George_W._Bush", "Hurricane_Katrina"], ["Alpaca", "Germany", "Natural_gas", "Hurricane_Katrina"], ["Alpaca", "South_America", "21st_century", "Hurricane_Katrina"]]

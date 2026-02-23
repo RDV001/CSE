@@ -1,0 +1,1 @@
+[["Abraham_Lincoln", "Charles_Darwin", "Anglicanism", "Anglican_Church_of_Australia"], ["Abraham_Lincoln", "London", "Anglicanism", "Anglican_Church_of_Australia"], ["Abraham_Lincoln", "Edinburgh", "Anglican_Communion", "Anglican_Church_of_Australia"], ["Abraham_Lincoln", "United_Kingdom", "Anglican_Communion", "Anglican_Church_of_Australia"]]

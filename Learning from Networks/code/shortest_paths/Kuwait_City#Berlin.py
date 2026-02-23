@@ -1,0 +1,1 @@
+[["Kuwait_City", "Capital", "Berlin"]]

@@ -1,0 +1,1 @@
+[["Karl_Popper", "20th_century", "2nd_century"]]

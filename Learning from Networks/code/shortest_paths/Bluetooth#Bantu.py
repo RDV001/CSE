@@ -1,0 +1,1 @@
+[["Bluetooth", "Denmark", "Equatorial_Guinea", "Bantu"], ["Bluetooth", "Sweden", "Iron_Age", "Bantu"], ["Bluetooth", "Viking", "13th_century", "Bantu"]]

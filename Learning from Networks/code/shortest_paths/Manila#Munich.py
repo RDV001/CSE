@@ -1,0 +1,1 @@
+[["Manila", "Global_city", "Munich"]]

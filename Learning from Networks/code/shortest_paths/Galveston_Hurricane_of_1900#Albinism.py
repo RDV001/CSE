@@ -1,0 +1,1 @@
+[["Galveston_Hurricane_of_1900", "Africa", "Cheetah", "Albinism"], ["Galveston_Hurricane_of_1900", "Human", "Pigment", "Albinism"]]

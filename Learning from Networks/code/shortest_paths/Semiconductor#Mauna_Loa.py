@@ -1,0 +1,1 @@
+[["Semiconductor", "Boron", "Volcano", "Mauna_Loa"], ["Semiconductor", "Energy", "Volcano", "Mauna_Loa"], ["Semiconductor", "Energy", "Carbon_dioxide", "Mauna_Loa"], ["Semiconductor", "Energy", "Tsunami", "Mauna_Loa"]]

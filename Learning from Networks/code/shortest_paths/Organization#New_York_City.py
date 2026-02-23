@@ -1,0 +1,1 @@
+[["Organization", "Cooperative", "New_York_City"], ["Organization", "Human", "New_York_City"]]

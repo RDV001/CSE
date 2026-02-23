@@ -1,0 +1,1 @@
+[["Sri_Lanka", "Japan", "Government"], ["Sri_Lanka", "Middle_East", "Government"], ["Sri_Lanka", "Norway", "Government"], ["Sri_Lanka", "Tamil_language", "Government"], ["Sri_Lanka", "United_Nations", "Government"]]

@@ -1,0 +1,1 @@
+[["Upsilon_Andromedae_c", "Sun", "Ancient_Greece"], ["Upsilon_Andromedae_c", "Venus", "Ancient_Greece"]]

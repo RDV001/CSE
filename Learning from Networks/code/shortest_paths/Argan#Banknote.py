@@ -1,0 +1,1 @@
+[["Argan", "United_States_dollar", "Banknote"]]

@@ -1,0 +1,1 @@
+[["Edward_Teller", "Ralph_Nader", "Oregon"], ["Edward_Teller", "United_States", "Oregon"]]

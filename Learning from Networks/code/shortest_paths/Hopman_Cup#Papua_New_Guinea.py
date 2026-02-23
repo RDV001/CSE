@@ -1,0 +1,1 @@
+[["Hopman_Cup", "Australia", "Papua_New_Guinea"]]

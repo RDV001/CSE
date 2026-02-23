@@ -1,0 +1,1 @@
+[["Doom", "United_States", "List_of_rivers_by_length", "Columbia_River"], ["Doom", "United_States", "Manifest_Destiny", "Columbia_River"], ["Doom", "United_States", "Oregon", "Columbia_River"], ["Doom", "United_States", "Rocky_Mountains", "Columbia_River"]]

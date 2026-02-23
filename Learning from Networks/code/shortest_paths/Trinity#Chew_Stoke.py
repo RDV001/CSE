@@ -1,0 +1,1 @@
+[["Trinity", "Comma_Johanneum", "John_Locke", "Chew_Magna", "Chew_Stoke"], ["Trinity", "Isaac_Newton", "John_Locke", "Chew_Magna", "Chew_Stoke"], ["Trinity", "Plato", "John_Locke", "Chew_Magna", "Chew_Stoke"]]

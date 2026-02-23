@@ -1,0 +1,1 @@
+[["Calvin_and_Hobbes", "Thomas_Hobbes", "Charles_II_of_England"]]

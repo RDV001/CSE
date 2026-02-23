@@ -1,0 +1,1 @@
+[["Luxembourg_%28city%29", "10th_century", "Solar_System", "Gas_giant"], ["Luxembourg_%28city%29", "Temperate", "Weather", "Gas_giant"], ["Luxembourg_%28city%29", "United_Kingdom", "Hydrogen", "Gas_giant"]]

@@ -1,0 +1,1 @@
+[["Cologne", "Beijing", "Climate"], ["Cologne", "Finland", "Climate"], ["Cologne", "Greece", "Climate"], ["Cologne", "Poland", "Climate"], ["Cologne", "Russia", "Climate"], ["Cologne", "Spain", "Climate"], ["Cologne", "Turkey", "Climate"]]

@@ -1,0 +1,1 @@
+[["F-4_Phantom_II", "Egypt", "Tennis", "John_McEnroe"], ["F-4_Phantom_II", "South_Korea", "Tennis", "John_McEnroe"], ["F-4_Phantom_II", "United_Kingdom", "Tennis", "John_McEnroe"], ["F-4_Phantom_II", "United_States", "Tennis", "John_McEnroe"], ["F-4_Phantom_II", "United_Kingdom", "The_Championships%2C_Wimbledon", "John_McEnroe"]]

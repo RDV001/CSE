@@ -1,0 +1,1 @@
+[["Warsaw", "Germany", "Great_Britain"], ["Warsaw", "United_Kingdom", "Great_Britain"], ["Warsaw", "World_War_II", "Great_Britain"]]

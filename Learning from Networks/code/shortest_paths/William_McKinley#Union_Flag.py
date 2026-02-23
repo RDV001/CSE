@@ -1,0 +1,1 @@
+[["William_McKinley", "Puerto_Rico", "Scotland", "Union_Flag"]]

@@ -1,0 +1,1 @@
+[["John_Flamsteed", "Isaac_Newton", "Atheism"]]

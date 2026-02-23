@@ -1,0 +1,1 @@
+[["Electronics", "19th_century", "21st_century", "Hurricane_Katrina", "Meteorological_history_of_Hurricane_Katrina"], ["Electronics", "19th_century", "Canada", "Hurricane_Katrina", "Meteorological_history_of_Hurricane_Katrina"], ["Electronics", "Radio", "Detroit%2C_Michigan", "Hurricane_Katrina", "Meteorological_history_of_Hurricane_Katrina"]]

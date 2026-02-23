@@ -1,0 +1,1 @@
+[["Adelaide", "Lead", "List_of_elements_by_name", "Rubidium"], ["Adelaide", "Lead", "Periodic_table", "Rubidium"], ["Adelaide", "Melbourne", "Gold", "Rubidium"], ["Adelaide", "Perth%2C_Western_Australia", "Gold", "Rubidium"]]

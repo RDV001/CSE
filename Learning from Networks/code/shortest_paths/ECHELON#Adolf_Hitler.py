@@ -1,0 +1,1 @@
+[["ECHELON", "Cold_War", "Adolf_Hitler"], ["ECHELON", "Germany", "Adolf_Hitler"], ["ECHELON", "Italy", "Adolf_Hitler"], ["ECHELON", "Spain", "Adolf_Hitler"], ["ECHELON", "World_War_II", "Adolf_Hitler"]]

@@ -1,0 +1,1 @@
+[["U.S._Route_66", "New_York_City", "England", "Stonehenge"], ["U.S._Route_66", "The_Rolling_Stones", "England", "Stonehenge"], ["U.S._Route_66", "Stargate_SG-1", "Archaeology", "Stonehenge"], ["U.S._Route_66", "The_Rolling_Stones", "The_Beatles", "Stonehenge"], ["U.S._Route_66", "U2", "The_Beatles", "Stonehenge"]]

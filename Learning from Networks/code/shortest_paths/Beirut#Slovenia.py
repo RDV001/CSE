@@ -1,0 +1,1 @@
+[["Beirut", "Armenia", "Slovenia"], ["Beirut", "Athens", "Slovenia"], ["Beirut", "Europe", "Slovenia"], ["Beirut", "Greece", "Slovenia"], ["Beirut", "Lebanon", "Slovenia"], ["Beirut", "Mediterranean_Sea", "Slovenia"], ["Beirut", "Turkey", "Slovenia"]]

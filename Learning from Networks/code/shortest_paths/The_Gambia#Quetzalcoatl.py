@@ -1,0 +1,1 @@
+[["The_Gambia", "14th_century", "Aztec", "Quetzalcoatl"], ["The_Gambia", "15th_century", "Aztec", "Quetzalcoatl"]]

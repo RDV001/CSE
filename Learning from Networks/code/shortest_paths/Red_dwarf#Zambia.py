@@ -1,0 +1,1 @@
+[["Red_dwarf", "Earth", "Africa", "Zambia"], ["Red_dwarf", "Earth", "Afrikaans", "Zambia"], ["Red_dwarf", "Earth", "Earthquake", "Zambia"], ["Red_dwarf", "Sun", "Earthquake", "Zambia"], ["Red_dwarf", "Earth", "East_Africa", "Zambia"], ["Red_dwarf", "Earth", "Southern_Africa", "Zambia"], ["Red_dwarf", "Helium", "Copper", "Zambia"]]

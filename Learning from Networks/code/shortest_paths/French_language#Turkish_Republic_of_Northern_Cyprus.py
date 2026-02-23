@@ -1,0 +1,1 @@
+[["French_language", "Chad", "Turkish_Republic_of_Northern_Cyprus"], ["French_language", "Djibouti", "Turkish_Republic_of_Northern_Cyprus"], ["French_language", "Europe", "Turkish_Republic_of_Northern_Cyprus"], ["French_language", "Lebanon", "Turkish_Republic_of_Northern_Cyprus"]]

@@ -1,0 +1,1 @@
+[["Mozambique", "Azerbaijan", "Adolf_Hitler"], ["Mozambique", "Bosnia_and_Herzegovina", "Adolf_Hitler"], ["Mozambique", "Italy", "Adolf_Hitler"], ["Mozambique", "Spain", "Adolf_Hitler"], ["Mozambique", "World_War_II", "Adolf_Hitler"]]

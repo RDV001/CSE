@@ -1,0 +1,1 @@
+[["Apollo_11", "John_F._Kennedy", "Franklin_D._Roosevelt"], ["Apollo_11", "Johnston_Atoll", "Franklin_D._Roosevelt"], ["Apollo_11", "President_of_the_United_States", "Franklin_D._Roosevelt"], ["Apollo_11", "Richard_Nixon", "Franklin_D._Roosevelt"]]

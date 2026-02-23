@@ -1,0 +1,1 @@
+[["Employment", "Cornell_University", "Richard_Feynman", "Space_Shuttle_Challenger_disaster"], ["Employment", "United_States", "Houston%2C_Texas", "Space_Shuttle_Challenger_disaster"], ["Employment", "United_States", "Neil_Armstrong", "Space_Shuttle_Challenger_disaster"]]

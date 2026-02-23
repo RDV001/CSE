@@ -1,0 +1,1 @@
+[["Tarragon", "Asia", "Israel", "Yom_Kippur_War"], ["Tarragon", "Asia", "Jerusalem", "Yom_Kippur_War"], ["Tarragon", "Asia", "Jordan", "Yom_Kippur_War"], ["Tarragon", "Asia", "Suez_Canal", "Yom_Kippur_War"], ["Tarragon", "Europe", "Suez_Canal", "Yom_Kippur_War"], ["Tarragon", "Europe", "Cold_War", "Yom_Kippur_War"], ["Tarragon", "India", "Cold_War", "Yom_Kippur_War"]]

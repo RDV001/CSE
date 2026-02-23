@@ -1,0 +1,1 @@
+[["History_of_Greece", "20th_century", "AIDS"], ["History_of_Greece", "France", "AIDS"], ["History_of_Greece", "South_Africa", "AIDS"]]

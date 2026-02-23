@@ -1,0 +1,1 @@
+[["Space_Shuttle_Challenger", "United_States", "Chinese_language", "Black_Death"], ["Space_Shuttle_Challenger", "United_States", "Italy", "Black_Death"], ["Space_Shuttle_Challenger", "United_States", "Poland", "Black_Death"], ["Space_Shuttle_Challenger", "United_States", "Sweden", "Black_Death"]]

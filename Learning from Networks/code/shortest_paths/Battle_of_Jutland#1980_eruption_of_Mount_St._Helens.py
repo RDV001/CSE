@@ -1,0 +1,1 @@
+[["Battle_of_Jutland", "Royal_Air_Force", "2004_Indian_Ocean_earthquake", "Lake_Toba", "1980_eruption_of_Mount_St._Helens"], ["Battle_of_Jutland", "Royal_Marines", "15th_Marine_Expeditionary_Unit", "Mount_Pinatubo", "1980_eruption_of_Mount_St._Helens"]]

@@ -1,0 +1,1 @@
+[["Manifold", "Carl_Friedrich_Gauss", "United_States", "United_States_Declaration_of_Independence"], ["Manifold", "German_language", "United_States", "United_States_Declaration_of_Independence"], ["Manifold", "Linear_algebra", "United_States", "United_States_Declaration_of_Independence"], ["Manifold", "Physics", "Benjamin_Franklin", "United_States_Declaration_of_Independence"]]

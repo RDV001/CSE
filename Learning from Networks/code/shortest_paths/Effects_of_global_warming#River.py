@@ -1,0 +1,1 @@
+[["Effects_of_global_warming", "Agriculture", "River"], ["Effects_of_global_warming", "Amazon_Rainforest", "River"], ["Effects_of_global_warming", "Glacier", "River"], ["Effects_of_global_warming", "Himalayas", "River"], ["Effects_of_global_warming", "Rain", "River"], ["Effects_of_global_warming", "Water", "River"]]

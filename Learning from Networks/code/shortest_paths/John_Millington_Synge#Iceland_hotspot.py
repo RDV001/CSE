@@ -1,0 +1,1 @@
+[["John_Millington_Synge", "Folklore", "Iceland", "Eldfell", "Iceland_hotspot"], ["John_Millington_Synge", "Germany", "Iceland", "Eldfell", "Iceland_hotspot"], ["John_Millington_Synge", "Scotland", "Iceland", "Eldfell", "Iceland_hotspot"]]

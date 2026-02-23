@@ -1,0 +1,1 @@
+[["Commodore_64", "United_Kingdom", "Adam_Smith"]]

@@ -1,0 +1,1 @@
+[["OpenOffice.org", "Bristol", "Sydney", "Fishing"], ["OpenOffice.org", "France", "Antarctica", "Fishing"], ["OpenOffice.org", "France", "Indian_Ocean", "Fishing"], ["OpenOffice.org", "France", "Japan", "Fishing"], ["OpenOffice.org", "France", "Marseille", "Fishing"]]

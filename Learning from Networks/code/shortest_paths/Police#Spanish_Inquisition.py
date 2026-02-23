@@ -1,0 +1,1 @@
+[["Police", "19th_century", "Spanish_Inquisition"], ["Police", "Bosnia_and_Herzegovina", "Spanish_Inquisition"], ["Police", "Republic_of_Macedonia", "Spanish_Inquisition"]]

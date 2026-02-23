@@ -1,0 +1,1 @@
+[["Mozilla_Firefox", "Europe", "18th_century", "Edward_Jenner", "Common_Cuckoo", "Dunnock"], ["Mozilla_Firefox", "Windows_Vista", "Virus", "Edward_Jenner", "Common_Cuckoo", "Dunnock"]]

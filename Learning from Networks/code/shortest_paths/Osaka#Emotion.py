@@ -1,0 +1,1 @@
+[["Osaka", "China", "Human", "Emotion"], ["Osaka", "Philippines", "Human", "Emotion"], ["Osaka", "Flower", "Love", "Emotion"], ["Osaka", "Melbourne", "Fashion", "Emotion"], ["Osaka", "Milan", "Fashion", "Emotion"]]

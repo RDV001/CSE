@@ -1,0 +1,1 @@
+[["Basketball", "Argentina", "Cyprus"], ["Basketball", "Germany", "Cyprus"], ["Basketball", "Greece", "Cyprus"], ["Basketball", "Latvia", "Cyprus"]]

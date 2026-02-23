@@ -1,0 +1,1 @@
+[["Osama_bin_Laden", "British_House_of_Commons", "British_monarchy", "Henry_IV_of_England"], ["Osama_bin_Laden", "British_House_of_Commons", "Edward_III_of_England", "Henry_IV_of_England"], ["Osama_bin_Laden", "British_House_of_Commons", "Richard_II_of_England", "Henry_IV_of_England"]]

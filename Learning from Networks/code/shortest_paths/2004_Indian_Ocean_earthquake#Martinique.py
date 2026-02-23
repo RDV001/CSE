@@ -1,0 +1,1 @@
+[["2004_Indian_Ocean_earthquake", "1755_Lisbon_earthquake", "Martinique"], ["2004_Indian_Ocean_earthquake", "Natural_disaster", "Martinique"]]

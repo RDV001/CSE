@@ -1,0 +1,1 @@
+[["Renminbi", "Ultraviolet", "Jupiter", "Great_Red_Spot"]]

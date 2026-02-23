@@ -1,0 +1,1 @@
+[["Behavioral_finance", "Psychology", "19th_century", "21st_century", "Lance_Armstrong"], ["Behavioral_finance", "Psychology", "20th_century", "21st_century", "Lance_Armstrong"], ["Behavioral_finance", "Psychology", "Belgium", "Tour_de_France", "Lance_Armstrong"]]

@@ -1,0 +1,1 @@
+[["Cobalt", "Azerbaijan", "Cereal", "Health"], ["Cobalt", "Corrosion", "Ozone", "Health"], ["Cobalt", "Silver", "Ozone", "Health"], ["Cobalt", "Human", "Economics", "Health"], ["Cobalt", "People%27s_Republic_of_China", "Economics", "Health"], ["Cobalt", "Organism", "Food", "Health"], ["Cobalt", "Organism", "Lipid", "Health"], ["Cobalt", "Vitamin", "Lipid", "Health"]]

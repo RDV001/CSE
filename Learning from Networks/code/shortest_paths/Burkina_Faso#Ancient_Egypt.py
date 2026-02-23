@@ -1,0 +1,1 @@
+[["Burkina_Faso", "Copper", "Ancient_Egypt"], ["Burkina_Faso", "Cotton", "Ancient_Egypt"], ["Burkina_Faso", "Currency", "Ancient_Egypt"], ["Burkina_Faso", "Horn_of_Africa", "Ancient_Egypt"]]

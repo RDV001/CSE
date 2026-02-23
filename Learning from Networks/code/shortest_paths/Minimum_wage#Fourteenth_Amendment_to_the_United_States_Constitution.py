@@ -1,0 +1,1 @@
+[["Minimum_wage", "United_States_Congress", "Fourteenth_Amendment_to_the_United_States_Constitution"]]

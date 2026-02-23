@@ -1,0 +1,1 @@
+[["Rock_of_Gibraltar", "Europe", "Kazakhstan"]]

@@ -1,0 +1,1 @@
+[["Azerbaijan", "13th_century", "Magna_Carta"], ["Azerbaijan", "Democracy", "Magna_Carta"]]

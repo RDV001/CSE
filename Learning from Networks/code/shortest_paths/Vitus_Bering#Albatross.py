@@ -1,0 +1,1 @@
+[["Vitus_Bering", "Baltic_Sea", "Atlantic_Ocean", "Albatross"], ["Vitus_Bering", "North_America", "Atlantic_Ocean", "Albatross"], ["Vitus_Bering", "James_Cook", "Antarctica", "Albatross"], ["Vitus_Bering", "James_Cook", "Cape_Horn", "Albatross"]]

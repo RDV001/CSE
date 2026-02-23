@@ -1,0 +1,1 @@
+[["Autism", "Austria", "Number", "Pyramid"], ["Autism", "Sociology", "Organization", "Pyramid"], ["Autism", "World_War_II", "Suez_Canal", "Pyramid"]]

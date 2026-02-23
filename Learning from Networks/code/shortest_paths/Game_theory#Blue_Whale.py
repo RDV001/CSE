@@ -1,0 +1,1 @@
+[["Game_theory", "Evolution", "History_of_Earth", "Whale", "Blue_Whale"], ["Game_theory", "Evolution", "Vertebrate", "Whale", "Blue_Whale"], ["Game_theory", "Evolution", "Vestigial_structure", "Whale", "Blue_Whale"], ["Game_theory", "Go_%28board_game%29", "Taiwan", "Whale", "Blue_Whale"], ["Game_theory", "Television", "Iceland", "Whale", "Blue_Whale"]]

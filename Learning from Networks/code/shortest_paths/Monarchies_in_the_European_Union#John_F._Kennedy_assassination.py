@@ -1,0 +1,1 @@
+[["Monarchies_in_the_European_Union", "Elizabeth_II_of_the_United_Kingdom", "President_of_the_United_States", "John_F._Kennedy_assassination"], ["Monarchies_in_the_European_Union", "John_Howard", "President_of_the_United_States", "John_F._Kennedy_assassination"], ["Monarchies_in_the_European_Union", "Solomon_Islands", "John_F._Kennedy", "John_F._Kennedy_assassination"]]

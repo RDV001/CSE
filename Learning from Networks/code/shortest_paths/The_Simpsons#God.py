@@ -1,0 +1,1 @@
+[["The_Simpsons", "France", "God"], ["The_Simpsons", "Islam", "God"]]

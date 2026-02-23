@@ -1,0 +1,1 @@
+[["Poland", "Art", "Aesthetics"]]

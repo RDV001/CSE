@@ -1,0 +1,1 @@
+[["Imperative_programming", "20th_century", "18th_century", "Saint_Petersburg"], ["Imperative_programming", "20th_century", "Paris", "Saint_Petersburg"], ["Imperative_programming", "20th_century", "Russia", "Saint_Petersburg"], ["Imperative_programming", "20th_century", "Russian_Revolution_of_1917", "Saint_Petersburg"]]

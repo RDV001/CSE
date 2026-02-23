@@ -1,0 +1,1 @@
+[["Double-decker_bus", "Berlin", "Electricity", "Electric_field"], ["Double-decker_bus", "Mumbai", "Electricity", "Electric_field"], ["Double-decker_bus", "People%27s_Republic_of_China", "Semiconductor", "Electric_field"], ["Double-decker_bus", "United_Kingdom", "Electron", "Electric_field"], ["Double-decker_bus", "United_Kingdom", "James_Clerk_Maxwell", "Electric_field"]]

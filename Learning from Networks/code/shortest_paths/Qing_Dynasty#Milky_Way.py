@@ -1,0 +1,1 @@
+[["Qing_Dynasty", "Great_Wall_of_China", "Binoculars", "Milky_Way"], ["Qing_Dynasty", "Hong_Kong", "Sun", "Milky_Way"], ["Qing_Dynasty", "Silver", "Solar_System", "Milky_Way"], ["Qing_Dynasty", "Tea", "Milk", "Milky_Way"]]

@@ -1,0 +1,1 @@
+[["Owl", "Ancient_Rome", "Zeus", "Statue_of_Zeus_at_Olympia"], ["Owl", "Athena", "Zeus", "Statue_of_Zeus_at_Olympia"], ["Owl", "Greek_mythology", "Zeus", "Statue_of_Zeus_at_Olympia"], ["Owl", "Roman_mythology", "Zeus", "Statue_of_Zeus_at_Olympia"]]

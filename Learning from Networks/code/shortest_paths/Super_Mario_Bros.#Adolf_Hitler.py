@@ -1,0 +1,1 @@
+[["Super_Mario_Bros.", "Italy", "Adolf_Hitler"]]

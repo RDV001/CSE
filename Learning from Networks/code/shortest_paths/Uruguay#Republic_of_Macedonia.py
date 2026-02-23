@@ -1,0 +1,1 @@
+[["Uruguay", "Europe", "Republic_of_Macedonia"], ["Uruguay", "List_of_countries_by_system_of_government", "Republic_of_Macedonia"]]

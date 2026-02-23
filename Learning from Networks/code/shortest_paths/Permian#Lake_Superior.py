@@ -1,0 +1,1 @@
+[["Permian", "Paleontology", "Mining", "Lake_Superior"], ["Permian", "United_States", "Mining", "Lake_Superior"], ["Permian", "United_States", "Great_Lakes", "Lake_Superior"], ["Permian", "United_States", "Minnesota", "Lake_Superior"]]

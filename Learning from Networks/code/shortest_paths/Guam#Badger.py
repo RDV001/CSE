@@ -1,0 +1,1 @@
+[["Guam", "English_language", "Ireland", "Badger"], ["Guam", "Time_zone", "Ireland", "Badger"], ["Guam", "President_of_the_United_States", "Mount_Rushmore", "Badger"]]

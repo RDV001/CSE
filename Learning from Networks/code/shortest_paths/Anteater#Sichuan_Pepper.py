@@ -1,0 +1,1 @@
+[["Anteater", "Aardvark", "Fruit", "Black_pepper", "Sichuan_Pepper"], ["Anteater", "Aardvark", "Fruit", "Olive_oil", "Sichuan_Pepper"], ["Anteater", "Armadillo", "Rabbit", "Parsley", "Sichuan_Pepper"], ["Anteater", "South_America", "Potato", "Dill", "Sichuan_Pepper"]]

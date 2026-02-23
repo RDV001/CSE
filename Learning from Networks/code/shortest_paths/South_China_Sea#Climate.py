@@ -1,0 +1,1 @@
+[["South_China_Sea", "China", "Climate"], ["South_China_Sea", "Ice_age", "Climate"], ["South_China_Sea", "Malaysia", "Climate"], ["South_China_Sea", "Philippines", "Climate"], ["South_China_Sea", "Taiwan", "Climate"], ["South_China_Sea", "Thailand", "Climate"]]

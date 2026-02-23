@@ -1,0 +1,1 @@
+[["Temple_of_Artemis", "Persian_Empire", "Mathematics", "Cryptography"]]

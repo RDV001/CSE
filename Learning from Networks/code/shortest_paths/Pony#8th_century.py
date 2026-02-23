@@ -1,0 +1,1 @@
+[["Pony", "Horse", "Mongolia", "8th_century"], ["Pony", "Ireland", "19th_century", "8th_century"], ["Pony", "Ireland", "20th_century", "8th_century"], ["Pony", "Ireland", "Middle_Ages", "8th_century"], ["Pony", "Ireland", "Viking", "8th_century"]]

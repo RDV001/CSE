@@ -1,0 +1,1 @@
+[["Sultan", "Cairo", "Ancient_Egypt", "Mummy"], ["Sultan", "Egypt", "Ancient_Egypt", "Mummy"], ["Sultan", "Maldives", "Ancient_Egypt", "Mummy"], ["Sultan", "Sudan", "Ancient_Egypt", "Mummy"], ["Sultan", "Egypt", "Hatshepsut", "Mummy"], ["Sultan", "Egypt", "Ramesses_II", "Mummy"]]

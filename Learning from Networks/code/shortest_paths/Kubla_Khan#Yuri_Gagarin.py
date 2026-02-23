@@ -1,0 +1,1 @@
+[["Kubla_Khan", "Canada", "Russia", "Yuri_Gagarin"], ["Kubla_Khan", "Genghis_Khan", "Russia", "Yuri_Gagarin"], ["Kubla_Khan", "Mongol_Empire", "Russia", "Yuri_Gagarin"]]

@@ -1,0 +1,1 @@
+[["The_Cat_in_the_Hat", "Dr._Seuss", "Elephant", "Tanzania", "Mount_Kilimanjaro"], ["The_Cat_in_the_Hat", "Dr._Seuss", "United_States", "Tanzania", "Mount_Kilimanjaro"], ["The_Cat_in_the_Hat", "Latin", "United_States", "Tanzania", "Mount_Kilimanjaro"], ["The_Cat_in_the_Hat", "Latin", "English_language", "Tanzania", "Mount_Kilimanjaro"]]

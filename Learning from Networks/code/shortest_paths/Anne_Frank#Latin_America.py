@@ -1,0 +1,1 @@
+[["Anne_Frank", "Slavery", "Latin_America"], ["Anne_Frank", "United_States", "Latin_America"]]

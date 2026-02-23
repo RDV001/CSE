@@ -1,0 +1,1 @@
+[["Socrates", "Political_philosophy", "Inca_Empire"]]

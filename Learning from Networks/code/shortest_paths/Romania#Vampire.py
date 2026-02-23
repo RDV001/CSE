@@ -1,0 +1,1 @@
+[["Romania", "Ancient_Rome", "Silver", "Vampire"], ["Romania", "English_language", "Esperanto", "Vampire"], ["Romania", "United_Nations", "George_Byron%2C_6th_Baron_Byron", "Vampire"]]

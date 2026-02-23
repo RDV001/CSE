@@ -1,0 +1,1 @@
+[["Fieldfare", "Animal", "Aristotle", "Meteorology"], ["Fieldfare", "Scientific_classification", "Aristotle", "Meteorology"], ["Fieldfare", "Bird_migration", "Radar", "Meteorology"], ["Fieldfare", "Carolus_Linnaeus", "Ecology", "Meteorology"], ["Fieldfare", "Great_Britain", "Climate", "Meteorology"], ["Fieldfare", "Ireland", "Roman_Catholic_Church", "Meteorology"]]

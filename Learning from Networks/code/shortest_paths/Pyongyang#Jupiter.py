@@ -1,0 +1,1 @@
+[["Pyongyang", "City", "Mesopotamia", "Jupiter"], ["Pyongyang", "Macau", "Lisbon", "Jupiter"], ["Pyongyang", "Paris", "Lisbon", "Jupiter"], ["Pyongyang", "South_Korea", "Volcano", "Jupiter"]]

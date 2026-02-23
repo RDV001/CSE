@@ -1,0 +1,1 @@
+[["Norway", "Germany", "Nazism"], ["Norway", "World_War_I", "Nazism"], ["Norway", "World_War_II", "Nazism"]]

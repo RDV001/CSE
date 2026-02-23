@@ -1,0 +1,1 @@
+[["Thomas_Gainsborough", "Bath%2C_Somerset", "Mathematics", "Euclidean_geometry"]]

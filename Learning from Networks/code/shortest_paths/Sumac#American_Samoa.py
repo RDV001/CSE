@@ -1,0 +1,1 @@
+[["Sumac", "Africa", "United_States", "American_Samoa"], ["Sumac", "Tobacco", "United_States", "American_Samoa"]]

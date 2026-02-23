@@ -1,0 +1,1 @@
+[["Southern_Africa", "Politics", "Corporation"]]

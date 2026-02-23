@@ -1,0 +1,1 @@
+[["Onion_dome", "Architecture", "Turkey", "Cameroon"], ["Onion_dome", "Moscow", "Turkey", "Cameroon"], ["Onion_dome", "Jesus", "English_language", "Cameroon"], ["Onion_dome", "Onion", "English_language", "Cameroon"], ["Onion_dome", "Jesus", "Saudi_Arabia", "Cameroon"], ["Onion_dome", "Moscow", "Armenia", "Cameroon"], ["Onion_dome", "Onion", "United_States", "Cameroon"]]

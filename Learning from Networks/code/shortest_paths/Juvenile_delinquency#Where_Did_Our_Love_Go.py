@@ -1,0 +1,1 @@
+[["Juvenile_delinquency", "United_States", "Detroit%2C_Michigan", "The_Temptations", "The_Supremes", "Where_Did_Our_Love_Go"], ["Juvenile_delinquency", "United_States", "Jazz", "Drum_and_bass", "The_Supremes", "Where_Did_Our_Love_Go"]]

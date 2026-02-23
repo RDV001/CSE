@@ -1,0 +1,1 @@
+[["St_Paul%27s_Cathedral", "16th_century", "Portugal"], ["St_Paul%27s_Cathedral", "17th_century", "Portugal"], ["St_Paul%27s_Cathedral", "Arthur_Wellesley%2C_1st_Duke_of_Wellington", "Portugal"], ["St_Paul%27s_Cathedral", "Charles_II_of_England", "Portugal"], ["St_Paul%27s_Cathedral", "Viking", "Portugal"], ["St_Paul%27s_Cathedral", "Winston_Churchill", "Portugal"]]

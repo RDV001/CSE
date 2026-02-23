@@ -1,0 +1,1 @@
+[["Northwest_Africa", "Asia", "Bible", "Pentateuch"]]

@@ -1,0 +1,1 @@
+[["Akbar", "Afghanistan", "Domestic_goat", "Cheese"], ["Akbar", "Alexander_the_Great", "Ancient_Greece", "Cheese"], ["Akbar", "Persian_Empire", "Ancient_Greece", "Cheese"]]

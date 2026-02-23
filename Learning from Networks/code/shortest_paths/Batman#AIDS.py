@@ -1,0 +1,1 @@
+[["Batman", "Earthquake", "Zambia", "AIDS"], ["Batman", "Superman", "Human", "AIDS"]]

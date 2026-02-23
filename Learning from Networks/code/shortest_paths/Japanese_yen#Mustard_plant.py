@@ -1,0 +1,1 @@
+[["Japanese_yen", "Copper", "Sumer", "Mustard_plant"], ["Japanese_yen", "Petroleum", "Biodiesel", "Mustard_plant"], ["Japanese_yen", "United_Kingdom", "Bangladesh", "Mustard_plant"]]

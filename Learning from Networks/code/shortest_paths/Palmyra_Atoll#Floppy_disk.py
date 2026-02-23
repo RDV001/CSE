@@ -1,0 +1,1 @@
+[["Palmyra_Atoll", "California", "Computer", "Floppy_disk"], ["Palmyra_Atoll", "United_Kingdom", "Computer", "Floppy_disk"], ["Palmyra_Atoll", "United_States", "Computer", "Floppy_disk"]]

@@ -1,0 +1,1 @@
+[["Zinc_chloride", "Hydrochloric_acid", "Mineral"]]

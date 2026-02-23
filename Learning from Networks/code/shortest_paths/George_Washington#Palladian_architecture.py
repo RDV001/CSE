@@ -1,0 +1,1 @@
+[["George_Washington", "Thomas_Jefferson", "Palladian_architecture"]]

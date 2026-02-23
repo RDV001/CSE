@@ -1,0 +1,1 @@
+[["George_IV_of_the_United_Kingdom", "Edinburgh", "Temperate"], ["George_IV_of_the_United_Kingdom", "London", "Temperate"]]

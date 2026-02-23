@@ -1,0 +1,1 @@
+[["Evolutionarily_stable_strategy", "Biology", "19th_century", "Marie_Curie", "Curium"], ["Evolutionarily_stable_strategy", "Biology", "Carbon", "List_of_elements_by_name", "Curium"], ["Evolutionarily_stable_strategy", "Biology", "Carbon", "Periodic_table", "Curium"]]

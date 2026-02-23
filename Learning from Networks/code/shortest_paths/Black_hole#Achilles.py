@@ -1,0 +1,1 @@
+[["Black_hole", "Galaxy", "Greek_mythology", "Achilles"], ["Black_hole", "Milky_Way", "Greek_mythology", "Achilles"], ["Black_hole", "Star", "Greek_mythology", "Achilles"], ["Black_hole", "Milky_Way", "Heracles", "Achilles"]]

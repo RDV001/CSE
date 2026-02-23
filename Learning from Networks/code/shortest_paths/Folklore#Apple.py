@@ -1,0 +1,1 @@
+[["Folklore", "Europe", "Jersey", "Apple"], ["Folklore", "Game", "Toy", "Apple"], ["Folklore", "Mathematics", "Mesopotamia", "Apple"]]

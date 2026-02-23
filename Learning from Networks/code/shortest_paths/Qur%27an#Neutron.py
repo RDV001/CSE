@@ -1,0 +1,1 @@
+[["Qur%27an", "Afghanistan", "Copper", "Neutron"], ["Qur%27an", "Afghanistan", "Zinc", "Neutron"], ["Qur%27an", "Germany", "Nuclear_power", "Neutron"], ["Qur%27an", "Russia", "Nuclear_weapon", "Neutron"], ["Qur%27an", "Timur", "Iron", "Neutron"]]

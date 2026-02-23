@@ -1,0 +1,1 @@
+[["Jacques_Cartier", "Asia", "Sun", "Vitamin_D"], ["Jacques_Cartier", "Gold", "Sun", "Vitamin_D"], ["Jacques_Cartier", "Scurvy", "Vegetable", "Vitamin_D"]]

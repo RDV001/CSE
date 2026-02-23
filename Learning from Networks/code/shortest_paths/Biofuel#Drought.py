@@ -1,0 +1,1 @@
+[["Biofuel", "Global_warming", "Drought"], ["Biofuel", "Maize", "Drought"], ["Biofuel", "Water_purification", "Drought"]]

@@ -1,0 +1,1 @@
+[["6-2-0", "United_States", "China", "Calligraphy", "Windows_Vista"], ["6-2-0", "United_States", "Computer", "Microsoft_Windows", "Windows_Vista"]]

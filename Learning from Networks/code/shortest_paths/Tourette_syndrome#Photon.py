@@ -1,0 +1,1 @@
+[["Tourette_syndrome", "Attention-deficit_hyperactivity_disorder", "Albert_Einstein", "Photon"], ["Tourette_syndrome", "Brain", "Matter", "Photon"], ["Tourette_syndrome", "Huntington%27s_disease", "Drosophila_melanogaster", "Photon"], ["Tourette_syndrome", "Sigmund_Freud", "Isaac_Newton", "Photon"]]

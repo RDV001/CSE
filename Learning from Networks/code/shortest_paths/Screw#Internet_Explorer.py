@@ -1,0 +1,1 @@
+[["Screw", "Macintosh", "Spyware", "Internet_Explorer"], ["Screw", "Macintosh", "Windows_XP", "Internet_Explorer"]]

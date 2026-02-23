@@ -1,0 +1,1 @@
+[["Ice_hockey", "United_States", "Space_Shuttle_Columbia"]]

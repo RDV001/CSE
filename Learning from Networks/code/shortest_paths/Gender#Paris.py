@@ -1,0 +1,1 @@
+[["Gender", "Charles_Dickens", "Paris"], ["Gender", "French_language", "Paris"], ["Gender", "Henry_James", "Paris"], ["Gender", "Portuguese_language", "Paris"]]

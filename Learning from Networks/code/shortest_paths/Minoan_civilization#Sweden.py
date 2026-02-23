@@ -1,0 +1,1 @@
+[["Minoan_civilization", "Atlantis", "Sweden"], ["Minoan_civilization", "Cattle", "Sweden"], ["Minoan_civilization", "Clay", "Sweden"], ["Minoan_civilization", "Greece", "Sweden"]]

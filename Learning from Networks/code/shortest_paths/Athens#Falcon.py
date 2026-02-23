@@ -1,0 +1,1 @@
+[["Athens", "Athena", "Owl", "Falcon"], ["Athens", "Europe", "Owl", "Falcon"], ["Athens", "Greece", "Owl", "Falcon"], ["Athens", "Europe", "Carnivore", "Falcon"], ["Athens", "Europe", "Hawk", "Falcon"], ["Athens", "Slovenia", "Hawk", "Falcon"]]

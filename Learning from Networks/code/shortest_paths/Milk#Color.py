@@ -1,0 +1,1 @@
+[["Milk", "Calcium", "Color"], ["Milk", "Glass", "Color"], ["Milk", "Iodine", "Color"], ["Milk", "Magnesium", "Color"], ["Milk", "Potassium", "Color"], ["Milk", "Selenium", "Color"], ["Milk", "Ultraviolet", "Color"], ["Milk", "Water", "Color"]]

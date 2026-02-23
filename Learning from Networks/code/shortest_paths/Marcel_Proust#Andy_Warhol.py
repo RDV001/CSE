@@ -1,0 +1,1 @@
+[["Marcel_Proust", "Fiction", "Art", "Andy_Warhol"], ["Marcel_Proust", "Paris", "Mona_Lisa", "Andy_Warhol"], ["Marcel_Proust", "Paris", "Salvador_Dal%C3%AD", "Andy_Warhol"], ["Marcel_Proust", "Plato", "Aesthetics", "Andy_Warhol"]]

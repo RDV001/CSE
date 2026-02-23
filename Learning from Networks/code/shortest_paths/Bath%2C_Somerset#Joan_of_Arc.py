@@ -1,0 +1,1 @@
+[["Bath%2C_Somerset", "Hungary", "John_von_Neumann", "Joan_of_Arc"], ["Bath%2C_Somerset", "Plymouth", "Hundred_Years%27_War", "Joan_of_Arc"], ["Bath%2C_Somerset", "Rome", "15th_century", "Joan_of_Arc"]]

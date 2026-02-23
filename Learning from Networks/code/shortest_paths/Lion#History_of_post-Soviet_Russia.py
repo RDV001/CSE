@@ -1,0 +1,1 @@
+[["Lion", "10th_century", "Khazars", "History_of_post-Soviet_Russia"], ["Lion", "20th_century", "Russian_Revolution_of_1917", "History_of_post-Soviet_Russia"]]

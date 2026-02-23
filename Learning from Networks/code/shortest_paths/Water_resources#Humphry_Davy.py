@@ -1,0 +1,1 @@
+[["Water_resources", "Climate_change", "Carbon_dioxide", "Humphry_Davy"], ["Water_resources", "Petroleum", "Carbon_dioxide", "Humphry_Davy"], ["Water_resources", "Water", "Carbon_dioxide", "Humphry_Davy"], ["Water_resources", "Drinking_water", "Potassium", "Humphry_Davy"], ["Water_resources", "Drinking_water", "Sodium", "Humphry_Davy"]]

@@ -1,0 +1,1 @@
+[["English_language", "Boston%2C_Massachusetts", "Ice_hockey"], ["English_language", "Canada", "Ice_hockey"], ["English_language", "European_Union", "Ice_hockey"], ["English_language", "South_Korea", "Ice_hockey"], ["English_language", "United_States", "Ice_hockey"], ["English_language", "Wales", "Ice_hockey"]]

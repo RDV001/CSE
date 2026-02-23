@@ -1,0 +1,1 @@
+[["Banana", "Africa", "Carnivore", "Tiger"], ["Banana", "Africa", "Cheetah", "Tiger"], ["Banana", "Africa", "Hyena", "Tiger"], ["Banana", "Africa", "Lion", "Tiger"], ["Banana", "Alexander_the_Great", "Lion", "Tiger"], ["Banana", "Singapore", "Lion", "Tiger"], ["Banana", "Tree", "Durian", "Tiger"]]

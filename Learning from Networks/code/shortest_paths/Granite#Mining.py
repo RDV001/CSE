@@ -1,0 +1,1 @@
+[["Granite", "Ancient_Egypt", "Mining"], ["Granite", "Brazil", "Mining"], ["Granite", "Namibia", "Mining"], ["Granite", "Quartz", "Mining"], ["Granite", "Zimbabwe", "Mining"]]

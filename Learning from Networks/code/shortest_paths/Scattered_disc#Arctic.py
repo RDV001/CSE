@@ -1,0 +1,1 @@
+[["Scattered_disc", "90377_Sedna", "Arctic_Ocean", "Arctic"], ["Scattered_disc", "Solar_System", "Carbon", "Arctic"], ["Scattered_disc", "Sun", "Carbon", "Arctic"], ["Scattered_disc", "Solar_System", "Soviet_Union", "Arctic"], ["Scattered_disc", "Sun", "Solar_eclipse", "Arctic"]]

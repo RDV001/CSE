@@ -1,0 +1,1 @@
+[["Behavioral_finance", "Adam_Smith", "Europe", "Armenia"], ["Behavioral_finance", "John_Maynard_Keynes", "Germany", "Armenia"], ["Behavioral_finance", "Psychology", "Germany", "Armenia"]]

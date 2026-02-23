@@ -1,0 +1,1 @@
+[["Friedrich_Nietzsche", "Fascism", "Adolf_Hitler"], ["Friedrich_Nietzsche", "Germany", "Adolf_Hitler"], ["Friedrich_Nietzsche", "Italy", "Adolf_Hitler"], ["Friedrich_Nietzsche", "Max_Weber", "Adolf_Hitler"], ["Friedrich_Nietzsche", "Nazism", "Adolf_Hitler"], ["Friedrich_Nietzsche", "Richard_Wagner", "Adolf_Hitler"]]

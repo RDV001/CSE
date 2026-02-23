@@ -1,0 +1,1 @@
+[["Edward_Jenner", "England", "Tennis", "Grand_Slam_%28tennis%29", "Tiger_Woods"], ["Edward_Jenner", "England", "United_Kingdom", "Grand_Slam_%28tennis%29", "Tiger_Woods"], ["Edward_Jenner", "Tuberculosis", "New_Zealand", "All_Blacks", "Tiger_Woods"]]

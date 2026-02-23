@@ -1,0 +1,1 @@
+[["Kitsch", "Russia", "Battle_of_Stalingrad"]]

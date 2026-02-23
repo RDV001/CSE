@@ -1,0 +1,1 @@
+[["Hannibal_Barca", "Ancient_Rome", "England", "Stephen_Hawking"], ["Hannibal_Barca", "Oligarchy", "England", "Stephen_Hawking"]]

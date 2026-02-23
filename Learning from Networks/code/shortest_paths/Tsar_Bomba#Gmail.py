@@ -1,0 +1,1 @@
+[["Tsar_Bomba", "Russian_language", "Arabic_language", "World_Wide_Web", "Gmail"], ["Tsar_Bomba", "Russian_language", "Mass_media", "World_Wide_Web", "Gmail"], ["Tsar_Bomba", "Soviet_Union", "Federal_Bureau_of_Investigation", "World_Wide_Web", "Gmail"]]

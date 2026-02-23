@@ -1,0 +1,1 @@
+[["Black_hole", "Earth", "Human", "Dove", "Wood_Pigeon"], ["Black_hole", "Milky_Way", "Human", "Dove", "Wood_Pigeon"], ["Black_hole", "Ultraviolet", "Bird", "Dove", "Wood_Pigeon"], ["Black_hole", "Ultraviolet", "Bird", "Pigeon", "Wood_Pigeon"], ["Black_hole", "Ultraviolet", "Bird", "Rock_Pigeon", "Wood_Pigeon"]]

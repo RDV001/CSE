@@ -1,0 +1,1 @@
+[["Space_Shuttle_Columbia", "Earth", "Sun"], ["Space_Shuttle_Columbia", "Hubble_Space_Telescope", "Sun"], ["Space_Shuttle_Columbia", "Plasma_%28physics%29", "Sun"]]

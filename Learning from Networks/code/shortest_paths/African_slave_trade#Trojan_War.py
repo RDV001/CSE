@@ -1,0 +1,1 @@
+[["African_slave_trade", "Middle_East", "Ancient_history", "Trojan_War"], ["African_slave_trade", "Mining", "Cyprus", "Trojan_War"], ["African_slave_trade", "Slavery", "Homer", "Trojan_War"], ["African_slave_trade", "Sugar", "Crusades", "Trojan_War"]]

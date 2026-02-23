@@ -1,0 +1,1 @@
+[["South_Ossetia", "Bulgaria", "Madagascar"], ["South_Ossetia", "Currency", "Madagascar"], ["South_Ossetia", "Georgia_%28country%29", "Madagascar"], ["South_Ossetia", "List_of_countries_by_system_of_government", "Madagascar"]]

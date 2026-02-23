@@ -1,0 +1,1 @@
+[["Georgia_%28country%29", "7th_century", "Taoism"], ["Georgia_%28country%29", "Asia", "Taoism"], ["Georgia_%28country%29", "Japan", "Taoism"], ["Georgia_%28country%29", "People%27s_Republic_of_China", "Taoism"], ["Georgia_%28country%29", "Republic_of_China", "Taoism"], ["Georgia_%28country%29", "Singapore", "Taoism"], ["Georgia_%28country%29", "Vietnam", "Taoism"]]

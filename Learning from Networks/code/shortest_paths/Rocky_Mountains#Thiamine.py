@@ -1,0 +1,1 @@
+[["Rocky_Mountains", "Agriculture", "Cereal", "Thiamine"], ["Rocky_Mountains", "Agriculture", "Milk", "Thiamine"], ["Rocky_Mountains", "Agriculture", "Nutrition", "Thiamine"]]

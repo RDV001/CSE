@@ -1,0 +1,1 @@
+[["Manila", "English_language", "Puerto_Rico", "Oligocene"], ["Manila", "Philippines", "Puerto_Rico", "Oligocene"], ["Manila", "Spain", "Puerto_Rico", "Oligocene"], ["Manila", "United_States", "Puerto_Rico", "Oligocene"], ["Manila", "France", "Rhine", "Oligocene"], ["Manila", "India", "Mammal", "Oligocene"]]

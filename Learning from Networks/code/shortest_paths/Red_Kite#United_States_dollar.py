@@ -1,0 +1,1 @@
+[["Red_Kite", "United_Kingdom", "United_States_dollar"]]

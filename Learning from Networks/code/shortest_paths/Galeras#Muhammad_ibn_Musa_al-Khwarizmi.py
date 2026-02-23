@@ -1,0 +1,1 @@
+[["Galeras", "United_Nations", "Arabic_language", "Algebra", "Muhammad_ibn_Musa_al-Khwarizmi"], ["Galeras", "United_Nations", "Education", "Algebra", "Muhammad_ibn_Musa_al-Khwarizmi"], ["Galeras", "United_Nations", "Iran", "Algebra", "Muhammad_ibn_Musa_al-Khwarizmi"]]

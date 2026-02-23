@@ -1,0 +1,1 @@
+[["Kazakhstan", "Energy", "Tropical_cyclone", "2005_Atlantic_hurricane_season"], ["Kazakhstan", "Natural_gas", "Tropical_cyclone", "2005_Atlantic_hurricane_season"], ["Kazakhstan", "Natural_gas", "Hurricane_Katrina", "2005_Atlantic_hurricane_season"]]

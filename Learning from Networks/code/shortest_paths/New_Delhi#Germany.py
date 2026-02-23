@@ -1,0 +1,1 @@
+[["New_Delhi", "Afghanistan", "Germany"], ["New_Delhi", "Capital", "Germany"], ["New_Delhi", "Chicago", "Germany"], ["New_Delhi", "Serbia", "Germany"], ["New_Delhi", "United_Kingdom", "Germany"]]

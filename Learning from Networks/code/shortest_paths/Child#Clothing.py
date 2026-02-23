@@ -1,0 +1,1 @@
+[["Child", "Education", "Human", "Clothing"], ["Child", "Language", "Human", "Clothing"], ["Child", "Medicine", "Human", "Clothing"], ["Child", "Law", "Property", "Clothing"]]

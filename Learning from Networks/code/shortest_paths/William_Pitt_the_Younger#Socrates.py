@@ -1,0 +1,1 @@
+[["William_Pitt_the_Younger", "Austria", "Karl_Popper", "Socrates"], ["William_Pitt_the_Younger", "British_Empire", "Greece", "Socrates"], ["William_Pitt_the_Younger", "Ottoman_Empire", "Greece", "Socrates"]]

@@ -1,0 +1,1 @@
+[["Able_Archer_83", "Black_Sea", "Istanbul", "Almaty"], ["Able_Archer_83", "Mikhail_Gorbachev", "Kazakhstan", "Almaty"], ["Able_Archer_83", "NATO", "Kazakhstan", "Almaty"]]

@@ -1,0 +1,1 @@
+[["Apatosaurus", "Dinosaur", "Cretaceous", "Aphid"], ["Apatosaurus", "Diplodocus", "Cretaceous", "Aphid"], ["Apatosaurus", "Jurassic", "Cretaceous", "Aphid"], ["Apatosaurus", "Saurischia", "Cretaceous", "Aphid"], ["Apatosaurus", "Sauropodomorpha", "Cretaceous", "Aphid"], ["Apatosaurus", "United_States", "Maize", "Aphid"]]

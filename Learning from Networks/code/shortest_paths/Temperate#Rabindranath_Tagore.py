@@ -1,0 +1,1 @@
+[["Temperate", "North_America", "Asia", "Rabindranath_Tagore"], ["Temperate", "United_Kingdom", "Bangladesh", "Rabindranath_Tagore"], ["Temperate", "United_Kingdom", "India", "Rabindranath_Tagore"]]

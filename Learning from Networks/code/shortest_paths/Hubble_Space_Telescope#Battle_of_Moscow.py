@@ -1,0 +1,1 @@
+[["Hubble_Space_Telescope", "World_War_II", "Battle_of_Moscow"]]

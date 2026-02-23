@@ -1,0 +1,1 @@
+[["Nintendo", "Asia", "New_Delhi"]]

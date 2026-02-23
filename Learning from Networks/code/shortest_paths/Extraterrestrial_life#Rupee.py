@@ -1,0 +1,1 @@
+[["Extraterrestrial_life", "Islam", "Taj_Mahal", "Rupee"], ["Extraterrestrial_life", "Ptolemy", "Sri_Lanka", "Rupee"], ["Extraterrestrial_life", "Sanskrit", "Sri_Lanka", "Rupee"]]

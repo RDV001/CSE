@@ -1,0 +1,1 @@
+[["Drinking_water", "Andorra", "Lead", "Thallium"], ["Drinking_water", "Potassium", "List_of_elements_by_name", "Thallium"], ["Drinking_water", "Sodium", "List_of_elements_by_name", "Thallium"]]

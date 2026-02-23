@@ -1,0 +1,1 @@
+[["Abbey", "10th_century", "Sweden", "Bj%C3%B6rn_Borg"], ["Abbey", "Cattle", "Sweden", "Bj%C3%B6rn_Borg"], ["Abbey", "Egypt", "Tennis", "Bj%C3%B6rn_Borg"], ["Abbey", "England", "Tennis", "Bj%C3%B6rn_Borg"], ["Abbey", "England", "Milan", "Bj%C3%B6rn_Borg"]]

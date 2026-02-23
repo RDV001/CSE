@@ -1,0 +1,1 @@
+[["Guam", "English_language", "Boston%2C_Massachusetts", "Cheers", "M%2AA%2AS%2AH_%28TV_series%29"], ["Guam", "Puerto_Rico", "Boston%2C_Massachusetts", "Cheers", "M%2AA%2AS%2AH_%28TV_series%29"], ["Guam", "United_States", "Boston%2C_Massachusetts", "Cheers", "M%2AA%2AS%2AH_%28TV_series%29"], ["Guam", "United_States", "Ice_hockey", "Cheers", "M%2AA%2AS%2AH_%28TV_series%29"]]

@@ -1,0 +1,1 @@
+[["Myxobolus_cerebralis", "Germany", "Natural_gas"], ["Myxobolus_cerebralis", "Ireland", "Natural_gas"], ["Myxobolus_cerebralis", "Russia", "Natural_gas"], ["Myxobolus_cerebralis", "United_States", "Natural_gas"]]

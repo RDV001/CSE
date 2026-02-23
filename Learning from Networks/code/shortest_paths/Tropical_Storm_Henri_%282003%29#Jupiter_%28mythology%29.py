@@ -1,0 +1,1 @@
+[["Tropical_Storm_Henri_%282003%29", "Africa", "Ancient_Rome", "Jupiter_%28mythology%29"], ["Tropical_Storm_Henri_%282003%29", "Atlantic_Ocean", "Greek_mythology", "Jupiter_%28mythology%29"]]

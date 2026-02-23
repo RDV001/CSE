@@ -1,0 +1,1 @@
+[["Mount_Nyiragongo", "Africa", "Pope", "Pope_Benedict_XVI"], ["Mount_Nyiragongo", "Natural_disaster", "Munich", "Pope_Benedict_XVI"]]

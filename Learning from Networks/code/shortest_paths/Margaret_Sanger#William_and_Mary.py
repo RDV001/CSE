@@ -1,0 +1,1 @@
+[["Margaret_Sanger", "Europe", "Scotland", "William_and_Mary"], ["Margaret_Sanger", "Japan", "Parliament_of_the_United_Kingdom", "William_and_Mary"]]

@@ -1,0 +1,1 @@
+[["Switzerland", "Energy", "Motion_%28physics%29"]]

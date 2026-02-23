@@ -1,0 +1,1 @@
+[["John_W._Campbell", "Nobel_Peace_Prize", "Kenya", "Fossil"], ["John_W._Campbell", "Nobel_Peace_Prize", "South_Africa", "Fossil"], ["John_W._Campbell", "United_Kingdom", "Charles_Darwin", "Fossil"]]

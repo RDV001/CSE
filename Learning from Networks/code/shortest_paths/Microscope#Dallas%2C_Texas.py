@@ -1,0 +1,1 @@
+[["Microscope", "Science", "United_States", "Dallas%2C_Texas"]]

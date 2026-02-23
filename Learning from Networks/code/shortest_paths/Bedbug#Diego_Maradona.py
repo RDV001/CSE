@@ -1,0 +1,1 @@
+[["Bedbug", "South_America", "Argentina", "Diego_Maradona"], ["Bedbug", "Tropics", "Argentina", "Diego_Maradona"], ["Bedbug", "South_America", "Buenos_Aires", "Diego_Maradona"]]

@@ -1,0 +1,1 @@
+[["Golden_Gate_Highlands_National_Park", "Johannesburg", "United_States", "Bald_Eagle", "Osprey"], ["Golden_Gate_Highlands_National_Park", "Lesotho", "United_States", "Bald_Eagle", "Osprey"], ["Golden_Gate_Highlands_National_Park", "Mongoose", "United_States", "Bald_Eagle", "Osprey"]]

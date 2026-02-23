@@ -1,0 +1,1 @@
+[["Stroke", "Brain", "Algorithm", "Functional_programming"]]

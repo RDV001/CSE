@@ -1,0 +1,1 @@
+[["Thulium", "Mineral", "Mining", "Lake_Superior"]]

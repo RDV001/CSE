@@ -1,0 +1,1 @@
+[["Epic_of_Gilgamesh", "Mesopotamia", "Apple", "Fatty_acid", "Corn_oil"], ["Epic_of_Gilgamesh", "Mesopotamia", "Wine", "Fatty_acid", "Corn_oil"], ["Epic_of_Gilgamesh", "Sumer", "Lettuce", "Fatty_acid", "Corn_oil"]]

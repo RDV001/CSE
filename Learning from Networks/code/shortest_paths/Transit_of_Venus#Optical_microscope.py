@@ -1,0 +1,1 @@
+[["Transit_of_Venus", "Binoculars", "Symmetry", "Optical_microscope"]]

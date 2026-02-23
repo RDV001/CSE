@@ -1,0 +1,1 @@
+[["Food", "Law", "Human_rights", "Human_dignity"], ["Food", "United_Nations", "Human_rights", "Human_dignity"], ["Food", "War", "Human_rights", "Human_dignity"]]

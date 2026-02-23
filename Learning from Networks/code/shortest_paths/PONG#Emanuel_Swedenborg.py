@@ -1,0 +1,1 @@
+[["PONG", "Europe", "18th_century", "Emanuel_Swedenborg"], ["PONG", "Europe", "Sweden", "Emanuel_Swedenborg"], ["PONG", "Television", "Sweden", "Emanuel_Swedenborg"], ["PONG", "United_States", "Sweden", "Emanuel_Swedenborg"]]

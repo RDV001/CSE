@@ -1,0 +1,1 @@
+[["Granite", "Crystal", "Diamond"], ["Granite", "Mohs_scale_of_mineral_hardness", "Diamond"], ["Granite", "Namibia", "Diamond"], ["Granite", "South_Africa", "Diamond"]]

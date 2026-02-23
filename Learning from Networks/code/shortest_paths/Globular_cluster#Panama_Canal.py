@@ -1,0 +1,1 @@
+[["Globular_cluster", "Helium", "Saturn_V", "Panama_Canal"], ["Globular_cluster", "Sun", "South_America", "Panama_Canal"]]

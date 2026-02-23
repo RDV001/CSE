@@ -1,0 +1,1 @@
+[["Fiction", "Human", "World_War_II", "Battle_of_Moscow"], ["Fiction", "Mythology", "World_War_II", "Battle_of_Moscow"], ["Fiction", "Propaganda", "World_War_II", "Battle_of_Moscow"], ["Fiction", "Propaganda", "Adolf_Hitler", "Battle_of_Moscow"]]

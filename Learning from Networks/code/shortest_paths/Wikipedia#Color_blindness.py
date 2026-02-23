@@ -1,0 +1,1 @@
+[["Wikipedia", "English_language", "Federated_States_of_Micronesia", "Color_blindness"], ["Wikipedia", "United_States_dollar", "Federated_States_of_Micronesia", "Color_blindness"]]

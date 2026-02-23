@@ -1,0 +1,1 @@
+[["Anglicanism", "Pope_John_Paul_II", "Mosque", "Jyllands-Posten_Muhammad_cartoons_controversy"]]

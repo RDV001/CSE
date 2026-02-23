@@ -1,0 +1,1 @@
+[["Continental_crust", "Atlantic_Ocean", "Belgium", "Habsburg_Spain", "War_of_the_League_of_Cambrai"], ["Continental_crust", "Atlantic_Ocean", "Spain", "Habsburg_Spain", "War_of_the_League_of_Cambrai"], ["Continental_crust", "Granite", "Spain", "Habsburg_Spain", "War_of_the_League_of_Cambrai"]]

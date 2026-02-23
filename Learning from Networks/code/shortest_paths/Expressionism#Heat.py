@@ -1,0 +1,1 @@
+[["Expressionism", "Art", "Albert_Einstein", "Heat"], ["Expressionism", "Germany", "Albert_Einstein", "Heat"], ["Expressionism", "Berlin", "Electricity", "Heat"], ["Expressionism", "Germany", "Nuclear_power", "Heat"], ["Expressionism", "Music", "Physics", "Heat"]]

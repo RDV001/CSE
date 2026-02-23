@@ -1,0 +1,1 @@
+[["Mediterranean_Sea", "Ancient_Rome", "Western_Roman_Empire"], ["Mediterranean_Sea", "Bosnia_and_Herzegovina", "Western_Roman_Empire"], ["Mediterranean_Sea", "France", "Western_Roman_Empire"], ["Mediterranean_Sea", "Latin", "Western_Roman_Empire"], ["Mediterranean_Sea", "Serbia", "Western_Roman_Empire"]]

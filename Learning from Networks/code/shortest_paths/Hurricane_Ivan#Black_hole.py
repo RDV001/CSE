@@ -1,0 +1,1 @@
+[["Hurricane_Ivan", "South_America", "21st_century", "Black_hole"], ["Hurricane_Ivan", "Tropical_cyclone", "Gravitation", "Black_hole"]]

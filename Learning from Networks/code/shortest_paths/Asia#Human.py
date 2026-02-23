@@ -1,0 +1,1 @@
+[["Asia", "Africa", "Human"], ["Asia", "Bah%C3%A1%27%C3%AD_Faith", "Human"], ["Asia", "China", "Human"], ["Asia", "Communism", "Human"], ["Asia", "Earth", "Human"], ["Asia", "Philippines", "Human"], ["Asia", "Toy", "Human"]]

@@ -1,0 +1,1 @@
+[["Charles_Darwin", "Anthropology", "Civilization", "Olmec"], ["Charles_Darwin", "Argentina", "Mexico", "Olmec"], ["Charles_Darwin", "South_America", "Mexico", "Olmec"], ["Charles_Darwin", "Mathematics", "Number", "Olmec"], ["Charles_Darwin", "Slavery", "Maya_civilization", "Olmec"]]

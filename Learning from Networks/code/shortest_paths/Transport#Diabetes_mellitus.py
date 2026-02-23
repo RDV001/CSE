@@ -1,0 +1,1 @@
+[["Transport", "Carbon_dioxide", "Coffee", "Diabetes_mellitus"], ["Transport", "Paris", "Ernest_Hemingway", "Diabetes_mellitus"], ["Transport", "Tree", "Almond", "Diabetes_mellitus"]]

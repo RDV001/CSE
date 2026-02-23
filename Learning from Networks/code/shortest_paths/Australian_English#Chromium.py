@@ -1,0 +1,1 @@
+[["Australian_English", "Brisbane", "Coal", "Chromium"], ["Australian_English", "United_States", "Coal", "Chromium"], ["Australian_English", "United_States", "Steel", "Chromium"]]

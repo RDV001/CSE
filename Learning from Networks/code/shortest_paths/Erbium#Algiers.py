@@ -1,0 +1,1 @@
+[["Erbium", "20th_century", "Africa", "Algiers"], ["Erbium", "20th_century", "Paris", "Algiers"], ["Erbium", "Neutron", "Paris", "Algiers"]]

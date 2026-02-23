@@ -1,0 +1,1 @@
+[["Ghana", "Atlantic_Ocean", "Aberdeen", "Garden"], ["Ghana", "Atlantic_Ocean", "Paris", "Garden"], ["Ghana", "Football_%28soccer%29", "Paris", "Garden"], ["Ghana", "England", "Tourism", "Garden"], ["Ghana", "Kofi_Annan", "Tourism", "Garden"], ["Ghana", "Oregon", "Tourism", "Garden"], ["Ghana", "Portugal", "Tourism", "Garden"], ["Ghana", "United_States", "Tourism", "Garden"]]

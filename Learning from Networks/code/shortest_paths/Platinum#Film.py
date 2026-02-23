@@ -1,0 +1,1 @@
+[["Platinum", "United_States", "Film"]]

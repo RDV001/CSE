@@ -1,0 +1,1 @@
+[["Hello_Garci_scandal", "Philippines", "Capital", "Buenos_Aires"], ["Hello_Garci_scandal", "Philippines", "Manila", "Buenos_Aires"]]

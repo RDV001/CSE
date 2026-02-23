@@ -1,0 +1,1 @@
+[["Space_Shuttle_Columbia_disaster", "Israel", "Byzantine_Empire", "Roman_Greece"], ["Space_Shuttle_Columbia_disaster", "Russia", "Byzantine_Empire", "Roman_Greece"], ["Space_Shuttle_Columbia_disaster", "Israel", "Greece", "Roman_Greece"], ["Space_Shuttle_Columbia_disaster", "Israel", "Hellenistic_Greece", "Roman_Greece"]]

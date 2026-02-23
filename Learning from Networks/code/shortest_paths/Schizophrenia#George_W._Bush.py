@@ -1,0 +1,1 @@
+[["Schizophrenia", "Japan", "George_W._Bush"], ["Schizophrenia", "People%27s_Republic_of_China", "George_W._Bush"], ["Schizophrenia", "United_States", "George_W._Bush"]]

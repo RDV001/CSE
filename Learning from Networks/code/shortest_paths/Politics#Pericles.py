@@ -1,0 +1,1 @@
+[["Politics", "Ancient_Greece", "Pericles"]]

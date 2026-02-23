@@ -1,0 +1,1 @@
+[["Barack_Obama", "Kenya", "Dinosaur", "Sauropodomorpha"]]

@@ -1,0 +1,1 @@
+[["Margaret_Thatcher", "Madrid", "Montevideo"]]

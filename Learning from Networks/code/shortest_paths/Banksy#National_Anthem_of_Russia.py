@@ -1,0 +1,1 @@
+[["Banksy", "London", "Russia", "National_Anthem_of_Russia"], ["Banksy", "Mexico", "Russia", "National_Anthem_of_Russia"]]

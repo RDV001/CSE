@@ -1,0 +1,1 @@
+[["Magnet", "Alternating_current", "European_Union", "Frankfurt"], ["Magnet", "Alternating_current", "Germany", "Frankfurt"], ["Magnet", "Television", "Germany", "Frankfurt"]]

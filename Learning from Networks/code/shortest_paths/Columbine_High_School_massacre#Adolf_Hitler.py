@@ -1,0 +1,1 @@
+[["Columbine_High_School_massacre", "Adolf_Hitler"]]

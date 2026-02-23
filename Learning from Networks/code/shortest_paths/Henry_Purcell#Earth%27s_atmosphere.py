@@ -1,0 +1,1 @@
+[["Henry_Purcell", "Charles_II_of_England", "Comet", "Earth%27s_atmosphere"], ["Henry_Purcell", "Charles_II_of_England", "Gold", "Earth%27s_atmosphere"], ["Henry_Purcell", "Charles_II_of_England", "Isaac_Newton", "Earth%27s_atmosphere"], ["Henry_Purcell", "Westminster_Abbey", "Isaac_Newton", "Earth%27s_atmosphere"]]

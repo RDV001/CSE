@@ -1,0 +1,1 @@
+[["Spring_%28season%29", "Meteorology", "Number", "Olmec"], ["Spring_%28season%29", "Rocky_Mountains", "Mexico", "Olmec"], ["Spring_%28season%29", "Sun", "Mexico", "Olmec"], ["Spring_%28season%29", "Tropical_cyclone", "Mexico", "Olmec"], ["Spring_%28season%29", "United_States", "Mexico", "Olmec"]]

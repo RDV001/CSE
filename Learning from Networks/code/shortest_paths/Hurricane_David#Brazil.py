@@ -1,0 +1,1 @@
+[["Hurricane_David", "Barbados", "Brazil"], ["Hurricane_David", "Dominican_Republic", "Brazil"], ["Hurricane_David", "Miami%2C_Florida", "Brazil"], ["Hurricane_David", "United_States", "Brazil"]]

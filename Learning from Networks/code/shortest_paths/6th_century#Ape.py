@@ -1,0 +1,1 @@
+[["6th_century", "19th_century", "Charles_Darwin", "Ape"], ["6th_century", "19th_century", "Evolution", "Ape"], ["6th_century", "19th_century", "The_Origin_of_Species", "Ape"], ["6th_century", "21st_century", "King_Kong_%282005_film%29", "Ape"], ["6th_century", "China", "Human", "Ape"], ["6th_century", "Language", "Human", "Ape"]]

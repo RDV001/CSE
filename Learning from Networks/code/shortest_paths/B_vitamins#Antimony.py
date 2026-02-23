@@ -1,0 +1,1 @@
+[["B_vitamins", "Anemia", "Lead", "Antimony"], ["B_vitamins", "Thiamine", "Alcohol", "Antimony"]]

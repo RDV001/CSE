@@ -1,0 +1,1 @@
+[["Latin_America", "Politics", "Anarcho-capitalism"]]

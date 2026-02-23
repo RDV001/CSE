@@ -1,0 +1,1 @@
+[["Permian", "Carnivore", "Cheese", "Edible_salt"], ["Permian", "Desert", "Salt", "Edible_salt"], ["Permian", "Ozone", "Salt", "Edible_salt"], ["Permian", "Plant", "Soybean", "Edible_salt"]]

@@ -1,0 +1,1 @@
+[["China", "Basketball", "Olympic_Games", "Jesse_Owens"], ["China", "Ethiopia", "Olympic_Games", "Jesse_Owens"], ["China", "Hong_Kong", "Olympic_Games", "Jesse_Owens"], ["China", "Republic_of_China", "Olympic_Games", "Jesse_Owens"], ["China", "United_Kingdom", "Olympic_Games", "Jesse_Owens"], ["China", "United_States", "Olympic_Games", "Jesse_Owens"]]

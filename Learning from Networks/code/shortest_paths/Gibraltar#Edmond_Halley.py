@@ -1,0 +1,1 @@
+[["Gibraltar", "Currency", "18th_century", "Edmond_Halley"], ["Gibraltar", "Latin", "18th_century", "Edmond_Halley"], ["Gibraltar", "Spain", "18th_century", "Edmond_Halley"]]

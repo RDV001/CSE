@@ -1,0 +1,1 @@
+[["Architecture_of_Windows_NT", "Windows_2000", "Linux"], ["Architecture_of_Windows_NT", "Windows_XP", "Linux"]]

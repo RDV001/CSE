@@ -1,0 +1,1 @@
+[["Literature", "E._E._Cummings", "Sociology"], ["Literature", "Nationalism", "Sociology"], ["Literature", "Philosophy", "Sociology"], ["Literature", "Psychology", "Sociology"]]

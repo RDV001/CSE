@@ -1,0 +1,1 @@
+[["Christopher_Columbus", "Honduras", "Gold", "Fluorine"], ["Christopher_Columbus", "Japan", "Metal", "Fluorine"], ["Christopher_Columbus", "Lisbon", "Metal", "Fluorine"]]

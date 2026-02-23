@@ -1,0 +1,1 @@
+[["Liberia", "Africa", "Persian_Empire", "Reza_Shah"], ["Liberia", "List_of_countries_by_system_of_government", "Iran", "Reza_Shah"], ["Liberia", "United_States", "Iran", "Reza_Shah"]]

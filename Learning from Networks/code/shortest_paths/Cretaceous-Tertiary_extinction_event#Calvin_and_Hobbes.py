@@ -1,0 +1,1 @@
+[["Cretaceous-Tertiary_extinction_event", "Tyrannosaurus", "Calvin_and_Hobbes"]]

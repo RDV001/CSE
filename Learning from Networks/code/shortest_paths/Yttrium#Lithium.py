@@ -1,0 +1,1 @@
+[["Yttrium", "List_of_elements_by_name", "Lithium"], ["Yttrium", "Neutron", "Lithium"], ["Yttrium", "Periodic_table", "Lithium"], ["Yttrium", "Potassium", "Lithium"], ["Yttrium", "Scandium", "Lithium"]]

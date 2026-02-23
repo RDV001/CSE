@@ -1,0 +1,1 @@
+[["Poland", "Art", "Sultan"], ["Poland", "Ottoman_Empire", "Sultan"]]

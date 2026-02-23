@@ -1,0 +1,1 @@
+[["Comet_Halley", "17th_century", "Calculus", "Mathematical_analysis"], ["Comet_Halley", "17th_century", "Ren%C3%A9_Descartes", "Mathematical_analysis"], ["Comet_Halley", "Earth", "Pi", "Mathematical_analysis"], ["Comet_Halley", "Edmond_Halley", "Geometry", "Mathematical_analysis"]]

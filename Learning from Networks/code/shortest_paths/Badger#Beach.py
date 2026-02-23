@@ -1,0 +1,1 @@
+[["Badger", "Animal", "Sunlight", "Beach"], ["Badger", "English_language", "British_Virgin_Islands", "Beach"], ["Badger", "English_language", "Isle_of_Man", "Beach"], ["Badger", "United_Kingdom", "Isle_of_Man", "Beach"], ["Badger", "English_language", "Montserrat", "Beach"], ["Badger", "United_Kingdom", "Montserrat", "Beach"], ["Badger", "Mammal", "Landform", "Beach"]]

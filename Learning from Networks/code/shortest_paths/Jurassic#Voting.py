@@ -1,0 +1,1 @@
+[["Jurassic", "Canada", "Canadian_Charter_of_Rights_and_Freedoms", "Voting"], ["Jurassic", "India", "Westminster_System", "Voting"], ["Jurassic", "Japan", "Suffrage", "Voting"], ["Jurassic", "Russia", "Civil_society", "Voting"], ["Jurassic", "United_States", "Martin_Luther_King%2C_Jr.", "Voting"]]

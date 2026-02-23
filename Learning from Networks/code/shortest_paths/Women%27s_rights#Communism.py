@@ -1,0 +1,1 @@
+[["Women%27s_rights", "Human_rights", "Communism"], ["Women%27s_rights", "Property", "Communism"], ["Women%27s_rights", "United_States", "Communism"]]

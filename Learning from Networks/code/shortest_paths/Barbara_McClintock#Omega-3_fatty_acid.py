@@ -1,0 +1,1 @@
+[["Barbara_McClintock", "Cancer", "Prostate_cancer", "Omega-3_fatty_acid"], ["Barbara_McClintock", "Sweden", "Stone_Age", "Omega-3_fatty_acid"]]

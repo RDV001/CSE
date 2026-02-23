@@ -1,0 +1,1 @@
+[["Slavic_mythology", "Australia", "World_Heritage_Site", "Great_Wall_of_China"], ["Slavic_mythology", "Prague", "World_Heritage_Site", "Great_Wall_of_China"], ["Slavic_mythology", "God", "China", "Great_Wall_of_China"], ["Slavic_mythology", "Religion", "China", "Great_Wall_of_China"]]

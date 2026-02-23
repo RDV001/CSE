@@ -1,0 +1,1 @@
+[["Cockatiel", "Animal", "Water", "Solar_System", "Ceres_%28dwarf_planet%29"], ["Cockatiel", "Europe", "Earth", "Solar_System", "Ceres_%28dwarf_planet%29"], ["Cockatiel", "Europe", "Earth", "Planet", "Ceres_%28dwarf_planet%29"], ["Cockatiel", "Europe", "Earth", "Pluto", "Ceres_%28dwarf_planet%29"]]

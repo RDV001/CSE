@@ -1,0 +1,1 @@
+[["Asteroid", "1_Ceres", "Germany", "Dresden"], ["Asteroid", "3_Juno", "Germany", "Dresden"], ["Asteroid", "4_Vesta", "Germany", "Dresden"], ["Asteroid", "Carl_Friedrich_Gauss", "Germany", "Dresden"], ["Asteroid", "Comet", "Germany", "Dresden"]]

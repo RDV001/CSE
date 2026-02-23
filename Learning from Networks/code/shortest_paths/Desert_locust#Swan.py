@@ -1,0 +1,1 @@
+[["Desert_locust", "Animal", "Bird", "Swan"], ["Desert_locust", "Cape_Verde", "Bird", "Swan"], ["Desert_locust", "Flower", "Bird", "Swan"], ["Desert_locust", "Mammal", "Bird", "Swan"], ["Desert_locust", "Rice", "Bird", "Swan"], ["Desert_locust", "Seed", "Bird", "Swan"], ["Desert_locust", "Atlantic_Ocean", "Greek_mythology", "Swan"]]

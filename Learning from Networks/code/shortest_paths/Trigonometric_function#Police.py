@@ -1,0 +1,1 @@
+[["Trigonometric_function", "Babylonia", "Government", "Police"], ["Trigonometric_function", "Ptolemy", "Country", "Police"]]

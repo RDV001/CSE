@@ -1,0 +1,1 @@
+[["Material_properties_of_diamond", "Brazil", "Poverty", "Working_poor"], ["Material_properties_of_diamond", "South_Africa", "Poverty", "Working_poor"]]

@@ -1,0 +1,1 @@
+[["Himalayas", "Iran", "Italy"], ["Himalayas", "Retreat_of_glaciers_since_1850", "Italy"], ["Himalayas", "United_Kingdom", "Italy"], ["Himalayas", "Volcano", "Italy"]]

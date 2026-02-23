@@ -1,0 +1,1 @@
+[["Cultivar", "English_language", "American_English", "Baseball"], ["Cultivar", "English_language", "Canada", "Baseball"], ["Cultivar", "English_language", "Puerto_Rico", "Baseball"], ["Cultivar", "English_language", "Samoa", "Baseball"], ["Cultivar", "English_language", "United_States", "Baseball"], ["Cultivar", "Latin", "United_States", "Baseball"]]

@@ -1,0 +1,1 @@
+[["Snowdonia", "Agriculture", "Egypt", "Gaza_Strip"], ["Snowdonia", "England", "Middle_East", "Gaza_Strip"], ["Snowdonia", "English_language", "Israel", "Gaza_Strip"]]

@@ -1,0 +1,1 @@
+[["Euclidean_geometry", "Albert_Einstein", "Ammonia", "Soil"], ["Euclidean_geometry", "Albert_Einstein", "Geography", "Soil"], ["Euclidean_geometry", "Albert_Einstein", "Uranium", "Soil"], ["Euclidean_geometry", "Gravitation", "Earth", "Soil"], ["Euclidean_geometry", "Pythagorean_theorem", "Mesopotamia", "Soil"]]

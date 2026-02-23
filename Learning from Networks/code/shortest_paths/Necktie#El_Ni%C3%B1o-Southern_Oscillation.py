@@ -1,0 +1,1 @@
+[["Necktie", "19th_century", "Australia", "El_Ni%C3%B1o-Southern_Oscillation"], ["Necktie", "19th_century", "Peru", "El_Ni%C3%B1o-Southern_Oscillation"], ["Necktie", "Cotton", "Peru", "El_Ni%C3%B1o-Southern_Oscillation"], ["Necktie", "England", "Season", "El_Ni%C3%B1o-Southern_Oscillation"]]

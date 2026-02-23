@@ -1,0 +1,1 @@
+[["Mecca", "BBC", "England", "John_Locke"], ["Mecca", "Richard_Francis_Burton", "England", "John_Locke"], ["Mecca", "BBC", "Pound_sterling", "John_Locke"], ["Mecca", "Islam", "17th_century", "John_Locke"], ["Mecca", "Islam", "Thomas_Aquinas", "John_Locke"]]

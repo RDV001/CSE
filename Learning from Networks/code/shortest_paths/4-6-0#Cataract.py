@@ -1,0 +1,1 @@
+[["4-6-0", "Finland", "Potato", "Vitamin_C", "Cataract"], ["4-6-0", "United_States", "Potato", "Vitamin_C", "Cataract"], ["4-6-0", "Finland", "Vegetable", "Vitamin_C", "Cataract"], ["4-6-0", "Finland", "Saint_Petersburg", "Leonhard_Euler", "Cataract"], ["4-6-0", "Petroleum", "Earth", "Ultraviolet", "Cataract"], ["4-6-0", "Petroleum", "Sun", "Ultraviolet", "Cataract"]]

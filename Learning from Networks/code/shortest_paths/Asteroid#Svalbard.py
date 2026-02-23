@@ -1,0 +1,1 @@
+[["Asteroid", "Earth", "Arctic_Ocean", "Svalbard"], ["Asteroid", "Earth", "Europe", "Svalbard"], ["Asteroid", "Earth", "Russian_language", "Svalbard"]]

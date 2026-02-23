@@ -1,0 +1,1 @@
+[["European_Goldfinch", "Africa", "Ancient_Egypt", "Egyptian_pyramids"], ["European_Goldfinch", "Africa", "Egypt", "Egyptian_pyramids"], ["European_Goldfinch", "Asia", "Egypt", "Egyptian_pyramids"]]

@@ -1,0 +1,1 @@
+[["History", "16th_century", "Opera", "Igor_Stravinsky"], ["History", "Humanities", "Opera", "Igor_Stravinsky"], ["History", "Athens", "Music", "Igor_Stravinsky"], ["History", "Human", "Music", "Igor_Stravinsky"], ["History", "Humanities", "Music", "Igor_Stravinsky"], ["History", "Athens", "Paris", "Igor_Stravinsky"], ["History", "Human", "Aesthetics", "Igor_Stravinsky"]]

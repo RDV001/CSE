@@ -1,0 +1,1 @@
+[["Lake_Tahoe", "Fresh_water", "Earth%27s_atmosphere"], ["Lake_Tahoe", "Gold", "Earth%27s_atmosphere"]]

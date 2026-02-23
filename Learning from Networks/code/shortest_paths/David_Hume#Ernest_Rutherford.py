@@ -1,0 +1,1 @@
+[["David_Hume", "Physics", "Ernest_Rutherford"]]

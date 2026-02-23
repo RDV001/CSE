@@ -1,0 +1,1 @@
+[["Train", "Coal", "Nitrogen", "Nitrogen_cycle"], ["Train", "Maglev_train", "Nitrogen", "Nitrogen_cycle"], ["Train", "Refrigerator_car", "Nitrogen", "Nitrogen_cycle"], ["Train", "Food", "Ecology", "Nitrogen_cycle"], ["Train", "South_Africa", "Plant", "Nitrogen_cycle"]]

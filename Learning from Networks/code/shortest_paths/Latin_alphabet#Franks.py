@@ -1,0 +1,1 @@
+[["Latin_alphabet", "Italy", "Franks"], ["Latin_alphabet", "Middle_Ages", "Franks"], ["Latin_alphabet", "Roman_Empire", "Franks"]]

@@ -1,0 +1,1 @@
+[["Vitamin_C", "Copper", "Chile", "Landscape"], ["Vitamin_C", "Sweden", "Chile", "Landscape"], ["Vitamin_C", "Copper", "Drinking_water", "Landscape"], ["Vitamin_C", "Sweden", "Drinking_water", "Landscape"], ["Vitamin_C", "United_States", "Desert", "Landscape"], ["Vitamin_C", "United_States", "Volcano", "Landscape"]]

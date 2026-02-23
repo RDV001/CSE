@@ -1,0 +1,1 @@
+[["Prospecting", "Gold", "British_Empire", "Trinidad_and_Tobago"], ["Prospecting", "Gold", "United_States", "Trinidad_and_Tobago"], ["Prospecting", "Silver", "United_States", "Trinidad_and_Tobago"], ["Prospecting", "Silver", "English_language", "Trinidad_and_Tobago"], ["Prospecting", "Silver", "Spanish_language", "Trinidad_and_Tobago"]]

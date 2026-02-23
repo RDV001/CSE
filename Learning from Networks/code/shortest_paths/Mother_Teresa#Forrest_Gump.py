@@ -1,0 +1,1 @@
+[["Mother_Teresa", "Cold_War", "John_F._Kennedy", "Forrest_Gump"], ["Mother_Teresa", "Ronald_Reagan", "John_F._Kennedy", "Forrest_Gump"], ["Mother_Teresa", "United_States", "John_F._Kennedy", "Forrest_Gump"], ["Mother_Teresa", "Cold_War", "Lyndon_B._Johnson", "Forrest_Gump"]]

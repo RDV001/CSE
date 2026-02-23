@@ -1,0 +1,1 @@
+[["Nostradamus", "Adolf_Hitler", "Socialism"], ["Nostradamus", "Jew", "Socialism"]]

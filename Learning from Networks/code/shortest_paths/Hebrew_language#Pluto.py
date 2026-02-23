@@ -1,0 +1,1 @@
+[["Hebrew_language", "19th_century", "21st_century", "Pluto"], ["Hebrew_language", "20th_century", "21st_century", "Pluto"], ["Hebrew_language", "Babylonia", "Astrology", "Pluto"], ["Hebrew_language", "Babylonia", "Earth", "Pluto"], ["Hebrew_language", "Babylonia", "Sun", "Pluto"]]

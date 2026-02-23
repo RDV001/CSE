@@ -1,0 +1,1 @@
+[["Tiger", "Human", "Antarctica", "Full_moon"], ["Tiger", "Japan", "Moon", "Full_moon"], ["Tiger", "River", "Tide", "Full_moon"]]

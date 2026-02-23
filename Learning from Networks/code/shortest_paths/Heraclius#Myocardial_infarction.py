@@ -1,0 +1,1 @@
+[["Heraclius", "Syria", "Bill_Clinton", "Myocardial_infarction"]]

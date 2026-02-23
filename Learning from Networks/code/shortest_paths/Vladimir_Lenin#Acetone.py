@@ -1,0 +1,1 @@
+[["Vladimir_Lenin", "Agriculture", "Alcohol", "Acetone"], ["Vladimir_Lenin", "Geneva", "Water", "Acetone"], ["Vladimir_Lenin", "Stroke", "Diabetes_mellitus", "Acetone"]]

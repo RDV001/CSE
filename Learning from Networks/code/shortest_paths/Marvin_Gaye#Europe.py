@@ -1,0 +1,1 @@
+[["Marvin_Gaye", "AIDS", "Europe"], ["Marvin_Gaye", "American_football", "Europe"], ["Marvin_Gaye", "Britney_Spears", "Europe"], ["Marvin_Gaye", "Christina_Aguilera", "Europe"], ["Marvin_Gaye", "Jazz", "Europe"], ["Marvin_Gaye", "Los_Angeles%2C_California", "Europe"], ["Marvin_Gaye", "United_Kingdom", "Europe"], ["Marvin_Gaye", "United_States", "Europe"]]

@@ -1,0 +1,1 @@
+[["Adolf_Hitler", "Jew", "Spanish_Inquisition"], ["Adolf_Hitler", "Roman_Catholic_Church", "Spanish_Inquisition"]]

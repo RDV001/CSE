@@ -1,0 +1,1 @@
+[["Eric_Clapton", "Canada", "Hurricane_Katrina", "2005_Atlantic_hurricane_season", "Hurricane_Philippe_%282005%29"], ["Eric_Clapton", "Japan", "Tropical_cyclone", "2005_Atlantic_hurricane_season", "Hurricane_Philippe_%282005%29"]]

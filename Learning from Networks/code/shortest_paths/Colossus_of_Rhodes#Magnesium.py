@@ -1,0 +1,1 @@
+[["Colossus_of_Rhodes", "Earthquake", "Earth", "Magnesium"], ["Colossus_of_Rhodes", "Zeus", "Earth", "Magnesium"], ["Colossus_of_Rhodes", "Earthquake", "Magma", "Magnesium"], ["Colossus_of_Rhodes", "Earthquake", "Plate_tectonics", "Magnesium"], ["Colossus_of_Rhodes", "Earthquake", "Volcano", "Magnesium"], ["Colossus_of_Rhodes", "Greece", "Argentina", "Magnesium"]]

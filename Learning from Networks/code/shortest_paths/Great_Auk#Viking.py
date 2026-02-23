@@ -1,0 +1,1 @@
+[["Great_Auk", "8th_century", "Viking"], ["Great_Auk", "Canada", "Viking"], ["Great_Auk", "Great_Britain", "Viking"], ["Great_Auk", "Iceland", "Viking"], ["Great_Auk", "Ireland", "Viking"], ["Great_Auk", "Norway", "Viking"]]

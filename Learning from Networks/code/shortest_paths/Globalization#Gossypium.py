@@ -1,0 +1,1 @@
+[["Globalization", "19th_century", "Peru", "Gossypium"], ["Globalization", "Chad", "Peru", "Gossypium"], ["Globalization", "Tourism", "Peru", "Gossypium"], ["Globalization", "United_States", "Peru", "Gossypium"], ["Globalization", "Central_African_Republic", "Cotton", "Gossypium"], ["Globalization", "Chad", "Cotton", "Gossypium"], ["Globalization", "Togo", "Cotton", "Gossypium"]]

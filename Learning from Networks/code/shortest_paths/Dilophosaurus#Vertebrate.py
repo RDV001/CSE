@@ -1,0 +1,1 @@
+[["Dilophosaurus", "Animal", "Vertebrate"], ["Dilophosaurus", "Chordate", "Vertebrate"], ["Dilophosaurus", "Dinosaur", "Vertebrate"], ["Dilophosaurus", "Fossil", "Vertebrate"], ["Dilophosaurus", "Reptile", "Vertebrate"], ["Dilophosaurus", "Scientific_classification", "Vertebrate"]]

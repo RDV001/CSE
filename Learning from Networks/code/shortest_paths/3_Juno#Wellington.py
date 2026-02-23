@@ -1,0 +1,1 @@
+[["3_Juno", "Day", "Time_zone", "Wellington"], ["3_Juno", "Germany", "Time_zone", "Wellington"], ["3_Juno", "Germany", "Capital", "Wellington"]]

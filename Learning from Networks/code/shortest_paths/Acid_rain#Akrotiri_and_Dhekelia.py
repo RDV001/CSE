@@ -1,0 +1,1 @@
+[["Acid_rain", "England", "British_Empire", "Akrotiri_and_Dhekelia"], ["Acid_rain", "Ocean", "Mediterranean_Sea", "Akrotiri_and_Dhekelia"], ["Acid_rain", "Russia", "Mediterranean_Sea", "Akrotiri_and_Dhekelia"], ["Acid_rain", "Volcano", "Mediterranean_Sea", "Akrotiri_and_Dhekelia"]]

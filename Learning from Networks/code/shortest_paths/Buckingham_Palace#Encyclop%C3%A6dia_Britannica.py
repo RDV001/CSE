@@ -1,0 +1,1 @@
+[["Buckingham_Palace", "France", "Berber_languages", "Encyclop%C3%A6dia_Britannica"], ["Buckingham_Palace", "Germany", "Atheism", "Encyclop%C3%A6dia_Britannica"], ["Buckingham_Palace", "Rococo", "Voltaire", "Encyclop%C3%A6dia_Britannica"]]

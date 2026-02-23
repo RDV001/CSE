@@ -1,0 +1,1 @@
+[["Europe", "Anglicanism", "Charles_II_of_England"], ["Europe", "British_Isles", "Charles_II_of_England"], ["Europe", "Jersey", "Charles_II_of_England"], ["Europe", "Lisbon", "Charles_II_of_England"], ["Europe", "United_Kingdom", "Charles_II_of_England"]]

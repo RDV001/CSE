@@ -1,0 +1,1 @@
+[["Stephen_Jay_Gould", "Tyrannosaurus", "Mammal", "Elephant_shrew"]]

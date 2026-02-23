@@ -1,0 +1,1 @@
+[["Charlie_Chaplin", "England", "Stephen_Hawking", "Thermodynamics"], ["Charlie_Chaplin", "Switzerland", "Energy", "Thermodynamics"], ["Charlie_Chaplin", "United_Kingdom", "James_Clerk_Maxwell", "Thermodynamics"]]

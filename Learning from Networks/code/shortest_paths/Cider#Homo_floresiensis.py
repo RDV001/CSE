@@ -1,0 +1,1 @@
+[["Cider", "19th_century", "21st_century", "Homo_floresiensis"], ["Cider", "20th_century", "21st_century", "Homo_floresiensis"], ["Cider", "United_States", "Palau", "Homo_floresiensis"]]

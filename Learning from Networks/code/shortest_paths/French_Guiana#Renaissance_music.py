@@ -1,0 +1,1 @@
+[["French_Guiana", "Europe", "Renaissance", "Renaissance_music"], ["French_Guiana", "European_Union", "Renaissance", "Renaissance_music"], ["French_Guiana", "South_America", "Guitar", "Renaissance_music"]]

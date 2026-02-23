@@ -1,0 +1,1 @@
+[["Andy_Warhol", "Advertising", "Internet"], ["Andy_Warhol", "Mass_media", "Internet"], ["Andy_Warhol", "United_States", "Internet"]]

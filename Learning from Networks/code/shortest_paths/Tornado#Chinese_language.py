@@ -1,0 +1,1 @@
+[["Tornado", "Australia", "Chinese_language"], ["Tornado", "Canada", "Chinese_language"], ["Tornado", "China", "Chinese_language"], ["Tornado", "Germany", "Chinese_language"], ["Tornado", "Japan", "Chinese_language"], ["Tornado", "United_States", "Chinese_language"]]

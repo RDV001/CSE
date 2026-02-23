@@ -1,0 +1,1 @@
+[["Doom", "Bill_Gates", "Sweden", "Autocracy"], ["Doom", "Clay", "Sweden", "Autocracy"], ["Doom", "United_States", "Sweden", "Autocracy"], ["Doom", "United_States", "Gabon", "Autocracy"], ["Doom", "United_States", "Iran", "Autocracy"], ["Doom", "Weapon", "Roman_Empire", "Autocracy"]]

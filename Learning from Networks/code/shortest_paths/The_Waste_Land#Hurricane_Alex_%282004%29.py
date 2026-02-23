@@ -1,0 +1,1 @@
+[["The_Waste_Land", "English_language", "The_Bahamas", "2004_Atlantic_hurricane_season", "Hurricane_Alex_%282004%29"]]

@@ -1,0 +1,1 @@
+[["Whale", "Energy", "Tropical_cyclone", "Galveston_Hurricane_of_1900"], ["Whale", "Japan", "Tropical_cyclone", "Galveston_Hurricane_of_1900"], ["Whale", "United_States", "Houston%2C_Texas", "Galveston_Hurricane_of_1900"]]

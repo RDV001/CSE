@@ -1,0 +1,1 @@
+[["History_of_democracy", "India", "Mammal"], ["History_of_democracy", "New_Zealand", "Mammal"]]

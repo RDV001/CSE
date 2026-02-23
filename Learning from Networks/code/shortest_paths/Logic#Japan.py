@@ -1,0 +1,1 @@
+[["Logic", "20th_century", "Japan"], ["Logic", "Bertrand_Russell", "Japan"], ["Logic", "Philosophy", "Japan"]]

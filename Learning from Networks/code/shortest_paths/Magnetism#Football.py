@@ -1,0 +1,1 @@
+[["Magnetism", "Aluminium", "Ancient_Rome", "Football"], ["Magnetism", "Zinc", "Ancient_Rome", "Football"], ["Magnetism", "Cobalt", "Finland", "Football"], ["Magnetism", "Gadolinium", "Finland", "Football"], ["Magnetism", "Paul_Dirac", "England", "Football"], ["Magnetism", "Steel", "England", "Football"], ["Magnetism", "Paul_Dirac", "London", "Football"]]

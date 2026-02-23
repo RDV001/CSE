@@ -1,0 +1,1 @@
+[["Anglicanism", "Martin_Luther", "Adolf_Hitler", "Battle_of_France"], ["Anglicanism", "South_Africa", "Nazi_Germany", "Battle_of_France"]]

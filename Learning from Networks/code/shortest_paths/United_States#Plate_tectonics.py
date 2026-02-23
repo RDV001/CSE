@@ -1,0 +1,1 @@
+[["United_States", "Grand_Canyon", "Plate_tectonics"], ["United_States", "India", "Plate_tectonics"], ["United_States", "Indonesia", "Plate_tectonics"], ["United_States", "List_of_rivers_by_length", "Plate_tectonics"], ["United_States", "North_America", "Plate_tectonics"], ["United_States", "Pacific_Ocean", "Plate_tectonics"], ["United_States", "Volcano", "Plate_tectonics"]]

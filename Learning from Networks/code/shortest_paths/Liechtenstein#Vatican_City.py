@@ -1,0 +1,1 @@
+[["Liechtenstein", "Vatican_City"]]

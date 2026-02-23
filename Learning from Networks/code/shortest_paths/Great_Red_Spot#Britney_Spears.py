@@ -1,0 +1,1 @@
+[["Great_Red_Spot", "Earth", "Latin_America", "Reggaeton", "Britney_Spears"], ["Great_Red_Spot", "Hubble_Space_Telescope", "Art", "Mona_Lisa", "Britney_Spears"]]

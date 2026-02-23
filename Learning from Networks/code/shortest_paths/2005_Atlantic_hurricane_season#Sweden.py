@@ -1,0 +1,1 @@
+[["2005_Atlantic_hurricane_season", "Atlantic_Ocean", "Sweden"], ["2005_Atlantic_hurricane_season", "Europe", "Sweden"], ["2005_Atlantic_hurricane_season", "Norway", "Sweden"], ["2005_Atlantic_hurricane_season", "United_States", "Sweden"]]

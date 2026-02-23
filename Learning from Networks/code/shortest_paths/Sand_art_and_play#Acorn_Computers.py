@@ -1,0 +1,1 @@
+[["Sand_art_and_play", "Sculpture", "Henry_Moore", "Cambridge", "Acorn_Computers"]]

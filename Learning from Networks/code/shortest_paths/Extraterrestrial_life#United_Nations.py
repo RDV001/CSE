@@ -1,0 +1,1 @@
+[["Extraterrestrial_life", "20th_century", "United_Nations"], ["Extraterrestrial_life", "Earth", "United_Nations"], ["Extraterrestrial_life", "Egypt", "United_Nations"], ["Extraterrestrial_life", "Spain", "United_Nations"]]

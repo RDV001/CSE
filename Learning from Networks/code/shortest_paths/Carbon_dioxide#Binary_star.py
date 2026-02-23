@@ -1,0 +1,1 @@
+[["Carbon_dioxide", "Carbon", "Star", "Binary_star"], ["Carbon_dioxide", "Helium", "Star", "Binary_star"], ["Carbon_dioxide", "Phase_%28matter%29", "Star", "Binary_star"]]

@@ -1,0 +1,1 @@
+[["Soil", "Biosphere", "Water"], ["Soil", "Chemistry", "Water"], ["Soil", "Geography", "Water"], ["Soil", "Nitrogen", "Water"], ["Soil", "Phosphorus", "Water"], ["Soil", "Potassium", "Water"], ["Soil", "Salt", "Water"], ["Soil", "Sand", "Water"], ["Soil", "Soils_retrogression_and_degradation", "Water"]]

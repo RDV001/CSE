@@ -1,0 +1,1 @@
+[["Sumatra", "2004_Indian_Ocean_earthquake", "Radar", "Motion_%28physics%29"], ["Sumatra", "China", "Mathematics", "Motion_%28physics%29"], ["Sumatra", "Gold", "Magnetism", "Motion_%28physics%29"], ["Sumatra", "Tsunami", "Gravitation", "Motion_%28physics%29"]]

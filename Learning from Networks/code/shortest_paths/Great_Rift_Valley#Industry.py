@@ -1,0 +1,1 @@
+[["Great_Rift_Valley", "Lebanon", "Industry"], ["Great_Rift_Valley", "Syria", "Industry"]]

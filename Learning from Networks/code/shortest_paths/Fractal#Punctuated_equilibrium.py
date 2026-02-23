@@ -1,0 +1,1 @@
+[["Fractal", "Algorithm", "Evolution", "Punctuated_equilibrium"], ["Fractal", "Life", "Evolution", "Punctuated_equilibrium"]]

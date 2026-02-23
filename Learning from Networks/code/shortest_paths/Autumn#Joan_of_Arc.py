@@ -1,0 +1,1 @@
+[["Autumn", "14th_century", "15th_century", "Joan_of_Arc"], ["Autumn", "16th_century", "15th_century", "Joan_of_Arc"], ["Autumn", "English_language", "15th_century", "Joan_of_Arc"], ["Autumn", "14th_century", "Hundred_Years%27_War", "Joan_of_Arc"]]

@@ -1,0 +1,1 @@
+[["Potassium_iodide", "Carbon_dioxide", "Animal", "Insect"], ["Potassium_iodide", "Potassium", "Animal", "Insect"], ["Potassium_iodide", "Republic_of_Ireland", "Clothing", "Insect"]]

@@ -1,0 +1,1 @@
+[["Bernard_Hinault", "France", "Internet", "Advertising"], ["Bernard_Hinault", "France", "United_States", "Advertising"], ["Bernard_Hinault", "Greg_LeMond", "United_States", "Advertising"], ["Bernard_Hinault", "Lance_Armstrong", "United_States", "Advertising"]]

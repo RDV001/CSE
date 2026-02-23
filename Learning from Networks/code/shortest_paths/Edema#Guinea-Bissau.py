@@ -1,0 +1,1 @@
+[["Edema", "American_English", "Turkey", "Guinea-Bissau"], ["Edema", "American_English", "United_States", "Guinea-Bissau"], ["Edema", "Cancer", "United_States", "Guinea-Bissau"]]

@@ -1,0 +1,1 @@
+[["Islamic_republic", "Monarchy", "21st_century", "Google"]]

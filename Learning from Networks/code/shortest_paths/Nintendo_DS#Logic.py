@@ -1,0 +1,1 @@
+[["Nintendo_DS", "Australia", "Atheism", "Logic"], ["Nintendo_DS", "Computer_and_video_games", "Religion", "Logic"], ["Nintendo_DS", "Europe", "Culture", "Logic"], ["Nintendo_DS", "Japan", "Culture", "Logic"], ["Nintendo_DS", "Japan", "University", "Logic"], ["Nintendo_DS", "Japanese_yen", "Economics", "Logic"]]

@@ -1,0 +1,1 @@
+[["Jyllands-Posten_Muhammad_cartoons_controversy", "Afghanistan", "Copper", "Arthropod"], ["Jyllands-Posten_Muhammad_cartoons_controversy", "Europe", "Crustacean", "Arthropod"], ["Jyllands-Posten_Muhammad_cartoons_controversy", "Europe", "Herbivore", "Arthropod"], ["Jyllands-Posten_Muhammad_cartoons_controversy", "Religion", "Evolution", "Arthropod"]]

@@ -1,0 +1,1 @@
+[["Qur%27an", "Russia", "U.S._state", "Louisville%2C_Kentucky"]]

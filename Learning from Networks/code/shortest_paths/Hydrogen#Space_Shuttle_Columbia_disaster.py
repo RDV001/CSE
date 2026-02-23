@@ -1,0 +1,1 @@
+[["Hydrogen", "H_II_region", "Hubble_Space_Telescope", "Space_Shuttle_Columbia_disaster"], ["Hydrogen", "Star", "Hubble_Space_Telescope", "Space_Shuttle_Columbia_disaster"], ["Hydrogen", "Welding", "International_Space_Station", "Space_Shuttle_Columbia_disaster"]]

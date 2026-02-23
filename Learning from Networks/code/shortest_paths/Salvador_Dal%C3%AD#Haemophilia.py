@@ -1,0 +1,1 @@
+[["Salvador_Dal%C3%AD", "Sculpture", "Victoria_of_the_United_Kingdom", "Haemophilia"]]

@@ -1,0 +1,1 @@
+[["Scrooge_McDuck", "English_language", "Lesotho", "Bill_Gates"], ["Scrooge_McDuck", "Netherlands", "21st_century", "Bill_Gates"], ["Scrooge_McDuck", "United_States", "Education_in_the_United_States", "Bill_Gates"]]

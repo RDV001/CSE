@@ -1,0 +1,1 @@
+[["Palazzo_Pitti", "Dresden", "United_Kingdom", "Arctic_Monkeys"], ["Palazzo_Pitti", "Italy", "United_Kingdom", "Arctic_Monkeys"], ["Palazzo_Pitti", "Napoleon_I_of_France", "United_Kingdom", "Arctic_Monkeys"], ["Palazzo_Pitti", "Paris", "United_Kingdom", "Arctic_Monkeys"], ["Palazzo_Pitti", "World_War_II", "United_Kingdom", "Arctic_Monkeys"]]

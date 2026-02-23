@@ -1,0 +1,1 @@
+[["George_H._W._Bush", "New_York_City"]]

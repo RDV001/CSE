@@ -1,0 +1,1 @@
+[["Pakistan", "Brazil", "Peru", "Gossypium"], ["Pakistan", "List_of_countries_by_system_of_government", "Peru", "Gossypium"], ["Pakistan", "British_East_India_Company", "Cotton", "Gossypium"], ["Pakistan", "Indus_River", "Cotton", "Gossypium"], ["Pakistan", "Indus_Valley_Civilization", "Cotton", "Gossypium"]]

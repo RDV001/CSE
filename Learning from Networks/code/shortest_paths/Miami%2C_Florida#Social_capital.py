@@ -1,0 +1,1 @@
+[["Miami%2C_Florida", "Brazil", "Economic_inequality", "Social_capital"], ["Miami%2C_Florida", "Poverty", "Community", "Social_capital"]]

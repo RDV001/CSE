@@ -1,0 +1,1 @@
+[["Dover", "20th_century", "Fascism", "Opus_Dei"], ["Dover", "World_War_I", "Fascism", "Opus_Dei"]]

@@ -1,0 +1,1 @@
+[["Ancient_Greece", "18th_century", "6th_century"], ["Ancient_Greece", "19th_century", "6th_century"], ["Ancient_Greece", "3rd_century", "6th_century"]]

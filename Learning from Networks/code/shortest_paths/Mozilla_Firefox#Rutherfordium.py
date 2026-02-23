@@ -1,0 +1,1 @@
+[["Mozilla_Firefox", "Bill_Gates", "Copenhagen", "Hafnium", "Rutherfordium"], ["Mozilla_Firefox", "Europe", "Copenhagen", "Hafnium", "Rutherfordium"], ["Mozilla_Firefox", "Open_source", "Copenhagen", "Hafnium", "Rutherfordium"], ["Mozilla_Firefox", "Bill_Gates", "University_of_Cambridge", "Ernest_Rutherford", "Rutherfordium"]]

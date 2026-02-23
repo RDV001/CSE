@@ -1,0 +1,1 @@
+[["AT%26T", "Dallas%2C_Texas", "Computer", "Toy"], ["AT%26T", "Industry", "Computer", "Toy"], ["AT%26T", "United_Kingdom", "Computer", "Toy"], ["AT%26T", "United_States", "Computer", "Toy"], ["AT%26T", "Internet", "Asia", "Toy"], ["AT%26T", "San_Francisco%2C_California", "Asia", "Toy"], ["AT%26T", "United_Kingdom", "Bicycle", "Toy"]]

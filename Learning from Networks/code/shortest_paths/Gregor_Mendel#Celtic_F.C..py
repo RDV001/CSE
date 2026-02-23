@@ -1,0 +1,1 @@
+[["Gregor_Mendel", "Genetics", "United_Kingdom", "Celtic_F.C."], ["Gregor_Mendel", "German_language", "United_Kingdom", "Celtic_F.C."], ["Gregor_Mendel", "Pea", "United_Kingdom", "Celtic_F.C."]]

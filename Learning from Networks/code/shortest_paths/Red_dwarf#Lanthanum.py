@@ -1,0 +1,1 @@
+[["Red_dwarf", "Helium", "List_of_elements_by_name", "Lanthanum"], ["Red_dwarf", "Hydrogen", "List_of_elements_by_name", "Lanthanum"], ["Red_dwarf", "Helium", "Superconductivity", "Lanthanum"], ["Red_dwarf", "Hydrogen", "Superconductivity", "Lanthanum"], ["Red_dwarf", "Hydrogen", "Periodic_table", "Lanthanum"]]

@@ -1,0 +1,1 @@
+[["Gardening", "Ancient_Rome", "Democracy"], ["Gardening", "Canadian_Charter_of_Rights_and_Freedoms", "Democracy"], ["Gardening", "Europe", "Democracy"]]

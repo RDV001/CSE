@@ -1,0 +1,1 @@
+[["Denmark", "England", "Buckingham_Palace", "Batman"], ["Denmark", "United_Kingdom", "Buckingham_Palace", "Batman"], ["Denmark", "NATO", "Ronald_Reagan", "Batman"]]

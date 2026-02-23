@@ -1,0 +1,1 @@
+[["Heard_Island_and_McDonald_Islands", "United_States", "Capitalism"]]

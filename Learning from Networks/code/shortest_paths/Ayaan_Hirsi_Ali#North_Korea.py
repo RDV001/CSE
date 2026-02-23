@@ -1,0 +1,1 @@
+[["Ayaan_Hirsi_Ali", "Christianity", "North_Korea"], ["Ayaan_Hirsi_Ali", "Iran", "North_Korea"], ["Ayaan_Hirsi_Ali", "Nuclear_weapon", "North_Korea"], ["Ayaan_Hirsi_Ali", "Saudi_Arabia", "North_Korea"], ["Ayaan_Hirsi_Ali", "United_States", "North_Korea"]]

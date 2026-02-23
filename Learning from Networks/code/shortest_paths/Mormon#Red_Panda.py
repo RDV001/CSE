@@ -1,0 +1,1 @@
+[["Mormon", "French_language", "India", "Sikkim", "Red_Panda"], ["Mormon", "Jesus", "Himalayas", "Sikkim", "Red_Panda"], ["Mormon", "Mexico", "Buddhism", "Sikkim", "Red_Panda"], ["Mormon", "Mexico", "Time_zone", "Sikkim", "Red_Panda"]]

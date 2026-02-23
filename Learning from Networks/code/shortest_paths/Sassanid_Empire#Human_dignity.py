@@ -1,0 +1,1 @@
+[["Sassanid_Empire", "Iran", "Human_rights", "Human_dignity"], ["Sassanid_Empire", "Lebanon", "Human_rights", "Human_dignity"], ["Sassanid_Empire", "Syria", "Human_rights", "Human_dignity"], ["Sassanid_Empire", "Turkmenistan", "Human_rights", "Human_dignity"]]

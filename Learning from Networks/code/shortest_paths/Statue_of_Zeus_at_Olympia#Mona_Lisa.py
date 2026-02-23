@@ -1,0 +1,1 @@
+[["Statue_of_Zeus_at_Olympia", "1st_century_BC", "16th_century", "Mona_Lisa"], ["Statue_of_Zeus_at_Olympia", "Ebony", "16th_century", "Mona_Lisa"], ["Statue_of_Zeus_at_Olympia", "Zeus", "16th_century", "Mona_Lisa"], ["Statue_of_Zeus_at_Olympia", "Ebony", "Paris", "Mona_Lisa"]]

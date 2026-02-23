@@ -1,0 +1,1 @@
+[["Constitutional_monarchy", "Monarchy", "Bhutan", "Yak"], ["Constitutional_monarchy", "Netherlands", "Cheese", "Yak"], ["Constitutional_monarchy", "Polish-Lithuanian_Commonwealth", "Cattle", "Yak"], ["Constitutional_monarchy", "Scotland", "Cattle", "Yak"]]

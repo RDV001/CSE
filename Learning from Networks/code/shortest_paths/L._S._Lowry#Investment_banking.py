@@ -1,0 +1,1 @@
+[["L._S._Lowry", "England", "Finance", "Corporate_finance", "Investment_banking"]]

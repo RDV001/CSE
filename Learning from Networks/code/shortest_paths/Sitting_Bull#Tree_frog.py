@@ -1,0 +1,1 @@
+[["Sitting_Bull", "Boston%2C_Massachusetts", "Fishing", "Frog", "Tree_frog"], ["Sitting_Bull", "Minnesota", "Brown_trout", "Frog", "Tree_frog"], ["Sitting_Bull", "Minnesota", "Winter", "Frog", "Tree_frog"]]

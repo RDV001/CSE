@@ -1,0 +1,1 @@
+[["Mercury_%28element%29", "Roman_Empire", "Jerusalem", "Natalie_Portman"], ["Mercury_%28element%29", "Silver", "Jerusalem", "Natalie_Portman"]]

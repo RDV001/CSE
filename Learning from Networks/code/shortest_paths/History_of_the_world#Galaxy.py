@@ -1,0 +1,1 @@
+[["History_of_the_world", "Comet", "Galaxy"], ["History_of_the_world", "Nature", "Galaxy"], ["History_of_the_world", "Solar_System", "Galaxy"], ["History_of_the_world", "Sun", "Galaxy"]]

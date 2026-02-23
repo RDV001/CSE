@@ -1,0 +1,1 @@
+[["Hatshepsut", "Ancient_Egypt", "Copper", "Steam_engine"], ["Hatshepsut", "Ancient_Egypt", "Engineering", "Steam_engine"], ["Hatshepsut", "Josephus", "19th_century", "Steam_engine"], ["Hatshepsut", "Mummy", "19th_century", "Steam_engine"], ["Hatshepsut", "New_York_City", "Revolution", "Steam_engine"], ["Hatshepsut", "Syria", "Industry", "Steam_engine"]]

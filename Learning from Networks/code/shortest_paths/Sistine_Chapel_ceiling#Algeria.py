@@ -1,0 +1,1 @@
+[["Sistine_Chapel_ceiling", "Africa", "Algeria"], ["Sistine_Chapel_ceiling", "Augustine_of_Hippo", "Algeria"], ["Sistine_Chapel_ceiling", "Greece", "Algeria"], ["Sistine_Chapel_ceiling", "Jew", "Algeria"]]

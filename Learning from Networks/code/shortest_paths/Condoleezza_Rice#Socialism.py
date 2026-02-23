@@ -1,0 +1,1 @@
+[["Condoleezza_Rice", "Socialism"]]

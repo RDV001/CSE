@@ -1,0 +1,1 @@
+[["Dakar", "France", "AIDS"], ["Dakar", "South_Africa", "AIDS"]]

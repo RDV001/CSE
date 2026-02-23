@@ -1,0 +1,1 @@
+[["Code_of_Hammurabi", "Iran", "Human_rights", "Women%27s_rights"], ["Code_of_Hammurabi", "Law", "Human_rights", "Women%27s_rights"], ["Code_of_Hammurabi", "Slavery", "Animal_rights", "Women%27s_rights"], ["Code_of_Hammurabi", "Slavery", "Muhammad", "Women%27s_rights"], ["Code_of_Hammurabi", "Slavery", "Poverty", "Women%27s_rights"]]

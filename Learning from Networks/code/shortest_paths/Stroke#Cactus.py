@@ -1,0 +1,1 @@
+[["Stroke", "Cerebellum", "Tree", "Cactus"], ["Stroke", "United_States", "Argentina", "Cactus"], ["Stroke", "United_States", "Navassa_Island", "Cactus"]]

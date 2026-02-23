@@ -1,0 +1,1 @@
+[["Oregano", "Binomial_nomenclature", "Mineral"]]

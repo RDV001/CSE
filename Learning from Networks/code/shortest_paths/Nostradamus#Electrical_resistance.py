@@ -1,0 +1,1 @@
+[["Nostradamus", "Adolf_Hitler", "Radar", "Electrical_resistance"], ["Nostradamus", "Astronomy", "Electromagnetic_radiation", "Electrical_resistance"], ["Nostradamus", "Astronomy", "Physics", "Electrical_resistance"], ["Nostradamus", "Geometry", "Physics", "Electrical_resistance"], ["Nostradamus", "Music", "Physics", "Electrical_resistance"]]

@@ -1,0 +1,1 @@
+[["Istanbul", "Azerbaijan", "13th_century"], ["Istanbul", "Byzantine_Empire", "13th_century"], ["Istanbul", "Islam", "13th_century"], ["Istanbul", "Warsaw", "13th_century"]]

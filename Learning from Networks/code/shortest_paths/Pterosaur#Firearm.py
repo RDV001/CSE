@@ -1,0 +1,1 @@
+[["Pterosaur", "19th_century", "Manifest_Destiny", "Firearm"], ["Pterosaur", "19th_century", "Scramble_for_Africa", "Firearm"]]

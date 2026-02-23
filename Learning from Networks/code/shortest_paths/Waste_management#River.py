@@ -1,0 +1,1 @@
+[["Waste_management", "France", "River"], ["Waste_management", "Germany", "River"], ["Waste_management", "Oregon", "River"]]

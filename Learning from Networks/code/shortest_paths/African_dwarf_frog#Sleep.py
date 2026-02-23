@@ -1,0 +1,1 @@
+[["African_dwarf_frog", "Africa", "Human", "Sleep"], ["African_dwarf_frog", "Animal", "Human", "Sleep"], ["African_dwarf_frog", "Scientific_classification", "Human", "Sleep"], ["African_dwarf_frog", "Frog", "Eye", "Sleep"], ["African_dwarf_frog", "Frog", "Morphine", "Sleep"]]

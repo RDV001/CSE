@@ -1,0 +1,1 @@
+[["Humanism", "Albert_Einstein", "Chemistry", "Magnet"], ["Humanism", "Education", "Chemistry", "Magnet"], ["Humanism", "Albert_Einstein", "Matter", "Magnet"], ["Humanism", "Albert_Einstein", "Physics", "Magnet"], ["Humanism", "Education", "Physics", "Magnet"], ["Humanism", "Galileo_Galilei", "Physics", "Magnet"]]

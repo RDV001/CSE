@@ -1,0 +1,1 @@
+[["Great_Red_Spot", "Hubble_Space_Telescope", "United_States_Congress", "Fourteenth_Amendment_to_the_United_States_Constitution", "Equal_Protection_Clause"], ["Great_Red_Spot", "Hubble_Space_Telescope", "United_States_House_of_Representatives", "Fourteenth_Amendment_to_the_United_States_Constitution", "Equal_Protection_Clause"]]

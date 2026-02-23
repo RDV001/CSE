@@ -1,0 +1,1 @@
+[["Theodore_Roosevelt", "Newspaper", "Mumbai", "Economy_of_India"]]

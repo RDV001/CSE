@@ -1,0 +1,1 @@
+[["Stephen_Hawking", "Germany", "Battle_of_Stalingrad"]]

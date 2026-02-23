@@ -1,0 +1,1 @@
+[["Colima_%28volcano%29", "Mexico", "Government", "Police_state"], ["Colima_%28volcano%29", "Pacific_Ocean", "People%27s_Republic_of_China", "Police_state"]]

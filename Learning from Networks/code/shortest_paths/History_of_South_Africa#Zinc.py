@@ -1,0 +1,1 @@
+[["History_of_South_Africa", "Gold", "Zinc"], ["History_of_South_Africa", "Namibia", "Zinc"]]

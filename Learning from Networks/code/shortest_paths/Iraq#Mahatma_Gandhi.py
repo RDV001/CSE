@@ -1,0 +1,1 @@
+[["Iraq", "Philosophy", "Mahatma_Gandhi"]]

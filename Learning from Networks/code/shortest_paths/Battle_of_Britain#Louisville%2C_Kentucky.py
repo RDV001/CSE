@@ -1,0 +1,1 @@
+[["Battle_of_Britain", "John_F._Kennedy", "Louisville%2C_Kentucky"]]

@@ -1,0 +1,1 @@
+[["Buenos_Aires", "Argentina", "Haiti"], ["Buenos_Aires", "Armenia", "Haiti"], ["Buenos_Aires", "Croatia", "Haiti"], ["Buenos_Aires", "Lebanon", "Haiti"], ["Buenos_Aires", "Pope_John_Paul_II", "Haiti"], ["Buenos_Aires", "Spanish_language", "Haiti"]]

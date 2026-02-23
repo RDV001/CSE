@@ -1,0 +1,1 @@
+[["Thucydides", "Athens", "United_States", "Bald_Eagle"], ["Thucydides", "Democracy", "United_States", "Bald_Eagle"]]

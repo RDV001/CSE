@@ -1,0 +1,1 @@
+[["Euro", "Republic_of_Ireland", "House_of_Lords"], ["Euro", "United_Kingdom", "House_of_Lords"]]

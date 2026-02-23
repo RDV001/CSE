@@ -1,0 +1,1 @@
+[["Wikisource", "German_language", "Nazism", "Love"]]

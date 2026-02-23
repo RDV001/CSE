@@ -1,0 +1,1 @@
+[["Fertilizer", "Boron", "Volcano", "Mount_St._Helens"], ["Fertilizer", "Sulfur", "Volcano", "Mount_St._Helens"], ["Fertilizer", "Uranium", "Plate_tectonics", "Mount_St._Helens"]]

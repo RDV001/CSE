@@ -1,0 +1,1 @@
+[["Federal_Bureau_of_Investigation", "George_W._Bush", "Creationism", "Star", "Proxima_Centauri"]]

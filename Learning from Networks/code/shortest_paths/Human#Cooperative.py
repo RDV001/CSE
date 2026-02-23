@@ -1,0 +1,1 @@
+[["Human", "Corporation", "Cooperative"], ["Human", "Democracy", "Cooperative"], ["Human", "Organization", "Cooperative"], ["Human", "Society", "Cooperative"]]

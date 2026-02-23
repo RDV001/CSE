@@ -1,0 +1,1 @@
+[["Einsteinium", "Phase_%28matter%29", "Absolute_zero", "Thermodynamic_temperature"], ["Einsteinium", "Phase_%28matter%29", "Entropy", "Thermodynamic_temperature"]]

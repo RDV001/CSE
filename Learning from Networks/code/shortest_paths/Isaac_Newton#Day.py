@@ -1,0 +1,1 @@
+[["Isaac_Newton", "Mathematics", "Day"], ["Isaac_Newton", "Nicolaus_Copernicus", "Day"], ["Isaac_Newton", "Planet", "Day"]]

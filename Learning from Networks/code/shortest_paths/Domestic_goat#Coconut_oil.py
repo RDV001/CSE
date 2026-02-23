@@ -1,0 +1,1 @@
+[["Domestic_goat", "Butter", "Fatty_acid", "Coconut_oil"], ["Domestic_goat", "Cheese", "Fatty_acid", "Coconut_oil"], ["Domestic_goat", "Milk", "Fatty_acid", "Coconut_oil"], ["Domestic_goat", "Wine", "Fatty_acid", "Coconut_oil"], ["Domestic_goat", "French_language", "Dominica", "Coconut_oil"], ["Domestic_goat", "Soup", "Coconut", "Coconut_oil"]]

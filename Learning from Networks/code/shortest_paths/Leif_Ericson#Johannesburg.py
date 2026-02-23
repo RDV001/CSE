@@ -1,0 +1,1 @@
+[["Leif_Ericson", "Canada", "Second_Boer_War", "Johannesburg"], ["Leif_Ericson", "Minnesota", "New_York_City", "Johannesburg"], ["Leif_Ericson", "United_States", "New_York_City", "Johannesburg"], ["Leif_Ericson", "President_of_the_United_States", "Boeing_747", "Johannesburg"], ["Leif_Ericson", "United_States", "Elvis_Presley", "Johannesburg"]]

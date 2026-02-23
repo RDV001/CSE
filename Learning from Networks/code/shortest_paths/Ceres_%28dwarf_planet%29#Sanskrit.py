@@ -1,0 +1,1 @@
+[["Ceres_%28dwarf_planet%29", "Day", "Sanskrit"], ["Ceres_%28dwarf_planet%29", "Mars", "Sanskrit"]]

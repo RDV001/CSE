@@ -1,0 +1,1 @@
+[["Calcium_chloride", "Calcium", "List_of_elements_by_name", "Ununpentium"], ["Calcium_chloride", "Chlorine", "List_of_elements_by_name", "Ununpentium"], ["Calcium_chloride", "Sodium", "List_of_elements_by_name", "Ununpentium"], ["Calcium_chloride", "Calcium", "Periodic_table", "Ununpentium"], ["Calcium_chloride", "Chlorine", "Periodic_table", "Ununpentium"]]

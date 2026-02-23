@@ -1,0 +1,1 @@
+[["Natural_gas", "Africa", "Jazz", "Christina_Aguilera"], ["Natural_gas", "Argentina", "Jazz", "Christina_Aguilera"]]

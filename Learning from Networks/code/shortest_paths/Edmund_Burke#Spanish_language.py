@@ -1,0 +1,1 @@
+[["Edmund_Burke", "England", "Spanish_language"], ["Edmund_Burke", "English_language", "Spanish_language"], ["Edmund_Burke", "United_States", "Spanish_language"]]

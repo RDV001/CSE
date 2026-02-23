@@ -1,0 +1,1 @@
+[["Kofi_Annan", "Africa", "Culture"], ["Kofi_Annan", "Egypt", "Culture"]]

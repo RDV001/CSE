@@ -1,0 +1,1 @@
+[["Feather", "Clothing", "Africa", "African_Union"], ["Feather", "Theropoda", "Africa", "African_Union"], ["Feather", "Eagle", "French_language", "African_Union"], ["Feather", "Eagle", "Nigeria", "African_Union"]]

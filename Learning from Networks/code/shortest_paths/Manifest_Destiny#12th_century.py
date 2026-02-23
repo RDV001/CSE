@@ -1,0 +1,1 @@
+[["Manifest_Destiny", "19th_century", "12th_century"], ["Manifest_Destiny", "20th_century", "12th_century"]]

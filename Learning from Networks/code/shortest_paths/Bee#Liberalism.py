@@ -1,0 +1,1 @@
+[["Bee", "Agriculture", "Egypt", "Liberalism"], ["Bee", "Ant", "Mexico", "Liberalism"], ["Bee", "Antarctica", "Argentina", "Liberalism"], ["Bee", "Honey", "Argentina", "Liberalism"], ["Bee", "Antarctica", "Government", "Liberalism"], ["Bee", "Antarctica", "Russia", "Liberalism"]]

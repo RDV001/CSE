@@ -1,0 +1,1 @@
+[["Crimean_War", "Roman_Catholic_Church", "Art", "Abstract_art"], ["Crimean_War", "Saint_Petersburg", "Joseph_Stalin", "Abstract_art"]]

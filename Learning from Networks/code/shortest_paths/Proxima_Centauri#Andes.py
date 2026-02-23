@@ -1,0 +1,1 @@
+[["Proxima_Centauri", "Johannesburg", "Agriculture", "Andes"], ["Proxima_Centauri", "South_Africa", "Agriculture", "Andes"], ["Proxima_Centauri", "South_Africa", "Colombia", "Andes"], ["Proxima_Centauri", "South_Africa", "Snow", "Andes"], ["Proxima_Centauri", "Sun", "Inca_Empire", "Andes"], ["Proxima_Centauri", "Sun", "South_America", "Andes"]]

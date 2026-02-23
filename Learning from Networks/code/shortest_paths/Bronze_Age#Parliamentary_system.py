@@ -1,0 +1,1 @@
+[["Bronze_Age", "Egypt", "Parliamentary_system"], ["Bronze_Age", "Hungary", "Parliamentary_system"], ["Bronze_Age", "Norway", "Parliamentary_system"], ["Bronze_Age", "Sweden", "Parliamentary_system"], ["Bronze_Age", "Turkey", "Parliamentary_system"]]

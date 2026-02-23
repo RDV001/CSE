@@ -1,0 +1,1 @@
+[["George_VI_of_the_United_Kingdom", "Canada", "Hurricane_Katrina"], ["George_VI_of_the_United_Kingdom", "President_of_the_United_States", "Hurricane_Katrina"]]

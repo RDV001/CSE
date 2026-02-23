@@ -1,0 +1,1 @@
+[["Temple_of_Artemis", "18th_century", "Emanuel_Swedenborg", "Matter"], ["Temple_of_Artemis", "Moon", "Sun", "Matter"], ["Temple_of_Artemis", "Moon", "Venus", "Matter"]]

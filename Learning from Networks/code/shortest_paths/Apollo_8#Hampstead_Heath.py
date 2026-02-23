@@ -1,0 +1,1 @@
+[["Apollo_8", "BBC", "London", "Hampstead_Heath"], ["Apollo_8", "John_F._Kennedy", "London", "Hampstead_Heath"], ["Apollo_8", "New_York_City", "London", "Hampstead_Heath"], ["Apollo_8", "Paris", "London", "Hampstead_Heath"], ["Apollo_8", "Saturn_V", "London", "Hampstead_Heath"], ["Apollo_8", "BBC", "Newcastle_upon_Tyne", "Hampstead_Heath"]]

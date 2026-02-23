@@ -1,0 +1,1 @@
+[["Universe", "Earth", "Australia", "Adelaide"], ["Universe", "German_language", "Australia", "Adelaide"], ["Universe", "Speed_of_light", "Australia", "Adelaide"]]

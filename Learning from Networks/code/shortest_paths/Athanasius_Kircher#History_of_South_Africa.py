@@ -1,0 +1,1 @@
+[["Athanasius_Kircher", "Earth", "Afrikaans", "History_of_South_Africa"]]

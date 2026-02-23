@@ -1,0 +1,1 @@
+[["Aleksandr_Pushkin", "Drama", "Beijing", "Smog"], ["Aleksandr_Pushkin", "Russian_language", "Los_Angeles%2C_California", "Smog"]]

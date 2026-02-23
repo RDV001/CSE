@@ -1,0 +1,1 @@
+[["Meat", "Egg_%28food%29", "United_Kingdom", "The_Championships%2C_Wimbledon"], ["Meat", "Islam", "United_Kingdom", "The_Championships%2C_Wimbledon"], ["Meat", "Judaism", "United_Kingdom", "The_Championships%2C_Wimbledon"], ["Meat", "United_States", "United_Kingdom", "The_Championships%2C_Wimbledon"], ["Meat", "United_States", "Tennis", "The_Championships%2C_Wimbledon"]]

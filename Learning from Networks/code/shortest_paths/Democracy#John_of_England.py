@@ -1,0 +1,1 @@
+[["Democracy", "Magna_Carta", "John_of_England"], ["Democracy", "Oligarchy", "John_of_England"], ["Democracy", "United_States_Bill_of_Rights", "John_of_England"]]

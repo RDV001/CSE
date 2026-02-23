@@ -1,0 +1,1 @@
+[["Ulawun", "Papua_New_Guinea", "Roman_Catholic_Church", "Spanish_Inquisition"], ["Ulawun", "Volcano", "Spain", "Spanish_Inquisition"]]

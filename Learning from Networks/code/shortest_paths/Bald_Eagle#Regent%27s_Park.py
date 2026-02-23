@@ -1,0 +1,1 @@
+[["Bald_Eagle", "Atlantic_Ocean", "London", "Regent%27s_Park"], ["Bald_Eagle", "Benjamin_Franklin", "London", "Regent%27s_Park"], ["Bald_Eagle", "Ireland", "London", "Regent%27s_Park"], ["Bald_Eagle", "Paris", "London", "Regent%27s_Park"], ["Bald_Eagle", "Fish", "Aquarium", "Regent%27s_Park"]]

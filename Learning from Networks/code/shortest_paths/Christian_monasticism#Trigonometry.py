@@ -1,0 +1,1 @@
+[["Christian_monasticism", "Education", "Computer", "Trigonometry"], ["Christian_monasticism", "Syria", "Computer", "Trigonometry"], ["Christian_monasticism", "Education", "Mathematics", "Trigonometry"], ["Christian_monasticism", "Israel", "Mathematics", "Trigonometry"], ["Christian_monasticism", "Max_Weber", "Mathematics", "Trigonometry"]]

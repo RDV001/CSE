@@ -1,0 +1,1 @@
+[["Glasgow", "Biotechnology", "Latin_America"], ["Glasgow", "British_Empire", "Latin_America"], ["Glasgow", "Football_%28soccer%29", "Latin_America"], ["Glasgow", "Socialism", "Latin_America"], ["Glasgow", "Sugar", "Latin_America"], ["Glasgow", "United_States", "Latin_America"]]

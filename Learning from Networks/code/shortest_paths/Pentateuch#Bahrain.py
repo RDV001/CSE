@@ -1,0 +1,1 @@
+[["Pentateuch", "Christianity", "Middle_East", "Bahrain"], ["Pentateuch", "Christianity", "Sudan", "Bahrain"], ["Pentateuch", "Isaac", "Arabic_language", "Bahrain"]]

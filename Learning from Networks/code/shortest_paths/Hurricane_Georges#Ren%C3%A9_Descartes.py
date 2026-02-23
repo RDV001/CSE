@@ -1,0 +1,1 @@
+[["Hurricane_Georges", "Africa", "Netherlands", "Ren%C3%A9_Descartes"], ["Hurricane_Georges", "Atlantic_Ocean", "Netherlands", "Ren%C3%A9_Descartes"], ["Hurricane_Georges", "United_States", "Netherlands", "Ren%C3%A9_Descartes"]]

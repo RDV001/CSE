@@ -1,0 +1,1 @@
+[["Canola", "Agriculture", "Nitrogen", "Central_processing_unit"], ["Canola", "Biodiesel", "Carbon_dioxide", "Central_processing_unit"], ["Canola", "Fossil_fuel", "Carbon_dioxide", "Central_processing_unit"], ["Canola", "United_States", "Computer", "Central_processing_unit"]]

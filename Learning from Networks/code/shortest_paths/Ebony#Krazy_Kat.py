@@ -1,0 +1,1 @@
+[["Ebony", "16th_century", "John_Calvin", "Calvin_and_Hobbes", "Krazy_Kat"], ["Ebony", "Binomial_nomenclature", "Tyrannosaurus", "Calvin_and_Hobbes", "Krazy_Kat"], ["Ebony", "Ancient_Egypt", "Literature", "E._E._Cummings", "Krazy_Kat"], ["Ebony", "Paris", "Salvador_Dal%C3%AD", "Walt_Disney", "Krazy_Kat"]]

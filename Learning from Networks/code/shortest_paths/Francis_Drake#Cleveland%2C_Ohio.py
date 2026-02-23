@@ -1,0 +1,1 @@
+[["Francis_Drake", "England", "Queen_%28band%29", "Cleveland%2C_Ohio"], ["Francis_Drake", "England", "Russian_language", "Cleveland%2C_Ohio"], ["Francis_Drake", "England", "Tennis", "Cleveland%2C_Ohio"], ["Francis_Drake", "Sierra_Leone", "Tennis", "Cleveland%2C_Ohio"], ["Francis_Drake", "Spanish_Armada", "Tennis", "Cleveland%2C_Ohio"]]

@@ -1,0 +1,1 @@
+[["Oligarchy", "Polish-Lithuanian_Commonwealth", "Beer", "B_vitamins", "Pernicious_anemia"]]

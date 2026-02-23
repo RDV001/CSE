@@ -1,0 +1,1 @@
+[["Trojan_War", "Ancient_Greece", "Water", "Whale"], ["Trojan_War", "Apollo", "Dolphin", "Whale"], ["Trojan_War", "Egypt", "Indian_Ocean", "Whale"], ["Trojan_War", "Lisbon", "Atlantic_Ocean", "Whale"], ["Trojan_War", "Stingray", "Ocean", "Whale"], ["Trojan_War", "Swan", "Iceland", "Whale"], ["Trojan_War", "Swan", "Miocene", "Whale"], ["Trojan_War", "Swan", "Pliocene", "Whale"]]

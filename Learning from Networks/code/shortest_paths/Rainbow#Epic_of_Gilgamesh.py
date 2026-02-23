@@ -1,0 +1,1 @@
+[["Rainbow", "Greek_mythology", "Odyssey", "Epic_of_Gilgamesh"], ["Rainbow", "Peru", "Asia", "Epic_of_Gilgamesh"], ["Rainbow", "Water", "Asia", "Epic_of_Gilgamesh"], ["Rainbow", "Peru", "Poetry", "Epic_of_Gilgamesh"], ["Rainbow", "Water", "Lebanon", "Epic_of_Gilgamesh"], ["Rainbow", "Water", "Literature", "Epic_of_Gilgamesh"]]

@@ -1,0 +1,1 @@
+[["Monaco", "Ancient_Greece", "Renaissance"], ["Monaco", "European_Union", "Renaissance"], ["Monaco", "Italy", "Renaissance"], ["Monaco", "Principality", "Renaissance"]]

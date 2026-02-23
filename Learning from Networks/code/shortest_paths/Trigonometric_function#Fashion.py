@@ -1,0 +1,1 @@
+[["Trigonometric_function", "American_English", "New_York_City", "Fashion"], ["Trigonometric_function", "British_English", "London", "Fashion"], ["Trigonometric_function", "Mathematical_analysis", "20th_century", "Fashion"]]

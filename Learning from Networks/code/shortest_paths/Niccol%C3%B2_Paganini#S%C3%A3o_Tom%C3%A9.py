@@ -1,0 +1,1 @@
+[["Niccol%C3%B2_Paganini", "Genoa", "Africa", "S%C3%A3o_Tom%C3%A9"], ["Niccol%C3%B2_Paganini", "Paris", "Africa", "S%C3%A3o_Tom%C3%A9"], ["Niccol%C3%B2_Paganini", "Roman_Catholic_Church", "Africa", "S%C3%A3o_Tom%C3%A9"]]

@@ -1,0 +1,1 @@
+[["Paleontology", "18th_century", "21st_century", "Pope_John_Paul_II"], ["Paleontology", "Charles_Darwin", "Anglicanism", "Pope_John_Paul_II"], ["Paleontology", "Petroleum", "Nigeria", "Pope_John_Paul_II"], ["Paleontology", "Petroleum", "Poland", "Pope_John_Paul_II"]]

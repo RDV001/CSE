@@ -1,0 +1,1 @@
+[["Cobalt", "Azerbaijan", "15th_century", "Joan_of_Arc"], ["Cobalt", "Kazakhstan", "15th_century", "Joan_of_Arc"]]

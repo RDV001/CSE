@@ -1,0 +1,1 @@
+[["Avacha_Volcano", "Earthquake", "Africa", "Tripoli"], ["Avacha_Volcano", "United_Nations", "Africa", "Tripoli"]]

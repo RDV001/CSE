@@ -1,0 +1,1 @@
+[["Egyptian_pyramids", "Ancient_Egypt", "Agriculture", "Fertile_Crescent"], ["Egyptian_pyramids", "Archaeology", "Agriculture", "Fertile_Crescent"], ["Egyptian_pyramids", "Ancient_Egypt", "Currency", "Fertile_Crescent"], ["Egyptian_pyramids", "Archaeology", "Middle_East", "Fertile_Crescent"], ["Egyptian_pyramids", "Cairo", "Middle_East", "Fertile_Crescent"]]

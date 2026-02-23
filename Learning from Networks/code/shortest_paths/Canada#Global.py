@@ -1,0 +1,1 @@
+[["Canada", "Petroleum", "Wind", "Global"]]

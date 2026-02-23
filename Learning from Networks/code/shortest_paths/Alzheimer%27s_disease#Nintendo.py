@@ -1,0 +1,1 @@
+[["Alzheimer%27s_disease", "Aluminium", "Screw", "Nintendo"], ["Alzheimer%27s_disease", "Chess", "Japan", "Nintendo"], ["Alzheimer%27s_disease", "Ronald_Reagan", "Japan", "Nintendo"], ["Alzheimer%27s_disease", "Copper", "Alchemy", "Nintendo"], ["Alzheimer%27s_disease", "Ronald_Reagan", "Nintendo_Entertainment_System", "Nintendo"]]

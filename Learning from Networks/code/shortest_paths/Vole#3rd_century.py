@@ -1,0 +1,1 @@
+[["Vole", "Africa", "Ancient_Greece", "3rd_century"], ["Vole", "Europe", "Ancient_Greece", "3rd_century"], ["Vole", "Asia", "Homer", "3rd_century"], ["Vole", "Europe", "Homer", "3rd_century"], ["Vole", "Europe", "18th_century", "3rd_century"], ["Vole", "Mammal", "20th_century", "3rd_century"], ["Vole", "Star_Trek__Deep_Space_Nine", "Novel", "3rd_century"]]

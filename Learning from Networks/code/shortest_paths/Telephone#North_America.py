@@ -1,0 +1,1 @@
+[["Telephone", "Internet", "North_America"], ["Telephone", "Japan", "North_America"], ["Telephone", "New_York_City", "North_America"], ["Telephone", "Telecommunication", "North_America"], ["Telephone", "United_States", "North_America"]]

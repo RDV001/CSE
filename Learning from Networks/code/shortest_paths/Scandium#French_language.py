@@ -1,0 +1,1 @@
+[["Scandium", "Carbon", "French_language"], ["Scandium", "Earth", "French_language"], ["Scandium", "Latin", "French_language"], ["Scandium", "Madagascar", "French_language"], ["Scandium", "Nitrogen", "French_language"], ["Scandium", "United_States", "French_language"]]

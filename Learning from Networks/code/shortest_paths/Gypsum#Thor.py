@@ -1,0 +1,1 @@
+[["Gypsum", "Asia", "Earth", "Thor"], ["Gypsum", "Calcium", "Earth", "Thor"], ["Gypsum", "Permian", "Earth", "Thor"], ["Gypsum", "Volcano", "Earth", "Thor"], ["Gypsum", "Calcium", "Thorium", "Thor"], ["Gypsum", "England", "Tower_of_London", "Thor"]]

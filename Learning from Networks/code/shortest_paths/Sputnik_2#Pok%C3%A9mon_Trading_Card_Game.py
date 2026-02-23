@@ -1,0 +1,1 @@
+[["Sputnik_2", "Laika", "Doctor_Who", "Card_game", "Pok%C3%A9mon_Trading_Card_Game"]]
